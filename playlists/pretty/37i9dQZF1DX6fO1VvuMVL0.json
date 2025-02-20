@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 97181,
+  "num_followers": 97246,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "West Coast Live",
-        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 727266,
-      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
-      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "West Coast Live",
+        "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 727266,
+      "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
+      "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Jazz Guitar",
         "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 356133,
       "name": "Walkin' Out Blues",
       "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -831,22 +831,6 @@
       "duration_ms": 598026,
       "name": "Afternoon in Paris",
       "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
         "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 256133,
       "name": "Quintessence - Remastered",
       "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Tangents In Jazz",
-        "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
       "artists": [
         {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 253413,
-      "name": "Lazy Tones",
-      "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1111,6 +1095,38 @@
       "duration_ms": 366173,
       "name": "Nancy",
       "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Tangents In Jazz",
+        "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Lazy Tones",
+      "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1147,6 +1163,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Very Cool + Tranquillity",
+        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 486040,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Jazz At Oberlin (OJC Remaster)",
         "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
       },
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/2lM0Tamy6fq04pPCcPOZ8B"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 306200,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/4KGcpnAbGlvVgd2HFQvexI"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Very Cool + Tranquillity",
-        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 486040,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
     },
     {
       "added_at": "2024-07-08 07:01:17",

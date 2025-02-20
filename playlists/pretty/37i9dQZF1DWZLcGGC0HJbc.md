@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,372 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,646 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 13 | [Enough](https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Enough](https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat) | 2:52 |
 | 14 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
 | 15 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 |
-| 16 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
+| 16 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 17 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 |
 | 18 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 |
-| 19 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 20 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
+| 19 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
+| 20 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 | 21 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 22 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 23 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 33 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
 | 34 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
 | 35 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
-| 36 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
-| 37 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 |
+| 36 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 |
+| 37 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
 | 38 | [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 |
 | 39 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 |
-| 40 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 |
-| 41 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 |
-| 42 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 |
-| 43 | [This House](https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [This House](https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW) | 2:39 |
+| 40 | [This House](https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [This House](https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW) | 2:39 |
+| 41 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 |
+| 42 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
+| 43 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 |
 | 44 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 |
 | 45 | [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 |
-| 46 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
-| 47 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 |
-| 48 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
-| 49 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 |
+| 46 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 |
+| 47 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
+| 48 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 |
+| 49 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 |
 | 50 | [Ceiling Stars](https://open.spotify.com/track/1oYhmvMDaObdrBG3USn3Mw) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:22 |
 
 Snapshot ID: `Z655iAAAAAAbGzMHEMYg6BZzKLvo57Zx`

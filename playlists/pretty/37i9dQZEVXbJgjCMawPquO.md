@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Sin Tu Amor](https://open.spotify.com/track/42b0KMmRgqmJz7kgYWfekW) | [La Mega Orquesta Del Don Equis](https://open.spotify.com/artist/5LdwbDYKGeNh0u8nvaYb4t) | [Sin Tu Amor](https://open.spotify.com/album/1tAel8DQVmWxLwXsg6tEhk) | 2:34 |
 | 50 | [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 |
 
-Snapshot ID: `L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L0lGyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

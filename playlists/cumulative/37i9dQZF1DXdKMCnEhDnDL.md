@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-326 songs - 16 hr 51 min
+327 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 | 2024-02-16 |
 | [Achterop](https://open.spotify.com/track/5JtmyVfB56KjesfcJlIQAA) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Achterop](https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT) | 2:40 | 2023-02-24 | 2023-11-11 |
 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 | 2023-12-07 | 2024-06-21 |
+| [ADEMEN](https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [ADEMEN](https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP) | 2:51 | 2025-02-19 |  |
 | [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2023-02-24 | 2024-03-20 |
 | [Afraid Of The Dark](https://open.spotify.com/track/2vSLSJH9lHKne3zUKYBVPI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Afraid Of The Dark](https://open.spotify.com/album/22lCTEPNIuOwVR4p1sp9py) | 3:08 | 2023-02-24 | 2023-12-11 |
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2024-02-13 |  |
@@ -101,7 +102,7 @@
 | [Gebruik Me](https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Gebruik Me](https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y) | 3:24 | 2023-02-24 | 2023-04-15 |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-24 | 2023-10-05 |
 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 | 2023-07-06 | 2024-02-03 |
-| [Geef Me Het Leven](https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Het Leven](https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk) | 3:15 | 2024-07-09 |  |
+| [Geef Me Het Leven](https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Het Leven](https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk) | 3:15 | 2024-07-09 | 2025-02-20 |
 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 | 2024-02-13 | 2024-09-13 |
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-06-27 | 2024-10-11 |
 | [Goed Nieuws](https://open.spotify.com/track/1vgmxBkeohK0MZs2nZjuOy) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 3:43 | 2023-08-29 | 2023-10-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Their unstoppable attraction continues to grow...Listen to the official playlist for Culpa Mia and Culpa Tuya, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,205 likes - 37 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,282 likes - 37 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 17 | [Con Los Nudillos](https://open.spotify.com/track/7yrbIk2guPk6fGoy9oOD22) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Con Los Nudillos](https://open.spotify.com/album/3dCNCYpXb0oKR7op1iHKs8) | 2:56 |
 | 18 | [Dynamite](https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:51 |
 | 19 | [Ahora Que Puedo \(from the Prime Video Original Movie CULPA MIA\)](https://open.spotify.com/track/77wog1cw1fHfhE2iBRkahN) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Ahora Que Puedo \(from the Prime Video Original Movie CULPA MIA\)](https://open.spotify.com/album/0E3qYoHJbpR5CAEQ0RpoS1) | 4:28 |
-| 20 | [Me quiero ir](https://open.spotify.com/track/4DlHu6t9JZVvbvYtEoe6PN) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 3:05 |
+| 20 | [Me quiero ir](https://open.spotify.com/track/4DlHu6t9JZVvbvYtEoe6PN) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 3:05 |
 | 21 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 |
 | 22 | [Strange Effect \(Killing Eve\)](https://open.spotify.com/track/2jiozkiIJZvTYEz58j6UFh) | [Unloved](https://open.spotify.com/artist/5SOsxafkLy6a7mUyPp0ETK), [Raven Violet](https://open.spotify.com/artist/2BxiZQw7FwvA6xYVBhPZun) | [Strange Effect \(Killing Eve\)](https://open.spotify.com/album/7mG466vIvXA7CtGMi8Z6Rh) | 2:41 |
 | 23 | [Sacúdete](https://open.spotify.com/track/4GsmrjLdnfsgkbV8pmRgdw) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/2OakpM5ZzFtokfU9xH8gzm) | 2:02 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 36 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 |
 | 37 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 |
 
-Snapshot ID: `Z4hsHAAAAAAH6uFz0Ileq/7zzE4+zkgP`
+Snapshot ID: `Z4hsHAAAAADqZZfCExIQzsnaV4PUmbRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Katie Tupper
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,710 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,762 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [superstar loser](https://open.spotify.com/track/4eVzhh0Ebb3epXyuhKfGTx) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/44OdCi96s0fPvjDCrFdJ1Q) | 2:54 |
 | 40 | [Dishonest](https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Dishonest](https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN) | 3:08 |
 
-Snapshot ID: `Z6WTfQAAAADcE2zHkx8Rmb0vXC8T+itm`
+Snapshot ID: `Z6WTfQAAAACzJjCEkTemINbFBolfO1PQ`

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 362853,
+  "num_followers": 362912,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "S\u00f3 Pra Brilhar",
         "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Enquanto Houver",
-        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
       "artists": [
         {
-          "name": "Walace Fonseca",
-          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
-        },
-        {
-          "name": "Bruno Harry",
-          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
         }
       ],
-      "duration_ms": 180481,
-      "name": "Enquanto Houver",
-      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1079,6 +1059,22 @@
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     }
   ],
   "unique_name": "Praiana",

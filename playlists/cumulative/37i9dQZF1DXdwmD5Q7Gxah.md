@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Mei Semones
 
-3,188 songs - 7 day 5 hr 15 min
+3,189 songs - 7 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2082,6 +2082,7 @@
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-13 | 2022-03-11 |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-07 | 2022-08-20 |
 | [Party](https://open.spotify.com/track/2lqs2A1sE84bJN9VAZ1F8u) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol\. 2](https://open.spotify.com/album/1WJPqK5rKyN46lU1CahbsU) | 2:12 | 2020-08-30 | 2020-09-12 |
+| [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-19 |  |
 | [party favor](https://open.spotify.com/track/5JqpiYu1HWojAWs2pxOV5W) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/07WV4Vf6503k6K1yGNWG8X) | 3:24 | 2020-05-12 | 2020-08-20 |
 | [Passing Judgment](https://open.spotify.com/track/64y0eRiwoQlhA9wHFyQECH) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 3:58 | 2024-06-28 | 2024-07-27 |
 | [Pastel Pink](https://open.spotify.com/track/3c6r6nNtFafOwLMuR2AyB5) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Pastel Pink](https://open.spotify.com/album/6wfGYKmQCCXUZpJXeoCVN6) | 3:18 | 2020-03-18 | 2020-05-07 |

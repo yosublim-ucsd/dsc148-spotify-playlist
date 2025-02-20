@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,277 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,415 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 41 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
 | 42 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
-| 43 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
-| 44 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
+| 43 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
+| 44 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
 | 45 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
 | 46 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 |
 | 47 | [Volevi Una Hit \- Extended Version](https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V) | [Cristalli Liquidi](https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D) | [Volevi Una Hit](https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg) | 5:28 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 57 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
 | 58 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
 | 59 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
-| 60 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
-| 61 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
+| 60 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
+| 61 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 62 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
 | 63 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 64 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 629279,
+  "num_followers": 629398,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -1315,42 +1331,6 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1391,6 +1371,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
       },
@@ -1403,6 +1403,42 @@
       "duration_ms": 225488,
       "name": "Pump",
       "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1427,18 +1463,42 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
       },
       "artists": [
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
         }
       ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Wile Out (feat. Surya Sen)",
+        "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "duration_ms": 195143,
+      "name": "Wile Out (feat. Surya Sen)",
+      "url": "https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1467,46 +1527,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "How Do You Love? (feat. Mougleta)",
-      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "You Take Me Higher",
         "url": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 187142,
       "name": "You Take Me Higher",
       "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Wile Out (feat. Surya Sen)",
-        "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        },
-        {
-          "name": "Surya Sen",
-          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
-        }
-      ],
-      "duration_ms": 195143,
-      "name": "Wile Out (feat. Surya Sen)",
-      "url": "https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "PASSION",
-        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        },
-        {
-          "name": "Guy Mac",
-          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "PASSION",
-      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
       },
@@ -1971,6 +1951,46 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "PASSION",
+        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Guy Mac",
+          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "PASSION",
+      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Locomotiva Ibiza 2099 I",
+        "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Locomotiva Ibiza 2099 feat. VTSS",
+      "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "The Cure (feat. Chloe Paige)",
         "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
       },
@@ -1995,42 +2015,30 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Sunday Shoutin' (TSHA Remix)",
-        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
+        "name": "Sex & The City (MK Remix)",
+        "url": "https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e"
       },
       "artists": [
         {
-          "name": "Johnny Corporate",
-          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
         },
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 216622,
-      "name": "Sunday Shoutin' - TSHA Remix",
-      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Locomotiva Ibiza 2099 I",
-        "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
         },
         {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+          "name": "Paul Johnson",
+          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 399360,
-      "name": "Locomotiva Ibiza 2099 feat. VTSS",
-      "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
+      "duration_ms": 187142,
+      "name": "Sex & The City - MK Remix",
+      "url": "https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt"
     }
   ],
   "unique_name": "Ibiza 2024",

@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 200854,
+  "num_followers": 200966,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-02-15 05:04:10",
       "album": {
-        "name": "Do You Know",
-        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Do You Know",
-      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
-    },
-    {
-      "added_at": "2025-02-15 05:04:10",
-      "album": {
         "name": "Advisory",
         "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 164133,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
+    },
+    {
+      "added_at": "2025-02-15 05:04:10",
+      "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
     {
       "added_at": "2025-02-15 05:04:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-15 05:04:10",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Gulabi Pagg",
-      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
-    },
-    {
-      "added_at": "2025-02-15 05:04:10",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 167731,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/2CHMiZynW2WhXSizjcs9R5"
+    },
+    {
+      "added_at": "2025-02-15 05:04:10",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Gulabi Pagg",
+      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
     },
     {
       "added_at": "2025-02-15 05:04:10",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-02-15 05:04:10",
       "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 190005,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
-    },
-    {
-      "added_at": "2025-02-15 05:04:10",
-      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 205333,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
+    },
+    {
+      "added_at": "2025-02-15 05:04:10",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 190005,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
     },
     {
       "added_at": "2025-02-15 05:04:10",

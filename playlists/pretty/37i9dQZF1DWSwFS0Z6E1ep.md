@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,638 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,699 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 14 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 |
 | 15 | [A Teenager In Love](https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:38 |
 | 16 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 |
-| 17 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
-| 18 | [Mack the Knife](https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 3:04 |
+| 17 | [Mack the Knife](https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 3:04 |
+| 18 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
 | 19 | [You Make Me Feel So Young \- Remastered 1998](https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:57 |
 | 20 | [Hallelujah, I Love Her So](https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:35 |
 | 21 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
@@ -107,11 +107,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 97 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
 | 98 | [Hey Baby Doll](https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly 50](https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx) | 1:57 |
 | 99 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
-| 100 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
-| 101 | [The Hucklebuck](https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [The Rhythm and The Blues\- Sun Records](https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR) | 3:08 |
-| 102 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
-| 103 | [Just In Time \- Remastered 1998](https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 2:14 |
-| 104 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
+| 100 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
+| 101 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
+| 102 | [The Hucklebuck](https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [The Rhythm and The Blues\- Sun Records](https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR) | 3:08 |
+| 103 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
+| 104 | [Just In Time \- Remastered 1998](https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 2:14 |
 | 105 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
 | 106 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
 | 107 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |

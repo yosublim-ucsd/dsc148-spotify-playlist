@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,490 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,501 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 89 | [When I Looked Up](https://open.spotify.com/track/0wM8ra8O540qHZZdMiPJGV) | [Holy Gather](https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR) | [When I Looked Up](https://open.spotify.com/album/49QqCs9pocCe9QphNi5r1g) | 2:44 |
 | 90 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:58 |
 
-Snapshot ID: `Z6/EjgAAAAABGrvyYmGeGCDaCl5HL1Ks`
+Snapshot ID: `Z6/EjgAAAACwLjhObW8XvvAaKsxhIefx`

@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 26836,
+  "num_followers": 26860,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,18 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
       "artists": [
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+      "duration_ms": 294500,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -531,18 +523,26 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
       "artists": [
         {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 294500,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
-      },
-      "artists": [
-        {
-          "name": "Ayzak Ewan",
-          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
-        }
-      ],
-      "duration_ms": 231878,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
+      },
+      "artists": [
+        {
+          "name": "Ayzak Ewan",
+          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
+        }
+      ],
+      "duration_ms": 231878,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Poquitito de T\u00e9",
-        "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 204919,
-      "name": "Poquitito de T\u00e9",
-      "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
         "name": "donde van los perros",
         "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 124365,
       "name": "yo as\u00ed",
       "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Poquitito de T\u00e9",
+        "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 204919,
+      "name": "Poquitito de T\u00e9",
+      "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
       },
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
         "name": "Veintitr\u00e9s",
         "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
         "name": "Entre Los Dos",
         "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 215791,
       "name": "Entre Los Dos",
       "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1467,22 +1483,6 @@
       "duration_ms": 200613,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2025-01-24 05:00:42",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-01-24 05:00:42",
       "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
-    },
-    {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
         "name": "hasta viejitos",
         "url": "https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 244660,
       "name": "hasta viejitos",
       "url": "https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn"
+    },
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2025-01-24 05:00:42",

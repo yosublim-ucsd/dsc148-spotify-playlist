@@ -11884,7 +11884,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 204032,
       "name": "One-Third",
       "url": "https://open.spotify.com/track/20QO4jdEw5JTALOExipks7"
@@ -31404,6 +31404,24 @@
       "duration_ms": 320040,
       "name": "\u602a\u7269\u305f\u3061\u3088",
       "url": "https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f"
+    },
+    {
+      "album": {
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
     },
     {
       "album": {

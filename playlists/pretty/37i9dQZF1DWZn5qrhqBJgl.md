@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,740 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,777 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 25 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
 | 26 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
 | 27 | [Groovly](https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Groovly](https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E) | 3:34 |
-| 28 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
-| 29 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
-| 30 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
+| 28 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 29 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
+| 30 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
 | 31 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
 | 32 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
 | 33 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |

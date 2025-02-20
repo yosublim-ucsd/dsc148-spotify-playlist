@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : kwn x Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,574 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,588 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 7 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
 | 8 | [Back and Forth](https://open.spotify.com/track/25TCMpyYN5FFaPxqtl9rWt) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Back and Forth](https://open.spotify.com/album/7ibaRhx6ot2BGp9PQKZjWH) | 2:04 |
 | 9 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
-| 10 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 |
-| 11 | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 |
+| 10 | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 |
+| 11 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 |
 | 12 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
 | 13 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 14 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 |
 | 50 | [Fly Away](https://open.spotify.com/track/4grkvWujQOQCFLusWITIdF) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Fly Away](https://open.spotify.com/album/0FxEbAdMJEpYATTXAr6ZtG) | 3:18 |
 
-Snapshot ID: `Z655fgAAAADpSzZyiSeQPFuR/bLpx9NW`
+Snapshot ID: `Z7Y2YgAAAAA1G6tjxT7CMjfUX2n1wTuT`

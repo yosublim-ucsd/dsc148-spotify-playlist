@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,853 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,912 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 48 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 | 49 | [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 |
 | 50 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 |
-| 51 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
-| 52 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
+| 51 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
+| 52 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
 | 53 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
 | 54 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi), [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
 | 55 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 56 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
-| 57 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
-| 58 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
-| 59 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
-| 60 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
+| 57 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
+| 58 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
+| 59 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
+| 60 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
 
 Snapshot ID: `Z4CNSgAAAAA6SLXcA9Yv3G6aNvjRodrZ`

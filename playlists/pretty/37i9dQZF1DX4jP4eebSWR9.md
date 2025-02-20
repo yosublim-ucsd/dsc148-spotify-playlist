@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: badchieff
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,602,124 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,602,171 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 10 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 11 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 |
 | 12 | [Das Leben ruft](https://open.spotify.com/track/4tOCLn5F0GHaPl4p9RPQAb) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Das Leben ruft](https://open.spotify.com/album/4FcnAk8XMzv1OyykKl3HQS) | 2:05 |
-| 13 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
+| 13 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
 | 14 | [WENN DU DUMM BiST](https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [WENN DU DUMM BiST](https://open.spotify.com/album/2vh0CBECdbufukqBXpT9fP) | 2:43 |
 | 15 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
 | 16 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 49 | [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/0kNVaaf3tP7xq74JG2iHo2) | 2:51 |
 | 50 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 
-Snapshot ID: `Z7Sj8AAAAAA6qkqWCcNiPNx/9qgNU2Zj`
+Snapshot ID: `Z7Sj8AAAAADj1xLXfUTvi1XmFQTW/H0K`

@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-139 songs - 7 hr 45 min
+140 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Sainted Millions](https://open.spotify.com/track/7LmBfdrRNRZrDnEICN8AjX) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sainted Millions](https://open.spotify.com/album/1EJ0Kd7zPTP12eetg4W1tI) | 3:35 | 2022-03-18 | 2022-07-29 |
 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 | 2022-03-18 |  |
 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 | 2024-02-06 |  |
-| [Selfish Man](https://open.spotify.com/track/2cfAdgkeebxKImAFOekwde) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:54 | 2024-02-06 |  |
+| [Selfish Man](https://open.spotify.com/track/2cfAdgkeebxKImAFOekwde) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:54 | 2024-02-06 | 2025-02-20 |
 | [Seven Deadly Sins](https://open.spotify.com/track/0Zaj8UBGB5AfwRfnr29gjD) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within A Mile Of Home](https://open.spotify.com/album/3dTWUxyDbFbPIxYe8CDSZC) | 2:50 | 2022-03-18 | 2022-07-29 |
 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 | 2022-03-18 | 2024-04-19 |
 | [Seven Deadly Sins](https://open.spotify.com/track/7DpMB4j8Ye6PGU6owqQmfm) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/1YkpNe3f9MctcZSMoGz1ah) | 2:50 | 2022-03-18 | 2022-07-30 |
@@ -118,6 +118,7 @@
 | [The Foreman O’Rourke](https://open.spotify.com/track/2godnUpDSagEKzc14Ooqhl) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/76r4vFOptCvDT6rcZ749MO) | 4:31 | 2022-03-18 | 2022-07-29 |
 | [The Gipsy Dancer](https://open.spotify.com/track/6xpzEfi8vmrIQBgB2cvacW) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [The Gipsy Dancer](https://open.spotify.com/album/4a94PhrTzFNdeZWWl8A7CH) | 2:49 | 2022-03-18 | 2022-07-29 |
 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 | 2022-03-18 | 2024-04-19 |
+| [The Hand Of John L\. Sullivan](https://open.spotify.com/track/7aR0tgI3ijJ4qQlKglowYO) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Life Is Good](https://open.spotify.com/album/7wxpajBgcfiRwooT3JvYwH) | 4:00 | 2024-02-06 |  |
 | [The Rocky Road to Dublin](https://open.spotify.com/track/3x4exVFOQeIva1LTxjtwDc) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On a Fine Spring Evening](https://open.spotify.com/album/4IpjRyghZWy3TSq5Z4LSYo) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 | 2022-03-18 | 2024-04-19 |
 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 | 2022-03-18 |  |

@@ -12823,6 +12823,24 @@
     },
     {
       "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv"
+    },
+    {
+      "album": {
         "name": "Je m'amoure de cette sensation",
         "url": "https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8"
       },

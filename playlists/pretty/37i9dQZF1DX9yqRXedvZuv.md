@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 42 | [No Ties \- Amapiano Remix](https://open.spotify.com/track/0N3SdZTNhp0gZDCoZgiYNH) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [No Ties \(Amapiano Remix\)](https://open.spotify.com/album/2S7i4HxGQBN9okVs3Po1Gy) | 5:42 |
 | 43 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
 | 44 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 |
-| 45 | [Cartoon](https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mo Thugs Records Presents: West Coast Bangers, Vol\. 2](https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV) | 6:38 |
-| 46 | [Yes Sir](https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 4:08 |
+| 45 | [Yes Sir](https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 4:08 |
+| 46 | [Cartoon](https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mo Thugs Records Presents: West Coast Bangers, Vol\. 2](https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV) | 6:38 |
 | 47 | [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 |
 | 48 | [proud](https://open.spotify.com/track/7s2LDcpMI32Dy7jqJXanIm) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [proud](https://open.spotify.com/album/4bjKxCXgkALEfVAJSE06OQ) | 2:38 |
 | 49 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |

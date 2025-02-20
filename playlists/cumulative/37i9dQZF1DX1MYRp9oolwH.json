@@ -1577,13 +1577,35 @@
     },
     {
       "album": {
+        "name": "Hey Jingili (From \"Dilruba\")",
+        "url": "https://open.spotify.com/album/6xi2iYTR3UGuHtfpm8ZBal"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232875,
+      "name": "Hey Jingili (From \"Dilruba\")",
+      "url": "https://open.spotify.com/track/2PEdtBu2bsmYXB3fPyCSZI"
+    },
+    {
+      "album": {
         "name": "Hey Madhumathi [From \"Lyf (Love Your Father)\"]",
         "url": "https://open.spotify.com/album/56by9KylbCbSVrGXiC7fl3"
       },
       "artists": [
         {
-          "name": "Rohith",
-          "url": "https://open.spotify.com/artist/2Pzv1D6O6B5tWIWkae3G6V"
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
         },
         {
           "name": "Mani Sharma",
@@ -3506,7 +3528,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 299109,
       "name": "Nandanandanaa (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi"
@@ -4843,6 +4865,32 @@
     },
     {
       "album": {
+        "name": "Pillaa (From \"Jaabilamma Neeku Antha Kopama\")",
+        "url": "https://open.spotify.com/album/3TJOC2y5hVRaEZbZWrNQC8"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rambabu Gosala",
+          "url": "https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Pillaa (From \"Jaabilamma Neeku Antha Kopama\")",
+      "url": "https://open.spotify.com/track/0LNcW03pFU5bfo5JONhZfz"
+    },
+    {
+      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/6xbRmSFTVnBGyzozSIedut"
       },
@@ -4992,6 +5040,32 @@
       "duration_ms": 292477,
       "name": "Prema (From \"Joruga Hushaaruga Shikaaru Podhama\")",
       "url": "https://open.spotify.com/track/35gnkIq6ZHIviZCimfaWBN"
+    },
+    {
+      "album": {
+        "name": "Prema Failai Poyera (From \"Jaabilamma Neeku Antha Kopama\")",
+        "url": "https://open.spotify.com/album/3UPN4UxC69AKtnZ3usqmKC"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rambabu Gosala",
+          "url": "https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "Prema Failai Poyera (From \"Jaabilamma Neeku Antha Kopama\")",
+      "url": "https://open.spotify.com/track/27jU1pvol3JgyordyyeO69"
     },
     {
       "album": {
@@ -5720,7 +5794,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 241071,
       "name": "Teliyadhe",
       "url": "https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W"
@@ -6102,7 +6176,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 201600,
       "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
       "url": "https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m"

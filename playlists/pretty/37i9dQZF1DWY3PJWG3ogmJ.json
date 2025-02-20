@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 683034,
+  "num_followers": 683138,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc"
     },
     {
-      "added_at": "2024-07-19 10:55:24",
-      "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Perseverance",
@@ -323,6 +307,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2024-07-19 10:55:24",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Our Time Is Now",
         "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Destroy Everything",
-      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Inked in Blood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
       "artists": [
         {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 254118,
-      "name": "Visions in My Head",
-      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
+        "name": "Inked in Blood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
         }
       ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+      "duration_ms": 254118,
+      "name": "Visions in My Head",
+      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Posthuman",
         "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 271917,
       "name": "Return To Cold",
       "url": "https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Silvera",
-        "url": "https://open.spotify.com/album/2XNTiesU16xyjXoCEYrfzX"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Silvera",
-      "url": "https://open.spotify.com/track/6TubvpDV05llddNR8d2JNP"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Silvera",
+        "url": "https://open.spotify.com/album/2XNTiesU16xyjXoCEYrfzX"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Silvera",
+      "url": "https://open.spotify.com/track/6TubvpDV05llddNR8d2JNP"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
     },
     {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "No Brother, No Friend",
+        "url": "https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI"
+      },
+      "artists": [
+        {
+          "name": "Justice For The Damned",
+          "url": "https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8"
+        }
+      ],
+      "duration_ms": 211807,
+      "name": "No Brother, No Friend",
+      "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
+    },
+    {
       "added_at": "2024-07-19 14:07:01",
       "album": {
         "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
@@ -1719,22 +1735,6 @@
       "duration_ms": 212480,
       "name": "Exit Signs",
       "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "No Brother, No Friend",
-        "url": "https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI"
-      },
-      "artists": [
-        {
-          "name": "Justice For The Damned",
-          "url": "https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8"
-        }
-      ],
-      "duration_ms": 211807,
-      "name": "No Brother, No Friend",
-      "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "A Colossal Wreck // Desperate Pleasures",
+        "url": "https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 148226,
+      "name": "A Colossal Wreck",
+      "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "The Outlaw",
         "url": "https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "A Colossal Wreck // Desperate Pleasures",
-        "url": "https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 148226,
-      "name": "A Colossal Wreck",
-      "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "No Rest No Peace",
         "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
       },
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "ManiaCult",
-        "url": "https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir"
-      },
-      "artists": [
-        {
-          "name": "Aborted",
-          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "ManiaCult",
-      "url": "https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Army of Cops",
         "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 198333,
       "name": "Army of Cops",
       "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "ManiaCult",
+        "url": "https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir"
+      },
+      "artists": [
+        {
+          "name": "Aborted",
+          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "ManiaCult",
+      "url": "https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn"
     },
     {
       "added_at": "2023-01-18 15:54:17",

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,211 songs - 3 day 7 hr 53 min
+1,212 songs - 3 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 | 2023-11-18 |
 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 | 2023-11-02 |
 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 | 2023-10-19 | 2025-01-29 |
-| [Ride on shooting star](https://open.spotify.com/track/40noxDIF8DGi3m7dBeikzo) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [Fool on the planet](https://open.spotify.com/album/430pNVzkDDNcen9TRYPEGL) | 2:22 | 2025-02-03 |  |
+| [Ride on shooting star](https://open.spotify.com/track/40noxDIF8DGi3m7dBeikzo) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [Fool on the planet](https://open.spotify.com/album/430pNVzkDDNcen9TRYPEGL) | 2:22 | 2025-02-03 | 2025-02-20 |
 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 | 2023-04-26 |
 | [Ring Em Up](https://open.spotify.com/track/7hCeKuxSSVEQ8qvisUXcnR) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Ring Em Up](https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O) | 3:03 | 2022-11-19 | 2022-11-23 |
@@ -638,7 +638,7 @@
 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:55 | 2023-02-21 | 2023-05-01 |
 | [TiDE](https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [TiDE](https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI) | 4:46 | 2022-05-12 | 2022-07-23 |
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |
-| [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 | 2024-04-23 |  |
+| [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 | 2024-04-23 | 2025-02-20 |
 | [tokoshie no karuma](https://open.spotify.com/track/47tjvNVA09DT1ohm6TV0Rg) | [Yosuke Momono](https://open.spotify.com/artist/1PXv2H1NFL0ewckEEpDApg) | [tokoshie no karuma](https://open.spotify.com/album/6NQFOmy3wMh3lE7uZlUN7U) | 3:41 | 2023-02-07 | 2023-02-15 |
 | [TOKYO JUNK](https://open.spotify.com/track/4TkxPdrF8grkUitAxLRXCs) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:43 | 2023-03-21 | 2023-03-29 |
 | [TOKYO JUNK](https://open.spotify.com/track/2ACfcwYW9YxCabMAgK4WZN) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 3:48 | 2023-03-21 | 2023-03-29 |
@@ -1045,6 +1045,7 @@
 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 | 2024-04-23 | 2025-01-29 |
 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 | 2023-07-25 |  |
 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-23 |  |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 | 2024-07-09 |  |
 | [悲しい歌](https://open.spotify.com/track/2b0u37NKx08FuxwZuc4t1T) | [三宅伸治](https://open.spotify.com/artist/3DSBpgtINZWPz9RGvExfBg), [The Red Rocks](https://open.spotify.com/artist/3te4Wpnu3yralZ6mMYTIGK) | [Red Thanks](https://open.spotify.com/album/6f1YFi5FyrbAl6A5nE1uB3) | 3:11 | 2022-06-14 | 2022-06-22 |
 | [悲しい気持ち\(Just a man in love\)](https://open.spotify.com/track/14evwICDoy0d36Nat7hsUT) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 3:54 | 2022-11-22 | 2022-12-14 |
@@ -1155,7 +1156,7 @@
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
 | [胸焼けうどんの作り方](https://open.spotify.com/track/6UytqOt6nMA8reOGvcdl63) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 2:10 | 2024-01-23 | 2024-01-31 |
 | [能動的三分間](https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 3:00 | 2023-08-01 | 2024-02-07 |
-| [芝居の終焉](https://open.spotify.com/track/6wTfkkgv9GyWPsCuaXwQ2Z) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Deconstruction β EP](https://open.spotify.com/album/2mUXTlRyzY51KHIF2W6P0Z) | 3:23 | 2025-01-14 | 2025-02-19 |
+| [芝居の終焉](https://open.spotify.com/track/6wTfkkgv9GyWPsCuaXwQ2Z) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Deconstruction β EP](https://open.spotify.com/album/2mUXTlRyzY51KHIF2W6P0Z) | 3:23 | 2025-01-14 |  |
 | [花になれ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3pXPqtPn0dAMRbztfuEwmf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [花になれ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/6uCHKMCp9Qbmbbb0gzjwAY) | 6:27 | 2023-09-14 | 2023-09-16 |
 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 | 2023-03-28 | 2023-05-10 |
 | [芽吹け](https://open.spotify.com/track/4aeSypCiv2gSs34o7cbTkP) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [Walkin' with a song](https://open.spotify.com/album/70A8uhhWCJpeKMpxJOwX5d) | 3:41 | 2023-08-22 | 2023-09-06 |

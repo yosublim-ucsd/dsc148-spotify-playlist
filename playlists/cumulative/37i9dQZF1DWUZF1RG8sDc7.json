@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
+    },
+    {
+      "album": {
         "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
         "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
       },
@@ -1442,7 +1464,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 293564,
       "name": "Me Mata la Melancol\u00eda",
       "url": "https://open.spotify.com/track/5jXt0cLk4bIuWkGoCyNOIa"
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 279560,
       "name": "Muero por Verla",
       "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 306280,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
@@ -3192,7 +3214,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 279200,
       "name": "Vivo por Ti",
       "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"

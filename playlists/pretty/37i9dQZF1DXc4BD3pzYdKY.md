@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,136 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,240 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 98 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 |
 | 99 | [One Of Them Ones](https://open.spotify.com/track/0EcL8667UQIGNCqJG5AlWh) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [Childhood Trauma](https://open.spotify.com/album/0GMP21tyFRTv74Fcstcnhf) | 3:22 |
 
-Snapshot ID: `Z67N/wAAAACvJ6NSGJKzAce0Nf2hf+Tv`
+Snapshot ID: `Z67N/wAAAABfUVBg9cug2epqQS92K46f`

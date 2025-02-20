@@ -1,6 +1,6 @@
 {
   "description": "Ruido blanco para ayudarte a dormir.",
-  "num_followers": 108323,
+  "num_followers": 108571,
   "original_name": "Ruido Blanco para Dormir",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Airplane Nap",
-        "url": "https://open.spotify.com/album/4xmd311rtLIkSVsCsEMA16"
-      },
-      "artists": [
-        {
-          "name": "State of Waves",
-          "url": "https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY"
-        }
-      ],
-      "duration_ms": 149924,
-      "name": "Sleepy Bedroom Noise",
-      "url": "https://open.spotify.com/track/1F0Xl6fZ1RPGtXpDl67O6w"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Soothing White Noise Hum",
         "url": "https://open.spotify.com/album/4Nk39sup3qRN5EUKaL8eFk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 244000,
       "name": "Calming White Noise on my Mind",
       "url": "https://open.spotify.com/track/6ak7dK1uhAyJe8WKxcdsxR"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Airplane Nap",
+        "url": "https://open.spotify.com/album/4xmd311rtLIkSVsCsEMA16"
+      },
+      "artists": [
+        {
+          "name": "State of Waves",
+          "url": "https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY"
+        }
+      ],
+      "duration_ms": 149924,
+      "name": "Sleepy Bedroom Noise",
+      "url": "https://open.spotify.com/track/1F0Xl6fZ1RPGtXpDl67O6w"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Dream Noise",
-        "url": "https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590"
-      },
-      "artists": [
-        {
-          "name": "Peaceful Me",
-          "url": "https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Dreamy Noise",
-      "url": "https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "White Noise Sleeping Pill",
         "url": "https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254907,
       "name": "White Noise Sleeping Pill",
       "url": "https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Dream Noise",
+        "url": "https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Me",
+          "url": "https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Dreamy Noise",
+      "url": "https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Heavenly White",
-        "url": "https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh"
+        "name": "Soulwaves",
+        "url": "https://open.spotify.com/album/1THmxeqFdDM57e9QrDY23i"
       },
       "artists": [
         {
-          "name": "Waves Of Time",
-          "url": "https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd"
+          "name": "Sky Travis",
+          "url": "https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Heavenly White",
-      "url": "https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K"
+      "duration_ms": 173500,
+      "name": "Soulwaves",
+      "url": "https://open.spotify.com/track/29udRWpKTQUjkPZZkliBVl"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Soulwaves",
-        "url": "https://open.spotify.com/album/1THmxeqFdDM57e9QrDY23i"
+        "name": "Heavenly White",
+        "url": "https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh"
       },
       "artists": [
         {
-          "name": "Sky Travis",
-          "url": "https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy"
+          "name": "Waves Of Time",
+          "url": "https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Soulwaves",
-      "url": "https://open.spotify.com/track/29udRWpKTQUjkPZZkliBVl"
+      "duration_ms": 187500,
+      "name": "Heavenly White",
+      "url": "https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Out Cold with White Noise",
-        "url": "https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70"
+        "name": "Noisy Element",
+        "url": "https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O"
       },
       "artists": [
         {
-          "name": "Valdervande",
-          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+          "name": "Indika",
+          "url": "https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Out Cold with White Noise",
-      "url": "https://open.spotify.com/track/2qcROjiCc0JSGVUiNsWrtw"
+      "duration_ms": 162515,
+      "name": "White Noise Soul",
+      "url": "https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Noisy Element",
-        "url": "https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O"
+        "name": "Out Cold with White Noise",
+        "url": "https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70"
       },
       "artists": [
         {
-          "name": "Indika",
-          "url": "https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU"
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
         }
       ],
-      "duration_ms": 162515,
-      "name": "White Noise Soul",
-      "url": "https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY"
+      "duration_ms": 242000,
+      "name": "Out Cold with White Noise",
+      "url": "https://open.spotify.com/track/2qcROjiCc0JSGVUiNsWrtw"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1239,22 +1239,6 @@
       "duration_ms": 133306,
       "name": "White Noise - Highway Buzz",
       "url": "https://open.spotify.com/track/1aYbS5oTaPvdx3SFGaNdoK"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Rainy Day in Okinawa",
-        "url": "https://open.spotify.com/album/3BtDOqfu1IhCctUzZl3iOv"
-      },
-      "artists": [
-        {
-          "name": "Year of the Deer",
-          "url": "https://open.spotify.com/artist/65chksgBebbDOYHu3agg0r"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "36,201 feet",
-      "url": "https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Low Slow Noise",
-        "url": "https://open.spotify.com/album/3duCww2adwRWRR8811ErjL"
+        "name": "Rainy Day in Okinawa",
+        "url": "https://open.spotify.com/album/3BtDOqfu1IhCctUzZl3iOv"
       },
       "artists": [
         {
-          "name": "Soundstars",
-          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+          "name": "Year of the Deer",
+          "url": "https://open.spotify.com/artist/65chksgBebbDOYHu3agg0r"
         }
       ],
-      "duration_ms": 125078,
-      "name": "Low Slow Noise",
-      "url": "https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P"
+      "duration_ms": 180000,
+      "name": "36,201 feet",
+      "url": "https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Low Slow Noise",
+        "url": "https://open.spotify.com/album/3duCww2adwRWRR8811ErjL"
+      },
+      "artists": [
+        {
+          "name": "Soundstars",
+          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+        }
+      ],
+      "duration_ms": 125078,
+      "name": "Low Slow Noise",
+      "url": "https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "White Noise Factory",
         "url": "https://open.spotify.com/album/1lVsjyxMllj6LjytCKfZUb"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise Flakes",
-        "url": "https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p"
-      },
-      "artists": [
-        {
-          "name": "The White Noise Travelers",
-          "url": "https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "Calming White Noise Generator",
-      "url": "https://open.spotify.com/track/4aDDlJRc1WbIlFqhc4aMgx"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Tunnel Noise",
         "url": "https://open.spotify.com/album/3yRleiOvW3vcp3gubkr7gk"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 178000,
       "name": "Tunnel Noise",
       "url": "https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Noise Flakes",
+        "url": "https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p"
+      },
+      "artists": [
+        {
+          "name": "The White Noise Travelers",
+          "url": "https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "Calming White Noise Generator",
+      "url": "https://open.spotify.com/track/4aDDlJRc1WbIlFqhc4aMgx"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Steady White Noise EP",
-        "url": "https://open.spotify.com/album/3Hc3Xv3zc0QUZ1pY95Nq2R"
+        "name": "Study White Noise",
+        "url": "https://open.spotify.com/album/4D2CPrnRBsaHuDAHxfwSqN"
       },
       "artists": [
         {
-          "name": "Inscription",
-          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+          "name": "Wax Walls",
+          "url": "https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp"
         }
       ],
-      "duration_ms": 133021,
-      "name": "Steady White Noise",
-      "url": "https://open.spotify.com/track/0tJOyDhgMffaHniH0GXxSK"
+      "duration_ms": 177957,
+      "name": "Whirl of White Noise",
+      "url": "https://open.spotify.com/track/52gLFB1JwnwesroSmsqkok"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1467,50 +1467,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise Sleeping Pill",
-        "url": "https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ"
+        "name": "Steady White Noise EP",
+        "url": "https://open.spotify.com/album/3Hc3Xv3zc0QUZ1pY95Nq2R"
       },
       "artists": [
         {
-          "name": "Atmosphere of Calm",
-          "url": "https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09"
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Sleeping Like a Baby with White Noise",
-      "url": "https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Study White Noise",
-        "url": "https://open.spotify.com/album/4D2CPrnRBsaHuDAHxfwSqN"
-      },
-      "artists": [
-        {
-          "name": "Wax Walls",
-          "url": "https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "Whirl of White Noise",
-      "url": "https://open.spotify.com/track/52gLFB1JwnwesroSmsqkok"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Resting with White Noise",
-        "url": "https://open.spotify.com/album/0tgBgtBWPbU2km6b9wdiyO"
-      },
-      "artists": [
-        {
-          "name": "Noise Chillantro",
-          "url": "https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Resting with White Noise",
-      "url": "https://open.spotify.com/track/146Y0ZLNuP29oSaR6wWeNd"
+      "duration_ms": 133021,
+      "name": "Steady White Noise",
+      "url": "https://open.spotify.com/track/0tJOyDhgMffaHniH0GXxSK"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1531,18 +1499,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise Basic",
-        "url": "https://open.spotify.com/album/3zctzZ79rSG5GQnq9D6E92"
+        "name": "Resting with White Noise",
+        "url": "https://open.spotify.com/album/0tgBgtBWPbU2km6b9wdiyO"
       },
       "artists": [
         {
-          "name": "Aska Mill",
-          "url": "https://open.spotify.com/artist/3mkmnTAqRXg1NysbtuFS5P"
+          "name": "Noise Chillantro",
+          "url": "https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU"
         }
       ],
-      "duration_ms": 146626,
-      "name": "Basic White Noise Part 2",
-      "url": "https://open.spotify.com/track/0O5vkNyf8VcsKKaK5r4Jfw"
+      "duration_ms": 240000,
+      "name": "Resting with White Noise",
+      "url": "https://open.spotify.com/track/146Y0ZLNuP29oSaR6wWeNd"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1559,6 +1527,22 @@
       "duration_ms": 143406,
       "name": "Smooth White Noise",
       "url": "https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Noise Sleeping Pill",
+        "url": "https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ"
+      },
+      "artists": [
+        {
+          "name": "Atmosphere of Calm",
+          "url": "https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sleeping Like a Baby with White Noise",
+      "url": "https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "The Rhythm Of Noise",
-        "url": "https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox"
+        "name": "Sky Full Of Noise",
+        "url": "https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc"
       },
       "artists": [
         {
-          "name": "Noise Factory",
-          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
+          "name": "Libronics",
+          "url": "https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja"
         }
       ],
-      "duration_ms": 142278,
-      "name": "Forever Ambient Noise",
-      "url": "https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY"
+      "duration_ms": 139708,
+      "name": "Sky Full Of Noise",
+      "url": "https://open.spotify.com/track/4I2WSkwqRf5wJC1WxlcqYk"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Feathery White Noise",
+        "url": "https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1"
+      },
+      "artists": [
+        {
+          "name": "The Clear Mind",
+          "url": "https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Feathery White Noise",
+      "url": "https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1643,34 +1643,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Feathery White Noise",
-        "url": "https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1"
+        "name": "The Rhythm Of Noise",
+        "url": "https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox"
       },
       "artists": [
         {
-          "name": "The Clear Mind",
-          "url": "https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs"
+          "name": "Noise Factory",
+          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
         }
       ],
-      "duration_ms": 173720,
-      "name": "Feathery White Noise",
-      "url": "https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Sky Full Of Noise",
-        "url": "https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc"
-      },
-      "artists": [
-        {
-          "name": "Libronics",
-          "url": "https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja"
-        }
-      ],
-      "duration_ms": 139708,
-      "name": "Sky Full Of Noise",
-      "url": "https://open.spotify.com/track/4I2WSkwqRf5wJC1WxlcqYk"
+      "duration_ms": 142278,
+      "name": "Forever Ambient Noise",
+      "url": "https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1755,50 +1739,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Embracing Subsets",
-        "url": "https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa"
+        "name": "White Noise Basic",
+        "url": "https://open.spotify.com/album/3zctzZ79rSG5GQnq9D6E92"
       },
       "artists": [
         {
-          "name": "PARCEL",
-          "url": "https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI"
+          "name": "Aska Mill",
+          "url": "https://open.spotify.com/artist/3mkmnTAqRXg1NysbtuFS5P"
         }
       ],
-      "duration_ms": 153780,
-      "name": "Soothing Field Noise",
-      "url": "https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Noises At Night",
-        "url": "https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO"
-      },
-      "artists": [
-        {
-          "name": "Sleep Sound Factory",
-          "url": "https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "Morning Noise",
-      "url": "https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Noise & Sleep",
-        "url": "https://open.spotify.com/album/2fCDmuHgcn2NZMWsXebsrc"
-      },
-      "artists": [
-        {
-          "name": "Doctor Sleep",
-          "url": "https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5"
-        }
-      ],
-      "duration_ms": 147881,
-      "name": "Dark Noise",
-      "url": "https://open.spotify.com/track/1PIXNM90ma3hSHqFBcEspX"
+      "duration_ms": 146626,
+      "name": "Basic White Noise Part 2",
+      "url": "https://open.spotify.com/track/0O5vkNyf8VcsKKaK5r4Jfw"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1819,6 +1771,38 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Noises At Night",
+        "url": "https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sound Factory",
+          "url": "https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "Morning Noise",
+      "url": "https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Embracing Subsets",
+        "url": "https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa"
+      },
+      "artists": [
+        {
+          "name": "PARCEL",
+          "url": "https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI"
+        }
+      ],
+      "duration_ms": 153780,
+      "name": "Soothing Field Noise",
+      "url": "https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "Smooth & Cozy White Noise",
         "url": "https://open.spotify.com/album/71x1sgTEau5rFW9zWgVGyy"
       },
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Noise & Sleep",
+        "url": "https://open.spotify.com/album/2fCDmuHgcn2NZMWsXebsrc"
+      },
+      "artists": [
+        {
+          "name": "Doctor Sleep",
+          "url": "https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5"
+        }
+      ],
+      "duration_ms": 147881,
+      "name": "Dark Noise",
+      "url": "https://open.spotify.com/track/1PIXNM90ma3hSHqFBcEspX"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "Doze Off",
         "url": "https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 168500,
       "name": "Doze Off - Seamless",
       "url": "https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Noise Calm",
+        "url": "https://open.spotify.com/album/1R1aRLO3prQnzqmxo1XStS"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "duration_ms": 180623,
+      "name": "White Noise Calm",
+      "url": "https://open.spotify.com/track/02ITwC4ncYoPQp7bZnSkMh"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1883,34 +1899,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Ocean Of Noise",
-        "url": "https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86"
+        "name": "Sequencialidade",
+        "url": "https://open.spotify.com/album/4c68AGU3CluOCs1wOUcx9E"
       },
       "artists": [
         {
-          "name": "Kilo Herz",
-          "url": "https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL"
+          "name": "Sonhos De Aviao",
+          "url": "https://open.spotify.com/artist/4w2htsFo12HRIEO0LibBNg"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Mind Clearing Noise",
-      "url": "https://open.spotify.com/track/4u75RQbjnohewfAQBXdEAn"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "White Noise Calm",
-        "url": "https://open.spotify.com/album/1R1aRLO3prQnzqmxo1XStS"
-      },
-      "artists": [
-        {
-          "name": "Relaxatron",
-          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
-        }
-      ],
-      "duration_ms": 180623,
-      "name": "White Noise Calm",
-      "url": "https://open.spotify.com/track/02ITwC4ncYoPQp7bZnSkMh"
+      "duration_ms": 123180,
+      "name": "Sequencialidade",
+      "url": "https://open.spotify.com/track/3yooJ67GPIoD8ntFvMfZ3g"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Ocean Of Noise",
+        "url": "https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86"
+      },
+      "artists": [
+        {
+          "name": "Kilo Herz",
+          "url": "https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Mind Clearing Noise",
+      "url": "https://open.spotify.com/track/4u75RQbjnohewfAQBXdEAn"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "Smooth White Colors",
         "url": "https://open.spotify.com/album/2DIIYdv1sA6E17eExpHLBk"
       },
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Sequencialidade",
-        "url": "https://open.spotify.com/album/4c68AGU3CluOCs1wOUcx9E"
+        "name": "Digitalion",
+        "url": "https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM"
       },
       "artists": [
         {
-          "name": "Sonhos De Aviao",
-          "url": "https://open.spotify.com/artist/4w2htsFo12HRIEO0LibBNg"
+          "name": "Synthetic Architect",
+          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
         }
       ],
-      "duration_ms": 123180,
-      "name": "Sequencialidade",
-      "url": "https://open.spotify.com/track/3yooJ67GPIoD8ntFvMfZ3g"
+      "duration_ms": 180500,
+      "name": "System Shutdown",
+      "url": "https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Digitalion",
-        "url": "https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM"
-      },
-      "artists": [
-        {
-          "name": "Synthetic Architect",
-          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "System Shutdown",
-      "url": "https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "White Noise Meditation Realm",
         "url": "https://open.spotify.com/album/1BOyXnbTBY0FbrAUGTncIS"
       },
@@ -2023,22 +2023,6 @@
       "duration_ms": 158968,
       "name": "White Noise for Productivity",
       "url": "https://open.spotify.com/track/5c2gzZ7ZjePKD9jq2Fw3im"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Chrome White Noise",
-        "url": "https://open.spotify.com/album/5TCxCXEbETUARRPkn2tj4Q"
-      },
-      "artists": [
-        {
-          "name": "Chrome Details Noise",
-          "url": "https://open.spotify.com/artist/3nVd3Up7f9uluILXNuLWis"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "White Noise Low Frequency",
-      "url": "https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Chrome White Noise",
+        "url": "https://open.spotify.com/album/5TCxCXEbETUARRPkn2tj4Q"
+      },
+      "artists": [
+        {
+          "name": "Chrome Details Noise",
+          "url": "https://open.spotify.com/artist/3nVd3Up7f9uluILXNuLWis"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "White Noise Low Frequency",
+      "url": "https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "White Noise Magic",
         "url": "https://open.spotify.com/album/6C96lLQOER0vraMAWy3laA"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Under The Ocean",
-        "url": "https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq"
-      },
-      "artists": [
-        {
-          "name": "Relaxing Noises",
-          "url": "https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq"
-        }
-      ],
-      "duration_ms": 133574,
-      "name": "Deep Blue Noise",
-      "url": "https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Augen Zu",
         "url": "https://open.spotify.com/album/4LAA1o3SJAUuE0szFNmhB2"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 199042,
       "name": "White Noise - Augen Zu",
       "url": "https://open.spotify.com/track/2bHFzB6CUQSQ6hX9URt9bX"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Under The Ocean",
+        "url": "https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Noises",
+          "url": "https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq"
+        }
+      ],
+      "duration_ms": 133574,
+      "name": "Deep Blue Noise",
+      "url": "https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Bright Sound",
+        "url": "https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD"
+      },
+      "artists": [
+        {
+          "name": "Only Noise Machine",
+          "url": "https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh"
+        }
+      ],
+      "duration_ms": 132278,
+      "name": "Bright Sound",
+      "url": "https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "Lean Noise",
         "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
       },
@@ -2267,38 +2283,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise Sleep Frequencies",
-        "url": "https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C"
-      },
-      "artists": [
-        {
-          "name": "A Dreaming Machine",
-          "url": "https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "White Noise asleep on my feet",
-      "url": "https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Bright Sound",
-        "url": "https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD"
-      },
-      "artists": [
-        {
-          "name": "Only Noise Machine",
-          "url": "https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh"
-        }
-      ],
-      "duration_ms": 132278,
-      "name": "Bright Sound",
-      "url": "https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Calmed By The White Noise",
         "url": "https://open.spotify.com/album/3yNmTVNqVdF3cR5Rg2vnqU"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Only White Noise",
-        "url": "https://open.spotify.com/album/5yEqyuRV0BoI7tFwGvQnRi"
+        "name": "White Noise Sleep Frequencies",
+        "url": "https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C"
       },
       "artists": [
         {
-          "name": "Nox",
-          "url": "https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX"
+          "name": "A Dreaming Machine",
+          "url": "https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Only White Noise",
-      "url": "https://open.spotify.com/track/6JGPa5e2e85YSioo0Sy5Re"
+      "duration_ms": 214000,
+      "name": "White Noise asleep on my feet",
+      "url": "https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2359,6 +2343,22 @@
       "duration_ms": 176000,
       "name": "Hontoni White Noise",
       "url": "https://open.spotify.com/track/742apIRA23YNnENap1s4xV"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Only White Noise",
+        "url": "https://open.spotify.com/album/5yEqyuRV0BoI7tFwGvQnRi"
+      },
+      "artists": [
+        {
+          "name": "Nox",
+          "url": "https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Only White Noise",
+      "url": "https://open.spotify.com/track/6JGPa5e2e85YSioo0Sy5Re"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "XL Pink Noise",
-        "url": "https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7"
-      },
-      "artists": [
-        {
-          "name": "XL Noise Factory",
-          "url": "https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv"
-        }
-      ],
-      "duration_ms": 129763,
-      "name": "Cabin Noise Focus",
-      "url": "https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Sunday Noise",
         "url": "https://open.spotify.com/album/7aJBpsJtekdHROI7Y9GnHJ"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 149672,
       "name": "Mirrored Sky",
       "url": "https://open.spotify.com/track/1xfTMONZWgzxpjSyEV4b4Q"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "XL Pink Noise",
+        "url": "https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7"
+      },
+      "artists": [
+        {
+          "name": "XL Noise Factory",
+          "url": "https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv"
+        }
+      ],
+      "duration_ms": 129763,
+      "name": "Cabin Noise Focus",
+      "url": "https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "on the edge of White Noise",
-        "url": "https://open.spotify.com/album/7AA9iWuEPrROwNiyyC9Pbg"
-      },
-      "artists": [
-        {
-          "name": "Valdervande",
-          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Recovery White Noise 510Hz",
-      "url": "https://open.spotify.com/track/6zi5c5WJkdu6ipnP6HMiqs"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Rumore Leggero",
         "url": "https://open.spotify.com/album/2gUqOfKDQU6tl4hgAuGgjj"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 146378,
       "name": "Rumore Leggero",
       "url": "https://open.spotify.com/track/5fhWu1bWtVFf1ZyqVxKdXT"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "on the edge of White Noise",
+        "url": "https://open.spotify.com/album/7AA9iWuEPrROwNiyyC9Pbg"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Recovery White Noise 510Hz",
+      "url": "https://open.spotify.com/track/6zi5c5WJkdu6ipnP6HMiqs"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Cloud White Noise",
-        "url": "https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct"
-      },
-      "artists": [
-        {
-          "name": "Lilly Almberg",
-          "url": "https://open.spotify.com/artist/6LiML5bva810pCMI3MGXif"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "In White Atmosphere",
-      "url": "https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Momentary Repose",
         "url": "https://open.spotify.com/album/1giBQuyDOKrKsgt3WcYzNo"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 143930,
       "name": "Office Canceling Noise",
       "url": "https://open.spotify.com/track/2oFm8HbzGMCRnOozyIonRB"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Cloud White Noise",
+        "url": "https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct"
+      },
+      "artists": [
+        {
+          "name": "Lilly Almberg",
+          "url": "https://open.spotify.com/artist/6LiML5bva810pCMI3MGXif"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "In White Atmosphere",
+      "url": "https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2587,18 +2587,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Noise & Relaxation",
-        "url": "https://open.spotify.com/album/6EgOdvsgib7ZVJzCMEg0j4"
+        "name": "Soothing Noise",
+        "url": "https://open.spotify.com/album/3s15z0dSmFwCnTeLXrjjtV"
       },
       "artists": [
         {
-          "name": "Librarical Nature",
-          "url": "https://open.spotify.com/artist/7hxI1aGCZDImZ8oRzudkbT"
+          "name": "Trap Of Sounds",
+          "url": "https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW"
         }
       ],
-      "duration_ms": 153826,
-      "name": "Noise & Relaxation",
-      "url": "https://open.spotify.com/track/7ao1T99JJqBhQz6BdanOUS"
+      "duration_ms": 136736,
+      "name": "Sleepy Whites",
+      "url": "https://open.spotify.com/track/730Nt9NnPQ5tComIwFCVOw"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2619,18 +2619,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Soothing Noise",
-        "url": "https://open.spotify.com/album/3s15z0dSmFwCnTeLXrjjtV"
+        "name": "Noise Rhythm",
+        "url": "https://open.spotify.com/album/3hfWv89UcTnFxmPcWEQEQX"
       },
       "artists": [
         {
-          "name": "Trap Of Sounds",
-          "url": "https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW"
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
         }
       ],
-      "duration_ms": 136736,
-      "name": "Sleepy Whites",
-      "url": "https://open.spotify.com/track/730Nt9NnPQ5tComIwFCVOw"
+      "duration_ms": 169430,
+      "name": "Noise Rhythm",
+      "url": "https://open.spotify.com/track/6oGusfRLODBoByI6VTjQAh"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2651,6 +2651,22 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
+        "name": "Noise & Relaxation",
+        "url": "https://open.spotify.com/album/6EgOdvsgib7ZVJzCMEg0j4"
+      },
+      "artists": [
+        {
+          "name": "Librarical Nature",
+          "url": "https://open.spotify.com/artist/7hxI1aGCZDImZ8oRzudkbT"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Noise & Relaxation",
+      "url": "https://open.spotify.com/track/7ao1T99JJqBhQz6BdanOUS"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
         "name": "Infrasound",
         "url": "https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl"
       },
@@ -2663,22 +2679,6 @@
       "duration_ms": 176500,
       "name": "White RF",
       "url": "https://open.spotify.com/track/5n1yzZr0sEVqYw7sRr7Bh3"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
-        "name": "Noise Rhythm",
-        "url": "https://open.spotify.com/album/3hfWv89UcTnFxmPcWEQEQX"
-      },
-      "artists": [
-        {
-          "name": "Natural Sound Makers",
-          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "Noise Rhythm",
-      "url": "https://open.spotify.com/track/6oGusfRLODBoByI6VTjQAh"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Fiori Notturni",
-        "url": "https://open.spotify.com/album/3lLcKLPOTRTVT2iatg8dtz"
-      },
-      "artists": [
-        {
-          "name": "Passeggiate Al Chiaro",
-          "url": "https://open.spotify.com/artist/5HosxAwsGzGX5RzY3XfXPC"
-        }
-      ],
-      "duration_ms": 120979,
-      "name": "Ipnotizzato Dal Rumore Bianco",
-      "url": "https://open.spotify.com/track/47MRiOYDPxibheDghy2Hum"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Over The Clouds White Noise",
         "url": "https://open.spotify.com/album/3qZo7vN14fjqMYtBH8HAuK"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 181660,
       "name": "Over The Clouds White Noise",
       "url": "https://open.spotify.com/track/5Wdp9jmSOnwnqNaus5hnTT"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "Fiori Notturni",
+        "url": "https://open.spotify.com/album/3lLcKLPOTRTVT2iatg8dtz"
+      },
+      "artists": [
+        {
+          "name": "Passeggiate Al Chiaro",
+          "url": "https://open.spotify.com/artist/5HosxAwsGzGX5RzY3XfXPC"
+        }
+      ],
+      "duration_ms": 120979,
+      "name": "Ipnotizzato Dal Rumore Bianco",
+      "url": "https://open.spotify.com/track/47MRiOYDPxibheDghy2Hum"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2811,18 +2811,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "In the back of the Cabin",
-        "url": "https://open.spotify.com/album/5S12zt9R6E8GnTQLyA0Iqm"
+        "name": "Noise Of Oblivion",
+        "url": "https://open.spotify.com/album/2D77LC9H6QQk90JKBEO3fH"
       },
       "artists": [
         {
-          "name": "BBVB",
-          "url": "https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP"
+          "name": "Vectorix",
+          "url": "https://open.spotify.com/artist/39kmNjTjZarzTRB75kRICY"
         }
       ],
-      "duration_ms": 141480,
-      "name": "FX Noise",
-      "url": "https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF"
+      "duration_ms": 175655,
+      "name": "Noise Of Oblivion",
+      "url": "https://open.spotify.com/track/2XTA9a28XN283re5xt9DB7"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "Noise Of Oblivion",
-        "url": "https://open.spotify.com/album/2D77LC9H6QQk90JKBEO3fH"
-      },
-      "artists": [
-        {
-          "name": "Vectorix",
-          "url": "https://open.spotify.com/artist/39kmNjTjZarzTRB75kRICY"
-        }
-      ],
-      "duration_ms": 175655,
-      "name": "Noise Of Oblivion",
-      "url": "https://open.spotify.com/track/2XTA9a28XN283re5xt9DB7"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "Ruido Blanco Natural",
         "url": "https://open.spotify.com/album/2pyJFtkQVoiOxqvOxzYmhc"
       },
@@ -2875,18 +2859,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise for Dreaming",
-        "url": "https://open.spotify.com/album/0hvo0Wp3DXUVVwHcSx1iSg"
+        "name": "In the back of the Cabin",
+        "url": "https://open.spotify.com/album/5S12zt9R6E8GnTQLyA0Iqm"
       },
       "artists": [
         {
-          "name": "Xella Machina",
-          "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
+          "name": "BBVB",
+          "url": "https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP"
         }
       ],
-      "duration_ms": 174799,
-      "name": "White Noise for the Dreamers",
-      "url": "https://open.spotify.com/track/1mCMRPk1BSqTAAq4mLn5Qx"
+      "duration_ms": 141480,
+      "name": "FX Noise",
+      "url": "https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2923,18 +2907,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise for Tranquility",
-        "url": "https://open.spotify.com/album/6NFMR5Xo0auZjp4SAtfWS7"
+        "name": "White Noise for Dreaming",
+        "url": "https://open.spotify.com/album/0hvo0Wp3DXUVVwHcSx1iSg"
       },
       "artists": [
         {
-          "name": "Limone M",
-          "url": "https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d"
+          "name": "Xella Machina",
+          "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
         }
       ],
-      "duration_ms": 238693,
-      "name": "White Noise for Tranquility",
-      "url": "https://open.spotify.com/track/2Kw1Ri1K3eItC6QTMRt84d"
+      "duration_ms": 174799,
+      "name": "White Noise for the Dreamers",
+      "url": "https://open.spotify.com/track/1mCMRPk1BSqTAAq4mLn5Qx"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2955,18 +2939,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Dreams",
-        "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
+        "name": "White Noise for Tranquility",
+        "url": "https://open.spotify.com/album/6NFMR5Xo0auZjp4SAtfWS7"
       },
       "artists": [
         {
-          "name": "Deepnoum",
-          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+          "name": "Limone M",
+          "url": "https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d"
         }
       ],
-      "duration_ms": 126184,
-      "name": "Slipping Into Dreamland",
-      "url": "https://open.spotify.com/track/1O695QUyM6aIc8FJWP8s3X"
+      "duration_ms": 238693,
+      "name": "White Noise for Tranquility",
+      "url": "https://open.spotify.com/track/2Kw1Ri1K3eItC6QTMRt84d"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -2983,6 +2967,22 @@
       "duration_ms": 123702,
       "name": "White Noise Shade 4",
       "url": "https://open.spotify.com/track/5SJZH9cW2v3SrF3Pher2oP"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Dreams",
+        "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
+      },
+      "artists": [
+        {
+          "name": "Deepnoum",
+          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+        }
+      ],
+      "duration_ms": 126184,
+      "name": "Slipping Into Dreamland",
+      "url": "https://open.spotify.com/track/1O695QUyM6aIc8FJWP8s3X"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Noise Comfort",
-        "url": "https://open.spotify.com/album/714mJftPiiqG2gcVQgrbjU"
-      },
-      "artists": [
-        {
-          "name": "Evomin",
-          "url": "https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb"
-        }
-      ],
-      "duration_ms": 142168,
-      "name": "White Noise In The Sky",
-      "url": "https://open.spotify.com/track/2bDw3T1U9YDWAj7BtXsRMP"
-    },
-    {
-      "added_at": "2025-01-30 14:52:07",
-      "album": {
         "name": "White Noise Theme",
         "url": "https://open.spotify.com/album/4QktoYkLK39QWoOlu9YckX"
       },
@@ -3179,18 +3163,18 @@
     {
       "added_at": "2025-01-30 14:52:07",
       "album": {
-        "name": "White Evening Noise",
-        "url": "https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6"
+        "name": "White Noise Comfort",
+        "url": "https://open.spotify.com/album/714mJftPiiqG2gcVQgrbjU"
       },
       "artists": [
         {
-          "name": "Ambientics",
-          "url": "https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a"
+          "name": "Evomin",
+          "url": "https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb"
         }
       ],
-      "duration_ms": 172000,
-      "name": "White Night Noise",
-      "url": "https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w"
+      "duration_ms": 142168,
+      "name": "White Noise In The Sky",
+      "url": "https://open.spotify.com/track/2bDw3T1U9YDWAj7BtXsRMP"
     },
     {
       "added_at": "2025-01-30 14:52:07",
@@ -3207,6 +3191,22 @@
       "duration_ms": 145652,
       "name": "Aclara Tu Mente",
       "url": "https://open.spotify.com/track/2jYTrauspptMjNSICeH8lL"
+    },
+    {
+      "added_at": "2025-01-30 14:52:07",
+      "album": {
+        "name": "White Evening Noise",
+        "url": "https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6"
+      },
+      "artists": [
+        {
+          "name": "Ambientics",
+          "url": "https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "White Night Noise",
+      "url": "https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w"
     }
   ],
   "unique_name": "Ruido Blanco para Dormir",

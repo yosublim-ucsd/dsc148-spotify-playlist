@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 133113,
       "name": "drinks or coffee",
       "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
@@ -1750,6 +1768,24 @@
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
+        "name": "Ceritera",
+        "url": "https://open.spotify.com/album/18jOiyboHNxRInJXHmshgh"
+      },
+      "artists": [
+        {
+          "name": "Marsha Milan",
+          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236470,
+      "name": "Hening Rindu",
+      "url": "https://open.spotify.com/track/4btByLPGiNFxyJ7pnEiP5h"
     },
     {
       "album": {
@@ -3270,7 +3306,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 151773,
       "name": "PYTHON",
       "url": "https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv"
@@ -3349,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "Rindu Tak Terucap",
+        "url": "https://open.spotify.com/album/5Lg3IOj7QkwlWQQvJG342l"
+      },
+      "artists": [
+        {
+          "name": "Fiq7",
+          "url": "https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182801,
+      "name": "Rindu Tak Terucap",
+      "url": "https://open.spotify.com/track/5GiPoPSRyKz9qv0O94GxrV"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -3418,7 +3472,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
@@ -4215,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
+    },
+    {
+      "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
       },
@@ -4644,7 +4720,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

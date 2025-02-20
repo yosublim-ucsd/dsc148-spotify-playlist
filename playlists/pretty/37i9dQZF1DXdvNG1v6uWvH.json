@@ -307,6 +307,26 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "worst behaviour (feat. Kehlani)",
+        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "All The Love",
         "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
       },
@@ -343,22 +363,18 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "worst behaviour (feat. Kehlani)",
-        "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0VIa7h8DSdt4iQQmr8C94z"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+      "duration_ms": 255084,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7KgBD9s7Jl2rs1Gs4OQMM8"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -379,22 +395,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/0VIa7h8DSdt4iQQmr8C94z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 255084,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7KgBD9s7Jl2rs1Gs4OQMM8"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "Remember My Name",
         "url": "https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 182720,
       "name": "Remember My Name",
       "url": "https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
-        "name": "20 Years From Now",
-        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Love Worth Saving",
-      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -463,6 +447,22 @@
       "duration_ms": 146308,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "20 Years From Now",
+        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Love Worth Saving",
+      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "CRESCENT MOON",
+        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 223658,
+      "name": "CRESCENT MOON",
+      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "Slow Grind",
         "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "CRESCENT MOON",
-        "url": "https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB"
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 223658,
-      "name": "CRESCENT MOON",
-      "url": "https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i"
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -647,22 +663,6 @@
       "duration_ms": 214426,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/4Lx4JNpzGR2wdybtpJ0H6S"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Dollar Store (feat. Waxahatchee)",
-        "url": "https://open.spotify.com/album/3jD1Dxg9pwGak8QZhNN7zR"
-      },
-      "artists": [
-        {
-          "name": "Ben Kweller",
-          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 204101,
-      "name": "Dollar Store (feat. Waxahatchee)",
-      "url": "https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "Don't Stop Lovin'",
         "url": "https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 149077,
       "name": "Hurricane (feat. Clara Mae)",
       "url": "https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "Dollar Store (feat. Waxahatchee)",
+        "url": "https://open.spotify.com/album/3jD1Dxg9pwGak8QZhNN7zR"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 204101,
+      "name": "Dollar Store (feat. Waxahatchee)",
+      "url": "https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "As If",
+        "url": "https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 143275,
+      "name": "As If",
+      "url": "https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3Dhik8xyYDmapjOxyzxqxk"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "As If",
-        "url": "https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 143275,
-      "name": "As If",
-      "url": "https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "Force",
         "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 164544,
       "name": "Force",
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
         }
       ],
-      "duration_ms": 193653,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH"
+      "duration_ms": 202105,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1051,6 +1035,22 @@
       "duration_ms": 165298,
       "name": "She's So High",
       "url": "https://open.spotify.com/track/4WMKgeG9P3P0Rw9VMP8Ozr"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "I Hate San Francisco",
-        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "I Hate San Francisco",
-      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "A Hurricane Of Frowns",
         "url": "https://open.spotify.com/album/4pmemiBDvulNrlzF7YEq6W"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "I Hate San Francisco",
+        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "I Hate San Francisco",
+      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "Another Touch (Deluxe)",
         "url": "https://open.spotify.com/album/7lMh1fjO5h4buXg2JxPIyD"
       },
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/5MvkiH900b24MnHYN6V8Mv"
+        "name": "This Sunset",
+        "url": "https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 246896,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/0cFjc3jWchdEvjaCvKVy4J"
+      "duration_ms": 152000,
+      "name": "This Sunset",
+      "url": "https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1203,26 +1207,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "This Sunset",
-        "url": "https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm"
-      },
-      "artists": [
-        {
-          "name": "Ruffnux",
-          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "This Sunset",
-      "url": "https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/2Vis6pTjyb3Pg4G7vQm6rR"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5MvkiH900b24MnHYN6V8Mv"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/0cFjc3jWchdEvjaCvKVy4J"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "Mirror Machine (feat. Aurelia Ray)",
         "url": "https://open.spotify.com/album/2kOMPQL3Dh0txs9SLyrKbM"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Fuck It",
-        "url": "https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 136087,
-      "name": "Fuck It",
-      "url": "https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "Can't Stand To Lose",
         "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 292620,
       "name": "Can't Stand To Lose",
       "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "Fuck It",
+        "url": "https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "duration_ms": 136087,
+      "name": "Fuck It",
+      "url": "https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
+        "name": "Don't let go",
+        "url": "https://open.spotify.com/album/5CH1LN4Y8s9RglX1vslaq6"
+      },
+      "artists": [
+        {
+          "name": "Gulli Sigurjons",
+          "url": "https://open.spotify.com/artist/2nuWkqy3zeGkCFjUAhL0u8"
+        }
+      ],
+      "duration_ms": 205895,
+      "name": "Don't let go",
+      "url": "https://open.spotify.com/track/6kYv0GzM8GS3XTfvZ8bxSd"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
         "name": "Walk on Candy",
         "url": "https://open.spotify.com/album/7pW7Ik2hvTbgY6GVXdhT6b"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "leaving this city.",
-        "url": "https://open.spotify.com/album/2sp7FH83Jo5lSTXTlsuxr5"
-      },
-      "artists": [
-        {
-          "name": "4ever Falling",
-          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
-        }
-      ],
-      "duration_ms": 218684,
-      "name": "leaving this city.",
-      "url": "https://open.spotify.com/track/3aUOqxjBYnA9SpnaCc0Z4v"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "CUM 2",
         "url": "https://open.spotify.com/album/3UbAyb9cYvmo0CbyY9BILA"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 186800,
       "name": "m.o.w.u.",
       "url": "https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "leaving this city.",
+        "url": "https://open.spotify.com/album/2sp7FH83Jo5lSTXTlsuxr5"
+      },
+      "artists": [
+        {
+          "name": "4ever Falling",
+          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
+        }
+      ],
+      "duration_ms": 218684,
+      "name": "leaving this city.",
+      "url": "https://open.spotify.com/track/3aUOqxjBYnA9SpnaCc0Z4v"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4ilpauwxfRpHy7rEy8lycU"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/2MTRtuB5vV8q15F67cAjNE"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6p6ZsyK4nm0HEBcFNGl8SB"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 198000,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1j3y50iEH5mjAI4WAf9Iij"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4ilpauwxfRpHy7rEy8lycU"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2MTRtuB5vV8q15F67cAjNE"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "Lonely without you",
-        "url": "https://open.spotify.com/album/2oHmAPVxKj4INSqaa9tUwo"
-      },
-      "artists": [
-        {
-          "name": "Bjarni \u00d3mar",
-          "url": "https://open.spotify.com/artist/30NBEBMzDmnnw5lvs5yE90"
-        }
-      ],
-      "duration_ms": 229871,
-      "name": "Lonely without you",
-      "url": "https://open.spotify.com/track/4ikoX1eE4y8tjwsWlpqCl3"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
         "name": "SAY NOTHING",
         "url": "https://open.spotify.com/album/3csmdUvDwO0MUj1SD8rQog"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 217901,
       "name": "SAY NOTHING",
       "url": "https://open.spotify.com/track/50zhyw2ha8PsOuv84WHURO"
+    },
+    {
+      "added_at": "2025-02-14 00:00:33",
+      "album": {
+        "name": "Lonely without you",
+        "url": "https://open.spotify.com/album/2oHmAPVxKj4INSqaa9tUwo"
+      },
+      "artists": [
+        {
+          "name": "Bjarni \u00d3mar",
+          "url": "https://open.spotify.com/artist/30NBEBMzDmnnw5lvs5yE90"
+        }
+      ],
+      "duration_ms": 229871,
+      "name": "Lonely without you",
+      "url": "https://open.spotify.com/track/4ikoX1eE4y8tjwsWlpqCl3"
     },
     {
       "added_at": "2025-02-14 00:00:33",
@@ -1775,42 +1791,18 @@
     {
       "added_at": "2025-02-14 00:00:33",
       "album": {
-        "name": "T\u00edmi, ekki l\u00ed\u00f0a",
-        "url": "https://open.spotify.com/album/0XcLX9aPWb7DtXIJ5dW4wL"
+        "name": "Swan",
+        "url": "https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2"
       },
       "artists": [
         {
-          "name": "R\u00f3shildur",
-          "url": "https://open.spotify.com/artist/1P39L2HVvG5bBb1mSUuye8"
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
         }
       ],
-      "duration_ms": 196002,
-      "name": "T\u00edmi, ekki l\u00ed\u00f0a",
-      "url": "https://open.spotify.com/track/2qsyw2C2XPjx3Ie7CzqdmB"
-    },
-    {
-      "added_at": "2025-02-14 00:00:33",
-      "album": {
-        "name": "What Do We Know",
-        "url": "https://open.spotify.com/album/6lAojsi3CM9X4vjXLG15Go"
-      },
-      "artists": [
-        {
-          "name": "V.V.I.A.",
-          "url": "https://open.spotify.com/artist/6O6Bd9Vv1b8OpjxTwUxfTT"
-        },
-        {
-          "name": "Venus Volcanism",
-          "url": "https://open.spotify.com/artist/5QN22Nuch4HIFASEwpTqhF"
-        },
-        {
-          "name": "In Atlas",
-          "url": "https://open.spotify.com/artist/4R5wjsM5vUjsgjah7v4J2P"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "What Do We Know",
-      "url": "https://open.spotify.com/track/5DpJxcW57WHfLYzLRK6W7a"
+      "duration_ms": 158026,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg"
     }
   ],
   "unique_name": "New Music Friday Iceland",

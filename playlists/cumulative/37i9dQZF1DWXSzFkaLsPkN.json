@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Aanchal Tyagi",
+  "description": "Hindi hai, Indie hai! Cover- Kushagra",
   "name": "hIndies",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 179777,
       "name": "Barsan",
       "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
@@ -2072,6 +2072,28 @@
       "duration_ms": 173764,
       "name": "Katputli Ke Dhaage",
       "url": "https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc"
+    },
+    {
+      "album": {
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     },
     {
       "album": {

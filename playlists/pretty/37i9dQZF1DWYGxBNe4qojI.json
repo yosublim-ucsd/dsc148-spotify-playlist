@@ -1,6 +1,6 @@
 {
   "description": "Where it all started. Cover: Jadakiss",
-  "num_followers": 407812,
+  "num_followers": 407900,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-06-01 15:32:33",
       "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
-    },
-    {
-      "added_at": "2024-06-01 15:32:33",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 228173,
       "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+    },
+    {
+      "added_at": "2024-06-01 15:32:33",
+      "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2024-06-01 15:32:33",

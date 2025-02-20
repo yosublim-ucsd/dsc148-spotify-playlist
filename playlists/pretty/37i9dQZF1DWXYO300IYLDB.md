@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,377 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,368 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 83 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 |
 | 84 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 85 | [Sweet Child o' Mine](https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o' Mine](https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90) | 5:02 |
-| 86 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
-| 87 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
+| 86 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
+| 87 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
 | 88 | [Adore You \- Acoustic](https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Adore You \(Acoustic\)](https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo) | 3:01 |
-| 89 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
-| 90 | [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 |
+| 89 | [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 |
+| 90 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 91 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
 | 92 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 93 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |

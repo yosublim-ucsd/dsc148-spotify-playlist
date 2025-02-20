@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año  del mundo indie y alternativo, como Arde Bogotá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,298 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,323 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 20 | [Pamela Anderson](https://open.spotify.com/track/7nHlJOS6WLCCdrWnKlKLew) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Pamela Anderson](https://open.spotify.com/album/2LvQWpk1Msym5Nlve48TQ4) | 3:40 |
 | 21 | [Espina](https://open.spotify.com/track/1EAITqCRVQxmwxjhZ8LOsh) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Involuntario](https://open.spotify.com/album/6LfnEvb70qUCNej8pjSThO) | 3:03 |
 | 22 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
-| 23 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 |
+| 23 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 |
 | 24 | [escocia](https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [escocia](https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j) | 2:57 |
 | 25 | [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 |
 | 26 | [Llorarme](https://open.spotify.com/track/5jqnWQgu6aENgaG8bwjqdJ) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI), [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Llorarme](https://open.spotify.com/album/01O0ips3oepjE07I9jlcYG) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,896 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,906 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 11 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 |
 | 12 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
 | 13 | [Strong Enough](https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [Strong Enough](https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM) | 3:08 |
-| 14 | [EXILE](https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [EXILE](https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs) | 4:08 |
+| 14 | [EXILE / معاكي](https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [EXILE / معاكي](https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs) | 4:08 |
 | 15 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 |
 | 16 | [decompose](https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:12 |
 | 17 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Fivio Foreign
 
-1,440 songs - 2 day 17 hr 29 min
+1,441 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-11-01 |  |
 | [Chill Guy \(with Kyle Richh\)](https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Chill Guy](https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4) | 3:20 | 2024-12-20 |  |
 | [Chillen With A Star](https://open.spotify.com/track/5p9JuCORAJOTseMFl3ENh7) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [All or Nothing](https://open.spotify.com/album/3L5Rsv25NFzW3nlvcYKcGw) | 2:08 | 2024-03-01 | 2024-03-23 |
-| [Chiraq](https://open.spotify.com/track/4CnKsVS1BnefJrs8wBLO9U) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Zombie Love Kensington Paradise](https://open.spotify.com/album/2FqcuBuYAngz86cqeejHGK) | 2:30 | 2024-12-20 |  |
+| [Chiraq](https://open.spotify.com/track/4CnKsVS1BnefJrs8wBLO9U) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Zombie Love Kensington Paradise](https://open.spotify.com/album/2FqcuBuYAngz86cqeejHGK) | 2:30 | 2024-12-20 | 2025-02-20 |
 | [Chit Chat](https://open.spotify.com/track/4r9GyHViUSb8iVXQsJc8U5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Coke Boys 6](https://open.spotify.com/album/70415SlsGN0hrHDbOkhT8Z) | 2:33 | 2023-01-06 | 2023-05-13 |
 | [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-01-07 | 2022-02-26 |
 | [Chopstick](https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Chopstick](https://open.spotify.com/album/2fKIl2b2zUW17YU7WjBCEi) | 2:41 | 2024-12-13 | 2024-12-21 |
@@ -363,6 +363,7 @@
 | [Dont Wanna C Me Rich](https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Dont Wanna C Me Rich](https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu) | 2:21 | 2024-11-29 | 2024-12-28 |
 | [Don’t Know How to Act](https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Don’t Know How to Act](https://open.spotify.com/album/3x7KJhTpePcXWU5TPMusWu) | 2:00 | 2022-05-06 | 2022-06-04 |
 | [DOOR](https://open.spotify.com/track/1C9kOPsdU2y77BtMCxTtr1) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [DOOR](https://open.spotify.com/album/1jgYVz8SOYZVmDPwhokSRl) | 2:08 | 2023-01-20 | 2023-03-04 |
+| [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 | 2025-02-19 |  |
 | [DOS](https://open.spotify.com/track/2HhwlCfTY10wMy7gppd5ZS) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [TTM Dawg](https://open.spotify.com/artist/2fAeT0A6zbZruTvnnehKEs) | [DOS](https://open.spotify.com/album/3DC1WcfMt8LVwSzqiJnJs1) | 2:32 | 2023-11-10 | 2023-12-24 |
 | [DOS](https://open.spotify.com/track/2sGFUtIWyVPxO4kQHL1dwP) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [TTM Dawg](https://open.spotify.com/artist/2fAeT0A6zbZruTvnnehKEs) | [264](https://open.spotify.com/album/5Ih2twNIxy5FYGrHIbOzzI) | 2:32 | 2023-12-22 | 2024-03-02 |
 | [Double Cup](https://open.spotify.com/track/3GgHxYYLLaE1OnRKc9FznY) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Double Cup](https://open.spotify.com/album/6XdDkPjojt5FHlGBhZcjr5) | 2:44 | 2022-08-26 | 2022-12-10 |

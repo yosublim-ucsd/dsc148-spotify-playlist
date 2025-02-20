@@ -1,6 +1,6 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 643088,
+  "num_followers": 643072,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-04-12 11:21:02",
       "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": "2024-04-12 11:21:02",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2024-04-12 11:21:02",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
       "added_at": "2024-04-12 11:21:02",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-04-12 11:21:02",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2024-04-12 11:21:02",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2024-04-12 11:21:02",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2024-04-12 11:21:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-12 11:21:02",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2024-04-12 11:21:02",
-      "album": {
         "name": "Extended Revolution",
         "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 298773,
       "name": "People Everyday - Metamorphosis Mix",
       "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
+    },
+    {
+      "added_at": "2024-04-12 11:21:02",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2024-04-12 11:21:02",

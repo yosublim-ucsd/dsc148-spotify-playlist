@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,919 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,912 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
 | 75 | [Teoria](https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Teoria](https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf) | 1:53 |
 
-Snapshot ID: `Z66x/QAAAAApe4VZ21MNfrflhROn2B3V`
+Snapshot ID: `Z66x/QAAAADlIeNuUXQXjLQy69WWarht`

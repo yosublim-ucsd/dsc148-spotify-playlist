@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. ERRE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 29 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Sablo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
 | 30 | [Yallegó](https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 2:53 |
 | 31 | [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 |
-| 32 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
-| 33 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
+| 32 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
+| 33 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 34 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 |
 | 35 | [En El Olvido](https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:26 |
 | 36 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
 | 37 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
 | 38 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
-| 39 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
-| 40 | [Tanto Arriba Como Abajo](https://open.spotify.com/track/518ruJoGWraifuVpTBKr5a) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Tanto Arriba Como Abajo](https://open.spotify.com/album/59xL5wvprBCyIgj0b0j1nS) | 3:41 |
+| 39 | [Tanto Arriba Como Abajo](https://open.spotify.com/track/518ruJoGWraifuVpTBKr5a) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Tanto Arriba Como Abajo](https://open.spotify.com/album/59xL5wvprBCyIgj0b0j1nS) | 3:41 |
+| 40 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
 | 41 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
 | 42 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
 | 43 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |

@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Costa Titch",
-  "num_followers": 168587,
+  "num_followers": 168611,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-02-14 00:01:12",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "added_at": "2025-02-14 00:01:12",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 163024,
       "name": "Power (feat. Sister Nancy & Sampa the Great)",
       "url": "https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp"
-    },
-    {
-      "added_at": "2025-02-14 00:01:12",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
     },
     {
       "added_at": "2025-02-14 00:01:12",

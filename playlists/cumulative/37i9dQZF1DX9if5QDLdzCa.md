@@ -4,7 +4,7 @@
 
 > The calm sound of crashing waves on the beach.
 
-240 songs - 11 hr 30 min
+241 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Pebble Beach Waves](https://open.spotify.com/track/74Ccabhzyt1M79qTQ4Jivz) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:42 | 2021-11-10 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-10 | 2025-02-19 |
 | [Perfect Ocean](https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Perfect Ocean](https://open.spotify.com/album/7Hd8ggF0YdFQ49qJ02k5Jh) | 2:56 | 2024-03-25 |  |
+| [Receding Tide](https://open.spotify.com/track/3gfaYtVDmn9KC7VmC3dWFl) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Receding Tide](https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46) | 3:05 | 2025-02-18 |  |
 | [Relax Waves](https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 1:34 | 2021-11-10 | 2023-06-20 |
 | [Relaxing Morning Waves](https://open.spotify.com/track/55FrxMLd1O3tDQZ4xyYKDr) | [Ocean Minds](https://open.spotify.com/artist/6D2TJfOVqwpkYM4UTG2Int) | [Relaxing Morning Waves](https://open.spotify.com/album/23CcFm07HEfktHhwNYv0As) | 2:57 | 2021-11-10 | 2024-03-26 |
 | [Relaxing Ocean Foam](https://open.spotify.com/track/5zEp2p7nJE5gUBpzpRnZse) | [Migration Waves](https://open.spotify.com/artist/63fCKwNhdVPMiIjiWRBeoC) | [Waves & Stones Vol\. 1](https://open.spotify.com/album/0UbNvoFuV3h5KEqluG46dx) | 2:24 | 2021-11-10 |  |
@@ -189,7 +190,7 @@
 | [Stream Of Life](https://open.spotify.com/track/4PhsPrBK6rlffgawm1Jy0U) | [Aqua Mori](https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X) | [Stream Of Life](https://open.spotify.com/album/0s8EB6gEdqpI2Aa1Ek87CY) | 2:24 | 2021-11-10 | 2024-03-26 |
 | [Stream Of Sleep](https://open.spotify.com/track/2sntSmbUc6xYEAh82RfreY) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Liquid Dream](https://open.spotify.com/album/0tnqwi45420HdLVOC1V9rn) | 2:24 | 2021-11-10 |  |
 | [Stress Relieving Sounds](https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW) | [Hidden Baltic Waves](https://open.spotify.com/artist/4wfduTyoMdvRNrbexmxn97) | [Wave Sounds For Sleep](https://open.spotify.com/album/3tvZj6qxgRKRg4WQEJiMGP) | 2:45 | 2022-01-21 | 2024-03-26 |
-| [Strong Soothing Surf](https://open.spotify.com/track/5TmrnJjw5npy4fb7DozZLN) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Receding Tide](https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46) | 3:05 | 2025-02-18 |  |
+| [Strong Soothing Surf](https://open.spotify.com/track/5TmrnJjw5npy4fb7DozZLN) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Receding Tide](https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46) | 3:05 | 2025-02-18 | 2025-02-20 |
 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 | 2021-11-10 |  |
 | [Summer Ocean Waves](https://open.spotify.com/track/6RfkQdyd9B1Q8SFNT6Wvwn) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:31 | 2021-11-10 | 2024-03-26 |
 | [Sunrise At The Ocean Mermaid](https://open.spotify.com/track/51bdGaEYbw9o5GTnVw6c4A) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:17 | 2022-08-03 |  |

@@ -166,6 +166,24 @@
     {
       "album": {
         "name": "1984",
+        "url": "https://open.spotify.com/album/06oDgcuzei9MKffwRgw98C"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250537,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/3OT1OWjqzG5aqAqUrN297t"
+    },
+    {
+      "album": {
+        "name": "1984",
         "url": "https://open.spotify.com/album/2Fm4S5muGDEJoqkEsa3saX"
       },
       "artists": [
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis"
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2020-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
@@ -5084,7 +5102,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "cowboy in LA",
       "url": "https://open.spotify.com/track/22ZcJxQkzIL6EU692kAFWY"
@@ -7998,7 +8016,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 221560,
       "name": "Forgive You",
       "url": "https://open.spotify.com/track/1sfTdlWfcFdI7NfmcfZPii"
@@ -8092,7 +8110,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "Free Spirit",
       "url": "https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq"
@@ -9912,7 +9930,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 260368,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
@@ -9966,7 +9984,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -10998,7 +11016,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
@@ -12068,7 +12086,7 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
@@ -12610,7 +12628,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 201391,
       "name": "In a Stranger's Arms",
       "url": "https://open.spotify.com/track/00K0B8nvfmTif7poYsk378"
@@ -14096,7 +14114,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 245186,
       "name": "Let's See What The Night Can Do",
       "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
@@ -14698,7 +14716,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 229243,
       "name": "Lonely Eyes",
       "url": "https://open.spotify.com/track/0J0NFpFS5rirZlS2ZUM1mq"
@@ -14828,7 +14846,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 239697,
       "name": "Look for the Good - Single Version",
       "url": "https://open.spotify.com/track/3IORLAm07yxo4T7B8cRET3"
@@ -15648,7 +15666,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "Lover Come Back",
       "url": "https://open.spotify.com/track/700GV5YS7noKnkb2tptAZd"
@@ -15882,7 +15900,7 @@
       ],
       "date_added": "2019-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 224813,
       "name": "Mai Tais (feat. Skylar Grey)",
       "url": "https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt"
@@ -17976,7 +17994,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 146946,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/3E3zYgQul8EaJioNvD2tv9"
@@ -19002,7 +19020,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9"
@@ -20868,7 +20886,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
@@ -21906,7 +21924,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 285053,
       "name": "Stop This Train",
       "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
@@ -22014,7 +22032,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 214653,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
@@ -23476,7 +23494,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
@@ -23494,7 +23512,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 187454,
       "name": "The Captain Is Drunk",
       "url": "https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk"
@@ -24092,7 +24110,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 199306,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/1hdSvBsFEw1I5ZOLOoxf3Y"
@@ -24200,7 +24218,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
@@ -24532,7 +24550,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 204386,
       "name": "Time To Move (feat. John Mayer)",
       "url": "https://open.spotify.com/track/5MNrNji198JkIQK2GBbUcQ"
@@ -25206,7 +25224,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 231266,
       "name": "Unlonely",
       "url": "https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX"
@@ -27110,7 +27128,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 281546,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/7HTHt4ssmovXitoLMvWZ7u"
@@ -27896,7 +27914,7 @@
       ],
       "date_added": "2019-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

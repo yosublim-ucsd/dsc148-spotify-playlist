@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,469 likes - 126 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,498 likes - 126 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

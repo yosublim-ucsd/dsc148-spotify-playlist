@@ -1,6 +1,6 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2471,
+  "num_followers": 2472,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
@@ -178,6 +178,10 @@
         {
           "name": "NOX",
           "url": "https://open.spotify.com/artist/0gX8YOGwsAeQpLJas154Fo"
+        },
+        {
+          "name": "Hanna Kronqvist",
+          "url": "https://open.spotify.com/artist/2trkM2kGHclcjIZTGlRzbo"
         }
       ],
       "duration_ms": 121479,

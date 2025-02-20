@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Natos y Waor, Hoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,512 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,529 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [CASAS ROSAS](https://open.spotify.com/track/6miOyimBD4VN4xlPUlNhMs) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CASAS ROSAS](https://open.spotify.com/album/2HQd9y8Zun9wmPh6EL2fxA) | 2:45 |
 | 50 | [la raíz d€l mal](https://open.spotify.com/track/6S8uVRVYlNsXLQ57FCWpt8) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [blu€s](https://open.spotify.com/album/4w81uLwtHNI0rgoLYBJCIT) | 2:13 |
 
-Snapshot ID: `Z7St3wAAAABticm/kKws6HNpDjVOA31c`
+Snapshot ID: `Z7St3wAAAABk1dkjQW/jlNSx5S4WXU8t`

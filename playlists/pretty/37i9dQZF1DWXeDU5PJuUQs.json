@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 210028,
+  "num_followers": 210162,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-17 13:34:15",
       "album": {
-        "name": "Amiga Traidora (En Vivo)",
-        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 236736,
-      "name": "Amiga Traidora - En Vivo",
-      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
-    },
-    {
-      "added_at": "2025-01-17 13:34:15",
-      "album": {
         "name": "Y Tu Te Vas / P\u00eddeme",
         "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 350687,
       "name": "Y Tu Te Vas / P\u00eddeme",
       "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
+    },
+    {
+      "added_at": "2025-01-17 13:34:15",
+      "album": {
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
     },
     {
       "added_at": "2025-01-17 13:34:15",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2025-01-17 13:34:15",
       "album": {
-        "name": "Recordando / Dudas (En Vivo)",
-        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 307375,
-      "name": "Recordando / Dudas - En Vivo",
-      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2025-01-17 13:34:15",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2025-01-17 13:34:15",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Recordando / Dudas (En Vivo)",
+        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
         }
       ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+      "duration_ms": 307375,
+      "name": "Recordando / Dudas - En Vivo",
+      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
     },
     {
       "added_at": "2025-01-17 13:34:15",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-01-17 13:34:15",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2025-01-17 13:34:15",

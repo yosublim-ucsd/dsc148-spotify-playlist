@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-218 songs - 9 hr 32 min
+219 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 | 2023-10-27 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2023-10-27 | 2024-02-22 |
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-10-27 |  |
+| [Like a sculptor](https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Like a sculptor](https://open.spotify.com/album/6fMYKlHURk5Lps6PXxmv67) | 2:37 | 2025-02-19 |  |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2023-10-27 |  |
 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 | 2025-01-07 |  |
 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 | 2023-10-27 |  |

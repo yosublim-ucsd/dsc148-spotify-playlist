@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "BNG",
+        "url": "https://open.spotify.com/album/06HawAWqvBy2rMirHOiKii"
+      },
+      "artists": [
+        {
+          "name": "Gizem Duman",
+          "url": "https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196097,
+      "name": "BNG",
+      "url": "https://open.spotify.com/track/1XiIqbHZld1FrvOxm2er2J"
+    },
+    {
+      "album": {
         "name": "Bu Ne Bela",
         "url": "https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 289375,
       "name": "Tane Tane",
       "url": "https://open.spotify.com/track/1Fn1hhLZj1cQc1CSmiVpJf"

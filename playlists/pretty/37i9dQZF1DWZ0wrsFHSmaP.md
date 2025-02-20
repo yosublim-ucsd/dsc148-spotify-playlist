@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Kankawa Nagarra
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,137 likes - 109 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,139 likes - 109 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 24 | [Adhibuya](https://open.spotify.com/track/0pP9fBeviwU0lP8onRiPGN) | [Christine Anu](https://open.spotify.com/artist/0VyhYyWWF5yYomHQR4hCMl) | [Waku \- Minaral A Minalay](https://open.spotify.com/album/1gs1fnpSuzms1SBc4FWWp3) | 2:26 |
 | 25 | [Feeling Good](https://open.spotify.com/track/5XfYc3a3W2Hr6ifxKjyUXP) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Feeling Good](https://open.spotify.com/album/53MIW70V1euyCMjGhhIxlk) | 2:20 |
 | 26 | [Shine on You](https://open.spotify.com/track/426izwfHvHhawnKmUxidRC) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Til My Song Is Done](https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc) | 4:29 |
-| 27 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 |
+| 27 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:26 |
 | 28 | [Everywhere I Go](https://open.spotify.com/track/5Q43RChJW2kZwRqYpzlUxQ) | [The Struggling Kings](https://open.spotify.com/artist/6xAr7GCmYgrwlq5mh7ItM3) | [Everywhere I Go](https://open.spotify.com/album/6n0Ju3z38Xm5qFsLREKDOP) | 3:22 |
 | 29 | [Mundagudda](https://open.spotify.com/track/63AY0NiRE6bKerRf3EUcGA) | [GLVES](https://open.spotify.com/artist/7wRaOhk0CnmQUzewX36M2u), [Aunty Jude](https://open.spotify.com/artist/2KH941xO9aseCU7Ls4tRQn) | [Mundagudda](https://open.spotify.com/album/155eFuPKL1YsYe6ALedLGa) | 4:38 |
 | 30 | [This Land](https://open.spotify.com/track/1dF2NggCOOBru7BRI0lkIa) | [Charlie Needs Braces](https://open.spotify.com/artist/0fZXikVT0SFLWxfLBNQ9Tb) | [This Land](https://open.spotify.com/album/1kMIBnspyBYfnVW4gEsBzl) | 3:32 |

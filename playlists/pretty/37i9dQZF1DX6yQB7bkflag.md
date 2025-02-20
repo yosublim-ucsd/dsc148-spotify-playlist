@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,806 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,801 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 104 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
 | 105 | [I Don't Know](https://open.spotify.com/track/0Lsj4cCPCc1IvoS7mderH9) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [I Don't Know](https://open.spotify.com/album/6aX1uKqIchfKONT5UAVGtK) | 2:49 |
 | 106 | [Sudah Tertulis](https://open.spotify.com/track/5OGe2RJXBbjLh8wvzWH8yH) | [Datuk Nora Ariffin](https://open.spotify.com/artist/2TrwT1b7qYKmY9jxJU3OVs), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Sudah Tertulis](https://open.spotify.com/album/2igwkgNR0GfAwtqnje9GEe) | 4:03 |
-| 107 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 107 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 108 | [Is It Love?](https://open.spotify.com/track/31M7Jau1Yoi6ilPLlhrVbQ) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Is It Love?](https://open.spotify.com/album/1kJkNIfeNPT7aBL03sT4L7) | 3:15 |
 | 109 | [DOES GOD CRY?](https://open.spotify.com/track/74DwCvkt3EXZNP56sR9Nyl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DOES GOD CRY?](https://open.spotify.com/album/10f1UaKePCa0d1TD581ly5) | 3:38 |
 | 110 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |

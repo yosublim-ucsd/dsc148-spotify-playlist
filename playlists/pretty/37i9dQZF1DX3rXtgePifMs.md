@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,320 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,333 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 67 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 68 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
 | 69 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
-| 70 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
-| 71 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
+| 70 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
+| 71 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
 | 72 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
 | 73 | [Powder](https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd) | [Pontypool](https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ) | [Powder](https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R) | 3:26 |
 | 74 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |

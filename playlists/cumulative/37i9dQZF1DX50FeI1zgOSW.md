@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-469 songs - 1 day 2 hr 49 min
+470 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Kadhal Galatta](https://open.spotify.com/track/7tIXZQDdZIhzkTShkehC4k) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Retro Rhythms a Modern Tale](https://open.spotify.com/album/4DzxbCGlVp2MvbKFjJafvk) | 2:56 | 2025-01-31 |  |
 | [Kadhal Nadhi](https://open.spotify.com/track/3kEnnTKurE8gPxO0SbuEgb) | [Vivek Bhushan](https://open.spotify.com/artist/5OuWnU6KRP8m7AdhizH4uh), [Nishant Padmanabhan](https://open.spotify.com/artist/2PNWRfbN8GEJeXON4efP25) | [Kadhal Nadhi](https://open.spotify.com/album/5qG2AId5JEPlOeCngNGrob) | 3:02 | 2023-06-15 | 2023-11-16 |
 | [Kadhal Nodigal](https://open.spotify.com/track/769WWvSINZ4xYmL07TLnpZ) | [Dakshan Kumar N](https://open.spotify.com/artist/0VU3rDfAC1So5cgajgl5ls), [Wow Karthik Kumar](https://open.spotify.com/artist/64SrfLQUA8pKnNt9poKQf8), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Kadhal Nodigal](https://open.spotify.com/album/0gOquhieGwYkXXKx4e3892) | 5:46 | 2024-01-19 | 2024-07-30 |
+| [Kadhal Oothikichu](https://open.spotify.com/track/5FgpKmsBqNgazTVFI3s38v) | [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Keerthan](https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1) | [Kadhal Oothikichu](https://open.spotify.com/album/01AxodsBUGvR5wruMx83oc) | 2:56 | 2025-02-19 |  |
 | [Kadhal Raasee](https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [OJ Da Tamil Rapper](https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Kadhal Raasee](https://open.spotify.com/album/1GSRblB74gF4QNAGzsEPsi) | 3:01 | 2023-03-21 | 2023-08-01 |
 | [Kadhal Reggae](https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po) | [Kadhal Reggae](https://open.spotify.com/album/1JbxLCEDE5N3j7iqhU9Ia8) | 3:27 | 2024-03-04 | 2024-03-18 |
 | [Kadhal Senji Kolladha](https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq) | [Narendra Prasath](https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD), [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg) | [Kadhal Senji Kolladha](https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln) | 2:04 | 2024-03-12 | 2024-10-12 |
@@ -297,7 +298,7 @@
 | [Oh Penne](https://open.spotify.com/track/14VjnMSZqC2hA8dIXMeBzi) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3bm1opjPl4lY3EJh8yW9SZ) | 4:15 | 2024-02-01 | 2024-04-02 |
 | [Oh Penne](https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr) | 4:15 | 2023-10-23 | 2024-02-21 |
 | [Ohh baby](https://open.spotify.com/track/3OFcjtynBhxIo7bqicTMHI) | [Pakeecbala](https://open.spotify.com/artist/7CiXx6zWGKJBrQgbnSNQAa) | [Ohh baby](https://open.spotify.com/album/5sFnKxanj2GfkBDYylVdpB) | 2:55 | 2024-05-03 | 2024-12-03 |
-| [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 | 2024-11-20 |  |
+| [Olti Vudu](https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Olti Vudu](https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo) | 2:40 | 2024-11-20 | 2025-02-20 |
 | [On Air](https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [On Air](https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5) | 1:42 | 2024-05-13 | 2024-12-06 |
 | [Ondraga Selvoma](https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel) | [Abu](https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Ondraga Selvoma](https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y) | 6:00 | 2024-07-31 | 2024-08-24 |
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 | 2024-10-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Bad Bunny",
-  "num_followers": 220931,
+  "num_followers": 221076,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
+    },
+    {
+      "added_at": "2025-02-07 03:00:06",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2025-02-07 03:00:06",
-      "album": {
-        "name": "ROMEO",
-        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "ROMEO",
-      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
     },
     {
       "added_at": "2025-02-07 03:00:06",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
+        "name": "Hoy no me siento bien",
+        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153709,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
+    },
+    {
+      "added_at": "2025-02-07 03:00:06",
+      "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
-    },
-    {
-      "added_at": "2025-02-07 03:00:06",
-      "album": {
-        "name": "Hoy no me siento bien",
-        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153709,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
     },
     {
       "added_at": "2025-02-07 03:00:06",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
-        "name": "1000COSAS",
-        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "1000COSAS",
-      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
-    },
-    {
-      "added_at": "2025-02-07 03:00:06",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2025-02-07 03:00:06",
+      "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "added_at": "2025-02-07 03:00:06",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
-    },
-    {
-      "added_at": "2025-02-07 03:00:06",
-      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+    },
+    {
+      "added_at": "2025-02-07 03:00:06",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
     },
     {
       "added_at": "2025-02-07 03:00:06",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
-        "name": "Estoy Aqu\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
+        "name": "Copa Vac\u00eda",
+        "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
       "artists": [
         {
@@ -1176,13 +1176,13 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 159755,
-      "name": "Estoy Aqu\u00ed - Remix",
-      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+      "duration_ms": 173547,
+      "name": "Copa Vac\u00eda",
+      "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
     },
     {
       "added_at": "2025-02-07 03:00:06",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2025-02-07 03:00:06",
       "album": {
-        "name": "Copa Vac\u00eda",
-        "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
+        "name": "Estoy Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
       },
       "artists": [
         {
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 173547,
-      "name": "Copa Vac\u00eda",
-      "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
+      "duration_ms": 159755,
+      "name": "Estoy Aqu\u00ed - Remix",
+      "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
     },
     {
       "added_at": "2025-02-07 03:00:06",

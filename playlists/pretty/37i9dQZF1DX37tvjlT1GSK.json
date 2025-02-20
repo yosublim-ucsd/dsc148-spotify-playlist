@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Marca MP en portada. ",
-  "num_followers": 806579,
+  "num_followers": 806604,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-01-31 07:53:24",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2025-01-31 07:53:24",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2025-01-31 07:53:24",
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2025-01-31 07:53:24",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-31 07:53:24",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2025-01-31 07:53:24",
-      "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 195334,
       "name": "0 Sentimientos",
       "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2025-01-31 07:53:24",
+      "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2025-01-31 07:53:24",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-01-31 07:53:24",
       "album": {
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+      },
+      "artists": [
+        {
+          "name": "Picassoo",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+        }
+      ],
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+    },
+    {
+      "added_at": "2025-01-31 07:53:24",
+      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
-    },
-    {
-      "added_at": "2025-01-31 07:53:24",
-      "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
-      },
-      "artists": [
-        {
-          "name": "Picassoo",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
     },
     {
       "added_at": "2025-01-31 07:53:24",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2025-01-31 07:53:24",
       "album": {
-        "name": "Morro",
-        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Morro",
-      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
-    },
-    {
-      "added_at": "2025-01-31 07:53:24",
-      "album": {
         "name": "Mala Novia",
         "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 212880,
       "name": "Mala Novia",
       "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
+    },
+    {
+      "added_at": "2025-01-31 07:53:24",
+      "album": {
+        "name": "Morro",
+        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Morro",
+      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
     },
     {
       "added_at": "2025-01-31 07:53:24",
@@ -2199,22 +2199,22 @@
     {
       "added_at": "2025-01-31 07:53:24",
       "album": {
-        "name": "Trippy Love",
-        "url": "https://open.spotify.com/album/4OUD5Az0wnZs7jgHVxatak"
+        "name": "UNA LOKURA",
+        "url": "https://open.spotify.com/album/6wkmruqosLUIuQPbXHmEVw"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 224170,
-      "name": "Trippy Love",
-      "url": "https://open.spotify.com/track/58MPaYlQ73JTa2DwkMDEyM"
+      "duration_ms": 212057,
+      "name": "UNA LOKURA",
+      "url": "https://open.spotify.com/track/3YEGRP2AvlsfopfqiHkVew"
     }
   ],
   "unique_name": "Sierre\u00f1o 2025",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Espinoza Paz en portada. ",
-  "num_followers": 1920880,
+  "num_followers": 1921014,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Sue\u00f1o XXX",
         "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 181986,
       "name": "Me Sobrabas T\u00fa",
       "url": "https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 165533,
       "name": "Ebrio De Amor",
       "url": "https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -935,34 +919,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "El Antes Y El Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
-      },
-      "artists": [
-        {
-          "name": "La Poderosa Banda San Juan",
-          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Disculpa Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/37mRiEkMEFpBTengqlBBXW"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -983,6 +951,38 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
+        "name": "El Antes Y El Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
+      },
+      "artists": [
+        {
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Disculpa Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/37mRiEkMEFpBTengqlBBXW"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
         "name": "Huele A Peligro",
         "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Vas A Llorar Por M\u00ed",
-      "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 162584,
       "name": "Inv\u00edtame Un Cigarro",
       "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Vas A Llorar Por M\u00ed",
+      "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 187000,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "La M\u00e1s Deseada",
-      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 183826,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Ranchero y Mucho M\u00e1s",
-        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
       "artists": [
         {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163066,
-      "name": "Creo Estar Sona\u00f1do",
-      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
+      "duration_ms": 182090,
+      "name": "Torera",
+      "url": "https://open.spotify.com/track/2285jfU1YCDJKNeoaDWanQ"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+        "name": "Ranchero y Mucho M\u00e1s",
+        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
         }
       ],
-      "duration_ms": 182090,
-      "name": "Torera",
-      "url": "https://open.spotify.com/track/2285jfU1YCDJKNeoaDWanQ"
+      "duration_ms": 163066,
+      "name": "Creo Estar Sona\u00f1do",
+      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 114903,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/1ZnzxW8jLzd180IE5Zq6xy"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
         "name": "Usted Dir\u00e1",
         "url": "https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM"
       },
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Postrado A Tus Pies",
-        "url": "https://open.spotify.com/album/78tTrHml784gmwEJM0VlY0"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/4f5gY8aQVtRMrJCPmt9Y51"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "S\u00f3lo Contigo",
         "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
       },
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+        "name": "Postrado A Tus Pies",
+        "url": "https://open.spotify.com/album/78tTrHml784gmwEJM0VlY0"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 114903,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/1ZnzxW8jLzd180IE5Zq6xy"
+      "duration_ms": 246426,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/4f5gY8aQVtRMrJCPmt9Y51"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 234198,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Borr\u00f3n y Cuenta Nueva",
-        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 214153,
-      "name": "T\u00edpico Cl\u00e1sico",
-      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
+      "duration_ms": 179017,
+      "name": "Muchas Gracias",
+      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 179017,
-      "name": "Muchas Gracias",
-      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
+      "duration_ms": 214153,
+      "name": "T\u00edpico Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
     },
     {
       "added_at": "2024-10-30 18:08:52",

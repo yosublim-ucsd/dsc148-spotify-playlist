@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Spellbound
 
-144 songs - 5 hr 58 min
+146 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [No Joke](https://open.spotify.com/track/369cUfAg4WPjEH5DIWqYa0) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Shaun Taylor\-Corbett](https://open.spotify.com/artist/6G7liVqZX8ZUcMagOvH2Zi) | [Spirit Rangers: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1lObFcH6qNPWcoASyNwq8N) | 1:08 | 2023-05-05 |  |
 | [Now or Never \(feat\. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada\)](https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Charlie Gillespie](https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz), [Owen Patrick Joyner](https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa), [Jeremy Shada](https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:04 | 2022-04-08 | 2024-08-17 |
 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 | 2022-04-08 |  |
+| [One Big Happy Family](https://open.spotify.com/track/772LfKGhSgcDHt2Cx7sSsD) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [One Big Happy Family](https://open.spotify.com/album/2XR3tIQs2cwras3u8gwsus) | 0:57 | 2025-02-19 |  |
 | [Ordinary Me](https://open.spotify.com/track/6gGjGxycyFeXx4s7rWogvU) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 1:26 | 2022-10-12 | 2024-04-19 |
 | [Ordinary Me](https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 1:26 | 2022-04-08 | 2024-08-17 |
 | [Ordinary Me](https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 1:26 | 2022-10-12 | 2022-11-24 |
@@ -151,6 +152,7 @@
 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 | 2022-04-08 | 2024-08-17 |
 | [Wheels on the Bus](https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:27 | 2022-04-08 |  |
 | [Yellow Submarine](https://open.spotify.com/track/7uXZBavuyzvEKGQHLwL1Om) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p) | [The Beat Bugs: Complete Season 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/3WFTOCjaSVgBsi9msmnsFQ) | 2:42 | 2022-04-08 | 2024-08-17 |
+| [You Be You](https://open.spotify.com/track/71XB5KfsnLhjMrFFjhbzbc) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [You Be You](https://open.spotify.com/album/0011x2sdIGIQBjP0ao6GNx) | 2:26 | 2025-02-19 |  |
 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Spirit Untamed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0) | 3:16 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

@@ -1,44 +1,304 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Cameron Winter",
-  "num_followers": 241798,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Cdubz",
+  "num_followers": 242095,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6zFAwAAAAAk9DrprgIJMgYgzXg/C2d/",
+  "snapshot_id": "Z7Y8jgAAAAAlD26sq481iIQHdq2CWG59",
   "tracks": [
     {
-      "added_at": "2025-02-12 15:57:55",
+      "added_at": "2025-02-19 17:00:30",
       "album": {
-        "name": "Can We Be Still",
-        "url": "https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue"
+        "name": "I Know You Know",
+        "url": "https://open.spotify.com/album/1XHH1yi59VWoo68blXLzvc"
       },
       "artists": [
         {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
         }
       ],
-      "duration_ms": 234185,
-      "name": "Can We Be Still",
-      "url": "https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt"
+      "duration_ms": 226811,
+      "name": "I Know You Know",
+      "url": "https://open.spotify.com/track/5uA4X62i0diH2aEjhJ1Gmu"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "American Spirit",
+        "url": "https://open.spotify.com/album/1BDE091SFEsixfNeTD3WoE"
+      },
+      "artists": [
+        {
+          "name": "Leila Lamb",
+          "url": "https://open.spotify.com/artist/2n3aUuffTp4GLAVEcqILwp"
+        }
+      ],
+      "duration_ms": 209256,
+      "name": "American Spirit",
+      "url": "https://open.spotify.com/track/3N7PfBVaHgqu0ATWmGdSH5"
+    },
+    {
+      "added_at": "2025-02-19 20:18:22",
+      "album": {
+        "name": "Chance2",
+        "url": "https://open.spotify.com/album/6mj0H7XVkK6oTvey2hKmuC"
+      },
+      "artists": [
+        {
+          "name": "mykel",
+          "url": "https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD"
+        }
+      ],
+      "duration_ms": 126843,
+      "name": "Chance2",
+      "url": "https://open.spotify.com/track/3yEt9fURZ2R0lzDO7FOp53"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Wire walks",
+        "url": "https://open.spotify.com/album/2nCp1AnCFVPkXe1JAJn2R4"
+      },
+      "artists": [
+        {
+          "name": "Amy Millan",
+          "url": "https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p"
+        }
+      ],
+      "duration_ms": 262295,
+      "name": "Wire walks",
+      "url": "https://open.spotify.com/track/6nNnim0OaC5gRlPsKow1re"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "7 minutes in heaven",
+        "url": "https://open.spotify.com/album/5cxtSmeK3EugYV2ESKAjr0"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "7 minutes in heaven",
+      "url": "https://open.spotify.com/track/5v6rLrTb6JzqgXXuwGVevq"
     },
     {
       "added_at": "2025-02-12 15:57:55",
       "album": {
-        "name": "Sideliner",
-        "url": "https://open.spotify.com/album/560WGlumUkRCCGyutUTV2j"
+        "name": "I Used To",
+        "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
       },
       "artists": [
         {
-          "name": "vern matz",
-          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+          "name": "Cdubz",
+          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Sideliner",
-      "url": "https://open.spotify.com/track/6y9Fz6JFLzAXHPIRznEeEu"
+      "duration_ms": 186841,
+      "name": "I Used To",
+      "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Tooth (feat. Jia*)",
+        "url": "https://open.spotify.com/album/2HIlSd7Euk5LESws8QF8OK"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        },
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "duration_ms": 166607,
+      "name": "Tooth (feat. Jia*)",
+      "url": "https://open.spotify.com/track/031xASsHnMeFyjCXm76zcK"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "ARI",
+        "url": "https://open.spotify.com/album/3c2W7IyMg1x9im3Hhz9WLo"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 139795,
+      "name": "ARI",
+      "url": "https://open.spotify.com/track/4xZALaMQNhvses6epSwBD5"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/2J6PtCQclErmWm4uccp9GK"
+      },
+      "artists": [
+        {
+          "name": "Akira Galaxy",
+          "url": "https://open.spotify.com/artist/7JZCkitZk0jBzOKOfV3LdC"
+        }
+      ],
+      "duration_ms": 237993,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/6JcAhigrVugctKvkr40WcN"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Paradise Park",
+        "url": "https://open.spotify.com/album/0uqJG5xGofia2kCQf0rfDT"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Paradise Park",
+      "url": "https://open.spotify.com/track/4MWSm49RdbEceQVM9GV8pk"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Make You Stay",
+        "url": "https://open.spotify.com/album/04FhNWN0l8KwaRvkm2GJ9x"
+      },
+      "artists": [
+        {
+          "name": "Mileage",
+          "url": "https://open.spotify.com/artist/1QWnLkZHxCYe3ibonSIeUw"
+        }
+      ],
+      "duration_ms": 181043,
+      "name": "Make You Stay",
+      "url": "https://open.spotify.com/track/1znldzNvQU9rsJpU1X3A41"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/7i7TlV6J4nopvfhzE4PhQr"
+      },
+      "artists": [
+        {
+          "name": "Buboy",
+          "url": "https://open.spotify.com/artist/4xUjK4i8SLrp8zXmLrgk2Z"
+        }
+      ],
+      "duration_ms": 198342,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/73H0ETTpv2iavuUyOgipSQ"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Sparkling Water",
+        "url": "https://open.spotify.com/album/43GPrRRQavdXXiTt9idDJJ"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 159877,
+      "name": "Sparkling Water",
+      "url": "https://open.spotify.com/track/1KwqLgO61ERgJi4hIazFBh"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5CMK3p2LedacYKnGME0scv"
+      },
+      "artists": [
+        {
+          "name": "Clara Le Bouar",
+          "url": "https://open.spotify.com/artist/5d4Z9gtKIo66PT6hMbmevx"
+        }
+      ],
+      "duration_ms": 183691,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/4M4kSsfbi3gh0y1JfhnIYS"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "IKMSAD",
+        "url": "https://open.spotify.com/album/1J63t6qcAXrP0mUdCFYHr7"
+      },
+      "artists": [
+        {
+          "name": "Herzyis",
+          "url": "https://open.spotify.com/artist/0bTE7wbl8rksq7PdLkXdrp"
+        }
+      ],
+      "duration_ms": 95144,
+      "name": "IKMSAD",
+      "url": "https://open.spotify.com/track/5in80vTEGRvMlZZK6wlHOQ"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/06SIYHNDdQ3FC6aMYSbj3h"
+      },
+      "artists": [
+        {
+          "name": "My Mercury",
+          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
+        }
+      ],
+      "duration_ms": 226154,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/50kYF58uIez9P2imI10BVI"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Things I Left Behind",
+        "url": "https://open.spotify.com/album/1cEjk0o64yXruH8Ip8T9JC"
+      },
+      "artists": [
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/1K9ioYi2XAVkS3Ky53IELe"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Things I Left Behind",
+      "url": "https://open.spotify.com/track/7Mz6dfkjtq1zz05hFJ9oJq"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/7IUV92EYofObhq0GMPAFVr"
+      },
+      "artists": [
+        {
+          "name": "Mim Jensen",
+          "url": "https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4xltSVuW1oEBr7jMiI4VLH"
     },
     {
       "added_at": "2025-02-12 15:57:55",
@@ -57,6 +317,22 @@
       "url": "https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm"
     },
     {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Can We Be Still",
+        "url": "https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Can We Be Still",
+      "url": "https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt"
+    },
+    {
       "added_at": "2025-01-22 17:00:14",
       "album": {
         "name": "planet you forgot me",
@@ -71,6 +347,22 @@
       "duration_ms": 365395,
       "name": "planet you forgot me",
       "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Sideliner",
+        "url": "https://open.spotify.com/album/560WGlumUkRCCGyutUTV2j"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sideliner",
+      "url": "https://open.spotify.com/track/6y9Fz6JFLzAXHPIRznEeEu"
     },
     {
       "added_at": "2025-02-12 15:57:55",
@@ -167,22 +459,6 @@
       "duration_ms": 195320,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
-    },
-    {
-      "added_at": "2025-02-12 15:57:55",
-      "album": {
-        "name": "I Used To",
-        "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
-      },
-      "artists": [
-        {
-          "name": "Cdubz",
-          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
-        }
-      ],
-      "duration_ms": 186841,
-      "name": "I Used To",
-      "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
     },
     {
       "added_at": "2025-02-12 15:57:55",

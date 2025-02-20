@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,342 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,381 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 25 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
 | 26 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
 | 27 | [HΣRΞGE](https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [MAURØ \- FØRMA \(Ao Vivo Hard Rock Cafe\)](https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe) | 6:37 |
-| 28 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
-| 29 | [Não Sou Mais Eu](https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Não Sou Mais Eu](https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx) | 4:47 |
+| 28 | [Não Sou Mais Eu](https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Não Sou Mais Eu](https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx) | 4:47 |
+| 29 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
 | 30 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
 | 31 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 |
 | 32 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |

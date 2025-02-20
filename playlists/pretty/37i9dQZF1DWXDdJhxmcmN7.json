@@ -1,6 +1,6 @@
 {
   "description": "Beats lo-fi con sabor mexa. Takeover: Chill&Go. Arte: Lis Marroquin ",
-  "num_followers": 34277,
+  "num_followers": 34293,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
-      },
-      "artists": [
-        {
-          "name": "Gagdropers",
-          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
-        }
-      ],
-      "duration_ms": 132551,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
+        "name": "22",
+        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
       },
       "artists": [
         {
-          "name": "Chill Blunt",
-          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
         }
       ],
-      "duration_ms": 117000,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
+      "duration_ms": 132551,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -483,6 +467,22 @@
       "duration_ms": 131541,
       "name": "La Casa Azul",
       "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
+      },
+      "artists": [
+        {
+          "name": "Chill Blunt",
+          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Taco Envenenado",
-        "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 118285,
-      "name": "Taco Envenenado",
-      "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Taco Envenenado",
+        "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Taco Envenenado",
+      "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Los Vinilos de Mi Abuelo",
-        "url": "https://open.spotify.com/album/5ydNvh7aeSfYrPWL2Q7r7I"
-      },
-      "artists": [
-        {
-          "name": "Unsxgned",
-          "url": "https://open.spotify.com/artist/3OAjPREfc1vOHOBQp4f4z6"
-        }
-      ],
-      "duration_ms": 165008,
-      "name": "Los Vinilos de Mi Abuelo",
-      "url": "https://open.spotify.com/track/066KFPg9SDg95q5Gbzgu06"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Jardines, Vol.2",
         "url": "https://open.spotify.com/album/7Mntz7cJqcGKJWxfqaWRQy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 99958,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/0rJobBGRwYAW2Chl3OQZ3u"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Los Vinilos de Mi Abuelo",
+        "url": "https://open.spotify.com/album/5ydNvh7aeSfYrPWL2Q7r7I"
+      },
+      "artists": [
+        {
+          "name": "Unsxgned",
+          "url": "https://open.spotify.com/artist/3OAjPREfc1vOHOBQp4f4z6"
+        }
+      ],
+      "duration_ms": 165008,
+      "name": "Los Vinilos de Mi Abuelo",
+      "url": "https://open.spotify.com/track/066KFPg9SDg95q5Gbzgu06"
     },
     {
       "added_at": "2025-01-31 06:00:28",

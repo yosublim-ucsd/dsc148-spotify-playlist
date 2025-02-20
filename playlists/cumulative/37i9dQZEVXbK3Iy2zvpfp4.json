@@ -17299,6 +17299,28 @@
     },
     {
       "album": {
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
+    },
+    {
+      "album": {
         "name": "FUNK DO BOUNCE",
         "url": "https://open.spotify.com/album/3f175qIw4LVA5Gc26g4UYy"
       },
@@ -19976,7 +19998,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -52600,7 +52622,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -59146,7 +59168,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 195505,
       "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"

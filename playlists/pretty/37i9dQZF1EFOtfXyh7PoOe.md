@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825 likes - 133 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 826 likes - 133 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 44 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
 | 45 | [Aura](https://open.spotify.com/track/0wJ9zDx3bJEgYtAAQde1KZ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:27 |
 | 46 | [Baka Baka](https://open.spotify.com/track/0fKytXZdtE8RbERDrd5Dn4) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:27 |
-| 47 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 |
-| 48 | [AEIOU](https://open.spotify.com/track/1UJawJrJWGcRpvNNDPoQea) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 3:15 |
+| 47 | [AEIOU](https://open.spotify.com/track/1UJawJrJWGcRpvNNDPoQea) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 3:15 |
+| 48 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 |
 | 49 | [Better Together](https://open.spotify.com/track/4AtWVGzEHWvq7kXtUYuP2e) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 2:58 |
 | 50 | [Dare U](https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Dare U](https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V) | 2:21 |
 | 51 | [7 Cigs](https://open.spotify.com/track/2ka8FmAobM5dCkWlBLVCMC) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 57 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:07 |
 | 58 | [In The Night](https://open.spotify.com/track/3WiLJNcLc7LC7IxVGFQZYK) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79) | [In The Night](https://open.spotify.com/album/2XmcywRb1e7pkN7kkgLPgg) | 2:37 |
 | 59 | [FRIENDS \- A Boogie Wit Da Hoodie Remix](https://open.spotify.com/track/4dCumGK60yfBKJnKwM8FtO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [FRIENDS \(A Boogie Wit Da Hoodie Remix\)](https://open.spotify.com/album/48yQwHhuCrcQa299qV0qiC) | 3:22 |
-| 60 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
-| 61 | [After Love \(feat\. Delilah Montagu\)](https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:10 |
+| 60 | [After Love \(feat\. Delilah Montagu\)](https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:10 |
+| 61 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
 | 62 | [Kendine Gel](https://open.spotify.com/track/33M46WVzB3S94em09c9kkG) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 3:31 |
 | 63 | [The Night](https://open.spotify.com/track/0N0NC1efHb304JX93dPltf) | [Owen Norton](https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5) | [The Night](https://open.spotify.com/album/6G0WSQeCvxZJzPBnByqux5) | 2:56 |
 | 64 | [Start Walking](https://open.spotify.com/track/3rCnBkJlXQMDvivFU4NEtC) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 3:14 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 132 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 | 133 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 
-Snapshot ID: `Abp84AAAAAA4dfdM4ZZYWDpF0lD/vYUt`
+Snapshot ID: `AbqCdwAAAABM6gcFMkWm8MHNLX9877Mc`

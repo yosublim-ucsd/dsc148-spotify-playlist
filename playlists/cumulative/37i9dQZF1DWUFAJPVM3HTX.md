@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q"> Kennedy Ryon</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn\-FQhGdTiuZtW2jdm7Ljg"> JayDon</a>\. Updates every Wednesday.
 
-2,955 songs - 6 day 5 hr 54 min
+2,956 songs - 6 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,6 +1159,7 @@
 | [Honey Child](https://open.spotify.com/track/1Gh8LZKDWM0DuZq7rKC4B9) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Honey Child](https://open.spotify.com/album/6sBqZzpw0SJOgY6G0GUINR) | 3:58 | 2023-10-25 | 2023-11-30 |
 | [Honeydew](https://open.spotify.com/track/7Ml00EUWOQofrC8S6ZaNZa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [Honeydew](https://open.spotify.com/album/3w4AYFWsuNNHuHLrnA7mkE) | 4:44 | 2024-10-26 | 2024-12-05 |
 | [Honeymoons Over interlude](https://open.spotify.com/track/224kGaZzHamVgDkTxSL9XL) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Heartbreak Therapy](https://open.spotify.com/album/0UAiwta8WdzuvCRy6bRWnM) | 1:59 | 2024-04-10 | 2024-07-20 |
+| [HOOKED](https://open.spotify.com/track/3z7QwaHcyGUBCB5OB8202L) | [Gordon](https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g) | [HOOKED](https://open.spotify.com/album/4TctGT0owu38uREKaEL8PF) | 2:25 | 2025-02-19 |  |
 | [Hooked](https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Hooked](https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8) | 2:26 | 2024-01-10 | 2024-03-23 |
 | [Hope](https://open.spotify.com/track/7yJQ8NSjO2L8qafj6quM3Q) | [Intricate Design](https://open.spotify.com/artist/2W2bx7cmpQZqt252QTxhkE) | [Hope](https://open.spotify.com/album/6Y79p5G0pLNoCjibPgtx1R) | 4:06 | 2022-01-12 | 2022-01-20 |
 | [Hope U Find](https://open.spotify.com/track/5vS2MTI8r3DcjSfz4U3A8e) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Hope U Find](https://open.spotify.com/album/7BgcpFE0IaaVY2rnAfszlF) | 2:51 | 2024-10-26 | 2025-01-18 |

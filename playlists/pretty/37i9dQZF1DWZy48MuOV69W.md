@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,636 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,622 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 33 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 34 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
 | 35 | [O Come All Ye Faithful](https://open.spotify.com/track/6LWdAiqeXcgKp5tSq13o0y) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:14 |
-| 36 | [Cradle in Bethlehem](https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 4:13 |
+| 36 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
 | 37 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 | 38 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |
-| 39 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
+| 39 | [Cradle in Bethlehem](https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 4:13 |
 | 40 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 | 41 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ホセ・ジェイムズのクリスマス・タイム](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 |
 | 42 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: There's A Tuesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,445 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,455 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:33 |
-| 2 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 |
+| 2 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 |
 | 3 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 |
 | 4 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 |
 | 5 | [Please Don't Move To Melbourne](https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Please Don't Move To Melbourne](https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz) | 4:51 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 30 | [Telescope](https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Telescope](https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ) | 3:28 |
 | 31 | [Again, Again](https://open.spotify.com/track/4EiZVKwcEuZVjXWpZVAoLX) | [Day Dreamers](https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ) | [Again, Again](https://open.spotify.com/album/29ZVjFtgrzfQwJXtBH8jaB) | 2:37 |
 | 32 | [The Fathers Of Iron Flesh](https://open.spotify.com/track/1HVwFd9DN9W9GtjIjuL2qz) | [Battlesnake](https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y) | [The Fathers Of Iron Flesh](https://open.spotify.com/album/2HERLP8DmrItzzHZM0BpEX) | 3:25 |
-| 33 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 |
+| 33 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:26 |
 | 34 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 |
 | 35 | [In My Heart](https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [In My Heart](https://open.spotify.com/album/4L9x5lgUhZJWgRrqlCHlN3) | 3:50 |
 | 36 | [Manners Street](https://open.spotify.com/track/1G2ilzjZWC8NHlN7B7zeL2) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Manners Street](https://open.spotify.com/album/6xWTPIBqNOJ5O89J0pjAw3) | 3:00 |

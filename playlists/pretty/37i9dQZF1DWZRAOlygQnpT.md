@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,463 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,495 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 36 | [Satisfacción](https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 3:30 |
 | 37 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
 | 38 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
-| 39 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
-| 40 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
+| 39 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
+| 40 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
 | 41 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Disco de Oro](https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g) | 3:02 |
 | 42 | [Adios A Jamaica \[Album Version\]](https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 43 | [Polvora](https://open.spotify.com/track/1Vy1yzb5ktmDwPO5TYiqPW) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:56 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 63 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
 | 64 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |
 | 65 | [Chuby Chuby \- Chewy Chewy](https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp) | [Las Ventanas](https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 2:40 |
-| 66 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 |
-| 67 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 |
+| 66 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 |
+| 67 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 |
 | 68 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
 | 69 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 |
 | 70 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |

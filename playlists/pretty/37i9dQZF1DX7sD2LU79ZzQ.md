@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Wijaya 80
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,163 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,192 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Menata](https://open.spotify.com/track/43Vb3aaYTpfhicyhf3B2AC) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Menata](https://open.spotify.com/album/1YnC9MS79GmZqLQ7YHElCW) | 4:07 |
 | 100 | [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 |
 
-Snapshot ID: `Z64lJAAAAADZYc6SYtAeEVPPoJfCZ8EV`
+Snapshot ID: `Z64lJAAAAAAFKLlralgLg1l6UP8X5Knf`

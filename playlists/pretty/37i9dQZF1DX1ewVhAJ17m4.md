@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,694 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,714 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 26 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
 | 27 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
 | 28 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
-| 29 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
-| 30 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
+| 29 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
+| 30 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 31 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 32 | [Stick Season](https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Stick Season](https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm) | 3:20 |
 | 33 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 38 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
 | 39 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 |
 | 40 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
-| 41 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 42 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
+| 41 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
+| 42 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 43 | [Those Were The Days](https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155) | [Those Were The Days](https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U) | 2:23 |
 | 44 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 |
 | 45 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 73 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
 | 74 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 |
 | 75 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
-| 76 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
-| 77 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 76 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 77 | [perfectly broken](https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [perfectly broken](https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6) | 3:04 |
 | 78 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 79 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
 | 80 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |

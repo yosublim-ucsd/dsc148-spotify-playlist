@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Mokebe",
-  "num_followers": 18367,
+  "num_followers": 18368,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-02-06 23:00:47",
       "album": {
-        "name": "PRIMADONNA",
-        "url": "https://open.spotify.com/album/6hif6kO6sCAokQm3lYkeGD"
-      },
-      "artists": [
-        {
-          "name": "Hanafi",
-          "url": "https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL"
-        },
-        {
-          "name": "Gmeniu",
-          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "PRIMADONNA",
-      "url": "https://open.spotify.com/track/4R68rTutuvEK5uTZDzZKU0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
         "name": "MAGAZINE/WAVERLY PLACE",
         "url": "https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 170656,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "PRIMADONNA",
+        "url": "https://open.spotify.com/album/6hif6kO6sCAokQm3lYkeGD"
+      },
+      "artists": [
+        {
+          "name": "Hanafi",
+          "url": "https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL"
+        },
+        {
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "PRIMADONNA",
+      "url": "https://open.spotify.com/track/4R68rTutuvEK5uTZDzZKU0"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-02-06 23:00:47",
       "album": {
-        "name": "urbancard ep",
-        "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
-      },
-      "artists": [
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 154646,
-      "name": "gasn\u0105",
-      "url": "https://open.spotify.com/track/4xXYIuuvKLj9YTKK6Q8M1P"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
         "name": "WE ALL ARE FCKED UP",
         "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 135857,
       "name": "WE ALL ARE FCKED UP",
       "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "urbancard ep",
+        "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 154646,
+      "name": "gasn\u0105",
+      "url": "https://open.spotify.com/track/4xXYIuuvKLj9YTKK6Q8M1P"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-02-06 23:00:47",
       "album": {
-        "name": "JORDAN PEELE",
-        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 183455,
-      "name": "JORDAN PEELE",
-      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
         "name": "Alladyn",
         "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 164694,
       "name": "Alladyn",
       "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "JORDAN PEELE",
+        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 183455,
+      "name": "JORDAN PEELE",
+      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1475,46 +1475,6 @@
       "duration_ms": 148437,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
-        "name": "FALA MIXTAPE vol. 3",
-        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
-      },
-      "artists": [
-        {
-          "name": "KOLEKTYW FALA",
-          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
-        },
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        },
-        {
-          "name": "tyloch",
-          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Mike Senshi",
-          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Sto lat",
-      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1603,6 +1563,46 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
+      },
+      "artists": [
+        {
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1839,30 +1839,6 @@
     {
       "added_at": "2025-02-06 23:00:47",
       "album": {
-        "name": "NOWY WOKAL",
-        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
-      },
-      "artists": [
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "NOWY WOKAL",
-      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 227121,
       "name": "Bejrut - Remix",
       "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "NOWY WOKAL",
+        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "NOWY WOKAL",
+      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
     },
     {
       "added_at": "2025-02-06 23:00:47",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2025-02-06 23:00:47",
       "album": {
-        "name": "CHRUST",
-        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
-      },
-      "artists": [
-        {
-          "name": "M\u0142ody \u017bmija",
-          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
-        },
-        {
-          "name": "getroundintheseason",
-          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "CHRUST",
-      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
-    },
-    {
-      "added_at": "2025-02-06 23:00:47",
-      "album": {
         "name": "w 2024 biega\u0142em",
         "url": "https://open.spotify.com/album/06MQs72nTjgGAFFlcanLSz"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 117000,
       "name": "w 2024 biega\u0142em",
       "url": "https://open.spotify.com/track/0xfczF7qybxwviajD0vDlv"
+    },
+    {
+      "added_at": "2025-02-06 23:00:47",
+      "album": {
+        "name": "CHRUST",
+        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody \u017bmija",
+          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
+        },
+        {
+          "name": "getroundintheseason",
+          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "CHRUST",
+      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
     },
     {
       "added_at": "2025-02-06 23:00:47",

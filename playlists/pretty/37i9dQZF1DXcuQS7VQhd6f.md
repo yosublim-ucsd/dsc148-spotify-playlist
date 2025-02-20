@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,169 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,276 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 71 | [I'm Gonna Be Ready](https://open.spotify.com/track/1SHxz7rXjJWxy8sb6pFYn0) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Believe](https://open.spotify.com/album/5dS9spd8jGdwIRNOzGZBFU) | 5:38 |
 | 72 | [You Are The Living Word \(Live\)](https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 5:27 |
 | 73 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 |
-| 74 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
-| 75 | [Praise Is What I Do](https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Praise Is What I Do](https://open.spotify.com/album/4DgFkFk3fDbknJ8MRDgIO8) | 9:12 |
+| 74 | [Praise Is What I Do](https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Praise Is What I Do](https://open.spotify.com/album/4DgFkFk3fDbknJ8MRDgIO8) | 9:12 |
+| 75 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
 | 76 | [More Than Anything](https://open.spotify.com/track/1c8N865GdfUkCkI87pin5T) | [Lamar Campbell & Spirit Of Praise](https://open.spotify.com/artist/5XUiLFn8nlHBdfkITsHv7s) | [When I Think About You](https://open.spotify.com/album/6TQ3p3fDcYjV3UNoKji2m8) | 6:36 |
 | 77 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 |
 | 78 | [Nobody Greater](https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Triumphant](https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y) | 6:09 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 94 | [He's An On Time God](https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3) | [Dottie Peoples & The Peoples Choice Chorale](https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI) | [On Time God](https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv) | 5:52 |
 | 95 | [My Name is Victory](https://open.spotify.com/track/5SDnSsuRRQXmIIU75neTAG) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Right Now Praise](https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox) | 6:32 |
 | 96 | [The Battle Is the Lord's](https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Save The World](https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH) | 4:24 |
-| 97 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
+| 97 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
 | 98 | [They That Wait \(feat\. John P\. Kee\)](https://open.spotify.com/track/7FiP2GdWnBO7A6bTN3Tl0m) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Love Unstoppable](https://open.spotify.com/album/4WbbtFzVDN7zejy7T7WDc6) | 6:16 |
-| 99 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
+| 99 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
 | 100 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 101 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
 | 102 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |

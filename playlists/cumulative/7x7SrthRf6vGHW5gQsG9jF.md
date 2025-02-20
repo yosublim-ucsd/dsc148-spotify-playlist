@@ -4,7 +4,7 @@
 
 > mostly rock
 
-825 songs - 2 day 4 hr 48 min
+827 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [混ぜるな危険](https://open.spotify.com/track/3WWslYheowgYhLk1wrW0T0) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [真っ黒](https://open.spotify.com/album/5doNaJuxzyiybQV0YswLBv) | 1:33 | 2023-06-24 |  |
 | [火傷に雨](https://open.spotify.com/track/3O6cA0xColhZ2PeBENPC2H) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [縫層](https://open.spotify.com/album/4tuZhHGTTYKYuAtuKA6QL2) | 3:45 | 2024-04-19 |  |
 | [無能](https://open.spotify.com/track/7qHv2Q41uBorzTguYfbUOw) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [無能](https://open.spotify.com/album/6IB6afgdF4fvBhFtpKVcow) | 3:40 | 2023-10-29 |  |
+| [爆弾魔 \- Re\-Recording](https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:35 | 2025-02-19 |  |
 | [爆裂パニエさん](https://open.spotify.com/track/3hh3OcIYg4RDtrdJ5Poxj8) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [爆裂トリコさん](https://open.spotify.com/album/6jkO0IhFvDSTIw5sJy9uHQ) | 3:52 | 2023-09-24 |  |
 | [爛れた町](https://open.spotify.com/track/5XPpYH16WcJZgqqGU1ejrb) | [是](https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt) | [水商売](https://open.spotify.com/album/2EukGUJfKjlx5ugOnrTFLP) | 1:01 | 2024-10-06 |  |
 | [牧師曰く](https://open.spotify.com/track/3a3fUFRYyIn56VTWSK1mwi) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [1929,winter,church](https://open.spotify.com/album/6RZIke0jVO7IjoEH6jVOpq) | 2:27 | 2024-08-01 |  |
@@ -829,6 +830,7 @@
 | [青春の温度](https://open.spotify.com/track/6RqqjBbY1OkdxgAQcLZfmF) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [狂想](https://open.spotify.com/album/1GDzE0TWO5XvWYbI9fSsCz) | 3:53 | 2024-08-09 |  |
 | [風を食む](https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [風を食む](https://open.spotify.com/album/2DLy9De7JWCiNVLk0IAHIJ) | 4:29 | 2023-08-11 |  |
 | [風化する教室](https://open.spotify.com/track/7EYle044tuItnJemEbG6LK) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [eureka](https://open.spotify.com/album/3PYWQo89juaAr0HooKtfEH) | 3:20 | 2023-12-31 |  |
+| [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2025-02-19 |  |
 | [飛翔するmeme](https://open.spotify.com/track/6ehA6ywofuweHyI41AzAXv) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2h8lvNAbaCxdvH5cjlv7v4) | 3:54 | 2024-08-18 |  |
 | [魔法使いのマキちゃん](https://open.spotify.com/track/1arFqwuuN8o0aNX8xC69Yp) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [上々](https://open.spotify.com/album/0xIATZFGcGgUbT6JG5When) | 4:50 | 2024-05-31 |  |
 | [麦の海に沈む果実](https://open.spotify.com/track/5h4vlGH1Cfyt80E4WEeQvk) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 4:38 | 2024-05-18 |  |

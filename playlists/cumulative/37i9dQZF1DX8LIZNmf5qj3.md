@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : kwn x Kehlani
 
-523 songs - 1 day 4 hr 27 min
+524 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,8 @@
 | [worst behaviour](https://open.spotify.com/track/6gCaGG38yk0Pc3hZG8U6kc) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [worst behaviour](https://open.spotify.com/album/62rWjLj8Zl0wn4Rkv3Hlw8) | 2:58 | 2024-12-12 | 2025-02-14 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-21 | 2023-12-01 |
-| [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-10-17 |  |
+| [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-10-17 | 2025-02-20 |
+| [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-19 |  |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-04-04 | 2024-06-14 |
 | [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 | 2024-02-29 | 2024-03-14 |
 | [YOU DON’T KNOW \(feat\. Alex Isley\)](https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [i do this sh\*t in my sleep](https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg) | 2:03 | 2024-08-08 | 2024-10-18 |

@@ -4,11 +4,11 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-506 songs - 1 day 0 hr 41 min
+507 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-05-12 |  |
+| [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-05-12 | 2025-02-20 |
 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 | 2022-09-30 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-07-08 | 2023-01-06 |
 | [808](https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [808](https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh) | 2:56 | 2024-04-26 |  |
@@ -150,6 +150,7 @@
 | [Face Off](https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Face Off](https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG) | 2:54 | 2024-11-08 | 2024-11-19 |
 | [Facts](https://open.spotify.com/track/6b4EhRvtqusT59vERjGCNX) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Facts](https://open.spotify.com/album/2uTVtbWnUotT9QXN8vek0l) | 2:16 | 2022-04-01 | 2022-07-27 |
 | [Fake Fake Fake](https://open.spotify.com/track/7wf4U3ElL3a1KY9qSRViuP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Fake Fake Fake](https://open.spotify.com/album/6l5iDnGhRGmDRCPyopzfLf) | 3:07 | 2021-10-29 | 2022-07-27 |
+| [Falling Into You](https://open.spotify.com/track/6kHsGxbqJV7CZJ9hoFWGmR) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF), [Zander Shine](https://open.spotify.com/artist/3BrRcxjO72qykq7gcCSxt6) | [Falling Into You](https://open.spotify.com/album/4yB1ixQMLOxzor9O66AhGV) | 3:07 | 2025-02-14 |  |
 | [feel U luv Me](https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [feel U luv Me](https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY) | 3:54 | 2024-09-30 |  |
 | [Feelin](https://open.spotify.com/track/5JmnPc5ot8XJ7vGTjexjjH) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Feelin](https://open.spotify.com/album/7lqOCkaO73TQ51KmSPZzMy) | 3:01 | 2021-10-29 | 2022-07-29 |
 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 | 2022-11-29 |  |

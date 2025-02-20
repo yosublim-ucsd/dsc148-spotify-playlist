@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,094 songs - 7 day 2 hr 25 min
+3,095 songs - 7 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2825,6 +2825,7 @@
 | [Tumbado en la hierba al sol](https://open.spotify.com/track/5dWQ4nWwg3FySVgW8y52UM) | [Naked Family](https://open.spotify.com/artist/2XuDkWSGwLfIMsAii8xBt3) | [Tumbado en la hierba al sol](https://open.spotify.com/album/0LbgpxzyKKteySn4gmSa5u) | 1:58 | 2024-04-26 | 2024-05-10 |
 | [tunnel vision](https://open.spotify.com/track/3XKhOGFAWxFMtxYJ97Cftv) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [tunnel vision](https://open.spotify.com/album/1NpUQFBKi9EtONNaTVjisE) | 2:20 | 2024-06-28 | 2024-07-13 |
 | [Tunnel Vision](https://open.spotify.com/track/1yirsM6U52qH1yLOSF2MmQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Tunnel Vision](https://open.spotify.com/album/3eKAjVRIp7iXWVEIvAkg10) | 5:05 | 2024-08-01 | 2024-08-10 |
+| [Tunnel Vision](https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Tunnel Vision](https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ) | 4:10 | 2025-02-19 |  |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-24 | 2024-06-12 |
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-04-26 | 2024-05-10 |
 | [Turned to Dust \(Rolling On\)](https://open.spotify.com/track/7hs1pgvxIuah5rRoagj8R5) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Turned to Dust \(Rolling On\)](https://open.spotify.com/album/5k9ZxbIpxfOlYyBUIXOfxP) | 4:04 | 2025-01-31 | 2025-02-08 |

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,774 songs - 3 day 6 hr 46 min
+1,775 songs - 3 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2019-09-19 | 2021-02-09 |
 | [It is a Beauteous Evening](https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [It is a Beauteous Evening](https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB) | 2:20 | 2020-02-04 | 2021-05-22 |
 | [It's Not Ice](https://open.spotify.com/track/1UVNO2jUwZZuSUmHE2jf03) | [Tristan Eckerson](https://open.spotify.com/artist/24LGVKHzsrVV7oo94nlNE1) | [Trozo Revisited](https://open.spotify.com/album/427N8QK4GyrAvh1YztylPU) | 3:34 | 2019-10-22 | 2020-08-20 |
+| [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 |  |
 | [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-01-27 | 2025-01-22 |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-10-13 | 2022-12-06 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-03 | 2023-12-06 |

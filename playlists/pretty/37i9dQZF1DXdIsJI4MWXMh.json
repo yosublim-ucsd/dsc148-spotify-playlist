@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 72206,
+  "num_followers": 72229,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 252651,
       "name": "Deja de Llorar",
       "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -859,18 +859,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
       },
       "artists": [
         {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
+      "duration_ms": 265789,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -891,22 +895,18 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
       },
       "artists": [
         {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
         }
       ],
-      "duration_ms": 265789,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "\u00c9xitos de Antolog\u00eda",
-        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Las Flores de Tu Florero",
-      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+        "name": "\u00c9xitos de Antolog\u00eda",
+        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
       },
       "artists": [
         {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
         }
       ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
+      "duration_ms": 177560,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1059,6 +1043,22 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+      },
+      "artists": [
+        {
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
-        "name": "Alex y el Clan Azabache",
-        "url": "https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ"
-      },
-      "artists": [
-        {
-          "name": "Alex y el Clan Azabache",
-          "url": "https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr"
-        }
-      ],
-      "duration_ms": 180708,
-      "name": "S\u00e1cale Leche a la Vaca",
-      "url": "https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
+        "name": "Alex y el Clan Azabache",
+        "url": "https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ"
+      },
+      "artists": [
+        {
+          "name": "Alex y el Clan Azabache",
+          "url": "https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr"
+        }
+      ],
+      "duration_ms": 180708,
+      "name": "S\u00e1cale Leche a la Vaca",
+      "url": "https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO"
     },
     {
       "added_at": "2025-02-13 20:15:03",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-02-13 20:15:03",
       "album": {
+        "name": "Amor Traicionero",
+        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
+      },
+      "artists": [
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2025-02-13 20:15:03",
+      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
-    },
-    {
-      "added_at": "2025-02-13 20:15:03",
-      "album": {
-        "name": "Amor Traicionero",
-        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 256346,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
     },
     {
       "added_at": "2025-02-13 20:15:03",

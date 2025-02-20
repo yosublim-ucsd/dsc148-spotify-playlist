@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f\n",
-  "num_followers": 92377,
+  "num_followers": 92369,
   "original_name": "V\u00e5rstemning",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "Marilyn Monroe",
         "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 174014,
       "name": "Marilyn Monroe",
       "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Part Of The Story",
-        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
-      },
-      "artists": [
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Part Of The Story",
-      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "Om du tror p\u00e5 oss",
         "url": "https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+        "name": "Part Of The Story",
+        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
+      "duration_ms": 187173,
+      "name": "Part Of The Story",
+      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1367,6 +1351,22 @@
       "duration_ms": 165882,
       "name": "25 bare fem \u00e5r til",
       "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk"
-      },
-      "artists": [
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        }
-      ],
-      "duration_ms": 198156,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "B\u00f8lger",
         "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
       },
@@ -1471,8 +1455,8 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Indre liv",
-        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
       "artists": [
         {
@@ -1480,25 +1464,41 @@
           "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 151893,
-      "name": "Ikke lenger din",
-      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     },
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
         }
       ],
-      "duration_ms": 236210,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+      "duration_ms": 198156,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     }
   ],
   "unique_name": "V\u00e5rstemning",

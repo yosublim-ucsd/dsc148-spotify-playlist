@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Lefty Gunplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,605 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,626 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 20 | [gnx \(feat\. hitta j3, youngthreat, peysoh\)](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [YoungThreat](https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
 | 21 | [Major Plays \(feat\. Peso Peso\)](https://open.spotify.com/track/0LN7o76bNy32GK7ydiTB40) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Major Plays \(feat\. Peso Peso\)](https://open.spotify.com/album/30ajjG77zYOUfAUow6cxL0) | 2:42 |
 | 22 | [Buck Fifty Freestyle](https://open.spotify.com/track/53AZ0rtnXWcjFCBqLUWOjm) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Buck Fifty Freestyle](https://open.spotify.com/album/5fdJqyG6TpCvN3TGRq5an4) | 1:48 |
-| 23 | [Adrenalina](https://open.spotify.com/track/2dQ7neF14k7tGCQvql0ipe) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Adrenalina](https://open.spotify.com/album/2ciJ4MSLYAfXKySxIFi2L1) | 2:54 |
+| 23 | [Adrenalina](https://open.spotify.com/track/2dQ7neF14k7tGCQvql0ipe) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [3013](https://open.spotify.com/artist/3uzNoRHwwazPhCfQIvRS7K) | [Adrenalina](https://open.spotify.com/album/2ciJ4MSLYAfXKySxIFi2L1) | 2:54 |
 | 24 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 25 | [No Handouts](https://open.spotify.com/track/7IQ1c1d24ECUYklOOsnx1v) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Rowdy Racks](https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe) | [No Handouts](https://open.spotify.com/album/7sl184q1LtfnE7pcmM2hMN) | 3:08 |
 | 26 | [REBELDE](https://open.spotify.com/track/4ScJ7wyY0bylOD6TlD9iXQ) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [REBELDE](https://open.spotify.com/album/6tvxmycm2tnja06shgdTxK) | 2:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [2+2](https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [2+2](https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV) | 3:25 |
 | 40 | [City Lights](https://open.spotify.com/track/2nxbZP0frGbngtmhon31M5) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [City Lights](https://open.spotify.com/album/6wzAOADNQiJazo1RbGevMT) | 2:27 |
 
-Snapshot ID: `Z5yZRwAAAABh6805AnPz3gYVvUds0Lez`
+Snapshot ID: `Z5yZRwAAAAApOtt1eS6qxgEGO7JJL2P9`

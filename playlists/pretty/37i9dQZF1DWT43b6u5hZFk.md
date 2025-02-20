@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 
 > Listen to JENNIE's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 17 songs - 57 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 17 songs - 57 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

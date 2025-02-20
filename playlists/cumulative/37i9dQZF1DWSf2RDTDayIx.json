@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -6866,6 +6866,28 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
+    },
+    {
+      "album": {
+        "name": "Pleasure, Joy & Happiness (musclecars remix)",
+        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561502,
+      "name": "Pleasure, Joy & Happiness (musclecars remix)",
+      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
     },
     {
       "album": {
@@ -9368,7 +9390,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 181935,
       "name": "We Groovin",
       "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
@@ -9884,7 +9906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl"

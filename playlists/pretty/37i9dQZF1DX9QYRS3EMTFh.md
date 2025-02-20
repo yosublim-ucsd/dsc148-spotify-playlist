@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Lu City x SKUNK x X\-Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,750 likes - 40 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,862 likes - 40 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Lass Palé](https://open.spotify.com/track/0nUZ0FDUJ7nxhXben9a9pR) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Lass Palé](https://open.spotify.com/album/5sjXX8wgkcrxb0Lx1kXw1b) | 2:04 |
 | 40 | [Elles veulent twerker !](https://open.spotify.com/track/40lonv25VaTFHGrY9AvmWT) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Elles veulent twerker !](https://open.spotify.com/album/7zVzecXPNXSm41yz0PT6tg) | 1:56 |
 
-Snapshot ID: `Z69c6gAAAABBb6bVC4MbFUzBFqZfK8Dw`
+Snapshot ID: `Z69c6gAAAADZaxucp62irK3cedui6i2d`

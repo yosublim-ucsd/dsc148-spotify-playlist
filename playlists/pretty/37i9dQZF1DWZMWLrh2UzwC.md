@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: JISOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,862 likes - 123 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,861 likes - 123 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 82 | [KEKASIH LAMA](https://open.spotify.com/track/1LPUve3yxwExjwKZ7KUu48) | [ahmadjohnson69](https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr) | [KEKASIH LAMA](https://open.spotify.com/album/4ct3MeTOKV3PkPWux3Eqh1) | 2:48 |
 | 83 | [hypothetical!](https://open.spotify.com/track/2v9RrXGgmVjjPRF1xn8Xxj) | [Sadaf Wai](https://open.spotify.com/artist/30CSwriaFFJxvWIubt2vcn) | [hypothetical!](https://open.spotify.com/album/4qop7F7tP1BDK8MxhdCneC) | 2:51 |
 | 84 | [made for us](https://open.spotify.com/track/7ujZUivevehX5spIejwJ5D) | [khalil](https://open.spotify.com/artist/0Tf9F8FxK0iul15ADXxQVU) | [WISHING US THE BEST](https://open.spotify.com/album/0Yn6zbB0CT9Tk4vTA5IC4X) | 2:03 |
-| 85 | [who gave you the key](https://open.spotify.com/track/3doIPniYg0UuPNUHv26EKl) | [Kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [who gave you the key](https://open.spotify.com/album/4QWuugd6JUK3yhQqz9VgjM) | 2:32 |
+| 85 | [who gave you the key](https://open.spotify.com/track/3doIPniYg0UuPNUHv26EKl) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [who gave you the key](https://open.spotify.com/album/4QWuugd6JUK3yhQqz9VgjM) | 2:32 |
 | 86 | [Cloudy](https://open.spotify.com/track/7o3ULLNjaTt3T38VQtlCdN) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Cloudy](https://open.spotify.com/album/6Zl90g6QdFOeUFmeqZXAsp) | 4:01 |
 | 87 | [who am i without you](https://open.spotify.com/track/2OX00uqnnobl4cV1Kp70BF) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [who am i without you](https://open.spotify.com/album/3FXJfqLS57WGyqNCg4YWJp) | 3:13 |
 | 88 | [Toxic](https://open.spotify.com/track/1MymaudleNE1mbuJ8c4HQW) | [Macwc張維宸](https://open.spotify.com/artist/5tD378iCF4GN8YBNtzmDb8) | [Toxic](https://open.spotify.com/album/7xdYatEfnWrR4mkXJhAeUI) | 3:21 |

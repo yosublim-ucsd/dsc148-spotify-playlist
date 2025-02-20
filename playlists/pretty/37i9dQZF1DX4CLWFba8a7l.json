@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125340,
+  "num_followers": 125350,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -132,7 +132,7 @@
           "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
         }
       ],
-      "duration_ms": 149294,
+      "duration_ms": 148424,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/7egbENInwPWegyktIf4rVh"
     },
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
-      "added_at": "2024-10-31 13:00:00",
-      "album": {
-        "name": "Stop Calling",
-        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Stop Calling",
-      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "The Loop",
@@ -735,6 +719,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-10-31 13:00:00",
+      "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Believe (triple j Like A Version) [Cover Version]",
-        "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 197594,
-      "name": "Believe (triple j Like A Version) - Cover Version",
-      "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
-    },
-    {
       "added_at": "2024-12-12 13:00:04",
       "album": {
         "name": "You're Still Mine",
@@ -883,6 +867,22 @@
       "duration_ms": 147846,
       "name": "You're Still Mine",
       "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Believe (triple j Like A Version) [Cover Version]",
+        "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (triple j Like A Version) - Cover Version",
+      "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
     },
     {
       "added_at": "2024-11-21 13:00:00",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2025-02-06 13:00:12",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi"
       },
       "artists": [
         {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+      "duration_ms": 178770,
+      "name": "Big Thoughts",
+      "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
     },
     {
       "added_at": "2025-02-06 13:00:12",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 132941,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
-    },
-    {
-      "added_at": "2025-02-06 13:00:12",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 178770,
-      "name": "Big Thoughts",
-      "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
     },
     {
       "added_at": "2025-01-16 13:00:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Heading For The Door",
-        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Heading For The Door",
-      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184417,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
       "added_at": "2025-01-09 13:00:34",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
       },
@@ -1251,6 +1231,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2025-01-23 13:00:33",
+      "album": {
+        "name": "92 Purebred",
+        "url": "https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3"
+      },
+      "artists": [
+        {
+          "name": "Ruby Fields",
+          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "92 Purebred",
+      "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1273,20 +1269,24 @@
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
     },
     {
-      "added_at": "2025-01-23 13:00:33",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "92 Purebred",
-        "url": "https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
       "artists": [
         {
-          "name": "Ruby Fields",
-          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 202617,
-      "name": "92 Purebred",
-      "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     }
   ],
   "unique_name": "The Local List",

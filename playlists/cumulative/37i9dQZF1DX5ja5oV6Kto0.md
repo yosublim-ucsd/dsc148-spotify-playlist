@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rigo Kamp
 
-797 songs - 1 day 15 hr 4 min
+798 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Angel Dust](https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc) | [Angel Dust](https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P) | 2:47 | 2023-03-17 | 2023-05-12 |
 | [Angel Eyes](https://open.spotify.com/track/4N6P3mAVkGM4gLdgbMuogo) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC) | [Angel Eyes](https://open.spotify.com/album/3JpeOalfcfBvLPAzPevtb6) | 1:50 | 2022-04-07 | 2022-06-04 |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-06-09 | 2024-03-01 |
-| [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 | 2024-06-21 |  |
+| [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 | 2024-06-21 | 2025-02-20 |
 | [Answer Me](https://open.spotify.com/track/77h8ylsHRqWAMkL3OWPHtA) | [T Peller](https://open.spotify.com/artist/0atiAFHavgyaKAhm9eaFLO) | [Just The Tip](https://open.spotify.com/album/6mdC7HDGvv4vzadVR69pTq) | 2:21 | 2024-03-01 | 2024-08-09 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2023-09-22 |
 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 | 2023-11-10 | 2024-03-01 |
@@ -256,6 +256,7 @@
 | [Fine](https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Fine](https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp) | 2:41 | 2023-11-24 | 2024-03-29 |
 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 | 2024-01-08 | 2024-06-28 |
 | [Fishy Pumpi](https://open.spotify.com/track/0JEPqOezFzZuFJdpHyYw9C) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Fishy Pumpi](https://open.spotify.com/album/1hgAKLv0gMTvI0qwmXS9Ro) | 2:19 | 2024-07-19 | 2024-10-04 |
+| [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 |  |
 | [FLOSSIN'](https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [E.V.E](https://open.spotify.com/artist/3b861IDPVZ62XphaKiKlOc) | [Live More, Worry Less \(Ultra\)](https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx) | 2:20 | 2024-03-01 | 2024-08-09 |
 | [Flower](https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:27 | 2024-03-15 | 2024-09-07 |
 | [Fluid](https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Fluid](https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC) | 3:19 | 2022-05-05 | 2022-07-08 |

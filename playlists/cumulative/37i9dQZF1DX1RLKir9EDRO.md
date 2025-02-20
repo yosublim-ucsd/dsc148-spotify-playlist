@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: dilan filiz  Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
 
 940 songs - 2 day 4 hr 8 min
 

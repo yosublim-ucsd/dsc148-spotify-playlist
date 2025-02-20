@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-219 songs - 10 hr 26 min
+220 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2022-02-21 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2023-09-29 |  |
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-09-29 |  |
+| [Like a sculptor](https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Like a sculptor](https://open.spotify.com/album/6fMYKlHURk5Lps6PXxmv67) | 2:37 | 2025-02-19 |  |
 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-11-10 | 2022-11-13 |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-11-09 |  |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-06-21 | 2024-04-19 |

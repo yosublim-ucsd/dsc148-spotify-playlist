@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-334 songs - 21 hr 11 min
+335 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-25 | 2023-08-11 |
 | [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 | 2024-01-30 | 2024-03-13 |
 | [往日](https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君にみた季節](https://open.spotify.com/album/7h4kEEvu4nS8U4Ooahptko) | 3:42 | 2024-02-13 | 2024-02-15 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [怪獣の花唄](https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:44 | 2024-04-18 |  |
 | [怪獣の花唄](https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:44 | 2023-07-25 | 2023-10-05 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-17 | 2024-01-10 |
@@ -303,7 +304,7 @@
 | [最終電車に乗って](https://open.spotify.com/track/0NaCuBNx3LwfCtTb7PQJoL) | [ヨナツメ](https://open.spotify.com/artist/0NOWHctcACMuBrnx9ziTnn) | [bouquet](https://open.spotify.com/album/4nQA6uey4uF8myiVAnsotO) | 4:27 | 2024-01-30 | 2024-02-14 |
 | [未来で逢いたい](https://open.spotify.com/track/7ECQe4BiTGhWxI8sq7AXbm) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [未来で逢いたい](https://open.spotify.com/album/0TJKj2ILVclOQRzGq88R4n) | 4:44 | 2023-08-31 | 2023-09-06 |
 | [未来図](https://open.spotify.com/track/3hD6z4YbJk64kN3v3N47hr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Memory](https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf) | 3:49 | 2023-12-12 | 2024-03-13 |
-| [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-07-09 |  |
+| [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-07-09 | 2025-02-20 |
 | [来世で遊ぼう](https://open.spotify.com/track/2XVjVKfgpSDdnlkjXDOYH5) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [来世で遊ぼう](https://open.spotify.com/album/5gZurq2jvNEUGucVAiafbP) | 5:07 | 2023-12-19 | 2023-12-21 |
 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 | 2023-07-25 | 2023-08-16 |
 | [栞](https://open.spotify.com/track/4ydI1PBgOZvwLScf5eR0kw) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [栞](https://open.spotify.com/album/1RebfCbPJxZ2coD3Fb9Rtn) | 4:30 | 2024-09-03 | 2024-11-05 |

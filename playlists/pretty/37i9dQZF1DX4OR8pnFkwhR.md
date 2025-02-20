@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,051 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,083 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 |
 | 27 | [USHIROJIKAN](https://open.spotify.com/track/4edLH5vWiR4oZPdzkNA83L) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [USHIROJIKAN](https://open.spotify.com/album/3La40n3qbHz4V0il9R1aUA) | 2:21 |
 | 28 | [Used to Fall](https://open.spotify.com/track/46OKAPEGDXj2sgoFknwwor) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Used to Fall](https://open.spotify.com/album/4TtKkqws4OpO9S0mt4Y4CC) | 4:01 |
-| 29 | [SLIDE pt.2 \- Last Dance](https://open.spotify.com/track/6KMe39IAxLLf6XGhcsDtKc) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 2:04 |
+| 29 | [SLIDE pt.2 \- Last Dance](https://open.spotify.com/track/6KMe39IAxLLf6XGhcsDtKc) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 2:04 |
 | 30 | [Fuwa Fuwa](https://open.spotify.com/track/5pgmzxy4ZKqHBXwtErA8pV) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:26 |
 | 31 | [FOOL](https://open.spotify.com/track/1a8fmxbAdCSXDUjvaRYsXU) | [UQUiYO](https://open.spotify.com/artist/1a3NB2i2vyY2Rii7Y4U1r2) | [FOOL](https://open.spotify.com/album/5fFwSPugcbXvnuQziEemnX) | 4:05 |
 | 32 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |

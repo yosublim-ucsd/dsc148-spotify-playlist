@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 244599,
+  "num_followers": 244712,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Secrets of My Heart",
-        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 192531,
-      "name": "My True Love Is You",
-      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Secrets of My Heart",
+        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 192531,
+      "name": "My True Love Is You",
+      "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 183960,
       "name": "My Heart Belongs to Daddy",
       "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -787,22 +803,6 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered (with The Mellomen)",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
         }
       ],
-      "duration_ms": 166160,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
       "artists": [
         {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+      "duration_ms": 166160,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Dreamers Do",
+        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Dreamers Do",
-        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 306795,
+      "name": "If I Ain\u2019t Got You",
+      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1051,22 +1067,6 @@
       "duration_ms": 462306,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 306795,
-      "name": "If I Ain\u2019t Got You",
-      "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "November Twilight",
-      "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Welcome To My Love",
         "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 188240,
       "name": "For Once In My Life - Remastered/1994",
       "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "November Twilight",
+      "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Carmen McRae For Lovers",
         "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "(It Will Have To Do) Until The Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 252680,
       "name": "Petite fleur",
       "url": "https://open.spotify.com/track/7ApzpAfIlpozCxv8bA1O0U"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Language of Love (Version with Orchestra)",
+        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 248469,
+      "name": "Language of Love (Version with Orchestra)",
+      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -1899,18 +1915,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Language of Love (Version with Orchestra)",
-        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
         }
       ],
-      "duration_ms": 248469,
-      "name": "Language of Love (Version with Orchestra)",
-      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
+      "duration_ms": 319906,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1939,22 +1955,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "So Sorry For Your Love",
+      "url": "https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Under the Covers",
         "url": "https://open.spotify.com/album/2n1QUTdi2StG378HUORudq"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 296306,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "So Sorry For Your Love",
-      "url": "https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Plays Well With Others",
-        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 297227,
-      "name": "I Wanna Be Around",
-      "url": "https://open.spotify.com/track/6WE4UaOwShZi7ZBTaZgPUW"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -2239,6 +2219,26 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Plays Well With Others",
+        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 297227,
+      "name": "I Wanna Be Around",
+      "url": "https://open.spotify.com/track/6WE4UaOwShZi7ZBTaZgPUW"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
         "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
       },
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Bird of Beauty",
         "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 295739,
       "name": "Bird of Beauty",
       "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Empty Hearts",
-      "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Empty Hearts",
+      "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2627,6 +2627,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
+      },
+      "artists": [
+        {
+          "name": "Ranee Lee",
+          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "The Sweetest Moments",
         "url": "https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF"
       },
@@ -2647,22 +2663,6 @@
       "duration_ms": 278898,
       "name": "The Sweetest Moments",
       "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
-      },
-      "artists": [
-        {
-          "name": "Ranee Lee",
-          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
-        }
-      ],
-      "duration_ms": 311423,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
     },
     {
       "added_at": "2024-09-27 07:35:47",

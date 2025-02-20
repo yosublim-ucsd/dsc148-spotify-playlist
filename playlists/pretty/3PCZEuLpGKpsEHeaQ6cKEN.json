@@ -1,13 +1,33 @@
 {
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Jan Blomqvist",
-  "num_followers": 270691,
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  D.O.D, NORTH",
+  "num_followers": 270680,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADTfRJJ/CMSOOZDeA08TT98rOJJHqBq",
+  "snapshot_id": "AADTgC+pDXiVrpfM+hZ1cZ3zDnm0Ob1p",
   "tracks": [
+    {
+      "added_at": "2025-02-19 09:44:21",
+      "album": {
+        "name": "Wrap Yourself Around Me",
+        "url": "https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "NORTH",
+          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
+        }
+      ],
+      "duration_ms": 195477,
+      "name": "Wrap Yourself Around Me",
+      "url": "https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD"
+    },
     {
       "added_at": "2025-02-13 23:03:06",
       "album": {

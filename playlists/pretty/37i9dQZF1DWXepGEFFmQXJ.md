@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 59 | [No Sad Song](https://open.spotify.com/track/72ecewEnJMkq1G2wN7LGdA) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [No Sad Song](https://open.spotify.com/album/2OauTa7johaqwMxDG9Qwrm) | 3:14 |
 | 60 | [DOWN SOUTH](https://open.spotify.com/track/6dEGsCMZxCL4KYOLjxnrOR) | [Bella Mackenzie](https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL) | [WILD THING](https://open.spotify.com/album/4uHYSDUkXJmgsodaGV8hCb) | 3:36 |
 
-Snapshot ID: `Z63tEgAAAAB2COm6sAUYG+quRB84/S1X`
+Snapshot ID: `Z63tEgAAAADYnuyB+bgnhogmlzs6uvNQ`

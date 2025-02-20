@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7P2IAAAAAAYDMs188Q20uK9RrCPLGs1",
+  "snapshot_id": "Z7Vc3AAAAAD7G4l0Mo3cGtt9vQhPDdjb",
   "tracks": [
+    {
+      "added_at": "2025-02-19 04:23:56",
+      "album": {
+        "name": "It's Okay To Not Be Okay",
+        "url": "https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 209063,
+      "name": "It's Okay To Not Be Okay",
+      "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
+    },
     {
       "added_at": "2025-02-12 00:11:58",
       "album": {

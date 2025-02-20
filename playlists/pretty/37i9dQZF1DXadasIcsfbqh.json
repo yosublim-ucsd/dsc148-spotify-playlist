@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Rascal Flatts & The Jonas Brothers",
-  "num_followers": 217150,
+  "num_followers": 217201,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2025-02-14 05:00:29",
       "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 353253,
-      "name": "Enchanted (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h"
+      "duration_ms": 141393,
+      "name": "Bad Reviews",
+      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
     },
     {
       "added_at": "2025-02-14 05:00:29",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-02-14 05:00:29",
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 141393,
-      "name": "Bad Reviews",
-      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
+      "duration_ms": 353253,
+      "name": "Enchanted (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h"
     },
     {
       "added_at": "2025-02-14 05:00:29",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-02-14 05:00:29",
       "album": {
-        "name": "Beautiful As You",
-        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 163894,
-      "name": "Beautiful As You",
-      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
-    },
-    {
-      "added_at": "2025-02-14 05:00:29",
-      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 171240,
       "name": "How Do I Do This",
       "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "added_at": "2025-02-14 05:00:29",
+      "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
       "added_at": "2025-02-14 05:00:29",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2025-02-14 05:00:29",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "Cowgirls (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
-    },
-    {
-      "added_at": "2025-02-14 05:00:29",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2025-02-14 05:00:29",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
     },
     {
       "added_at": "2025-02-14 05:00:29",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2025-02-14 05:00:29",
       "album": {
-        "name": "Date Night (feat. Morgan Evans)",
-        "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
-      },
-      "artists": [
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        },
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Date Night (feat. Morgan Evans)",
-      "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
-    },
-    {
-      "added_at": "2025-02-14 05:00:29",
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+    },
+    {
+      "added_at": "2025-02-14 05:00:29",
+      "album": {
+        "name": "Date Night (feat. Morgan Evans)",
+        "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        },
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Date Night (feat. Morgan Evans)",
+      "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
     }
   ],
   "unique_name": "Pop Country",

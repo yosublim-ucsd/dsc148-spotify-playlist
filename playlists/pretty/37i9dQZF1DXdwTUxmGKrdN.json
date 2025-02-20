@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 441652,
+  "num_followers": 441663,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
         "name": "Open Skies",
         "url": "https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 303693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "The Story of Jaz",
-        "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
-        },
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Amends",
-      "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "The Story of Jaz",
+        "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 245163,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Smooth Grooves, Vol. 2",
         "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
-      },
-      "artists": [
-        {
-          "name": "Les Sabler",
-          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Three Dee",
-      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 205880,
       "name": "Down Here On The Ground",
       "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
+      },
+      "artists": [
+        {
+          "name": "Les Sabler",
+          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "Three Dee",
+      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 313422,
       "name": "Sliver Moon",
       "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
       },
       "artists": [
         {
-          "name": "Urban Jazz Coalition",
-          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
+          "name": "Spur Of The Moment",
+          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
         }
       ],
-      "duration_ms": 279186,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
+      "duration_ms": 281413,
+      "name": "In Key",
+      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
       },
       "artists": [
         {
-          "name": "Spur Of The Moment",
-          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
+          "name": "Urban Jazz Coalition",
+          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
         }
       ],
-      "duration_ms": 281413,
-      "name": "In Key",
-      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+      "duration_ms": 279186,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
         "name": "On the Up and Up",
         "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
         }
       ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1347,22 +1363,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
+        "name": "The Limit's the Sky",
+        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223669,
+      "name": "Chill or Be Chilled",
+      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
         "name": "Risin' Up",
         "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 242013,
       "name": "Soulfood Sunday",
       "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
-        "name": "The Limit's the Sky",
-        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223669,
-      "name": "Chill or Be Chilled",
-      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
     },
     {
       "added_at": "2025-01-27 13:56:40",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-01-27 13:56:40",
       "album": {
-        "name": "All We Have Are Moments",
-        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
-      },
-      "artists": [
-        {
-          "name": "Marqueal Jordan",
-          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
-        }
-      ],
-      "duration_ms": 213536,
-      "name": "What Key?",
-      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
-    },
-    {
-      "added_at": "2025-01-27 13:56:40",
-      "album": {
         "name": "Jazzmasters 6",
         "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 329400,
       "name": "Cloud Watching",
       "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
+    },
+    {
+      "added_at": "2025-01-27 13:56:40",
+      "album": {
+        "name": "All We Have Are Moments",
+        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
+      },
+      "artists": [
+        {
+          "name": "Marqueal Jordan",
+          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
+        }
+      ],
+      "duration_ms": 213536,
+      "name": "What Key?",
+      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
     },
     {
       "added_at": "2025-01-27 13:56:40",

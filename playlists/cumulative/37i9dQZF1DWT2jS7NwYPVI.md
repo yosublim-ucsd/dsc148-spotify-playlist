@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: The Velveteers
 
-3,077 songs - 6 day 19 hr 38 min
+3,078 songs - 6 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1661,6 +1661,7 @@
 | [Make Me A Believer](https://open.spotify.com/track/4BASG8QeQKpn2WOwu33C3u) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Make Me A Believer](https://open.spotify.com/album/6N8Foeyt0T68NY8fVIqQDc) | 5:00 | 2022-01-28 | 2022-03-05 |
 | [Make You Make Believe](https://open.spotify.com/track/0u9RwuKVa4kok1EAWEopw4) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Make You Make Believe](https://open.spotify.com/album/1TDvfwWgHqZ6SS5rIxkNd0) | 3:04 | 2021-11-19 | 2022-02-05 |
 | [Makeup](https://open.spotify.com/track/2ciAYoCq1z4BboYNvGbnLH) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Makeup](https://open.spotify.com/album/2xT0Zibv3H6LhmGLFMjpZc) | 3:16 | 2022-02-04 | 2022-03-05 |
+| [Makeup](https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc) | 3:58 | 2025-02-19 |  |
 | [Making Friends with the Cops](https://open.spotify.com/track/2EibqA1GEfeoUEjohDxqzj) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Making Friends with the Cops](https://open.spotify.com/album/06QmbbfUSEC01t9tTAlVxH) | 2:15 | 2024-07-26 | 2024-09-14 |
 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 | 2025-02-14 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-24 |  |
@@ -2147,7 +2148,7 @@
 | [Red](https://open.spotify.com/track/6ObVNFIAGmcZX7Wykx0e6h) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Red](https://open.spotify.com/album/67cg1m0SxkTuCkvadzvg7o) | 3:30 | 2024-05-10 | 2024-07-06 |
 | [Red Hot](https://open.spotify.com/track/5Cklo32fSNbvHRbXLs3dc5) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Red Hot](https://open.spotify.com/album/2p1CTtfcaZTL6isuwjUTf2) | 2:38 | 2023-03-17 | 2023-04-15 |
 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 | 2023-04-21 | 2023-05-27 |
-| [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 | 2025-02-14 |  |
+| [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 | 2025-02-14 |  |
 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 | 2025-01-24 |  |
 | [Red, White, & Blue](https://open.spotify.com/track/3uQGhH7WjwJ9CEmPNhJJOp) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/1sU0VVU5cs5E83FMy6ZfGa) | 2:42 | 2022-07-22 | 2022-09-09 |
 | [Relieved](https://open.spotify.com/track/4dGiJXQISibxZRLcBvzl2W) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Relieved](https://open.spotify.com/album/6ynsiV3XrNtMYBXQBFnSty) | 3:33 | 2024-07-05 | 2024-08-17 |

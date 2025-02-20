@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-543 songs - 1 day 6 hr 19 min
+545 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [7/4 \(Shoreline\)](https://open.spotify.com/track/7HGBBNVV200K3WuIxJ561V) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Broken Social Scene](https://open.spotify.com/album/69aHxu0DOft7YHLp9a0j6F) | 4:53 | 2022-08-18 | 2022-08-26 |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2024-05-17 |  |
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2022-03-24 | 2022-07-10 |
-| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-28 |  |
+| [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-28 | 2025-02-20 |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-05-25 | 2023-06-24 |
 | [a brief dream of sun](https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [a brief dream of sun](https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG) | 3:26 | 2023-06-30 | 2023-07-20 |
 | [A Warning](https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [A Warning](https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD) | 3:34 | 2024-05-17 | 2024-06-12 |
@@ -342,9 +342,10 @@
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-02 | 2023-06-18 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-02 | 2023-06-24 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-11 | 2023-05-26 |
-| [Out of My League](https://open.spotify.com/track/0i5spxZKedPA2TgGuvJ3AL) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD) | 3:29 | 2023-11-24 |  |
+| [Out of My League](https://open.spotify.com/track/0i5spxZKedPA2TgGuvJ3AL) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD) | 3:29 | 2023-11-24 | 2025-02-20 |
 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 | 2023-07-24 | 2024-04-19 |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-08-13 | 2022-07-08 |
+| [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-19 |  |
 | [Passion Controller](https://open.spotify.com/track/3gjnQobZHy53fuce6qVTzf) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [The Rush](https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv) | 2:52 | 2022-03-24 | 2022-07-29 |
 | [Pastlife](https://open.spotify.com/track/48Hjm1Lw1QezP4vKImnR3P) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife](https://open.spotify.com/album/2kKxBiiOWTuKB0ZmDF6RNC) | 2:31 | 2022-04-01 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2022-03-24 | 2023-05-20 |
@@ -378,6 +379,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-07-21 | 2024-04-19 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-05-17 | 2024-10-18 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-22 | 2023-05-26 |
+| [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-19 |  |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2023-09-14 |
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-07-14 | 2023-05-20 |

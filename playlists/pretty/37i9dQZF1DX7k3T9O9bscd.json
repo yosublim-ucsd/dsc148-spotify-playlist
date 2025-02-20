@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Mdou Moctar on cover.",
-  "num_followers": 555029,
+  "num_followers": 555075,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
         }
       ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -395,22 +411,6 @@
       "duration_ms": 183829,
       "name": "WILLING",
       "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Cinnamon Temple",
-        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Django's High",
+        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 183978,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Django's High",
-        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
+        "name": "Cinnamon Temple",
+        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 183978,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
-      },
-      "artists": [
-        {
-          "name": "Phafner",
-          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
-        }
-      ],
-      "duration_ms": 329693,
-      "name": "Plea From The Soul",
-      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "A Dream of Lasting Peace",
         "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "Phafner",
+          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
         }
       ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+      "duration_ms": 329693,
+      "name": "Plea From The Soul",
+      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -651,6 +635,22 @@
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Pastafrolla",
-        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
-      },
-      "artists": [
-        {
-          "name": "Post Nebbia",
-          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Pastafrolla",
-      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Pastafrolla",
+        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Pastafrolla",
+      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Sul Globo d'argento",
-        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
-      },
-      "artists": [
-        {
-          "name": "Neoprimitivi",
-          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
-        }
-      ],
-      "duration_ms": 1259437,
-      "name": "Sul Globo d'argento",
-      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Cascabel",
         "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 392598,
       "name": "Cascabel",
       "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Sul Globo d'argento",
+        "url": "https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv"
+      },
+      "artists": [
+        {
+          "name": "Neoprimitivi",
+          "url": "https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne"
+        }
+      ],
+      "duration_ms": 1259437,
+      "name": "Sul Globo d'argento",
+      "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
-      },
-      "artists": [
-        {
-          "name": "El Goodo",
-          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Feel so Fine",
-      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Canti, Vol. I",
         "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 434000,
       "name": "Nel Tempio Blu",
       "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
+      },
+      "artists": [
+        {
+          "name": "El Goodo",
+          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Feel so Fine",
+      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "Pascuales",
         "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Turk Jerk",
-        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
-      },
-      "artists": [
-        {
-          "name": "Tandy Love",
-          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Indian Zone Drum Killer Inc.",
-      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
         "name": "Non Ex Orbis",
         "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
-        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
-        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+        "name": "Turk Jerk",
+        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
       },
       "artists": [
         {
-          "name": "Oru\u00e3",
-          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+          "name": "Tandy Love",
+          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
         }
       ],
-      "duration_ms": 328404,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+      "duration_ms": 205160,
+      "name": "Indian Zone Drum Killer Inc.",
+      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1395,6 +1379,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
+        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
+        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "duration_ms": 328404,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
+      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "Velocirapture (The Serpent Flew)",
         "url": "https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC"
       },
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2025-01-31 06:00:24",
       "album": {
+        "name": "Norfolk Hotel",
+        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 274176,
+      "name": "Norfolk Hotel",
+      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
+    },
+    {
+      "added_at": "2025-01-31 06:00:24",
+      "album": {
         "name": "Fire In The Blood (Live Masterlink Session)",
         "url": "https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2"
       },
@@ -1567,22 +1599,6 @@
       "duration_ms": 257429,
       "name": "Fire In The Blood - Live Masterlink Session",
       "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
-      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
     },
     {
       "added_at": "2025-01-31 06:00:24",
@@ -1615,22 +1631,6 @@
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
-    },
-    {
-      "added_at": "2025-01-31 06:00:24",
-      "album": {
-        "name": "Norfolk Hotel",
-        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 274176,
-      "name": "Norfolk Hotel",
-      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
     },
     {
       "added_at": "2025-01-31 06:00:24",

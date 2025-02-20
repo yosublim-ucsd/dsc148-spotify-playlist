@@ -1,13 +1,29 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Featuring Edd. Artwork by Rewina Beshue",
-  "num_followers": 192556,
+  "num_followers": 192676,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N+AAAAAAPaG7VL3kZCiHSzSQYoUIX",
+  "snapshot_id": "Z7Ym8wAAAABRBE0Oic3DxpgIvNX1v3GW",
   "tracks": [
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "Don't Wanna Leave You",
+        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Don't Wanna Leave You",
+      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
+    },
     {
       "added_at": "2025-02-14 05:00:40",
       "album": {
@@ -25,20 +41,56 @@
       "url": "https://open.spotify.com/track/0soiFDRLcsO54jlv2ejrK4"
     },
     {
-      "added_at": "2025-02-12 19:20:57",
+      "added_at": "2025-01-21 20:16:13",
       "album": {
-        "name": "Tequila EP",
-        "url": "https://open.spotify.com/album/5RNU24tfKhSVHHZwuP57eL"
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
       },
       "artists": [
         {
-          "name": "Nacho Scoppa",
-          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3vfmApGTaEvTH1CzmPHL76"
+      "duration_ms": 170571,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-01-15 05:00:03",
+      "album": {
+        "name": "Make Your Move EP",
+        "url": "https://open.spotify.com/album/3SQ0yJOoplZshrwZMShJ2e"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        },
+        {
+          "name": "Ricky Rivera",
+          "url": "https://open.spotify.com/artist/4zrF2Ajlxg3eLAge301sBX"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/09WWogYSiDlStcXfDRGY9o"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "I Think I Love Her",
+        "url": "https://open.spotify.com/album/67E9JS1wtkBlI3oVwZMMka"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "I Think I Love Her",
+      "url": "https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B"
     },
     {
       "added_at": "2025-02-14 05:00:40",
@@ -59,6 +111,206 @@
       "duration_ms": 164544,
       "name": "Force",
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
+    },
+    {
+      "added_at": "2025-02-14 05:00:40",
+      "album": {
+        "name": "Flex My Ice",
+        "url": "https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "JV",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Flex My Ice",
+      "url": "https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1k555XgW6BheKvIFhyIpuz"
+      },
+      "artists": [
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "duration_ms": 231527,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/6UjPjOsEpOJlWO94CvY0tZ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:40",
+      "album": {
+        "name": "Brotherhood & Family",
+        "url": "https://open.spotify.com/album/6nPnl5kuLsC1QOYFJifDFS"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        },
+        {
+          "name": "Class Sick",
+          "url": "https://open.spotify.com/artist/1RHNusDa8NH1uyMeDyJYEc"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Brotherhood & Family",
+      "url": "https://open.spotify.com/track/6T1o2CfLOCT25mqWItniAC"
+    },
+    {
+      "added_at": "2025-02-12 19:20:57",
+      "album": {
+        "name": "Surrounding Me",
+        "url": "https://open.spotify.com/album/0yghnefiqGecEHVzB8r9Tw"
+      },
+      "artists": [
+        {
+          "name": "Scott Steer",
+          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
+        },
+        {
+          "name": "Poppy Wright",
+          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
+        },
+        {
+          "name": "George Barclay",
+          "url": "https://open.spotify.com/artist/49cigWqLlZRSgaRfxL06yz"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Surrounding Me",
+      "url": "https://open.spotify.com/track/4WofZyq2GwNuqgV3eWXByh"
+    },
+    {
+      "added_at": "2025-01-17 05:00:52",
+      "album": {
+        "name": "Paula Abdul",
+        "url": "https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Paula Abdul",
+      "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "Magic Button",
+        "url": "https://open.spotify.com/album/73XYfKCjKDhKhDnk0WlZJC"
+      },
+      "artists": [
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        },
+        {
+          "name": "AstroHertz",
+          "url": "https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Magic Button",
+      "url": "https://open.spotify.com/track/4fNtrMEeSAgFYDGWOUDYPs"
+    },
+    {
+      "added_at": "2025-02-12 19:20:57",
+      "album": {
+        "name": "Tequila EP",
+        "url": "https://open.spotify.com/album/5RNU24tfKhSVHHZwuP57eL"
+      },
+      "artists": [
+        {
+          "name": "Nacho Scoppa",
+          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3vfmApGTaEvTH1CzmPHL76"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "ONANON (REMIXES)",
+        "url": "https://open.spotify.com/album/2o71AmAuALpi07SfBnmy0D"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "duration_ms": 205429,
+      "name": "ONANON - DJ Carpenter Remix",
+      "url": "https://open.spotify.com/track/2ajvSqhx9EcE8OH41WOkHv"
+    },
+    {
+      "added_at": "2025-01-29 19:38:38",
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Partyman 3000",
+        "url": "https://open.spotify.com/album/1Q8CtTaYYcfpNWXK1U7arG"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Partyman 3000",
+      "url": "https://open.spotify.com/track/4QKAkux3PgARFLf2OjZQeu"
+    },
+    {
+      "added_at": "2025-02-19 18:46:11",
+      "album": {
+        "name": "Beware Of The Cool Kids",
+        "url": "https://open.spotify.com/album/31urDiZ09DBOhkCUulZtQS"
+      },
+      "artists": [
+        {
+          "name": "DJ Physical",
+          "url": "https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk"
+        }
+      ],
+      "duration_ms": 288337,
+      "name": "Homeboi Groove",
+      "url": "https://open.spotify.com/track/10kgDiuLgZI04zGD4CzoGp"
     },
     {
       "added_at": "2025-01-29 19:38:38",
@@ -97,42 +349,6 @@
       "url": "https://open.spotify.com/track/5sQG8BxOpvjISf0FWOikzQ"
     },
     {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "Make Your Move EP",
-        "url": "https://open.spotify.com/album/3SQ0yJOoplZshrwZMShJ2e"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        },
-        {
-          "name": "Ricky Rivera",
-          "url": "https://open.spotify.com/artist/4zrF2Ajlxg3eLAge301sBX"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/09WWogYSiDlStcXfDRGY9o"
-    },
-    {
-      "added_at": "2025-01-21 20:16:13",
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
-    },
-    {
       "added_at": "2025-02-14 05:00:40",
       "album": {
         "name": "Check Dis Out",
@@ -149,20 +365,60 @@
       "url": "https://open.spotify.com/track/6gZ7DAxV3Y3e41rk5GBMzN"
     },
     {
-      "added_at": "2025-02-14 05:00:40",
+      "added_at": "2025-02-19 18:46:11",
       "album": {
-        "name": "CUM 2",
-        "url": "https://open.spotify.com/album/3UbAyb9cYvmo0CbyY9BILA"
+        "name": "Pump This Party",
+        "url": "https://open.spotify.com/album/0n0AxX0DyNDjhSLnYjKQAY"
       },
       "artists": [
         {
-          "name": "Knife Girl",
-          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+          "name": "JWalkz",
+          "url": "https://open.spotify.com/artist/6qkfEFRUF7IsGgfpOMUTfk"
+        },
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
         }
       ],
-      "duration_ms": 186800,
-      "name": "m.o.w.u.",
-      "url": "https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD"
+      "duration_ms": 191985,
+      "name": "Pump This Party",
+      "url": "https://open.spotify.com/track/2S2WlomEUoG5KWSSWQxhs5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3gZ0u7KZCj0WNVMyg6MsJl"
+      },
+      "artists": [
+        {
+          "name": "Old Hermit Crab",
+          "url": "https://open.spotify.com/artist/04xdmP44NY4yb14rEgjFm5"
+        }
+      ],
+      "duration_ms": 326383,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o"
+    },
+    {
+      "added_at": "2025-02-05 20:13:14",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1BjZ8LU0tz6InnLLPTy01p"
+      },
+      "artists": [
+        {
+          "name": "Moontalk",
+          "url": "https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN"
+        },
+        {
+          "name": "SE\u00cfTOU",
+          "url": "https://open.spotify.com/artist/6u1xKpENLDr6n23EFcerpT"
+        }
+      ],
+      "duration_ms": 254409,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV"
     },
     {
       "added_at": "2025-02-12 19:20:57",
@@ -181,48 +437,20 @@
       "url": "https://open.spotify.com/track/7MAzQxiaDHTCSnN6soemCW"
     },
     {
-      "added_at": "2025-02-14 05:00:40",
+      "added_at": "2025-01-17 05:00:52",
       "album": {
-        "name": "Flex My Ice",
-        "url": "https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS"
+        "name": "Mona",
+        "url": "https://open.spotify.com/album/6jBjkj8fn53AqvktVsHNcw"
       },
       "artists": [
         {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "JV",
-          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+          "name": "Entasia",
+          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Flex My Ice",
-      "url": "https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R"
-    },
-    {
-      "added_at": "2025-02-12 19:20:57",
-      "album": {
-        "name": "Surrounding Me",
-        "url": "https://open.spotify.com/album/0yghnefiqGecEHVzB8r9Tw"
-      },
-      "artists": [
-        {
-          "name": "Scott Steer",
-          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
-        },
-        {
-          "name": "Poppy Wright",
-          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
-        },
-        {
-          "name": "George Barclay",
-          "url": "https://open.spotify.com/artist/49cigWqLlZRSgaRfxL06yz"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Surrounding Me",
-      "url": "https://open.spotify.com/track/4WofZyq2GwNuqgV3eWXByh"
+      "duration_ms": 229000,
+      "name": "Mona",
+      "url": "https://open.spotify.com/track/0Y8B1zHNuWZdn2BA4wv3Z9"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -239,42 +467,6 @@
       "duration_ms": 187142,
       "name": "Consequences (One Day At A Time)",
       "url": "https://open.spotify.com/track/0WWOCAXVa0aQWxJUGktFhX"
-    },
-    {
-      "added_at": "2025-02-14 05:00:40",
-      "album": {
-        "name": "Brotherhood & Family",
-        "url": "https://open.spotify.com/album/6nPnl5kuLsC1QOYFJifDFS"
-      },
-      "artists": [
-        {
-          "name": "Pedroz",
-          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
-        },
-        {
-          "name": "Class Sick",
-          "url": "https://open.spotify.com/artist/1RHNusDa8NH1uyMeDyJYEc"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Brotherhood & Family",
-      "url": "https://open.spotify.com/track/6T1o2CfLOCT25mqWItniAC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Paula Abdul",
-        "url": "https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Paula Abdul",
-      "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
     },
     {
       "added_at": "2025-02-05 20:13:14",
@@ -337,20 +529,36 @@
       "url": "https://open.spotify.com/track/2Qm5EB1sSlUK2LeWr3wKYD"
     },
     {
-      "added_at": "2025-01-24 05:00:52",
+      "added_at": "2025-02-19 18:46:11",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3gZ0u7KZCj0WNVMyg6MsJl"
+        "name": "Time Is Running Out",
+        "url": "https://open.spotify.com/album/45NtIwXIhtzd2StLvScmby"
       },
       "artists": [
         {
-          "name": "Old Hermit Crab",
-          "url": "https://open.spotify.com/artist/04xdmP44NY4yb14rEgjFm5"
+          "name": "Ashdunn",
+          "url": "https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy"
         }
       ],
-      "duration_ms": 326383,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o"
+      "duration_ms": 198889,
+      "name": "Time Is Running Out",
+      "url": "https://open.spotify.com/track/5ktcVBH9tdOrAxa2rPzlkw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "Retrograde/X-Dream",
+        "url": "https://open.spotify.com/album/2T85PZgTZWXVLGmKNpEmSa"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 320239,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/62mfVIqROho0gAaCc8esUY"
     },
     {
       "added_at": "2025-02-12 19:20:57",
@@ -387,42 +595,6 @@
       "duration_ms": 218048,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad"
-    },
-    {
-      "added_at": "2025-02-05 20:13:14",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/1BjZ8LU0tz6InnLLPTy01p"
-      },
-      "artists": [
-        {
-          "name": "Moontalk",
-          "url": "https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN"
-        },
-        {
-          "name": "SE\u00cfTOU",
-          "url": "https://open.spotify.com/artist/6u1xKpENLDr6n23EFcerpT"
-        }
-      ],
-      "duration_ms": 254409,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Mona",
-        "url": "https://open.spotify.com/album/6jBjkj8fn53AqvktVsHNcw"
-      },
-      "artists": [
-        {
-          "name": "Entasia",
-          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Mona",
-      "url": "https://open.spotify.com/track/0Y8B1zHNuWZdn2BA4wv3Z9"
     },
     {
       "added_at": "2025-02-14 05:00:40",
@@ -473,38 +645,6 @@
       "url": "https://open.spotify.com/track/2KY7PvxPgKn442isLDDbCa"
     },
     {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
-        "name": "Retrograde/X-Dream",
-        "url": "https://open.spotify.com/album/2T85PZgTZWXVLGmKNpEmSa"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 320239,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/62mfVIqROho0gAaCc8esUY"
-    },
-    {
-      "added_at": "2025-01-29 19:38:38",
-      "album": {
-        "name": "llamando",
-        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 156184,
-      "name": "llamando",
-      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
-    },
-    {
       "added_at": "2025-02-14 05:00:40",
       "album": {
         "name": "What U Need",
@@ -519,22 +659,6 @@
       "duration_ms": 171231,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/43r1S5zivYZWyHzWKaJivM"
-    },
-    {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Partyman 3000",
-        "url": "https://open.spotify.com/album/1Q8CtTaYYcfpNWXK1U7arG"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Partyman 3000",
-      "url": "https://open.spotify.com/track/4QKAkux3PgARFLf2OjZQeu"
     },
     {
       "added_at": "2025-02-05 20:13:14",
@@ -1001,38 +1125,6 @@
       "url": "https://open.spotify.com/track/4GRryQtE2m1a93WoP7oBiX"
     },
     {
-      "added_at": "2025-01-31 05:00:44",
-      "album": {
-        "name": "Feel The Beat",
-        "url": "https://open.spotify.com/album/4tKLIz9Lfw7Xbc0of7SI3v"
-      },
-      "artists": [
-        {
-          "name": "FREAK ON",
-          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Feel The Beat",
-      "url": "https://open.spotify.com/track/4vwMZqL89vFWxKyYSCRWHH"
-    },
-    {
-      "added_at": "2025-01-24 17:55:23",
-      "album": {
-        "name": "Beat on My Mind",
-        "url": "https://open.spotify.com/album/2NSeQqHNeAnQ2DUK3iSgYT"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 141936,
-      "name": "Beat On My Mind",
-      "url": "https://open.spotify.com/track/5Fa6YIRJUYJOrXIJ5rvEJR"
-    },
-    {
       "added_at": "2025-01-22 17:33:58",
       "album": {
         "name": "ALLNIGHT",
@@ -1165,22 +1257,6 @@
       "url": "https://open.spotify.com/track/2Nby1Q0ozXqR9EZtBV9Y1C"
     },
     {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/7EbXVZsEuOxvwDE4xzB45K"
-      },
-      "artists": [
-        {
-          "name": "Oots",
-          "url": "https://open.spotify.com/artist/3JO3KocIZryOFTLKFmRV8X"
-        }
-      ],
-      "duration_ms": 187195,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/1xxqbpKesgEeBj9Hmzyu9t"
-    },
-    {
       "added_at": "2025-01-15 05:00:03",
       "album": {
         "name": "Dream",
@@ -1301,26 +1377,6 @@
       "url": "https://open.spotify.com/track/5ubeTk7ki33QBghfPI2WsN"
     },
     {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "Where R U (Ibiza Mix)",
-        "url": "https://open.spotify.com/album/1VchgEibwwRK5PUw4W1lmu"
-      },
-      "artists": [
-        {
-          "name": "Spriitzz",
-          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
-        },
-        {
-          "name": "Spray",
-          "url": "https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Where R U - Ibiza Mix",
-      "url": "https://open.spotify.com/track/4DAHb3zosrRPneKuE8sHHm"
-    },
-    {
       "added_at": "2025-01-17 05:00:52",
       "album": {
         "name": "Harri Poter",
@@ -1423,26 +1479,6 @@
     {
       "added_at": "2025-01-17 05:00:52",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/4SHZ6qqsmuO5cG0F1KRpnZ"
-      },
-      "artists": [
-        {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
-        },
-        {
-          "name": "Lidiaana",
-          "url": "https://open.spotify.com/artist/1xPx6hDnEHaqPX6YVCZik3"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/5GRlIvwwLWe8tw5aXUVhkQ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
         "name": "Ululations",
         "url": "https://open.spotify.com/album/3vPQPu9YcWJq758g339rQq"
       },
@@ -1511,22 +1547,6 @@
       "duration_ms": 212571,
       "name": "whenyousayit",
       "url": "https://open.spotify.com/track/3kYI5fvpetkwM3sRGlNMyP"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/0DTFWyYgGLNM898i3Sart3"
-      },
-      "artists": [
-        {
-          "name": "Mezraa",
-          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0PVB803zkaEfSmlN4bbQBj"
     },
     {
       "added_at": "2025-01-22 17:33:58",
@@ -1615,26 +1635,6 @@
       "duration_ms": 187200,
       "name": "FIVE : THIRTY",
       "url": "https://open.spotify.com/track/2xaukHDrqvp2pkKArhGCJF"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "MONTA [COMP2]",
-        "url": "https://open.spotify.com/album/08hMPlKPYN6JRk8rpkt2tl"
-      },
-      "artists": [
-        {
-          "name": "Reece Ros\u00e9",
-          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
-        },
-        {
-          "name": "PR!CE",
-          "url": "https://open.spotify.com/artist/3DbWBIwP02mSq2mk70VmIR"
-        }
-      ],
-      "duration_ms": 180465,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2u2qNsg1PfQHaL4lS7P7Zb"
     },
     {
       "added_at": "2025-01-15 05:00:03",

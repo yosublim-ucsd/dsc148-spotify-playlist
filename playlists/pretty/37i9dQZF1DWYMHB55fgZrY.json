@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 555257,
+  "num_followers": 555312,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Ultrasonicas",
+        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
+      },
+      "artists": [
+        {
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Que Grosero",
+      "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Brujeria",
         "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 222333,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Ultrasonicas",
-        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
-      },
-      "artists": [
-        {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Que Grosero",
-      "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Ep1",
-        "url": "https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY"
+        "name": "Ultrasonicas",
+        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
       },
       "artists": [
         {
-          "name": "$6 Million Dollar Weirdo",
-          "url": "https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL"
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Horror Amor",
-      "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
+      "duration_ms": 100480,
+      "name": "Vente en Mi Boca",
+      "url": "https://open.spotify.com/track/5Zwg9L8RVPl04ZCmfK7vdV"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Ep1",
+        "url": "https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY"
+      },
+      "artists": [
+        {
+          "name": "$6 Million Dollar Weirdo",
+          "url": "https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Horror Amor",
+      "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Piel De Banqueta",
         "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 179973,
       "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
       "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Ultrasonicas",
-        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
-      },
-      "artists": [
-        {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
-        }
-      ],
-      "duration_ms": 100480,
-      "name": "Vente en Mi Boca",
-      "url": "https://open.spotify.com/track/5Zwg9L8RVPl04ZCmfK7vdV"
     },
     {
       "added_at": "2024-12-16 22:58:03",

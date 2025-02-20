@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 163192,
+  "num_followers": 163223,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 175237,
       "name": "Burning",
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -751,6 +735,42 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -787,26 +807,6 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
-      },
-      "artists": [
-        {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+      },
+      "artists": [
+        {
+          "name": "via.",
+          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "WINE",
+      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
-      },
-      "artists": [
-        {
-          "name": "GRACE.",
-          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
-      },
-      "artists": [
-        {
-          "name": "via.",
-          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "WINE",
-      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "Don't Trust Myself",
         "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 169434,
       "name": "Don't Trust Myself",
       "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1591,6 +1559,38 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
     },
     {
       "added_at": "2025-02-17 01:55:25",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-17 01:55:25",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 190642,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
-    },
-    {
-      "added_at": "2025-02-17 01:55:25",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 153905,
       "name": "wait it out",
       "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+    },
+    {
+      "added_at": "2025-02-17 01:55:25",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     },
     {
       "added_at": "2025-02-17 01:55:25",

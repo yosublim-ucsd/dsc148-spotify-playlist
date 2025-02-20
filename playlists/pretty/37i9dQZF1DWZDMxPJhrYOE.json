@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105063,
+  "num_followers": 105062,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
@@ -543,22 +563,22 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Wacuka",
-        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 190153,
-      "name": "Wacuka",
-      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -615,38 +635,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -667,38 +667,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Childlike Things",
-      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
+      "duration_ms": 178000,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -731,6 +711,26 @@
       "duration_ms": 133885,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Childlike Things",
+      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -783,6 +783,22 @@
       "duration_ms": 161007,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -863,22 +879,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "Blodigt (feat. Annika)",
         "url": "https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
         "name": "last night i dreamt i fell in love",
         "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "AFTERCARE DELUXE",
-        "url": "https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53"
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 196640,
-      "name": "AMERICAN BEAUTY",
-      "url": "https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb"
+      "duration_ms": 203419,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -999,26 +983,6 @@
       "duration_ms": 186110,
       "name": "Du ligner din mor",
       "url": "https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "Dancing in love",
-        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1047,22 +1011,38 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "Ask That God (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+        "name": "AFTERCARE DELUXE",
+        "url": "https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 205966,
-      "name": "Somebody's Son (feat. Lindsey Buckingham)",
-      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
+      "duration_ms": 196640,
+      "name": "AMERICAN BEAUTY",
+      "url": "https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1087,18 +1067,42 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "DOES GOD CRY?",
-        "url": "https://open.spotify.com/album/1Imj6FMtKCGGEZLq29CuDe"
+        "name": "PUSH 2 START (REMIX)",
+        "url": "https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 218653,
-      "name": "DOES GOD CRY?",
-      "url": "https://open.spotify.com/track/265SjBtYq3TRNMZRnKQni3"
+      "duration_ms": 187593,
+      "name": "PUSH 2 START - REMIX",
+      "url": "https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Ask That God (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 205966,
+      "name": "Somebody's Son (feat. Lindsey Buckingham)",
+      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1135,26 +1139,6 @@
       "duration_ms": 139842,
       "name": "SIKKE EN TYPE",
       "url": "https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "PUSH 2 START (REMIX)",
-        "url": "https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "PUSH 2 START - REMIX",
-      "url": "https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
+        "name": "DOES GOD CRY?",
+        "url": "https://open.spotify.com/album/1Imj6FMtKCGGEZLq29CuDe"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "DOES GOD CRY?",
+      "url": "https://open.spotify.com/track/265SjBtYq3TRNMZRnKQni3"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 136421,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "20 Years From Now",
+        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Love Worth Saving",
+      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
-        "name": "20 Years From Now",
-        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+        "name": "Heartbreaker From Tennessee",
+        "url": "https://open.spotify.com/album/6Imjg8TtPxOpudGWMqUeCH"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 174735,
-      "name": "Love Worth Saving",
-      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
+      "duration_ms": 132626,
+      "name": "Heartbreaker From Tennessee",
+      "url": "https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1311,38 +1327,6 @@
       "duration_ms": 200916,
       "name": "2 Stepper Freestyle",
       "url": "https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "Heartbreaker From Tennessee",
-        "url": "https://open.spotify.com/album/6Imjg8TtPxOpudGWMqUeCH"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 132626,
-      "name": "Heartbreaker From Tennessee",
-      "url": "https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "GIRLS!",
-        "url": "https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 142196,
-      "name": "GIRLS!",
-      "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
+        "name": "GIRLS!",
+        "url": "https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 142196,
+      "name": "GIRLS!",
+      "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 228860,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 179062,
-      "name": "Is It Just Me?",
-      "url": "https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr"
     },
     {
       "added_at": "2025-02-13 23:00:16",
@@ -1419,6 +1403,42 @@
     {
       "added_at": "2025-02-13 23:00:16",
       "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 179062,
+      "name": "Is It Just Me?",
+      "url": "https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
+        "name": "Hele Vejen (feat. Mumle)",
+        "url": "https://open.spotify.com/album/6J5rEQ4d7paiJZF2WpI4p3"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 177618,
+      "name": "Hele Vejen (feat. Mumle)",
+      "url": "https://open.spotify.com/track/2p4cYfKQbg8xHXNG4eQaGo"
+    },
+    {
+      "added_at": "2025-02-13 23:00:16",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 170208,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
-    },
-    {
-      "added_at": "2025-02-13 23:00:16",
-      "album": {
-        "name": "M\u00e5nen Er Min Ven",
-        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 141668,
-      "name": "Bare Vent (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2"
     }
   ],
   "unique_name": "De nye",

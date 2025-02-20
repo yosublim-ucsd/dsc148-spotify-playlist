@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 150810,
       "name": "Chiraq",
       "url": "https://open.spotify.com/track/4CnKsVS1BnefJrs8wBLO9U"
@@ -7472,6 +7472,24 @@
       "duration_ms": 128503,
       "name": "DOOR",
       "url": "https://open.spotify.com/track/1C9kOPsdU2y77BtMCxTtr1"
+    },
+    {
+      "album": {
+        "name": "Doot Doot (6 7)",
+        "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7)",
+      "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Shay Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,533 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,556 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 64 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 65 | [Nasty \(Match My Chic Remix\)](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
 
-Snapshot ID: `Z67N2wAAAAClm/aJO1Oe39eykl4NgDXh`
+Snapshot ID: `Z67N2wAAAADmcSYtSTy6xjkytwzhSBwB`

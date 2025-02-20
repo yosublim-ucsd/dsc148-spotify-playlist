@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians featuring DJ Minx \ud83e\udd16 50% techno, 50% house",
-  "num_followers": 651446,
+  "num_followers": 651523,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "YES B!TCH (feat. Rome Fortune)",
@@ -1257,22 +1273,6 @@
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Flood",
@@ -1287,6 +1287,22 @@
       "duration_ms": 272253,
       "name": "Flood",
       "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 170390,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "In The Streets",
-        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "In The Streets",
-      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
-    },
-    {
       "added_at": "2025-01-24 05:00:51",
       "album": {
         "name": "Don't Touch That Dial EP",
@@ -1515,6 +1499,22 @@
       "duration_ms": 194000,
       "name": "Don't Touch That Dial",
       "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "added_at": "2024-11-25 05:26:03",
@@ -1889,20 +1889,20 @@
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "All My Friends Are Hot",
-        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 179076,
-      "name": "All My Friends Are Hot",
-      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     }
   ],
   "unique_name": "Tech House Operator",

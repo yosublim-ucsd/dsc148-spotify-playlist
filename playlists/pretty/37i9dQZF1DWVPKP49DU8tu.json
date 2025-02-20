@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 357539,
+  "num_followers": 357544,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         },
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Anche Stasera",
-      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Guasto D'Amore",
-        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Guasto D'Amore",
-      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+      "duration_ms": 217500,
+      "name": "Anche Stasera",
+      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 211783,
       "name": "Tutto Qui",
       "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1603,26 +1603,18 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
-        "name": "Libert\u00e0",
-        "url": "https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg"
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
       },
       "artists": [
         {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "J-AX",
-          "url": "https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5"
-        },
-        {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Ti volevo dedicare (feat. J-AX & Boomdabash)",
-      "url": "https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M"
+      "duration_ms": 222794,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
     },
     {
       "added_at": "2025-01-28 15:21:54",
@@ -1651,6 +1643,30 @@
     {
       "added_at": "2025-01-28 15:21:54",
       "album": {
+        "name": "Libert\u00e0",
+        "url": "https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "J-AX",
+          "url": "https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5"
+        },
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Ti volevo dedicare (feat. J-AX & Boomdabash)",
+      "url": "https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M"
+    },
+    {
+      "added_at": "2025-01-28 15:21:54",
+      "album": {
         "name": "CLICK BOOM!",
         "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 225561,
       "name": "CLICK BOOM!",
       "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
-    },
-    {
-      "added_at": "2025-01-28 15:21:54",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 222794,
-      "name": "La musica non c'\u00e8",
-      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
     },
     {
       "added_at": "2025-01-28 15:21:54",

@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Looking 4 Love",
+        "url": "https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5"
+      },
+      "artists": [
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        },
+        {
+          "name": "S\u00d8BER",
+          "url": "https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142370,
+      "name": "Looking 4 Love",
+      "url": "https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB"
+    },
+    {
+      "album": {
         "name": "Music Is My Best Friend",
         "url": "https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq"
       },

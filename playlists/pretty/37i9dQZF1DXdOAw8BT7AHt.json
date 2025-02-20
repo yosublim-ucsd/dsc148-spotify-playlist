@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Lambrini Girls",
-  "num_followers": 469702,
+  "num_followers": 469723,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Negative Spaces",
-        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "negative spaces",
-      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "SLEEP WHEN I'M DEAD",
         "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Negative Spaces",
+        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "negative spaces",
+      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220533,
       "name": "Love",
       "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "20 Something",
         "url": "https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -687,6 +687,26 @@
       "duration_ms": 206520,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/7JGdB1AC0LQmbR9gswFIdn"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/2NyJW1lrrOEqunfuCmJmmX"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        }
+      ],
+      "duration_ms": 184525,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -739,26 +759,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "All My Fault",
-        "url": "https://open.spotify.com/album/2NyJW1lrrOEqunfuCmJmmX"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        },
-        {
-          "name": "Levi Hummon",
-          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
-        }
-      ],
-      "duration_ms": 184525,
-      "name": "All My Fault",
-      "url": "https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "Walk The Walk",
         "url": "https://open.spotify.com/album/6EDB7lh5A56htL40wdCuSx"
       },
@@ -771,38 +771,6 @@
       "duration_ms": 178956,
       "name": "Walk The Walk",
       "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "Feel It All",
-        "url": "https://open.spotify.com/album/0YGPrCcQsv5ZIH7PTVInM9"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 163104,
-      "name": "Feel It All",
-      "url": "https://open.spotify.com/track/4kZtyasvGfawNuUDFKkRGL"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -823,18 +791,34 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "R U FAMOUS",
-        "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 132133,
-      "name": "R U FAMOUS",
-      "url": "https://open.spotify.com/track/60EWZ7bTwOdc1vzC9OYajv"
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/0YGPrCcQsv5ZIH7PTVInM9"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "duration_ms": 163104,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/4kZtyasvGfawNuUDFKkRGL"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -887,18 +871,18 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/0N4IN0hPXGFtfsjlXqei4B"
+        "name": "R U FAMOUS",
+        "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
         }
       ],
-      "duration_ms": 179608,
-      "name": "Back 2 U",
-      "url": "https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn"
+      "duration_ms": 132133,
+      "name": "R U FAMOUS",
+      "url": "https://open.spotify.com/track/60EWZ7bTwOdc1vzC9OYajv"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -915,6 +899,22 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/0N4IN0hPXGFtfsjlXqei4B"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 179608,
+      "name": "Back 2 U",
+      "url": "https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A"
-      },
-      "artists": [
-        {
-          "name": "Michael Cera Palin",
-          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
-        }
-      ],
-      "duration_ms": 292907,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 117263,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera Palin",
+          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
+        }
+      ],
+      "duration_ms": 292907,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "ONLY ONE MODE",
-        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 172949,
-      "name": "NO LOVE BUT FOR OUR OWN",
-      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
       },
       "artists": [
         {
@@ -1172,9 +1172,25 @@
           "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+      "duration_ms": 172949,
+      "name": "NO LOVE BUT FOR OUR OWN",
+      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Swing Life Away",
+        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1215,22 +1231,6 @@
       "duration_ms": 171319,
       "name": "Return To Sender",
       "url": "https://open.spotify.com/track/6aBs71SfLXICPjgmgHhHVF"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
-        "name": "Swing Life Away",
-        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
-      },
-      "artists": [
-        {
-          "name": "Crooked Teeth",
-          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     },
     {
       "added_at": "2025-02-07 15:35:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-02-07 15:35:24",
       "album": {
-        "name": "I Hate the Internet / True Devotion",
-        "url": "https://open.spotify.com/album/54w7HgMTJI295pdatRThsz"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 173698,
-      "name": "I Hate the Internet",
-      "url": "https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502"
-    },
-    {
-      "added_at": "2025-02-07 15:35:24",
-      "album": {
         "name": "Talk Real",
         "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 175506,
       "name": "Talk Real",
       "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
+    },
+    {
+      "added_at": "2025-02-07 15:35:24",
+      "album": {
+        "name": "Sickle Walk",
+        "url": "https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "duration_ms": 86242,
+      "name": "Sickle Walk",
+      "url": "https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy"
     }
   ],
   "unique_name": "Today's Punk",

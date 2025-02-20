@@ -4,11 +4,12 @@
 
 > lowkey crying.
 
-454 songs - 19 hr 53 min
+457 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-02-28 | 2023-05-10 |
+| [A Clear Mind](https://open.spotify.com/track/5CPZ6bTq6DNZyuaAH3BteC) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [A Clear Mind](https://open.spotify.com/album/4iLrnJeBbGSJOHmmFudmmX) | 2:11 | 2025-02-19 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2021-12-14 | 2023-10-11 |
 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 | 2023-02-06 | 2023-11-16 |
 | [A Winter's Elegy](https://open.spotify.com/track/6bHkocAft4fa7LAfJqbRM7) | [Steven Poole](https://open.spotify.com/artist/1yQhRcOp7MsXQTZuoaOhyX) | [A Winter's Elegy](https://open.spotify.com/album/2eFmV9yZC88CNwG72C5pWS) | 2:23 | 2023-01-09 | 2023-11-16 |
@@ -297,6 +298,7 @@
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2021-12-14 | 2022-05-21 |
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2021-12-14 | 2023-10-11 |
 | [Que seas tu](https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Que seas tu](https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX) | 2:34 | 2024-09-10 |  |
+| [Queequeg](https://open.spotify.com/track/7K9brdkcBy95CVTFW9DYMB) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Queequeg](https://open.spotify.com/album/20KRmHdgOj8p6NVDJrgdtV) | 3:00 | 2025-02-19 |  |
 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 | 2022-04-22 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-14 | 2023-11-16 |
 | [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 | 2023-07-04 |  |
@@ -441,6 +443,7 @@
 | [When Feeling Blue](https://open.spotify.com/track/6kcQ0eZ69cdUZQYTfchSw9) | [Hans Francken](https://open.spotify.com/artist/1YLooLbQVz1H7EzYfU0gWO) | [When Feeling Blue](https://open.spotify.com/album/2eya6umAHIPoMyInrYqhuA) | 2:24 | 2021-12-14 | 2022-05-21 |
 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 | 2021-12-14 | 2023-10-11 |
 | [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-07-04 |  |
+| [Where the Past Meets the Pane](https://open.spotify.com/track/6Z6EfoY5AfarHBlcxIF45D) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Where the Past Meets the Pane](https://open.spotify.com/album/4cZRMJxSlYqpyBOluF7UYR) | 2:23 | 2025-02-19 |  |
 | [Whispered Winds](https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Whispered Winds](https://open.spotify.com/album/0et0WwbdnUCOzoDMQ4K8yQ) | 2:28 | 2021-12-14 | 2023-06-21 |
 | [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 | 2024-11-05 |  |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2021-12-14 | 2023-10-11 |

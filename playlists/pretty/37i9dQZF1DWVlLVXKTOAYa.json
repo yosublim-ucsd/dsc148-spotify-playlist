@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1082361,
+  "num_followers": 1082415,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -935,22 +935,18 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Are You Even Real (feat. Giv\u0113on)",
-        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1007,6 +1003,26 @@
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1083,38 +1099,22 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 172073,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
-        "name": "One More Dance",
-        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "One More Dance",
-      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "I'LL LIKE YOU",
-        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Hundred Mile High",
-        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 172181,
-      "name": "Hundred Mile High",
-      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
         "name": "Sing Like Madonna",
         "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
         "name": "I'd Rather Pretend (with d4vd)",
         "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
       },
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "The Dichotomy",
-        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 157937,
-      "name": "Darkerside",
-      "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
+      "duration_ms": 190534,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+        "name": "The Dichotomy",
+        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+      "duration_ms": 157937,
+      "name": "Darkerside",
+      "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1607,38 +1607,6 @@
     {
       "added_at": "2025-02-13 23:00:14",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 144588,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
-        "name": "Breathe In, Breathe Out",
-        "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Breathe In, Breathe Out",
-      "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
-    },
-    {
-      "added_at": "2025-02-13 23:00:14",
-      "album": {
         "name": "Look Who's Laughing Now",
         "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
       },
@@ -1651,6 +1619,22 @@
       "duration_ms": 174660,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 144588,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
     },
     {
       "added_at": "2025-02-13 23:00:14",
@@ -1719,6 +1703,22 @@
       "duration_ms": 179854,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2025-02-13 23:00:14",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
     }
   ],
   "unique_name": "Pop Right Now",

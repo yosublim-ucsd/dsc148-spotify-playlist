@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Across the Divide",
+        "url": "https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "Across the Divide",
+      "url": "https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA"
+    },
+    {
+      "album": {
         "name": "Across the Pavement",
         "url": "https://open.spotify.com/album/69PoP6QUOXVPVyvJJdS2hp"
       },
@@ -3532,6 +3550,24 @@
       "duration_ms": 149956,
       "name": "Driving Alongside",
       "url": "https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w"
+    },
+    {
+      "album": {
+        "name": "Droplets",
+        "url": "https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb"
     },
     {
       "album": {
@@ -7143,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Long Ago",
+        "url": "https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb"
+      },
+      "artists": [
+        {
+          "name": "Sam\u2019s Creek",
+          "url": "https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157921,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4"
+    },
+    {
+      "album": {
         "name": "Long Story",
         "url": "https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl"
       },
@@ -8825,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "On This Day",
+        "url": "https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch"
+      },
+      "artists": [
+        {
+          "name": "Em Monet",
+          "url": "https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127125,
+      "name": "On This Day",
+      "url": "https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP"
+    },
+    {
+      "album": {
         "name": "on this journey together",
         "url": "https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46"
       },
@@ -8944,7 +9016,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 197228,
       "name": "Open Pastures",
       "url": "https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR"
@@ -11417,6 +11489,24 @@
     },
     {
       "album": {
+        "name": "Spur of The Moment",
+        "url": "https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152409,
+      "name": "Spur of The Moment",
+      "url": "https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg"
+    },
+    {
+      "album": {
         "name": "Squares",
         "url": "https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4"
       },
@@ -13084,7 +13174,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 160515,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/6zJhV0LU1znSjUjt5e30Rw"

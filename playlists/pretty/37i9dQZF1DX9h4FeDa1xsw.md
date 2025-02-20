@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Rilès
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,751 likes - 39 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,759 likes - 39 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 38 | [PAS CHEZ MOI](https://open.spotify.com/track/5IBwwAbYOhgXoOu8CgeQAV) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [PAS CHEZ MOI](https://open.spotify.com/album/0LwEw2LjM9mEVbENVdQ3eE) | 2:56 |
 | 39 | [A la folie](https://open.spotify.com/track/4CkPnK5pnxA5rGIgG6WmpU) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [A la folie](https://open.spotify.com/album/395fRjBGn4yoTYp97mAOUq) | 3:00 |
 
-Snapshot ID: `Z69iyAAAAABW1/dvTT3kmYtiHvghKk2v`
+Snapshot ID: `Z69iyAAAAAD/ylVq+hQ3ReaYmYM41dJo`

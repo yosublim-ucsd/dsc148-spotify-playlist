@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Haven
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,950 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,982 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 11 | [OCEAN](https://open.spotify.com/track/0dDVyUcSbb0POMcLSiTpkl) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs), [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 3:33 |
 | 12 | [KEKASIH LAMA](https://open.spotify.com/track/1LPUve3yxwExjwKZ7KUu48) | [ahmadjohnson69](https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr) | [KEKASIH LAMA](https://open.spotify.com/album/4ct3MeTOKV3PkPWux3Eqh1) | 2:48 |
 | 13 | [made for us](https://open.spotify.com/track/7ujZUivevehX5spIejwJ5D) | [khalil](https://open.spotify.com/artist/0Tf9F8FxK0iul15ADXxQVU) | [WISHING US THE BEST](https://open.spotify.com/album/0Yn6zbB0CT9Tk4vTA5IC4X) | 2:03 |
-| 14 | [who gave you the key](https://open.spotify.com/track/3doIPniYg0UuPNUHv26EKl) | [Kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [who gave you the key](https://open.spotify.com/album/4QWuugd6JUK3yhQqz9VgjM) | 2:32 |
+| 14 | [who gave you the key](https://open.spotify.com/track/3doIPniYg0UuPNUHv26EKl) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [who gave you the key](https://open.spotify.com/album/4QWuugd6JUK3yhQqz9VgjM) | 2:32 |
 | 15 | [hypothetical!](https://open.spotify.com/track/2v9RrXGgmVjjPRF1xn8Xxj) | [Sadaf Wai](https://open.spotify.com/artist/30CSwriaFFJxvWIubt2vcn) | [hypothetical!](https://open.spotify.com/album/4qop7F7tP1BDK8MxhdCneC) | 2:51 |
 | 16 | [Cloudy](https://open.spotify.com/track/7o3ULLNjaTt3T38VQtlCdN) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti) | [Cloudy](https://open.spotify.com/album/6Zl90g6QdFOeUFmeqZXAsp) | 4:01 |
 | 17 | [NO TIME FOR LUV](https://open.spotify.com/track/29qSo3uuxJLk8j5KGTdsSR) | [SJY](https://open.spotify.com/artist/7FFcig6ACRx2aKYcyVnhDq), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Naveena](https://open.spotify.com/artist/2M82o2fBIv02GKyN3l5Cjv) | [NO TIME FOR LUV](https://open.spotify.com/album/4IA52K2oUe4uxHwCQO6Xrz) | 3:48 |

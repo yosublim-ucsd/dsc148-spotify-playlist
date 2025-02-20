@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 800 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 |
 | 50 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 
-Snapshot ID: `L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L0lGyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

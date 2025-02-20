@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-203 songs - 8 hr 33 min
+206 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2023-05-09 | 2024-10-09 |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 |  |
 | [Farewell](https://open.spotify.com/track/4FJ7BBCJ5Nxo1p8dtWq93K) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [Farewell](https://open.spotify.com/album/78yo6whvPqHfNZ4WZJcW5M) | 1:38 | 2023-05-09 | 2023-06-21 |
+| [Fatsia](https://open.spotify.com/track/3dYZA2Zu4jPASbKbZgqC3L) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Fatsia](https://open.spotify.com/album/5AhD8WFtcvufsebhRyCEjl) | 2:25 | 2025-02-19 |  |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-04 |  |
 | [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 | 2025-01-07 |  |
 | [flor](https://open.spotify.com/track/1ftHK8HKEueKLkKY61TJFr) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw) | 3:04 | 2023-05-09 | 2023-11-10 |
@@ -78,6 +79,7 @@
 | [Før](https://open.spotify.com/track/6Gr6nfOHrGnnK1rGerb0eb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Før](https://open.spotify.com/album/7emneKjgmNyhsAUGbPv40d) | 2:37 | 2023-05-09 | 2024-11-07 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-05-09 |  |
 | [Give Me Love](https://open.spotify.com/track/4iQvog1874l8QQsOuzPMW6) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Give Me Love](https://open.spotify.com/album/0zSP1ER1taYJi00AMyD9S1) | 2:21 | 2024-05-23 |  |
+| [Golden Fields](https://open.spotify.com/track/7sdBQrciBCuWoAFe8pY0sw) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Golden Fields](https://open.spotify.com/album/5cMkJA1S0kyGbsedwON2zo) | 2:38 | 2025-02-19 |  |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2023-05-09 | 2024-02-14 |
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-07 |  |
 | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR) | [Oscar Johansson](https://open.spotify.com/artist/23tMk4k83BihntN9bkQ2K1) | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/album/1g8Cg2tX8F6vuflRgaGL1o) | 1:56 | 2023-05-09 | 2024-02-03 |
@@ -196,6 +198,7 @@
 | [two hearts](https://open.spotify.com/track/7BJ5nncFAfOPDZlAP7JSDM) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [two hearts](https://open.spotify.com/album/5tEuD7NgIsdFbMlpnvajiH) | 2:38 | 2023-05-09 |  |
 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 | 2023-05-09 |  |
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2023-05-09 | 2024-02-03 |
+| [Una Segunda Oportunidad](https://open.spotify.com/track/06QAq1rViVOXwvA1MwQJVG) | [Bress Curton](https://open.spotify.com/artist/31hpV7tUYfk8ylQR1gSN8v) | [Una Segunda Oportunidad](https://open.spotify.com/album/1s1SMYocP9natVC3rSqDyQ) | 2:56 | 2025-02-19 |  |
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-05-09 | 2024-02-03 |
 | [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2023-05-09 | 2024-10-02 |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 | 2024-11-07 |

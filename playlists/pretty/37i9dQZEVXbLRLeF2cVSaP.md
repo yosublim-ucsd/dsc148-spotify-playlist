@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,457 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,462 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 37 | [Sladki Snov Rapper 2](https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:14 |
 | 38 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 | 39 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 |
-| 40 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 40 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 | 41 | [Pose](https://open.spotify.com/track/0xS08Lk8uNc84YCx1cJtHV) | [Полка](https://open.spotify.com/artist/5VxeSwDCDsUT35ggejgYo2) | [Pose](https://open.spotify.com/album/3UNyYrqPOB7yERngVwXpMh) | 1:30 |
 | 42 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:02 |
 | 43 | [NOTHING](https://open.spotify.com/track/6GEq7HOVs2YUTcgHlkAZwS) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [NOTHING](https://open.spotify.com/album/5xHqtP68kHCrpkvGqOfw2E) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
 | 50 | [Diamond Tears](https://open.spotify.com/track/3u6ijAXDYG5QqqbWj4Kvf2) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Diamond Tears](https://open.spotify.com/album/48spdzZSka309dMdvXqsde) | 2:44 |
 
-Snapshot ID: `L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L0lGyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

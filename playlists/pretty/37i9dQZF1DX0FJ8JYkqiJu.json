@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 399543,
+  "num_followers": 399623,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 202742,
       "name": "We Are Mirage - Radio Edit",
       "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
-      },
-      "artists": [
-        {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 175292,
       "name": "Say It",
       "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -767,18 +767,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "Wale Wale",
         "url": "https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 317884,
       "name": "Wale Wale",
       "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2025-02-11 04:11:11",
+      "album": {
         "name": "some kind of peace",
         "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
@@ -1207,18 +1223,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+        "name": "Gave You Everything",
+        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
       },
       "artists": [
         {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "Modern Living",
+          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+      "duration_ms": 202500,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1279,22 +1299,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Gave You Everything",
-        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
       },
       "artists": [
         {
-          "name": "Modern Living",
-          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Moav",
+          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
+      "duration_ms": 156375,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
     },
     {
       "added_at": "2025-02-11 04:11:11",
@@ -1323,42 +1343,22 @@
     {
       "added_at": "2025-02-11 04:11:11",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
+        "name": "malo okoma",
+        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
       "artists": [
         {
-          "name": "We Architects",
-          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
         },
         {
-          "name": "Moav",
-          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+          "name": "Theresa Ng'ambi",
+          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
         }
       ],
-      "duration_ms": 156375,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
-    },
-    {
-      "added_at": "2025-02-11 04:11:11",
-      "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+      "duration_ms": 245437,
+      "name": "malo okoma - Radio Edit",
+      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
     }
   ],
   "unique_name": "Just Chill",

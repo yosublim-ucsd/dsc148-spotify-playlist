@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: The Last Magic, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Sarthak Kalyani, Artwork: Isu Kim
 
-1,516 songs - 3 day 15 hr 37 min
+1,517 songs - 3 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,7 +1357,7 @@
 | [Tu Chahe](https://open.spotify.com/track/3xLhkRS8LZoWMDs6n3LDhe) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Tu Chahe](https://open.spotify.com/album/1SO03RxDtHUyrot4yjMJrp) | 2:29 | 2022-08-03 | 2023-02-16 |
 | [Tu Chal Diya](https://open.spotify.com/track/5FuI91YuM1oEkyRBgHn0cA) | [Pragya Sodhani](https://open.spotify.com/artist/7uISpoX55zzPLpBvXzPyGc) | [Tu Chal Diya](https://open.spotify.com/album/6rxIukulxs2SrftCHVE5y2) | 4:17 | 2023-11-22 | 2024-02-29 |
 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-09-08 | 2023-02-16 |
-| [Tu Hai](https://open.spotify.com/track/6JXEYsJZH5Mr7tTKXMvqBp) | [Chaitanya Kapadia](https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of) | [Tu Hai](https://open.spotify.com/album/1fNMM6cLOd5JSLGoyPk0ao) | 3:03 | 2024-08-14 |  |
+| [Tu Hai](https://open.spotify.com/track/6JXEYsJZH5Mr7tTKXMvqBp) | [Chaitanya Kapadia](https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of) | [Tu Hai](https://open.spotify.com/album/1fNMM6cLOd5JSLGoyPk0ao) | 3:03 | 2024-08-14 | 2025-02-20 |
 | [Tu Hai Meri](https://open.spotify.com/track/1znoFVUFT5CvMb8xDhI0XC) | [Tabish Pasha](https://open.spotify.com/artist/23PQLlHeQ6hHlfqrI43h2t), [Jojo Rick](https://open.spotify.com/artist/6qLa6iwcKcDDFPHcjNfsqf) | [Tu Hai Meri](https://open.spotify.com/album/1EyKvOpMpUICHhAAPHT6oR) | 2:59 | 2025-02-12 |  |
 | [Tu Hai Toh](https://open.spotify.com/track/3V4qTMmvJE7XUyqTYoZAbn) | [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Tu Hai Toh](https://open.spotify.com/album/535GQZgByPr4o4ER7rjzfY) | 2:19 | 2022-10-06 | 2023-02-02 |
 | [Tu Hai Wajah](https://open.spotify.com/track/7jtYi8pnXd1wZ3ULmBlnuL) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Nandini Sharma](https://open.spotify.com/artist/5J1s5PYUPvGPU5PTfhbjW8) | [Tu Hai Wajah](https://open.spotify.com/album/3jEGEynhttC2NpEz7WW4mG) | 3:11 | 2023-03-22 | 2023-06-08 |
@@ -1405,6 +1405,7 @@
 | [Udd Re](https://open.spotify.com/track/1VRXOd1EtibAlmAV5CEWHT) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Udd Re](https://open.spotify.com/album/6V7xG8jWVHgk29H1eneQYz) | 3:24 | 2023-03-29 | 2023-05-04 |
 | [UDDCHALEIN](https://open.spotify.com/track/6xj3X9B4S7s0d6wjWyDT9i) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Full Power](https://open.spotify.com/artist/0WM7rHRZePUmtvnz475kWg) | [UDDCHALEIN](https://open.spotify.com/album/1UCRVb7ArIEybHpc7wz7N5) | 3:27 | 2022-05-18 | 2022-07-28 |
 | [Ude](https://open.spotify.com/track/2OKsROZXF2C5FIBSMTlp7M) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Anouck Hilbey](https://open.spotify.com/artist/3m6cDxMySnaMJfj5fsCLi2), [Siddh](https://open.spotify.com/artist/7ss5OLIb1TUdbXAa4HDwqA) | [Ude](https://open.spotify.com/album/36CjBcSzIgFv1OM6WITlNu) | 5:49 | 2022-03-23 | 2022-04-14 |
+| [Udja Parindey](https://open.spotify.com/track/3KN3Uo4tNvxtsR1IVRfZCx) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Satyansh Rajat](https://open.spotify.com/artist/2WvmxUMd2Pnekw7iHHyWLk) | [Udja Parindey](https://open.spotify.com/album/1tWqj04Efyf8aITaB1kRcO) | 3:59 | 2025-02-19 |  |
 | [UDTI PHIRA](https://open.spotify.com/track/3THX26BJiJuR8nTVbeR4tv) | [AASHI TITORIA](https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q) | [UDTI PHIRA](https://open.spotify.com/album/24NtlvBm7DCYOQHTwacrhc) | 2:34 | 2023-01-25 | 2023-04-20 |
 | [Uljha](https://open.spotify.com/track/7ADK4zhYFgz021VrkW8hUL) | [DPON DASH](https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst) | [Uljha](https://open.spotify.com/album/04IDs5j9ckJwtObakJ161m) | 2:06 | 2024-05-08 | 2024-08-01 |
 | [Uljhan](https://open.spotify.com/track/6iHFYrR8IKRMfjXYJCNjA1) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Uljhan](https://open.spotify.com/album/1N6znw1ODAjLIanv1DYYBh) | 2:49 | 2024-05-29 | 2024-07-11 |

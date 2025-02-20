@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Long Ago",
+        "url": "https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb"
+      },
+      "artists": [
+        {
+          "name": "Sam\u2019s Creek",
+          "url": "https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157921,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4"
+    },
+    {
+      "album": {
         "name": "Keep A Secret",
         "url": "https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi"
       },
@@ -5014,6 +5032,24 @@
       "duration_ms": 180543,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
+    },
+    {
+      "album": {
+        "name": "Slowly Rising",
+        "url": "https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM"
+      },
+      "artists": [
+        {
+          "name": "Max Stewart",
+          "url": "https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136766,
+      "name": "Slowly Rising",
+      "url": "https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 391150,
+  "num_followers": 391172,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
-    },
-    {
-      "added_at": "2025-02-12 02:19:26",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2025-02-12 02:19:26",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -851,18 +851,26 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "City Love City Love City Love",
-        "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
+        "name": "Luv Myself (feat. AKLO & KEIJU)",
+        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
       "artists": [
         {
           "name": "Kvi Baba",
           "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
         }
       ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
+      "duration_ms": 268799,
+      "name": "Luv Myself (feat. AKLO & KEIJU)",
+      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -935,26 +943,18 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "Luv Myself (feat. AKLO & KEIJU)",
-        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
+        "name": "City Love City Love City Love",
+        "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
       },
       "artists": [
         {
           "name": "Kvi Baba",
           "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        },
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        },
-        {
-          "name": "KEIJU",
-          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
         }
       ],
-      "duration_ms": 268799,
-      "name": "Luv Myself (feat. AKLO & KEIJU)",
-      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp"
-    },
-    {
-      "added_at": "2025-02-12 02:19:26",
-      "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
+        "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp"
+    },
+    {
+      "added_at": "2025-02-12 02:19:26",
+      "album": {
         "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
         "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 197904,
       "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
       "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
-    },
-    {
-      "added_at": "2025-02-12 02:19:26",
-      "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -1295,6 +1279,22 @@
       "duration_ms": 181384,
       "name": "Osanpo - Remix",
       "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
+    },
+    {
+      "added_at": "2025-02-12 02:19:26",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "SF\u6771\u4eac",
-        "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "SF\u6771\u4eac",
-      "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
-    },
-    {
-      "added_at": "2025-02-12 02:19:26",
-      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "added_at": "2025-02-12 02:19:26",
+      "album": {
+        "name": "SF\u6771\u4eac",
+        "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "SF\u6771\u4eac",
+      "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
     },
     {
       "added_at": "2025-02-12 02:19:26",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-02-12 02:19:26",
       "album": {
-        "name": "27:00",
-        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 208955,
-      "name": "27:00",
-      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
-    },
-    {
-      "added_at": "2025-02-12 02:19:26",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "added_at": "2025-02-12 02:19:26",
+      "album": {
+        "name": "27:00",
+        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "27:00",
+      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
     },
     {
       "added_at": "2025-02-12 02:19:26",

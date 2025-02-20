@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 112385,
+  "num_followers": 112377,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "T\u00e1 OK",
-        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "T\u00e1 OK",
-      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Novidade na \u00c1rea",
-        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 120014,
-      "name": "Novidade na \u00c1rea",
-      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 154694,
       "name": "MINHA CURA",
       "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Novidade na \u00c1rea",
+        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 120014,
+      "name": "Novidade na \u00c1rea",
+      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
     },
     {
       "added_at": "2024-08-22 23:00:00",

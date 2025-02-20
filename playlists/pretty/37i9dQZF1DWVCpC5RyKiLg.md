@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,623 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,643 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 37 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 38 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
 | 39 | [Até que enfim \- Ao vivo](https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Chão de estrelas \(Ao vivo\)](https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun) | 3:44 |
-| 40 | [Fulminante](https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fala Meu Nome Aí](https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5) | 3:23 |
+| 40 | [Sobrenome \- Ao vivo](https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Sobrenome \(Ao Vivo\)](https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB) | 3:12 |
 | 41 | [Louca de Saudade \- Ao Vivo](https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:15 |
-| 42 | [Sobrenome \- Ao vivo](https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Sobrenome \(Ao Vivo\)](https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB) | 3:12 |
+| 42 | [Fulminante](https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fala Meu Nome Aí](https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5) | 3:23 |
 | 43 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
 | 44 | [Sinto sua falta \- Ao vivo](https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:24 |
 | 45 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 64 | [Jogado Na Rua](https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Hits Para Namorar](https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd) | 3:26 |
 | 65 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 66 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
-| 67 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
-| 68 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
+| 67 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
+| 68 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
 | 69 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
 | 70 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 71 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 |

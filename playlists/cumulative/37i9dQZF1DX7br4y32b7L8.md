@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-670 songs - 1 day 10 hr 4 min
+671 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2024-11-28 | 2024-12-04 |
 | [Non Stop](https://open.spotify.com/track/2hKpOD0fp1q1Al6XbCkM0p) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Non Stop](https://open.spotify.com/album/7IgIudLVXxMySJRQ3P0p09) | 2:19 | 2023-02-23 | 2023-04-12 |
 | [Nostalgie](https://open.spotify.com/track/70QBnYP5lr1nhF3isSOJfj) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Nostalgie](https://open.spotify.com/album/6yzNzeMjpMasaeYtoVsmeD) | 2:42 | 2024-04-06 | 2024-07-04 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-19 |  |
 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 | 2023-05-24 | 2023-07-11 |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 | 2024-10-21 | 2024-12-04 |
 | [Oceaan](https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY) | 2:44 | 2024-11-07 | 2025-02-11 |
@@ -538,7 +539,7 @@
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner](https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq) | 4:56 | 2024-10-03 | 2024-12-04 |
 | [Si Maatje](https://open.spotify.com/track/2xHlin7fgfTCSOlpBgdXiP) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Anthony Kruijver](https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn) | [Si Maatje](https://open.spotify.com/album/2LBFqJ971pYnPLMbdjhuCE) | 2:30 | 2024-08-01 |  |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-02 | 2024-02-09 |
-| [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 | 2024-12-03 |  |
+| [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 | 2024-12-03 |  |
 | [SITU](https://open.spotify.com/track/2h2xqIze7ZpHNlLoyP1Tor) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [SITU](https://open.spotify.com/album/7euM4uBIBJRoTU76sqd6aJ) | 3:03 | 2024-05-15 | 2024-09-12 |
 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 | 2023-10-30 | 2024-04-19 |
 | [Skibidi Toilet](https://open.spotify.com/track/73AiQc9SXjjeii7jbhQ6Vc) | [Lil Big Stack](https://open.spotify.com/artist/3oBqUqRBY1Ish0n1fHxeu2) | [Skibidi Toilet](https://open.spotify.com/album/6Wn6ORSp0TMA4sx3NWmkJq) | 1:15 | 2024-07-17 | 2024-10-08 |

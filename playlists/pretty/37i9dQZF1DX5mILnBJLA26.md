@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85?si=F1gpVQl4SRiFUPSbr0kdAA">ShaunMusiq</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,187 likes - 65 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,638 likes - 65 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

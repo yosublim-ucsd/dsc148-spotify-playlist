@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 159532,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/4tMx9TwsMwvPKJKpQZcxDV"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -2146,6 +2146,28 @@
       "duration_ms": 178000,
       "name": "luft (feat. Friedberg)",
       "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "album": {
@@ -3246,7 +3268,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 123000,
       "name": "Slowdown (girl what's up)",
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
@@ -3608,7 +3630,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
@@ -3866,6 +3888,28 @@
       "duration_ms": 219909,
       "name": "this is what autumn feels like",
       "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "album": {
+        "name": "This Sunset",
+        "url": "https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "This Sunset",
+      "url": "https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN"
     },
     {
       "album": {

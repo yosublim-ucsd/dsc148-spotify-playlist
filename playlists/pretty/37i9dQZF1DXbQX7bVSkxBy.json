@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=3PCWTJPDT9CDxWRbH5JuRg>Yadah</a>",
-  "num_followers": 39307,
+  "num_followers": 39330,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -689,6 +689,34 @@
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
       "added_at": "2025-01-10 00:01:32",
       "album": {
         "name": "Doing Of The Lord",
@@ -733,32 +761,20 @@
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "The Maverick Way Complete",
-        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 498332,
-      "name": "For My Good (feat. Todd Galberth)",
-      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -775,22 +791,6 @@
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Joy in Chaos (Extended)",
         "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 126923,
       "name": "Joy in Chaos (Extended)",
       "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-29 00:01:00",

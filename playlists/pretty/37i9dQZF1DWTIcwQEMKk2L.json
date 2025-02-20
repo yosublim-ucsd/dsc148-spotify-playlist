@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 70333,
+  "num_followers": 70340,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "As The Years Go By",
         "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+        "name": "Oyasumi Nasai",
+        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
       "artists": [
         {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
         }
       ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
+      "duration_ms": 164522,
+      "name": "Oyasumi Nasai",
+      "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Oyasumi Nasai",
-        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
       "artists": [
         {
-          "name": "Marlon Guild",
-          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
         }
       ],
-      "duration_ms": 164522,
-      "name": "Oyasumi Nasai",
-      "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 147029,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 147029,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
-      },
-      "artists": [
-        {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Afterhours",
-      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 165750,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Afterhours",
+      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma",
-          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
-        }
-      ],
-      "duration_ms": 143869,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Disney Covers Vol 1",
         "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186088,
       "name": "God Help the Outcasts",
       "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
       },
       "artists": [
         {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
         }
       ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -823,6 +807,22 @@
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
       "artists": [
         {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Out of place",
-      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
       "artists": [
         {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
         }
       ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+      "duration_ms": 211000,
+      "name": "Out of place",
+      "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 140241,
       "name": "Compass",
       "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -1307,6 +1307,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "I See the Light - From \"Tangled\"",
-        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
-      },
-      "artists": [
-        {
-          "name": "Gregory Bevill",
-          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
-        }
-      ],
-      "duration_ms": 200812,
-      "name": "I See the Light - From \"Tangled\"",
-      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "I See the Light - From \"Tangled\"",
+        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
+      },
+      "artists": [
+        {
+          "name": "Gregory Bevill",
+          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
+        }
+      ],
+      "duration_ms": 200812,
+      "name": "I See the Light - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
     },
     {
       "added_at": "2025-02-03 02:27:02",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-02-03 02:27:02",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2025-02-03 02:27:02",
-      "album": {
         "name": "Maybe under some other sky",
         "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 139500,
       "name": "Maybe under some other sky",
       "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
+    },
+    {
+      "added_at": "2025-02-03 02:27:02",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

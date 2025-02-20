@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 180465,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2u2qNsg1PfQHaL4lS7P7Zb"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 141936,
       "name": "Beat On My Mind",
       "url": "https://open.spotify.com/track/5Fa6YIRJUYJOrXIJ5rvEJR"
@@ -12397,6 +12397,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Leave You",
+        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231117,
+      "name": "Don't Wanna Leave You",
+      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
+    },
+    {
+      "album": {
         "name": "Lonely Dinosaur",
         "url": "https://open.spotify.com/album/2Yi0sAFXOIS6zBCpmp6fDw"
       },
@@ -14968,7 +14986,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 228482,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/5GRlIvwwLWe8tw5aXUVhkQ"
@@ -15250,7 +15268,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 187195,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1xxqbpKesgEeBj9Hmzyu9t"
@@ -15304,7 +15322,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 212093,
       "name": "Feel The Beat",
       "url": "https://open.spotify.com/track/4vwMZqL89vFWxKyYSCRWHH"
@@ -20693,6 +20711,24 @@
     },
     {
       "album": {
+        "name": "Beware Of The Cool Kids",
+        "url": "https://open.spotify.com/album/31urDiZ09DBOhkCUulZtQS"
+      },
+      "artists": [
+        {
+          "name": "DJ Physical",
+          "url": "https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288337,
+      "name": "Homeboi Groove",
+      "url": "https://open.spotify.com/track/10kgDiuLgZI04zGD4CzoGp"
+    },
+    {
+      "album": {
         "name": "Homeboy/Florida",
         "url": "https://open.spotify.com/album/6ItZoA1SXP1M9gBqGW8y2w"
       },
@@ -21996,6 +22032,24 @@
       "duration_ms": 257446,
       "name": "I Still Think of You",
       "url": "https://open.spotify.com/track/1gnRybeofMdKwNCm31XcjR"
+    },
+    {
+      "album": {
+        "name": "I Think I Love Her",
+        "url": "https://open.spotify.com/album/67E9JS1wtkBlI3oVwZMMka"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "I Think I Love Her",
+      "url": "https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B"
     },
     {
       "album": {
@@ -25612,7 +25666,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 175057,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/0PVB803zkaEfSmlN4bbQBj"
@@ -27070,7 +27124,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 186800,
       "name": "m.o.w.u.",
       "url": "https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD"
@@ -27270,6 +27324,28 @@
       "duration_ms": 202943,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4oJF0tKuwU26s6MZkQ2ahU"
+    },
+    {
+      "album": {
+        "name": "Magic Button",
+        "url": "https://open.spotify.com/album/73XYfKCjKDhKhDnk0WlZJC"
+      },
+      "artists": [
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        },
+        {
+          "name": "AstroHertz",
+          "url": "https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Magic Button",
+      "url": "https://open.spotify.com/track/4fNtrMEeSAgFYDGWOUDYPs"
     },
     {
       "album": {
@@ -29532,6 +29608,24 @@
       "duration_ms": 231527,
       "name": "Moving",
       "url": "https://open.spotify.com/track/0QXWcZY9DRDS0e8Czdgdv5"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1k555XgW6BheKvIFhyIpuz"
+      },
+      "artists": [
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231527,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/6UjPjOsEpOJlWO94CvY0tZ"
     },
     {
       "album": {
@@ -32417,6 +32511,28 @@
     },
     {
       "album": {
+        "name": "ONANON (REMIXES)",
+        "url": "https://open.spotify.com/album/2o71AmAuALpi07SfBnmy0D"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "ONANON - DJ Carpenter Remix",
+      "url": "https://open.spotify.com/track/2ajvSqhx9EcE8OH41WOkHv"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6J9JduAffjemdIszo50U47"
       },
@@ -35230,6 +35346,28 @@
       "duration_ms": 249230,
       "name": "Pump This",
       "url": "https://open.spotify.com/track/3zv6z0evv8QiIJjA8yOWAf"
+    },
+    {
+      "album": {
+        "name": "Pump This Party",
+        "url": "https://open.spotify.com/album/0n0AxX0DyNDjhSLnYjKQAY"
+      },
+      "artists": [
+        {
+          "name": "JWalkz",
+          "url": "https://open.spotify.com/artist/6qkfEFRUF7IsGgfpOMUTfk"
+        },
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191985,
+      "name": "Pump This Party",
+      "url": "https://open.spotify.com/track/2S2WlomEUoG5KWSSWQxhs5"
     },
     {
       "album": {
@@ -44591,6 +44729,24 @@
     },
     {
       "album": {
+        "name": "Time Is Running Out",
+        "url": "https://open.spotify.com/album/45NtIwXIhtzd2StLvScmby"
+      },
+      "artists": [
+        {
+          "name": "Ashdunn",
+          "url": "https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198889,
+      "name": "Time Is Running Out",
+      "url": "https://open.spotify.com/track/5ktcVBH9tdOrAxa2rPzlkw"
+    },
+    {
+      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/32UL66g61gUnPNIs4YDjnD"
       },
@@ -48602,7 +48758,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 202500,
       "name": "Where R U - Ibiza Mix",
       "url": "https://open.spotify.com/track/4DAHb3zosrRPneKuE8sHHm"

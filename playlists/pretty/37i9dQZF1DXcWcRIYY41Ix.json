@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128486,
+  "num_followers": 128497,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -895,6 +895,46 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+        },
+        {
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+        }
+      ],
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -935,26 +975,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Ventura (Live)",
         "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
@@ -975,22 +995,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Esto No Es un Disco Vol.2",
-        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+        "name": "En peu de pau",
+        "url": "https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk"
       },
       "artists": [
         {
-          "name": "El Ni\u00f1o de la Hipoteca",
-          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+          "name": "Sergi Carbonell",
+          "url": "https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO"
         },
         {
-          "name": "Sandra Bautista",
-          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         }
       ],
-      "duration_ms": 158341,
-      "name": "Testamento - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
+      "duration_ms": 265261,
+      "name": "En peu de pau",
+      "url": "https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1011,6 +1031,22 @@
       "duration_ms": 186597,
       "name": "A la deriva",
       "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Vig\u00edlia",
+        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
+      },
+      "artists": [
+        {
+          "name": "Anna Andreu",
+          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Roja i espessa",
+      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1071,26 +1107,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "En peu de pau",
-        "url": "https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk"
-      },
-      "artists": [
-        {
-          "name": "Sergi Carbonell",
-          "url": "https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 265261,
-      "name": "En peu de pau",
-      "url": "https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 160452,
       "name": "Llegas t\u00fa",
       "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Vig\u00edlia",
-        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
-      },
-      "artists": [
-        {
-          "name": "Anna Andreu",
-          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Roja i espessa",
-      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Due\u00f1a",
         "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
       },
@@ -1271,18 +1251,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
       "artists": [
         {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
         }
       ],
-      "duration_ms": 203851,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1303,6 +1287,22 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        }
+      ],
+      "duration_ms": 203851,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Todas Las Banderas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+        "name": "Fado",
+        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
         }
       ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+      "duration_ms": 268018,
+      "name": "Fado",
+      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Fado",
-        "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
-      },
-      "artists": [
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Fado",
-      "url": "https://open.spotify.com/track/2EzKiPAcNG3Ozihcj8Np10"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Que no ves que no vas",
-        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
-      },
-      "artists": [
-        {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
-        }
-      ],
-      "duration_ms": 138888,
-      "name": "Que no ves que no vas",
-      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Que no ves que no vas",
+        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "duration_ms": 138888,
+      "name": "Que no ves que no vas",
+      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Ahora que no estoy yo",
-        "url": "https://open.spotify.com/album/7u64UARMdG0AGgzG1NPGhm"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 188201,
-      "name": "Ahora que no estoy yo",
-      "url": "https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4"
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+        "name": "Ahora que no estoy yo",
+        "url": "https://open.spotify.com/album/7u64UARMdG0AGgzG1NPGhm"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
         }
       ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+      "duration_ms": 188201,
+      "name": "Ahora que no estoy yo",
+      "url": "https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4"
     },
     {
       "added_at": "2025-02-13 23:00:19",

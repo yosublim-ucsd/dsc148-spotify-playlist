@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-200 songs - 5 hr 59 min
+201 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Oru Katha Sollatta?](https://open.spotify.com/track/0wK8MG9pulX8sPu3Xw0Qg9) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Sethu Thankachan](https://open.spotify.com/artist/2ntgTx2dpzxCQDh6vG3CZp), [Kannan M](https://open.spotify.com/artist/12U7XXDgQkyIzT40PhuRak), [Ravi Kumar](https://open.spotify.com/artist/6vNENfWSIJLmHJXn6303sQ), [Chennai Orchestra](https://open.spotify.com/artist/7IR1HDrZCLQc3rXicDU3wW) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 1:24 | 2021-11-01 | 2023-06-09 |
 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 |  |
 | [Party Dance Theme](https://open.spotify.com/track/1atGZUjXggmG1UANsJ51C6) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o) | [Ippadikku Kadhal](https://open.spotify.com/album/3mlUMYBxmBsdqATLB4GaqG) | 1:15 | 2024-02-12 | 2024-04-27 |
+| [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 | 2025-02-18 |  |
 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 | 2021-11-01 |  |
 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 | 2021-11-01 | 2024-12-18 |
 | [Pokkiri Theme](https://open.spotify.com/track/72kMYIVcqEnJKCC9p4GH2d) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 2:37 | 2021-11-01 | 2023-03-11 |
@@ -141,7 +142,7 @@
 | [Raayan's Lullaby](https://open.spotify.com/track/76QBbZb1mrmGYwRKT4Tg21) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:21 | 2024-12-10 | 2025-01-17 |
 | [Rage \- Background Score](https://open.spotify.com/track/7qPxOwZn2x7wTADnISudyx) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 1:01 | 2023-01-25 | 2023-02-07 |
 | [Rage for Vengeance](https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:13 | 2024-03-17 | 2024-06-08 |
-| [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 | 2021-11-01 |  |
+| [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 | 2021-11-01 | 2025-02-20 |
 | [Rise of The Hero](https://open.spotify.com/track/4V0BZRitHOdT5ES5UhDjJU) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Custody Original Soundtrack](https://open.spotify.com/album/5bcSiwJXni9EBjRDf31cm9) | 2:27 | 2024-01-09 | 2024-06-08 |
 | [Rise of The Hero](https://open.spotify.com/track/7iDJEQsRpwSZ02jIvHPz5I) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Custody \(Original Background Score\)](https://open.spotify.com/album/5e9eBInfxA0pbT6A78rJv0) | 2:27 | 2024-01-09 | 2024-04-19 |
 | [Roar Of RRR](https://open.spotify.com/track/3W5mUOutRiMnsvFcsteX67) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Roar Of RRR](https://open.spotify.com/album/7fBbSSbGPnyFGh3NCwNVhe) | 1:51 | 2021-11-01 | 2023-12-12 |

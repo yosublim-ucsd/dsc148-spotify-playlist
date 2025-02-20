@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,874 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,922 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 57 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 58 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
 | 59 | [Café Del Mar \- Three 'N One Remix](https://open.spotify.com/track/2806zlG6vxrILY5HCiIhRK) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [A State Of Trance 650 \(Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia\)](https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn) | 3:50 |
-| 60 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
-| 61 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
+| 60 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
+| 61 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 62 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
 | 63 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
 | 64 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |

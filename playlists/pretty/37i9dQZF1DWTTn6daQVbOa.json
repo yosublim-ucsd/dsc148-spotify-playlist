@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 859680,
+  "num_followers": 859897,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
-      "added_at": "2022-10-03 06:40:05",
-      "album": {
-        "name": "Do You Wanna Go Party",
-        "url": "https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Make Your Move",
@@ -939,6 +923,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2022-10-03 06:40:05",
+      "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1439,34 +1439,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Where There's Smoke... (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Where There's Smoke... (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 291866,
       "name": "The Name Of The Game",
       "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1535,22 +1551,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I'm Still in Love with You",
         "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 191636,
       "name": "I'm Still in Love with You",
       "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Brook Benton Today",
-        "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
-      },
-      "artists": [
-        {
-          "name": "Brook Benton",
-          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Get Closer",
         "url": "https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 238146,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Brook Benton Today",
+        "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
+      },
+      "artists": [
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
     },
     {
       "added_at": "2022-09-23 05:26:33",

@@ -4,7 +4,7 @@
 
 > Ny musikk 🎵
 
-4,334 songs - 9 day 8 hr 21 min
+4,335 songs - 9 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2234,6 +2234,7 @@
 | [Ladies Room](https://open.spotify.com/track/26mmRnl76vFrsrao47dcHA) | [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Dreamcatcher](https://open.spotify.com/album/0kyKYvSopIgFWxyRISPoFk) | 2:39 | 2024-09-19 | 2024-09-27 |
 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 | 2025-01-23 | 2025-01-31 |
 | [Land Till Land](https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Land Till Land](https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8) | 2:10 | 2025-01-16 | 2025-01-24 |
+| [Landet Rundt](https://open.spotify.com/track/2NRa5YJLLFEWoyBtNQgP3l) | [Ole Baldishol](https://open.spotify.com/artist/6d4T2FViOHz8394zZqi14F), [Mr Goofy](https://open.spotify.com/artist/4IFMuT7kHbV25klD27yhS5) | [Landet Rundt](https://open.spotify.com/album/4YEI7CXwPLdiSa8JumzSy7) | 2:13 | 2025-02-13 |  |
 | [Landmarks](https://open.spotify.com/track/0omASEdedH4D7BhhlxtnJt) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 4:17 | 2025-01-09 | 2025-01-17 |
 | [Landslide \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/46H8LJ9y3WVQR3hTcYeKdu) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 | 2024-10-17 | 2024-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Que viva el mes d̴e̴l̴ ̴a̴m̴o̴r̴ 🥹💔 DE LA BANDERA 🇲🇽✨ en compañía de Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,628 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,801 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

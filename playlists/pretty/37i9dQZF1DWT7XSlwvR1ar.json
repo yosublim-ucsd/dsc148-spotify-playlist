@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2093755,
+  "num_followers": 2094070,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Shaky Ground",
-        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Shaky Ground",
-      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Floating On A Dream",
         "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Shaky Ground",
+        "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Shaky Ground",
+      "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Spanish Villager No. 3",
-        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Regret Me",
         "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
-      },
-      "artists": [
-        {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
-        }
-      ],
-      "duration_ms": 217983,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Missing Home",
         "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "duration_ms": 217983,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Yours in the Morning",
         "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 214919,
       "name": "Yours in the Morning",
       "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Gloria Sparks",
+        "url": "https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1583,22 +1599,6 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Gloria Sparks",
-        "url": "https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Long Limbs",
-        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 196885,
-      "name": "Long Limbs",
-      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Long Limbs",
+        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "Long Limbs",
+      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Calm Yourself Down",
         "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 195803,
       "name": "Calm Yourself Down",
       "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Hurt By You",
-        "url": "https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05"
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
       },
       "artists": [
         {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
         }
       ],
-      "duration_ms": 230339,
-      "name": "Hurt By You",
-      "url": "https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA"
+      "duration_ms": 211732,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
     }
   ],
   "unique_name": "Totally Stress Free",

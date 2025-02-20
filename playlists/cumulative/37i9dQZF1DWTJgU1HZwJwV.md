@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-538 songs - 22 hr 47 min
+541 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-03-25 |
 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 | 2023-03-24 | 2023-05-20 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-19 | 2023-09-14 |
+| [Floating Thoughts](https://open.spotify.com/track/76gvdma39njRYwa5MWiPkc) | [Steve Harris](https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK) | [Floating Thoughts](https://open.spotify.com/album/4xkXu2yl18cAMyDpF7Hv0m) | 2:31 | 2025-02-19 |  |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2024-04-20 |
 | [For A Light Blue Light](https://open.spotify.com/track/7M5Rp2Hxv169779gEJPVal) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [For A Light Blue Light](https://open.spotify.com/album/3WUgkg9hH1j16Q5jOQ8kJv) | 3:10 | 2022-07-22 | 2023-02-25 |
 | [For Maria](https://open.spotify.com/track/6wF7xHW9hOUx6QQdLMPwHn) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [For Maria](https://open.spotify.com/album/2HssMLECVBQcY9YN0ZV6cC) | 1:46 | 2024-07-29 |  |
@@ -315,6 +316,7 @@
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 | 2024-04-20 |
 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 | 2022-06-17 | 2024-07-18 |
+| [Move Forward](https://open.spotify.com/track/7aPPZJfrst60lLtPHoRHFD) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Move Forward](https://open.spotify.com/album/2gbXjH0jbYytvzRDruzCaP) | 2:12 | 2025-02-19 |  |
 | [Musica del Cielo](https://open.spotify.com/track/0vUQoSxox7kR5MPjhWKmtg) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Musica del Cielo](https://open.spotify.com/album/5GmnBunhlJ5TKlYqSqcPs0) | 1:53 | 2023-02-24 | 2023-06-23 |
 | [My Bluesette Waltz](https://open.spotify.com/track/0OLstxDHvuG3oSnswAgM1t) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [My Bluesette Waltz](https://open.spotify.com/album/1L4n9pqVbiZwfdCbmfUJRC) | 3:21 | 2022-09-02 | 2023-04-29 |
 | [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
@@ -521,6 +523,7 @@
 | [Vulnerable](https://open.spotify.com/track/4cSYj0c4ua1PKVbdMv3C1D) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [Vulnerable](https://open.spotify.com/album/0A6MwzGufkIBqct3zvByBp) | 2:09 | 2022-06-17 | 2022-09-03 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-04-28 | 2023-06-23 |
 | [Waimea Falls](https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Waimea Falls](https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut) | 3:52 | 2023-04-28 | 2023-06-23 |
+| [Waiting](https://open.spotify.com/track/2Ht9BiMqreVaEkF09dOlB9) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Waiting](https://open.spotify.com/album/3eL9Ff0HYf2OhTh4zIsfjn) | 2:19 | 2025-02-19 |  |
 | [Waking up Together](https://open.spotify.com/track/23nKAenI7gT7WGbBajVvNU) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Waking up Together](https://open.spotify.com/album/1oDFfdQooDk1Elf7Sp5brr) | 2:18 | 2024-03-08 |  |
 | [Wallowa Lake](https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Abisko](https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c) | 3:07 | 2022-06-17 | 2023-08-25 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-04-28 | 2023-06-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 181606,
+  "num_followers": 181665,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Sigo Chambeando",
-      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Sigo Chambeando",
+      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "15 Primeros Exitos Vol. 1",
         "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 156920,
       "name": "El Centenario",
       "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
+        "name": "Mi Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
+      "duration_ms": 211760,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "18 Grandes Exitos Bailables",
-        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 191200,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Mi Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
+        "name": "18 Grandes Exitos Bailables",
+        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
+      "duration_ms": 191200,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
     },
     {
       "added_at": "2024-08-30 08:25:49",

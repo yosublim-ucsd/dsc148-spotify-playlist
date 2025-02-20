@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 193293,
       "name": "Bayern",
       "url": "https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 156356,
       "name": "Freitag, Samstag",
       "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Lampen an",
+        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145341,
+      "name": "Lampen an",
+      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
+    },
+    {
+      "album": {
         "name": "Lass uns nicht geh'n (Stereoact Remix)",
         "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
@@ -2851,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "Schau mal herein",
+        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        },
+        {
+          "name": "Florian Silbereisen",
+          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Schau mal herein",
+      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
+    },
+    {
+      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -3030,6 +3070,28 @@
       "duration_ms": 206613,
       "name": "Sweet Caroline - Party Remix",
       "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+    },
+    {
+      "album": {
+        "name": "Ufo",
+        "url": "https://open.spotify.com/album/6I1IhIuPR8D4OwXu8jbtbS"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198524,
+      "name": "Ufo",
+      "url": "https://open.spotify.com/track/1fcr2p1DgZdkSOn7iQzhZK"
     },
     {
       "album": {

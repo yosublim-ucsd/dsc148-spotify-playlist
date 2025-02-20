@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-173 songs - 10 hr 52 min
+174 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-12-13 | 2023-06-08 |
 | [Inikah Cinta](https://open.spotify.com/track/6YsXid1FOtqxPlQB85xq7w) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/3oea1a9yO8jCAyEg47fQpT) | 3:44 | 2024-02-01 | 2024-10-16 |
 | [Inikah Cinta](https://open.spotify.com/track/7r5qxtubYpPXYNSLX8CoGr) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/77q9eYQmTvAbuAWRLM1eof) | 3:45 | 2022-12-13 | 2024-04-19 |
+| [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 | 2025-02-19 |  |
 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 | 2024-10-14 |  |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-02-23 | 2023-04-18 |
 | [johnny forever](https://open.spotify.com/track/4l7TIfpqpWwQXHAkugf03E) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [johnny forever](https://open.spotify.com/album/6ontGIRczEhO0Tgsdf5cpi) | 3:12 | 2022-12-13 | 2023-06-08 |

@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5086,7 +5086,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
@@ -5642,7 +5642,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -7401,6 +7401,42 @@
     },
     {
       "album": {
+        "name": "Burning in the Sky",
+        "url": "https://open.spotify.com/album/2nP71iTKtlmvTMlvF4DF7D"
+      },
+      "artists": [
+        {
+          "name": "Night Silent",
+          "url": "https://open.spotify.com/artist/78ktJ8d4oqWNEor8TiU5iT"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242016,
+      "name": "Burning in the Sky",
+      "url": "https://open.spotify.com/track/6z7i4sZF9cgm4PSQQQKULU"
+    },
+    {
+      "album": {
+        "name": "Burning the Heart",
+        "url": "https://open.spotify.com/album/1MIzYgYvt1wQcT2zqLxbPD"
+      },
+      "artists": [
+        {
+          "name": "Gretl Gtze",
+          "url": "https://open.spotify.com/artist/3McpDBrbhJuBwRuXJLZMSO"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Burning the Heart",
+      "url": "https://open.spotify.com/track/6AfyP4GVkew9ZDEn53dn0f"
+    },
+    {
+      "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
       },
@@ -8574,7 +8610,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
@@ -10488,6 +10524,24 @@
       "duration_ms": 182665,
       "name": "Crazy - Remix",
       "url": "https://open.spotify.com/track/7fYNvdqxxjyQBBR1vMaxi2"
+    },
+    {
+      "album": {
+        "name": "Crazy Light",
+        "url": "https://open.spotify.com/album/0HoA4skBBA5UZFN9Mb9ylu"
+      },
+      "artists": [
+        {
+          "name": "DJ Caroline Larson",
+          "url": "https://open.spotify.com/artist/1T6s3BavmYb9AfHPRgrThi"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229915,
+      "name": "Crazy Light",
+      "url": "https://open.spotify.com/track/0tP60RyFX4bymuXlx8ru0F"
     },
     {
       "album": {
@@ -28678,7 +28732,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -36129,6 +36183,24 @@
     },
     {
       "album": {
+        "name": "P\u00e9lican",
+        "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "P\u00e9lican",
+      "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
+    },
+    {
+      "album": {
         "name": "Tudo Vira Reggae Ao Vivo",
         "url": "https://open.spotify.com/album/1JZyhGrVnnpmYzrCJiJpzw"
       },
@@ -43108,7 +43180,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -45796,7 +45868,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -46650,7 +46722,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 197419,
       "name": "Turning My Head",
       "url": "https://open.spotify.com/track/2262X3mdjBFVjNQr9ToDZW"
@@ -47916,7 +47988,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"
@@ -47934,7 +48006,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

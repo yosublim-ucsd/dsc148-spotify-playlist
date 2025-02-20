@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 44227,
+  "num_followers": 44226,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
-      },
-      "artists": [
-        {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Sesiones del Brujo, Vol. 2",
-        "url": "https://open.spotify.com/album/09Yp1YPNLrrzI1xtT6GDGc"
-      },
-      "artists": [
-        {
-          "name": "Javier B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/4bsD4PDZklk1wb6l1IyfZ5"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Puro Rock (CD1)",
         "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 457466,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7ipxhMVfluSfUdaunwFbxi"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Sesiones del Brujo, Vol. 2",
+        "url": "https://open.spotify.com/album/09Yp1YPNLrrzI1xtT6GDGc"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/4bsD4PDZklk1wb6l1IyfZ5"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Africa.",
-  "num_followers": 52887,
+  "num_followers": 52903,
   "original_name": "Top 50 - South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0lGyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/7pZKygr8wq4PJKODB0ILfL"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/021iZJ1jjc6cZZ4sMXvcW9"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193054,
-      "name": "GIMME A HUG",
-      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Lindiwe",
         "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
@@ -121,7 +89,23 @@
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
         "url": "https://open.spotify.com/album/3AXBbWsHeukq7B3ojJbfI0"
@@ -169,31 +153,47 @@
       "url": "https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 118153,
-      "name": "PIMMIE'S DILEMMA",
-      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Finally Famous Too",
+        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "duration_ms": 327457,
+      "name": "Sohlala Sisonke",
+      "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Inkanyezi (Live)",
         "url": "https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Uyaphapha Marn (feat. Scotts Maphuma & Kabelo Sings)",
         "url": "https://open.spotify.com/album/6NG399UcNIP6WDH5R9JiJV"
@@ -241,51 +241,7 @@
       "url": "https://open.spotify.com/track/1F3J7D5byxTWbEyhpizptk"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "CN TOWER",
-      "url": "https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Finally Famous Too",
-        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
-      },
-      "artists": [
-        {
-          "name": "Dlala Thukzin",
-          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
-        },
-        {
-          "name": "Zeh McGeba",
-          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
-        },
-        {
-          "name": "MK Productions",
-          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
-        }
-      ],
-      "duration_ms": 327457,
-      "name": "Sohlala Sisonke",
-      "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -305,63 +261,7 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
-        "url": "https://open.spotify.com/album/5tM3THh1UUzsUiULDPHv0k"
-      },
-      "artists": [
-        {
-          "name": "Issa sisdoh",
-          "url": "https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI"
-        },
-        {
-          "name": "Ancestral Rituals",
-          "url": "https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup"
-        }
-      ],
-      "duration_ms": 380238,
-      "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
-      "url": "https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -381,23 +281,51 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/2nM7PvY9SHEaKaSYRmOCmh"
@@ -413,43 +341,23 @@
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 172337,
-      "name": "DEEPER",
-      "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/6Ik9e7LZgsK0az1tzEVEG0"
-      },
-      "artists": [
-        {
-          "name": "Mawelele",
-          "url": "https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE"
-        },
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6eyJuobFFGXLAOOkxrIdSV"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Ntsako",
         "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
@@ -477,27 +385,27 @@
       "url": "https://open.spotify.com/track/1blpjqXA4y03pWHnDbhs9l"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/6Ik9e7LZgsK0az1tzEVEG0"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Mawelele",
+          "url": "https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
         }
       ],
-      "duration_ms": 212629,
-      "name": "MOTH BALLS",
-      "url": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+      "duration_ms": 266526,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6eyJuobFFGXLAOOkxrIdSV"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Kusho Bani",
         "url": "https://open.spotify.com/album/4b3dDfp7hzYtLkjlYKM2xy"
@@ -513,7 +421,63 @@
       "url": "https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
+        "url": "https://open.spotify.com/album/5tM3THh1UUzsUiULDPHv0k"
+      },
+      "artists": [
+        {
+          "name": "Issa sisdoh",
+          "url": "https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI"
+        },
+        {
+          "name": "Ancestral Rituals",
+          "url": "https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup"
+        }
+      ],
+      "duration_ms": 380238,
+      "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
+      "url": "https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241889,
+      "name": "CN TOWER",
+      "url": "https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -529,27 +493,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 218682,
-      "name": "SOMETHING ABOUT YOU",
-      "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Sizesiguge",
         "url": "https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI"
@@ -565,47 +509,7 @@
       "url": "https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "SPIDER-MAN SUPERMAN",
-      "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 182767,
-      "name": "SOMEBODY LOVES ME",
-      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
         "url": "https://open.spotify.com/album/4Q3RdIIabU5csHjoe8b8Qh"
@@ -649,7 +553,7 @@
       "url": "https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Diqabang",
         "url": "https://open.spotify.com/album/5ygGTL3c1ehuinc3zykAv3"
@@ -677,39 +581,7 @@
       "url": "https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 199602,
-      "name": "CRYING IN CHANEL",
-      "url": "https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 148509,
-      "name": "SMALL TOWN FAME",
-      "url": "https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -729,7 +601,95 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Ncono Siyeke",
+        "url": "https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T"
+      },
+      "artists": [
+        {
+          "name": "Mshinwemali",
+          "url": "https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV"
+        },
+        {
+          "name": "Shenge wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+        }
+      ],
+      "duration_ms": 299363,
+      "name": "Ncono Siyeke",
+      "url": "https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "MOTH BALLS",
+      "url": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Sigade Umzila",
+        "url": "https://open.spotify.com/album/7x8XfLTePxmKnmDC12qGuG"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Sigade Umzila",
+      "url": "https://open.spotify.com/track/5tIt860TkOItU0BRafiyzd"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -753,51 +713,79 @@
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 244931,
-      "name": "RAINING IN HOUSTON",
-      "url": "https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E"
+      "duration_ms": 218682,
+      "name": "SOMETHING ABOUT YOU",
+      "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "Ntsako",
-        "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         },
         {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        },
-        {
-          "name": "Thatohatsi",
-          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
-        },
-        {
-          "name": "Tracy",
-          "url": "https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 476100,
-      "name": "Vulani (feat. Thatohatsi & Tracy)",
-      "url": "https://open.spotify.com/track/62KQubjM0rmQ7L3VvybxrL"
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Jesus Is Enough",
+        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 356306,
+      "name": "Ungukuphila",
+      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Sizesiguge",
         "url": "https://open.spotify.com/album/4r0xxU4MBpXVrNOcJRfUEI"
@@ -813,23 +801,7 @@
       "url": "https://open.spotify.com/track/3RCMGDpJlWeEgCLhOz63oa"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Sigade Umzila",
-        "url": "https://open.spotify.com/album/7x8XfLTePxmKnmDC12qGuG"
-      },
-      "artists": [
-        {
-          "name": "Mthandeni SK",
-          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Sigade Umzila",
-      "url": "https://open.spotify.com/track/5tIt860TkOItU0BRafiyzd"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Ngisakuthanda",
         "url": "https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt"
@@ -861,59 +833,55 @@
       "url": "https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "Jesus Is Enough",
-        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+        "name": "Ntsako",
+        "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
       },
       "artists": [
         {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 356306,
-      "name": "Ungukuphila",
-      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Ncono Siyeke",
-        "url": "https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T"
-      },
-      "artists": [
-        {
-          "name": "Mshinwemali",
-          "url": "https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV"
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
         },
         {
-          "name": "Shenge wasehlalankosi",
-          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "Tracy",
+          "url": "https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze"
         }
       ],
-      "duration_ms": 299363,
-      "name": "Ncono Siyeke",
-      "url": "https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6"
+      "duration_ms": 476100,
+      "name": "Vulani (feat. Thatohatsi & Tracy)",
+      "url": "https://open.spotify.com/track/62KQubjM0rmQ7L3VvybxrL"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 111406,
-      "name": "BRIAN STEEL",
-      "url": "https://open.spotify.com/track/3FHO87BSOEVAsedSnCTnvz"
+      "duration_ms": 203893,
+      "name": "SPIDER-MAN SUPERMAN",
+      "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Lindiwe",
         "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
@@ -929,23 +897,7 @@
       "url": "https://open.spotify.com/track/5pRsWnuWkwfnCsaSlxYrsj"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "20th: Days Before Maud",
         "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
@@ -965,10 +917,26 @@
       "url": "https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 199602,
+      "name": "CRYING IN CHANEL",
+      "url": "https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv"
+        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
       },
       "artists": [
         {
@@ -976,12 +944,28 @@
           "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 249120,
+      "duration_ms": 249093,
       "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
+      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U"
+      },
+      "artists": [
+        {
+          "name": "LIMIT NALA",
+          "url": "https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY"
+        }
+      ],
+      "duration_ms": 293877,
+      "name": "Awuhlabe Kabili",
+      "url": "https://open.spotify.com/track/5nVQ2bPZjV9wlD2hboLe6l"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -1001,7 +985,23 @@
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 148509,
+      "name": "SMALL TOWN FAME",
+      "url": "https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU"
+    },
+    {
+      "added_at": "2025-02-19 12:40:56",
       "album": {
         "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
         "url": "https://open.spotify.com/album/1GRp8XrV8yz1Yg3NyQflgv"
@@ -1033,20 +1033,20 @@
       "url": "https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8"
     },
     {
-      "added_at": "2025-02-18 12:38:12",
+      "added_at": "2025-02-19 12:40:56",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Mnakwethu",
+        "url": "https://open.spotify.com/album/3gOvW5ufkfSwDMZCQyTyjo"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+      "duration_ms": 196973,
+      "name": "Mnakwethu",
+      "url": "https://open.spotify.com/track/0Jrnz68fubElF9LAR0l0Ej"
     }
   ],
   "unique_name": "Top 50 - South Africa",

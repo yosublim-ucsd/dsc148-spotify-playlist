@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: shego
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,323 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,315 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 58 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 |
 | 59 | [Ni Siquiera de Ti](https://open.spotify.com/track/3zi0QUN1NRSV3oyPlsKFgg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ni Siquiera De Ti](https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar) | 3:17 |
 | 60 | [Invulnerables](https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Invulnerables](https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg) | 4:02 |
-| 61 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
+| 61 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 |
 | 62 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 |
-| 63 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 |
+| 63 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
 | 64 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 |
 | 65 | [Quetzal](https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:10 |
 | 66 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 70 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
 | 71 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 72 | [Quédate un Momento](https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Quédate un Momento](https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1) | 3:03 |
-| 73 | [Despertar](https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Despertar](https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g) | 3:54 |
-| 74 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
+| 73 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
+| 74 | [Despertar](https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Despertar](https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g) | 3:54 |
 | 75 | [Una sensación](https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Una sensación](https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR) | 3:17 |
 
 Snapshot ID: `Z7TD4wAAAAAgRo0fBJzN67j3F9zhYYwt`

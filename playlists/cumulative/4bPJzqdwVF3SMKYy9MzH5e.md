@@ -4,7 +4,7 @@
 
 > 
 
-2,086 songs - 4 day 15 hr 56 min
+2,087 songs - 4 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Easy on You](https://open.spotify.com/track/3geb1tvEQBdFOYXuR8ZInD) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:03 | 2021-08-05 |  |
 | [EAT](https://open.spotify.com/track/4Qy7Rg1XSO4MLzGnQfmkkJ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [EAT \(NXT Soundtrack\)](https://open.spotify.com/album/64qHcKFcreaFc70UtMFUMM) | 3:01 | 2022-06-04 |  |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2025-01-21 |  |
+| [economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt) | [Levi Ryan](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J) | [operation wandering soul](https://open.spotify.com/album/4Wi6FIHsFBaO6d1BsuQxpj) | 2:22 | 2025-02-20 |  |
 | [Edgecrusher](https://open.spotify.com/track/54MAZtSTqtveDlgU9Rc7VG) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete](https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0) | 3:41 | 2022-04-03 |  |
 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4S65xwZEpw0QYOee62cbRh) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Floss](https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N) | 4:28 | 2021-08-05 |  |
 | [Egg](https://open.spotify.com/track/4Vie7AYSqfGHEP2uBh0ua5) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [haha](https://open.spotify.com/album/2tH1S9Q2RUcLrOizMy9I1K) | 3:04 | 2022-10-08 |  |

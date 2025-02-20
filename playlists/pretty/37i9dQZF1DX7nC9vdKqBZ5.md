@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,032 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,044 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 78 | [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 |
 | 79 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
 | 80 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 |
-| 81 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
-| 82 | [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 |
+| 81 | [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 |
+| 82 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 83 | [Frágil Coração](https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Frágil Coração](https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP) | 3:36 |
 | 84 | [Sorte](https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Sorte](https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG) | 3:15 |
 | 85 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |

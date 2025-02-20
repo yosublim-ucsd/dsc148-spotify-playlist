@@ -2,9 +2,9 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Aanchal Tyagi
+> Hindi hai, Indie hai! Cover\- Kushagra
 
-254 songs - 14 hr 3 min
+255 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2023-12-15 | 2024-01-10 |
 | [Badastoor](https://open.spotify.com/track/4SctmiwRI2ygVHhgZ1s7C1) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Badastoor](https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J) | 2:09 | 2024-09-06 | 2025-02-08 |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-05-02 |  |
-| [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 | 2024-09-20 |  |
+| [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 | 2024-09-20 | 2025-02-20 |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-10 |  |
 | [Bechaini](https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj) | [Bechaini](https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP) | 2:42 | 2024-04-02 | 2025-01-08 |
 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 | 2023-05-02 |  |
@@ -109,6 +109,7 @@
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-02 |  |
 | [Kaisi Kahani Zindagi](https://open.spotify.com/track/1uRVChDH2w3hgqWfvDTolD) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Kaisi Kahani Zindagi](https://open.spotify.com/album/3EpcI39hsBco6PIgkM6xLL) | 4:05 | 2023-05-08 | 2023-06-02 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2023-05-02 |  |
+| [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-19 |  |
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-13 | 2023-09-28 |
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-11 | 2024-09-03 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2023-05-02 | 2023-11-07 |

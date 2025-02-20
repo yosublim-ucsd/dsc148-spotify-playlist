@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "fleur au vent",
+        "url": "https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156130,
+      "name": "fleur au vent",
+      "url": "https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI"
+    },
+    {
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
       },

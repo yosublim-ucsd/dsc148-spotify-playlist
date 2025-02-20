@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Yailin La Más Viral
 
-377 songs - 18 hr 18 min
+378 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 | 2023-06-27 | 2024-02-02 |
 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 | 2023-05-26 | 2024-04-19 |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-04-20 |  |
-| [GUERRA](https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GUERRA](https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b) | 2:16 | 2024-12-13 |  |
+| [GUERRA](https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GUERRA](https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b) | 2:16 | 2024-12-13 | 2025-02-20 |
 | [Gugle](https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Gugle](https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH) | 3:14 | 2023-05-26 | 2023-09-30 |
 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 | 2024-04-11 |  |
 | [Hay Que Bueno](https://open.spotify.com/track/6xHkSGuXlxyDeqnlYe5Ryv) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Hay Que Bueno](https://open.spotify.com/album/2XsS228bjAL5sNbqMaO3qn) | 2:40 | 2021-11-19 | 2022-03-18 |
@@ -222,6 +222,7 @@
 | [Moli](https://open.spotify.com/track/7u2u06vEWoRheAGNI2thRI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Papa Jeison](https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:00 | 2023-05-26 | 2023-07-20 |
 | [Molly](https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Molly](https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO) | 2:14 | 2022-03-04 | 2023-05-27 |
 | [Molly Crippy](https://open.spotify.com/track/4lI10mVIrbJh5TAMf2F1QP) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Molly Crippy](https://open.spotify.com/album/5v4kds8m1wLeA2q4kXZuRM) | 2:05 | 2023-06-27 | 2023-09-30 |
+| [MONTOYA](https://open.spotify.com/track/6QJoEebhAhga8KXM2ho6k8) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [MONTOYA](https://open.spotify.com/album/3YimyhLTjpZjME0dBNNuLe) | 2:19 | 2025-02-19 |  |
 | [Moreno](https://open.spotify.com/track/3eD7tZaxWolZ473ASnJpVt) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Moreno](https://open.spotify.com/album/0ltwMDb5zdU61DnCmaeIgn) | 3:02 | 2022-04-15 | 2023-03-11 |
 | [Moriremos](https://open.spotify.com/track/2xgSrqcEUnsNtTThaClnv4) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Moriremos](https://open.spotify.com/album/1dUvWr9F2VVNxiQ0JsiMTR) | 2:31 | 2021-11-19 | 2023-05-27 |
 | [Mueve Eso](https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq) | [Mueve Eso](https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR) | 2:22 | 2023-02-09 | 2023-05-27 |

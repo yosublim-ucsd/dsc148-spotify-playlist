@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,243 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,368 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 36 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 37 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 38 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 |
-| 39 | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl) | 2:13 |
-| 40 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 |
+| 39 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 |
+| 40 | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl) | 2:13 |
 | 41 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 42 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 43 | [Sucker](https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Sucker](https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS) | 2:03 |

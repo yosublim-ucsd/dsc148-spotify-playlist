@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,079,565 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,079,988 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 94 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 | 95 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 96 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 97 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 97 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
 | 98 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |
 | 99 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 100 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
+| 100 | [Fu Man Chu](https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Aces](https://open.spotify.com/artist/2H8MMsm0WIs0WAO0HUlOX8) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 3:19 |
 
 Snapshot ID: `ZpD3ewAAAAAVK0kxRQwFp7eeP3yBWsqK`

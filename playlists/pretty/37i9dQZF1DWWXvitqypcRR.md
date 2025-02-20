@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 51 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 51 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 50 | [Still Minus](https://open.spotify.com/track/7htrWDLJjzmwE5SPO5NlWi) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [As Their Ways Intersect](https://open.spotify.com/album/7AUKDEA6BNv3zpFHIT3NMk) | 8:02 |
 | 51 | [Long Way](https://open.spotify.com/track/0hvXahHZBF9rgg2GsvsWhi) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [Long Way](https://open.spotify.com/album/5d1yfljm3mBz14wGuRauaO) | 4:05 |
 
-Snapshot ID: `Z64WGgAAAACB2rsVAfzzeWpmIzK1tN3x`
+Snapshot ID: `Z64WGgAAAAD8nbrPJsPOKL8mz4wShts5`

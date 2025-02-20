@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Strings And Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,792 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,845 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 89 | [You Are My Sweater](https://open.spotify.com/track/75fkHyheSV8EvhTF1dfT0q) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Pixelated Haze](https://open.spotify.com/album/2SNbcpxpnvfbg7KuxsrB9w) | 2:42 |
 | 90 | [Where Do You Go?](https://open.spotify.com/track/0KyzsOtAo72sPQOwhOXcPY) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb) | [Where Do You Go?](https://open.spotify.com/album/1DiFqTrsEtPJWbUHGUtvHL) | 2:47 |
 
-Snapshot ID: `Z6+rrgAAAAA6rU6NcNCdQul52Ts3g73T`
+Snapshot ID: `Z6+rrgAAAAC9zwG7EEcp6SuJnEuewgXL`

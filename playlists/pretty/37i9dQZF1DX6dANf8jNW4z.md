@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Lachispa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,386 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,393 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 4 | [M.A.P.S.](https://open.spotify.com/track/1pq0FftIW2CicKumE3cRqo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:36 |
 | 5 | [KAIMAN](https://open.spotify.com/track/7haiQQxJnawx0dEyWiOmcB) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [KAIMAN](https://open.spotify.com/album/5HFgyaVeJMVtirveWpI3CO) | 3:29 |
 | 6 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 |
-| 7 | [LOTUS](https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [aka luigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [LOTUS](https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn) | 2:19 |
+| 7 | [LOTUS](https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [akaluigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [LOTUS](https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn) | 2:19 |
 | 8 | [sentimentalmente](https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [sentimentalmente](https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4) | 3:18 |
 | 9 | [Paloma Negra](https://open.spotify.com/track/7pgmi4lsRXWh78vge5CaT9) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Paloma Negra](https://open.spotify.com/album/3egDtwPTtMNqDletQkLbXA) | 3:13 |
 | 10 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |

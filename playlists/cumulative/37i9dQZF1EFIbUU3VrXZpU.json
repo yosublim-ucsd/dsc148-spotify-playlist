@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205416,
+      "name": "Best Friend - Friday Night Lights",
+      "url": "https://open.spotify.com/track/2xj3VznIbrWdfgNXzKVTeh"
+    },
+    {
+      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
       },

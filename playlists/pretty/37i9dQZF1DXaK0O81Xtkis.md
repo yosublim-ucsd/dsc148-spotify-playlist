@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop\.  Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,397 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,398 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 9 | [Adventure](https://open.spotify.com/track/3xgfy6l8SbBEOUtpAmcCQv) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Adventure](https://open.spotify.com/album/70Fw2O4fbQT3AvrrOX0W5Z) | 3:30 |
 | 10 | [i like ur glasses](https://open.spotify.com/track/1glMdie6TCNb8M6KQHZykY) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [i like ur glasses](https://open.spotify.com/album/6BoepCTOTlbPj9KtYTPRWj) | 2:21 |
 | 11 | [BE MINE](https://open.spotify.com/track/6ZGtpEUJ1Zae5QJIv54dTD) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [BE MINE](https://open.spotify.com/album/5D2Vrd4ZMx5u3R49xOMHnX) | 2:45 |
-| 12 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 12 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 13 | [Too Much Ain't Enough](https://open.spotify.com/track/0mzW5gng20UwJV67x4vEUo) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [In The Middle Of Somewhere](https://open.spotify.com/album/5Ir8HNOorKRgfKHffWGhn6) | 3:13 |
 | 14 | [FORGET YOU](https://open.spotify.com/track/7JQjSQiPjkAlZbIlrm5njS) | [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [FORGET YOU](https://open.spotify.com/album/0IufAXKab6iF6tIMnKnfur) | 2:33 |
 | 15 | [Second Wind](https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
 | 65 | [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 |
 
-Snapshot ID: `Z7OwHQAAAAAy1nYb4YBxSuB2+P4+slKw`
+Snapshot ID: `Z7OwHQAAAAB0XS+AdJWcIlmniAVVwpgL`

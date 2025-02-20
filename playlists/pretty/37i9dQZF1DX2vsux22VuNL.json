@@ -491,6 +491,26 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/15IyNVQDUI1ImGYSq8rsTZ"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "duration_ms": 212847,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/2bJ6WddY66cCDsBKVXj85z"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/15IyNVQDUI1ImGYSq8rsTZ"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        },
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        }
-      ],
-      "duration_ms": 212847,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/2bJ6WddY66cCDsBKVXj85z"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -623,34 +623,6 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "A Laje",
-        "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Kandace Lindsey",
-          "url": "https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E"
-        }
-      ],
-      "duration_ms": 342928,
-      "name": "A Laje",
-      "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -675,6 +647,34 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
+        "name": "A Laje",
+        "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Kandace Lindsey",
+          "url": "https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E"
+        }
+      ],
+      "duration_ms": 342928,
+      "name": "A Laje",
+      "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -835,6 +815,30 @@
       "duration_ms": 162780,
       "name": "Pra Casar",
       "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -871,26 +875,22 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
       "artists": [
         {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
         },
         {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -1215,34 +1215,6 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "Voc\u00ea Falou pra Mim",
-        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
-      },
-      "artists": [
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Lucas Arcanjo",
-          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
-        },
-        {
-          "name": "Andrei Zucco",
-          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Voc\u00ea Falou pra Mim",
-      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
       },
@@ -1267,18 +1239,30 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+        "name": "Voc\u00ea Falou pra Mim",
+        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
       "artists": [
         {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Lucas Arcanjo",
+          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
+        },
+        {
+          "name": "Andrei Zucco",
+          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
         }
       ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+      "duration_ms": 141120,
+      "name": "Voc\u00ea Falou pra Mim",
+      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
         "name": "Nenhuma Outra Mulher",
         "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
       },
@@ -1351,30 +1351,6 @@
       "duration_ms": 147025,
       "name": "Nenhuma Outra Mulher",
       "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
-        "name": "O Som do Litoral",
-        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Lucas Baha",
-          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
-        },
-        {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
-        }
-      ],
-      "duration_ms": 174064,
-      "name": "Espa\u00e7o Aberto",
-      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -1399,6 +1375,30 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
+        "name": "O Som do Litoral",
+        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Lucas Baha",
+          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        }
+      ],
+      "duration_ms": 174064,
+      "name": "Espa\u00e7o Aberto",
+      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
     },
     {
       "added_at": "2025-02-14 03:00:07",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-02-14 03:00:07",
       "album": {
-        "name": "Summer Groove",
-        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
-      },
-      "artists": [
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "Qual \u00c9",
-      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
-    },
-    {
-      "added_at": "2025-02-14 03:00:07",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2025-02-14 03:00:07",
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Qual \u00c9",
+      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
     },
     {
       "added_at": "2025-02-14 03:00:07",

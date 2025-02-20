@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > a7san ma kayn f rap maghribi
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,022 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,089 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 2 | [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 |
 | 3 | [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 |
 | 4 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
-| 5 | [LA HAINE](https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [LA HAINE](https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp) | 3:18 |
-| 6 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 |
-| 7 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 5 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 6 | [LA HAINE](https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [LA HAINE](https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp) | 3:18 |
+| 7 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 |
 | 8 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 |
 | 9 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
 | 10 | [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 41 | [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 |
 | 42 | [MELLIT](https://open.spotify.com/track/0YKfqX50EbnwGbkSrBN76A) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [MELLIT](https://open.spotify.com/album/76LGHg9S4lymGmES6FfNVp) | 2:32 |
 | 43 | [No Love](https://open.spotify.com/track/75EsRQtLXd1p3sZnCqYGtj) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
-| 44 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
-| 45 | [Obligación](https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Obligación](https://open.spotify.com/album/25WeAM9PSYPrpUjovpNYvz) | 4:30 |
-| 46 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
-| 47 | [SHOOKA](https://open.spotify.com/track/4lwjUIptYJxWiUVmyjALB8) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MARIGOLD](https://open.spotify.com/album/5vdlHh5zFDfXsn5CyZ4PBT) | 3:08 |
+| 44 | [Obligación](https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Obligación](https://open.spotify.com/album/25WeAM9PSYPrpUjovpNYvz) | 4:30 |
+| 45 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 46 | [SHOOKA](https://open.spotify.com/track/4lwjUIptYJxWiUVmyjALB8) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MARIGOLD](https://open.spotify.com/album/5vdlHh5zFDfXsn5CyZ4PBT) | 3:08 |
+| 47 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
 | 48 | [Drahem Denya](https://open.spotify.com/track/5o6GmcjGlEIMoTyygi7OeN) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Ghorab](https://open.spotify.com/album/5KCg3cBBhccv5SRClhZG7T) | 2:35 |
 
-Snapshot ID: `Z7NIHwAAAAC1j+cwBIYuFbQTani0+ZCj`
+Snapshot ID: `Z7XuZAAAAACpFIObazdIlpOJjH5UNj1R`

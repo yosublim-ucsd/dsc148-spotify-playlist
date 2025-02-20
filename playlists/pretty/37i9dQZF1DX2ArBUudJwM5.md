@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Juana Molina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,873 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,870 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 46 | [Aquel](https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo) | [Vera Sienra](https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI), [Eduardo Mateo](https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx) | [Nuestra Soledad](https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6) | 2:59 |
 | 47 | [No Tengo Salida](https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [No Tengo Salida](https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf) | 3:24 |
 | 48 | [Hipnosis](https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz) | [Imán](https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8) | [Imán](https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR) | 4:10 |
-| 49 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 |
-| 50 | [MUJERES](https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [RAÍZ](https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C) | 5:14 |
+| 49 | [MUJERES](https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [RAÍZ](https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C) | 5:14 |
+| 50 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 |
 
 Snapshot ID: `Z5PkZQAAAABcGuARO+8HjiLsYwtPvcyL`

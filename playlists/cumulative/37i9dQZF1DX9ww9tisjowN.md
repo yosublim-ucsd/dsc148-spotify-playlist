@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Kenshi Yonezu
 
-683 songs - 1 day 15 hr 10 min
+684 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-09-07 | 2023-10-04 |
 | [Starry Silent Night](https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:10 | 2024-01-04 | 2024-04-19 |
 | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/track/5QSMYpWm1klasdBZYQCox7) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/album/4PcS8cnvWSb02xrUIX7tWz) | 2:30 | 2024-08-22 | 2024-09-13 |
-| [Suburban \(feat\. Tatsuya Kitani\)](https://open.spotify.com/track/3ULjE8zZggZYpv8iCJcJwx) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/3TVnfBuCOqcu9P39zD8FYe) | 3:55 | 2024-11-07 |  |
+| [Suburban \(feat\. Tatsuya Kitani\)](https://open.spotify.com/track/3ULjE8zZggZYpv8iCJcJwx) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/3TVnfBuCOqcu9P39zD8FYe) | 3:55 | 2024-11-07 | 2025-02-20 |
 | [Sugar Junky](https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Castle in Madness](https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc) | 2:05 | 2023-05-09 | 2023-12-08 |
 | [Sugar Magic](https://open.spotify.com/track/1sq7unSpKhR63uW8qfGUtE) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:52 | 2023-11-29 | 2023-12-08 |
 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 | 2023-05-09 | 2023-09-29 |
@@ -591,6 +591,7 @@
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-09-05 | 2024-12-05 |
 | [心の奥](https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [溜息](https://open.spotify.com/album/3U0cY8IL5mhYjIveWhZa6g) | 2:40 | 2025-02-06 |  |
 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2024-08-01 | 2024-10-11 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [怪獣の花唄](https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:44 | 2024-06-06 | 2024-07-10 |
 | [恋色](https://open.spotify.com/track/62XmbJHgLkBQZOT5SJMGA1) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [こいのうた](https://open.spotify.com/album/4015DFzdg5NzUaR1yT5rcz) | 4:41 | 2024-07-18 | 2024-09-27 |
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2024-04-18 | 2024-12-05 |

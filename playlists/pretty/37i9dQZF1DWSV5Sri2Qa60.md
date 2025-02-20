@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: PUNCHBAG
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,101 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,130 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [AWOL](https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Tightropes and Limericks](https://open.spotify.com/album/3OiZGdAnVrEzWECXrDtZq7) | 3:16 |
 | 50 | [Artificial Light](https://open.spotify.com/track/4tleJEhw78LYRpk2Yi7jx0) | [alphabet](https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2) | [Artificial Light](https://open.spotify.com/album/3YA1gyP0uSFcLEjfWyYbSr) | 3:35 |
 
-Snapshot ID: `Z66HpQAAAAD6EYOoOQex9ki6CTDS1ILw`
+Snapshot ID: `Z66HpQAAAABHF1OwO3qs/SJRWrnQp8mL`

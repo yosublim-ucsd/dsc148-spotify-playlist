@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 425176,
+  "num_followers": 425220,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
-        "name": "A Roar Of Southern Clouds",
-        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "A Primera Vista",
-      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
-    },
-    {
-      "added_at": "2025-02-07 01:35:44",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2025-02-07 01:35:44",
+      "album": {
+        "name": "A Roar Of Southern Clouds",
+        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "A Primera Vista",
+      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2025-02-07 01:35:44",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2025-02-07 01:35:44",
+      "album": {
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -987,26 +987,18 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
-        "name": "la cueca del canario (V.2)",
-        "url": "https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb"
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
-        },
-        {
-          "name": "Las Guitarras de Miguel Molina",
-          "url": "https://open.spotify.com/artist/3cH9CZDCrox6lx1mahJNC5"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 121317,
-      "name": "la cueca del canario (V.2)",
-      "url": "https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw"
+      "duration_ms": 210266,
+      "name": "Tardes de Melancol\u00eda",
+      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -1027,18 +1019,26 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+        "name": "la cueca del canario (V.2)",
+        "url": "https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        },
+        {
+          "name": "Las Guitarras de Miguel Molina",
+          "url": "https://open.spotify.com/artist/3cH9CZDCrox6lx1mahJNC5"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Tardes de Melancol\u00eda",
-      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
+      "duration_ms": 121317,
+      "name": "la cueca del canario (V.2)",
+      "url": "https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
-        "name": "Mi manera de querer",
-        "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
+        "name": "Mi manera de querer",
+        "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
+    },
+    {
+      "added_at": "2025-02-07 01:35:44",
+      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 165625,
       "name": "Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2025-02-07 01:35:44",
-      "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
     },
     {
       "added_at": "2025-02-07 01:35:44",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-02-07 01:35:44",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2025-02-07 01:35:44",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2025-02-07 01:35:44",
-      "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2025-02-07 01:35:44",

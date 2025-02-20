@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Chrystel",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Ser\u00f8tonin",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
+      },
+      "artists": [
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        },
+        {
+          "name": "Tiimie",
+          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
+    },
+    {
+      "album": {
         "name": "YOU WILL KNOW MY NAME",
         "url": "https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87"
       },
@@ -3670,6 +3692,24 @@
       "duration_ms": 140833,
       "name": "CHAMPAGNE GIRL",
       "url": "https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd"
+    },
+    {
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "album": {
@@ -7316,7 +7356,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 158117,
       "name": "Get It (Oou Wee)",
       "url": "https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS"
@@ -8430,7 +8470,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 160000,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/3fvF5P89WSZrONEhk2DMxG"
@@ -12508,7 +12548,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 210337,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld"
@@ -21618,6 +21658,28 @@
       "duration_ms": 93473,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
+      },
+      "artists": [
+        {
+          "name": "Faceless",
+          "url": "https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139199,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
       "album": {

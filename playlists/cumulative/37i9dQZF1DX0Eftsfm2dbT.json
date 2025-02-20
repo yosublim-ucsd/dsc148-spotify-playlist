@@ -11035,6 +11035,28 @@
     },
     {
       "album": {
+        "name": "Hey phone",
+        "url": "https://open.spotify.com/album/42eD73zTg3bdNE6nqoBzI0"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hey phone",
+      "url": "https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7"
+    },
+    {
+      "album": {
         "name": "HIDE AND SEEK",
         "url": "https://open.spotify.com/album/6Fs7wP29rRe36DplDfA2bK"
       },
@@ -15309,7 +15331,7 @@
       "artists": [
         {
           "name": "Tiji Jojo",
-          "url": "https://open.spotify.com/artist/3XdPjEN5UdOagwWPrgkp0f"
+          "url": "https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt"
         }
       ],
       "date_added": "2025-02-18",
@@ -20420,6 +20442,10 @@
         {
           "name": "Issei Uno Fifth",
           "url": "https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq"
+        },
+        {
+          "name": "KESSO",
+          "url": "https://open.spotify.com/artist/6DB4aM9HCe0puiLQT1xIWh"
         },
         {
           "name": "OZworld",

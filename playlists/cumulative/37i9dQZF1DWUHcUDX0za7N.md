@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: ODUMODUBLVCK
 
-540 songs - 1 day 1 hr 32 min
+541 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 | 2024-05-22 |  |
 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 | 2023-06-30 | 2024-07-19 |
 | [ADISA OGBON \(GOD SENT LAYCON\)](https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [ANY GIVEN MONDAY III](https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW) | 3:12 | 2024-07-19 | 2024-09-13 |
-| [ADITI ALARIWO](https://open.spotify.com/track/4gsA5B84gGSjBAR296ZziO) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [ADITI ALARIWO](https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj) | 2:14 | 2024-11-29 |  |
+| [ADITI ALARIWO](https://open.spotify.com/track/4gsA5B84gGSjBAR296ZziO) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [ADITI ALARIWO](https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj) | 2:14 | 2024-11-29 | 2025-02-20 |
 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 | 2022-06-09 | 2023-10-27 |
 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 | 2023-11-10 | 2023-12-08 |
 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 | 2022-06-09 | 2023-02-24 |
@@ -189,6 +189,7 @@
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-07 | 2023-10-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-10-13 | 2024-03-16 |
+| [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 |  |
 | [Flimsy Excusees](https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Flimsy Excusees/ Bad Character](https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p) | 2:36 | 2022-09-12 | 2022-10-07 |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 |  |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 |  |

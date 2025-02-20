@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,733 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,744 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 55 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
 | 56 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
 | 57 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 |
-| 58 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 |
-| 59 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 |
+| 58 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 |
+| 59 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 |
 | 60 | [Talk](https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Talk](https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL) | 3:16 |
 | 61 | [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 |
 | 62 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 77 | [Lonely](https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Lonely](https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon) | 2:58 |
 | 78 | [Finish Me](https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Finish Me](https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES) | 2:11 |
 | 79 | [Zombie](https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Zombie](https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc) | 2:13 |
-| 80 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
+| 80 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 |
 
 Snapshot ID: `Z66HywAAAACB5nsX4GMP/n18k4fEjQN/`

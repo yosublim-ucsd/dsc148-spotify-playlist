@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "The Good Shepherd",
+        "url": "https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 750000,
+      "name": "Coming Home To You (feat. Roosevelt Stewart)",
+      "url": "https://open.spotify.com/track/7kKQvEaRv3VfcsqT03v1Zb"
+    },
+    {
+      "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
@@ -994,6 +1016,28 @@
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC"
+    },
+    {
+      "album": {
+        "name": "Gratitude / Great are you Lord (Acoustic Version)",
+        "url": "https://open.spotify.com/album/47jNGrqApx1ygBLKmzcJGQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Boanca",
+          "url": "https://open.spotify.com/artist/3pfHfCgK6aaRcvvUWd5CTV"
+        },
+        {
+          "name": "Philip Steele",
+          "url": "https://open.spotify.com/artist/7aRu5nCQ1nEwuMHMfUzOfx"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355384,
+      "name": "Gratitude / Great are you Lord - Acoustic Version",
+      "url": "https://open.spotify.com/track/2bHImes7aOp7CffOyONwgt"
     },
     {
       "album": {

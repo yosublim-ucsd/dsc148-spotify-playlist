@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Clouds like birds",
+        "url": "https://open.spotify.com/album/4oYnziQxx6W6qndNYE4B9W"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Clouds like birds",
+      "url": "https://open.spotify.com/track/6XvQ90cDCjLdeaQGrqciuh"
+    },
+    {
+      "album": {
         "name": "Coelicolor",
         "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
       },
@@ -2634,6 +2652,24 @@
       "duration_ms": 146862,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww"
+    },
+    {
+      "album": {
+        "name": "Dream Currents",
+        "url": "https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8"
+      },
+      "artists": [
+        {
+          "name": "Enigmatic Horizons",
+          "url": "https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Dream Currents",
+      "url": "https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx"
     },
     {
       "album": {
@@ -12174,6 +12210,24 @@
       "duration_ms": 128088,
       "name": "The Seventh Wave",
       "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+    },
+    {
+      "album": {
+        "name": "The Silence Between",
+        "url": "https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1"
+      },
+      "artists": [
+        {
+          "name": "Niwa Nova",
+          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181347,
+      "name": "The Silence Between",
+      "url": "https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2"
     },
     {
       "album": {

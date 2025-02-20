@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Jhon Allan!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,415 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,425 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 104 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 105 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 |
 
-Snapshot ID: `Z655fAAAAABnowwcSpABS8ddpKTb6TJt`
+Snapshot ID: `Z655fAAAAABUT9xcBBMwr70dcePrpaN9`

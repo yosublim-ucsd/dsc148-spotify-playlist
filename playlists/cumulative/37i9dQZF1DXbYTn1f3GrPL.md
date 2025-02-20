@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-273 songs - 11 hr 46 min
+274 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2024-04-15 |  |
 | [First Sunlight](https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6YaTqyn5dntxFNuV1Kc2J9) | 2:28 | 2024-01-02 | 2024-04-19 |
 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2023-04-03 | 2024-01-27 |
+| [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 | 2025-02-19 |  |
 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 | 2023-04-03 |  |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-16 | 2024-06-01 |
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2023-04-03 |  |

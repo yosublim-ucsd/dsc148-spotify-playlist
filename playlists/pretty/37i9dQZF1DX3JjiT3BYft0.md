@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,730 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,758 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 66 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 3:52 |
 | 67 | [夏空 SUN! SUN! SEVEN! \- Acoustic Ver.](https://open.spotify.com/track/7wWMCByLoIOpRtxAAOQ0gb) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 4:55 |
 | 68 | [Yes! BanG\_Dream! \- Acoustic Ver.](https://open.spotify.com/track/2XVzZxfLb4unbJBM9pzK1x) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 5:04 |
-| 69 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
-| 70 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
+| 69 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
+| 70 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
 | 71 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
-| 72 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
-| 73 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 72 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 73 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
 | 74 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 |
 | 75 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
 

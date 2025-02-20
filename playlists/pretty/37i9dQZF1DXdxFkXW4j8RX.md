@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,447 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,450 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Amor por los Textos](https://open.spotify.com/track/4yOaISnqGLg23DCcKACit2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [DJ Rune](https://open.spotify.com/artist/7DCqRohWWetdxLeLe3Dwmr) | [Amor por los Textos](https://open.spotify.com/album/27obZ45657IggM1O5x3vdw) | 3:35 |
 | 100 | [Laberinto](https://open.spotify.com/track/3SVsaWSOdbVQNVPENhoeSr) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s) | [Laberinto](https://open.spotify.com/album/1L2ZnFigtkQROEaHkp1ixu) | 2:08 |
 
-Snapshot ID: `Z66xugAAAACCwmbqKhctmc6LbLoOk7mS`
+Snapshot ID: `Z66xugAAAACvymFNLmUmF0AaieCAatzz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,042 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,115 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

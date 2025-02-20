@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Automne Nordique",
+        "url": "https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Branche",
+          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117388,
+      "name": "Automne Nordique",
+      "url": "https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv"
+    },
+    {
+      "album": {
         "name": "Bei Sogni",
         "url": "https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 181038,
       "name": "Calm And Restore",
       "url": "https://open.spotify.com/track/0t714TKW801BuUy11qPX0K"
@@ -1896,6 +1914,24 @@
       "duration_ms": 132000,
       "name": "Quiet and Peaceful",
       "url": "https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks"
+    },
+    {
+      "album": {
+        "name": "Rainy September",
+        "url": "https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc"
+      },
+      "artists": [
+        {
+          "name": "Denalia",
+          "url": "https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Rainy September",
+      "url": "https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M"
     },
     {
       "album": {

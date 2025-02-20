@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,062 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,090 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 32 | [Focus](https://open.spotify.com/track/2r9cwV8mYpm2JRm8WBppDN) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Focus](https://open.spotify.com/album/3yxFYvrL7kjSNNqOsU4zzD) | 3:32 |
 | 33 | [Absence Makes the Heart Grow](https://open.spotify.com/track/2gFHJlLe9IHn0GBdcr4mbH) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Absence Makes the Heart Grow](https://open.spotify.com/album/21LlDKrVv0eebqNnfC62XA) | 2:47 |
 | 34 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
-| 35 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 |
+| 35 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 |
 | 36 | [Will You Marry Me](https://open.spotify.com/track/4rFkzKag2uHEYQ4FFUABM9) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [WOOZE](https://open.spotify.com/album/3TS4UOYfxQjkhVrxPsPKHe) | 4:09 |
 | 37 | [Funny Face](https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Funny Face](https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz) | 2:47 |
 | 38 | [Cut the Brakes](https://open.spotify.com/track/7IIsFBQYt7nj5HHvJXhI4y) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Cut the Brakes](https://open.spotify.com/album/5hds8bzVltznAXPxM1u5nJ) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 74 | [this is the best night of my life!](https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [to you, after 2000 years](https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX) | 1:51 |
 | 75 | [NIRVANA](https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [NIRVANA](https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY) | 3:13 |
 
-Snapshot ID: `Z67PHgAAAACZHSJNehVJNdhIkDqeb/fS`
+Snapshot ID: `Z67PHgAAAACfI3tmwVbq0ALsVVlvn9gN`

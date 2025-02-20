@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/7pBcoSbfnMDPL2ME260k6J"
+      },
+      "artists": [
+        {
+          "name": "Jerome Banaay",
+          "url": "https://open.spotify.com/artist/4YkvowYlmKG7m07nj31ymK"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232098,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/6KNODyHzjGCSmR38AahqsW"
+    },
+    {
+      "album": {
         "name": "Apat Na Buwan",
         "url": "https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM"
       },
@@ -464,10 +482,28 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4"
+      },
+      "artists": [
+        {
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213021,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6"
     },
     {
       "album": {
@@ -608,7 +644,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 243088,
       "name": "Darating Din",
       "url": "https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY"
@@ -800,6 +836,24 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+    },
+    {
+      "album": {
+        "name": "Handa Na Ako",
+        "url": "https://open.spotify.com/album/6rdPLemoUQ4WklfB5CR3hT"
+      },
+      "artists": [
+        {
+          "name": "Atasha Muhlach",
+          "url": "https://open.spotify.com/artist/4ES6et0LYZjJzQSEciWaEu"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191075,
+      "name": "Handa Na Ako",
+      "url": "https://open.spotify.com/track/1p2PssCXSdRKQHzNeIT781"
     },
     {
       "album": {
@@ -1038,7 +1092,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
@@ -1099,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
       },
@@ -1110,7 +1182,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 191009,
       "name": "Ikaw Pa Rin",
       "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
@@ -1474,7 +1546,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 242800,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
@@ -1784,7 +1856,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 306204,
       "name": "Masyado Pang Maaga",
       "url": "https://open.spotify.com/track/0luyrm1L6gjtoLekHOf67t"
@@ -1914,7 +1986,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
@@ -2245,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Oh, Irog",
+        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
+      },
+      "artists": [
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296714,
+      "name": "Oh, Irog",
+      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
+    },
+    {
+      "album": {
         "name": "Orasa",
         "url": "https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq"
       },
@@ -2477,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/7thHAH9ci4JVDmQzeGjYgV"
+      },
+      "artists": [
+        {
+          "name": "LEMMY",
+          "url": "https://open.spotify.com/artist/61CVEXyjQwkVEDCXsk045l"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200615,
+      "name": "Panindigan",
+      "url": "https://open.spotify.com/track/12hfbDgrWNSkyUrRxdmNo5"
+    },
+    {
+      "album": {
         "name": "Pano",
         "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
       },
@@ -2492,6 +2600,24 @@
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+    },
+    {
+      "album": {
+        "name": "Pantasya",
+        "url": "https://open.spotify.com/album/2sBh8DlPH5AJoU6sHCUnSv"
+      },
+      "artists": [
+        {
+          "name": "Marion Talavera",
+          "url": "https://open.spotify.com/artist/4sKYcezEK11EMLONEhInb0"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198439,
+      "name": "Pantasya",
+      "url": "https://open.spotify.com/track/2LMb2eM0ofNfAmqjj2Z2Xy"
     },
     {
       "album": {

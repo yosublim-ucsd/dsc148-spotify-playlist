@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87551,
+  "num_followers": 87557,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 210285,
       "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
       "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2024-09-20 08:27:00",

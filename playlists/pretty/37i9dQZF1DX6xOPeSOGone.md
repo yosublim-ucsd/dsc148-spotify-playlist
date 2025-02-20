@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,598,930 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,598,924 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 120 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
 | 121 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
 | 122 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
-| 123 | [Whatever Happened to Benny Santini?](https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:19 |
+| 123 | [Whatever Happened to Benny Santini?](https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini?](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:19 |
 | 124 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 |
 | 125 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
 
-Snapshot ID: `Zow4sAAAAAAzcPyizC1WL3jnLOOBrtHx`
+Snapshot ID: `Zow4sAAAAAAEMWUj3pS4u2MUc33a+Mmt`

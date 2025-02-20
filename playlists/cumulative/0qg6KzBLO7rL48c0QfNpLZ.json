@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6gcXFqo18EewamLotkOarE"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        },
+        {
+          "name": "YVMV",
+          "url": "https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132123,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7GU09kliZ520rX2jbLf3Pu"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/4Lij0CvIP9LI1ZQyyLjXrK"
       },

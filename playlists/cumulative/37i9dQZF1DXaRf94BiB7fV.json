@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: The Last Magic, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Sarthak Kalyani, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -26794,7 +26794,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 183157,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/6JXEYsJZH5Mr7tTKXMvqBp"
@@ -27740,6 +27740,28 @@
       "duration_ms": 349090,
       "name": "Ude",
       "url": "https://open.spotify.com/track/2OKsROZXF2C5FIBSMTlp7M"
+    },
+    {
+      "album": {
+        "name": "Udja Parindey",
+        "url": "https://open.spotify.com/album/1tWqj04Efyf8aITaB1kRcO"
+      },
+      "artists": [
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Satyansh Rajat",
+          "url": "https://open.spotify.com/artist/2WvmxUMd2Pnekw7iHHyWLk"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239164,
+      "name": "Udja Parindey",
+      "url": "https://open.spotify.com/track/3KN3Uo4tNvxtsR1IVRfZCx"
     },
     {
       "album": {

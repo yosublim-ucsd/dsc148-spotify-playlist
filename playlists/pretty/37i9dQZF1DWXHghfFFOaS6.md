@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,923 likes - 90 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,981 likes - 90 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 24 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 25 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
 | 26 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
-| 27 | [Dear Limmertz](https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Outubro](https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n) | 4:31 |
-| 28 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
+| 27 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
+| 28 | [Dear Limmertz](https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Outubro](https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n) | 4:31 |
 | 29 | [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 |
 | 30 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
 | 31 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
 | 32 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
-| 33 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
-| 34 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
+| 33 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
+| 34 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
 | 35 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
 | 36 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 37 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 51 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 52 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
 | 53 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
-| 54 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
-| 55 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 54 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 55 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
 | 56 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 57 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
 | 58 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |

@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 16 | [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 |
 | 17 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 18 | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz) | 3:36 |
-| 19 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
-| 20 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
+| 19 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
+| 20 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 21 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 22 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
 | 23 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 55 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 56 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Abp84AAAAADtmbjmcM8N2JH5pbfKrbV1`
+Snapshot ID: `AbqCngAAAAA5klq52Vbjy4YAWphHm2Uw`

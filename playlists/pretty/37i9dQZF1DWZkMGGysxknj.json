@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810605,
+  "num_followers": 810603,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+      "duration_ms": 202960,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
     },
     {
       "added_at": "2025-01-20 19:38:44",
@@ -235,18 +231,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2025-01-29 04:22:44",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Make Sparks",
         "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 218573,
       "name": "I Make Sparks",
       "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Starboy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
+      },
+      "artists": [
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Starboy - Acoustic",
+      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Starboy (Acoustic)",
-        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
-      },
-      "artists": [
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Starboy - Acoustic",
-      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
     },
     {
-      "added_at": "2023-12-20 18:47:50",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "Perfect",
@@ -827,6 +811,22 @@
       "duration_ms": 281302,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
+    },
+    {
+      "added_at": "2023-12-20 18:47:50",
+      "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
       "artists": [
         {
-          "name": "Fink's Mood",
-          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
       "artists": [
         {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+          "name": "Fink's Mood",
+          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
         }
       ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+      "duration_ms": 171696,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 218904,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+      "duration_ms": 218904,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1399,6 +1399,22 @@
       "duration_ms": 187741,
       "name": "23",
       "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Love You Madly EP",
         "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 226200,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1675,26 +1675,6 @@
       "duration_ms": 238817,
       "name": "Saudade - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        },
-        {
-          "name": "Sad Boy",
-          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
-        }
-      ],
-      "duration_ms": 145075,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1731,6 +1711,26 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        },
+        {
+          "name": "Sad Boy",
+          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
+        }
+      ],
+      "duration_ms": 145075,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1743,30 +1743,6 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "La Marelle / Amarelinha",
-        "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Rosemary Standley",
-          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
-        },
-        {
-          "name": "Birds on a Wire",
-          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "La Marelle / Amarelinha",
-      "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1815,6 +1791,30 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "La Marelle / Amarelinha",
+        "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
+      },
+      "artists": [
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Rosemary Standley",
+          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
+        },
+        {
+          "name": "Birds on a Wire",
+          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "La Marelle / Amarelinha",
+      "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2017,22 +2017,6 @@
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
-      "added_at": "2024-06-27 18:23:04",
-      "album": {
-        "name": "Sentir Que No Sabes",
-        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Pantalla azul",
-      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "Fin",
@@ -2047,6 +2031,22 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+    },
+    {
+      "added_at": "2024-06-27 18:23:04",
+      "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
+      },
+      "artists": [
+        {
+          "name": "Moncaya",
+          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -2107,18 +2123,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
       },
       "artists": [
         {
-          "name": "Moncaya",
-          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
+          "name": "Nina Olivia",
+          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+      "duration_ms": 224722,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2135,22 +2151,6 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
-      },
-      "artists": [
-        {
-          "name": "Nina Olivia",
-          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Detalles",
         "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 204428,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 187389,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Voices In The Sky",
         "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 110277,
       "name": "Levels",
       "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "The Day That We First Met",
+        "url": "https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 220962,
+      "name": "The Day That We First Met",
+      "url": "https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 263124,
       "name": "Atlas: Seven",
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Field Notes",
-        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Arueira Mata",
-      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

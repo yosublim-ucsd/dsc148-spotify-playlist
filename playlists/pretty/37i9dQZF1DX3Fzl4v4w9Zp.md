@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Wilder Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,946 likes - 153 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,982 likes - 153 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 152 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 153 | [Civilized Anxiety](https://open.spotify.com/track/5r59tQ63RvibluEiluaYqt) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [Civilized Anxiety](https://open.spotify.com/album/6WCA6cpbXCniCnr71siqVZ) | 4:13 |
 
-Snapshot ID: `Z6WTcwAAAAB3hga7fAC7g2qptUIq0Sp2`
+Snapshot ID: `Z6WTcwAAAACCd15UKDX5oEI0eCUeVrwZ`

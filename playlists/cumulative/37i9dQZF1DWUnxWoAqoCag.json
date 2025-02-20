@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 260746,
       "name": "AlwayS",
       "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
@@ -4187,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30fc\u30e2\u30a2",
         "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
       },
@@ -4843,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Spacecraft / Sailing",
+        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299213,
+      "name": "\u8ab0\u3088\u308a\u3082",
+      "url": "https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF"
+    },
+    {
+      "album": {
         "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
         "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
       },
@@ -4890,7 +4926,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"

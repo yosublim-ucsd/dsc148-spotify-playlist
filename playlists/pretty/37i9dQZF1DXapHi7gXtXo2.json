@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 88921,
+  "num_followers": 88943,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Ojitos de Md (Remix)",
+        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Ojitos de Md - Remix",
+      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 206738,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Ojitos de Md (Remix)",
-        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Ojitos de Md - Remix",
-      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 237456,
-      "name": "Otro Lado",
-      "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 237456,
+      "name": "Otro Lado",
+      "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
       },
       "artists": [
         {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 191475,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
+      "duration_ms": 208908,
+      "name": "SUR",
+      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -871,22 +875,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
         }
       ],
-      "duration_ms": 208908,
-      "name": "SUR",
-      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
+      "duration_ms": 191475,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154087,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225938,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         }
       ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1159,6 +1159,22 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -1227,38 +1259,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Goma",
-        "url": "https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Goma",
-      "url": "https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "El Club",
         "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 159453,
       "name": "El Club",
       "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Goma",
+        "url": "https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Goma",
+      "url": "https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY"
     },
     {
       "added_at": "2024-09-20 03:00:00",

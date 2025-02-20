@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 107601,
+  "num_followers": 107600,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 152250,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -207,26 +207,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
@@ -1455,26 +1471,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Hot Honey",
-        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Hot Honey",
-      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -1491,26 +1487,6 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 135276,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1535,6 +1511,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 135276,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
       },
@@ -1547,22 +1543,6 @@
       "duration_ms": 193018,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1607,6 +1587,26 @@
       "duration_ms": 141615,
       "name": "Hotstepper",
       "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
     },
     {
       "added_at": "2024-09-05 22:01:00",

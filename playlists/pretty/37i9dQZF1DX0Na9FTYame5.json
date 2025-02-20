@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: badchieff",
-  "num_followers": 585210,
+  "num_followers": 585208,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,22 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "3 Sekunden (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
       "artists": [
         {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
         },
         {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
         }
       ],
-      "duration_ms": 166942,
-      "name": "3 Sekunden (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -575,22 +575,22 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+        "name": "3 Sekunden (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
         },
         {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+      "duration_ms": 166942,
+      "name": "3 Sekunden (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "RED CUPS (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 206259,
-      "name": "RED CUPS (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "Ich will",
         "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
       },
@@ -655,6 +635,42 @@
       "duration_ms": 193906,
       "name": "Ich will",
       "url": "https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "RED CUPS (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 206259,
+      "name": "RED CUPS (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -691,22 +707,6 @@
       "duration_ms": 138461,
       "name": "SAB\u00cdA QUE NO - Acoustic",
       "url": "https://open.spotify.com/track/79zF8Srs6cWvQhq7E5p1LP"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "LEUCHTTURM",
-        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 153270,
-      "name": "LEUCHTTURM",
-      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "Dieses eine Lied",
         "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+        "name": "LEUCHTTURM",
+        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
+      "duration_ms": 153270,
+      "name": "LEUCHTTURM",
+      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -959,6 +943,22 @@
       "duration_ms": 154679,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -995,6 +995,26 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Ich hass dich",
+        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "duration_ms": 193024,
+      "name": "Ich hass dich",
+      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -1071,42 +1091,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Ich hass dich",
-        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        }
-      ],
-      "duration_ms": 193024,
-      "name": "Ich hass dich",
-      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "Was du nicht siehst (feat. ela.)",
         "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 151704,
       "name": "Was du nicht siehst (feat. ela.)",
       "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -1227,42 +1227,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Brauch nur dich",
-        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
-      },
-      "artists": [
-        {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
-        }
-      ],
-      "duration_ms": 144926,
-      "name": "Brauch nur dich",
-      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
-        "name": "On/Off",
-        "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "On/Off",
-      "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "So Wundersch\u00f6n",
         "url": "https://open.spotify.com/album/3pskKADoAvTSBhOnJAi9E0"
       },
@@ -1295,6 +1259,42 @@
       "duration_ms": 169842,
       "name": "King",
       "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Brauch nur dich",
+        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "duration_ms": 144926,
+      "name": "Brauch nur dich",
+      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "On/Off",
+        "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "On/Off",
+      "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
+        "name": "Keiner wei\u00df",
+        "url": "https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141082,
+      "name": "Keiner wei\u00df",
+      "url": "https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
         "name": "NuR Du :/",
         "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
-        "name": "Keiner wei\u00df",
-        "url": "https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi"
-      },
-      "artists": [
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141082,
-      "name": "Keiner wei\u00df",
-      "url": "https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
-        "url": "https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw"
-      },
-      "artists": [
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
-      "url": "https://open.spotify.com/track/1SU8huXD15iemDITwALHb3"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "NaNa",
         "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
+        "url": "https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "Why Does My Heart Feel So Bad? (feat. Moby)",
+      "url": "https://open.spotify.com/track/1SU8huXD15iemDITwALHb3"
     },
     {
       "added_at": "2025-02-06 23:00:34",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-02-06 23:00:34",
       "album": {
-        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
-        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 150369,
-      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
-      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
-    },
-    {
-      "added_at": "2025-02-06 23:00:34",
-      "album": {
         "name": "Fieber / Glatteis",
         "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "added_at": "2025-02-06 23:00:34",
+      "album": {
+        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
+        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 150369,
+      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
+      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
     },
     {
       "added_at": "2025-02-06 23:00:34",

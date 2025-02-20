@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: tibia
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,504 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,512 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Before You Go](https://open.spotify.com/track/3cCnQ7TqFLUVGl2Ypduys7) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Before You Go](https://open.spotify.com/album/27nDI79oHU0j5nkhOkjNjD) | 2:31 |
 | 100 | [orange moon](https://open.spotify.com/track/3SUCjwn774ivXNis4CahDt) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [orange moon](https://open.spotify.com/album/7D5ov4OZ7x6s1JPDKRyH7y) | 3:07 |
 
-Snapshot ID: `Z655WQAAAACzV2p+nLynjvdIHvEtVv9J`
+Snapshot ID: `Z655WQAAAAAMx5ea1dkrx3oaHPStL2ij`

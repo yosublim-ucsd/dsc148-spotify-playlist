@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-794 songs - 1 day 10 hr 32 min
+797 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-21 | 2024-10-23 |
 | [Clairière](https://open.spotify.com/track/352zT4Ijd9PUae6c3Wo2n8) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Clairière](https://open.spotify.com/album/6jSlxBgoHARjQXiRKBz1L6) | 2:04 | 2022-07-20 | 2023-01-21 |
 | [Close](https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Close](https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n) | 2:36 | 2022-04-21 | 2024-04-10 |
+| [Clouds like birds](https://open.spotify.com/track/6XvQ90cDCjLdeaQGrqciuh) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Clouds like birds](https://open.spotify.com/album/4oYnziQxx6W6qndNYE4B9W) | 2:18 | 2025-02-19 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-04-21 | 2024-10-23 |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-21 | 2024-02-14 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2022-04-21 | 2024-04-04 |
@@ -153,6 +154,7 @@
 | [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-04-21 | 2024-10-23 |
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-04-21 | 2023-11-11 |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
+| [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 | 2025-02-19 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-21 | 2022-07-21 |
 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2022-04-21 | 2022-07-21 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2022-04-21 | 2024-02-28 |
@@ -690,6 +692,7 @@
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-21 | 2022-12-24 |
 | [The Reason Why](https://open.spotify.com/track/76vpZBWYGm4BZLgoap5FIy) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [The Reason Why](https://open.spotify.com/album/6Mn1AgMY3Wdm6rzumdKURw) | 2:51 | 2024-02-13 |  |
 | [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 | 2024-02-02 | 2024-11-06 |
+| [The Silence Between](https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [The Silence Between](https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1) | 3:01 | 2025-02-19 |  |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [The Song Within](https://open.spotify.com/track/725oGRYkD3w6Fo1sp3rcG2) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Song Within](https://open.spotify.com/album/3D8JLUtWZJNstoThwui66A) | 2:52 | 2024-02-13 |  |
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-03-25 |  |

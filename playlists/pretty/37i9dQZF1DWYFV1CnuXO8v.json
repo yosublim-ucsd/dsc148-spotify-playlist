@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 174700,
+  "num_followers": 174804,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Ana Kteer",
-        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "Kolly Melkak",
-      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 289123,
+      "name": "Kolly Melkak",
+      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
         "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
         "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
+        "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
       },
       "artists": [
         {
-          "name": "Sara Haytham",
-          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
         }
       ],
-      "duration_ms": 216108,
-      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
+      "duration_ms": 250635,
+      "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
-        "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
+        "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
       },
       "artists": [
         {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+          "name": "Sara Haytham",
+          "url": "https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK"
         }
       ],
-      "duration_ms": 250635,
-      "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
+      "duration_ms": 216108,
+      "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Monaya",
-        "url": "https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX"
-      },
-      "artists": [
-        {
-          "name": "Moustafa Amar",
-          "url": "https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC"
-        }
-      ],
-      "duration_ms": 213539,
-      "name": "Monaya",
-      "url": "https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "Hob Emtelak",
         "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 244321,
       "name": "Esmaa Kalamy",
       "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "Monaya",
+        "url": "https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Amar",
+          "url": "https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Monaya",
+      "url": "https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -763,8 +763,8 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Farek Maak",
-        "url": "https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM"
+        "name": "Agmal Layaly Omry",
+        "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Ana Baatereflek",
-      "url": "https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe"
+      "duration_ms": 235866,
+      "name": "Taali",
+      "url": "https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -875,8 +875,8 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Agmal Layaly Omry",
-        "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
+        "name": "Farek Maak",
+        "url": "https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Taali",
-      "url": "https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ"
+      "duration_ms": 233533,
+      "name": "Ana Baatereflek",
+      "url": "https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Beiny we Beinak",
-        "url": "https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le"
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
       },
       "artists": [
         {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
         }
       ],
-      "duration_ms": 206015,
-      "name": "Beiny we Beinak",
-      "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
+      "duration_ms": 290796,
+      "name": "Esheq El Rooh",
+      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -975,18 +975,34 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Lehqt Nafsy - Part 2",
-        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
       },
       "artists": [
         {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
         }
       ],
-      "duration_ms": 290796,
-      "name": "Esheq El Rooh",
-      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+      "duration_ms": 174912,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "Beiny we Beinak",
+        "url": "https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 206015,
+      "name": "Beiny we Beinak",
+      "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1007,22 +1023,6 @@
       "duration_ms": 64000,
       "name": "Men Da Elly Nesik",
       "url": "https://open.spotify.com/track/40nMdOO13b130ubQmVPGN3"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
-        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
-      },
-      "artists": [
-        {
-          "name": "Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
     },
     {
       "added_at": "2025-02-14 02:30:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-14 02:30:21",
       "album": {
-        "name": "Ana Geit",
-        "url": "https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Ana Geit",
-      "url": "https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF"
-    },
-    {
-      "added_at": "2025-02-14 02:30:21",
-      "album": {
         "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
         "url": "https://open.spotify.com/album/5ot4ftP6Cfvu9R7hN3qEIN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 175333,
       "name": "\u064a\u0627\u0647\u0646\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/7Ickn6od1uRttDA0OXgQEc"
+    },
+    {
+      "added_at": "2025-02-14 02:30:21",
+      "album": {
+        "name": "Ana Geit",
+        "url": "https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Ana Geit",
+      "url": "https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF"
     },
     {
       "added_at": "2025-02-14 02:30:21",

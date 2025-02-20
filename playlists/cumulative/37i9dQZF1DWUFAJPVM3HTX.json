@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q\"> Kennedy Ryon</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn-FQhGdTiuZtW2jdm7Ljg\"> JayDon</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -21836,6 +21836,24 @@
       "duration_ms": 119086,
       "name": "Honeymoons Over interlude",
       "url": "https://open.spotify.com/track/224kGaZzHamVgDkTxSL9XL"
+    },
+    {
+      "album": {
+        "name": "HOOKED",
+        "url": "https://open.spotify.com/album/4TctGT0owu38uREKaEL8PF"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145610,
+      "name": "HOOKED",
+      "url": "https://open.spotify.com/track/3z7QwaHcyGUBCB5OB8202L"
     },
     {
       "album": {

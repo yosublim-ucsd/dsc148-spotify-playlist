@@ -1,13 +1,33 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q\"> Kennedy Ryon</a>. Updates every Wednesday.",
-  "num_followers": 259887,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn-FQhGdTiuZtW2jdm7Ljg\"> JayDon</a>. Updates every Wednesday.",
+  "num_followers": 259971,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z68WJQAAAAATcUIMoK32r6uBDT4TWKqQ",
+  "snapshot_id": "Z7YXowAAAAD0xG3Goziijcxq9NiHJuFR",
   "tracks": [
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+        }
+      ],
+      "duration_ms": 217694,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t"
+    },
     {
       "added_at": "2025-02-14 10:08:37",
       "album": {
@@ -107,6 +127,26 @@
     {
       "added_at": "2025-02-14 10:08:37",
       "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/0ACPztVyb0kKuU2fP60rBQ"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        },
+        {
+          "name": "S!MONE",
+          "url": "https://open.spotify.com/artist/10kpnvgjTMftJlxcFxHz2w"
+        }
+      ],
+      "duration_ms": 159777,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/5GqsY0zupBux5gEAgJjRpl"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
         "name": "blip",
         "url": "https://open.spotify.com/album/3W07RwmsFX2OI0sWwQ9E4F"
       },
@@ -135,6 +175,118 @@
       "duration_ms": 191834,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0s4bNZwPQbb7jzHFrlvZBf"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "BUSS AT YOU",
+        "url": "https://open.spotify.com/album/4MeUzTQYY3TVnRx668dIPz"
+      },
+      "artists": [
+        {
+          "name": "Saint Lamaar",
+          "url": "https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN"
+        }
+      ],
+      "duration_ms": 134952,
+      "name": "BUSS AT YOU",
+      "url": "https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "O Let's Do It",
+        "url": "https://open.spotify.com/album/6TNqaUoppujsMTeP6r2Mzg"
+      },
+      "artists": [
+        {
+          "name": "A-Lex",
+          "url": "https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3"
+        }
+      ],
+      "duration_ms": 216175,
+      "name": "O Let's Do It",
+      "url": "https://open.spotify.com/track/34UzakmEkNzYNUm1n0PKKI"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5OfVxVP4ferlzdlXiiLHZM"
+      },
+      "artists": [
+        {
+          "name": "Sanura",
+          "url": "https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3uQFwO7TxgKTxgxyroWPwQ"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1yScMZewQkt21sAfeKYTzv"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 143018,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/7EM0Ng2mHr7qxJWxqImUu3"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "7:21",
+        "url": "https://open.spotify.com/album/1WPuvoDNlCFi5ESGgkSurV"
+      },
+      "artists": [
+        {
+          "name": "Lola Moxom",
+          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
+        }
+      ],
+      "duration_ms": 177168,
+      "name": "7:21",
+      "url": "https://open.spotify.com/track/1DfzaEko6iUJlhrVNmC3ML"
+    },
+    {
+      "added_at": "2025-02-14 10:08:37",
+      "album": {
+        "name": "Hopeless Dreams",
+        "url": "https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa"
+    },
+    {
+      "added_at": "2025-02-19 17:40:51",
+      "album": {
+        "name": "HOOKED",
+        "url": "https://open.spotify.com/album/4TctGT0owu38uREKaEL8PF"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g"
+        }
+      ],
+      "duration_ms": 145610,
+      "name": "HOOKED",
+      "url": "https://open.spotify.com/track/3z7QwaHcyGUBCB5OB8202L"
     },
     {
       "added_at": "2025-02-14 10:08:37",
@@ -207,26 +359,6 @@
     {
       "added_at": "2025-02-14 10:08:37",
       "album": {
-        "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/0ACPztVyb0kKuU2fP60rBQ"
-      },
-      "artists": [
-        {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
-        },
-        {
-          "name": "S!MONE",
-          "url": "https://open.spotify.com/artist/10kpnvgjTMftJlxcFxHz2w"
-        }
-      ],
-      "duration_ms": 159777,
-      "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5GqsY0zupBux5gEAgJjRpl"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
         "name": "Feels Like Water",
         "url": "https://open.spotify.com/album/5wbJIiKLx1FYoiiGcmQzvP"
       },
@@ -239,22 +371,6 @@
       "duration_ms": 221540,
       "name": "Feels Like Water",
       "url": "https://open.spotify.com/track/5nITBUoXouKxZz2pPn1jzy"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "7:21",
-        "url": "https://open.spotify.com/album/1WPuvoDNlCFi5ESGgkSurV"
-      },
-      "artists": [
-        {
-          "name": "Lola Moxom",
-          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
-        }
-      ],
-      "duration_ms": 177168,
-      "name": "7:21",
-      "url": "https://open.spotify.com/track/1DfzaEko6iUJlhrVNmC3ML"
     },
     {
       "added_at": "2025-02-14 10:08:37",
@@ -275,74 +391,6 @@
     {
       "added_at": "2025-02-14 10:08:37",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        },
-        {
-          "name": "Paradise",
-          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
-        }
-      ],
-      "duration_ms": 217694,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "Hopeless Dreams",
-        "url": "https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "White Wine",
-      "url": "https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5OfVxVP4ferlzdlXiiLHZM"
-      },
-      "artists": [
-        {
-          "name": "Sanura",
-          "url": "https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3uQFwO7TxgKTxgxyroWPwQ"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1yScMZewQkt21sAfeKYTzv"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 143018,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/7EM0Ng2mHr7qxJWxqImUu3"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/2OS6HVPffRDKWhqPhdXiWx"
       },
@@ -355,22 +403,6 @@
       "duration_ms": 177374,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7moa0lvcytvxvOGpzMbTEC"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "O Let's Do It",
-        "url": "https://open.spotify.com/album/6TNqaUoppujsMTeP6r2Mzg"
-      },
-      "artists": [
-        {
-          "name": "A-Lex",
-          "url": "https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3"
-        }
-      ],
-      "duration_ms": 216175,
-      "name": "O Let's Do It",
-      "url": "https://open.spotify.com/track/34UzakmEkNzYNUm1n0PKKI"
     },
     {
       "added_at": "2025-02-14 10:08:37",
@@ -423,22 +455,6 @@
       "duration_ms": 108764,
       "name": "Leave the World Behind",
       "url": "https://open.spotify.com/track/56NA3JjKPxpSHsVLes3V1g"
-    },
-    {
-      "added_at": "2025-02-14 10:08:37",
-      "album": {
-        "name": "BUSS AT YOU",
-        "url": "https://open.spotify.com/album/4MeUzTQYY3TVnRx668dIPz"
-      },
-      "artists": [
-        {
-          "name": "Saint Lamaar",
-          "url": "https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN"
-        }
-      ],
-      "duration_ms": 134952,
-      "name": "BUSS AT YOU",
-      "url": "https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M"
     },
     {
       "added_at": "2025-02-14 10:08:37",

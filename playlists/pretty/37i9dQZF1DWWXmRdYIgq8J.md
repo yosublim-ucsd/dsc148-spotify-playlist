@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,877 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,886 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 27 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 |
 | 28 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
 | 29 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |
-| 30 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
-| 31 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
+| 30 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
+| 31 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 32 | [Chal Kechal](https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:56 |
 | 33 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
-| 34 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
-| 35 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
+| 34 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
+| 35 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
 | 36 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
 | 37 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
 | 38 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |

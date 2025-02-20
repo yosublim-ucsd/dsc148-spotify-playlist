@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 1908370,
+  "num_followers": 1908946,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5"
-      },
-      "artists": [
-        {
-          "name": "Alison Moyet",
-          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "All Cried Out",
-      "url": "https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 152200,
       "name": "Crash",
       "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5"
+      },
+      "artists": [
+        {
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "All Cried Out",
+      "url": "https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG"
     },
     {
       "added_at": "2024-03-18 22:21:44",

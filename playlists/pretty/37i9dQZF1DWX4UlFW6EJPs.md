@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,064 likes - 88 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,065 likes - 88 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 | 87 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 |
 | 88 | [The Path](https://open.spotify.com/track/5pSsTNmq2WKFqa93HI2Ztb) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:40 |
 
-Snapshot ID: `ZvXpsQAAAAAHkl+6mIFgJ4MRyq7LVM+9`
+Snapshot ID: `ZvXpsQAAAAC5jXbc+ZOML2MyXwrVK/gb`

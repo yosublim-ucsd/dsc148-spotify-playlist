@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 72187,
+  "num_followers": 72253,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Hilja",
-        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Demetra",
-      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "plastichoir",
         "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 190860,
       "name": "melting cups",
       "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Hilja",
+        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Demetra",
+      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "Shifting Winds",
         "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
       "artists": [
         {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
         }
       ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -999,22 +1015,6 @@
       "duration_ms": 194706,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Bardo Landscape (Reimagined)",
         "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 292605,
       "name": "Pray for Us",
       "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+        }
+      ],
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1423,22 +1443,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+        "name": "A Map With No Memory",
+        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
       },
       "artists": [
         {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+          "name": "Jay Chakravorty",
+          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
         }
       ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+      "duration_ms": 193644,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1455,22 +1471,6 @@
       "duration_ms": 173625,
       "name": "Ode to the blue",
       "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "A Map With No Memory",
-        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
-      },
-      "artists": [
-        {
-          "name": "Jay Chakravorty",
-          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
-        }
-      ],
-      "duration_ms": 193644,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "ahead",
-        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
       "artists": [
         {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 124500,
-      "name": "ahead",
-      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
+      "duration_ms": 650794,
+      "name": "Sospiro",
+      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1559,22 +1559,6 @@
       "duration_ms": 264250,
       "name": "Haven't Left Home 4 4 Days",
       "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 650794,
-      "name": "Sospiro",
-      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "Spell V: Like Honey in a Hidden Cave",
+        "url": "https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Spell V: Like Honey in a Hidden Cave",
+      "url": "https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "Seasons Shifting",
         "url": "https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Spell V: Like Honey in a Hidden Cave",
-        "url": "https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ"
-      },
-      "artists": [
-        {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Spell V: Like Honey in a Hidden Cave",
-      "url": "https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "Rare Backwards",
         "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
@@ -1647,6 +1631,38 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "ahead",
+        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
+      },
+      "artists": [
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "ahead",
+      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
+        "name": "One to One",
+        "url": "https://open.spotify.com/album/09UXJzKi4utZsEQe3n3xtV"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 276449,
+      "name": "One to One",
+      "url": "https://open.spotify.com/track/4HGyb3pZlHt5qtB28Pk8Vp"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1687,22 +1703,18 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "anth\u00e9ne",
-          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1723,18 +1735,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
       },
       "artists": [
         {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "anth\u00e9ne",
+          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
         }
       ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
+      "duration_ms": 280000,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
     },
     {
       "added_at": "2025-01-30 10:41:43",
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
         "name": "My Life / Under The Moon Over The Sky",
         "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
       },
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-01-30 10:41:43",
       "album": {
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+    },
+    {
+      "added_at": "2025-01-30 10:41:43",
+      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 1001299,
       "name": "After its own death: Side A",
       "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
-    },
-    {
-      "added_at": "2025-01-30 10:41:43",
-      "album": {
-        "name": "One to One",
-        "url": "https://open.spotify.com/album/09UXJzKi4utZsEQe3n3xtV"
-      },
-      "artists": [
-        {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
-        }
-      ],
-      "duration_ms": 276449,
-      "name": "One to One",
-      "url": "https://open.spotify.com/track/4HGyb3pZlHt5qtB28Pk8Vp"
     },
     {
       "added_at": "2025-01-30 10:41:43",

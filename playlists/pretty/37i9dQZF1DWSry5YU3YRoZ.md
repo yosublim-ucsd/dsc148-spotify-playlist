@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,752 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,757 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 33 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 |
 | 34 | [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 |
 | 35 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
-| 36 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 |
-| 37 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
+| 36 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
+| 37 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 |
 | 38 | [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 |
 | 39 | [For my little one \(with Jeon sohyeon\)](https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon sohyeon](https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:18 |
 | 40 | [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 |
 | 41 | [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 |
 | 42 | [a colored pencil](https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO) | [soyo Jeong](https://open.spotify.com/artist/7dLpL1oQcGgZzQdhbJIpwR) | [a colored pencil](https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel) | 5:01 |
-| 43 | [Summer christmas](https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Summer Inn.](https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3) | 2:55 |
-| 44 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
+| 43 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
+| 44 | [Summer christmas](https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Summer Inn.](https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3) | 2:55 |
 | 45 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 |
 | 46 | [Haze](https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx) | [kimpomme](https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4) | [Haze](https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm) | 3:57 |
-| 47 | [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 |
+| 47 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 |
 | 48 | [dearmybaby \(with Kim Boo Kyung\)](https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Kim Boo Kyung](https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd) | [dearmybaby](https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW) | 4:09 |
-| 49 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 |
+| 49 | [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 |
 | 50 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
 
 Snapshot ID: `Z0mNnwAAAABjs5UC3UVts3jMSvdezLia`

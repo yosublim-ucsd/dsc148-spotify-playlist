@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,413 likes - 105 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,471 likes - 105 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 104 | [Second One To Know](https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 2:56 |
 | 105 | [Quite Like You](https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:12 |
 
-Snapshot ID: `Z6BL5wAAAAAQ39MDTapeOOldbfiGTZuo`
+Snapshot ID: `Z6BL5wAAAAAdRp4XQC7khRh851+Fv5r5`

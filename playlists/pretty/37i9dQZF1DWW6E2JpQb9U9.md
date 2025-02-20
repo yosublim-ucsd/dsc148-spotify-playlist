@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,917 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,955 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 72 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
 | 73 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 |
 | 74 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
-| 75 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
-| 76 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
+| 75 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
+| 76 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
 | 77 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
 | 78 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 |
-| 79 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
-| 80 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 |
+| 79 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 |
+| 80 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
 | 81 | [El Riesgo \- Vivo en Obras](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 |
 | 82 | [O No? \- En Vivo](https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Luna en Obras \(En Vivo\)](https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4) | 2:43 |
 | 83 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 |

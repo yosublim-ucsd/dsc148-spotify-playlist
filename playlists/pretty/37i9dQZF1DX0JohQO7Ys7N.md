@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Njerae takes over NairoBae with her top Kenyan love ballads\. Cover: Njerae
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,572 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,631 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

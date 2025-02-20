@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 187,
+  "num_followers": 91,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Crazy Blues: The Best Of Mamie Smith",
+        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Keep A Song In Your Soul",
+      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Blues Book and Beyond",
         "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Crazy Blues: The Best Of Mamie Smith",
-        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Keep A Song In Your Soul",
-      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 165589,
       "name": "Jack I'm Mellow",
       "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2024-06-02 16:39:20",

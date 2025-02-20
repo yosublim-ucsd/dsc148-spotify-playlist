@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-103 songs - 6 hr 20 min
+104 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Kala Sha Kala](https://open.spotify.com/track/5WlEghZayE7SbG5QJi4knC) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/3ghfzOtkMqb3XI19cn8zO6) | 3:15 | 2023-12-21 | 2024-04-19 |
 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 | 2022-07-16 | 2024-04-19 |
 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 | 2021-11-03 | 2024-09-20 |
-| [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 |  |
+| [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 | 2025-02-20 |
 | [Kale Rang Da Paranda](https://open.spotify.com/track/43eyn0fagFpmqT2Lb01oIP) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/5TKwqChkc5O0oErH2SPazL) | 2:22 | 2023-12-21 | 2024-04-19 |
 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 | 2021-11-03 |  |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 | 2021-11-03 |  |
@@ -75,6 +75,7 @@
 | [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 | 2023-09-02 |
 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 | 2023-08-17 |  |
 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 | 2024-10-03 |  |
+| [Latte Di Chaadar](https://open.spotify.com/track/750CbPOpDXypQF2tzaCwTA) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj), [Fusedhead](https://open.spotify.com/artist/2AYncTUJDzM5oo84LXFu0k) | [Latte Di Chaadar](https://open.spotify.com/album/2yu3Xji3BFHDIzXqlr71vR) | 2:30 | 2025-02-19 |  |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 | 2024-04-19 |
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |

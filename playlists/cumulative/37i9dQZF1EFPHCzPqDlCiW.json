@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/33ege18fnUmm373M0YrGDk"
+      },
+      "artists": [
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "365",
+      "url": "https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR"
+    },
+    {
+      "album": {
         "name": "37 Adventures Presents Odd Numbers Vol. 1",
         "url": "https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y"
       },
@@ -894,6 +912,24 @@
       "duration_ms": 238175,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf"
+    },
+    {
+      "album": {
+        "name": "Ex-Friend",
+        "url": "https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt"
+      },
+      "artists": [
+        {
+          "name": "Allie Sherlock",
+          "url": "https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "Ex-Friend",
+      "url": "https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw"
     },
     {
       "album": {

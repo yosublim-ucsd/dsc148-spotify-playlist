@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-180 songs - 8 hr 58 min
+182 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 | 2022-03-03 | 2022-07-15 |
 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2022-03-03 | 2022-05-27 |
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-03-03 | 2023-06-22 |
+| [Brisa](https://open.spotify.com/track/1Yq3YiBlTldgN2jJn3JTCW) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Brisa](https://open.spotify.com/album/0GuqxpAAAS5LSEEM7HD5sG) | 2:18 | 2025-02-19 |  |
 | [Butterfly Prélude](https://open.spotify.com/track/43TQM6nWsTmoUERr9UrYkf) | [Sina Vodjani](https://open.spotify.com/artist/01LOZBitoVFoGhrKQ8oBwD) | [Butterfly Prélude](https://open.spotify.com/album/1d2teMMmQOQ6fAoW7RTSTY) | 2:14 | 2022-10-07 |  |
 | [Cadence Of Hearts](https://open.spotify.com/track/0eW6mb6EWgD0flCMsvg26d) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Cadence Of Hearts](https://open.spotify.com/album/4kbHYQ42sOgJE870vk19Lv) | 2:15 | 2025-01-07 |  |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2022-03-03 |  |
@@ -151,6 +152,7 @@
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2022-03-03 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-03-03 | 2022-07-15 |
 | [Senza Fine](https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Senza Fine](https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59) | 3:05 | 2022-10-07 |  |
+| [Serenade](https://open.spotify.com/track/7MD29BNc56aTaxjlGF82CL) | [Viktor Dahlgren](https://open.spotify.com/artist/6VrIZ7a7y73WrXVliEqL45) | [Serenade](https://open.spotify.com/album/6Kv6CdSStZVhsXsqKGA1Wx) | 3:15 | 2025-02-19 |  |
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-03-03 | 2022-07-09 |
 | [Seul à nouveau](https://open.spotify.com/track/7MQ4bNNexc21xh5WjLNaqX) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Seul à nouveau](https://open.spotify.com/album/18hZtTW0wKoF5FdjcpNRPh) | 2:18 | 2022-09-02 |  |
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |

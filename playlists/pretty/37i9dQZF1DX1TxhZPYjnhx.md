@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,048 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,050 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 44 | [fragrance \- Remix](https://open.spotify.com/track/0XgI8qpDq9hR84Sh1weOtk) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R), [RINZO](https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [fragrance \(Remix\)](https://open.spotify.com/album/1BtVzJsMXQ1RdjDolztaVI) | 3:25 |
 | 45 | [Bad Girls Like You \- English Version](https://open.spotify.com/track/3oKi7Fp9JhDLTKaW6fZLwO) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Bad Girls Like You \(English Version\)](https://open.spotify.com/album/4YutPe6yvcZk8u1a6zZ4ao) | 3:06 |
 | 46 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
-| 47 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 47 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 48 | [The Grand Finale.](https://open.spotify.com/track/51Zl0O3Xz5rU84B2S0dZcD) | [TripleNoize](https://open.spotify.com/artist/5lqfhx6wc2CWCly0OwPBH6), [Aishah](https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb) | [The Grand Finale.](https://open.spotify.com/album/6S2nHQxFMaUSAHxZrAvJnx) | 1:43 |
 | 49 | [Tears of Faith](https://open.spotify.com/track/16ydiDJ9OyUuSMswFQ4WTZ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Tears of Faith](https://open.spotify.com/album/0W7xdEp1vtfIb72BbTFA91) | 2:45 |
 | 50 | [so happy that you're leaving](https://open.spotify.com/track/7ecb9oFRBLXGp5msJzvTSJ) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [so happy that you're leaving](https://open.spotify.com/album/7fha9XTlhPZREIf8pM7T36) | 2:03 |

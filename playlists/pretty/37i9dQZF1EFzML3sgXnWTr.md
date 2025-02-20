@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 15 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 |
 | 16 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
 | 17 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 |
-| 18 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
-| 19 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
+| 18 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
+| 19 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
 | 20 | [raggi gamma](https://open.spotify.com/track/6UEPZv9ZGcoZRxnkCq5C2p) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/7oMyjqYnpRhVYQKwjHrnFd) | 3:15 |
 | 21 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
 | 22 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 57 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
 | 58 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
 | 59 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
-| 60 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
-| 61 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 |
+| 60 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 |
+| 61 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 62 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 |
 | 63 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 
-Snapshot ID: `Abp8/gAAAAAVNnonaTUUDQQMbmWEiM0h`
+Snapshot ID: `AbqCngAAAADp5CHUh6qD9jGNc4fCre5o`

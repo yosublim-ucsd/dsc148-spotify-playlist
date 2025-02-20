@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,303 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,365 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 65 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
 | 66 | [Night And Day](https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
 | 67 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
-| 68 | [Our Love Is Here To Stay](https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:13 |
+| 68 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
 | 69 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
 | 70 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
-| 71 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 |
-| 72 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
+| 71 | [Our Love Is Here To Stay](https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:13 |
+| 72 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 |
 | 73 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:42 |
 | 74 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
 | 75 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |

@@ -10461,6 +10461,24 @@
     },
     {
       "album": {
+        "name": "operation wandering soul",
+        "url": "https://open.spotify.com/album/4Wi6FIHsFBaO6d1BsuQxpj"
+      },
+      "artists": [
+        {
+          "name": "Levi Ryan",
+          "url": "https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "economics of war",
+      "url": "https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt"
+    },
+    {
+      "album": {
         "name": "Obsolete",
         "url": "https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0"
       },

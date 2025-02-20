@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: PSYCHIC FEVER from EXILE TRIB
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,597 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,612 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 38 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
 | 39 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
 | 40 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
-| 41 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
-| 42 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
+| 41 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
+| 42 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
 | 43 | [雪明かり \(Yukiakari\)](https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/0sC7gPF7nafWA69qus9sxq) | 3:13 |
 | 44 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 45 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 |
 | 46 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 |
-| 47 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
-| 48 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
-| 49 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 |
+| 47 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
+| 48 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 |
+| 49 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
 | 50 | [Got Boost？](https://open.spotify.com/track/2IO82CijAxfwxLhOnDajhD) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Got Boost？ \(『仮面ライダーガヴ』主題歌\)](https://open.spotify.com/album/1TYeL46j0ro3Tl3IFgxIrW) | 3:12 |
 
 Snapshot ID: `Z7SgfwAAAADdCww5vjfnmk0i2sSAyYNV`

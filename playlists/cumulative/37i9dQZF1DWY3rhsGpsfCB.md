@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-719 songs - 1 day 13 hr 17 min
+720 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Is It Love?](https://open.spotify.com/track/4b6WZ23mT8hBW6qan9OK0D) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/7mnLeneuyGZ9V8l8YTbC25) | 3:27 | 2022-07-28 | 2023-03-04 |
 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 | 2024-06-28 | 2024-07-06 |
 | [It Was Real](https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W) | [D G](https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2) | [It Was Real](https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid) | 2:01 | 2024-05-08 | 2024-06-20 |
-| [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 | 2025-02-18 |
+| [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 |  |
 | [It's Okay to Cry](https://open.spotify.com/track/5aQLoihmDxkqiwrZA7uXKK) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [It's Okay to Cry](https://open.spotify.com/album/2l5Ts9EBIGWpBtkSeFHMWE) | 3:33 | 2022-06-24 | 2023-04-21 |
 | [Iyawo](https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Iyawo](https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa) | 3:12 | 2022-10-13 | 2022-10-29 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 | 2023-09-29 |
@@ -371,7 +371,7 @@
 | [Lovin](https://open.spotify.com/track/51sVIlW03AMTiCNcBiLBLm) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 3:41 | 2023-06-16 | 2023-10-21 |
 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan](https://open.spotify.com/artist/3pUxEfvD8SmdUQONUmfqZo) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 | 2023-04-14 | 2023-05-12 |
 | [Lucid Cruise 2.0](https://open.spotify.com/track/2vw9YvN1l0plaFQUW2zTdi) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lucid Cruise 2.0](https://open.spotify.com/album/0XouERt5OLjWYljfLNhg0K) | 3:17 | 2022-10-13 | 2022-12-02 |
-| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-29 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-29 | 2025-02-20 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-12-21 |  |
 | [Luv You](https://open.spotify.com/track/1UND1NooKdD1nW8zKLaSF9) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Luv You](https://open.spotify.com/album/6EMCwCvW8DACv8CdvhFcFQ) | 2:50 | 2024-01-26 | 2024-03-22 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-10-27 | 2024-05-09 |
@@ -424,7 +424,7 @@
 | [Nefertiti Complex](https://open.spotify.com/track/4ltzHo6YcHUz1kicimK4NK) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Nesha’s Cypher](https://open.spotify.com/album/0Q1jUGy3d5AG9G7zUjAeRo) | 4:11 | 2024-10-12 | 2024-11-22 |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-21 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 |  |
-| [No Budget](https://open.spotify.com/track/0nx07nrMTX6p9TIA6KnpKv) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Taboo](https://open.spotify.com/album/5uJy7i7jCXyGrMADO7wFjN) | 3:23 | 2025-01-17 |  |
+| [No Budget](https://open.spotify.com/track/0nx07nrMTX6p9TIA6KnpKv) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Taboo](https://open.spotify.com/album/5uJy7i7jCXyGrMADO7wFjN) | 3:23 | 2025-01-17 | 2025-02-20 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2023-02-24 |
 | [No Doubt](https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [No Doubt](https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD) | 2:09 | 2023-03-24 | 2023-04-28 |
 | [NO GO LIE](https://open.spotify.com/track/4g9Ir7rXdtFNvdTC2tUikT) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [NO GO LIE](https://open.spotify.com/album/17rLjk1Ju70Rnhclnn0d5j) | 2:46 | 2024-06-28 | 2024-07-06 |
@@ -467,6 +467,7 @@
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2024-10-04 |  |
 | [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-07-07 | 2022-12-02 |
 | [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 | 2022-07-07 | 2023-02-11 |
+| [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2025-02-19 |  |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-04 |  |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-25 |  |
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-11 | 2023-10-18 |

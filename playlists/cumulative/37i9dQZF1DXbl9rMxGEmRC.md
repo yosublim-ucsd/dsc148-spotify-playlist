@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-686 songs - 2 day 10 hr 53 min
+687 songs - 2 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Menschenmühle](https://open.spotify.com/track/4lOqPyvR1xRoZgyfjcbL0x) | [Kanonenfieber](https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ) | [Menschenmühle](https://open.spotify.com/album/3DYgnGw9mP20dNyMxEVKEJ) | 3:39 | 2024-06-03 | 2024-11-26 |
 | [Merkurius Gilded](https://open.spotify.com/track/6bpgcccrTm1A7peyCEzeQG) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Merkurius Gilded](https://open.spotify.com/album/3fzqUhl7vxsGzanjIxisKD) | 6:08 | 2022-06-10 | 2022-09-15 |
 | [Messiah](https://open.spotify.com/track/62Mx4j3cybbW4aXhogbtH4) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Demon Entrails](https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF) | 4:18 | 2022-07-13 | 2023-06-10 |
+| [Metal do Mangue](https://open.spotify.com/track/1slw3Q1svBC95d4u9DESXV) | [Overdose Nuclear](https://open.spotify.com/artist/6ETPHwoucESumSMB5Dlchb) | [Metal do Mangue](https://open.spotify.com/album/25oZ9JmHZRqgLZA9lCUAij) | 6:01 | 2025-01-30 |  |
 | [Minotaur](https://open.spotify.com/track/16y8mZmsvFCcn27BgUKnxB) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [Minotaur](https://open.spotify.com/album/1icUquytCDuaQTBZQXLpHT) | 4:04 | 2024-06-03 | 2024-10-08 |
 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-14 |  |
 | [Mokita](https://open.spotify.com/track/2eA9UzZtaP0rILXZKh88QX) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Mokita](https://open.spotify.com/album/2qrwjlmMCbJlFr160LEB7t) | 6:58 | 2022-04-01 | 2022-07-25 |
@@ -502,7 +503,7 @@
 | [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 |  |
 | [Saturn Coming Down](https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Saturn Coming Down](https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge) | 5:58 | 2024-07-03 | 2025-01-31 |
 | [Scars In The Landscape Of God](https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Nachthymnen / Orkblut \- The Retaliation](https://open.spotify.com/album/5DlUPLWGhIW5KcsS4zMYMI) | 6:13 | 2022-07-13 | 2022-07-24 |
-| [Scars of Light](https://open.spotify.com/track/3wtJCLvTRtV4F72NHmQTxU) | [Bedsore](https://open.spotify.com/artist/5voYmbejb8Nj564tCDZTBG) | [Dreaming the Strife for Love](https://open.spotify.com/album/3dI4ogkcAKYLp199rg7wVP) | 6:17 | 2025-01-30 |  |
+| [Scars of Light](https://open.spotify.com/track/3wtJCLvTRtV4F72NHmQTxU) | [Bedsore](https://open.spotify.com/artist/5voYmbejb8Nj564tCDZTBG) | [Dreaming the Strife for Love](https://open.spotify.com/album/3dI4ogkcAKYLp199rg7wVP) | 6:17 | 2025-01-30 | 2025-02-20 |
 | [Schmutzliebe](https://open.spotify.com/track/2hZpva43iZT1fFn6MNNghM) | [Eisregen](https://open.spotify.com/artist/3peZFZBRhRGd1lTTsNmaPM) | [Schmutzliebe](https://open.spotify.com/album/18L0qYW1hjLLbVEMwCabUu) | 4:39 | 2024-07-03 | 2024-11-08 |
 | [Scorched Quadrant](https://open.spotify.com/track/2jEtngpITq9GPbxN9aRbGc) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Singularity \(Phase II \- Xenotaph\)](https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o) | 5:05 | 2023-06-23 | 2024-04-19 |
 | [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 |  |

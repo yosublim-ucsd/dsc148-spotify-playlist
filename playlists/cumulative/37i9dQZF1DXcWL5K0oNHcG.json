@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 249626,
       "name": "DIVING",
       "url": "https://open.spotify.com/track/3oMPDxM5Spr0xrogEGmnLM"
@@ -15574,7 +15574,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 313391,
       "name": "Los Otros Yo",
       "url": "https://open.spotify.com/track/6D612HJ04L7GK8uJUN9j8w"
@@ -16308,6 +16308,36 @@
       "duration_ms": 211000,
       "name": "Mass Driver",
       "url": "https://open.spotify.com/track/2vHYvii2Gx6PYHo5PwW3LQ"
+    },
+    {
+      "album": {
+        "name": "Matilde",
+        "url": "https://open.spotify.com/album/3s0HKjdwhEFLZ1jVanVYl6"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Strino",
+          "url": "https://open.spotify.com/artist/14P9JtTJQeeZn3ZeWvDNm8"
+        },
+        {
+          "name": "Claudio Vignali",
+          "url": "https://open.spotify.com/artist/0RZS4uz4GbD6K9ZOpOFN5S"
+        },
+        {
+          "name": "Giulio Corini",
+          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
+        },
+        {
+          "name": "Zeno De Rossi",
+          "url": "https://open.spotify.com/artist/2F44YptoDPumto13JBMhR5"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302317,
+      "name": "MATILDE",
+      "url": "https://open.spotify.com/track/4JMIDWR7g6jYlXUSCd9Nds"
     },
     {
       "album": {
@@ -31618,6 +31648,28 @@
       "duration_ms": 136082,
       "name": "Yukiwata",
       "url": "https://open.spotify.com/track/6kFd2jKQFadILP7GB8rxmQ"
+    },
+    {
+      "album": {
+        "name": "YUMI",
+        "url": "https://open.spotify.com/album/1wz86niXEGhLEkpbiqVrTa"
+      },
+      "artists": [
+        {
+          "name": "hoshii",
+          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159769,
+      "name": "YUMI",
+      "url": "https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws"
     },
     {
       "album": {

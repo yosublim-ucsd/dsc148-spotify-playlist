@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-118 songs - 5 hr 22 min
+121 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [One Step Closer \- Rain Version](https://open.spotify.com/track/1CqQ5ess43IRjD0zpGD8O3) | [Jeick Abrego](https://open.spotify.com/artist/6mKCZrIwfOeiBv3YOAl8Nj) | [One Step Closer \(Rain Version\)](https://open.spotify.com/album/7HlxAPOOZTcS4km3W7skge) | 2:14 | 2023-03-13 | 2023-04-25 |
 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 | 2023-04-24 |  |
 | [Open Window](https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [Open Window](https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU) | 2:42 | 2024-01-09 |  |
+| [Outside your window](https://open.spotify.com/track/2WvDamw9w5qkA7IcoPPWcn) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Outside your window](https://open.spotify.com/album/3MiUva5NWt51EzvXvNm9l2) | 2:37 | 2025-02-19 |  |
 | [Over Blue Hills](https://open.spotify.com/track/1H37OB8lPFyCiRpPlsphjF) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Good Morning World](https://open.spotify.com/album/5e3dQZEGHwwoZJ4gmaVBiU) | 2:20 | 2023-03-13 |  |
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-13 |  |
 | [Piano In The Rain](https://open.spotify.com/track/45COIvvOsEigCZY5H8C8zY) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Stillness Of Heart](https://open.spotify.com/album/3yI4HKLb8uDmx15Vj9ZvW7) | 3:20 | 2023-03-13 | 2025-01-30 |
@@ -87,6 +88,7 @@
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |
 | [Resurrecting](https://open.spotify.com/track/7g0BGcIU3aEIA5OZlNc9DH) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Resurrecting](https://open.spotify.com/album/2cIYxDn90225ueUWEVy9Gp) | 3:04 | 2024-09-03 |  |
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-13 |  |
+| [Revisiter Gaude](https://open.spotify.com/track/2Cness0syUHeLISBwNiq6m) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Revisiter Gaude](https://open.spotify.com/album/1EjKIFt71gpsMwV0phDRYn) | 3:01 | 2025-02-19 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-13 | 2023-10-20 |
 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 | 2024-03-20 |  |
 | [Seedlings](https://open.spotify.com/track/0z49vRcUNgQFpzRSkfOrKA) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Seedlings](https://open.spotify.com/album/68sG1nEUrWakDNJm4MaVW7) | 2:48 | 2024-05-24 |  |
@@ -96,6 +98,7 @@
 | [Soothing Raindrops](https://open.spotify.com/track/6U0aQFWE7BJj3WSxE0Q8oG) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Rain & Piano \- vol.1](https://open.spotify.com/album/7rhRA2bs7V7dpaDqRhIPce) | 3:40 | 2023-03-13 |  |
 | [Sparkling Raindrops](https://open.spotify.com/track/5XGEqEZcTEazxrjUKxdmqe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel The Rain](https://open.spotify.com/album/1xed5PITjxBUJt7JD5aK0b) | 2:07 | 2023-10-19 | 2024-04-19 |
 | [Sparkling Raindrops](https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel the Rain](https://open.spotify.com/album/630CuaflRgHBARUoVuUJQ7) | 2:07 | 2023-03-13 |  |
+| [stellar \(rain\)](https://open.spotify.com/track/49U681ES06dlwb2MXQt2Qc) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [stellar \(rain\)](https://open.spotify.com/album/3j2cqluNuM3ud5ZWljjiBq) | 2:14 | 2025-02-19 |  |
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-03-13 |  |
 | [Summer Rain With Piano](https://open.spotify.com/track/407llJbsp5jZ9krtjlqE0O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:32 | 2023-03-13 |  |
 | [Summer Rainbow](https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [Summer Rainbow](https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z) | 2:58 | 2023-04-24 |  |

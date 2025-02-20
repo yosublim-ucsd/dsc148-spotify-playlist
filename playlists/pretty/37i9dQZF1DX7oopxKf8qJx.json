@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 110927,
+  "num_followers": 110975,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Film Festival",
-        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
-      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Film Festival",
+        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
+      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 216960,
       "name": "Autumn in New York",
       "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Hatari!",
         "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 203493,
       "name": "Night Side",
       "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -539,34 +539,34 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
     },
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Let's Go Bowling (Remastered)",
-        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
         }
       ],
-      "duration_ms": 162186,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
+      "duration_ms": 197453,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -603,18 +603,34 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Let's Go Bowling (Remastered)",
+        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -667,6 +683,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -683,38 +715,6 @@
       "duration_ms": 191066,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -747,6 +747,54 @@
       "duration_ms": 179066,
       "name": "Megeve",
       "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "And Awaaay We Go! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Melancholy Serenade",
+      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -787,38 +835,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Her (Expanded Edition)",
         "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 225226,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "And Awaaay We Go! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Melancholy Serenade",
-      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music From Hollywood",
-        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 351559,
-      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
-      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Hollywood Love Themes",
         "url": "https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 176240,
       "name": "Islands In The Sky",
       "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music From Hollywood",
+        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 351559,
+      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
+      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
     },
     {
       "added_at": "2024-07-17 14:53:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,565 likes - 135 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,643 likes - 135 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 6 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 |
 | 7 | [Endlich](https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Endlich](https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB) | 2:10 |
 | 8 | [Juliet Rose](https://open.spotify.com/track/5eiXYdSRFd48jBqnQrw83h) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Juliet Rose](https://open.spotify.com/album/1z8NJlHqLWNVCkh3jbpL6T) | 2:02 |
-| 9 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 |
-| 10 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
-| 11 | [Coolidge](https://open.spotify.com/track/7GOh8ao0Eiagy8av0dj8AF) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Coolidge](https://open.spotify.com/album/0kPJUFSeRLG1eVr1mdtHtl) | 2:16 |
-| 12 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
+| 9 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
+| 10 | [Coolidge](https://open.spotify.com/track/7GOh8ao0Eiagy8av0dj8AF) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Coolidge](https://open.spotify.com/album/0kPJUFSeRLG1eVr1mdtHtl) | 2:16 |
+| 11 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
+| 12 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 |
 | 13 | [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 |
 | 14 | [Subtilité](https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Subtilité](https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s) | 2:55 |
-| 15 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 |
-| 16 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
-| 17 | [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 |
-| 18 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 15 | [Time will tell](https://open.spotify.com/track/09RgTeJ2qVXKq0TVpiHRyN) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Time will tell](https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM) | 2:19 |
+| 16 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 17 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
+| 18 | [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 |
 | 19 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 |
-| 20 | [Still Yours](https://open.spotify.com/track/4HKlfqgc9zpAzEv4GCnEn9) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Still Yours](https://open.spotify.com/album/2pgj2Jhrw1u9TZuXHwZzvU) | 2:43 |
-| 21 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
-| 22 | [Time will tell](https://open.spotify.com/track/09RgTeJ2qVXKq0TVpiHRyN) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Time will tell](https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM) | 2:19 |
+| 20 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 |
+| 21 | [Still Yours](https://open.spotify.com/track/4HKlfqgc9zpAzEv4GCnEn9) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Still Yours](https://open.spotify.com/album/2pgj2Jhrw1u9TZuXHwZzvU) | 2:43 |
+| 22 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
 | 23 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
 | 24 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 |
 | 25 | [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 134 | [Seeking Peace](https://open.spotify.com/track/74eaTXKxwzYbDiRrk3tuDG) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [Seeking Peace](https://open.spotify.com/album/7gW9EjAmEafsT7eii28A4w) | 2:36 |
 | 135 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
 
-Snapshot ID: `Z5kM4gAAAAA0RaXxdmjCLoWsjmA/J+01`
+Snapshot ID: `Z7XRswAAAABHHKotcOBjUCzouyDgyww+`

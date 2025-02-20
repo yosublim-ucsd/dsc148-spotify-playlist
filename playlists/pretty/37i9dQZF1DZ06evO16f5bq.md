@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,692 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,746 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/5GA87BDfz4ghU7ORc7mUfW"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166579,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/3qqzN4M8JPVU7kAv42KyGh"
+    },
+    {
+      "album": {
         "name": "Balcony Hotel (From 'Miss')",
         "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
@@ -1531,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 2 / Debussy: Canope",
         "url": "https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH"
       },
@@ -2490,6 +2526,24 @@
       "duration_ms": 198120,
       "name": "Of Twilight Skies",
       "url": "https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln"
+    },
+    {
+      "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279533,
+      "name": "Oil on Wood",
+      "url": "https://open.spotify.com/track/1Lh7HHShT4nchZts6JPyW2"
     },
     {
       "album": {

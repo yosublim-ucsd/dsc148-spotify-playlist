@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 249955,
+  "num_followers": 249990,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -423,38 +423,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Cinco Estrellas",
-      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Mayores",
         "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 202453,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Cinco Estrellas",
+      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1491,6 +1471,46 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Nos Comemos Vivos",
+      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 197602,
       "name": "B de Bellako - Remix",
       "url": "https://open.spotify.com/track/21cBIFpuYb5IEOm1BltCk3"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Pol\u00e9mica",
         "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 151718,
       "name": "Pol\u00e9mica",
       "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Luces Tenues",
-        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Luces Tenues",
-      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Luces Tenues",
+        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Luces Tenues",
+      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "Shampoo de Coco",
+        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Shampoo de Coco",
+      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "BYAK",
         "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Shampoo de Coco",
-        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Shampoo de Coco",
-      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -2011,22 +2011,42 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
         }
       ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -2051,26 +2071,6 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
     }
   ],
   "unique_name": "Perrea en tu Cuarto",

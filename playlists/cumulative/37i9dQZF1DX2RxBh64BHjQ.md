@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">GELO</a>
 
-2,173 songs - 4 day 0 hr 48 min
+2,174 songs - 4 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj) | 1:41 | 2025-01-10 |  |
 | [Don’t Know How to Act](https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Don’t Know How to Act](https://open.spotify.com/album/3x7KJhTpePcXWU5TPMusWu) | 2:00 | 2022-05-06 | 2022-08-27 |
 | [DOOF](https://open.spotify.com/track/4iVo9qeKZIUPlOSUrt8HUM) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [DOOF](https://open.spotify.com/album/011eVjeb8VxekyuzA1LZ8V) | 2:01 | 2022-05-06 | 2022-07-09 |
+| [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 | 2025-02-19 |  |
 | [Dope Game](https://open.spotify.com/track/2QrFxF0HAlK7Ik91PELa7a) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Dope Game](https://open.spotify.com/album/3opfzTXEIwJxhXamjiAD7L) | 3:11 | 2021-11-05 | 2022-02-05 |
 | [Dope Hole](https://open.spotify.com/track/69utS8oEmURkyhcNp99Eq4) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Fresh Out The Trenches](https://open.spotify.com/album/6BqhVDaCOylpg7UJduEmJ5) | 1:33 | 2024-06-14 | 2024-08-10 |
 | [DOUBLE C'S](https://open.spotify.com/track/1qyxY6QPNfoTEsAeWpl6Fw) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [DOUBLE C'S](https://open.spotify.com/album/041Ob2CNpT4FRvtYLcb4bd) | 2:28 | 2024-02-16 | 2024-03-02 |
@@ -1435,7 +1436,7 @@
 | [Own Lane](https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Own Lane](https://open.spotify.com/album/2BnHWc2Qd2bCRfBHASeZUv) | 2:40 | 2024-08-09 | 2024-10-05 |
 | [Paid N Full](https://open.spotify.com/track/3REpr1UkjBwH8SH882OCyB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Paid N Full](https://open.spotify.com/album/0VCSuK23ItA0Z5zftN1JoX) | 2:11 | 2025-01-24 | 2025-02-01 |
 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 | 2024-01-26 |  |
-| [Pain](https://open.spotify.com/track/5TcpDQHyQGxlYsn0kzJKV8) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Pain](https://open.spotify.com/album/0nzs8OMSoCNG2MYTdF0TH7) | 2:04 | 2025-02-07 |  |
+| [Pain](https://open.spotify.com/track/5TcpDQHyQGxlYsn0kzJKV8) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Pain](https://open.spotify.com/album/0nzs8OMSoCNG2MYTdF0TH7) | 2:04 | 2025-02-07 | 2025-02-20 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-17 | 2023-06-24 |
 | [PAMPER PAMPER](https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/6H565RedLjINKxrjk1RBz6) | 1:52 | 2023-08-18 | 2023-10-07 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-03-18 |

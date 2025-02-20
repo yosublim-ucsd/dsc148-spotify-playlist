@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-921 songs - 1 day 15 hr 21 min
+924 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-07 | 2022-11-12 |
 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 | 2024-05-14 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2021-12-07 | 2023-09-27 |
+| [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 | 2025-02-19 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2021-12-07 | 2022-10-25 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2021-12-07 | 2023-03-09 |
 | [Amour perdu](https://open.spotify.com/track/1sAsclZEYoNjzUmopro1aN) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Amour perdu](https://open.spotify.com/album/1dY0LogeBi0BFu1C2joxCf) | 2:19 | 2021-12-07 | 2022-05-06 |
@@ -278,6 +279,7 @@
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 | 2022-10-25 |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 | 2022-02-02 |
 | [Flyt](https://open.spotify.com/track/55gJkKxdKrZqDG6BhzsKc9) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Flyt](https://open.spotify.com/album/744jiUzIyyAhSQjxoPcQWT) | 2:18 | 2022-10-04 | 2025-01-29 |
+| [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 | 2025-02-19 |  |
 | [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-12-07 | 2022-09-24 |
 | [For Alfie](https://open.spotify.com/track/5zWxUnGyMIQOhOhDUcfbQ3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [For Alfie](https://open.spotify.com/album/6IDc0jP7lINFNfIg9dynCV) | 2:26 | 2022-07-19 | 2023-09-23 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-17 | 2022-10-25 |
@@ -761,6 +763,7 @@
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2021-12-07 | 2023-10-07 |
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-12-07 | 2022-10-14 |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-12 | 2022-11-25 |
+| [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Volaire](https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 | 2025-02-19 |  |
 | [The Conversation](https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [The Conversation](https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy) | 2:04 | 2023-11-13 |  |
 | [The Core Of You And Me](https://open.spotify.com/track/5IsRo9BBiKznH7DtTQiOTv) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Stoa](https://open.spotify.com/album/0CQUjvhGk0QX52BNYL5zlP) | 2:00 | 2024-01-03 | 2024-04-19 |
 | [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-20 | 2024-01-05 |

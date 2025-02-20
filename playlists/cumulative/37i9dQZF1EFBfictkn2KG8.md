@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-47 songs - 2 hr 11 min
+48 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 | 2024-06-13 |  |
 | [Life](https://open.spotify.com/track/1HgjoA630jkSVIaEae16hW) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/3bNuNikQV86Lj8DrdvDYCr) | 2:54 | 2024-06-13 |  |
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 | 2024-06-13 |  |
+| [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 | 2025-02-19 |  |
 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 | 2024-06-13 |  |
 | [Maybe](https://open.spotify.com/track/6t3p46iojKrsOln9fazd23) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Maybe](https://open.spotify.com/album/5QB6qx8rvfe52nHrialFPJ) | 2:33 | 2024-06-13 |  |
 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 | 2025-02-14 |  |

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-799 songs - 1 day 10 hr 43 min
+804 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Telegraph Smile](https://open.spotify.com/track/3xPDUGGusnXo4BzYOuuuVZ) | [Glen Beasley](https://open.spotify.com/artist/1tE58bEflq4eNizffO3Au1) | [A Telegraph Smile](https://open.spotify.com/album/5EPw5sn3QLPMLSUYgFPqg8) | 2:45 | 2024-07-19 |  |
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Acamchula Creeks](https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Acamchula Creeks](https://open.spotify.com/album/3VjF1M6fwo4rYHScvsT1Md) | 2:31 | 2022-10-07 | 2024-06-28 |
+| [Across the Divide](https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Across the Divide](https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ) | 2:28 | 2025-02-19 |  |
 | [Across the Pavement](https://open.spotify.com/track/51Tnos6jL6P1FvJtXzxBk1) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Across the Pavement](https://open.spotify.com/album/69PoP6QUOXVPVyvJJdS2hp) | 2:14 | 2023-12-15 | 2024-07-19 |
 | [Across the Wide Field](https://open.spotify.com/track/5YaAixCoWRYntnj0YZaju0) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Across the Wide Field](https://open.spotify.com/album/6onm99uKAASW9GYfkvLR6v) | 2:47 | 2024-09-03 |  |
 | [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 |  |
@@ -203,6 +204,7 @@
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 |  |
 | [Dreams you couldn't follow](https://open.spotify.com/track/2CyT7LpArgmWWcSdOITJZK) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dreams you couldn't follow](https://open.spotify.com/album/3wP9D613xVXJG7mwm8038z) | 2:34 | 2024-01-12 |  |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
+| [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
 | [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 | 2022-07-01 | 2022-12-10 |
 | [Du Soleil À La Mer](https://open.spotify.com/track/3fGsSYCfdzbHQ85ZVpofdl) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Du Soleil À La Mer](https://open.spotify.com/album/3xRqtHCfsbwiHnLXZZ2m0E) | 2:14 | 2022-09-23 | 2024-06-15 |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-05-12 |  |
@@ -403,6 +405,7 @@
 | [Lingering Thoughts](https://open.spotify.com/track/1K6EHDgY0pA4Pz8VUzKF26) | [Graham Matheson](https://open.spotify.com/artist/6ueD2UQZleDy48zMyvmt4e) | [Lingering Thoughts](https://open.spotify.com/album/2D9nlP0XvJVp8TkA9VMqCk) | 2:11 | 2023-11-24 | 2024-07-19 |
 | [Llamame e Insiste](https://open.spotify.com/track/7xWSsd19uqn3nuEhPz1uG3) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Llamame e Insiste](https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2) | 3:00 | 2021-12-08 | 2022-06-17 |
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2021-12-08 | 2023-03-10 |
+| [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 | 2025-02-19 |  |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 | 2024-07-19 |
 | [Looking Back](https://open.spotify.com/track/3TqzaJD4HmqMbkoE89KVqs) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Looking Back](https://open.spotify.com/album/3d2ciBnLO3mPNujDOpOTB7) | 2:36 | 2024-10-15 |  |
@@ -496,13 +499,14 @@
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 | 2024-10-02 |
 | [Old Novels](https://open.spotify.com/track/7qBvJvJkz9RAOwzAzxukbH) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Old Novels](https://open.spotify.com/album/6SGa8dYeTFicb8ORNNr33j) | 2:08 | 2023-08-10 |  |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2024-04-05 |
+| [On This Day](https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [On This Day](https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch) | 2:07 | 2025-02-19 |  |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2021-12-08 | 2023-03-10 |
 | [One More Midnight](https://open.spotify.com/track/3OxMslcb0NF0Calpo8GxHW) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [One More Midnight](https://open.spotify.com/album/2hsyVpCsOYeejMM1GSrorb) | 2:40 | 2021-12-08 | 2023-04-22 |
 | [One Wish](https://open.spotify.com/track/2bF4PjkcCw5ciubd2xQk3Y) | [Lance Takamiya](https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS) | [One Wish](https://open.spotify.com/album/7pX9TLAfPGYS0SwHON8Tzr) | 2:33 | 2022-05-27 | 2022-08-19 |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-02-24 | 2023-06-03 |
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
 | [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-02-01 | 2023-10-13 |
-| [Open Pastures](https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Open Pastures](https://open.spotify.com/album/3TmObRJYYizSF72Qs9IY5K) | 3:17 | 2024-02-23 |  |
+| [Open Pastures](https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Open Pastures](https://open.spotify.com/album/3TmObRJYYizSF72Qs9IY5K) | 3:17 | 2024-02-23 | 2025-02-20 |
 | [Oregon](https://open.spotify.com/track/69D1Ca2iYLMhc6EZPSzhg3) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Oregon](https://open.spotify.com/album/7o8FZ1eqbZc7Q4i9FRBAfv) | 2:19 | 2024-05-24 |  |
 | [Oshoshina](https://open.spotify.com/track/1ZUzQ8QlodbTIJdEVCnOlA) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Oshoshina](https://open.spotify.com/album/1e8hNICSZneSSvoKx8plS6) | 2:10 | 2022-09-02 | 2022-12-10 |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-08 | 2022-07-01 |
@@ -640,6 +644,7 @@
 | [Spring Awakening](https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:43 | 2021-12-08 | 2022-06-17 |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 |  |
 | [Sprössling](https://open.spotify.com/track/1g6ezK2BBrM9R97O8SlJsW) | [Clio Rene](https://open.spotify.com/artist/5VgxvrFuxQwGnqyqxGIFjo) | [Sprössling](https://open.spotify.com/album/3s2rTpIa7ZXdX2d4VrvzYy) | 2:31 | 2021-12-08 | 2024-04-05 |
+| [Spur of The Moment](https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Spur of The Moment](https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl) | 2:32 | 2025-02-19 |  |
 | [Squares](https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Squares](https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4) | 3:06 | 2024-12-10 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-13 |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2021-12-08 | 2022-04-06 |
@@ -732,7 +737,7 @@
 | [Venezia](https://open.spotify.com/track/4m7vJDwcKHUTMiWFjAJUEi) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:52 | 2021-12-08 | 2022-06-17 |
 | [Ventu](https://open.spotify.com/track/4ebV91KN1CGEbv1lliKQtk) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [Meze](https://open.spotify.com/album/7I11pywRdnJvVDlLSusWNg) | 3:14 | 2021-12-08 | 2022-07-08 |
 | [Verlorenes Glück](https://open.spotify.com/track/4cAT9a3DWt0smBFsmC7WEt) | [Lisa Tutti](https://open.spotify.com/artist/3l6n7qWmVJ0c8XquSgiFNX) | [Regental](https://open.spotify.com/album/6NGhehTZxgqdp8yZGHao3F) | 3:04 | 2021-12-08 | 2022-02-02 |
-| [Versailles](https://open.spotify.com/track/6zJhV0LU1znSjUjt5e30Rw) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Versailles](https://open.spotify.com/album/7C1KpngaLKA2F3lktqtmGc) | 2:40 | 2024-06-14 |  |
+| [Versailles](https://open.spotify.com/track/6zJhV0LU1znSjUjt5e30Rw) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Versailles](https://open.spotify.com/album/7C1KpngaLKA2F3lktqtmGc) | 2:40 | 2024-06-14 | 2025-02-20 |
 | [Viento Verde](https://open.spotify.com/track/5RQeIDANgnsWqY9rqHgFG6) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:18 | 2021-12-08 | 2022-09-03 |
 | [Vieques](https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:43 | 2021-12-08 | 2024-04-05 |
 | [View From an Ocean Window](https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [View From an Ocean Window](https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE) | 2:54 | 2024-03-29 |  |

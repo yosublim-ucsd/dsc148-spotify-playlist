@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553136,
+  "num_followers": 553158,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Black Flame",
-        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 233964,
-      "name": "Black Flame - Single Edit",
-      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 346294,
       "name": "Dante",
       "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Black Flame",
+        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 233964,
+      "name": "Black Flame - Single Edit",
+      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Bang Ya Head (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 251512,
       "name": "The End of All We Know",
       "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Bang Ya Head (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Self-Destructive Pattern",
-        "url": "https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w"
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
       "artists": [
         {
-          "name": "Spineshank",
-          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Smothered",
-      "url": "https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt"
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "Self-Destructive Pattern",
+        "url": "https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Blood, the Sweat, the Tears",
-      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+      "duration_ms": 190840,
+      "name": "Smothered",
+      "url": "https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

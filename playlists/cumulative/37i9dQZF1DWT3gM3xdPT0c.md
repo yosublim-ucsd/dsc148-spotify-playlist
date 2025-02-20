@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-396 songs - 17 hr 0 min
+399 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-10 |  |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
+| [Forever Grounded](https://open.spotify.com/track/2h4v1EDoBJTZUCrKGeWhDE) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Forever Grounded](https://open.spotify.com/album/4h662lhfF1VNQyHKwXrQp0) | 2:39 | 2025-02-19 |  |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 | 2024-04-06 |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
 | [From the quiet of morning](https://open.spotify.com/track/2d0WQKmbTMN8vmed05V9zj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [From the quiet of morning](https://open.spotify.com/album/5DtoqlQ7kshpTlcHhwD9z3) | 2:25 | 2025-01-28 |  |
@@ -252,6 +253,7 @@
 | [Nice](https://open.spotify.com/track/2KGBA1oetwZigO3KXRYZk6) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nice](https://open.spotify.com/album/3e96nxcQuXexBdHU5J7jxK) | 2:21 | 2024-09-03 |  |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 | 2022-03-04 | 2022-05-27 |
+| [Noches de Verano](https://open.spotify.com/track/6WgdDqNW1gwz1v1VjJkYQ0) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Noches de Verano](https://open.spotify.com/album/5gRGJRTNMaPjOWFCOjZ142) | 2:32 | 2025-02-19 |  |
 | [Nostálgica](https://open.spotify.com/track/4KirUMRCdO6e9dzltUqHoN) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Granada](https://open.spotify.com/album/4hSlCERBN8RHcmwYugUOUK) | 2:52 | 2022-03-04 | 2022-05-27 |
 | [Notes From You](https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Notes From You](https://open.spotify.com/album/766uQUBNRxBQ6vV3Ci7nd5) | 2:54 | 2023-01-13 | 2023-10-13 |
 | [Now I Am Older](https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Now I Am Older](https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod) | 2:00 | 2024-02-23 |  |
@@ -348,7 +350,7 @@
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 | 2024-05-24 |
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-25 |
-| [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 |  |
+| [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 | 2025-02-20 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 |  |
 | [The Sun Is a Gift](https://open.spotify.com/track/5UHGm6KfaM0RcutxxYBh33) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [The Sun Is a Gift](https://open.spotify.com/album/3VVQEMWToUITIx6as34Kbe) | 2:50 | 2024-06-07 |  |
 | [Thinking about it](https://open.spotify.com/track/0J9rvtU9iZoFj7waxghpP0) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Thinking about it](https://open.spotify.com/album/4tU1mY6YNfi0bhXVTLvoiZ) | 1:45 | 2025-01-13 |  |
@@ -382,6 +384,7 @@
 | [Warm Winds](https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [Warm Winds](https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP) | 2:56 | 2024-07-29 |  |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-09 | 2023-08-26 |
 | [Waves](https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Waves](https://open.spotify.com/album/00016y6rEQmuv4JGNL6w4c) | 2:57 | 2022-10-07 | 2023-05-10 |
+| [We Were Young](https://open.spotify.com/track/21fcHcfvj4dBRZiN5GYbgR) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [We Were Young](https://open.spotify.com/album/7C8NMerY7mfa2jk2xrgboG) | 2:30 | 2025-02-19 |  |
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |
 | [Weekend Blues](https://open.spotify.com/track/0l7mN70fiUJ0Q3HacqvKEU) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Weekend Blues](https://open.spotify.com/album/6oZvFXORprCDaGJ1t0Gmde) | 3:05 | 2022-10-28 | 2023-03-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-08-26 |

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi"
+    },
+    {
+      "album": {
         "name": "THIS IS NOT AN EXIT",
         "url": "https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh"
       },

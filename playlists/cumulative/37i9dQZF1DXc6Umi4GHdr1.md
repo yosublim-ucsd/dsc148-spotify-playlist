@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-407 songs - 18 hr 6 min
+412 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Compelling Voice](https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Compelling Voice](https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir) | 2:15 | 2024-02-02 | 2024-07-18 |
 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 | 2024-06-07 |  |
 | [Contemplacion](https://open.spotify.com/track/5VwqDvZOyX2MVPlfr0jLmd) | [Classical Guitar Masters](https://open.spotify.com/artist/7ctJVvTo1OFEHP1YgNAKzm) | [Simple Guitar Classics](https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma) | 3:43 | 2022-06-24 | 2023-03-10 |
+| [Corne de Brume](https://open.spotify.com/track/0hxWHv0BR6EfnrXZjws1gX) | [Sofiane Rais](https://open.spotify.com/artist/6ahp8GjmBg7SGvEOUoyLdk) | [Corne de Brume](https://open.spotify.com/album/31RA9qC44E9VjSclo18ejS) | 2:21 | 2025-02-19 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-10 | 2024-06-28 |
 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 | 2024-03-29 |  |
 | [Cradle](https://open.spotify.com/track/6cEC34q3A0RQNSthy6UtwK) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Cradle](https://open.spotify.com/album/6L684rP3Pe8ChjjYQJTUTu) | 2:22 | 2022-10-28 | 2024-07-18 |
@@ -135,6 +136,7 @@
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 | 2023-05-27 |
 | [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 | 2024-11-06 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
+| [From the quiet of morning](https://open.spotify.com/track/2d0WQKmbTMN8vmed05V9zj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [From the quiet of morning](https://open.spotify.com/album/5DtoqlQ7kshpTlcHhwD9z3) | 2:25 | 2025-02-19 |  |
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 | 2023-03-10 |
 | [Gently](https://open.spotify.com/track/2J0RzVJwZY4wa0Yz7Lw1av) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Gently](https://open.spotify.com/album/420Td1UnPDoBlZ56t3sVDl) | 2:02 | 2023-05-26 | 2023-06-16 |
 | [Glasstein](https://open.spotify.com/track/07q8iSWZqva1YDK65LjDms) | [Hans Gomm](https://open.spotify.com/artist/07e4xZ71yEbqm5YGBae1gs) | [Glasstein](https://open.spotify.com/album/6xDVBjvLuvkM7mn99k79hz) | 2:56 | 2021-12-10 | 2024-04-06 |
@@ -250,7 +252,7 @@
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 | 2024-05-10 |
 | [Paradise Cove](https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Paradise Cove](https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw) | 4:16 | 2021-12-10 | 2022-07-22 |
 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 | 2023-09-29 |  |
-| [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 |  |
+| [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 | 2025-02-20 |
 | [Path To Nowhere](https://open.spotify.com/track/1ZHAE8T4OUQ9zySQ6B83Qw) | [Mysha Carney](https://open.spotify.com/artist/3dvsn9GPd4lnOCek1zZDIO) | [Path To Nowhere](https://open.spotify.com/album/6l5u0lxJyTycWNjYsG8lCV) | 1:44 | 2023-01-06 | 2023-08-26 |
 | [Patience](https://open.spotify.com/track/6vGf7wIn46MKihhx4SmUP8) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Patience](https://open.spotify.com/album/5zGoefDL4YQlLOkNFkL8PW) | 2:53 | 2024-02-02 | 2024-06-07 |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |
@@ -260,6 +262,7 @@
 | [Pitaya](https://open.spotify.com/track/0qkLFOcaTCaFFwxh1uk9Mr) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pitaya](https://open.spotify.com/album/4hCqAS4S5aVEROwsfbiAXr) | 2:57 | 2023-10-27 | 2024-11-07 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
+| [Poiesis](https://open.spotify.com/track/7hSK2DhjRWb7lYeKJt0Amx) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Poiesis](https://open.spotify.com/album/5tdd6ANq3HDo1B88wFDbfF) | 2:18 | 2025-02-19 |  |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
 | [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 | 2022-11-25 | 2023-05-27 |
 | [Preludio Saudade: La Catedral](https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Georg Gulyás](https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC) | [Georg Gulyás Plays Barrios](https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V) | 2:23 | 2022-11-25 | 2023-03-10 |
@@ -319,6 +322,7 @@
 | [Spanish Steps](https://open.spotify.com/track/37S75qoyg4krilHAbcjXKR) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Spanish Steps](https://open.spotify.com/album/7Ekprz3IY9W6R8LrtS1ZQD) | 2:34 | 2024-02-02 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-07-22 |
 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 | 2024-02-02 |  |
+| [Spring](https://open.spotify.com/track/7LmY3dnBHdydQy0tm8jmXh) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Spring](https://open.spotify.com/album/6REvjQF5DLaAgITKUq4HCd) | 2:31 | 2025-02-19 |  |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-03-31 | 2023-06-16 |
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-11 |  |
 | [Sternentanz](https://open.spotify.com/track/2o0rYiDgx8pxj4oMh75IUY) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Polarlicht](https://open.spotify.com/album/58l5dLoV97z5mL6DBTPFVD) | 4:13 | 2022-10-07 | 2023-05-27 |
@@ -366,6 +370,7 @@
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 | 2024-04-20 |
 | [To The Brim](https://open.spotify.com/track/0DbVOryVKBRdOFgfhPYok4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [To The Brim](https://open.spotify.com/album/0v0QEp2zydw5qHPNWwVebn) | 2:09 | 2025-01-07 |  |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 |  |
+| [Too Soon to Tell](https://open.spotify.com/track/45kY29wtAE6MMJcvCXZYhP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Too Soon to Tell](https://open.spotify.com/album/0GUNid0wDuvNNWVuq16wbr) | 1:42 | 2025-02-19 |  |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Transcriptions](https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Transcriptions](https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s) | 2:50 | 2024-05-10 |  |
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Bouss
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,643 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,701 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Vaï & 2Viens](https://open.spotify.com/track/6HVgs3qm88xtW9RONwZjVn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [SOLEDAD SAISON 1](https://open.spotify.com/album/7ohXPrS754eVGz7pnseqmd) | 3:15 |
 | 40 | [Zendaya](https://open.spotify.com/track/5GoYPbTlQbdXPoUWTsrLoK) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Zendaya / Ligne 9](https://open.spotify.com/album/7lYkPiBwYXF8xRdSVWNhPl) | 2:30 |
 
-Snapshot ID: `Z655egAAAABO0xXVcgLl9E+BKXdbvPWg`
+Snapshot ID: `Z655egAAAACsxUucxgX8rf+PMMvb4Lwg`

@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Luar La L y Anuel AA en portada.",
-  "num_followers": 257543,
+  "num_followers": 257541,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "ARMAGED\u00d3N",
         "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -327,22 +343,6 @@
       "duration_ms": 184800,
       "name": "Carta de Despedida",
       "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 212291,
+      "name": "TONO DE VOZ",
+      "url": "https://open.spotify.com/track/53ZdQQqfCwtkIBjYObbDDy"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 353544,
       "name": "WYA REMIX WHITE",
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "LYKE MIIKE (DELUXE)",
-        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 212291,
-      "name": "TONO DE VOZ",
-      "url": "https://open.spotify.com/track/53ZdQQqfCwtkIBjYObbDDy"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "XQ ERES AS\u00cd",
         "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
         "url": "https://open.spotify.com/album/2pfW9UleMSdCB98FChouuU"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 216800,
       "name": "\u00bfQu\u00e9 Sabes De M\u00ed?",
       "url": "https://open.spotify.com/track/64v6tIf0t5trbDuGXTqPOY"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
         }
       ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+      "duration_ms": 129600,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -1639,22 +1655,6 @@
       "duration_ms": 213900,
       "name": "Se Termin\u00f3",
       "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt"
     },
     {
       "added_at": "2025-02-14 21:10:18",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2025-02-14 21:10:18",
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2025-02-14 21:10:18",
+      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
-    },
-    {
-      "added_at": "2025-02-14 21:10:18",
-      "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2025-02-14 21:10:18",

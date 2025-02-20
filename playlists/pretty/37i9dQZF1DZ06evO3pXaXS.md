@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,005 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,081 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

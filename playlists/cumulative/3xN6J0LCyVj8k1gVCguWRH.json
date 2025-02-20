@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "All That I've Got",
+        "url": "https://open.spotify.com/album/08GIM8Lo321LFzde75mXr6"
+      },
+      "artists": [
+        {
+          "name": "Jeremy & The Harlequins",
+          "url": "https://open.spotify.com/artist/0xTQM3WxnHhObdpy6SwSuD"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227900,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/5scge25QWThEkHekxd1kE7"
+    },
+    {
+      "album": {
         "name": "All The King's Men",
         "url": "https://open.spotify.com/album/1NaWBSQT5rmPfpkADlCDWa"
       },
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 227532,
       "name": "all up in my head",
       "url": "https://open.spotify.com/track/5SttUdcAZEdDbJRr4Sjyrl"
@@ -17501,6 +17519,24 @@
     },
     {
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/7wEeVCgdi8G1WSexzHKDOR"
+      },
+      "artists": [
+        {
+          "name": "Char Elizabeth",
+          "url": "https://open.spotify.com/artist/1z7wwRsvJc4sz8EkEp1X6a"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220884,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/5oyCt90RPDlHvZSwWX8vcC"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/5aWJK79l7dNGcNkahWyv4g"
       },
@@ -27530,6 +27566,24 @@
     {
       "album": {
         "name": "Fresh",
+        "url": "https://open.spotify.com/album/2IMuEuipFpsWBFbeerSQPu"
+      },
+      "artists": [
+        {
+          "name": "Common Jack",
+          "url": "https://open.spotify.com/artist/6yZHZrHjYanoG5FZYfxOn2"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225867,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/7k8ytWJ8uUP80keepIq4Kx"
+    },
+    {
+      "album": {
+        "name": "Fresh",
         "url": "https://open.spotify.com/album/5bkVz2AjrqFDmYCXmHC5Al"
       },
       "artists": [
@@ -34800,6 +34854,24 @@
       "duration_ms": 228813,
       "name": "I Can't Get Next to You",
       "url": "https://open.spotify.com/track/2UclV6Lu93Ssh1spktn0Fp"
+    },
+    {
+      "album": {
+        "name": "I Can't Stay",
+        "url": "https://open.spotify.com/album/3cdZjSL17bLLbMFvL0aCZf"
+      },
+      "artists": [
+        {
+          "name": "Leah Isabella",
+          "url": "https://open.spotify.com/artist/2VGr1x6cv0ejEebfymsDiB"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221082,
+      "name": "I Can't Stay",
+      "url": "https://open.spotify.com/track/42iwetN6iWBRo315MmL3M8"
     },
     {
       "album": {
@@ -56035,6 +56107,28 @@
     },
     {
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/08jtyOOWVvnjDkT3UIPpzN"
+      },
+      "artists": [
+        {
+          "name": "Sapphire",
+          "url": "https://open.spotify.com/artist/3kgXmmWI2exkLeJa8rgpDw"
+        },
+        {
+          "name": "Font Leroy",
+          "url": "https://open.spotify.com/artist/0anijDuQo24oWERSkIG6VV"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148833,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/2PNrzDBfyIhi39TTU9SwmS"
+    },
+    {
+      "album": {
         "name": "Zahava",
         "url": "https://open.spotify.com/album/5Z4776irHlvg0n8aLGhTYU"
       },
@@ -61730,6 +61824,24 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "album": {
+        "name": "Right Guy",
+        "url": "https://open.spotify.com/album/1hTLrsNLzU9sosVd6mgMaO"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Sanders",
+          "url": "https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190336,
+      "name": "Right Guy",
+      "url": "https://open.spotify.com/track/70AY34rHmEQ2qEUXgkrLOr"
     },
     {
       "album": {
@@ -76383,6 +76495,28 @@
     },
     {
       "album": {
+        "name": "To Love Like You",
+        "url": "https://open.spotify.com/album/4CaQpZS8ZJO1FOAzIKVpTt"
+      },
+      "artists": [
+        {
+          "name": "Anabella Ross",
+          "url": "https://open.spotify.com/artist/0nC8Z271ILtDG9UNDJqZLw"
+        },
+        {
+          "name": "Dewey Huang",
+          "url": "https://open.spotify.com/artist/66lGnVuB19zf3wVoli0Tov"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "To Love Like You",
+      "url": "https://open.spotify.com/track/3iTlPsoBUOCXENasWdGodS"
+    },
+    {
+      "album": {
         "name": "To Mary",
         "url": "https://open.spotify.com/album/2Cdr1fRJNUuaAJ5p8qVvUd"
       },
@@ -81262,6 +81396,24 @@
       "duration_ms": 237349,
       "name": "Ways to Say I'm Beautiful",
       "url": "https://open.spotify.com/track/5wC03VqWwgDZGGsiornXul"
+    },
+    {
+      "album": {
+        "name": "dasteWORLD",
+        "url": "https://open.spotify.com/album/18UEbjDePvACIB4OUvaCvC"
+      },
+      "artists": [
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137466,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/109NQrpKCxKIBhV1tIFBFF"
     },
     {
       "album": {

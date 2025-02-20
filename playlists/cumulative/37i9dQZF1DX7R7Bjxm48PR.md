@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-162 songs - 7 hr 18 min
+164 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,12 @@
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-01-19 | 2024-10-23 |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-01-19 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 | 2022-11-15 |
+| [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 | 2025-02-19 |  |
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-01-19 | 2024-12-18 |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-19 | 2024-11-14 |
 | [Birds view](https://open.spotify.com/track/4PkmyK6ZS3X96rG05wmThj) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:05 | 2022-11-14 | 2024-10-23 |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
-| [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 |  |
+| [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 | 2025-02-20 |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-01-19 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 | 2022-04-14 |
 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-02-14 |  |
@@ -113,6 +114,7 @@
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2022-01-19 | 2025-01-30 |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2022-01-19 |  |
 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 | 2024-11-06 |  |
+| [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 | 2025-02-19 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-01-19 | 2022-07-28 |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2022-01-19 | 2025-01-30 |
 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 | 2022-01-19 |  |

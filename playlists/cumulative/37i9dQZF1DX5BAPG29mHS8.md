@@ -4,7 +4,7 @@
 
 > Los hits de ahora en la playlist más grande de México\. Neton Vega en portada.
 
-755 songs - 1 day 16 hr 50 min
+756 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 | 2024-02-01 | 2024-03-23 |
 | [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-22 | 2022-06-05 |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2023-05-19 | 2023-07-01 |
-| [AIRE](https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [EROZ](https://open.spotify.com/album/3c44ghd24WoMZVB5N4SfjE) | 3:10 | 2025-01-31 |  |
+| [AIRE](https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [EROZ](https://open.spotify.com/album/3c44ghd24WoMZVB5N4SfjE) | 3:10 | 2025-01-31 | 2025-02-20 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-26 | 2022-10-22 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-22 | 2022-10-28 |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-08 | 2024-03-30 |
@@ -658,6 +658,7 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-22 | 2022-10-14 |
 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 | 2022-03-04 | 2022-04-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-01-28 | 2022-07-05 |
+| [Te Metiste \- Spotify Single](https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Te Metiste \- Spotify Single](https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr) | 3:22 | 2025-02-20 |  |
 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 | 2025-01-31 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-18 | 2024-05-11 |
 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 | 2022-03-18 | 2022-04-08 |

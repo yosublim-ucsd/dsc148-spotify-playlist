@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-283 songs - 12 hr 4 min
+286 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 | 2023-03-18 |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-17 | 2023-08-11 |
 | [Kinderszenen, Op\. 15: No\. 7, Träumerei \(Arr\. for Guitar Solo\)](https://open.spotify.com/track/1JiY9LLalnplQAxweTXTUt) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Luise Walker](https://open.spotify.com/artist/3AYcgtMYsOooZwBF6vI4XI) | [Segovia & Contemporaries, Vol\. 3: Luise Walker](https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3) | 2:51 | 2021-12-09 | 2023-08-31 |
-| [Klara](https://open.spotify.com/track/3THVKiicWvkkWf29cY0Dh5) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Klara](https://open.spotify.com/album/7Jaavx1mHVXPYpv1SzE7SY) | 2:26 | 2024-10-23 |  |
+| [Klara](https://open.spotify.com/track/3THVKiicWvkkWf29cY0Dh5) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Klara](https://open.spotify.com/album/7Jaavx1mHVXPYpv1SzE7SY) | 2:26 | 2024-10-23 | 2025-02-20 |
 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 | 2021-12-09 | 2024-04-05 |
 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 | 2021-12-09 |  |
 | [Lakes of Covadonga](https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Lakes of Covadonga](https://open.spotify.com/album/22qbaZkVfusEm4ljcynslY) | 2:23 | 2023-01-20 | 2024-04-05 |
@@ -249,9 +249,11 @@
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 | 2024-04-20 |
 | [The Distance Between Us](https://open.spotify.com/track/10rJjLMJjQKlp13S3nKGn4) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Distance Between Us](https://open.spotify.com/album/3oaWXUwuoQoPAU5FzQC589) | 2:11 | 2023-01-06 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 | 2023-12-15 |
+| [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 | 2025-02-19 |  |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
 | [The Night Becomes You](https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Night Becomes You](https://open.spotify.com/album/6zL2qydauP0PTEYCGlNAme) | 2:56 | 2022-10-07 | 2024-07-30 |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-03 |  |
+| [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 | 2025-02-19 |  |
 | [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2022-09-23 |  |
 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 | 2022-06-17 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-04-28 | 2023-06-15 |
@@ -271,6 +273,7 @@
 | [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 | 2022-12-16 |  |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2021-12-09 | 2024-05-04 |
 | [Unelaul Mina Ei Taha Veel Magama Jääda](https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn) | [Boris Björn Bagger](https://open.spotify.com/artist/7p2K7MlnXg0k9v9yxxuf06), [Valdo Preema](https://open.spotify.com/artist/5dEsSEyudgCCppMdKmMyh5) | [German And Estonian Lullaby With Guitar](https://open.spotify.com/album/5UqSD5ONEAZTBdRoQhefJo) | 2:00 | 2021-12-09 | 2022-09-17 |
+| [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 | 2025-02-19 |  |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-06 |  |
 | [Vacilando](https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Vacilando](https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp) | 2:15 | 2022-06-10 | 2024-05-24 |
 | [Verlust und Gewinn](https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Verlust und Gewinn](https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB) | 2:25 | 2021-12-09 |  |

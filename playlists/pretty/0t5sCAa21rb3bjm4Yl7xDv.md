@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Sabrina Carpenter
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,079 likes - 101 songs - 5 hr 27 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,075 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 19 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 20 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
 | 21 | [Why Can't You](https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Why Can't You](https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ) | 3:15 |
-| 22 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 22 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 23 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
 | 24 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 |
 | 25 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |

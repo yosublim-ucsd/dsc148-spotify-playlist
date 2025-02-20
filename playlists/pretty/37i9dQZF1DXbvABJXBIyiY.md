@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,446 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,432 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 45 | [Home](https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:32 |
 | 46 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
 | 47 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
-| 48 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
-| 49 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
+| 48 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
+| 49 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
 | 50 | [Free As We Wanna Be \- Acoustic](https://open.spotify.com/track/0r52k7tp2plpgc7eAiv8l8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Free As We Wanna Be](https://open.spotify.com/album/04lhFo2ZxBJ5uqlp1N78hC) | 3:53 |
 | 51 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 52 | [Make You OK](https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 4:17 |

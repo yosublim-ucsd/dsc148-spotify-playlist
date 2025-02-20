@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-230 songs - 17 hr 2 min
+231 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,10 +144,11 @@
 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 | 2024-09-24 |  |
 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 | 2022-08-05 | 2024-05-08 |
 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 | 2024-05-07 |  |
+| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-19 |  |
 | [Ndule](https://open.spotify.com/track/1mqnZFrgtfMA65seHgMrH3) | [Jaja](https://open.spotify.com/artist/5wZ658GMIOlfxqAyABd1W3) | [Ndule](https://open.spotify.com/album/6lnThR6HzhkQUv577UqWhG) | 3:42 | 2023-12-22 | 2024-04-19 |
 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/17JrE5cw1UXZbRylwys1Tb) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 | 2022-08-05 |  |
 | [Nefs Nat](https://open.spotify.com/track/3Z4iTnS8ghRrWBgKUQzsSy) | [Menelik Wossenachew](https://open.spotify.com/artist/5VluYxmkjRps9g5TV8qzSM) | [Nefs Nat](https://open.spotify.com/album/33Ufi5tLbilivnOzWDS24o) | 5:21 | 2024-05-07 |  |
-| [Negen Layew](https://open.spotify.com/track/7DLaJOJ4fi9QpHzoWaLcE8) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 5:34 | 2024-05-07 |  |
+| [Negen Layew](https://open.spotify.com/track/7DLaJOJ4fi9QpHzoWaLcE8) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 5:34 | 2024-05-07 | 2025-02-20 |
 | [Nekchalehu](https://open.spotify.com/track/5CrrqNggbqU7lm5BAzc7ne) | [Eyob Mekonnen](https://open.spotify.com/artist/66RpTn1WvTKAz0I4PG7Nv4) | [Nekchalehu](https://open.spotify.com/album/3SMUpqsRjXCZJvXozE8QlE) | 3:48 | 2024-05-07 | 2024-09-25 |
 | [Ngum Nya Ko](https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:58 | 2022-08-05 |  |
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2022-08-05 |  |
@@ -225,7 +226,7 @@
 | [Who Do You Call](https://open.spotify.com/track/0GkuN9Zy932IzxFC6rolo8) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:10 | 2022-12-08 |  |
 | [Winter Trees Stand Sleeping](https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:20 | 2022-08-05 | 2024-05-08 |
 | [Wub Nat](https://open.spotify.com/track/3Gke0mvHkPNss58oxmeOI6) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2024-05-07 |  |
-| [Wusejat](https://open.spotify.com/track/2cJWp6bK6d6Wx9ISxZUDbd) | [Habesha Music](https://open.spotify.com/artist/49ZCR0ZBFcWqkaBr6pEz39), [Madingo Afework](https://open.spotify.com/artist/5oRH4nvkKjciZEf8IxkvZO) | [Swedlat, Vol\. 3](https://open.spotify.com/album/20aw2dhtgCfRTy8Y2qqVAG) | 5:05 | 2024-05-07 |  |
+| [Wusejat](https://open.spotify.com/track/2cJWp6bK6d6Wx9ISxZUDbd) | [Habesha Music](https://open.spotify.com/artist/49ZCR0ZBFcWqkaBr6pEz39), [Madingo Afework](https://open.spotify.com/artist/5oRH4nvkKjciZEf8IxkvZO) | [Swedlat, Vol\. 3](https://open.spotify.com/album/20aw2dhtgCfRTy8Y2qqVAG) | 5:05 | 2024-05-07 | 2025-02-20 |
 | [Xarit](https://open.spotify.com/track/1zWqMvDlArrjvNvZr5gfyJ) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 3:16 | 2022-08-05 | 2023-03-15 |
 | [Xingwavilani](https://open.spotify.com/track/0JWxns37xscvI8vVa6XX09) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Sounds of Africa: Mozambique](https://open.spotify.com/album/2SgflF3QamXk85eKGOx3Ti) | 3:06 | 2023-12-22 |  |
 | [Xingwavilani](https://open.spotify.com/track/16Ddy1wdlOZI8ha2Vnr9fX) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Sounds of Africa: Mozambique](https://open.spotify.com/album/1up7lXRtbbdhWsGYVdT1gH) | 3:06 | 2022-08-05 | 2022-11-13 |

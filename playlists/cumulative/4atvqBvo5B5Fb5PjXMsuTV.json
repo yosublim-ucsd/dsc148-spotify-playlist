@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Feb 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Feb 23:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2406,6 +2406,24 @@
       "duration_ms": 278013,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3EHJOZe6u7piShrCp3y7KD"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5TnvUXAoOZBZsMz5Gun9uf"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1twIjd84kLaHBEJinkBfKg"
     },
     {
       "album": {
@@ -26430,7 +26448,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 221403,
       "name": "fuorilegge",
       "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
@@ -28896,7 +28914,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 205649,
       "name": "Grazie ma no grazie",
       "url": "https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0"
@@ -35923,6 +35941,24 @@
     },
     {
       "album": {
+        "name": "infinyte",
+        "url": "https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "infinyte",
+      "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
+    },
+    {
+      "album": {
         "name": "Ingo Swann",
         "url": "https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r"
       },
@@ -38758,7 +38794,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 236282,
       "name": "L'albero delle noci",
       "url": "https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT"
@@ -38944,7 +38980,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 209034,
       "name": "La tana del granchio",
       "url": "https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo"
@@ -43382,6 +43418,24 @@
       "duration_ms": 191013,
       "name": "Mala Feminista",
       "url": "https://open.spotify.com/track/3H2ORBg6zQt3FemTj8mCmo"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "album": {
@@ -48460,6 +48514,28 @@
       "duration_ms": 137142,
       "name": "No Face",
       "url": "https://open.spotify.com/track/4eHQfcftImQD6w5wDSpLud"
+    },
+    {
+      "album": {
+        "name": "No Front Teeth",
+        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286480,
+      "name": "No Front Teeth",
+      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
     },
     {
       "album": {
@@ -59264,7 +59340,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 190611,
       "name": "Se t'innamori muori",
       "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
@@ -70969,6 +71045,24 @@
     },
     {
       "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/52FMewyydnYgknvRsRzEqf"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222624,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/1qlhJ0PND0HRtUXRbJyjZa"
+    },
+    {
+      "album": {
         "name": "Tick Tock",
         "url": "https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl"
       },
@@ -72013,6 +72107,24 @@
     },
     {
       "album": {
+        "name": "Toxic Romantic",
+        "url": "https://open.spotify.com/album/73SfhMQLHiFNkzEBJVjMLf"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Toxic Romantic",
+      "url": "https://open.spotify.com/track/2IAvl3s4wnIcri2fv6PNNs"
+    },
+    {
+      "album": {
         "name": "toxic till the end",
         "url": "https://open.spotify.com/album/1l05dI1q6ZmJt5PMeKTAAh"
       },
@@ -72650,7 +72762,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 207313,
       "name": "TU CON CHI FAI L'AMORE",
       "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
@@ -73328,6 +73440,24 @@
       "duration_ms": 150000,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3Q1UYQcegXHTlfexW2zVoQ"
+    },
+    {
+      "album": {
+        "name": "UNB\u00d8UND",
+        "url": "https://open.spotify.com/album/5fa7pFzXKaGTQNJnTqvciH"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/2giZNr8LWr8ywmcbxdvqjn"
     },
     {
       "album": {
@@ -74426,7 +74556,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 218306,
       "name": "Viva la vita",
       "url": "https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3"

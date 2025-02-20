@@ -1,13 +1,61 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Uwade",
-  "num_followers": 86696,
+  "num_followers": 86729,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6OwfQAAAADl8bq8b2XhNVqJcQjm9QqM",
+  "snapshot_id": "Z7YOLgAAAACNtTKnH2Jr28d/IJJwUtMi",
   "tracks": [
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Every Time I Feel Afraid",
+        "url": "https://open.spotify.com/album/43RwKOrlDwSLAbfMyM0N3L"
+      },
+      "artists": [
+        {
+          "name": "Carriers",
+          "url": "https://open.spotify.com/artist/03Y6dXzmx4DFtBblTZpAw4"
+        }
+      ],
+      "duration_ms": 297900,
+      "name": "Every Time I Feel Afraid",
+      "url": "https://open.spotify.com/track/4MY2Y1Lusx2BqygyVehXy4"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Seamstress",
+        "url": "https://open.spotify.com/album/6Q5pHvKMD9PbrySdJsUpgV"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "Seamstress",
+      "url": "https://open.spotify.com/track/07aZp4CnGjwKclYaWIWEwr"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Someone Else & Jesus",
+        "url": "https://open.spotify.com/album/7n6oJNWygajwSgTrFQGGbR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Manning",
+          "url": "https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS"
+        }
+      ],
+      "duration_ms": 202187,
+      "name": "Someone Else & Jesus",
+      "url": "https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh"
+    },
     {
       "added_at": "2025-02-05 18:39:57",
       "album": {
@@ -25,6 +73,22 @@
       "url": "https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ"
     },
     {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "I'm Gonna Be Fine",
+        "url": "https://open.spotify.com/album/5Wsxv4b0DcdJwxWQhJoslz"
+      },
+      "artists": [
+        {
+          "name": "Ryland",
+          "url": "https://open.spotify.com/artist/3Ekf9P1XRqjP3MBwl6iFVT"
+        }
+      ],
+      "duration_ms": 242311,
+      "name": "Stuck At Home",
+      "url": "https://open.spotify.com/track/46VMVKEHGpwSd0IDwQHbQv"
+    },
+    {
       "added_at": "2025-02-05 18:39:57",
       "album": {
         "name": "Dim Binge",
@@ -39,6 +103,38 @@
       "duration_ms": 211053,
       "name": "Pipps Hill",
       "url": "https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Long Country",
+        "url": "https://open.spotify.com/album/74AQSuXY0hWcsLcNvADRgJ"
+      },
+      "artists": [
+        {
+          "name": "Moontype",
+          "url": "https://open.spotify.com/artist/1A0MGKQWFrqBVWMuI9984t"
+        }
+      ],
+      "duration_ms": 256265,
+      "name": "Long Country",
+      "url": "https://open.spotify.com/track/4VWcztOMTxbvSGoyhqllJJ"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/2FC5kqSTzmPg41Mp0S22qQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Jones",
+          "url": "https://open.spotify.com/artist/6ZAC4z2jh5hlryaE1pv0pN"
+        }
+      ],
+      "duration_ms": 266505,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/59MZldJv2x1A7UVrnq26ys"
     },
     {
       "added_at": "2025-02-05 18:39:57",
@@ -73,6 +169,22 @@
       "url": "https://open.spotify.com/track/0NJjHuCPaDsbcQXSbzuTbd"
     },
     {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/33UZuGEVXga5dhuMZkP8bD"
+      },
+      "artists": [
+        {
+          "name": "Yoshika Colwell",
+          "url": "https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1nSyikxkH3Y2SXnQ9Rww2C"
+    },
+    {
       "added_at": "2025-02-05 18:39:57",
       "album": {
         "name": "eavesdropper ;; death stories",
@@ -105,6 +217,70 @@
       "url": "https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX"
     },
     {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Off to the Woods",
+        "url": "https://open.spotify.com/album/5Eyer0SlyrSjGAw3gq0vQN"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Off to the Woods",
+      "url": "https://open.spotify.com/track/203gfI7qN1HLi7zpXl18Do"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Cold Strange",
+        "url": "https://open.spotify.com/album/4PAn4mu8aPPmYbYoPw3K9V"
+      },
+      "artists": [
+        {
+          "name": "Neu Blume",
+          "url": "https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z"
+        }
+      ],
+      "duration_ms": 217875,
+      "name": "Cold Strange",
+      "url": "https://open.spotify.com/track/1yap6TXZXOxqSrx0qyHlXQ"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "on the run",
+        "url": "https://open.spotify.com/album/6mAC6ajS2wzWLVmmzyZST9"
+      },
+      "artists": [
+        {
+          "name": "mor",
+          "url": "https://open.spotify.com/artist/0yvVfS792TJ08fVhNZzPQd"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "on the run",
+      "url": "https://open.spotify.com/track/5ZW5SdHbuQaPzYJpq3eJVq"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/3RklkQ7RDiUIAYHHIzZXNT"
+      },
+      "artists": [
+        {
+          "name": "Sun Child",
+          "url": "https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "For Mary",
+      "url": "https://open.spotify.com/track/4TeRP9YFyagqMMPhnwDPoj"
+    },
+    {
       "added_at": "2025-02-05 18:39:57",
       "album": {
         "name": "TSA",
@@ -119,6 +295,22 @@
       "duration_ms": 150559,
       "name": "TSA",
       "url": "https://open.spotify.com/track/1FpiBzJfjpS3yyx597trPX"
+    },
+    {
+      "added_at": "2025-02-19 17:00:30",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/4QEGtVIxuwz7AJQOT4SYwz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Havins",
+          "url": "https://open.spotify.com/artist/2nnEZHcHQqk24rd4xpa5Oo"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/3V1OFJtPuJsps4AIesfKTe"
     },
     {
       "added_at": "2025-02-05 18:39:57",

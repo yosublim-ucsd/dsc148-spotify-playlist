@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,654 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,682 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 42 | [今夜はドラマティック](https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [ROMANTIC VIEW](https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy) | 4:18 |
 | 43 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
 | 44 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
-| 45 | [グッド・バイ・トランスファー](https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [ニュー・ベスト・ナウ／RAJI](https://open.spotify.com/album/2O5XbDOuyx6cf55J6h8tNs) | 4:19 |
+| 45 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
 | 46 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 | 47 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
-| 48 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
+| 48 | [グッド・バイ・トランスファー](https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [ニュー・ベスト・ナウ／RAJI](https://open.spotify.com/album/2O5XbDOuyx6cf55J6h8tNs) | 4:19 |
 | 49 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
 | 50 | [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 |
 

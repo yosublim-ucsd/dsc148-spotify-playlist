@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 905301,
+  "num_followers": 905463,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
+      },
+      "artists": [
+        {
+          "name": "Tevvez",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
+        }
+      ],
+      "duration_ms": 189679,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "Ele Te Bota Soca Soca",
         "url": "https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 180927,
       "name": "Ele Te Bota Soca Soca",
       "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
-      },
-      "artists": [
-        {
-          "name": "Tevvez",
-          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
-        }
-      ],
-      "duration_ms": 189679,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
     },
     {
       "added_at": "2024-05-08 15:21:25",

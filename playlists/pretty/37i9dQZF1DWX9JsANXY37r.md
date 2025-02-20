@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,707 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,712 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 17 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
 | 18 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 | 19 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
-| 20 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
-| 21 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
+| 20 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
+| 21 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
 | 22 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 |
 | 23 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 |
 | 24 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 51 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
 | 52 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
 | 53 | [Acid Dreams](https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Acid Dreams](https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk) | 3:03 |
-| 54 | [desapega](https://open.spotify.com/track/7IsDSVPpbW6UNe3CycVeZA) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:27 |
-| 55 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
+| 54 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
+| 55 | [desapega](https://open.spotify.com/track/7IsDSVPpbW6UNe3CycVeZA) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:27 |
 | 56 | [Solita](https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Solita](https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR) | 2:57 |
-| 57 | [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 |
-| 58 | [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 |
+| 57 | [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 |
+| 58 | [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 |
 | 59 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
 | 60 | [Sur Une Chanson En Français](https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Couleurs Primaires](https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9) | 5:14 |
 

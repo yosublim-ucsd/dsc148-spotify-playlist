@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18818,
+  "num_followers": 18824,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -177,26 +177,6 @@
       "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Sean Rii",
-          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Hyperreal (Middle of the Night)",
@@ -215,6 +195,26 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Sean Rii",
+          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
-      "added_at": "2025-01-09 11:00:14",
-      "album": {
-        "name": "Chaotic",
-        "url": "https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Chaotic",
-      "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Rubicon",
@@ -553,20 +537,20 @@
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-01-09 11:00:14",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
+      "duration_ms": 194296,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -583,6 +567,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Follow (Edit)",
         "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
       },
@@ -803,54 +819,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Might As Well Be Watching",
-        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Might As Well Be Watching",
-      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
-    },
-    {
-      "added_at": "2025-01-30 13:00:19",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "One More Chance (feat. Savage)",
         "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
       },
@@ -871,18 +839,34 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Sunday Stitches",
-        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 183135,
-      "name": "Sunday Stitches",
-      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2025-01-30 13:00:19",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7sfCegKZtfF5c3PtrF6VP4"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Sunday Stitches",
+        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 183135,
+      "name": "Sunday Stitches",
+      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "RNZ\u014c SZN",
-        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
-      },
-      "artists": [
-        {
-          "name": "RNZ\u014c",
-          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "RNZ\u014c SZN",
-      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 214624,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
       },
       "artists": [
         {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         }
       ],
-      "duration_ms": 167911,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+      "duration_ms": 167911,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 163024,
       "name": "Power (feat. Sister Nancy & Sampa the Great)",
       "url": "https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2025-01-23 13:00:35",

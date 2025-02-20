@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,063 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 129 | [Lying Down](https://open.spotify.com/track/3RcmQ6DdLqwp38tFsWx0mj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:58 |
 | 130 | [Midnight Decisions](https://open.spotify.com/track/5rVElqSBdfsDALQfc7z2ZQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:42 |
 | 131 | [Knock You Out](https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Knock You Out](https://open.spotify.com/album/3yD752ODQgnGdaVNcMSrwo) | 2:50 |
-| 132 | [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 |
-| 133 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 132 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 133 | [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 |
 | 134 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
 | 135 | [Welcome to the Wonderful World of \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2mMQFumTaHcwMZsiNE57Um) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 1:56 |
 | 136 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 221 | [This Fine Social Scene](https://open.spotify.com/track/5JLGVMv31EzNtaHirjBR5I) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 4:32 |
 | 222 | [Kiss Me Once](https://open.spotify.com/track/02QVTlWdmSfDkDdOyPNewF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:17 |
 | 223 | [Music](https://open.spotify.com/track/4XCQTLPs84Ct8kzOQ6Wiqs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:58 |
-| 224 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
-| 225 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
+| 224 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
+| 225 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
 | 226 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
 | 227 | [3 Minutes 'Til New Years](https://open.spotify.com/track/3z3bA1b0df9exR6yc9rChM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:40 |
 | 228 | [The Church Of What's Happening Now](https://open.spotify.com/track/1NNoACP3CHq28jHGCq3o4w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:27 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Abp9EgAAAABlIsOIDF70ycDn9jsW2RDG`
+Snapshot ID: `AbqCqAAAAAARDDyVK5K+jWv9iqK4nYqw`

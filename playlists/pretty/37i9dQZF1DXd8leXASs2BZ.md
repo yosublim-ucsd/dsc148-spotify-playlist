@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Issei Uno Fifth
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,156 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,160 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mama I Can Fly](https://open.spotify.com/track/30m2COgY5EzfPii95m1sX2) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 3:22 |
+| 1 | [Mama I Can Fly](https://open.spotify.com/track/30m2COgY5EzfPii95m1sX2) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [KESSO](https://open.spotify.com/artist/6DB4aM9HCe0puiLQT1xIWh) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 3:22 |
 | 2 | [Grab a Dream](https://open.spotify.com/track/2qTx4Y4Pk4AtHpDEqqvtZc) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/66VUOpdmMS9gDWGosyICGU) | 2:45 |
 | 3 | [Step In To The Pure Life](https://open.spotify.com/track/4kv4cjJMaFO6dsFagTlvup) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Step In To The Pure Life](https://open.spotify.com/album/0AuBKTk1ut0UQ8OgPCDXeE) | 3:06 |
 | 4 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |

@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 146945,
+  "num_followers": 146967,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,22 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -643,22 +647,18 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
+    },
+    {
+      "added_at": "2025-02-13 15:00:15",
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -791,22 +807,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2025-02-13 15:00:15",
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186612,
-      "name": "Busy Woman",
-      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Take Me to the Beach (feat. Ado)",
-        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Take Me to the Beach (feat. Ado)",
-      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1163,6 +1159,26 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "added_at": "2025-02-13 15:00:15",
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -1175,6 +1191,22 @@
       "duration_ms": 176424,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": "2025-02-13 15:00:15",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
-    },
-    {
-      "added_at": "2025-02-13 15:00:15",
-      "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
-    },
-    {
-      "added_at": "2025-02-13 15:00:15",
-      "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 190806,
-      "name": "earthquake",
-      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 180091,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
-    },
-    {
-      "added_at": "2025-02-13 15:00:15",
-      "album": {
         "name": "Lonely Road (with Jelly Roll)",
         "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2025-02-13 15:00:15",
+      "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 159208,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
-    },
-    {
-      "added_at": "2025-02-13 15:00:15",
-      "album": {
         "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
         "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
+    },
+    {
+      "added_at": "2025-02-13 15:00:15",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+        "name": "\u767e\u82b1\u7e5a\u4e71",
+        "url": "https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+      "duration_ms": 179238,
+      "name": "\u767e\u82b1\u7e5a\u4e71",
+      "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
     },
     {
       "added_at": "2025-02-13 15:00:15",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-02-13 15:00:15",
       "album": {
-        "name": "\u767e\u82b1\u7e5a\u4e71",
-        "url": "https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb"
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
       "artists": [
         {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 179238,
-      "name": "\u767e\u82b1\u7e5a\u4e71",
-      "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     }
   ],
   "unique_name": "\u5143\u6c17Booster",

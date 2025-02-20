@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-454 songs - 1 day 1 hr 30 min
+456 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 | 2024-05-24 | 2024-07-12 |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
+| [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 | 2025-02-19 |  |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-07-16 | 2024-09-08 |
 | [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 | 2025-01-14 |  |
@@ -184,6 +185,7 @@
 | [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 | 2024-03-22 | 2024-05-16 |
 | [I Care](https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 4:18 | 2024-03-21 | 2024-05-16 |
 | [I Could've Cried](https://open.spotify.com/track/04RMfZ6XzUChBkeOM5AAWC) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 1:36 | 2024-04-01 | 2024-05-16 |
+| [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 | 2025-02-19 |  |
 | [I Guess I Got My Answer](https://open.spotify.com/track/5TFUU8NZXb8h5evhyiCGBp) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 2:52 | 2024-06-20 | 2024-07-12 |
 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 | 2024-08-12 | 2024-09-08 |
 | [I Just Want to Be Your Friend](https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe) | [The Millennium](https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY) | [Begin](https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0) | 2:37 | 2024-03-26 | 2024-05-16 |

@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 95372,
+  "num_followers": 95646,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Groundwork Rising",
         "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 252080,
       "name": "Owls",
       "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "How Do We Go Back To Being Normal?",
-        "url": "https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 182987,
-      "name": "Thoughtless Man",
-      "url": "https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
         "name": "Sense & Nonsense",
         "url": "https://open.spotify.com/album/49C201EMuA7vMN68BRphjn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 247600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "How Do We Go Back To Being Normal?",
+        "url": "https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 182987,
+      "name": "Thoughtless Man",
+      "url": "https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
         "name": "Big Black Car (Cover)",
         "url": "https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd"
       },
@@ -667,6 +683,22 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
+        "name": "Come with Me and Hide",
+        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
+      },
+      "artists": [
+        {
+          "name": "Mooneye",
+          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 235920,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "Dreamt of You",
-        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
-      },
-      "artists": [
-        {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
-        }
-      ],
-      "duration_ms": 198544,
-      "name": "Dreamt of You",
-      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "This House",
-        "url": "https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "This House",
-      "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -747,34 +747,18 @@
     {
       "added_at": "2025-02-13 23:00:24",
       "album": {
-        "name": "Come with Me and Hide",
-        "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
+        "name": "Dreamt of You",
+        "url": "https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1"
       },
       "artists": [
         {
-          "name": "Mooneye",
-          "url": "https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL"
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
-    },
-    {
-      "added_at": "2025-02-13 23:00:24",
-      "album": {
-        "name": "Not Like Yesterday",
-        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
-      },
-      "artists": [
-        {
-          "name": "the.king.lost",
-          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
-        }
-      ],
-      "duration_ms": 220719,
-      "name": "Not Like Yesterday",
-      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
+      "duration_ms": 198544,
+      "name": "Dreamt of You",
+      "url": "https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW"
     },
     {
       "added_at": "2025-02-13 23:00:24",
@@ -807,6 +791,22 @@
       "duration_ms": 153928,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3"
+    },
+    {
+      "added_at": "2025-02-13 23:00:24",
+      "album": {
+        "name": "Not Like Yesterday",
+        "url": "https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz"
+      },
+      "artists": [
+        {
+          "name": "the.king.lost",
+          "url": "https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0"
+        }
+      ],
+      "duration_ms": 220719,
+      "name": "Not Like Yesterday",
+      "url": "https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2"
     },
     {
       "added_at": "2025-02-13 23:00:24",

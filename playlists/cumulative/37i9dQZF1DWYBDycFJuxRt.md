@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: AKASAKI \*👉 <a href="https://spice.eplus.jp/articles/335552">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: AKASAKI \*👉 <a href="https://spice.eplus.jp/articles/335713">SPICE連動記事</a>をSPICEでチェック!
 
-9,580 songs - 24 day 20 hr 48 min
+9,581 songs - 24 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2349,6 +2349,7 @@
 | [Hey Hey Come Come](https://open.spotify.com/track/11TwbI13EztfJjUZwJ4mMw) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [The Great Reset](https://open.spotify.com/album/6JhfhdRttENXPmGcOOUQVc) | 4:14 | 2023-11-15 | 2023-11-22 |
 | [Hey Lady](https://open.spotify.com/track/4IIAdk29wn31gHN3p9v6LD) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Hey Lady](https://open.spotify.com/album/4OYUTrIpGrQGJWUtUxuD2n) | 3:09 | 2023-11-08 | 2023-11-16 |
 | [Hey Lady](https://open.spotify.com/track/4RXwsA32oemCCInCYNUU2u) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Hey Lady](https://open.spotify.com/album/3AQ1YoUI6z12tsYNH9ZybQ) | 3:09 | 2023-11-07 | 2023-11-09 |
+| [Hey phone](https://open.spotify.com/track/11S58dYnSjkWPD6jLaBRv7) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [Hey phone](https://open.spotify.com/album/42eD73zTg3bdNE6nqoBzI0) | 3:24 | 2025-02-19 |  |
 | [Hey Song](https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hey Song](https://open.spotify.com/album/5zrsUKzB8ULxQAavQLs8He) | 3:31 | 2023-08-22 | 2023-08-30 |
 | [Hey Taxi](https://open.spotify.com/track/2s18YCV0mxu5qtRL8j8D6N) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Hey Taxi](https://open.spotify.com/album/4hgdy9wR49nsakjjNE7RWg) | 3:16 | 2023-01-31 | 2023-02-02 |
 | [Hey Taxi](https://open.spotify.com/track/3yVDgOqDlHHmLsgkxPCQLj) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Hey Taxi](https://open.spotify.com/album/25TqF3h6bQuTSzDwLAloL0) | 3:16 | 2023-02-01 | 2023-02-08 |
@@ -3362,7 +3363,7 @@
 | [Makuake \(feat\. Bonbero, ShowyRENZO & Tade Dust\)](https://open.spotify.com/track/47HYPVVw2HPH0PVRbrmV7P) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [Makuake \(feat\. Bonbero, ShowyRENZO & Tade Dust\)](https://open.spotify.com/album/0qteQKAUj21ECmjJS61OZf) | 4:22 | 2025-02-12 | 2025-02-19 |
 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 | 2023-04-18 | 2023-04-26 |
 | [Malfunction](https://open.spotify.com/track/1dWGUO81ML2o5z9ntAzMqX) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [Malfunction](https://open.spotify.com/album/7b6ayWuKcSWL46HQ4saGAY) | 4:28 | 2023-05-24 | 2023-05-31 |
-| [Malibu Dream](https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr) | [Tiji Jojo](https://open.spotify.com/artist/3XdPjEN5UdOagwWPrgkp0f) | [Malibu Dream](https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP) | 2:31 | 2025-02-19 |  |
+| [Malibu Dream](https://open.spotify.com/track/4rV3DodIA50w1WD1htetJr) | [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [Malibu Dream](https://open.spotify.com/album/78jG62eaDLVSD2hQnz5gXP) | 2:31 | 2025-02-19 |  |
 | [malum](https://open.spotify.com/track/5pcg88evNmLl6qA0wmDRQi) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/7ibmp11sVi3XwgkUDL2jUn) | 3:11 | 2023-03-15 | 2023-03-22 |
 | [Mama Said](https://open.spotify.com/track/76G6tgncwiZ3lS2XjztTHy) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/4JyW3t1OPM0SDQzwRGY9XZ) | 2:56 | 2025-01-21 | 2025-01-29 |
 | [Mama's Boy](https://open.spotify.com/track/3AG9nySzAQ3MJpQPIc1FIv) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mama's Boy](https://open.spotify.com/album/6wLJHvCiRMzfepO1Q8PVCE) | 3:50 | 2024-05-07 | 2024-05-15 |
@@ -4969,7 +4970,7 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-18 | 2023-04-26 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-02-14 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-12 | 2023-12-20 |
-| [SLIDE pt.2 \- Last Dance](https://open.spotify.com/track/6KMe39IAxLLf6XGhcsDtKc) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 2:04 | 2025-02-19 |  |
+| [SLIDE pt.2 \- Last Dance](https://open.spotify.com/track/6KMe39IAxLLf6XGhcsDtKc) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Dear Mama](https://open.spotify.com/album/1MX2qoN0AZE6hOlUuxpgML) | 2:04 | 2025-02-19 |  |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-19 | 2023-09-27 |
 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 | 2024-01-09 | 2024-01-17 |
 | [Slipping](https://open.spotify.com/track/2rcmqM69ZU9ZTuY5c2WBJB) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Slipping](https://open.spotify.com/album/2My17khkwCeDLzqB6UlXS9) | 3:17 | 2024-09-11 | 2024-09-18 |

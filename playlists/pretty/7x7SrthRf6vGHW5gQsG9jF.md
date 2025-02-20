@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 825 songs - 2 day 4 hr 48 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 827 songs - 2 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -833,5 +833,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 823 | [Another Ride](https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0) | [ippo.tsk](https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof), [Synthesizer V ANRI](https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0) | [Another Ride](https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC) | 3:28 |
 | 824 | [本当だよ](https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [本当だよ](https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z) | 3:33 |
 | 825 | [Kimitoodoretara](https://open.spotify.com/track/24GbufnTBREN9hgFtZ2a07) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kimitoodoretara](https://open.spotify.com/album/3XklcVqYvveUoTsLNaVbP3) | 3:31 |
+| 826 | [爆弾魔 \- Re\-Recording](https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:35 |
+| 827 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 
-Snapshot ID: `AAAEx472L0JWBCMr3mvqx85C96TW916y`
+Snapshot ID: `AAAEyTB1fED6PEqaiEmoMabVpCqkRHHD`

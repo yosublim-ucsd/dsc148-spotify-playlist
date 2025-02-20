@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Brunori SAS in cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,161 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,187 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 64 | [Per La Nostra Età](https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Per La Nostra Età](https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw) | 3:30 |
 | 65 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 |
 
-Snapshot ID: `Z7NjEQAAAAB46Ji2oEm/cvaQGAfQ4kKP`
+Snapshot ID: `Z7NjEQAAAABuTVirxewe4gQSK+hp9FrS`

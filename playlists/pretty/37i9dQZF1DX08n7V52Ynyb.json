@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 61447,
+  "num_followers": 61487,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "In the Space Between Our Souls",
-        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Saga",
-          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
-        }
-      ],
-      "duration_ms": 413916,
-      "name": "In the Space Between Our Souls",
-      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+        "name": "In the Space Between Our Souls",
+        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
       },
       "artists": [
         {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+          "name": "Ingrid Saga",
+          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
         }
       ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+      "duration_ms": 413916,
+      "name": "In the Space Between Our Souls",
+      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1139,6 +1123,22 @@
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+        }
+      ],
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "It Ends Now",
-        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
-      },
-      "artists": [
-        {
-          "name": "Hannes Bennich",
-          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
-        },
-        {
-          "name": "Helen Salim",
-          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
-        }
-      ],
-      "duration_ms": 363893,
-      "name": "It Ends Now",
-      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "It Ends Now",
+        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bennich",
+          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
+        },
+        {
+          "name": "Helen Salim",
+          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
+        }
+      ],
+      "duration_ms": 363893,
+      "name": "It Ends Now",
+      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "One Evening in July",
-        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 161333,
       "name": "My Future Just Passed - From \"Safety In Numbers\"",
       "url": "https://open.spotify.com/track/0cSlVyagvzpWEFmhOqJS2P"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "One Evening in July",
+        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
-      },
-      "artists": [
-        {
-          "name": "Muriel Zoe",
-          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "An Evening With Anita O'Day",
         "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 207466,
       "name": "Anita's Blues",
       "url": "https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
+      },
+      "artists": [
+        {
+          "name": "Muriel Zoe",
+          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
     },
     {
       "added_at": "2025-01-17 09:16:30",

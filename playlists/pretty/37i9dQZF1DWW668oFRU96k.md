@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Kylie Minogue x Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,312 likes - 88 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,319 likes - 88 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 87 | [Situationship](https://open.spotify.com/track/7w69ZRFdCijqhCOXmkTqOB) | [Astera7](https://open.spotify.com/artist/30GieJZDGVwI745u0ntU0W) | [SOLITUDE 忧·悲](https://open.spotify.com/album/7iSuIxwYcnenN2KbxrVbsV) | 2:29 |
 | 88 | [airplane music](https://open.spotify.com/track/4fytmUBjKy3J0Tj9lkKVqW) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [punk cake](https://open.spotify.com/album/2r3V5DKpsdBdGEH7pjW5eo) | 1:45 |
 
-Snapshot ID: `Z64XEgAAAADdEfbfNO+NIRzFjRb6/01c`
+Snapshot ID: `Z64XEgAAAABNVHyYhTPswEqb9ErMYD6T`

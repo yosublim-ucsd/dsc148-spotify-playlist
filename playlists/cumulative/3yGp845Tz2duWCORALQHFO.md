@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,035 songs - 4 day 14 hr 4 min
+2,037 songs - 4 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [I Need You](https://open.spotify.com/track/1FqWqSMp8Tpr8gMsxDbL1e) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [I Need You](https://open.spotify.com/album/6CaKms9b2aiNxU8aRxyzeQ) | 2:20 | 2025-02-14 |  |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-23 | 2024-08-31 |
 | [I See You](https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I See You](https://open.spotify.com/album/5j9rJDPD12jdwoL5SfYuIr) | 3:29 | 2025-02-13 |  |
+| [I Wanna Know](https://open.spotify.com/track/2TKTs05CXyvrL3f3I5VPoj) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8), [Amber Kuti](https://open.spotify.com/artist/12J3qkwLDqTiLMWTx8iVA4) | [I Wanna Know](https://open.spotify.com/album/5nQdkKohQzLMC4sluO71zb) | 2:24 | 2025-02-19 |  |
 | [I Want It All \(Euphoria\)](https://open.spotify.com/track/1cUNZeyQw3qpuugD7zb7C3) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Want It All \(Euphoria\)](https://open.spotify.com/album/0pCEURQMp7qteO2NO13CYv) | 2:48 | 2024-08-08 | 2024-08-16 |
 | [I Want to Live Today \- Zero Five Mix](https://open.spotify.com/track/11PyCxOMQLTW6W4GXP1LKV) | [Jonas Steur](https://open.spotify.com/artist/1dpapEdSfcmccxziKtJBn5) | [I Want to Live Today \(Zero Five Mix\)](https://open.spotify.com/album/1xPTBLRqC4QYL97vBMTnTa) | 3:57 | 2024-12-19 | 2025-01-04 |
 | [I Want You \- Weska Remix](https://open.spotify.com/track/6NCs3DjW9Ane6z0pZ374ca) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl), [B.O.B\. Ltd.](https://open.spotify.com/artist/2WvJPrNoklalxJ1kbqRfdn), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [I Want You \(Weska Remix\)](https://open.spotify.com/album/3DzrZWfZQXrAwvJt9PeHxx) | 3:29 | 2024-10-25 | 2024-11-01 |
@@ -1551,6 +1552,7 @@
 | [Samir's Theme](https://open.spotify.com/track/3wI9OGpl6thK28PZcUgleu) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF) | [Samir's Theme](https://open.spotify.com/album/6WIAnmhPhEvjmcvHeeIP85) | 2:46 | 2024-11-08 | 2024-11-16 |
 | [Sanctum \(feat\. Marion Di Napoli\)](https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Marion Di Napoli](https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C) | [Sanctum EP](https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4) | 5:51 | 2024-10-25 | 2024-11-01 |
 | [Sands End](https://open.spotify.com/track/2opRdGxZmGY6kRb0CLKFka) | [Adam Ellis](https://open.spotify.com/artist/5tGHR2wsaFZhRzRPRZDFds), [Arctic Barbers](https://open.spotify.com/artist/7bS0hsqGA7ZGCax69gFakI) | [Sands End](https://open.spotify.com/album/7qJqR5jrEpEEAUL1XTtYDr) | 3:41 | 2024-10-25 | 2024-11-01 |
+| [Sapiosensual](https://open.spotify.com/track/4dI6MTMABd3ecL9cnXxIqR) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Sapiosensual](https://open.spotify.com/album/4P20LtVdYpBDkwLUpr4lYr) | 3:26 | 2025-02-19 |  |
 | [Sapphire](https://open.spotify.com/track/1tASKMhTLXQSz8cB925NT4) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NIRE](https://open.spotify.com/artist/3AeVpVoVJ6UlpfnJiZUpaL) | [Eternal](https://open.spotify.com/album/4BWqMQAnfw2CH51bNPvmc0) | 4:06 | 2024-06-20 | 2024-06-29 |
 | [Sarabande](https://open.spotify.com/track/5ZwFCHzRbAll8TTvDmAKht) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Sarabande](https://open.spotify.com/album/4X7B8PnpBn7jZ1xDGrmIRS) | 3:16 | 2024-10-04 | 2024-10-12 |
 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 | 2024-05-17 | 2024-05-25 |

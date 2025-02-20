@@ -564,7 +564,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 278276,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
@@ -21272,7 +21272,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
@@ -28184,7 +28184,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 102214,
       "name": "Mami",
       "url": "https://open.spotify.com/track/1uZDY0h2g19vtNhzybQNn4"
@@ -31152,7 +31152,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -34023,6 +34023,24 @@
     },
     {
       "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -36494,7 +36512,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
@@ -36930,7 +36948,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
@@ -39659,6 +39677,24 @@
     },
     {
       "album": {
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218197,
+      "name": "Rata De Dos Patas",
+      "url": "https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36"
+    },
+    {
+      "album": {
         "name": "RATIO",
         "url": "https://open.spotify.com/album/6hPIS2sIYeeiUMQOy70Ev1"
       },
@@ -41416,7 +41452,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 322500,
       "name": "Santo Por Siempre",
       "url": "https://open.spotify.com/track/0NDtAA7P5m8iaNcVeeErk5"
@@ -42771,6 +42807,32 @@
     },
     {
       "album": {
+        "name": "Si Las Gatas Se Amotinan",
+        "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Si Las Gatas Se Amotinan",
+      "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
+    },
+    {
+      "album": {
         "name": "Si Me Sobrara el Tiempo",
         "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
       },
@@ -42906,6 +42968,28 @@
       "duration_ms": 362154,
       "name": "Si No Me Falla el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
+    },
+    {
+      "album": {
+        "name": "Si No Me Falla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1WXnPoeZudsMmSLBUPeCbG"
+      },
+      "artists": [
+        {
+          "name": "Rafa Perez",
+          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
+        },
+        {
+          "name": "Juank Padilla",
+          "url": "https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359000,
+      "name": "Si No Me Falla el Coraz\u00f3n - (Versi\u00f3n Viral)",
+      "url": "https://open.spotify.com/track/29iNmUj1Jhw8U9H5OWqBRc"
     },
     {
       "album": {
@@ -45608,7 +45692,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 214573,
       "name": "Supermercado",
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"

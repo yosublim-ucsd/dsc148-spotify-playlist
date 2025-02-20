@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,471 likes - 21 songs - 1 hr 8 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,472 likes - 21 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 8 | [Flame Girl](https://open.spotify.com/track/6GXxTwkqKY0z6NkjG71gBt) | [Klara LaFleur](https://open.spotify.com/artist/4OTNHZSytsoMujGoXj32Xi) | [Flame Girl](https://open.spotify.com/album/1LSTOiGXQ44syY7nXqiGwM) | 5:02 |
 | 9 | [A Loving Parade](https://open.spotify.com/track/0n6QNKl2cV13V96QC4tDHP) | [Curving Tooth](https://open.spotify.com/artist/2ilJNXzgiuY0y67g34HNMe) | [A Loving Parade](https://open.spotify.com/album/5lBkN1HcYZK9l61b9n67fH) | 3:15 |
 | 10 | [Ne kaatuvat aikanaan vaivatta](https://open.spotify.com/track/0pwZK589WLVn8NXWhJtbUY) | [Samuli Poutanen](https://open.spotify.com/artist/5D3YANaKae8qnljHnLPXxZ) | [Ne Kaatuvat Aikanaan Vaivatta](https://open.spotify.com/album/01FPmACbeIeqoFUbIhwJQV) | 2:35 |
-| 11 | [Nu sprida de vita nätterna](https://open.spotify.com/track/382Iyskz4rdPWjHOcIHF4f) | [NOX](https://open.spotify.com/artist/0gX8YOGwsAeQpLJas154Fo) | [Ur nordisk jord](https://open.spotify.com/album/4Q7Q0fZbHwtrDxUwdTGGN9) | 2:01 |
+| 11 | [Nu sprida de vita nätterna](https://open.spotify.com/track/382Iyskz4rdPWjHOcIHF4f) | [NOX](https://open.spotify.com/artist/0gX8YOGwsAeQpLJas154Fo), [Hanna Kronqvist](https://open.spotify.com/artist/2trkM2kGHclcjIZTGlRzbo) | [Ur nordisk jord](https://open.spotify.com/album/4Q7Q0fZbHwtrDxUwdTGGN9) | 2:01 |
 | 12 | [Bring it](https://open.spotify.com/track/6s8VWEP4iYOFqo89XKIKj2) | [Michael Bird](https://open.spotify.com/artist/5Ys55l8sULplm5tAUVKGSF) | [Bring it](https://open.spotify.com/album/6IBD7945M6gyiv0ymqHtEh) | 4:17 |
 | 13 | [still have feelings](https://open.spotify.com/track/0LHjzVgayxAEuM9dHOiK3d) | [Synne Lovise](https://open.spotify.com/artist/1osd1vrPkl5IoMD28IN730) | [still have feelings](https://open.spotify.com/album/7zNiOjhvCHVV0j6sG7IEqc) | 4:05 |
 | 14 | [Spokój](https://open.spotify.com/track/4mQsYofkr3Ko8HyycaAGKG) | [Part Of The Kitchen](https://open.spotify.com/artist/6UFoUboLdSyLbzix0YexQs) | [Spokój](https://open.spotify.com/album/4ZApDIBAW6iBc0ry6PT9Go) | 3:57 |

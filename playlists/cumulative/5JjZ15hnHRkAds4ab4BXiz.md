@@ -4,11 +4,11 @@
 
 > 
 
-539 songs - 1 day 10 hr 9 min
+540 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [&](https://open.spotify.com/track/2vzbU9nlpIMYxlt0FucOHi) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 3:14 | 2024-05-24 |  |
+| [&](https://open.spotify.com/track/2vzbU9nlpIMYxlt0FucOHi) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 3:14 | 2024-05-24 | 2025-02-20 |
 | [\(Girl We Got A\) Good Thing](https://open.spotify.com/track/3L01B9S9TUTAfJxfcXHZe0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:25 | 2024-06-06 |  |
 | [\(Your Cat\) Don’t Stand a Chance](https://open.spotify.com/track/2TBzNN9Sw3wEITrybN1IrS) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 2:50 | 2024-12-28 |  |
 | [11th Dimension](https://open.spotify.com/track/0DriQnN8udBkSpQjg9L7u2) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 4:03 | 2024-06-10 |  |
@@ -201,6 +201,7 @@
 | [I Don't Make Me](https://open.spotify.com/track/5vXifLWca80rlCiGVK9tdA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:35 | 2024-07-30 |  |
 | [I Don't Owe You Anything \- 2011 Remaster](https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 4:04 | 2024-04-09 |  |
 | [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 4:15 | 2024-07-11 |  |
+| [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2025-02-20 |  |
 | [I Know It's Over \- 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 5:49 | 2024-04-04 | 2024-04-22 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-11-12 |  |
 | [I Still Remember](https://open.spotify.com/track/4pN5iBtBAjDzxtXum40oNj) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:21 | 2025-02-17 |  |

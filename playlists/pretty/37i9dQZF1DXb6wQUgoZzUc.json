@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1036895,
+  "num_followers": 1037056,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -663,38 +663,18 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Guatauba XXX",
-        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Guatauba",
-      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -723,6 +703,22 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Guatauba XXX",
+        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Guatauba",
+      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -823,34 +819,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
+        },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -875,6 +859,22 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
+        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 192347,
+      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
+      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
-        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 192347,
-      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
-      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -1679,26 +1695,6 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Ferxxoko",
-        "url": "https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "Ferxxoko",
-      "url": "https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Ferxxoko",
+        "url": "https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "Ferxxoko",
+      "url": "https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1959,30 +1959,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Ella Quiere Hmm... Haa... Hmm...",
-        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
-      },
-      "artists": [
-        {
-          "name": "Leka el Poeta",
-          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
-        },
-        {
-          "name": "Mishelle Master Boys",
-          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
-        },
-        {
-          "name": "DJ Yayo",
-          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
-        }
-      ],
-      "duration_ms": 212114,
-      "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
-      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -2007,6 +1983,30 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "Ella Quiere Hmm... Haa... Hmm...",
+        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
+      },
+      "artists": [
+        {
+          "name": "Leka el Poeta",
+          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
+        },
+        {
+          "name": "Mishelle Master Boys",
+          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
+        },
+        {
+          "name": "DJ Yayo",
+          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
+        }
+      ],
+      "duration_ms": 212114,
+      "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
+      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "LA NENA",
         "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
@@ -2023,26 +2023,6 @@
       "duration_ms": 200040,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "SERIO CON ESE Q",
-        "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 247468,
-      "name": "SERIO CON ESE Q",
-      "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -2091,6 +2071,26 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "SERIO CON ESE Q",
+        "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 247468,
+      "name": "SERIO CON ESE Q",
+      "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "PRIMER AVISO",
         "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
@@ -2127,26 +2127,26 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "SEXOLANDIA",
-        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
         }
       ],
-      "duration_ms": 197830,
-      "name": "BEIBY - Remix",
-      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -2175,26 +2175,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Mejor Que Yo",
-        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 242696,
-      "name": "Mejor Que Yo",
-      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+      "duration_ms": 203529,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
     }
   ],
   "unique_name": "La Casa del Perreo",

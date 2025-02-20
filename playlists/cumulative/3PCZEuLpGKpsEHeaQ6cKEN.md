@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Jan Blomqvist
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,291 songs - 2 day 21 hr 0 min
+1,292 songs - 2 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,6 +1276,7 @@
 | [Would You Even Know](https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Would You Even Know](https://open.spotify.com/album/4BNrohSLaSA4ifKPJyzUts) | 3:17 | 2023-05-25 | 2023-08-20 |
 | [Wounded](https://open.spotify.com/track/1AYzsjmSbR16jDDfTUf9ff) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Armada Music Year Mix 2022, Vol\. 1](https://open.spotify.com/album/71medK8B0OS8y3wz95AFEi) | 3:11 | 2022-12-08 | 2023-05-19 |
 | [Wounded](https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Wounded](https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP) | 3:11 | 2022-06-09 | 2022-12-09 |
+| [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 | 2025-02-19 |  |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-08-12 |  |
 | [Yes or No](https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2) | 2:55 | 2022-08-24 | 2023-06-06 |
 | [Yesterday](https://open.spotify.com/track/4xiat1EP72FQvPzB7hcqSf) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Yesterday](https://open.spotify.com/album/2UiE40jBlxj78yq7atA4nw) | 3:12 | 2024-05-02 | 2024-10-19 |

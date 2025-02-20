@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: יסמין מועלם
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,560 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,559 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 60 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 61 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
 | 62 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
-| 63 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
-| 64 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |
+| 63 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 |
+| 64 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
 | 65 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 |
 | 66 | [yes, and?](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/4IQ9AV1mEjteHrc8KzMDDT) | 3:34 |
 | 67 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 |
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 69 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 |
 | 70 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 |
 | 71 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
-| 72 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 |
+| 72 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
 | 73 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 |
-| 74 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
+| 74 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 |
 | 75 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
 | 76 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
 | 77 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
 | 78 | [לדפוק ת'ראש](https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [רותם סלע](https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3), [דני קושמרו](https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN), [אורי גבריאל](https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0), [אסי ישראלוף](https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:58 |
 | 79 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
-| 80 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 |
-| 81 | [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 |
+| 80 | [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 |
+| 81 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 |
 | 82 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
 | 83 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 |
 | 84 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |

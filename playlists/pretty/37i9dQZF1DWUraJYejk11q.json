@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 464424,
+  "num_followers": 464452,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2024-08-21 01:53:50",
       "album": {
         "name": "OUTSPOKEN",
@@ -399,6 +383,22 @@
       "duration_ms": 231195,
       "name": "BET YOU NEVER",
       "url": "https://open.spotify.com/track/1jhXnfRck8f08uzcFU21nh"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2024-07-02 21:24:59",
@@ -669,38 +669,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2022-03-11 06:33:02",
-      "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -719,6 +687,38 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-03-11 06:33:02",
+      "album": {
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2023-03-31 19:28:59",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
-      "added_at": "2022-04-12 02:09:40",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
       "added_at": "2022-08-19 02:33:31",
       "album": {
         "name": "Order",
@@ -875,6 +859,22 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
+    },
+    {
+      "added_at": "2022-04-12 02:09:40",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     }
   ],
   "unique_name": "Genre Glitch",

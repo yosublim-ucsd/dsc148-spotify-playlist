@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 18 songs - 34 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 18 songs - 34 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

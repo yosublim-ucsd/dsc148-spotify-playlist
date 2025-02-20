@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Lieder (feat. Emilio)",
+        "url": "https://open.spotify.com/album/2MQdsM0iR0xbYPcZEm2FjC"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155986,
+      "name": "100 Lieder (feat. Emilio)",
+      "url": "https://open.spotify.com/track/3FbL8x2u8jTgDJPold5efe"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
@@ -16,7 +38,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
@@ -404,7 +426,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -512,10 +534,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "album": {
@@ -646,6 +686,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
     },
     {
       "album": {
@@ -883,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/2rTDXdAyl0MkYaF0XpUHz4"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164415,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/36BeMqxR7q254G08CemQ8L"
+    },
+    {
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
@@ -1004,7 +1080,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 168746,
       "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
       "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
@@ -1022,7 +1098,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -1170,7 +1246,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 148318,
       "name": "Heimweh",
       "url": "https://open.spotify.com/track/3EKWorBKvdRrwpnMEwMHVK"
@@ -1391,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Im Doing Fine",
+        "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        },
+        {
+          "name": "Promoting Sounds",
+          "url": "https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99844,
+      "name": "Im Doing Fine",
+      "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
+    },
+    {
+      "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
@@ -1464,7 +1562,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -1731,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm"
+    },
+    {
+      "album": {
         "name": "Mama hat gesagt",
         "url": "https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu"
       },
@@ -1873,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
       },
@@ -2000,6 +2134,24 @@
       "duration_ms": 146546,
       "name": "Only One I Need",
       "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
+    },
+    {
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "album": {
@@ -2270,7 +2422,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
@@ -2606,7 +2758,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
@@ -2944,6 +3096,28 @@
       "duration_ms": 141815,
       "name": "W\u00fcnsch dir das Beste",
       "url": "https://open.spotify.com/track/7GHyGCAJ1ILXaFAkvaIEhq"
+    },
+    {
+      "album": {
+        "name": "Zwischen den St\u00fchlen",
+        "url": "https://open.spotify.com/album/2Zor7JQkb1FGBaggivoVIW"
+      },
+      "artists": [
+        {
+          "name": "Fabian Wegerer",
+          "url": "https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ"
+        },
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167339,
+      "name": "Zwischen den St\u00fchlen",
+      "url": "https://open.spotify.com/track/72W1X7orvpZ6JBa9PMLYth"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSWyJydK4fTU"

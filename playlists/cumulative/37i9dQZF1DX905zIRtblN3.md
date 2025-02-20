@@ -4,7 +4,7 @@
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Fuerza Regida.
 
-635 songs - 1 day 9 hr 19 min
+636 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2022-12-23 | 2023-06-17 |
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-17 | 2023-04-18 |
 | [DDD \(Don Dimadon\)](https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF) | [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [DDD \(Don Dimadon\)](https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe) | 3:05 | 2024-03-01 | 2024-03-09 |
-| [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 | 2025-01-31 |  |
+| [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 | 2025-01-31 | 2025-02-20 |
 | [De Contrabando](https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:06 | 2022-03-03 | 2022-04-02 |
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-09-01 | 2023-10-21 |
 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 | 2024-09-27 | 2024-11-08 |
@@ -563,6 +563,7 @@
 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 | 2022-03-11 | 2022-04-09 |
 | [Te Lo Dije](https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Te Lo Dije](https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt) | 3:18 | 2024-11-15 | 2024-12-20 |
+| [Te Metiste \- Spotify Single](https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Te Metiste \- Spotify Single](https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr) | 3:22 | 2025-02-20 |  |
 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 | 2023-04-07 | 2023-09-23 |
 | [Te Vale Madre](https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Vale Madre](https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm) | 2:31 | 2022-11-18 | 2022-12-24 |
 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 | 2024-07-05 | 2024-11-30 |

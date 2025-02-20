@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: LI YILEI",
-  "num_followers": 49408,
+  "num_followers": 49480,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 421463,
-      "name": "Suite Pour L'invisible",
-      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 121000,
       "name": "Withdrawal",
       "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 421463,
+      "name": "Suite Pour L'invisible",
+      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
       "artists": [
         {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
         }
       ],
-      "duration_ms": 186082,
-      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
-      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
       "artists": [
         {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "One Universal Breath",
-        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
-      },
-      "artists": [
-        {
-          "name": "Veryan",
-          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Lift Hands",
-      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Comme Un Seul Narcisse",
-        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Jefre Cantu-Ledesma",
-          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
-        }
-      ],
-      "duration_ms": 261565,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2025-01-31 04:00:25",
-      "album": {
         "name": "World Breathes",
         "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2025-01-31 04:00:25",
+      "album": {
+        "name": "Comme Un Seul Narcisse",
+        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+        }
+      ],
+      "duration_ms": 261565,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+        "name": "Fur & Feather",
+        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2025-01-31 04:00:25",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-01-31 04:00:25",
       "album": {
-        "name": "Fur & Feather",
-        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
       },
       "artists": [
         {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2025-01-31 04:00:25",

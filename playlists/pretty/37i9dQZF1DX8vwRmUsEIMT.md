@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: AJ Tracey ft\. Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,675 likes - 96 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,709 likes - 96 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 95 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 |
 | 96 | [It's Cool](https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [It's Cool](https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq) | 2:09 |
 
-Snapshot ID: `Z68TPgAAAAAixfGliO5C1XJKOSUQSEYZ`
+Snapshot ID: `Z68TPgAAAABNiEhwEeUqqCaY1uPfipFt`

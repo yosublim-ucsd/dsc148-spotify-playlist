@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: B Wise
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,449 likes - 89 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,457 likes - 89 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

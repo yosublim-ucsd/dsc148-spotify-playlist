@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 150643,
+  "num_followers": 150707,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 352586,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "The Best Of Stephanie Mills",
         "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 325173,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-01-03 20:45:47",

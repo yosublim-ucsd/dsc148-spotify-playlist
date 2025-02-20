@@ -1,6 +1,6 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 100590,
+  "num_followers": 100593,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Mail on Sunday",
-        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Low (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
+        "name": "Mail on Sunday",
+        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Low (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
     },
     {
       "added_at": "2025-01-24 05:00:29",

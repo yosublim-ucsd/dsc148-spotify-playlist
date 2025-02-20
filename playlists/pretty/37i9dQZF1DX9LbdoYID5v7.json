@@ -1,6 +1,6 @@
 {
   "description": "20 years of <a href=\"https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=Up0hqVCISie7spJeiLtmXQ\">I'm Wide Awake, It's Morning</a> Cover: Bright Eyes",
-  "num_followers": 536665,
+  "num_followers": 536874,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Take Your Mama",
-      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "The Bravery",
         "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 219706,
       "name": "An Honest Mistake",
       "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Take Your Mama",
+      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "The Moon & Antarctica",
         "url": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 259839,
       "name": "Gravity Rides Everything",
       "url": "https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2025-01-25 05:00:16",

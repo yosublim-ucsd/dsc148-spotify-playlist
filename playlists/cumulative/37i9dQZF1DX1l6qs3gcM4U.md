@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Nelson Freitas
 
-468 songs - 1 day 3 hr 22 min
+469 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Leva\-me](https://open.spotify.com/track/4Wgx8lyWBUUNLDcsDTcvoM) | [Daddy Killa](https://open.spotify.com/artist/21xKuobocMBa0omJ77PVuu) | [Kizomba All Stars : Les meilleurs tubes et nouveautés de Kizomba](https://open.spotify.com/album/7qdWGJCi2yp8DumQKakwS8) | 3:44 | 2022-03-25 | 2022-04-16 |
 | [Limbisa \- Kriolu Version](https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a) | 2:43 | 2023-08-31 |  |
 | [Loucos \(feat\. Héber Marques\)](https://open.spotify.com/track/49Fu8EcEOZ9OnpM1XpPpyU) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Héber Marques](https://open.spotify.com/artist/0zx5FDnRrsrqWHLg1ytMzD) | [Por Amor](https://open.spotify.com/album/3KJF1hZ80F0ELcO4Lz2c2J) | 4:30 | 2022-03-25 | 2022-08-05 |
-| [Love](https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO) | [J Levy](https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ), [Labo Music](https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL), [Dj kalisboy](https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV) | [Love](https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ) | 3:06 | 2024-07-25 |  |
+| [Love](https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO) | [J Levy](https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ), [Labo Music](https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL), [Dj kalisboy](https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV) | [Love](https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ) | 3:06 | 2024-07-25 | 2025-02-20 |
 | [Love Again \(feat\. Sauti Sol\)](https://open.spotify.com/track/03hnjC8kAVy9tmfgcB0p0y) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Love Again \(feat\. Sauti Sol\)](https://open.spotify.com/album/65csCPagwDCwOKMmgZ86zU) | 4:11 | 2022-03-14 | 2022-04-20 |
 | [Lugar Perfeito](https://open.spotify.com/track/2hzHWq9LBhoj1YvSTvvwSR) | [Biura](https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Maratonista](https://open.spotify.com/album/6Fno90bIPHsLTN0SAxD4fW) | 3:36 | 2024-12-06 | 2025-02-16 |
 | [Lá Vou Eu](https://open.spotify.com/track/2YObe8aBKDcMvkUc4Gi9Jx) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Lá Vou Eu](https://open.spotify.com/album/6yoE5BWmotfJGEK5jRO8Na) | 3:00 | 2022-01-21 | 2022-01-25 |
@@ -235,6 +235,7 @@
 | [Marilia Mendonça](https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1) | [Cleyton David](https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Marilia Mendonça](https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B) | 2:54 | 2024-08-15 | 2024-10-25 |
 | [Mawa](https://open.spotify.com/track/5bXvjd7qb3DTgEiHgxPMZH) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2), [Was Lost Studios](https://open.spotify.com/artist/10jKTGVTtMr5StHwIZq3YQ) | [Mawa](https://open.spotify.com/album/19CtRy9IijP7sPMIhlW2ul) | 2:54 | 2025-01-17 |  |
 | [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 |  |
+| [MAZ UM BEIJO](https://open.spotify.com/track/5jm17DxeJ0u5wgqpBOrweD) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [MAZ UM BEIJO](https://open.spotify.com/album/0FpmtHrC2cjAp44hVMTeDq) | 3:01 | 2025-02-14 |  |
 | [Maz um Bez](https://open.spotify.com/track/3i51mGFIPlxIMr8XfNMZkT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Flavia](https://open.spotify.com/artist/0As0WODg9QYtHKWGb1eMNR) | [Maz um Bez](https://open.spotify.com/album/2txbkYlDryHQ8EXwwD35It) | 3:40 | 2022-06-16 | 2022-06-29 |
 | [Me Agarra So' No Uhm!](https://open.spotify.com/track/5nUSHjOlAyF6a6AaEuq6k5) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Mais Kizomba Hits](https://open.spotify.com/album/5SVQJF5cnfUR2qlAnFmslB) | 3:40 | 2022-03-25 | 2022-04-18 |
 | [Me Dão Na Cara](https://open.spotify.com/track/1lvAa1i6csI91Qu8I6pRjp) | [Yudi Fox](https://open.spotify.com/artist/3nv6fTNnQNbSDGxU9f9oSG), [Jenny Brown](https://open.spotify.com/artist/7d7gQ2vrrYzj2lgmGtvGtY) | [O Outro Lado](https://open.spotify.com/album/7DQMiAp7BZiJQaMYTnMeY6) | 3:28 | 2021-12-10 | 2022-07-25 |

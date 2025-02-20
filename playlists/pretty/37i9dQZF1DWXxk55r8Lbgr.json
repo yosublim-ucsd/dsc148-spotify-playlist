@@ -1,6 +1,6 @@
 {
   "description": "\u8611\u83c7\u6fc3\u6e6f\u4f86\u4e86\uff01\u5feb\u9ede\u5feb\u9ede\u5feb\u9ede\u5466\uff01\u548c\u5bf6\u8c9d\u4e00\u8d77\u5feb\u6a02\u5531\u5531\u8df3\u8df3\u5427\uff01",
-  "num_followers": 8814,
+  "num_followers": 8816,
   "original_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-13 16:00:16",
       "album": {
-        "name": "\u55f6\u55f6\u54e9\u5df4\u55f6\u54e9\u5e03",
-        "url": "https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Huang Lu Zi Yin",
-          "url": "https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK"
-        }
-      ],
-      "duration_ms": 179138,
-      "name": "\u55f6\u55f6\u54e9\u5df4\u55f6\u54e9\u5e03 - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa"
-    },
-    {
-      "added_at": "2025-02-13 16:00:16",
-      "album": {
         "name": "miki's LUCKY",
         "url": "https://open.spotify.com/album/1V6Vh4rbaLF3xjapDNMB8W"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 78738,
       "name": "\u661f\u661f\u7728\u773c\u775b",
       "url": "https://open.spotify.com/track/1AcIbZ07xaBfrFebtkjYFl"
+    },
+    {
+      "added_at": "2025-02-13 16:00:16",
+      "album": {
+        "name": "\u55f6\u55f6\u54e9\u5df4\u55f6\u54e9\u5e03",
+        "url": "https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Huang Lu Zi Yin",
+          "url": "https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK"
+        }
+      ],
+      "duration_ms": 179138,
+      "name": "\u55f6\u55f6\u54e9\u5df4\u55f6\u54e9\u5e03 - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa"
     },
     {
       "added_at": "2025-02-13 16:00:16",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-02-13 16:00:16",
       "album": {
-        "name": "100\u9996\u53ef\u611b\u7684\u7ae5\u8b202 \u4e0b\u96c6",
-        "url": "https://open.spotify.com/album/5wbHj4TaXibGy3GascDqrx"
+        "name": "miki's JOY",
+        "url": "https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS"
       },
       "artists": [
         {
-          "name": "\u9280\u6cb3\u5c0f\u6b4c\u661f",
-          "url": "https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4"
+          "name": "miki\u65bd\u5b5f\u742a",
+          "url": "https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt"
         }
       ],
-      "duration_ms": 120760,
-      "name": "\u62d4\u863f\u8514",
-      "url": "https://open.spotify.com/track/3OsgWGL6sJ20yUbM9wq1OV"
+      "duration_ms": 80716,
+      "name": "\u661f\u661f\u6708\u4eae\u592a\u967d",
+      "url": "https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW"
     },
     {
       "added_at": "2025-02-13 16:00:16",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-02-13 16:00:16",
       "album": {
-        "name": "miki's JOY",
-        "url": "https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS"
+        "name": "100\u9996\u53ef\u611b\u7684\u7ae5\u8b202 \u4e0b\u96c6",
+        "url": "https://open.spotify.com/album/5wbHj4TaXibGy3GascDqrx"
       },
       "artists": [
         {
-          "name": "miki\u65bd\u5b5f\u742a",
-          "url": "https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt"
+          "name": "\u9280\u6cb3\u5c0f\u6b4c\u661f",
+          "url": "https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4"
         }
       ],
-      "duration_ms": 80716,
-      "name": "\u661f\u661f\u6708\u4eae\u592a\u967d",
-      "url": "https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW"
+      "duration_ms": 120760,
+      "name": "\u62d4\u863f\u8514",
+      "url": "https://open.spotify.com/track/3OsgWGL6sJ20yUbM9wq1OV"
     },
     {
       "added_at": "2025-02-13 16:00:16",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-02-13 16:00:16",
       "album": {
-        "name": "100\u9996\u53ef\u611b\u7684\u7ae5\u8b203 \u4e0b\u96c6",
-        "url": "https://open.spotify.com/album/75BfWLo17gUkjTdQAtj42b"
+        "name": "miki's JOY",
+        "url": "https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS"
       },
       "artists": [
         {
-          "name": "\u9280\u6cb3\u5c0f\u6b4c\u661f",
-          "url": "https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4"
+          "name": "miki\u65bd\u5b5f\u742a",
+          "url": "https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt"
         }
       ],
-      "duration_ms": 98960,
-      "name": "\u54c8\u5df4\u72d7",
-      "url": "https://open.spotify.com/track/0TB6DJWfx2I18RnQsjSP12"
+      "duration_ms": 61933,
+      "name": "\u5feb\u6a02\u4e0a\u5b78\u53bb",
+      "url": "https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w"
     },
     {
       "added_at": "2025-02-13 16:00:16",

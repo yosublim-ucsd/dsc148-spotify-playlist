@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Solace Out The Door
 
-269 songs - 16 hr 36 min
+271 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['Di Bale Na Lang](https://open.spotify.com/track/3pSEi2X7aUdBwLlx8iffjX) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | ['Di Bale Na Lang](https://open.spotify.com/album/612S8FDN4b3o6kZJXD1kW6) | 4:05 | 2024-06-26 | 2024-08-15 |
 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2024-01-24 | 2024-05-09 |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-04-17 | 2024-06-06 |
-| [A to Z \(Drop It\)](https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [A to Z \(Drop It\)](https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk) | 3:30 | 2024-12-11 |  |
+| [A to Z \(Drop It\)](https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [A to Z \(Drop It\)](https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk) | 3:30 | 2024-12-11 | 2025-02-20 |
 | [Akin Ka](https://open.spotify.com/track/6h2qKhKTodKT289Gx65X7X) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Akin Ka](https://open.spotify.com/album/57wzrjEKkJPJJ9S7BArBva) | 5:21 | 2024-01-24 | 2024-02-08 |
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-01-24 | 2024-04-04 |
 | [Ang Himala Ay Nasa Puso \- From "Isang Himala"](https://open.spotify.com/track/7okKzmRUYkKliDRs1x7vXl) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Ang Himala Ay Nasa Puso \(From "Isang Himala"\)](https://open.spotify.com/album/0jy2q8JkmnbNtQoz2n5FSb) | 4:00 | 2025-01-15 |  |
@@ -46,6 +46,7 @@
 | [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-11 |  |
 | [Buti Nalang](https://open.spotify.com/track/35k1RDZMyUYDYz8wcEQHO2) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Buti Nalang](https://open.spotify.com/album/2zFxPP8mY2CEFE3ZHspqfM) | 3:39 | 2024-03-27 | 2024-05-15 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-17 | 2024-10-24 |
+| [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 |  |
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 | 2024-11-21 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-01-24 | 2024-05-09 |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-15 | 2024-07-18 |
@@ -93,7 +94,7 @@
 | [Hoy!](https://open.spotify.com/track/7kTlnlBIKQvt2dQD1f58kE) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:21 | 2024-01-24 | 2024-04-11 |
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-01-31 | 2024-04-11 |
 | [Huling Liham](https://open.spotify.com/track/5lM05T9khhd1esKZNQ0u2p) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Huling Liham](https://open.spotify.com/album/6Ec7m4RcENPvxbvlgNQQtA) | 2:31 | 2024-12-25 |  |
-| [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-08 |  |
+| [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-08 | 2025-02-20 |
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-01-24 | 2024-04-19 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-24 | 2024-02-22 |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-03 | 2024-08-01 |
@@ -104,7 +105,7 @@
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2024-01-24 | 2024-02-15 |
 | [Isaoras](https://open.spotify.com/track/3Y7z75svn2ooKMf5TobAta) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Isaoras](https://open.spotify.com/album/6xHImhEYUjp8j5Sqry69jK) | 4:15 | 2024-02-14 | 2024-05-02 |
 | [jeep](https://open.spotify.com/track/5NgjXaVAsC3JIia1h9cxcG) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [jeep](https://open.spotify.com/album/6WeVmgeFWZrMQAQBNHszqx) | 4:21 | 2024-10-09 | 2024-12-12 |
-| [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 | 2025-01-15 |  |
+| [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 | 2025-01-15 | 2025-02-20 |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-24 | 2024-12-12 |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-24 | 2024-09-05 |
@@ -163,6 +164,7 @@
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-20 | 2024-11-28 |
 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 | 2025-01-01 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2024-01-24 | 2024-02-29 |
+| [Nagmamahal Lang Ako](https://open.spotify.com/track/1d9sTxRHVOUEpyqdmN7cJJ) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Nagmamahal Lang Ako](https://open.spotify.com/album/0Ws6ZppiiRdOad3SQELgUk) | 5:07 | 2025-02-19 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2024-01-24 | 2024-04-19 |
 | [Naliligaw](https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Naliligaw](https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn) | 2:58 | 2024-08-07 | 2024-10-03 |
 | [Namimiss Ko Na](https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Namimiss Ko Na](https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL) | 4:10 | 2024-03-20 | 2024-08-08 |

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-371 songs - 16 hr 46 min
+373 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 2:33 | 2022-05-13 | 2022-06-10 |
 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 | 2022-08-12 | 2023-09-16 |
 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 | 2022-05-13 | 2023-09-01 |
+| [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 | 2025-02-19 |  |
 | [Long Gone](https://open.spotify.com/track/7oZeBMWwQtci8I9QfeUsmh) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 2:26 | 2022-05-13 | 2024-04-06 |
 | [Lost and Found](https://open.spotify.com/track/7KeTfLV4aFGz7ltM0mtNpS) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Lost and Found](https://open.spotify.com/album/5BGvqaNbefYZUxDEmqykcy) | 2:49 | 2022-05-13 | 2022-05-27 |
 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 | 2022-05-13 | 2024-04-20 |
@@ -286,6 +287,7 @@
 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-11-05 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-06-09 | 2023-09-16 |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-02-23 |
+| [Slowly Rising](https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Slowly Rising](https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM) | 2:16 | 2025-02-19 |  |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-05-25 |
 | [Some Relief](https://open.spotify.com/track/6pa3sT6pQ7OmqTQDQrr9Qj) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Some Relief](https://open.spotify.com/album/5ZVDW1j5RqiwtBBuwGFgib) | 2:31 | 2024-09-03 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |

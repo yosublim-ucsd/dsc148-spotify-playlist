@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,725 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,783 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,17 +94,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 84 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
 | 85 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 |
 | 86 | [Goodbye](https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:28 |
-| 87 | [Somebody to Love Me](https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 4:57 |
-| 88 | [Want You In My Room](https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 2:46 |
-| 89 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
-| 90 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
+| 87 | [Want You In My Room](https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 2:46 |
+| 88 | [Somebody to Love Me](https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 4:57 |
+| 89 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
+| 90 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
 | 91 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
 | 92 | [Touch Me \(All Night Long\) \- 7" Mix](https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V) | [Cathy Dennis](https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp) | [Move To This \(Polydor Expanded Edition\)](https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c) | 3:29 |
 | 93 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 94 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 95 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
-| 96 | [Tony the Beat](https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:12 |
-| 97 | [Neon Lights](https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8) | 3:53 |
+| 96 | [Neon Lights](https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8) | 3:53 |
+| 97 | [Tony the Beat](https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:12 |
 | 98 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/59y1GvRkizGx5nAJpUbj4o) | 4:11 |
 | 99 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |
 | 100 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |

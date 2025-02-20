@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,242 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,338 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 67 | [Trompe\-l'oeil](https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Trompe\-l'oeil](https://open.spotify.com/album/6cuvswbgSkYojNo21x3Sjy) | 2:55 |
 | 68 | [Mirage](https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Bedroom Sessions](https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx) | 3:13 |
 | 69 | [Jump Cut](https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Jump Cut](https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS) | 3:53 |
-| 70 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm), [Gabriel Rei](https://open.spotify.com/artist/2ON9JK0EMTcqp5Cri2aHch) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
+| 70 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
 | 71 | [Une nuit à Paris](https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Claire Morrison](https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg) | [Une nuit à Paris](https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym) | 3:04 |
 | 72 | [Give Me Time](https://open.spotify.com/track/1yr0y9if1dqK9MHHNrRTBi) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:34 |
 | 73 | [Plateau Botticelli](https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m) | [Aistis](https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR) | [Plateau Botticelli](https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK) | 3:46 |

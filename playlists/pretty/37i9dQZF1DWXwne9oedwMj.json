@@ -1,6 +1,6 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 5994,
+  "num_followers": 6012,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
@@ -555,8 +555,8 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
       },
       "artists": [
         {
@@ -564,13 +564,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -671,8 +671,8 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
       },
       "artists": [
         {
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Te Cura (FAST X Soundtrack)",
-        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Te Cura",
-      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 200494,
       "name": "Fabuloso",
       "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Te Cura (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Te Cura",
+      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "EL TONTO",
+        "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 172621,
       "name": "te pongo mal(prendelo)",
       "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "EL TONTO",
-        "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "EL TONTO",
-      "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
     },
     {
       "added_at": "2023-07-28 18:06:51",

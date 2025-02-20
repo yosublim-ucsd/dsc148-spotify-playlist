@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 29330,
+  "num_followers": 29404,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+      "duration_ms": 306453,
+      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
     },
     {
       "added_at": "2024-09-06 20:51:37",
@@ -159,22 +163,18 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2024-09-06 20:51:37",

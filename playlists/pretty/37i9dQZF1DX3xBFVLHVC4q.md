@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,331 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,338 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 42 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
 | 43 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 |
 | 44 | [夏への扉 \- Never end ver.](https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:15 |
-| 45 | [地元愛♡満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
+| 45 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 |
 | 46 | [夏の終わりの雨音が](https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 5:21 |
 | 47 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
-| 48 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 |
+| 48 | [地元愛♡満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
 | 49 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 |
 | 50 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 

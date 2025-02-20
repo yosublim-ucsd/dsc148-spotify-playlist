@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,906 songs - 1 day 14 hr 52 min
+1,908 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Beautiful View](https://open.spotify.com/track/0e8PYUdv6FZsS2eV88On5x) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Beautiful View](https://open.spotify.com/album/2t4KLsMsGtEa73yaWlhUsy) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Beautiful View Arr\. For Strings](https://open.spotify.com/track/4cfBkwJsE1xr5AOlmmrnei) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Beautiful View Revisited](https://open.spotify.com/album/4Hn67vS26LnFHqifKUvZTu) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Beautiful Vista](https://open.spotify.com/track/7dGPD97GHbCKttw9VgsTjM) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:01 | 2022-05-14 |  |
+| [Beautiful Voice](https://open.spotify.com/track/4jEXw5D0zPWohduaIF4R0n) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Winter Morning Piano](https://open.spotify.com/album/4XZqpJ5VM0DhvC8vIfsWN1) | 1:00 | 2025-02-19 |  |
 | [Beautiful World](https://open.spotify.com/track/5EoRWptnl78AQIbhnbeYLU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful World](https://open.spotify.com/album/4vAsglUcnphuTDS6PkujoW) | 1:00 | 2025-01-19 |  |
 | [Beautiful You](https://open.spotify.com/track/5F6l7Qh9CtCNu45ZjZfw6p) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:18 | 2022-01-12 |  |
 | [Beautifully Faded](https://open.spotify.com/track/7DO50xaeVoGsSRzmj9IRzQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:42 | 2022-01-20 | 2024-01-30 |
@@ -1480,6 +1481,7 @@
 | [Skies](https://open.spotify.com/track/2J3aTb3fexm0hf9M30th7b) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Skies](https://open.spotify.com/album/6oZZHp9yVNOOJHzQIXk2Bo) | 1:00 | 2024-04-04 |  |
 | [Skies Of Blue](https://open.spotify.com/track/0oNj2R3LsmAphfRJhzxzxk) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:07 | 2022-01-27 |  |
 | [Sky](https://open.spotify.com/track/5rHfbA9E0OEPD1H3hL51rM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-12 |  |
+| [Skyline](https://open.spotify.com/track/465IlPuk6gh20j06Sizl4O) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Winter Morning Piano](https://open.spotify.com/album/4XZqpJ5VM0DhvC8vIfsWN1) | 1:00 | 2025-02-19 |  |
 | [Slow Mornings \- Cello Version](https://open.spotify.com/track/4bFZkkVeM916PKXDyWThGF) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Slow Mornings](https://open.spotify.com/album/5OenU4fXyRDJEv4LLriE8f) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Slow Motion Arr\. For Cello](https://open.spotify.com/track/2FPMVNd9Ib7U9iwTiBThF4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion](https://open.spotify.com/album/4WLwsjuSi5qAgk9anYKGd1) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Slow Motion Arr\. For Strings](https://open.spotify.com/track/0UZPE87NB5clcBB5Q5zZ3G) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion Arr\. For Strings](https://open.spotify.com/album/3TN0A6kek2KJVdJlyw2i9E) | 1:01 | 2024-02-09 | 2024-02-13 |

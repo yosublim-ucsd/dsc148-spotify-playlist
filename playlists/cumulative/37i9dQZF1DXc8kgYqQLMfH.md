@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,201 songs - 1 day 21 hr 47 min
+1,203 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Altitude](https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Altitude](https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ) | 2:11 | 2023-12-15 |  |
 | [Always, All Ways](https://open.spotify.com/track/5o01wc9R8BeRvHd3KYRkCL) | [Jcomadeit](https://open.spotify.com/artist/5acyyyz8DVuN98IloXF3eC), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:00 | 2022-08-19 | 2023-09-26 |
 | [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 | 2022-07-15 | 2023-05-20 |
+| [amnesia](https://open.spotify.com/track/3vYZ9IEqfFakxgfrJnxuPK) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [amnesia](https://open.spotify.com/album/3quW6PLhZ9D7Ex2nRsO47n) | 1:56 | 2025-02-19 |  |
 | [An Evening In March](https://open.spotify.com/track/0N1ICKD9OJEoMOeTGBDnNy) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [An Evening in March](https://open.spotify.com/album/3wrDjzDWqnEon5qyXHDeR1) | 2:07 | 2022-10-07 | 2023-10-06 |
 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 | 2021-11-10 | 2022-10-29 |
 | [Anana](https://open.spotify.com/track/4TY0F64NzsNguy8p0I2Nge) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 3:21 | 2022-05-27 |  |
@@ -325,7 +326,7 @@
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-11-10 | 2022-07-22 |
 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 | 2021-11-10 | 2023-04-12 |
 | [Eternal Minds](https://open.spotify.com/track/1hI8kgl7nOWmpWDS4TPPqa) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Eternal Minds](https://open.spotify.com/album/7Drd5CWkI3dxigj0DVHiLL) | 2:20 | 2023-10-13 |  |
-| [Ethereal](https://open.spotify.com/track/1ThCIYjM5j5UWPRd39PEd8) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Ethereal](https://open.spotify.com/album/1fIKqOS8o1aNSwloiSAUz3) | 2:48 | 2025-01-10 |  |
+| [Ethereal](https://open.spotify.com/track/1ThCIYjM5j5UWPRd39PEd8) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Ethereal](https://open.spotify.com/album/1fIKqOS8o1aNSwloiSAUz3) | 2:48 | 2025-01-10 | 2025-02-20 |
 | [Euphoria](https://open.spotify.com/track/0qgXZF5hTjzDwDPlA6HpnU) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Warm Nights](https://open.spotify.com/album/0qnFGkqi7L34QsotdUuamX) | 2:20 | 2021-11-10 | 2022-12-10 |
 | [Euphoria](https://open.spotify.com/track/39yS0HJkCRzrRjh5OelsAW) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Euphoria](https://open.spotify.com/album/3ZjqNRHAUFViOd9jbiWWuS) | 2:20 | 2021-11-10 | 2022-12-10 |
 | [Euphoric](https://open.spotify.com/track/0AaQgKARIKwxBYUrS3qXdW) | [Arcade Portal](https://open.spotify.com/artist/2ylDslxcPkV822VyLZ5yky) | [Euphoric](https://open.spotify.com/album/05puUua8zmqcIT6OQiIxls) | 1:57 | 2021-11-10 | 2022-12-10 |
@@ -489,6 +490,7 @@
 | [I will remember, mom](https://open.spotify.com/track/0HB0eI8I0XfrJzWZbx187T) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [I will remember, mom](https://open.spotify.com/album/6ydRlhwca8eHiqGnxXQEQ2) | 3:22 | 2023-01-13 |  |
 | [i'm sorry](https://open.spotify.com/track/5axCWfV76SnK8XZzuMrAYr) | [Miyuki Kuzuoka](https://open.spotify.com/artist/4QP6hpplFH8kQZ0AKo0c1Z) | [i'm sorry](https://open.spotify.com/album/3YYrHBFzq2SEJ0at3JUHtT) | 1:43 | 2022-11-11 |  |
 | [Iced Latte](https://open.spotify.com/track/6iDTfeImqkfTYncTbO5x9i) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Iced Latte](https://open.spotify.com/album/1VOOyVqNDBRRnzX3IiWzJO) | 1:54 | 2022-04-08 | 2022-07-22 |
+| [Idle](https://open.spotify.com/track/0JNzya76xG0ubKczzLsvWo) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Idle](https://open.spotify.com/album/4BXVmxpA1IZbaCmqkiSIQE) | 2:13 | 2025-02-19 |  |
 | [if you could fly](https://open.spotify.com/track/360jCzboMk6N7JRW2IyuIo) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/6zI0uFVK438QHn7eXtC11i) | 2:18 | 2022-11-25 | 2022-12-08 |
 | [if you could fly](https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/5dCqU7kxTJ4IdMdXcbep15) | 2:18 | 2022-11-25 | 2023-11-11 |
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
@@ -907,7 +909,7 @@
 | [Season Pass](https://open.spotify.com/track/2Y1zvgPmwllGl2HQQZE8Mv) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Season Pass](https://open.spotify.com/album/3NzhqJzF747huNWpevdDUP) | 2:03 | 2023-04-20 | 2024-11-21 |
 | [Second Stage](https://open.spotify.com/track/2l3qdxdaKQEiIPUNPrqdUM) | [Kotsaku](https://open.spotify.com/artist/28tOzncpNDbM8j0dewexfs) | [Autumn](https://open.spotify.com/album/3UnSPg1VTRZZzghZtFzs6e) | 1:25 | 2021-11-10 | 2022-06-17 |
 | [Secret Mantra](https://open.spotify.com/track/2Vertop9xxP07Ti7HyRRLF) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Cheekybeefy](https://open.spotify.com/artist/1anJKb6IVtSwR7jAadjF3I), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Secret Mantra](https://open.spotify.com/album/4Su0oz2GGXpsgudBITdH0B) | 3:14 | 2022-11-11 |  |
-| [Secret Solitude](https://open.spotify.com/track/7mwdYirjJ8vSnLyIHUTZud) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Hemlig](https://open.spotify.com/album/1QQ346Dm9Jh4QQlM8kbPB3) | 2:20 | 2022-01-27 |  |
+| [Secret Solitude](https://open.spotify.com/track/7mwdYirjJ8vSnLyIHUTZud) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Hemlig](https://open.spotify.com/album/1QQ346Dm9Jh4QQlM8kbPB3) | 2:20 | 2022-01-27 | 2025-02-20 |
 | [See you soon](https://open.spotify.com/track/0AAmMbWCDAzq6EmI5NUGNC) | [Gedimi](https://open.spotify.com/artist/68cLSTXnIf1UtW0muey7LG) | [See you soon](https://open.spotify.com/album/73exb1SFjcjvVDh1xgabkI) | 2:26 | 2022-04-15 | 2023-08-04 |
 | [see you tomorrow](https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [see you tomorrow](https://open.spotify.com/album/2be7X7Fmq8snlAbYf0eEtn) | 2:51 | 2024-01-05 |  |
 | [Seeds](https://open.spotify.com/track/3GNKg8aQHtdx24BOTt2XZh) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk), [Roberto Bronco](https://open.spotify.com/artist/5HlpkSATa4mHlEcjv1MegV) | [One Element](https://open.spotify.com/album/7f8A1M2fY4u7SibnDgYO1N) | 1:32 | 2023-09-01 | 2023-10-23 |

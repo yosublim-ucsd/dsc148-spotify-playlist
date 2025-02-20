@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,151 likes - 86 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,155 likes - 86 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 35 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |
 | 36 | [munchies](https://open.spotify.com/track/2igMlLhuhOTVWXag1MD9lm) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [munchies](https://open.spotify.com/album/5u4K2KzXpMTy6iubXvQ36x) | 3:44 |
 | 37 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 |
-| 38 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 38 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 39 | [Mountain Song](https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Mountain Song](https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I) | 3:10 |
 | 40 | [wildflower \- acoustic](https://open.spotify.com/track/1YuJTypWfcjHlxPqpg3Kpc) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower \(acoustics\)](https://open.spotify.com/album/3cZMfJj7f7ro2EVRAAgROF) | 2:22 |
 | 41 | [Awake & Dreaming](https://open.spotify.com/track/6pD1sRBnBtUbwitUoZVrCc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Awake & Dreaming EP](https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG) | 3:47 |

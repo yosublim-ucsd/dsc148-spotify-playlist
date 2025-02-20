@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Jadakiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,812 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,900 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 27 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 28 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 |
 | 29 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 |
-| 30 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
-| 31 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
+| 30 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
+| 31 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 32 | [What You Want \(feat\. Total\)](https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 4:02 |
 | 33 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 |
 | 34 | [Nas Is Like](https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 3:57 |

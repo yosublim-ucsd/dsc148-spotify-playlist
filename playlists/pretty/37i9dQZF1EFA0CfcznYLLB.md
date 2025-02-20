@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,797 likes - 329 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,795 likes - 329 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,8 +222,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 212 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
 | 213 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
 | 214 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
-| 215 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
-| 216 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 215 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 216 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
 | 217 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
 | 218 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
 | 219 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 328 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 329 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Abp84AAAAABaV4HoDYyqb2lXHXguMWUM`
+Snapshot ID: `AbqCdgAAAAACsSwz3Yoq4oE1hPJzs5oP`

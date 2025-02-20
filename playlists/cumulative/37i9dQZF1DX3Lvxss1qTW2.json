@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
+      },
+      "artists": [
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        },
+        {
+          "name": "Tiimie",
+          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
+    },
+    {
+      "album": {
         "name": "Bus Stop",
         "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
       },
@@ -928,7 +950,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 142120,
       "name": "Can't Breathe",
       "url": "https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN"
@@ -1552,7 +1574,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 135652,
       "name": "Emmanuella",
       "url": "https://open.spotify.com/track/3sgFQajQAvJTYny1e8pJS4"
@@ -3501,6 +3523,28 @@
     },
     {
       "album": {
+        "name": "Management",
+        "url": "https://open.spotify.com/album/3PVtMX98Q3vs8El1WEORgb"
+      },
+      "artists": [
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/5kxMhIe7EvsRSkTT7Y8JYq"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/5Rtj2Js2qFv8ESYMRiTvTC"
       },
@@ -3932,7 +3976,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 173061,
       "name": "Nyash Na Nyash (feat. Young Jonn) - Remix",
       "url": "https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R"
@@ -4142,7 +4186,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 141030,
       "name": "OMW",
       "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
@@ -5142,7 +5186,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 195687,
       "name": "Tingrado",
       "url": "https://open.spotify.com/track/7MK10tIFcj1MMIaBDQWZhV"
@@ -5318,6 +5362,24 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Troubled Mind",
+      "url": "https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9"
     },
     {
       "album": {
@@ -5538,7 +5600,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 163790,
       "name": "wande's bop (feat. SPINALL)",
       "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"

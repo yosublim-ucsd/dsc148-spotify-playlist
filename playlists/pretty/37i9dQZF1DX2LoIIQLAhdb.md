@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Monsieur Nov x Lisandro Cuxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,672 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,684 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [J'hallucine](https://open.spotify.com/track/0wqcFuj737U2r1Sa0R6Pi2) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [J'hallucine](https://open.spotify.com/album/4krPzYrwDwC2bWhNJvqvdZ) | 2:36 |
 | 40 | [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 |
 
-Snapshot ID: `Z655iwAAAABevVXwztgLI1a5EQlPBwZw`
+Snapshot ID: `Z655iwAAAADVBO5LUlQl+gEg+AxutAsI`

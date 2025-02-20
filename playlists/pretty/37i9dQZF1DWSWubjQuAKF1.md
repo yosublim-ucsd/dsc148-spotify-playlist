@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Cyrko
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,409 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,423 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 16 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 |
 | 17 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 18 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
-| 19 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 19 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 20 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 |
 | 21 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 |
 | 22 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 36 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 |
 | 37 | [Na Siłę](https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [W Domu EP](https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ) | 3:54 |
 | 38 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 |
-| 39 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
-| 40 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
+| 39 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
+| 40 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
 | 41 | [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 |
 | 42 | [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 |
-| 43 | [hold my hand \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/12mIstRUj9otCIpO6ZLXUa) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [hold my hand \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/5LbaE7Z96J1aNDz3gFUw4i) | 3:41 |
-| 44 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 |
+| 43 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 |
+| 44 | [hold my hand \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/12mIstRUj9otCIpO6ZLXUa) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [hold my hand \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/5LbaE7Z96J1aNDz3gFUw4i) | 3:41 |
 | 45 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 |
 | 46 | [nic\(i\)](https://open.spotify.com/track/3A1JBCrP4dlR4ZT0pK3jtt) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:18 |
 | 47 | [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 |

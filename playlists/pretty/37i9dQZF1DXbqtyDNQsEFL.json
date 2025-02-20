@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=JStfUNLrT5uP8CVC_Twf5A>Ebuka Songs</a>",
-  "num_followers": 85592,
+  "num_followers": 85603,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
       "added_at": "2024-11-15 00:01:00",
       "album": {
         "name": "Holy Spirit",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
-      "added_at": "2025-01-07 00:01:28",
-      "album": {
-        "name": "Judah (Live)",
-        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 534026,
-      "name": "Judah - Live",
-      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -571,6 +555,22 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2025-01-07 00:01:28",
+      "album": {
+        "name": "Judah (Live)",
+        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 534026,
+      "name": "Judah - Live",
+      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -623,26 +623,6 @@
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Give Me Oil",
-        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
-        }
-      ],
-      "duration_ms": 693002,
-      "name": "Give Me Oil",
-      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -707,6 +687,26 @@
       "duration_ms": 269538,
       "name": "Isi Gini",
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Give Me Oil",
+        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+        }
+      ],
+      "duration_ms": 693002,
+      "name": "Give Me Oil",
+      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -865,26 +865,6 @@
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
-      "added_at": "2025-01-07 00:01:28",
-      "album": {
-        "name": "This Year (Remix)",
-        "url": "https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "This Year - Remix",
-      "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "TOBECHUKWU",
@@ -903,6 +883,26 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2025-01-07 00:01:28",
+      "album": {
+        "name": "This Year (Remix)",
+        "url": "https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "This Year - Remix",
+      "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -973,26 +973,6 @@
       "url": "https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG"
     },
     {
-      "added_at": "2024-08-30 00:01:00",
-      "album": {
-        "name": "Yes Sir",
-        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The King Is Coming",
@@ -1015,6 +995,26 @@
       "duration_ms": 466666,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2024-08-30 00:01:00",
+      "album": {
+        "name": "Yes Sir",
+        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1107,6 +1107,30 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Olorun Agbaye - You Are Mighty",
+        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
+        }
+      ],
+      "duration_ms": 438744,
+      "name": "Olorun Agbaye - You Are Mighty",
+      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 234331,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Olorun Agbaye - You Are Mighty",
-        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Oba",
-          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
-        }
-      ],
-      "duration_ms": 438744,
-      "name": "Olorun Agbaye - You Are Mighty",
-      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
       "added_at": "2024-09-06 00:01:00",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lion of Judah",
-        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Lion of Judah",
-      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
       "added_at": "2024-12-20 00:01:07",
       "album": {
         "name": "In the Room (Rendition)",
@@ -1311,6 +1295,22 @@
       "duration_ms": 371310,
       "name": "In the Room (Rendition)",
       "url": "https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Lion of Judah",
+        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Lion of Judah",
+      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1349,36 +1349,20 @@
       "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
-      "added_at": "2024-12-27 00:01:10",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg"
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 422929,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1405,20 +1389,36 @@
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
         }
       ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+    },
+    {
+      "added_at": "2024-12-27 00:01:10",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 422929,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK"
     },
     {
       "added_at": "2023-12-15 00:01:00",

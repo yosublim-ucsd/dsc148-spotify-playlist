@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: Sydney Rose
 
-856 songs - 1 day 23 hr 9 min
+857 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 | 2024-02-17 |
 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2023-11-15 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-12-17 |
+| [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 | 2025-01-31 |  |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-31 | 2023-06-04 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 |  |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 |  |
@@ -562,7 +563,7 @@
 | [Never the 1](https://open.spotify.com/track/6xyOZrXp6UGOFa30jewqIV) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5bOtmciyogNRJH1P1XXmGA) | 2:51 | 2021-12-17 | 2022-05-20 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2023-04-29 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-14 | 2024-04-13 |
-| [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2024-12-06 |  |
+| [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2024-12-06 | 2025-02-20 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-08-16 |  |
 | [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-16 | 2024-09-07 |
 | [No Words](https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [No Words](https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz) | 3:09 | 2022-03-15 | 2022-04-21 |

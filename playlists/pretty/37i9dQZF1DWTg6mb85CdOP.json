@@ -1,6 +1,6 @@
 {
   "description": "Celebremos la magia de estar juntxs, \u00a1Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href=\"https://bahidora.com//\"> Compra tus entradas aqu\u00ed</a>. ",
-  "num_followers": 13740,
+  "num_followers": 13753,
   "original_name": "Bahidor\u00e1 2025",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 207560,
       "name": "Honest",
       "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1"
     },
     {
       "added_at": "2025-01-23 00:01:14",

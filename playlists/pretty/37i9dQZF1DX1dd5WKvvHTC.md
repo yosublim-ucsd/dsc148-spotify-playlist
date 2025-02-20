@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:2nJYGgfTf2846LtVB3AES8">Plested</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,147 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,201 likes - 26 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,6 +33,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 23 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 |
 | 24 | [It's A Pleasure](https://open.spotify.com/track/3aNR2kcaSzKzV81UdFhecj) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [It's A Pleasure](https://open.spotify.com/album/3aXCcd2412cU0ELrwUa2xP) | 2:09 |
 | 25 | [Supernova](https://open.spotify.com/track/0n3nkCQVWJNDNIXw1U08Gw) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Supernova](https://open.spotify.com/album/2lmVjrA39ngMJ5G7xUMRTf) | 3:33 |
-| 26 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 26 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 
 Snapshot ID: `Z6ZBSAAAAACR6tT3urwIfJVJ7TYNOKzD`

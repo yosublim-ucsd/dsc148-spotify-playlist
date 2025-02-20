@@ -1,31 +1,31 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578937,
+  "num_followers": 578959,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6xeGwAAAADxsnZmwR78/KEbnUTER9ej",
+  "snapshot_id": "Z7WoFAAAAADI+oS/yLwuhBj6+Zgu0Opk",
   "tracks": [
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
-        "name": "Telepono",
-        "url": "https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo"
+        "name": "Oh, Irog",
+        "url": "https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY"
       },
       "artists": [
         {
-          "name": "ONE CLICK STRAIGHT",
-          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Telepono",
-      "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
+      "duration_ms": 296714,
+      "name": "Oh, Irog",
+      "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Sampung Mga Daliri",
         "url": "https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv"
@@ -45,23 +45,23 @@
       "url": "https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
-        "name": "Tabing-dagat",
-        "url": "https://open.spotify.com/album/1mSH1z17ulPcdLO676tVBF"
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
       },
       "artists": [
         {
-          "name": "Any Name's Okay",
-          "url": "https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 277905,
-      "name": "Tabing-dagat",
-      "url": "https://open.spotify.com/track/0rwQnbQw1NYR6viknHlhNI"
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "For Years",
         "url": "https://open.spotify.com/album/25hgON0XcqY2ir4ZHbSfcp"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0wYLEZ4UAF7JuIDkbJfmH6"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
@@ -93,7 +93,39 @@
       "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Telepono",
+        "url": "https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Telepono",
+      "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Tabing-dagat",
+        "url": "https://open.spotify.com/album/1mSH1z17ulPcdLO676tVBF"
+      },
+      "artists": [
+        {
+          "name": "Any Name's Okay",
+          "url": "https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e"
+        }
+      ],
+      "duration_ms": 277905,
+      "name": "Tabing-dagat",
+      "url": "https://open.spotify.com/track/0rwQnbQw1NYR6viknHlhNI"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Marilag",
         "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Miss Miss",
         "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
@@ -201,43 +233,7 @@
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
@@ -261,7 +257,43 @@
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "balik",
         "url": "https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Kung Wala Ka",
         "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
@@ -345,27 +377,7 @@
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Byahe",
-        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Dati (feat. Skusta Clee)",
-      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
@@ -385,7 +397,7 @@
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
@@ -405,23 +417,27 @@
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
-        "name": "Pasulong",
-        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
       "artists": [
         {
-          "name": "Alamat",
-          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
         }
       ],
-      "duration_ms": 210782,
-      "name": "Maharani",
-      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+      "duration_ms": 197192,
+      "name": "Dati (feat. Skusta Clee)",
+      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
@@ -437,7 +453,23 @@
       "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "tila tala",
         "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
@@ -521,55 +553,7 @@
       "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
@@ -585,7 +569,55 @@
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "What U Need",
         "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
@@ -657,27 +689,7 @@
       "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Ultraelectromagnetic Jam",
-        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        },
-        {
-          "name": "Kelly Badon",
-          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "With a Smile (feat. Kelly Badon)",
-      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Cafe Bossa",
         "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
@@ -693,7 +705,7 @@
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
@@ -717,7 +729,7 @@
       "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Pity Ya",
         "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
@@ -733,23 +745,27 @@
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
-        "name": "Puntirya",
-        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+        "name": "Ultraelectromagnetic Jam",
+        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
       "artists": [
         {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        },
+        {
+          "name": "Kelly Badon",
+          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
         }
       ],
-      "duration_ms": 223636,
-      "name": "Puntirya",
-      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+      "duration_ms": 264413,
+      "name": "With a Smile (feat. Kelly Badon)",
+      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Kursunada",
         "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
@@ -765,7 +781,23 @@
       "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
+      "album": {
+        "name": "Puntirya",
+        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Puntirya",
+      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Mikasa",
         "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Mula sa Malayo",
         "url": "https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Hanap",
         "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
     },
     {
-      "added_at": "2025-02-12 08:38:51",
+      "added_at": "2025-02-19 09:44:52",
       "album": {
         "name": "Sakote",
         "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
@@ -855,38 +887,6 @@
       "duration_ms": 289083,
       "name": "Sakote",
       "url": "https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Pag-Ibig (Meron Ba?)",
-        "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
-      },
-      "artists": [
-        {
-          "name": "Ace Banzuelo",
-          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Pag-Ibig (Meron Ba?)",
-      "url": "https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m"
-    },
-    {
-      "added_at": "2025-02-12 08:38:51",
-      "album": {
-        "name": "Baliw",
-        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 218983,
-      "name": "Baliw",
-      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
     }
   ],
   "unique_name": "Relax Tayo",

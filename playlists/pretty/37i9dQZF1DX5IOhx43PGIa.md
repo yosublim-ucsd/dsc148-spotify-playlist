@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: Nafeesisboujee
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,403 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,390 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 15 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 |
 | 16 | [Stay \(feat\. RINI\)](https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Stay \(feat\. RINI\)](https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg) | 3:38 |
 | 17 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |
-| 18 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 18 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 19 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 |
 | 20 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 |
 | 21 | [Only Ever](https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Only Ever](https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Undercover Plan](https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Undercover Plan](https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0) | 3:18 |
 | 100 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 |
 
-Snapshot ID: `Z67N8QAAAABo6+bFyALa2S3K59/g0o9+`
+Snapshot ID: `Z67N8QAAAACa+KB7QdcJEetxyNUVUgTR`

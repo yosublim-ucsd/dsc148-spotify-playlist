@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-509 songs - 22 hr 1 min
+512 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-22 | 2024-02-03 |
 | [Coastal](https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Coastal](https://open.spotify.com/album/4cPNJMnDJFmPJR9aHhbe4h) | 2:19 | 2022-05-04 | 2022-12-24 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-10 |  |
+| [Concepts](https://open.spotify.com/track/5zQA5HeJ6KfWSgwAGZRxUh) | [Richard Noé](https://open.spotify.com/artist/5WxEK0rCJfxI9TN0dbVoWp) | [Concepts](https://open.spotify.com/album/5DHW9iPdqzWyrQuaI4sv3j) | 2:12 | 2025-02-19 |  |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-04-14 | 2022-10-27 |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-04-14 | 2024-04-23 |
@@ -401,6 +402,8 @@
 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 | 2022-07-15 | 2024-10-23 |
 | [Strands](https://open.spotify.com/track/3eaRXuw8zhx6Bfsgj1feJB) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Strands](https://open.spotify.com/album/2WfL4OdNFiFduHnZNa0xqr) | 2:32 | 2022-06-07 |  |
 | [Strangers](https://open.spotify.com/track/0GUmktLeQ8WqUU2D9jgWdB) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Strangers](https://open.spotify.com/album/4XQmAOMyocly3p9xA74HWA) | 2:30 | 2024-05-01 |  |
+| [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 | 2025-02-19 |  |
+| [Sunflower](https://open.spotify.com/track/7gcHVrqiSXb2vhLKvze7Ub) | [Kuro Yama](https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d) | [Sunflower](https://open.spotify.com/album/1WMJxArpMCKdWDKFie4azg) | 2:21 | 2025-02-19 |  |
 | [Sunlight Sadness](https://open.spotify.com/track/4OXMONKgLmW0FZGU6Sm7Hf) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Sunlight Sadness](https://open.spotify.com/album/1XhIG4rUpR4cNXiegHFsU7) | 2:31 | 2022-04-14 | 2022-12-24 |
 | [Svävar](https://open.spotify.com/track/7kI6Y5EKVkf7DJR6urTkCS) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Svävar](https://open.spotify.com/album/6pIXfPnJty43cMmWD72AVY) | 3:17 | 2023-02-21 |  |
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2022-04-14 | 2022-09-15 |

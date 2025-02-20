@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,477 likes - 519 songs - 1 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,528 likes - 519 songs - 1 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -528,4 +528,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 518 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 |
 | 519 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 |
 
-Snapshot ID: `Z6DEbgAAAABMxexTLw+CPyjfYgk08ht1`
+Snapshot ID: `Z6DEbgAAAAA1RW78RbG8yh/S/scBu79L`

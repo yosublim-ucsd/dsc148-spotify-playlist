@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Jack Harlow, PARTYNEXTDOOR & Drake, Coi Leray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,425 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,546 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Kiss Me](https://open.spotify.com/track/3Xr6BS8SN6OWJbaSkciQZL) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Kiss Me](https://open.spotify.com/album/39SrdTfHbdtUC4F9Srq3YQ) | 2:24 |
 | 50 | [LIGHT THE ROOM](https://open.spotify.com/track/1jRqDQXI5ZaSB61gB4PHIN) | [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4) | [AMERICA'S SWEETHEART](https://open.spotify.com/album/6EedXrWvPYiJ7Bm5867Oke) | 3:43 |
 
-Snapshot ID: `Z67N5AAAAABMya0X3VcBD/cqfYrrflQt`
+Snapshot ID: `Z67N5AAAAACDNL/gSAhmaQlw7zAAn5YE`

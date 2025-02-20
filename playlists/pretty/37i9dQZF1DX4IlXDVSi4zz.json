@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 868986,
+  "num_followers": 869138,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,42 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "West Wind",
+        "url": "https://open.spotify.com/album/3GTIFa60Icdq6ymygyfI2T"
+      },
+      "artists": [
+        {
+          "name": "Palo Canto",
+          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "West Wind",
+      "url": "https://open.spotify.com/track/2QAvIdV9Bj4ZMBdUvAk0ZN"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -527,42 +563,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
-        "name": "West Wind",
-        "url": "https://open.spotify.com/album/3GTIFa60Icdq6ymygyfI2T"
-      },
-      "artists": [
-        {
-          "name": "Palo Canto",
-          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "West Wind",
-      "url": "https://open.spotify.com/track/2QAvIdV9Bj4ZMBdUvAk0ZN"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1031,22 +1031,26 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
         }
       ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1087,26 +1091,22 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Sauti",
-        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 208770,
-      "name": "Sauti",
-      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
-        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
-      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
@@ -1199,6 +1175,30 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1295,6 +1275,26 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "Blue Berries",
         "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
       },
@@ -1467,6 +1447,26 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
@@ -1483,6 +1483,26 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1523,42 +1543,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 153303,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
-        "name": "MERTHER",
-        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "MERTHER",
-      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "added_at": "2025-02-07 18:56:05",

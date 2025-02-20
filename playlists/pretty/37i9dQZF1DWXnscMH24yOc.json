@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 492683,
+  "num_followers": 492780,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Knocking On Heavens Door - EP",
+        "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
+      },
+      "artists": [
+        {
+          "name": "RAIGN",
+          "url": "https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4"
+        }
+      ],
+      "duration_ms": 264389,
+      "name": "Knocking on Heavens Door",
+      "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 199314,
       "name": "You Don't Own Me (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Knocking On Heavens Door - EP",
-        "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
-      },
-      "artists": [
-        {
-          "name": "RAIGN",
-          "url": "https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4"
-        }
-      ],
-      "duration_ms": 264389,
-      "name": "Knocking on Heavens Door",
-      "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Bang Bang (My Baby Shot Me Down)",
         "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Friday I'm in Love",
         "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 173475,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
-      },
-      "artists": [
-        {
-          "name": "L'Isle",
-          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 225944,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
+      },
+      "artists": [
+        {
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
-      },
-      "artists": [
-        {
-          "name": "Jake McMullen",
-          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 241066,
       "name": "Love",
       "url": "https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
+      },
+      "artists": [
+        {
+          "name": "Jake McMullen",
+          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Starboy - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Desperado / Born on a Train",
         "url": "https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 220500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Starboy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU"
     },
     {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Trauma - Chansons De La S\u00e9rie Tv",
+        "url": "https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "These Days / Velocity! What About The Inertia!?",
@@ -1635,22 +1651,6 @@
       "duration_ms": 213320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2kJYJikUAu0l8DwGMMzS8t"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Trauma - Chansons De La S\u00e9rie Tv",
-        "url": "https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
     },
     {
       "added_at": "2022-03-22 14:40:29",

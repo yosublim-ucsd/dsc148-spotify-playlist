@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: KISS OF LIFE\)
 
-368 songs - 20 hr 6 min
+369 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-06-09 | 2022-07-29 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-27 |  |
 | [Hug You](https://open.spotify.com/track/1rOJZzHKqDg8hXHrVromt2) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : First Sight](https://open.spotify.com/album/4vVljcTg81LAhaD7vQAoFu) | 3:30 | 2021-11-17 | 2022-07-27 |
+| [Hugs & Kisses](https://open.spotify.com/track/5nQVbMv0XEGLGB39wpneQI) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:09 | 2025-02-19 |  |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2023-07-20 |  |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-07-20 | 2024-04-19 |
 | [I AM](https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:03 | 2023-09-14 |  |
@@ -374,7 +375,7 @@
 | [You Are My Ocean](https://open.spotify.com/track/6687p4sFLPEzWL6YxsbkCT) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [You Are My Ocean](https://open.spotify.com/album/35rbs0HMwzDGJQ4EI4qwga) | 2:58 | 2021-11-17 | 2022-06-29 |
 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 | 2022-08-18 | 2022-10-06 |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-11-17 | 2024-06-15 |
-| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 |  |
+| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 | 2025-02-20 |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-05-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

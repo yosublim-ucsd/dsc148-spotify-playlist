@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/0GuqxpAAAS5LSEEM7HD5sG"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138361,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/1Yq3YiBlTldgN2jJn3JTCW"
+    },
+    {
+      "album": {
         "name": "Butterfly Pr\u00e9lude",
         "url": "https://open.spotify.com/album/1d2teMMmQOQ6fAoW7RTSTY"
       },
@@ -2700,6 +2718,24 @@
       "duration_ms": 185671,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo"
+    },
+    {
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/6Kv6CdSStZVhsXsqKGA1Wx"
+      },
+      "artists": [
+        {
+          "name": "Viktor Dahlgren",
+          "url": "https://open.spotify.com/artist/6VrIZ7a7y73WrXVliEqL45"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195886,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/7MD29BNc56aTaxjlGF82CL"
     },
     {
       "album": {

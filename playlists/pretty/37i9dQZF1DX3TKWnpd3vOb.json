@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: El C\u00f3modo Silencio De Los Que Hablan Poco.",
-  "num_followers": 191602,
+  "num_followers": 191599,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Se Aleja el Tren",
-        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        },
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 246322,
-      "name": "Se Aleja el Tren",
-      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Carne (En vivo)",
         "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 359233,
       "name": "Carne - En Vivo",
       "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Se Aleja el Tren",
+        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        },
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 246322,
+      "name": "Se Aleja el Tren",
+      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        }
-      ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Revuelta",
         "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 202493,
       "name": "D\u00e9jate Caer - 2024",
       "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        }
+      ],
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Explorador (Remaster 2022)",
-        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 170536,
-      "name": "Explorador - Remaster 2022",
-      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 147000,
       "name": "T\u00f3tem",
       "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 170536,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
       "artists": [
         {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
         }
       ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+      "duration_ms": 218735,
+      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
+        "name": "Camino a Casa",
+        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
       "artists": [
         {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 218735,
-      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+      "duration_ms": 173664,
+      "name": "Camino a Casa",
+      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Camino a Casa",
-        "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
         }
       ],
-      "duration_ms": 173664,
-      "name": "Camino a Casa",
-      "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Sangre y Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
+      },
+      "artists": [
+        {
+          "name": "Kutral Kai Paz",
+          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Sangre y Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 219000,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Sangre y Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
-      },
-      "artists": [
-        {
-          "name": "Kutral Kai Paz",
-          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Sangre y Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Let Me Fly",
-      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Lo Que Es Real",
         "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223593,
       "name": "Lo Que Es Real",
       "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Let Me Fly",
+      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
     },
     {
       "added_at": "2024-12-20 12:23:20",

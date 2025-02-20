@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 551194,
+  "num_followers": 551367,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-02-16 20:47:21",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
-    },
-    {
-      "added_at": "2025-02-16 20:47:21",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 199461,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm"
+    },
+    {
+      "added_at": "2025-02-16 20:47:21",
+      "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2025-02-16 20:47:21",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2025-02-16 20:47:21",
       "album": {
-        "name": "swim",
-        "url": "https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya"
+        "name": "If We Go Down",
+        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
         }
       ],
-      "duration_ms": 282389,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H"
+      "duration_ms": 205395,
+      "name": "If We Go Down",
+      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
     }
   ],
   "unique_name": "golden hour",

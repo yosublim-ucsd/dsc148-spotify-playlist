@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Wandra Restusiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,267 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,270 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

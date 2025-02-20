@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > amo a natureza / foto: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,814 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,792 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 34 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
 | 35 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
 | 36 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
-| 37 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
-| 38 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 |
+| 37 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 |
+| 38 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
 | 39 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 |
 | 40 | [WE PRAY \- \(TINI Version\)](https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 |
 | 41 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 46 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 47 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
 | 48 | [Whine](https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:58 |
-| 49 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
-| 50 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 49 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 50 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
 | 51 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 52 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 |
 | 53 | [Rough](https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 1:42 |

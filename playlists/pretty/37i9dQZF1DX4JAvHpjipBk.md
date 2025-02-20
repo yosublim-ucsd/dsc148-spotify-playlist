@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from PARTYNEXTDOOR & Drake, Sabrina Carpenter, Selena Gomez & Benny Blanco, Bon Iver, JISOO, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,294,649 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,294,775 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

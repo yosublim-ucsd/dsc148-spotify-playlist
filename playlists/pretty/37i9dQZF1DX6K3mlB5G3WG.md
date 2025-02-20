@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Elodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,643 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,648 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 101 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
 | 102 | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/track/4fokeaDTupkU8tu8Log3H0) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/album/539KQ4fJ6FOXD1Pwc2eTRb) | 2:24 |
 | 103 | [mille volte](https://open.spotify.com/track/25SiCsC78X1wc3pd9snYdv) | [EMSAISI](https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci) | [mille volte](https://open.spotify.com/album/0Fe66SxgFLTMYwbAcSSR7d) | 3:17 |
-| 104 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
+| 104 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
 | 105 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 |
 | 106 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
 | 107 | [Forgot To Love You](https://open.spotify.com/track/6eVmWMPyGKalnmaWGf0w7U) | [BERENICE](https://open.spotify.com/artist/4jETzCgqCaZ7DemKihsrZG) | [Forgot To Love You](https://open.spotify.com/album/5r1THNqOOaXqXRlzUA5f4h) | 3:30 |

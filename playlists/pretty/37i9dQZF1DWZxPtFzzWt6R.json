@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 93209,
+  "num_followers": 93251,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Maximus Records",
-          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Vou Embora pro C\u00e9u",
         "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 214786,
       "name": "Vou Embora pro C\u00e9u",
       "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Maximus Records",
+          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2025-02-14 03:01:21",

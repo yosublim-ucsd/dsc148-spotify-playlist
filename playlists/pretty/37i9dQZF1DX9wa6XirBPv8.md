@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,004 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,260 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,13 +119,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 109 | [Give It Up](https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Forget What You Know](https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu) | 3:39 |
 | 110 | [Fucked up Kids](https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Summer Bones](https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh) | 2:31 |
 | 111 | [I Want To Hear You Sad](https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk) | 3:30 |
-| 112 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
-| 113 | [Promise](https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:16 |
+| 112 | [Promise](https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:16 |
+| 113 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
 | 114 | [Match & Tinder](https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI) | [You Blew It!](https://open.spotify.com/artist/3jvWpZJpokYCoT0QV4OJg0) | [Keep Doing What You're Doing](https://open.spotify.com/album/6CIF1X6UWZeUzsOEv1GzpH) | 2:39 |
 | 115 | [We're At The Top Of The World](https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:17 |
 | 116 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
-| 117 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
-| 118 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
+| 117 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
+| 118 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 119 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
 | 120 | [Absinthe Party At The Fly Honey Warehouse](https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Highly Refined Pirates](https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w) | 5:24 |
 | 121 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |

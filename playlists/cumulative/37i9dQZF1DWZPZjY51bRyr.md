@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-246 songs - 12 hr 42 min
+247 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Descend](https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Descend](https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n) | 2:46 | 2023-07-27 | 2024-08-19 |
 | [Devine Minds](https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Devine Minds](https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS) | 3:14 | 2023-07-10 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-03-28 |  |
+| [Dhairya](https://open.spotify.com/track/17CP4MgWYJMOnFUi1ncgWE) | [Calm Sūtra](https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6) | [Dhairya](https://open.spotify.com/album/5cXkdM5XQAOy4siFMbFuYq) | 2:52 | 2025-01-17 |  |
 | [Dharma](https://open.spotify.com/track/79Ou2nfpXBr7ReJIa0Q6hO) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Dharma](https://open.spotify.com/album/0SGOI4MicvD4VvOT9ae0tM) | 3:00 | 2024-07-18 |  |
 | [Dock Of A Bay](https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Dock Of A Bay](https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j) | 3:05 | 2023-04-24 |  |
 | [Dream for me](https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q) | [Complete Rest](https://open.spotify.com/artist/2O9ViMiZbzgVQqngtC9nZ1) | [Dream for me](https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a) | 2:32 | 2023-12-15 |  |
@@ -142,7 +143,7 @@
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2023-02-17 |  |
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-17 | 2024-11-14 |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-02-17 |  |
-| [low pass vision](https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW) | [Irma Leko](https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR) | [low pass vision](https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF) | 3:18 | 2023-12-15 |  |
+| [low pass vision](https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW) | [Irma Leko](https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR) | [low pass vision](https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF) | 3:18 | 2023-12-15 | 2025-02-20 |
 | [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 | 2023-02-17 |  |
 | [L´unico Mondo](https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [L´unico Mondo](https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D) | 2:37 | 2024-07-18 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2023-02-17 |  |

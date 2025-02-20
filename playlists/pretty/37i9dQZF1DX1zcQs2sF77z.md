@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,803 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,910 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 47 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
 | 48 | [We No Speak Americano \(Edit\)](https://open.spotify.com/track/37dYAkMa4lzRCH6kDbMT1L) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 2:37 |
 | 49 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 |
-| 50 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
+| 50 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 
 Snapshot ID: `ZmBsyAAAAAA4/bZ9yx07n3JUY+PNpw8D`

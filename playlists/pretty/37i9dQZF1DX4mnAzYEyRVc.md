@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: RAT BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,219 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,239 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 79 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 80 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 81 | [Broken Words](https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Broken Words](https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8) | 2:52 |
-| 82 | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy) | 2:54 |
+| 82 | [Dead Man's Party](https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [Dead Man's Party](https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO) | 4:18 |
 | 83 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 84 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
-| 85 | [Dead Man's Party](https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [Dead Man's Party](https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO) | 4:18 |
+| 85 | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy) | 2:54 |
 | 86 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 87 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 88 | [Dye My Heart Red](https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [Dye My Heart Red](https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm) | 3:14 |

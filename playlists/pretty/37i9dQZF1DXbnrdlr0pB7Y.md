@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,542 likes - 104 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,627 likes - 104 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
-| 2 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
+| 1 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
+| 2 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 3 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
-| 4 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 |
-| 5 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
+| 4 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
+| 5 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 |
 | 6 | [Time Changes Everything](https://open.spotify.com/track/1jm1YyD7x1Wq4pktooeAGP) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Time Changes Everything](https://open.spotify.com/album/6pILNtTdQVgi1u4JQRVO7c) | 2:59 |
 | 7 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 |
 | 8 | [You Are All Mine](https://open.spotify.com/track/51D5edfTPbvHeB3AUEWMxT) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [You Are All Mine](https://open.spotify.com/album/5QrYUOt8X5n2zxvdB6cfEl) | 2:22 |
 | 9 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
-| 10 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
+| 10 | [Dream Away](https://open.spotify.com/track/68PEssUco3PVpOGrB9hmSU) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Dream Away](https://open.spotify.com/album/6tpY6WD1dlvLYNnYizdZsg) | 2:41 |
 | 11 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
 | 12 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 |
-| 13 | [Dream Away](https://open.spotify.com/track/68PEssUco3PVpOGrB9hmSU) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Dream Away](https://open.spotify.com/album/6tpY6WD1dlvLYNnYizdZsg) | 2:41 |
-| 14 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
+| 13 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
+| 14 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 | 15 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 |
 | 16 | [Pedacinhos do Ceu \- Laid\-back Chorinho Cover](https://open.spotify.com/track/1RK5gURQXdDOJwr9mSmTYj) | [Sandro Rebel](https://open.spotify.com/artist/6wirKUVyFpkpWR5ZZjECq8) | [Chorinho Alegre](https://open.spotify.com/album/0XgWIggXCqXxZu6eNoewje) | 4:43 |
 | 17 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 103 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 104 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `Z4U+JgAAAABx2UpLnPev5Q0xh+oUa7GK`
+Snapshot ID: `Z7YQpAAAAABf8iy4fOtF6ey3uL3ZexRI`

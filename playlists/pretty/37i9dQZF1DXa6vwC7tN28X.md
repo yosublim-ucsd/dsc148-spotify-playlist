@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,613 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,617 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 13 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
 | 14 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
 | 15 | [Siga El Baile \(with Alberto Castillo\)](https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Obras Cumbres](https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye) | 2:29 |
-| 16 | [Irresponsables](https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:23 |
-| 17 | [Whisky Doble](https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Pecado Capital](https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79) | 5:03 |
+| 16 | [Whisky Doble](https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Pecado Capital](https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79) | 5:03 |
+| 17 | [Irresponsables](https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:23 |
 | 18 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 19 | [La Tangómana](https://open.spotify.com/track/2J4tKJ8yxPAwXCpJZsYAbf) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 2:20 |
 | 20 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 41 | [La Vida](https://open.spotify.com/track/4MUaHpY0xqJK4Kmw7o4XOQ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L) | [Seremos Tango](https://open.spotify.com/album/7m7svuLhtOj342FEDVOevp) | 3:39 |
 | 42 | [Toda Mi Vida](https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv) | [María José Mentana](https://open.spotify.com/artist/2YbZKgdAtwTIpabYIfUJ5X), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Cien Troilos](https://open.spotify.com/album/3TvrHvdAHn3tLcDAI1CFxo) | 2:50 |
 | 43 | [Yendo a la Casa de Damián](https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt) | 4:16 |
-| 44 | [El Mareo](https://open.spotify.com/track/3AlcdhlEh1n9zzymRNXGfi) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/21FV8HUlwM4hlPvSRtULVf) | 4:35 |
+| 44 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 |
 | 45 | [Milonga de la Anunciación](https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:51 |
 
 Snapshot ID: `ZIsSnQAAAACPF9+5un9x5BvKqrUue7Bj`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-920 songs - 2 day 4 hr 9 min
+921 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Ballistic](https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Ballistic](https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW) | 3:15 | 2024-05-31 | 2024-08-22 |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-07 | 2023-09-26 |
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 | 2022-09-01 |
+| [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 | 2025-02-19 |  |
 | [Be Alright](https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Be Alright](https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM) | 2:58 | 2023-07-10 | 2023-12-14 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |

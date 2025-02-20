@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,488 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,486 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 45 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
 | 46 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 | 47 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ) | 3:00 |
-| 48 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
-| 49 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
+| 48 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
+| 49 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
 | 50 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
 | 51 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 52 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |

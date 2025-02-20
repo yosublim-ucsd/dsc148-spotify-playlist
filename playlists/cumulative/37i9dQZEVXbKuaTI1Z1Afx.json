@@ -15584,7 +15584,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
@@ -15602,7 +15602,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
@@ -30918,7 +30918,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -43993,6 +43993,28 @@
     },
     {
       "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
+    },
+    {
+      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -52356,7 +52378,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
@@ -56712,7 +56734,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -61888,10 +61910,28 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 222295,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5WcF82ipHJa8vQMMrjdbF4"
+    },
+    {
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/0TuG9SXIiyZ2JkuqGVNMXd"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222295,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/7hEIWnAlHZSROV8CPiL3UN"
     },
     {
       "album": {

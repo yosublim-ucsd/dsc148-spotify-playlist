@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5?si=YqWDvSv9SaOShpozF\-Ss8w>Ealle</a>
 
-257 songs - 20 hr 41 min
+258 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 | 2024-05-24 |
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |
+| [Ever Present Help](https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Archbishop Benson Idahosa](https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9) | [Ever Present Help](https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u) | 5:29 | 2025-02-07 |  |
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 |  |
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2024-04-03 |
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 |  |
@@ -110,7 +111,7 @@
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-01-05 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-12-01 | 2024-03-16 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-09-15 | 2024-02-19 |
-| [I'm Ready](https://open.spotify.com/track/4MeBfW1xgl07PR7pnE0Bwz) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I'm Ready](https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH) | 3:05 | 2024-11-22 |  |
+| [I'm Ready](https://open.spotify.com/track/4MeBfW1xgl07PR7pnE0Bwz) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I'm Ready](https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH) | 3:05 | 2024-11-22 | 2025-02-20 |
 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 | 2023-10-20 | 2024-03-16 |
 | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/track/18Fbap1b31YBSzvO46CDpb) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/album/3a0zNYcxVl69zNcZAx8zrG) | 7:08 | 2024-04-26 | 2024-05-13 |
 | [Ikenga](https://open.spotify.com/track/5ViVHmE5JQUyPFob6YQaz8) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Ikenga](https://open.spotify.com/album/3MDKcQW0afcWdDScjm3R4P) | 4:45 | 2023-11-10 | 2023-11-17 |

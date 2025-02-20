@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,794 likes - 44 songs - 2 hr 56 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,804 likes - 46 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 42 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 |
 | 43 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 |
 | 44 | [Information Content](https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 4:03 |
+| 45 | [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 |
+| 46 | [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 |
 
-Snapshot ID: `AAAL2C5q0l3UWpmI1MKNCdTCry0Hw1T/`
+Snapshot ID: `AAAL2zQ5eNrhRi1z883igwgfXluQfETo`

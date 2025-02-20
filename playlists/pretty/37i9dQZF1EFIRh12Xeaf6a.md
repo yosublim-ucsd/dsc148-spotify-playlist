@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,998 likes - 278 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,999 likes - 278 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 21 | [Way Over Yonder](https://open.spotify.com/track/64lav7jWJqd5P4oWm4Ova6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 4:43 |
 | 22 | [It's Going To Take Some Time](https://open.spotify.com/track/17MRUI1nql2E1GJEltjoyx) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:56 |
 | 23 | [Someone Who Believes in You](https://open.spotify.com/track/2YWaALZKQOZadouDuxaYHq) | [Russell Hitchcock](https://open.spotify.com/artist/04MqpcuzAkwpwIcLV1MlyE) | [Russell Hitchcock](https://open.spotify.com/album/38XzFsW09uz26xmaizGLr6) | 4:13 |
-| 24 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
-| 25 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 |
+| 24 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 |
+| 25 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
 | 26 | [Tapestry](https://open.spotify.com/track/4kCS2MgX5dQFyqHy21MzJG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:13 |
 | 27 | [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 |
 | 28 | [Child of Mine](https://open.spotify.com/track/4A7oANUhxquUpTCuu6GmoD) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:02 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 277 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 278 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Abp84AAAAADgH+jrH+Hf0DqBxhOZs1F1`
+Snapshot ID: `AbqCqAAAAAB2cZVDs2WujVGHY/VLwee1`

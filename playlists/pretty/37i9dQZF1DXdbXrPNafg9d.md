@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,711 likes - 180 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,759 likes - 180 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
 | 180 | [Coinstar](https://open.spotify.com/track/5YzeGgjdR0F8c208WH2FpF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Coinstar](https://open.spotify.com/album/5ORhiFwRmcZHR29pmfsmMr) | 3:43 |
 
-Snapshot ID: `Z67N4QAAAAAean6QTGV5x7frYlmtipph`
+Snapshot ID: `Z67N4QAAAACmsnIukqMVu1tFwd4/+gZM`

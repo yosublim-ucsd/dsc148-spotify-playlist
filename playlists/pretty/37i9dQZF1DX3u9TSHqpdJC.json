@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music from new, independent artists.  Cover: i am yd. Artwork by Paola Saliby",
-  "num_followers": 223975,
+  "num_followers": 224061,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6wq2wAAAADdJB8s9qAxygRJA7HuFMYO",
+  "snapshot_id": "Z7VlXQAAAACV0GnumDTUw6DlSxHLyqc9",
   "tracks": [
     {
       "added_at": "2025-02-05 05:00:13",
@@ -23,6 +23,202 @@
       "duration_ms": 210148,
       "name": "my one tru",
       "url": "https://open.spotify.com/track/46sXodh4Ak1bhM669O26F5"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "What Does a Girl Gotta Do?",
+        "url": "https://open.spotify.com/album/3FqP5TpBTbzttEGrhoRbRj"
+      },
+      "artists": [
+        {
+          "name": "Rosemary",
+          "url": "https://open.spotify.com/artist/59nB82NKhoKIXU7ZN3Qdnt"
+        }
+      ],
+      "duration_ms": 180583,
+      "name": "What Does a Girl Gotta Do?",
+      "url": "https://open.spotify.com/track/2aaQ6IS4SMe6hEvSi5zHXT"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/2J6PtCQclErmWm4uccp9GK"
+      },
+      "artists": [
+        {
+          "name": "Akira Galaxy",
+          "url": "https://open.spotify.com/artist/7JZCkitZk0jBzOKOfV3LdC"
+        }
+      ],
+      "duration_ms": 237993,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/6JcAhigrVugctKvkr40WcN"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Press Rewind",
+        "url": "https://open.spotify.com/album/4lNPFhuJewX7MUURyMqoGe"
+      },
+      "artists": [
+        {
+          "name": "NOISE NETWORK",
+          "url": "https://open.spotify.com/artist/2uH1tMt2YTpOzoYTmeUJdd"
+        },
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        }
+      ],
+      "duration_ms": 200211,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/2XhPcq6SsReimee5HgkJxS"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Cowboy's Gonna Ride",
+        "url": "https://open.spotify.com/album/09YWH4jRJKB8uGqao2tTJM"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 208731,
+      "name": "Cowboy's Gonna Ride",
+      "url": "https://open.spotify.com/track/3x0xmBK4uhdG7M0ZeQZBiL"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Hold On (Psycho)",
+        "url": "https://open.spotify.com/album/36mNWebhhpTzp5wgi0n0g5"
+      },
+      "artists": [
+        {
+          "name": "ALBII",
+          "url": "https://open.spotify.com/artist/4P7vYb6Y3arHyqYTgeQEIx"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Hold On (Psycho)",
+      "url": "https://open.spotify.com/track/05qjxUIMAlfOJC3YhLXbuO"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Cynic",
+        "url": "https://open.spotify.com/album/2ZKSMa7uJnSwTmo00PjlMb"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Cynic",
+      "url": "https://open.spotify.com/track/4lQ0lA8YuR7uc6iymwzpEG"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "I'M GOOD (HONEY)",
+        "url": "https://open.spotify.com/album/2CXy5p0KrvW81gZU5lHd6l"
+      },
+      "artists": [
+        {
+          "name": "CAFE TOKYO",
+          "url": "https://open.spotify.com/artist/6O6iCYO5CrnzosokZM0Are"
+        }
+      ],
+      "duration_ms": 179578,
+      "name": "I'M GOOD (HONEY)",
+      "url": "https://open.spotify.com/track/6aJPNvnIZHA6qgCdTJzh4k"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Pool Rules",
+        "url": "https://open.spotify.com/album/7LwF4xhIv5iRZJknwhKoIZ"
+      },
+      "artists": [
+        {
+          "name": "jwane",
+          "url": "https://open.spotify.com/artist/5Gmgo8JR5ZoQgtMksXbSZS"
+        }
+      ],
+      "duration_ms": 207908,
+      "name": "Pool Rules",
+      "url": "https://open.spotify.com/track/7r7SBNCzKa5AL6ltUk6hlB"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Something's Wrong",
+        "url": "https://open.spotify.com/album/0hpgWa4eaWkKSueDk8FDYM"
+      },
+      "artists": [
+        {
+          "name": "Earth to Eve",
+          "url": "https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea"
+        }
+      ],
+      "duration_ms": 189994,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/7Hbqd3hh4qoKAfZNgGpLg6"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "prom",
+        "url": "https://open.spotify.com/album/4XUIcu6bc4EKF4Widzf4Yu"
+      },
+      "artists": [
+        {
+          "name": "Lydia May",
+          "url": "https://open.spotify.com/artist/0bpnYhOb94XrKa1lvPVtXK"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "prom",
+      "url": "https://open.spotify.com/track/0dnhlen2mYYbY0ooacHSHE"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "A Fantasy Girl",
+        "url": "https://open.spotify.com/album/7EEmAcTwmLb2SFpg3gBCOw"
+      },
+      "artists": [
+        {
+          "name": "Eva Rundle",
+          "url": "https://open.spotify.com/artist/7uamKkaKGm8CqbNmyCVtk2"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "A Fantasy Girl",
+      "url": "https://open.spotify.com/track/1u0kG3KLzYoGtLpy1iGoT5"
+    },
+    {
+      "added_at": "2025-02-19 05:00:13",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/7GyusgeLHDSmbo9mENH8CQ"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "duration_ms": 170663,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/4QtA3BmNWccg5wE29ivJRx"
     },
     {
       "added_at": "2025-02-12 05:00:11",
@@ -955,22 +1151,6 @@
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
-        "name": "start all over",
-        "url": "https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "start all over",
-      "url": "https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
         "name": "Building A Castle",
         "url": "https://open.spotify.com/album/3F5TtCJSg4fgaNAobZnWtZ"
       },
@@ -1131,54 +1311,6 @@
       "duration_ms": 198857,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/3hwAHQHiqMf4iXezEiLZRj"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e"
-      },
-      "artists": [
-        {
-          "name": "LDYA",
-          "url": "https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Piece Of Me",
-        "url": "https://open.spotify.com/album/4gwUE5gGHt5MZOQb8LwO8y"
-      },
-      "artists": [
-        {
-          "name": "BANA",
-          "url": "https://open.spotify.com/artist/7crRAiivSKMEm86Y4ip99L"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Break Up To Make Up",
-      "url": "https://open.spotify.com/track/2cC0ZaEhSebdLxfFXWqPfk"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Hate Me For This",
-        "url": "https://open.spotify.com/album/4Wk1Lx5jf3rBhfwo7ugJg8"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Agnes",
-      "url": "https://open.spotify.com/track/3gF4dYnwrnftJ9ogoTayYJ"
     }
   ],
   "unique_name": "Fresh Finds Pop",

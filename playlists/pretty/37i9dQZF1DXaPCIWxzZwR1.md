@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,646 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,582 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 51 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 | 52 | [Wide Awake](https://open.spotify.com/track/7x6NHBM8bAze7CqCIIZzHb) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Wide Awake](https://open.spotify.com/album/1JsyLILacCifNmUP557DaE) | 2:21 |
 | 53 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 |
-| 54 | [Buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 |
+| 54 | [buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 |
 | 55 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
 | 56 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 |
 | 57 | [June Gloom](https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:00 |

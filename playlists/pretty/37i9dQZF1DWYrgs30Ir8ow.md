@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,371 likes - 47 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,376 likes - 47 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 2 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
 | 3 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 4 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
-| 5 | [Suicide](https://open.spotify.com/track/3AH0K2BgrvIaZDFp29k002) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Suicide](https://open.spotify.com/album/18eestQZaiJuxLkYXrTki0) | 3:15 |
-| 6 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
-| 7 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
-| 8 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
-| 9 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 |
-| 10 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 5 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 6 | [Suicide](https://open.spotify.com/track/3AH0K2BgrvIaZDFp29k002) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Suicide](https://open.spotify.com/album/18eestQZaiJuxLkYXrTki0) | 3:15 |
+| 7 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
+| 8 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
+| 9 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
+| 10 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 |
 | 11 | [Nu Meteen \(Slide\)](https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Nu Meteen \(Slide\)](https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg) | 2:33 |
 | 12 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 13 | [Vandaag Ben Ik Van Jou](https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Vandaag Ben Ik Van Jou](https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f) | 2:57 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 46 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
 | 47 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 |
 
-Snapshot ID: `Z7MregAAAACffXT9EbrklG7KO5CRgBnF`
+Snapshot ID: `Z7XQwgAAAABnjn6j4fpNGZB91QzVj0V2`

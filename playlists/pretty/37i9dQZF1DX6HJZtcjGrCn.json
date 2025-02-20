@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Valter Lobo",
-  "num_followers": 33917,
+  "num_followers": 33918,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-02-14 00:00:37",
       "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2025-02-14 00:00:37",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-02-14 00:00:37",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-02-14 00:00:37",
       "album": {
-        "name": "Leash (Babygirl Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+        "name": "Amor De Ganga",
+        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Miguel Luz",
+          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
         }
       ],
-      "duration_ms": 261306,
-      "name": "Leash (Babygirl Original Soundtrack)",
-      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+      "duration_ms": 206908,
+      "name": "Amor De Ganga",
+      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
     }
   ],
   "unique_name": "Cena Indie",

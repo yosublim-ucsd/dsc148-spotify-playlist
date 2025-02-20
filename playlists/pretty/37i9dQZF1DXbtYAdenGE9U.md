@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,969 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,265 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 9 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 | 10 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
 | 11 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |
-| 12 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 |
-| 13 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
+| 12 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
+| 13 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 |
 | 14 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 |
 | 15 | [Ayla \- DJ Taucher Radio Edit](https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Taucher](https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa) | [Trance Classics, Vol\. 01](https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC) | 3:58 |
 | 16 | [Operation Blade \(7" Radio Edit\)](https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS) | [Public Domain](https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z) | [Hard Hop Superstars](https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj) | 3:06 |

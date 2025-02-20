@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 183775,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS"
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
+    },
+    {
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -1045,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 217713,
       "name": "Leap Of Faith",
       "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
@@ -1392,6 +1428,24 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
       "album": {
@@ -1684,7 +1738,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"

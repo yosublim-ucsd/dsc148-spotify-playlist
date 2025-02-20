@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,408 songs - 3 day 9 hr 19 min
+1,409 songs - 3 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Japan](https://open.spotify.com/track/29rdnajLrCXu0wDPpBA15p) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Japan](https://open.spotify.com/album/4Et4ju33NlhFJRooqXTQGP) | 3:32 | 2019-09-21 | 2020-10-30 |
 | [Jonny](https://open.spotify.com/track/2WYzqAMUuGrCAHB1NWkBlT) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [EP](https://open.spotify.com/album/42c6spquYnINk85tDjGbV3) | 3:04 | 2019-08-09\* | 2019-08-27 |
 | [July \- FRND Remix](https://open.spotify.com/track/75rN7EsGlnMJiu9DKFVWnX) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc) | [DEADTHEREMIXES](https://open.spotify.com/album/4Eg6Z3wmBx7wJ1OSMDpYL8) | 3:24 | 2020-06-04 | 2021-09-11 |
+| [Just Begun](https://open.spotify.com/track/6hb842ueBBNX0Pw6cwZsgc) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3) | [Just Begun](https://open.spotify.com/album/3eXq6k5WwJcsjtOqmlgogT) | 3:37 | 2025-02-14 |  |
 | [Just For A Moment \(feat\. Iselin\) \- Myon 'Summer of Love' Remix](https://open.spotify.com/track/0CTHeAlrXixC49Z7xKJEmX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv) | [Gravity Pt\. 1 \(Remixes\)](https://open.spotify.com/album/2DsuzbR4HYpnn2JfnDteKH) | 3:52 | 2019-08-10 | 2020-03-29 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-06-17 | 2024-04-10 |
 | [Just You & I](https://open.spotify.com/track/3h6o86y22SoLnFbqIcW48N) | [Druu](https://open.spotify.com/artist/4lusIEYtKWWxjZAOUuYDhz), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Just You & I](https://open.spotify.com/album/0nIz3932EhdQ3iRTKsbVKz) | 3:25 | 2019-08-09\* | 2020-10-30 |
@@ -1034,7 +1035,7 @@
 | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-05-01 |  |
 | [Saving My Love](https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Saving My Love](https://open.spotify.com/album/2YHK4d31s4jDsP9cwVeTNt) | 3:29 | 2021-09-25 | 2022-05-14 |
 | [Say It \(feat\. Tove Lo\) \[Illenium Remix\]](https://open.spotify.com/track/1qcyw35R6PiMBYfSSK7gDm) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Say It \(feat\. Tove Lo\) \[Illenium Remix\]](https://open.spotify.com/album/2iLqYd2dBKqvDe6XCymoE4) | 4:27 | 2019-08-09\* | 2019-09-14 |
-| [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-23 |  |
+| [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-23 | 2025-02-20 |
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2021-06-05 | 2022-05-14 |
 | [Say You Will](https://open.spotify.com/track/5vDjcNbN4m9fxWcrpR64Wu) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:27 | 2020-06-04 | 2021-09-11 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-28 | 2023-06-17 |

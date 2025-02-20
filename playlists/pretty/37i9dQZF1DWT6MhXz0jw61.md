@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mac Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,527 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,703 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [Don Julio 70](https://open.spotify.com/track/5CXVrYZ2aaMn0MJLAGTM4Z) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Fre$H](https://open.spotify.com/artist/5wUzuAKoHT2ItLdgAfa8sG) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 2:10 |
 | 101 | [Not In The Mood](https://open.spotify.com/track/6ocGxD3RWgYRvUyXcUu9LI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:15 |
 
-Snapshot ID: `Z67OAQAAAAB20ITaXUlChNg8kJfL9/hi`
+Snapshot ID: `Z67OAQAAAAASz4F4fpobvW+7/xoqltys`

@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 253874,
+  "num_followers": 254012,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Antes de Que Te Vayas",
-        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 205983,
-      "name": "Antes de Que Te Vayas",
-      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Mis Dos Vicios",
         "url": "https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185946,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Antes de Que Te Vayas",
+        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 205983,
+      "name": "Antes de Que Te Vayas",
+      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Por Eso...Gracias",
         "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 210733,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Barra Abierta a los Dolidos... (En Vivo)",
         "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 236835,
       "name": "A Donde Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI"
     },
     {
       "added_at": "2025-01-23 17:30:18",

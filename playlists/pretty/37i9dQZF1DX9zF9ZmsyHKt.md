@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,526 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,558 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 33 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 |
 | 34 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |
 | 35 | [Ela Tá Beba Doida](https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM) | [Banda Xeiro De Mel](https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy) | [Banda Xeiro de Mel \(Tecnobrega \- O Ritmo Que Conquistou o Brasil\)](https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N) | 3:35 |
-| 36 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
+| 36 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
 | 37 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |
 | 38 | [Dançar Com Itamaraty](https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:00 |
-| 39 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
+| 39 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
 | 40 | [Não Fosse Tão Tarde](https://open.spotify.com/track/6FkTHnkkESftfYIMNdkTHX) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Hit 2023](https://open.spotify.com/album/1j6MVT6T1C51L74WJvKL9Z) | 3:04 |
 | 41 | [Ultra Som](https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 4:13 |
 | 42 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
 | 43 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
-| 44 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
-| 45 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
+| 44 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
+| 45 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
 | 46 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
 | 47 | [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 |
 | 48 | [Amor Calado](https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:09 |

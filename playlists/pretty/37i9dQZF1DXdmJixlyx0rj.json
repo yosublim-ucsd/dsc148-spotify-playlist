@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 28314,
+  "num_followers": 28338,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "Love Tune: Rewired",
-        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 215190,
-      "name": "Gravity - Garage Remix",
-      "url": "https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "Love Tune: Rewired",
+        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 215190,
+      "name": "Gravity - Garage Remix",
+      "url": "https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "TROUBLE (arcon Remix)",
         "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
       },
@@ -1383,6 +1367,42 @@
       "duration_ms": 210461,
       "name": "TROUBLE - arcon Remix",
       "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "[Algorithm (Remixes)]",
+        "url": "https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 148626,
+      "name": "Algorithm (IMLAY Remix)",
+      "url": "https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1427,22 +1447,22 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "[Algorithm (Remixes)]",
-        "url": "https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0"
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         },
         {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 148626,
-      "name": "Algorithm (IMLAY Remix)",
-      "url": "https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3"
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1463,26 +1483,6 @@
       "duration_ms": 174500,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 153520,
       "name": "Without You (Alok Remix) (Radio Edit)",
       "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Power - R3HAB Remix",
+      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1639,22 +1655,6 @@
       "duration_ms": 163500,
       "name": "MOONLIGHT - MOTi Remix",
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Power - R3HAB Remix",
-      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
-    },
-    {
-      "added_at": "2025-02-11 08:00:13",
-      "album": {
         "name": "iScreaM Vol.4 : 1 Billion Views Remix",
         "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 265785,
       "name": "1 Billion Views - Mar Vista Remix",
       "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
+    },
+    {
+      "added_at": "2025-02-11 08:00:13",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
     },
     {
       "added_at": "2025-02-11 08:00:13",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2025-02-11 08:00:13",
       "album": {
-        "name": "iScreaM Vol.29 : Fact Check Remixes",
-        "url": "https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx"
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         },
         {
-          "name": "2Spade",
-          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Fact Check - 2Spade Remix",
-      "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
+      "duration_ms": 211506,
+      "name": "Criminal - SUMIN Remix",
+      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
     }
   ],
   "unique_name": "Electronii'K",

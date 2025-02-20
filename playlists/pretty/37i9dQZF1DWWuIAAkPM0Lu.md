@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 💋 <a href="spotify:artist:74KM79TiuVKeVCqs8QtB0B">Sabrina Carpenter</a> 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,838 likes - 109 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,834 likes - 109 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

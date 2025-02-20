@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Slow J, Gson
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,567 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,606 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 42 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 43 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
 | 44 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 45 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
+| 45 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 46 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 |
-| 47 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 47 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
 | 48 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 49 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
 | 50 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |

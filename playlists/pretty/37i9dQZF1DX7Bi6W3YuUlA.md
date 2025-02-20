@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover:  Trae The Truth
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,286 likes - 81 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,325 likes - 81 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

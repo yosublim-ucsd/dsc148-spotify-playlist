@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Like a sculptor",
+        "url": "https://open.spotify.com/album/6fMYKlHURk5Lps6PXxmv67"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157135,
+      "name": "Like a sculptor",
+      "url": "https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE"
+    },
+    {
+      "album": {
         "name": "Look Inside Yourself",
         "url": "https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs"
       },

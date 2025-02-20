@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 249499,
+  "num_followers": 249611,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "As Irrational As Love",
+        "url": "https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "duration_ms": 224335,
+      "name": "As Irrational As Love",
+      "url": "https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 324520,
       "name": "O Que Sera?",
       "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "As Irrational As Love",
-        "url": "https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v"
-      },
-      "artists": [
-        {
-          "name": "Joseph Gonzalez",
-          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
-        }
-      ],
-      "duration_ms": 224335,
-      "name": "As Irrational As Love",
-      "url": "https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "A Little Brighter Every Day",
+        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Little Brighter Every Day",
+      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "A Little Brighter Every Day",
-        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
-      },
-      "artists": [
-        {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "A Little Brighter Every Day",
-      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 262673,
-      "name": "Your Laugh",
-      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Cheek to cheek",
         "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 161500,
       "name": "Cheek to cheek",
       "url": "https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 262673,
+      "name": "Your Laugh",
+      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "P\u00e3o de A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "P\u00e3o de A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -879,38 +879,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Green Grapes",
-        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "Woodblock Print",
-      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "From Paris To Rio",
-        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Cosme Velho",
         "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
       },
@@ -927,6 +895,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Strangers in the Night",
         "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 170418,
       "name": "Strangers in the Night",
       "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "From Paris To Rio",
+        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "I Mean To Say",
-        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "I Mean To Say",
-      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "But Not for Me",
         "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+        "name": "I Mean To Say",
+        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
         }
       ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
+      "duration_ms": 217194,
+      "name": "I Mean To Say",
+      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1135,6 +1119,22 @@
       "duration_ms": 230750,
       "name": "how insensitive",
       "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Bel\u00ea",
-        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
-      },
-      "artists": [
-        {
-          "name": "Affonsinho",
-          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Aquela Bossa Ax\u00e9",
-      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Bel\u00ea",
+        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
+      },
+      "artists": [
+        {
+          "name": "Affonsinho",
+          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Aquela Bossa Ax\u00e9",
+      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Florian\u00f3polis",
-        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Amore e Complicado",
         "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 214859,
       "name": "O Amor \u00e9 Complicado",
       "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Florian\u00f3polis",
+        "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
+      },
+      "artists": [
+        {
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Florian\u00f3polis",
+      "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/11WpvblIjfo4CQN04AtDhu"
-      },
-      "artists": [
-        {
-          "name": "Lyle Jones",
-          "url": "https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/4vZrmDFysiHR2gUORSfpvM"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Time Passing Slowly",
         "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218000,
       "name": "Time Passing Slowly",
       "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/11WpvblIjfo4CQN04AtDhu"
+      },
+      "artists": [
+        {
+          "name": "Lyle Jones",
+          "url": "https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/4vZrmDFysiHR2gUORSfpvM"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Cora\u00e7\u00e3o Madura",
-        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
+        "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+        "url": "https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA"
       },
       "artists": [
         {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
         }
       ],
-      "duration_ms": 120810,
-      "name": "Cora\u00e7\u00e3o Madura",
-      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
+      "duration_ms": 164645,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1615,6 +1615,22 @@
       "duration_ms": 420811,
       "name": "Vespertine",
       "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Madura",
+        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 120810,
+      "name": "Cora\u00e7\u00e3o Madura",
+      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-        "url": "https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA"
+        "name": "Maneiro",
+        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
       },
       "artists": [
         {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
         }
       ],
-      "duration_ms": 164645,
-      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL"
+      "duration_ms": 243751,
+      "name": "Maneiro",
+      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1715,22 +1731,6 @@
       "duration_ms": 133093,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Maneiro",
-        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
-      },
-      "artists": [
-        {
-          "name": "Eric Merlino",
-          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
-        }
-      ],
-      "duration_ms": 243751,
-      "name": "Maneiro",
-      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1763,22 +1763,6 @@
       "duration_ms": 137800,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1819,6 +1803,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "You Fascinate Me So",
         "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
       },
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Baubles, Bangles and Beads",
-      "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "River of Dreams",
         "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 183082,
       "name": "River of Dreams",
       "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Baubles, Bangles and Beads",
+      "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Mestre Sala",
         "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
       },
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Amorosa",
         "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
       },
@@ -1983,6 +1983,22 @@
       "duration_ms": 267666,
       "name": "S'Wonderful",
       "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Time Passes By",
+        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "duration_ms": 151877,
+      "name": "Time Passes By",
+      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -2015,22 +2031,6 @@
       "duration_ms": 208893,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1uBwJa5DlgwteCuTclf2sJ"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Time Passes By",
-        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonzalez",
-          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
-        }
-      ],
-      "duration_ms": 151877,
-      "name": "Time Passes By",
-      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Effortlessly",
         "url": "https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 297653,
       "name": "Effortlessly",
       "url": "https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Scintilla",
-        "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Vargas Luna",
-          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Scintilla",
-      "url": "https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Oliven\u00e7a",
         "url": "https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 252228,
       "name": "Oliven\u00e7a",
       "url": "https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Scintilla",
+        "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Vargas Luna",
+          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Scintilla",
+      "url": "https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw"
     }
   ],
   "unique_name": "Bossa Chill",

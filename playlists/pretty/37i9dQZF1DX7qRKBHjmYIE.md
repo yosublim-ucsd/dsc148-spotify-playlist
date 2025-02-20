@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Marc Seguí & Rawayana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,657 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,649 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 36 | [Amor ≠ Cristal](https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Amor ≠ Cristal](https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL) | 2:52 |
 | 37 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
 | 38 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 |
-| 39 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 |
-| 40 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
+| 39 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
+| 40 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 |
 | 41 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 |
 | 42 | [CONFUNDIDO](https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 3:07 |
 | 43 | [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 |

@@ -10875,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Doot Doot (6 7)",
+        "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7)",
+      "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
+    },
+    {
+      "album": {
         "name": "Dope Game",
         "url": "https://open.spotify.com/album/3opfzTXEIwJxhXamjiAD7L"
       },
@@ -28766,7 +28784,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 124740,
       "name": "Pain",
       "url": "https://open.spotify.com/track/5TcpDQHyQGxlYsn0kzJKV8"

@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-197 songs - 10 hr 35 min
+198 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 | 2023-12-01 |  |
 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 | 2022-12-19 |  |
 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 | 2022-12-19 | 2024-11-07 |
-| [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 | 2022-12-19 |  |
+| [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 | 2022-12-19 | 2025-02-20 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 | 2022-12-19 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad](https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI) | 3:05 | 2023-11-17 | 2024-03-16 |
 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 | 2021-12-15 | 2022-12-20 |
@@ -182,6 +182,7 @@
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 | 2021-12-15 | 2022-11-09 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-18 | 2022-12-20 |
 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 | 2023-11-24 |  |
+| [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 | 2024-12-20 |  |
 | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-25 |  |
 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 | 2021-12-15 | 2022-12-20 |
 | [Un Año Más](https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:56 | 2022-12-19 |  |

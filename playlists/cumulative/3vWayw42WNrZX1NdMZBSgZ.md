@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Silvestre Dangond &amp; Emilia
 
-867 songs - 1 day 22 hr 13 min
+869 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bailarina](https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Bailarina](https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f) | 3:05 | 2024-04-05 | 2024-07-03 |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-05-10 | 2023-06-03 |
 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 | 2024-04-12 | 2024-07-03 |
+| [Bala Perdida](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bala Perdida](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 | 2025-02-19 |  |
 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 | 2022-03-02 | 2023-05-26 |
 | [Bandidaje \- Remix](https://open.spotify.com/track/3kzNVbVSpHfvOVF2te8dfG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [July Queen](https://open.spotify.com/artist/6B1OtjbuEkKs8RV3HruvJO), [LISS DOLL RD](https://open.spotify.com/artist/07ZOmCinJ1Wa68rEbKiE5o) | [Bandidaje \(Remix\)](https://open.spotify.com/album/1d6lsKCSnBXCuCYOeBudmO) | 2:51 | 2023-03-31 | 2023-06-01 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2022-02-02 | 2023-05-26 |
@@ -294,6 +295,7 @@
 | [Exclusive.mp3](https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:00 | 2023-11-06 |  |
 | [Existo](https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Existo](https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ) | 2:55 | 2024-03-15 | 2024-07-03 |
 | [Facts.mp3](https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:10 | 2023-11-06 | 2024-07-03 |
+| [Fale Então](https://open.spotify.com/track/6ZhMxiXukvTSZyWdy64sgj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Fale Então](https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG) | 1:56 | 2025-02-19 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2023-06-02 | 2023-06-08 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-17 | 2023-05-26 |
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-11 |  |

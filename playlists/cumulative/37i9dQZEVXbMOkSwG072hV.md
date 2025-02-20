@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,163 songs - 6 day 22 hr 45 min
+3,164 songs - 6 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [de volta pra casa](https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [solo \(vol\. 1\)](https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q) | 3:09 | 2023-11-28 | 2023-12-03 |
 | [DEATH](https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 5:06 | 2023-04-11 | 2023-04-21 |
 | [Defeito Meu](https://open.spotify.com/track/2Ty9lmWbd1F48qbQ2leR5n) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Pra Ser Amor](https://open.spotify.com/album/6pwu5eQtC1yWf99NHQbGGs) | 3:57 | 2025-02-02 | 2025-02-10 |
+| [Defeito Meu](https://open.spotify.com/track/7kJ0GRHbVktMvLOCjXV7dn) | [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Volume 15](https://open.spotify.com/album/0eCNnoDXB1o1QVgw5azphB) | 3:39 | 2025-02-19 |  |
 | [DEFINITIVA](https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [DEFINITIVA](https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI) | 3:12 | 2023-11-20 | 2023-12-13 |
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-12-10 | 2024-12-28 |
 | [Defying Gravity](https://open.spotify.com/track/1fsBDvL77kDOixZ8Lw9cjZ) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi), [Alex Lacamoire](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) | [Defying Gravity: Songs from Wicked](https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ) | 5:53 | 2024-11-23 | 2024-11-30 |
@@ -2370,7 +2371,7 @@
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-28 | 2022-06-01 |
 | [Rave e Bagaceira](https://open.spotify.com/track/1Unc6luL5ueLO3t8I5YtpP) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Rave e Bagaceira](https://open.spotify.com/album/4PMmbtTltGCjdDhWdIdyj3) | 2:55 | 2022-04-17 | 2022-05-23 |
 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 | 2024-09-10 | 2024-11-11 |
-| [Real](https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:26 | 2025-02-11 |  |
+| [Real](https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:26 | 2025-02-11 | 2025-02-20 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2024-12-12 | 2024-12-19 |
 | [real valor](https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [REVERSA \[in\]ato](https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7) | 3:40 | 2024-01-02 | 2024-01-31 |
 | [Rebeca Rebeca](https://open.spotify.com/track/2mxyclQfXocBOTbROmNHC4) | [HONDO](https://open.spotify.com/artist/0zwEgADE2gEISJjeYagGN5) | [Rebeca Rebeca](https://open.spotify.com/album/5zpjTdW1jbQZEZ8UQt2Upg) | 1:45 | 2023-05-22 | 2023-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,297 likes - 171 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,341 likes - 171 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

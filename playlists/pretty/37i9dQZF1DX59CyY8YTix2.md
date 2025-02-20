@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ano
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,219 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,261 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 65 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
 | 66 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
 | 67 | [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 |
-| 68 | [キメラ](https://open.spotify.com/track/0EoXfIYlcpvmHjG1faJYIA) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [キメラ](https://open.spotify.com/album/3UGtmQ8yDj8gXTKNV8A9KM) | 3:06 |
+| 68 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 |
 | 69 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 |
-| 70 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 |
+| 70 | [キメラ](https://open.spotify.com/track/0EoXfIYlcpvmHjG1faJYIA) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [キメラ](https://open.spotify.com/album/3UGtmQ8yDj8gXTKNV8A9KM) | 3:06 |
 | 71 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 |
 | 72 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
 | 73 | [Sunshade](https://open.spotify.com/track/5ydosGKz5mN41OGweXrMx9) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Sunshade](https://open.spotify.com/album/6yfodvXv3ObrBqR1vXZe2y) | 3:17 |

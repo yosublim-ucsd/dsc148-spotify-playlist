@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-231 songs - 12 hr 5 min
+232 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-09-10 |
 | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 | 2024-09-30 | 2024-10-05 |
 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 | 2024-10-04 |  |
-| [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 |  |
+| [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 | 2025-02-20 |
 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2022-02-11 | 2023-03-18 |
 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-27 |  |
 | [Aso](https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Aso](https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ) | 5:50 | 2022-02-11 | 2022-08-06 |
@@ -36,6 +36,7 @@
 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 | 2022-02-11 | 2025-02-14 |
 | [Breakfast \(Remix\)](https://open.spotify.com/track/3JzwAZrhBQpIhkhOPnGg0F) | [Jaydreamz](https://open.spotify.com/artist/5XWnXTiwleRI0pgiLRxJUW), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Breakfast \(Remix\)](https://open.spotify.com/album/6qSE7SgHNU6Bw1G4pK0qD8) | 2:33 | 2022-07-14 | 2022-07-30 |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-03 | 2024-10-26 |
+| [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 | 2025-02-19 |  |
 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 | 2022-08-17 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-17 |  |
 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2025-01-21 |  |

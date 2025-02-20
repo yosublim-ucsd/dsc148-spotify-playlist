@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-1,287 songs - 3 day 1 hr 15 min
+1,288 songs - 3 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [Rezas](https://open.spotify.com/track/7iHuzLWiHtQstKUs4FFd21) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [Rezas](https://open.spotify.com/album/0j8tsa7sDmpdMI607h09sa) | 3:05 | 2022-02-20 | 2022-04-24 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-14 |
 | [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2024-04-22 | 2024-06-24 |
+| [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-02-19 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-04-13 | 2023-05-01 |
 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-30 | 2023-10-03 |
 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 | 2024-01-20 | 2024-01-26 |
@@ -1164,7 +1165,7 @@
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-03-31 |
 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:43 | 2024-02-02 | 2024-11-09 |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-03 | 2024-02-07 |
-| [TURiSTA](https://open.spotify.com/track/7tCuCjhxzjX2XCz4JiiAsp) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:10 | 2025-01-06 |  |
+| [TURiSTA](https://open.spotify.com/track/7tCuCjhxzjX2XCz4JiiAsp) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:10 | 2025-01-06 | 2025-02-20 |
 | [TURUTUTU](https://open.spotify.com/track/44NbaMYWDwxaAXbPYXVSIv) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TURUTUTU](https://open.spotify.com/album/5pWhstnKLBpI1zQXHKJ3TO) | 3:20 | 2022-12-16 | 2022-12-28 |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-02-25 | 2023-03-12 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-17 | 2022-07-09 |

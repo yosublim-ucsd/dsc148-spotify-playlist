@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: Gates to Hell | Artwork: Nejc Prah",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: Vacuous | Artwork: Nejc Prah",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 166000,
       "name": "ADL",
       "url": "https://open.spotify.com/track/0eSNQzRYFGS91uHyAeki6e"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 297491,
       "name": "AFTER DEATH",
       "url": "https://open.spotify.com/track/0oYpw0aWV4a0Vn5sQrBdfQ"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 219151,
       "name": "Arimortis",
       "url": "https://open.spotify.com/track/3necCuU4xO4oecozXxwQay"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 169893,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/1MQbna5JCjLqHe4GUyDV6d"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 141000,
       "name": "Bury Me (One Thousand Times)",
       "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Code Of Silence",
+        "url": "https://open.spotify.com/album/3GPfCNQXnrUmkslt16BVpj"
+      },
+      "artists": [
+        {
+          "name": "Into The Vein",
+          "url": "https://open.spotify.com/artist/1FklvdgEAAOBSuwd9jSOjw"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "Code Of Silence",
+      "url": "https://open.spotify.com/track/5O2SMJwgnK1wB8qzp91pdb"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/1mxPusKMN5mp3vB0XF1JD4"
       },
@@ -684,6 +702,42 @@
       "duration_ms": 208021,
       "name": "Cold Days",
       "url": "https://open.spotify.com/track/0MsHPU8lA5br6JhRDvQPmW"
+    },
+    {
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/6FOtJeuCbI5lddNLcWJinZ"
+      },
+      "artists": [
+        {
+          "name": "Vacuous",
+          "url": "https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Contraband",
+      "url": "https://open.spotify.com/track/6HXUFds0VgH7RqU3WP41gK"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/186pcCHqSraORXKrxCuuft"
+      },
+      "artists": [
+        {
+          "name": "Aligned",
+          "url": "https://open.spotify.com/artist/69WneofMhPtLP6szibl3Kj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184214,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/2fs70ZstsXH78eFiEEVco7"
     },
     {
       "album": {
@@ -734,7 +788,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 194484,
       "name": "creep.",
       "url": "https://open.spotify.com/track/5NOCTGgUKlYTlcSaDPdSa4"
@@ -788,7 +842,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 197727,
       "name": "DEAD.DROP.DEAD",
       "url": "https://open.spotify.com/track/1y4cYXim9COISQbJwaEDR7"
@@ -1091,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Dying Wisdom",
+        "url": "https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC"
+      },
+      "artists": [
+        {
+          "name": "Between The Lakes",
+          "url": "https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "Dying Wisdom",
+      "url": "https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff"
+    },
+    {
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn"
       },
@@ -1145,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Fading Fast",
+        "url": "https://open.spotify.com/album/300WjK5JrLqUWcpiI5h9B3"
+      },
+      "artists": [
+        {
+          "name": "LIMBS",
+          "url": "https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210312,
+      "name": "Fading Fast",
+      "url": "https://open.spotify.com/track/4cFepTylSUeNpm4cL2Y79m"
+    },
+    {
+      "album": {
         "name": "Dust and Ashes",
         "url": "https://open.spotify.com/album/0DiKJ2UdkTmyti73sXlCbH"
       },
@@ -1174,7 +1264,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 316534,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1UFxhZOC18CAvWmOOB7OaB"
@@ -1246,7 +1336,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 234241,
       "name": "Fed by Violence",
       "url": "https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO"
@@ -1344,7 +1434,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 234314,
       "name": "Glass Cathedral",
       "url": "https://open.spotify.com/track/6upsDWIXjJE1X6oJxv3NSs"
@@ -1565,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Alone In Philadelphia",
+        "url": "https://open.spotify.com/album/7mEotwa4o4lZSLAR23gfqV"
+      },
+      "artists": [
+        {
+          "name": "Staticlone",
+          "url": "https://open.spotify.com/artist/5qjpZpwuGtOkwajRLirQpK"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131026,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/3XQ3iUVc6IWjotTwBbK60w"
+    },
+    {
+      "album": {
         "name": "Horizon Of Spikes",
         "url": "https://open.spotify.com/album/5KUno95fDG555aIRIt7mC7"
       },
@@ -1688,7 +1796,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 219130,
       "name": "I'll Give You Hell",
       "url": "https://open.spotify.com/track/3JygLXJ44lWW4PgwFJHnef"
@@ -2027,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "MALEVOLENCE",
+        "url": "https://open.spotify.com/album/1ttJH3LMqHUS6fV4SAo6t1"
+      },
+      "artists": [
+        {
+          "name": "Fight From Within",
+          "url": "https://open.spotify.com/artist/6mQi8LMPMts9Fz67wqneDV"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "MALEVOLENCE",
+      "url": "https://open.spotify.com/track/29BV2kIx8a3OvYlsSL0849"
+    },
+    {
+      "album": {
         "name": "MANIAC",
         "url": "https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ"
       },
@@ -2276,7 +2402,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 198071,
       "name": "Opulence And Obsidian",
       "url": "https://open.spotify.com/track/428WgwArZ5L38cHtS2gjFx"
@@ -2634,7 +2760,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 258613,
       "name": "Shackled To A Corpse",
       "url": "https://open.spotify.com/track/4bK6WdeZKtQQfXaPSmQf2l"
@@ -2778,7 +2904,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 317333,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/6LbqZon6XGnQZfGGJecds8"
@@ -2904,7 +3030,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 252656,
       "name": "Suffer Eternally",
       "url": "https://open.spotify.com/track/7Huaw7EZMCuHhpnx2pwehG"
@@ -2976,7 +3102,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 194515,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/0xFUm81oIUc1eLkZp7JYgA"
@@ -3084,7 +3210,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 167396,
       "name": "THE EARTH\u2019S COLD EMBRACE",
       "url": "https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ"
@@ -3254,6 +3380,28 @@
       "duration_ms": 196555,
       "name": "The Unconquerable",
       "url": "https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ"
+    },
+    {
+      "album": {
+        "name": "THROWN AWAY",
+        "url": "https://open.spotify.com/album/5kxLTqtA9y3Tl7UiFUdkVt"
+      },
+      "artists": [
+        {
+          "name": "Pneumonia Breath",
+          "url": "https://open.spotify.com/artist/4CTjSaibJPJJZ7Nw6Om0Rv"
+        },
+        {
+          "name": "Mike Parsram",
+          "url": "https://open.spotify.com/artist/0Hobg4eUs3GnhDmG92svpk"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "THROWN AWAY",
+      "url": "https://open.spotify.com/track/1oolgcW4ELixTGziuCeiQA"
     },
     {
       "album": {
@@ -3474,7 +3622,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 197124,
       "name": "vain conceit",
       "url": "https://open.spotify.com/track/5deTZlsApQuqK6U7zkGdb9"
@@ -3546,7 +3694,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 343405,
       "name": "Waging War Against God",
       "url": "https://open.spotify.com/track/5waQ7NyOgTOqwdEI4TyB7Y"
@@ -3582,7 +3730,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 274821,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/3m1OCJcLK8ok9HILw1EQZ1"
@@ -3661,6 +3809,32 @@
     },
     {
       "album": {
+        "name": "When It Betrays (feat. Colin Young)",
+        "url": "https://open.spotify.com/album/5fQ5kzqWf2LC7vmg7BJytl"
+      },
+      "artists": [
+        {
+          "name": "Church Tongue",
+          "url": "https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh"
+        },
+        {
+          "name": "Twitching Tongues",
+          "url": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy"
+        },
+        {
+          "name": "Colin Young",
+          "url": "https://open.spotify.com/artist/1Czqbs3tZ9A71hT3SytLvw"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "When It Betrays (feat. Colin Young)",
+      "url": "https://open.spotify.com/track/0g6olXNFO0lM3QVzjXDiS3"
+    },
+    {
+      "album": {
         "name": "WHEN THE PANIC SETS IN",
         "url": "https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug"
       },
@@ -3676,6 +3850,24 @@
       "duration_ms": 224571,
       "name": "WHEN THE PANIC SETS IN",
       "url": "https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg"
+    },
+    {
+      "album": {
+        "name": "Wounds Will Heal",
+        "url": "https://open.spotify.com/album/1OJUEVWT8IQbmSjpQJx0oZ"
+      },
+      "artists": [
+        {
+          "name": "Body Prison",
+          "url": "https://open.spotify.com/artist/4OW2g2KiFJtqvdwxCemioL"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278399,
+      "name": "Wounds Will Heal",
+      "url": "https://open.spotify.com/track/4wAVTeE6nP81nnrHRGqDxW"
     },
     {
       "album": {

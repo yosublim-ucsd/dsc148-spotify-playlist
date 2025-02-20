@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,810 songs - 4 day 16 hr 43 min
+1,811 songs - 4 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,7 +895,7 @@
 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 | 2023-07-13 | 2023-10-04 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 3:26 | 2022-11-02 | 2022-12-16 |
-| [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 | 2025-01-21 |  |
+| [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 | 2025-01-21 | 2025-02-20 |
 | [THE IOLITE](https://open.spotify.com/track/3SQf39lorTtGYdjgV3mGaj) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [THE IOLITE](https://open.spotify.com/album/454Pt2usT9vfENX4zu2C4J) | 4:00 | 2025-01-16 |  |
 | [The Kouga Ninja Scrolls \- From CrosSing](https://open.spotify.com/track/0RA0xtuQap6eb3AYLSz74N) | [凪原涼菜](https://open.spotify.com/artist/4PDodZQZjHgAI7DxZa9TVr) | [The Kouga Ninja Scrolls \- From CrosSing](https://open.spotify.com/album/09iqJyIoFZPZZBgzHVaOlY) | 4:02 | 2024-04-10 | 2024-04-19 |
 | [The other story](https://open.spotify.com/track/1ZO6KDnHnvig8K7tdbj5Cj) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [The other story](https://open.spotify.com/album/2zpOnTneOTvkByuVkMpvYM) | 3:20 | 2024-10-15 | 2025-01-08 |
@@ -1565,6 +1565,7 @@
 | [心音（しんおん）](https://open.spotify.com/track/7knXcKHUVxb9qxo37ZDILh) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [心音（しんおん）](https://open.spotify.com/album/15SCmf8EiD69P4wRGz0gm6) | 5:28 | 2023-09-26 | 2023-09-28 |
 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-10 | 2024-07-06 |
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2022-05-28 | 2022-07-01 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [恋してる自分すら愛せるんだ](https://open.spotify.com/track/62dL2rUkI4T7mAgwCVclJi) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [恋してる自分すら愛せるんだ](https://open.spotify.com/album/5c8jlwAovhxg04NiOVotCb) | 3:32 | 2024-01-09 | 2024-04-11 |
 | [恋はエクスプロージョン](https://open.spotify.com/track/2dKAXekTOOuHA9fLTqvSUj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [恋はエクスプロージョン](https://open.spotify.com/album/6SVzGAC0PQpG3rGdh4GAWl) | 3:37 | 2022-05-28 | 2022-07-06 |
 | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/track/2VdBCarSytlCR9o16m2dfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [カルバリンベア \[CV:安元洋貴\]](https://open.spotify.com/artist/0finzzKMafLBuwYlmanDqe) | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/album/2gU2RMelECGHkRvkOzth0g) | 1:30 | 2022-05-28 | 2022-06-03 |

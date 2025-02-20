@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: dilan filiz  Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,901 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,927 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RADYO](https://open.spotify.com/track/2k2r3mhdZBCuTc2PvKeini) | [dilan filiz](https://open.spotify.com/artist/6dXoGHRx8LtLORwftvlImh) | [RADYO](https://open.spotify.com/album/4L8IJcweQWDfGQGcBXXcDA) | 2:20 |
-| 2 | [Yorgun](https://open.spotify.com/track/2MEFGp6bm13qgkPdBYb4KW) | [Nana Hera](https://open.spotify.com/artist/6VRLp1SMFGX8UMagN1E8WL) | [Yorgun](https://open.spotify.com/album/2IPCz6edYW6m5LOQXFFRSI) | 3:18 |
+| 1 | [Yorgun](https://open.spotify.com/track/2MEFGp6bm13qgkPdBYb4KW) | [Nana Hera](https://open.spotify.com/artist/6VRLp1SMFGX8UMagN1E8WL) | [Yorgun](https://open.spotify.com/album/2IPCz6edYW6m5LOQXFFRSI) | 3:18 |
+| 2 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 |
 | 3 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 |
-| 4 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 |
-| 5 | [İçini Dökebilseydin](https://open.spotify.com/track/7tEGlbaF0zhPfxxp71gTME) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [İçini Dökebilseydin](https://open.spotify.com/album/5tEsXinjM9qgtU6Yj6tW1z) | 3:39 |
-| 6 | [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 |
-| 7 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 |
-| 8 | [Akşam Vakti](https://open.spotify.com/track/3qjvwl1Z8Sq64BMyGCyMo2) | [Güner Künier](https://open.spotify.com/artist/1R3ze0S5sCH3Hz9HXGxyk0) | [Akşam Vakti](https://open.spotify.com/album/1xykpqtLSPxMjpFFnEnIug) | 2:33 |
-| 9 | [Acil Bir Çıkış Kapısı](https://open.spotify.com/track/22Xrj6VUDwvfJQkawx42f0) | [Ulak](https://open.spotify.com/artist/2UPZi24fAmGQ43dtD2QoCa) | [Acil Bir Çıkış Kapısı](https://open.spotify.com/album/2fZ3tnc2Av8QozqEGTpE0e) | 3:12 |
+| 4 | [İçini Dökebilseydin](https://open.spotify.com/track/7tEGlbaF0zhPfxxp71gTME) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [İçini Dökebilseydin](https://open.spotify.com/album/5tEsXinjM9qgtU6Yj6tW1z) | 3:39 |
+| 5 | [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 |
+| 6 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 |
+| 7 | [Akşam Vakti](https://open.spotify.com/track/3qjvwl1Z8Sq64BMyGCyMo2) | [Güner Künier](https://open.spotify.com/artist/1R3ze0S5sCH3Hz9HXGxyk0) | [Akşam Vakti](https://open.spotify.com/album/1xykpqtLSPxMjpFFnEnIug) | 2:33 |
+| 8 | [Acil Bir Çıkış Kapısı](https://open.spotify.com/track/22Xrj6VUDwvfJQkawx42f0) | [Ulak](https://open.spotify.com/artist/2UPZi24fAmGQ43dtD2QoCa) | [Acil Bir Çıkış Kapısı](https://open.spotify.com/album/2fZ3tnc2Av8QozqEGTpE0e) | 3:12 |
+| 9 | [RADYO](https://open.spotify.com/track/2k2r3mhdZBCuTc2PvKeini) | [dilan filiz](https://open.spotify.com/artist/6dXoGHRx8LtLORwftvlImh) | [RADYO](https://open.spotify.com/album/4L8IJcweQWDfGQGcBXXcDA) | 2:20 |
 | 10 | [Kalp İstiyor ki](https://open.spotify.com/track/5nPXK5pNHijgvKxTMAOAzv) | [Burcu Kurt](https://open.spotify.com/artist/4BZxE8fxKlEu3hwJDX8mc8) | [Kalp İstiyor ki](https://open.spotify.com/album/3BIrEskqdtjE954EUB3Wnv) | 4:35 |
 | 11 | [Küçük Yılan](https://open.spotify.com/track/5irPLq2b7qODuIOqjlO2m1) | [Cem Eryılmaz](https://open.spotify.com/artist/4S5O1C4EV68wPZOh1evL51) | [Küçük Yılan](https://open.spotify.com/album/62BBnbIkH6RBHLl8wzsPv2) | 3:18 |
 | 12 | [Sarsam Geceye](https://open.spotify.com/track/3kfi2eML8k9tqcrVX8udHy) | [Biz Sizi Ararız](https://open.spotify.com/artist/3vvu5sNHPYgLaaLqQFOb3D) | [Sarsam Geceye](https://open.spotify.com/album/4eghtTBh7Kr5OlOSwiYyVS) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 69 | [Bi Yan Yana Olsak](https://open.spotify.com/track/7wKyMpsIw0crueELBYdXuS) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Rüzgar Bizi Götürse](https://open.spotify.com/album/4tsutBOUdQUsJVEXKpDFgk) | 3:43 |
 | 70 | [İsmet](https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [İsmet](https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn) | 5:07 |
 
-Snapshot ID: `Z69WgQAAAACSUyv00dkMS2caGZqSDQU4`
+Snapshot ID: `Z7W0zAAAAADA7sbgfiUmIOV54+wArlXP`

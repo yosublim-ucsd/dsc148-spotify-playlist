@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292 likes - 337 songs - 18 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294 likes - 337 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 119 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 120 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/1VsciQwDYOAyDw2FX6D062) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:14 |
 | 121 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
-| 122 | [Love On Display](https://open.spotify.com/track/0uOjJi0sUGKJVx2kT8kVsc) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [T\. R\. U\. T\. H.](https://open.spotify.com/album/42w25uAncdyETcTJyOV16K) | 3:03 |
-| 123 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 122 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 123 | [Love On Display](https://open.spotify.com/track/0uOjJi0sUGKJVx2kT8kVsc) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [T\. R\. U\. T\. H.](https://open.spotify.com/album/42w25uAncdyETcTJyOV16K) | 3:03 |
 | 124 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/4e4htLKeAZFildRW8D2Itx) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:52 |
 | 125 | [Never Grow Up](https://open.spotify.com/track/4EK3I8YpESBMEKeyc05JRS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:29 |
 | 126 | [Unholy](https://open.spotify.com/track/7pDNTYT8aJeAV40BGaCI7e) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:57 |
@@ -241,8 +241,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 231 | [Electrical](https://open.spotify.com/track/7klpihDYkaynlP0fcmFz0E) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:48 |
 | 232 | [Shut up.](https://open.spotify.com/track/0yZk3VXzmx1PY9FNbW6e8l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:10 |
 | 233 | [Another Life](https://open.spotify.com/track/66x2BjfIuvRV96EoFYxBDs) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 5:53 |
-| 234 | [Blackbox](https://open.spotify.com/track/0qzSuPaidsA4ynGtddJbkC) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:55 |
-| 235 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
+| 234 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
+| 235 | [Blackbox](https://open.spotify.com/track/0qzSuPaidsA4ynGtddJbkC) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:55 |
 | 236 | [Cosmic](https://open.spotify.com/track/2Mf5invtZli9zbBfVQAzre) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:35 |
 | 237 | [FAI2](https://open.spotify.com/track/2QsvwtsfSGFyHDuZD7xzQD) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [FAI2](https://open.spotify.com/album/4oixW61TxurrdJ1ZJ89oVC) | 3:16 |
 | 238 | [in this movie](https://open.spotify.com/track/7beS1GewAHWzHiYoo8SuLY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:56 |
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 336 | [Walk with Me](https://open.spotify.com/track/4hJwxO5eaINWALI4GLywXp) | [N.I.T.Z.](https://open.spotify.com/artist/5ij9fGCGIkU1LLKgdJH3Qb) | [Pit Stop](https://open.spotify.com/album/7cIDzeXmvSlr7ftCLb5JuM) | 2:47 |
 | 337 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Abp84AAAAABlpMwpHoeteIT5l8+YiMD8`
+Snapshot ID: `AbqCgAAAAADtr4YjkQU6quD9aLReZvbT`

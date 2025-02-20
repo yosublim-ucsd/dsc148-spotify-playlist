@@ -1243,6 +1243,32 @@
     },
     {
       "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Hubert Dilworth",
+          "url": "https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi"
+        },
+        {
+          "name": "Richard Huey",
+          "url": "https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP"
+        },
+        {
+          "name": "Dooley Wilson",
+          "url": "https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313440,
+      "name": "I Got a Song",
+      "url": "https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2"
+    },
+    {
+      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },

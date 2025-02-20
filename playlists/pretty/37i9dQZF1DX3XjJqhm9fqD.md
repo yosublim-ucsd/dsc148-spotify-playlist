@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,706 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,724 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 65 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
 | 66 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 |
 | 67 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
-| 68 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
-| 69 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 68 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 69 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
 | 70 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
 | 71 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 72 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 84 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 |
 | 85 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
 | 86 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
-| 87 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
-| 88 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 87 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 88 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
 | 89 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 | 90 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
 | 91 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 93 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 94 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 95 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
-| 96 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
-| 97 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
-| 98 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
-| 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 96 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 97 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
+| 98 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
+| 99 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 100 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
 
 Snapshot ID: `Z0AP0AAAAAAFiLkhnLU29Li6Yu4zhxAH`

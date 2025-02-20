@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,088 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,094 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 31 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 | 32 | [ACREDITOU?](https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7) | [TchutchuB](https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [ACREDITOU?](https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7) | 3:15 |
 | 33 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
-| 34 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
-| 35 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
+| 34 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
+| 35 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 36 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
 | 37 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
 | 38 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |

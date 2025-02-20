@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125444,
+  "num_followers": 125443,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATsWKGo0PNeWD0jH4KBBuy+p7GhEsy",
+  "snapshot_id": "AAATsikJoJgsoUfx9Nlbe6K1PfqEBSpY",
   "tracks": [
+    {
+      "added_at": "2025-02-19 15:43:01",
+      "album": {
+        "name": "Bass Bop",
+        "url": "https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Bass Bop",
+      "url": "https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo"
+    },
     {
       "added_at": "2025-02-18 16:09:58",
       "album": {

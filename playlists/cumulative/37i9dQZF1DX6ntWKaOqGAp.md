@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 緑黄色社会
 
-2,033 songs - 5 day 7 hr 43 min
+2,034 songs - 5 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,7 +656,7 @@
 | [Old Rookie](https://open.spotify.com/track/0Vx0LcKfmFdhwYES2OZb85) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:17 | 2023-01-24 | 2023-02-15 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-04-26 |
 | [One Thing](https://open.spotify.com/track/5NUKfCweTvuieR5wdOoXlM) | [The Lazy Boys](https://open.spotify.com/artist/0XnOQzDQnQZlyM86Gk0Kt0) | [One Thing](https://open.spotify.com/album/29nrkWl5Ijv4CqC6K2V6xB) | 5:19 | 2023-01-31 | 2023-02-15 |
-| [One\-Third](https://open.spotify.com/track/20QO4jdEw5JTALOExipks7) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [One\-Third](https://open.spotify.com/album/72N5staJf2yCeWLzMWxgQ6) | 3:24 | 2025-01-14 |  |
+| [One\-Third](https://open.spotify.com/track/20QO4jdEw5JTALOExipks7) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [One\-Third](https://open.spotify.com/album/72N5staJf2yCeWLzMWxgQ6) | 3:24 | 2025-01-14 | 2025-02-20 |
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-28 | 2023-12-27 |
 | [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 | 2023-03-22 | 2023-06-07 |
 | [Oujitsu](https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi ni Mita Kisetsu](https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i) | 3:42 | 2024-02-13 | 2024-03-01 |
@@ -1725,6 +1725,7 @@
 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 | 2023-06-06 | 2023-07-12 |
 | [思い出をかけぬけて](https://open.spotify.com/track/5YciBMihZOu9wIbf1gsmP6) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [思い出をかけぬけて](https://open.spotify.com/album/6lh90nzh2eowfhX075bUjL) | 3:51 | 2024-06-18 | 2024-07-31 |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 | 2023-08-03 | 2023-09-27 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-14 | 2023-11-29 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-01-13 | 2023-01-20 |

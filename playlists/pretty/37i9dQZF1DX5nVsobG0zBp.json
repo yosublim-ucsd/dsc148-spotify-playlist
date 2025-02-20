@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Slow J, Gson",
-  "num_followers": 72567,
+  "num_followers": 72606,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,18 @@
     {
       "added_at": "2025-02-14 12:01:54",
       "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        },
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2025-02-14 12:01:54",
@@ -855,18 +851,22 @@
     {
       "added_at": "2025-02-14 12:01:54",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
         }
       ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
     },
     {
       "added_at": "2025-02-14 12:01:54",

@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Solardo, Darell, Zion
 
-373 songs - 19 hr 23 min
+374 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [La Casa De Las Flores](https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [La Casa De Las Flores](https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe) | 2:30 | 2023-12-15 | 2024-07-06 |
 | [La Diabla \(Electro Remix\)](https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [La Diabla \(Electro Remix\)](https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa) | 2:16 | 2024-04-19 |  |
 | [LA FALDA \- Tiësto Remix](https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [LA FALDA \(Tiësto Remix\)](https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s) | 2:54 | 2024-04-05 |  |
+| [La Intuición](https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b) | [La Intuición](https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa) | 3:34 | 2025-02-19 |  |
 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 | 2023-01-27 | 2023-03-04 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-06-06 | 2023-02-26 |
 | [La Marea](https://open.spotify.com/track/54vZw4nVa29TGRpokEkzl5) | [VOXMANA](https://open.spotify.com/artist/6WcZpC0pNkXMoFpcbBURka), [Natalia Clavier](https://open.spotify.com/artist/5eNBCrl6JL8r6QKkQu733b), [Andrei Matorin](https://open.spotify.com/artist/2rlX2YZWwnzPc9BIIh5kor) | [La Marea](https://open.spotify.com/album/4a0FeWgTcpRLoED9YCvSYi) | 5:36 | 2023-09-15 | 2024-04-19 |

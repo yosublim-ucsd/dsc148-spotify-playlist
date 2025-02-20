@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,146 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,154 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 46 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 | 47 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 48 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
-| 49 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
-| 50 | [Eyes Wide](https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Eyes Wide](https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN) | 2:27 |
+| 49 | [Eyes Wide](https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Eyes Wide](https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN) | 2:27 |
+| 50 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 51 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
 | 52 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
 | 53 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 68 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 69 | [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Self/Less](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 |
 | 70 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
-| 71 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 |
-| 72 | [Show You \(Truck Song\)](https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Show You \(Truck Song\)](https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW) | 3:11 |
+| 71 | [Show You \(Truck Song\)](https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Show You \(Truck Song\)](https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW) | 3:11 |
+| 72 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 |
 | 73 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 |
 | 74 | [Facetime](https://open.spotify.com/track/6UoUGrNJg8xJOVEjlYM7OB) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Facetime](https://open.spotify.com/album/6a3NVQfwG2LJ1JUbslBn54) | 2:39 |
 | 75 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
 | 76 | [Other Sides Of The Moon](https://open.spotify.com/track/6nNBUO6bIMUdjAzq50ithk) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/5wxu92j7UL9J9EM6CGVqia) | 3:48 |
-| 77 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
-| 78 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
+| 77 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
+| 78 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
 | 79 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 |
 | 80 | [Better Man](https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Better Man](https://open.spotify.com/album/2MQkhHQpZPSahzils2tLuF) | 3:25 |
 

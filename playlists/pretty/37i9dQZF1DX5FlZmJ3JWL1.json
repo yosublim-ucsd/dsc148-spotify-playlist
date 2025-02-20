@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 775054,
+  "num_followers": 775129,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
+        "name": "Alors On Danse (DubDogz Remix)",
+        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Alors On Danse - DubDogz Remix",
+      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "Alors On Danse (DubDogz Remix)",
-        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Alors On Danse - DubDogz Remix",
-      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -667,6 +651,42 @@
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -695,22 +715,22 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
       "artists": [
         {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -747,26 +767,6 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "Left & Right",
-        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Left & Right",
-      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
         "name": "Wrong or Right (The Riddle)",
         "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        }
-      ],
-      "duration_ms": 158161,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -815,6 +799,42 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "duration_ms": 158161,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "duration_ms": 151858,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -859,26 +879,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 151858,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
     },
     {
       "added_at": "2025-02-05 18:41:55",

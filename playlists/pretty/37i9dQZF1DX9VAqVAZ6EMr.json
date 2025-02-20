@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Shakira\n",
-  "num_followers": 396472,
+  "num_followers": 396631,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-02-10 16:55:55",
       "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2025-02-10 16:55:55",
+      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2025-02-10 16:55:55",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2025-02-10 16:55:55",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-02-10 16:55:55",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM"
-    },
-    {
-      "added_at": "2025-02-10 16:55:55",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2025-02-10 16:55:55",
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM"
     },
     {
       "added_at": "2025-02-10 16:55:55",

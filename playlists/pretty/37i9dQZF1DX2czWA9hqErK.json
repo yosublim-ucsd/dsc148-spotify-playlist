@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1357570,
+  "num_followers": 1357535,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Life, Love & Upsets",
-        "url": "https://open.spotify.com/album/5Sx0EE8htv4hV5jtSQgGdM"
-      },
-      "artists": [
-        {
-          "name": "Mackenzy Mackay",
-          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
-        }
-      ],
-      "duration_ms": 176059,
-      "name": "Looking Like That",
-      "url": "https://open.spotify.com/track/13LdcTEtxPwQPEirkFSGPp"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Filthy Rich",
         "url": "https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
+        "name": "Life, Love & Upsets",
+        "url": "https://open.spotify.com/album/5Sx0EE8htv4hV5jtSQgGdM"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "duration_ms": 176059,
+      "name": "Looking Like That",
+      "url": "https://open.spotify.com/track/13LdcTEtxPwQPEirkFSGPp"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
         "name": "The Craving",
         "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -879,22 +895,6 @@
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Make Up",
-        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 151764,
-      "name": "Make Up",
-      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+      "duration_ms": 151764,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Heaven II",
-        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 147461,
-      "name": "Heaven II",
-      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "oh my",
-        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "oh my",
-      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "oh my",
+        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "oh my",
+      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
     },
     {
       "added_at": "2024-12-20 14:37:29",

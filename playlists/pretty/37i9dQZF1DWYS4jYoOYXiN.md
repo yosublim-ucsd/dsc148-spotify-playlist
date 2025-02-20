@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,420 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,443 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 34 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
 | 35 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
 | 36 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
-| 37 | [Baby Boogaloo](https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8) | [Nilo Espinosa y Orquesta](https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7) | [¡Gózalo! Vol 1](https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa) | 5:28 |
-| 38 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
+| 37 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
+| 38 | [Baby Boogaloo](https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8) | [Nilo Espinosa y Orquesta](https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7) | [¡Gózalo! Vol 1](https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa) | 5:28 |
 | 39 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
 | 40 | [I'll Be A Happy Man](https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK) | [The Latin Blues Band Featuring Luis Aviles](https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM), [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W) | [Take A Trip Pussycat \(feat\. Luis Aviles\)](https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ) | 3:34 |
 | 41 | [Cha Cha Cha Con Pachanga](https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31) | [Randy Carlos And His Orchestra](https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y) | [The Best Of](https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1) | 2:27 |

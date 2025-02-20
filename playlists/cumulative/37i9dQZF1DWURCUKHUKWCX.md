@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-216 songs - 11 hr 56 min
+219 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Atoms](https://open.spotify.com/track/1b85pN99A6Mn3UU81SYUg0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Atoms](https://open.spotify.com/album/3eP234mqeVO9RjB0RZyd9F) | 3:03 | 2021-12-10 |  |
 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 | 2021-12-10 | 2023-03-15 |
 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 | 2022-07-22 |  |
+| [Azure](https://open.spotify.com/track/3qqzN4M8JPVU7kAv42KyGh) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [Azure](https://open.spotify.com/album/5GA87BDfz4ghU7ORc7mUfW) | 2:46 | 2025-02-19 |  |
 | [Balcony Hotel \- From 'Miss'](https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Balcony Hotel \(From 'Miss'\)](https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz) | 2:48 | 2021-12-10 |  |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-12-10 |  |
 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 | 2021-12-10 | 2023-01-04 |
@@ -89,6 +90,7 @@
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 |  |
+| [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 |  |
 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 | 2021-12-10 | 2023-01-04 |
 | [la chute \(piano\)](https://open.spotify.com/track/2hJrtBzlrT9LoRZIC4b9Ep) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [la chute \(piano\)](https://open.spotify.com/album/5O1ISqv8YegbWkaRog23Ho) | 3:07 | 2023-02-03 |  |
 | [La Recherche \- Piano Solo Version](https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [La Recherche \(Piano Solo Version\)](https://open.spotify.com/album/3f22ZwmFXLpwfEpvfnAus9) | 2:13 | 2024-09-27 |  |
@@ -140,6 +142,7 @@
 | [Nuvole](https://open.spotify.com/track/7bxhomQAoW2NrwYzZtizGu) | [Fabio di Biase](https://open.spotify.com/artist/3ySI3lfDI3FG6om6IH3SCy) | [Nuvole](https://open.spotify.com/album/2ZDoqQeAsYADGiH3B7YYJa) | 4:38 | 2021-12-10 |  |
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 | 2023-01-04 |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
+| [Oil on Wood](https://open.spotify.com/track/1Lh7HHShT4nchZts6JPyW2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:39 | 2025-02-19 |  |
 | [oku](https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- tree](https://open.spotify.com/album/6gdxaCujfNt2szV6FXV4ps) | 2:25 | 2021-12-10 |  |
 | [On the Nature of Daylight \- Piano Version](https://open.spotify.com/track/65gmwDiFrJhzKD2lJviFIb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [On the Nature of Daylight \(Piano Version\)](https://open.spotify.com/album/59iPxpMcIyBldU0R169koT) | 5:57 | 2024-11-08 |  |
 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 | 2024-08-23 |  |

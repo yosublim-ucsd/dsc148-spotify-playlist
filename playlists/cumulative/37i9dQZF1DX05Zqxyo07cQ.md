@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-664 songs - 1 day 8 hr 30 min
+665 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Blue Sphere](https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Blue Sphere](https://open.spotify.com/album/1mOqBOPa7rItQzoOrgokpL) | 2:42 | 2023-03-23 | 2024-03-21 |
 | [Blue without you](https://open.spotify.com/track/2DrNPmBsMaeSXYTqYijbot) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Blue without you](https://open.spotify.com/album/25y6bIvp1tUsnCPqaQ1SV6) | 2:42 | 2024-05-04 |  |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2023-03-23 | 2024-01-18 |
+| [Borium](https://open.spotify.com/track/0Vw8mKmVFvEwYgO7vYxKtG) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalloides](https://open.spotify.com/album/1BLv8sdw0H8bP8PNh1M49i) | 2:59 | 2025-02-14 |  |
 | [Bountiful](https://open.spotify.com/track/5VzPfqAPty6kWuGywackk7) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Bountiful](https://open.spotify.com/album/3c2XFnhG8jgzSvUivAxY5h) | 2:29 | 2024-05-04 | 2024-07-16 |
 | [Breakthrough](https://open.spotify.com/track/1JF7MGHMuarWty6Yjbyfhr) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Breakthrough](https://open.spotify.com/album/3s6qRbBjaaX7hUVJ0Wnpay) | 2:41 | 2024-05-04 | 2024-07-12 |
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2023-03-23 | 2023-07-29 |
@@ -474,7 +475,7 @@
 | [Raft Ahead](https://open.spotify.com/track/6SjsGXE89jzNFTcxRoP4UD) | [Sauftly](https://open.spotify.com/artist/74T0gfwFSioVpy2hcO1Xld) | [Raft Ahead](https://open.spotify.com/album/3VTkKfQsIluLhYff0cdYkE) | 2:44 | 2023-03-23 | 2024-02-09 |
 | [Ramus](https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ramus](https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq) | 3:00 | 2024-04-05 | 2025-01-09 |
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2023-03-23 | 2024-03-21 |
-| [Rays of Warmth](https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Rays of Warmth](https://open.spotify.com/album/3F4YB50btI83J496J2zj3p) | 3:11 | 2024-01-17 |  |
+| [Rays of Warmth](https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Rays of Warmth](https://open.spotify.com/album/3F4YB50btI83J496J2zj3p) | 3:11 | 2024-01-17 | 2025-02-20 |
 | [Reappearance](https://open.spotify.com/track/381txcpzL73JjcdV2690sm) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Reappearance](https://open.spotify.com/album/0O2ZiFlvME9d031RNbZJqp) | 2:02 | 2023-03-23 | 2024-02-09 |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-23 | 2024-02-09 |
 | [Rebirth](https://open.spotify.com/track/2KCD0Kx46ftF8quaA1I0cP) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Night Meadows](https://open.spotify.com/album/0gsw7NryxN2GDB8tjIjrWn) | 3:11 | 2023-03-23 | 2023-05-06 |

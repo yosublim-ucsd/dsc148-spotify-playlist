@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 33988,
+  "num_followers": 33998,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 129463,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 129463,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Daytona Sand",
-      "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Wandering (Love Me Back)",
         "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186464,
       "name": "Worry 'Bout My Wandering",
       "url": "https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Daytona Sand",
+      "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2024-11-12 18:01:47",

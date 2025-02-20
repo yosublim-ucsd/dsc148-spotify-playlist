@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "first light",
+        "url": "https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175484,
+      "name": "first light",
+      "url": "https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp"
+    },
+    {
+      "album": {
         "name": "Flock of birds",
         "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
       },
@@ -2252,6 +2270,24 @@
       "duration_ms": 160124,
       "name": "It's You I'm Seeking",
       "url": "https://open.spotify.com/track/7pbAbWrlXKoycD9q6BGXqq"
+    },
+    {
+      "album": {
+        "name": "Jasmine Dreams",
+        "url": "https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190084,
+      "name": "Jasmine Dreams",
+      "url": "https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ"
     },
     {
       "album": {

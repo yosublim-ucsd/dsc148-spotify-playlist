@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 391387,
+  "num_followers": 391685,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "I Need It More",
-        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "I Need It More",
-      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 240000,
       "name": "Chaos - Rave Mix",
       "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
+        "name": "I Need It More",
+        "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 158167,
+      "name": "I Need It More",
+      "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
     },
     {
       "added_at": "2025-02-07 05:00:30",

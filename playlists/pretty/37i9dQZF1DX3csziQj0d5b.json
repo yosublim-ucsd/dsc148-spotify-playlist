@@ -1,6 +1,6 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1843194,
+  "num_followers": 1843485,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -443,6 +443,38 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -475,22 +507,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
     },
     {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
       "added_at": "2024-12-13 05:00:20",
       "album": {
         "name": "rosie",
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2025-01-17 05:00:32",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -975,22 +991,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:32",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 161567,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Moral of the Story",
         "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 201083,
       "name": "Moral of the Story",
       "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 161567,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "hate u love u",
         "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
@@ -2003,18 +1987,18 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -2031,6 +2015,22 @@
       "duration_ms": 169973,
       "name": "all the kids are depressed",
       "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2025-01-17 05:00:32",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 201058,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 182076,
       "name": "Every Second",
       "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
       "added_at": "2024-12-09 15:36:00",

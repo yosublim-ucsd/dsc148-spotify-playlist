@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,107 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,177 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 44 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 45 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
 | 46 | [Das größte Kompliment](https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Das größte Kompliment](https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1) | 2:28 |
-| 47 | [Weil ich dich liebe \- 2000 Remaster](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
-| 48 | [paris syndrom \- dach session](https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [paris syndrom \(dach session\)](https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP) | 2:50 |
-| 49 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
-| 50 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 51 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
-| 52 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
+| 47 | [paris syndrom \- dach session](https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [paris syndrom \(dach session\)](https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP) | 2:50 |
+| 48 | [Weil ich dich liebe \- 2000 Remaster](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
+| 49 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
+| 50 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
+| 51 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
+| 52 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 53 | [Tanz der Moleküle \- Single Version](https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk) | [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Tanz Der Moleküle](https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3) | 3:58 |
 | 54 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 | 55 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
 | 56 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 57 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 |
-| 58 | [Liebeslieder](https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Liebeslieder](https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL) | 2:27 |
-| 59 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 |
+| 58 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 |
+| 59 | [Liebeslieder](https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Liebeslieder](https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL) | 2:27 |
 | 60 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
 
 Snapshot ID: `Zy8ANQAAAAB5s/4YkWpA2IkoD/Q+7AWK`

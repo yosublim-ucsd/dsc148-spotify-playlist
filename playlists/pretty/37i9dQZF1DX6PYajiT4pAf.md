@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ozuna con Kapo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,960 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,979 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 23 | [Demasiadas canciones](https://open.spotify.com/track/0WiBVAo1bFQuIlHeIgLO1Z) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Demasiadas canciones](https://open.spotify.com/album/3zlM4pxMxqGno57iCrzvaj) | 2:29 |
 | 24 | [El Amor \- Premios Goya 2025](https://open.spotify.com/track/622hILkg9qNIuvy7k292Hk) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [El Amor \(Premios Goya 2025\)](https://open.spotify.com/album/1yCWdGu92Irb45eRWxLjal) | 3:28 |
 | 25 | [14 de Febrero](https://open.spotify.com/track/2wrLJsTqwcuMmbVxWR8l43) | [Galvan Real](https://open.spotify.com/artist/2iA56rE7fZUnD4GdsSUj3G) | [14 de Febrero](https://open.spotify.com/album/6tV7uym5oqukaaiuIYHwUU) | 3:32 |
-| 26 | [Si Me Das A Elegir](https://open.spotify.com/track/2H6GfNU6zYAcBJfa2KzVLV) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Si Me Das A Elegir](https://open.spotify.com/album/5E3ThPeinsJC7rsExqc8G3) | 3:07 |
+| 26 | [Si Me Das A Elegir](https://open.spotify.com/track/2H6GfNU6zYAcBJfa2KzVLV) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [Si Me Das A Elegir](https://open.spotify.com/album/5E3ThPeinsJC7rsExqc8G3) | 3:07 |
 | 27 | [Una Como Tu](https://open.spotify.com/track/2HHoXPafKfE41eXMQDrbrX) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Una Como Tu](https://open.spotify.com/album/6lAOXclCaLdpiARyDjC7WR) | 3:15 |
 | 28 | [20 Conmigo](https://open.spotify.com/track/3ScfIrIIFQEoZi9Z4wU5ak) | [La Mafia del Amor](https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [20 Conmigo](https://open.spotify.com/album/5Xp3ey0MpFijuge4FGZqYv) | 3:26 |
 | 29 | [Aunque Duela Remix](https://open.spotify.com/track/1u9I516BLaOBwoVwQU4Nbv) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Aunque Duela Remix](https://open.spotify.com/album/4I4bjMof9exE6SxOCEG3Oa) | 5:10 |

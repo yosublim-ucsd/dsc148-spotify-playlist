@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,483 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,531 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [All The Way Home](https://open.spotify.com/track/2NJLKwsNpm7KrvN8OyMtSa) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:47 |
 | 75 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 
-Snapshot ID: `Z64/BAAAAAB8Qrj4iwa8ENLL92VOLkGF`
+Snapshot ID: `Z64/BAAAAADrin7EQA3UqhQFIjpQXTGh`

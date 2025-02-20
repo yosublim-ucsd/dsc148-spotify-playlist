@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: Sandie Shaw",
-  "num_followers": 4408,
+  "num_followers": 4413,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Disco Tango [Remastered]",
-        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
-      },
-      "artists": [
-        {
-          "name": "Tommy Seebach",
-          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Disco Tango",
-      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 209786,
       "name": "T\u00fa Volver\u00e1s",
       "url": "https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
+        "name": "Disco Tango [Remastered]",
+        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
+      },
+      "artists": [
+        {
+          "name": "Tommy Seebach",
+          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Disco Tango",
+      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "En un Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183733,
       "name": "Save Your Kisses For Me - Re-Recording",
       "url": "https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
+        "name": "Un banc, un arbre, une rue",
+        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
+      },
+      "artists": [
+        {
+          "name": "Severine",
+          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
+        }
+      ],
+      "duration_ms": 181033,
+      "name": "Un banc, un arbre, une rue",
+      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Un banc, un arbre, une rue",
-        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
       },
       "artists": [
         {
-          "name": "Severine",
-          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
         }
       ],
-      "duration_ms": 181033,
-      "name": "Un banc, un arbre, une rue",
-      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
+      "duration_ms": 190840,
+      "name": "En un Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
     },
     {
       "added_at": "2023-05-05 17:23:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-05 17:23:47",
       "album": {
-        "name": "Alle Macht den Gef\u00fchlen",
-        "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Merci Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
-    },
-    {
-      "added_at": "2023-05-05 17:23:47",
-      "album": {
         "name": "Non ho l\u00b4eta (Remastered)",
         "url": "https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196519,
       "name": "Non ho l'et\u00e0 - Remastered",
       "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
+    },
+    {
+      "added_at": "2023-05-05 17:23:47",
+      "album": {
+        "name": "Alle Macht den Gef\u00fchlen",
+        "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Merci Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
     },
     {
       "added_at": "2023-05-05 17:23:47",

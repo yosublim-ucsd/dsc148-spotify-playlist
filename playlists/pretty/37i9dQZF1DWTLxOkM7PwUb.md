@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,820 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,840 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 78 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 | 79 | [HISTORIA](https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [HISTORIA](https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT) | 3:29 |
 | 80 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
-| 81 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
-| 82 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
+| 81 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
+| 82 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
 | 83 | [Lluvia](https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Así Como Suena](https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE) | 2:57 |
 | 84 | [Tus Dudas](https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Elmabel](https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Tus Dudas](https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO) | 2:51 |
 | 85 | [Adicto](https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Adicto](https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 209988,
+  "num_followers": 210027,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Price: String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
-        "url": "https://open.spotify.com/album/50Cnys8oPsROratizJAoed"
-      },
-      "artists": [
-        {
-          "name": "Florence Beatrice Price",
-          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
-        },
-        {
-          "name": "Sphinx Virtuosi",
-          "url": "https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn"
-        }
-      ],
-      "duration_ms": 426889,
-      "name": "String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
-      "url": "https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Price: String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
+        "url": "https://open.spotify.com/album/50Cnys8oPsROratizJAoed"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Sphinx Virtuosi",
+          "url": "https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn"
+        }
+      ],
+      "duration_ms": 426889,
+      "name": "String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
+      "url": "https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
-        "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
       "artists": [
         {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
-      "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+        "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
+        "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
         }
       ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+      "duration_ms": 174466,
+      "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
+      "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1503,46 +1503,6 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Schumann 50",
-        "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Valentina Igoshina",
-          "url": "https://open.spotify.com/artist/1W57JpbpzQDpbFRTWUBhxO"
-        }
-      ],
-      "duration_ms": 88093,
-      "name": "Carnaval, Op. 9: XII. Chopin",
-      "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1563,22 +1523,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1607,6 +1567,70 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
+      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Schumann 50",
+        "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Valentina Igoshina",
+          "url": "https://open.spotify.com/artist/1W57JpbpzQDpbFRTWUBhxO"
+        }
+      ],
+      "duration_ms": 88093,
+      "name": "Carnaval, Op. 9: XII. Chopin",
+      "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Mozart: Petite musique de nuit",
         "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
       },
@@ -1627,26 +1651,6 @@
       "duration_ms": 143693,
       "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
       "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Corrette, M.: Symphonies des noels / Concertos comiques",
-        "url": "https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f"
-      },
-      "artists": [
-        {
-          "name": "Michel Corrette",
-          "url": "https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F"
-        },
-        {
-          "name": "Arion Trio",
-          "url": "https://open.spotify.com/artist/5efT7ju4pfxstXoocgEwuv"
-        }
-      ],
-      "duration_ms": 102826,
-      "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
-      "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1683,26 +1687,22 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+        "name": "Corrette, M.: Symphonies des noels / Concertos comiques",
+        "url": "https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f"
       },
       "artists": [
         {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+          "name": "Michel Corrette",
+          "url": "https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F"
         },
         {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+          "name": "Arion Trio",
+          "url": "https://open.spotify.com/artist/5efT7ju4pfxstXoocgEwuv"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
-      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+      "duration_ms": 102826,
+      "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
+      "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1755,34 +1755,6 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Ivan Podyomov",
-          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
-        },
-        {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        },
-        {
-          "name": "Maxim Emelyanychev",
-          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
-        }
-      ],
-      "duration_ms": 425466,
-      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -1883,6 +1855,34 @@
       "duration_ms": 110583,
       "name": "Dancing Michelangelo - Andante Piano Sessions",
       "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
+        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ivan Podyomov",
+          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        }
+      ],
+      "duration_ms": 425466,
+      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
     },
     {
       "added_at": "2024-12-24 11:20:50",
@@ -2211,6 +2211,26 @@
     {
       "added_at": "2024-12-24 11:20:50",
       "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 85280,
+      "name": "Schumann: Bunte Bl\u00e4tter, Op. 99: No. 6, Albumbl\u00e4tter III",
+      "url": "https://open.spotify.com/track/5BgIxyGdmvBk044vSh6P2A"
+    },
+    {
+      "added_at": "2024-12-24 11:20:50",
+      "album": {
         "name": "Mozart: Piano Concertos Nos. 23 & 14",
         "url": "https://open.spotify.com/album/0cELjDo3vmobZZ1GNexBOB"
       },
@@ -2235,26 +2255,6 @@
       "duration_ms": 391480,
       "name": "Piano Concerto No. 23 in A Major, K. 488: II. Adagio - Cadenza by Dejan Lazi\u0107",
       "url": "https://open.spotify.com/track/3RhdzDEdatnpY2hocjxrj5"
-    },
-    {
-      "added_at": "2024-12-24 11:20:50",
-      "album": {
-        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
-        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 85280,
-      "name": "Schumann: Bunte Bl\u00e4tter, Op. 99: No. 6, Albumbl\u00e4tter III",
-      "url": "https://open.spotify.com/track/5BgIxyGdmvBk044vSh6P2A"
     },
     {
       "added_at": "2024-12-24 11:20:50",

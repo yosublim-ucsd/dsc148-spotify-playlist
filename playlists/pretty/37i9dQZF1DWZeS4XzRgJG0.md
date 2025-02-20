@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 148 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,814 likes - 148 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 66 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 |
 | 67 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 68 | [a thousand years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 |
-| 69 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
-| 70 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
+| 69 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
+| 70 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
 | 71 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 |
 | 72 | [So Cold \(The Good Wife Trailer\)](https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8) | [Ben Cocks](https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ), [Nikisha Reyes\-Pile](https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl) | [...As Heard In](https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct) | 3:46 |
 | 73 | [Love Me or Leave Me](https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:26 |
@@ -131,12 +131,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 121 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 122 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 123 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
-| 124 | [One Day](https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio) | 3:22 |
-| 125 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
+| 124 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
+| 125 | [One Day](https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio) | 3:22 |
 | 126 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 |
 | 127 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
-| 128 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
-| 129 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 |
+| 128 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 |
+| 129 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
 | 130 | [Nothing Really Matters](https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU) | 3:42 |
 | 131 | [I'm Not The Only One](https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:59 |
 | 132 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,250 likes - 84 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,247 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 61 | [UPSET](https://open.spotify.com/track/3OvCdQoVIWmW4NUbayrBKD) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [i wish we didn't..](https://open.spotify.com/album/69ajOGCWOvtpvM2oSHuaoO) | 1:43 |
 | 62 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
 | 63 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
-| 64 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
-| 65 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
+| 64 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
+| 65 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 66 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
-| 67 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
-| 68 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
-| 69 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
+| 67 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
+| 68 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
+| 69 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
 | 70 | [T.X.C.](https://open.spotify.com/track/0ybTysZ1qJTtDPlwmBlVSA) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Imani](https://open.spotify.com/album/6nHwUkyiI7jTSbFn8CujXW) | 2:26 |
 | 71 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
 | 72 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 75 | [Blessings](https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Blessings](https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr) | 2:13 |
 | 76 | [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 |
 | 77 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 |
-| 78 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
-| 79 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
+| 78 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
+| 79 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
 | 80 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
 | 81 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 |
 | 82 | [Shades Prayer](https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [SHADES](https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty) | 2:28 |

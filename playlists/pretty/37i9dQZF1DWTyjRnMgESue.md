@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Hannah Cohen
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,982 likes - 61 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,992 likes - 61 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 60 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 | 61 | [How Long](https://open.spotify.com/track/6QusAcbajrtIpNDr2EWP52) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Amy](https://open.spotify.com/album/16ZKxf5jDH2L7UIQ19uNIz) | 3:30 |
 
-Snapshot ID: `Z7TvZwAAAABhHMw1a3RALHZiU3vB/qOK`
+Snapshot ID: `Z7TvZwAAAABPk714BcNkLT2WjYTest0L`

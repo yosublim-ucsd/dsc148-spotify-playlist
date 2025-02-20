@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854 likes - 296 songs - 18 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853 likes - 296 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 136 | [Different Now](https://open.spotify.com/track/5h2RIt544riNwCr3EH9xGe) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Different Now](https://open.spotify.com/album/0nRbM6EKEQhmyCTsWEPLO7) | 3:22 |
 | 137 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
 | 138 | [Draft Day](https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:26 |
-| 139 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
-| 140 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
+| 139 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
+| 140 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
 | 141 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 |
 | 142 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 143 | [Just Like You](https://open.spotify.com/track/1QDcKeZQcAdF6vnYqGqAjJ) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:16 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Abp9CAAAAADT/3RTDidU2dUbzK6hyYPD`
+Snapshot ID: `AbqCqAAAAADKAuw7nEuHk6U0hQoidDsm`

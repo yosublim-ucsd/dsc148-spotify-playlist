@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-918 songs - 1 day 16 hr 46 min
+919 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [As Far as Feelings Go](https://open.spotify.com/track/2kJIiIqbzYVtv2iTpbQts9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [As Far as Feelings Go](https://open.spotify.com/album/7wN2FvcizhjkzuT3MvAGZI) | 3:29 | 2024-01-18 | 2024-09-15 |
 | [As It Was](https://open.spotify.com/track/0PszJKpYHBAIfx8bC2EydD) | [NOVUM](https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv), [Lumez](https://open.spotify.com/artist/7HXcmSLAIwIIMN5AHNx6z6) | [As It Was](https://open.spotify.com/album/6JxQfMhKMnoMXcJ8LQMqk5) | 2:09 | 2024-02-02 | 2024-03-02 |
 | [Aura](https://open.spotify.com/track/2Z50RqRrrHVncxJxo9R1qN) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Aura](https://open.spotify.com/album/72ZaxIUPpS2VZHmJrGfcf3) | 3:03 | 2025-02-11 |  |
+| [Aurora](https://open.spotify.com/track/7GU09kliZ520rX2jbLf3Pu) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Aurora](https://open.spotify.com/album/6gcXFqo18EewamLotkOarE) | 2:12 | 2025-02-19 |  |
 | [Back to Life](https://open.spotify.com/track/0qzRIQqFitzv0FZJupaeFV) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS) | [Back to Life](https://open.spotify.com/album/4Lij0CvIP9LI1ZQyyLjXrK) | 4:03 | 2024-12-06 | 2025-01-11 |
 | [Back To Life](https://open.spotify.com/track/6Jh3BMkWV1lY9w9s365zdx) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0) | [Back To Life](https://open.spotify.com/album/2LlHEnrb2lp6UHtBZd3DXY) | 2:29 | 2024-07-26 | 2024-08-31 |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2023-11-24 | 2024-09-15 |

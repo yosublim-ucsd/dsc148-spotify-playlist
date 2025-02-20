@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: AVAION, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,851,288 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,851,365 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 |
 | 2 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
-| 3 | [Sigma Boy \- Remix](https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Remix\)](https://open.spotify.com/album/3rzJoS0lwFIqZQHz6YFnnj) | 2:09 |
+| 3 | [Sigma Boy \- Remix](https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Remix\)](https://open.spotify.com/album/3rzJoS0lwFIqZQHz6YFnnj) | 2:09 |
 | 4 | [L'Italiano](https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Toto Cutugno](https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ) | [L'Italiano](https://open.spotify.com/album/4Et1q7i9BrPEIndMPzrrZW) | 2:17 |
 | 5 | [Another Way](https://open.spotify.com/track/2HJ3rSQyPZXw7BPWHqU9Im) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Another Way](https://open.spotify.com/album/4iFrVkIM5lCql5QlrJ0YzK) | 2:25 |
 | 6 | [All The Small Things](https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [All The Small Things](https://open.spotify.com/album/6vpocQEtVoMkffazXMxWX7) | 1:51 |

@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Winter Morning Piano",
+        "url": "https://open.spotify.com/album/4XZqpJ5VM0DhvC8vIfsWN1"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60304,
+      "name": "Beautiful Voice",
+      "url": "https://open.spotify.com/track/4jEXw5D0zPWohduaIF4R0n"
+    },
+    {
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/4vAsglUcnphuTDS6PkujoW"
       },
@@ -26570,6 +26588,24 @@
       "duration_ms": 99685,
       "name": "Sky",
       "url": "https://open.spotify.com/track/5rHfbA9E0OEPD1H3hL51rM"
+    },
+    {
+      "album": {
+        "name": "Winter Morning Piano",
+        "url": "https://open.spotify.com/album/4XZqpJ5VM0DhvC8vIfsWN1"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60304,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/465IlPuk6gh20j06Sizl4O"
     },
     {
       "album": {

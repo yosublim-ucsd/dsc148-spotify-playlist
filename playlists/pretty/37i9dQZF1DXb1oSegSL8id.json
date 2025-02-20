@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 839842,
+  "num_followers": 839843,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Open House (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Open House (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "DRIVE-IN (Ao Vivo)",
+        "url": "https://open.spotify.com/album/26nlhdnX6l3YlJoNqgoUGv"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u3mOBkii7dpaOJSqINOkK"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "DRIVE-IN (Ao Vivo)",
-        "url": "https://open.spotify.com/album/26nlhdnX6l3YlJoNqgoUGv"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4u3mOBkii7dpaOJSqINOkK"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Amava Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/054z4D8xRcVUqmXXErNdjz"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
       "artists": [
         {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Amava Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4AOOcHnZdU6qyUVtKZUEuF"
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+        "name": "Amava Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/054z4D8xRcVUqmXXErNdjz"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+      "duration_ms": 185533,
+      "name": "Amava Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AOOcHnZdU6qyUVtKZUEuF"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1511,6 +1511,26 @@
       "duration_ms": 173560,
       "name": "SEU DOUTOR - Ao Vivo",
       "url": "https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "T\u00f4 de Boa - Ao vivo",
+      "url": "https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1535,26 +1555,6 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "T\u00f4 de Boa - Ao vivo",
-      "url": "https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Infinito 2021, Vol.2",
-        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 382050,
-      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
-      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Manifesto Musical (Ao Vivo)",
         "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 382050,
+      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
+      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Equil\u00edbrio (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 162965,
       "name": "Buzina - Ao Vivo",
       "url": "https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Conquistas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Conquistas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
       "artists": [
         {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1751,22 +1767,6 @@
       "duration_ms": 195039,
       "name": "Gaiola - Ao Vivo",
       "url": "https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",

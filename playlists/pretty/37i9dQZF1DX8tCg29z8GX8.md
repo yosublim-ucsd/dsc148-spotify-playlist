@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,711 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,718 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 71 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
 | 72 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
 | 73 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 |
-| 74 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
-| 75 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
+| 74 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
+| 75 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 76 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 |
 | 77 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 |
 | 78 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,607 likes - 198 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,605 likes - 198 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 62 | [Be Right Here](https://open.spotify.com/track/6Yk4HTvs1Ww41l4c7iyBlH) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Be Right Here](https://open.spotify.com/album/2b9FyXvupIJe3lFCc8TGOv) | 3:11 |
 | 63 | [Moonlight](https://open.spotify.com/track/2PSfFKZqZPCSPB0wKUxpsq) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [TOTAL XANARCHY](https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H) | 3:31 |
 | 64 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 |
-| 65 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
-| 66 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 65 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 66 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
 | 67 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
 | 68 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 69 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 197 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 198 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Abp86gAAAAAPv1K5oZ9QIAChwXXtopkk`
+Snapshot ID: `AbqCdgAAAABcOVgl8tBsUM9Zq8EAB9D/`

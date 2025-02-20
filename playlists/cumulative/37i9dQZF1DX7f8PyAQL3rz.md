@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> hari e memphis tão na casa, esqueça tudo
+> hari e memphis tão na casa, esqueça tudo 👉😌👈
 
 411 songs - 1 day 0 hr 55 min
 

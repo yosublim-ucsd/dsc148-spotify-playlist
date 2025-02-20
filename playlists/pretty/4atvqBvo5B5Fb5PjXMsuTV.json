@@ -1,13 +1,81 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Feb 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Feb 23:04 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAPkHrDwVVKgVWP4F9wTr6N64s7yhED",
+  "snapshot_id": "AAAPltpl9DWy79fcqA90f9eCSz7biIgQ",
   "tracks": [
+    {
+      "added_at": "2025-02-19 23:04:01",
+      "album": {
+        "name": "No Front Teeth",
+        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "No Front Teeth",
+      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
+    },
+    {
+      "added_at": "2025-02-19 19:04:00",
+      "album": {
+        "name": "infinyte",
+        "url": "https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "infinyte",
+      "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
+    },
+    {
+      "added_at": "2025-02-19 09:04:05",
+      "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/52FMewyydnYgknvRsRzEqf"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "duration_ms": 222624,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/1qlhJ0PND0HRtUXRbJyjZa"
+    },
+    {
+      "added_at": "2025-02-19 23:04:01",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
     {
       "added_at": "2025-02-18 09:03:34",
       "album": {
@@ -25,6 +93,22 @@
       "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
     },
     {
+      "added_at": "2025-02-19 23:04:01",
+      "album": {
+        "name": "UNB\u00d8UND",
+        "url": "https://open.spotify.com/album/5fa7pFzXKaGTQNJnTqvciH"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/2giZNr8LWr8ywmcbxdvqjn"
+    },
+    {
       "added_at": "2025-02-18 19:03:55",
       "album": {
         "name": "Lizard",
@@ -39,6 +123,22 @@
       "duration_ms": 200845,
       "name": "Lizard",
       "url": "https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS"
+    },
+    {
+      "added_at": "2025-02-19 09:04:05",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5TnvUXAoOZBZsMz5Gun9uf"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1twIjd84kLaHBEJinkBfKg"
     },
     {
       "added_at": "2025-02-18 09:03:34",
@@ -283,6 +383,22 @@
       "duration_ms": 206466,
       "name": "Sun Don't Leave Me",
       "url": "https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m"
+    },
+    {
+      "added_at": "2025-02-19 09:04:05",
+      "album": {
+        "name": "Toxic Romantic",
+        "url": "https://open.spotify.com/album/73SfhMQLHiFNkzEBJVjMLf"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Toxic Romantic",
+      "url": "https://open.spotify.com/track/2IAvl3s4wnIcri2fv6PNNs"
     },
     {
       "added_at": "2025-02-14 09:02:19",
@@ -711,118 +827,6 @@
       "duration_ms": 209117,
       "name": "Fango in Paradiso",
       "url": "https://open.spotify.com/track/7Co4JFHHRVoAf9lCx37aGx"
-    },
-    {
-      "added_at": "2025-02-12 19:02:02",
-      "album": {
-        "name": "Viva la vita",
-        "url": "https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ"
-      },
-      "artists": [
-        {
-          "name": "Francesco Gabbani",
-          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Viva la vita",
-      "url": "https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3"
-    },
-    {
-      "added_at": "2025-02-12 23:03:53",
-      "album": {
-        "name": "Se t'innamori muori",
-        "url": "https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8"
-      },
-      "artists": [
-        {
-          "name": "Noemi",
-          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Se t'innamori muori",
-      "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
-    },
-    {
-      "added_at": "2025-02-13 14:01:51",
-      "album": {
-        "name": "TU CON CHI FAI L'AMORE",
-        "url": "https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "TU CON CHI FAI L'AMORE",
-      "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
-    },
-    {
-      "added_at": "2025-02-12 23:03:53",
-      "album": {
-        "name": "fuorilegge",
-        "url": "https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "fuorilegge",
-      "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
-    },
-    {
-      "added_at": "2025-02-12 19:02:02",
-      "album": {
-        "name": "L'albero delle noci",
-        "url": "https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv"
-      },
-      "artists": [
-        {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
-        }
-      ],
-      "duration_ms": 236282,
-      "name": "L'albero delle noci",
-      "url": "https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT"
-    },
-    {
-      "added_at": "2025-02-12 19:02:02",
-      "album": {
-        "name": "La tana del granchio",
-        "url": "https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 209034,
-      "name": "La tana del granchio",
-      "url": "https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo"
-    },
-    {
-      "added_at": "2025-02-12 23:03:53",
-      "album": {
-        "name": "Grazie ma no grazie",
-        "url": "https://open.spotify.com/album/0qXDA1aseu36UbzuadyYnx"
-      },
-      "artists": [
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 205649,
-      "name": "Grazie ma no grazie",
-      "url": "https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0"
     }
   ],
   "unique_name": "New Singles Now",

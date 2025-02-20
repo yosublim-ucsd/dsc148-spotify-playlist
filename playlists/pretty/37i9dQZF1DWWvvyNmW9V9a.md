@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Addison Rae is coming to save 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132,042 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131,839 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: DVTR
 
-3,113 songs - 6 day 21 hr 18 min
+3,114 songs - 6 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,7 +1306,7 @@
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-02-02 | 2024-02-10 |
 | [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 | 2023-09-08 | 2023-10-16 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2022-09-24 |
-| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 |  |
+| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 | 2025-02-20 |
 | [JeanLeloup](https://open.spotify.com/track/5gflFNsfB3kTS2qjbsJBLg) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [JeanLeloup](https://open.spotify.com/album/30LlafjSzTHf3ofmTtOuOY) | 2:50 | 2022-04-29 | 2022-06-04 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-31 | 2022-01-15 |
 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 | 2023-03-17 | 2023-04-15 |
@@ -2048,6 +2048,7 @@
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-20 | 2023-02-04 |
 | [On s'passe à côté](https://open.spotify.com/track/2luutsPAHOP7uHrlRDG5HJ) | [Damien Lauretta](https://open.spotify.com/artist/5XzUJg13VlUKJ97W9dp3Fh) | [French Riviera](https://open.spotify.com/album/7FvFGPiHSa12LO1UkgTk6d) | 2:51 | 2022-01-14 | 2022-01-29 |
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 | 2024-11-21 |
+| [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 | 2025-02-14 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/track/67t14XAtkgchkqWhYjlyTM) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/album/6WFtXnLkhAA0bM7AggOxTe) | 4:33 | 2022-10-14 | 2022-10-29 |
 | [On voudrait](https://open.spotify.com/track/353yen1tiVmrd5w49rFUQi) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Les liens les lieux](https://open.spotify.com/album/2Jj2Jqb4peRyI1xjflggkl) | 4:23 | 2022-09-09 | 2022-09-24 |

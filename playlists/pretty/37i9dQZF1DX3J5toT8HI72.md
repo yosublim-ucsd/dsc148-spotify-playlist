@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,478 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,512 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 19 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 |
 | 20 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 21 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
-| 22 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
-| 23 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
+| 22 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
+| 23 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
 | 24 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
 | 25 | [Ainda Gosto Dela](https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Estandarte](https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz) | 5:13 |
 | 26 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 60 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 |
 | 61 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 62 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 |
-| 63 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 |
+| 63 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
 | 64 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
-| 65 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
+| 65 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 |
 | 66 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
 | 67 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
 | 68 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 |

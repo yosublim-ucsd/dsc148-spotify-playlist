@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-604 songs - 1 day 4 hr 54 min
+605 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-14 | 2023-10-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 | 2024-03-22 |
+| [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 |  |
 | [Flex](https://open.spotify.com/track/61VsQlEKyeL6E4W41F1bYU) | [Lil Qhuid](https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [BetejayMadeIt](https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY) | [Flex](https://open.spotify.com/album/6b2KkHqsI33fosCa2KbGmf) | 2:54 | 2024-02-09 | 2024-03-22 |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-21 |  |
 | [Folelé](https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:48 | 2023-05-26 | 2023-07-21 |
@@ -234,7 +235,7 @@
 | [FREE](https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:46 | 2024-08-25 | 2024-09-20 |
 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 | 2022-10-13 | 2022-10-31 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 |  |
-| [Fuji Garbage](https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Chief Dr\. Sikiru Ayinde Barrister \(MFR\)](https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg) | [Fuji Garbage](https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T) | 2:41 | 2024-12-06 |  |
+| [Fuji Garbage](https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Chief Dr\. Sikiru Ayinde Barrister \(MFR\)](https://open.spotify.com/artist/3MUG3UzeQWT49WgA7hZrMg) | [Fuji Garbage](https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T) | 2:41 | 2024-12-06 | 2025-02-20 |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2024-12-06 |  |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-09 | 2022-11-13 |
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-05-10 | 2024-08-23 |

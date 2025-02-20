@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,216 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,222 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balorda nostalgia](https://open.spotify.com/track/5pNm9cYzWaAtoihxILG3cw) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [TUTTA VITA](https://open.spotify.com/album/74qhbKLkfhlWo32AIPqs7v) | 3:17 |
 | 2 | [Lej kto rrena](https://open.spotify.com/track/28LgPbNAuQOYOcdoJzaGGP) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Lej kto rrena](https://open.spotify.com/album/4bBU1jMBMnQEAI3vJm2Ef9) | 2:45 |
-| 3 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
+| 3 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
 | 4 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 5 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
 | 6 | [Malli](https://open.spotify.com/track/4jOcL6LbpfMF68rEVFZtPI) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Vera Me Ty](https://open.spotify.com/album/1JqKwnQ0qVLumzlu45JmtB) | 3:27 |

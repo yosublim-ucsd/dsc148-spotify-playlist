@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 5291,
+  "num_followers": 5295,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -407,30 +407,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         },
         {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        },
-        {
-          "name": "Loon",
-          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
-        },
-        {
-          "name": "Mario Winans",
-          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 285586,
-      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
-      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
+      "duration_ms": 289746,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -455,22 +447,30 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
       "artists": [
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
         }
       ],
-      "duration_ms": 289746,
-      "name": "Blame It",
-      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+      "duration_ms": 285586,
+      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
+      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
     },
     {
       "added_at": "2023-06-19 01:52:12",

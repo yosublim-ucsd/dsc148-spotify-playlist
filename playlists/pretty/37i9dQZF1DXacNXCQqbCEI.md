@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,085 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,089 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 27 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
 | 28 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 | 29 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
-| 30 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
-| 31 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 |
+| 30 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 |
+| 31 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
 | 32 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
 | 33 | [Me Recordaras](https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Varias Dudas Después](https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG) | 4:13 |
 | 34 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 54 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
 | 55 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
 | 56 | [No Más Velorio \- El Búho Remix](https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H) | [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [No Más Velorio \(El Búho Remix\)](https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU) | 4:51 |
-| 57 | [Bambú](https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb), [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK) | [Bambú](https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw) | 4:06 |
-| 58 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 57 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 58 | [Bambú](https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb), [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK) | [Bambú](https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw) | 4:06 |
 | 59 | [El Cafetal](https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Cafetal](https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48) | 4:04 |
-| 60 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
+| 60 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
 
 Snapshot ID: `ZpGzHAAAAADp5K7E9ziSPTsP1mZPoh8L`

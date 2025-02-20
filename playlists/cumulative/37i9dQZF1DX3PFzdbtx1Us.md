@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-370 songs - 14 hr 47 min
+374 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [At Last, Sunrise](https://open.spotify.com/track/4z0spwzLajA7R76czkAIEE) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [At Last, Sunrise](https://open.spotify.com/track/04yKORm7EBZbrdzjf9jD3X) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:02 | 2022-07-05 | 2023-05-16 |
 | [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
+| [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 | 2025-02-19 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-15 |  |
 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 | 2023-05-15 |  |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-06-27 | 2022-07-29 |
@@ -144,6 +145,7 @@
 | [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-01-14 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-05-15 |  |
+| [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 | 2025-02-19 |  |
 | [Her Joy Was Complete](https://open.spotify.com/track/7tUQIhueKYGnKThIseP69M) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 3:02 | 2021-06-27 | 2023-05-16 |
 | [Here Comes the Rain Again](https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Here Comes the Rain Again](https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ) | 2:27 | 2024-08-12 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 |  |
@@ -167,6 +169,7 @@
 | [IX...like a calm and careless morning](https://open.spotify.com/track/5TLKoeFcSwM19cqypqC0cK) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [THE \(HE\)ART OF US](https://open.spotify.com/album/6NAg8FBuYOMmoKN7orCqcI) | 2:14 | 2023-07-24 | 2024-04-19 |
 | [IX...like a calm and careless morning](https://open.spotify.com/track/7ocJrYaBSpfFmj5CrMxsrA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:14 | 2023-06-19 | 2023-07-27 |
 | [IX...like a calm and careless morning](https://open.spotify.com/track/7qdYmvnXg7STSS9rxlBOQR) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [IX...like a calm and careless morning](https://open.spotify.com/album/4qgS3tewxI4dUg1Ckv5Z4U) | 2:14 | 2023-05-15 |  |
+| [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-02-19 |  |
 | [Julia \(Gatwick Airport\)](https://open.spotify.com/track/5JgV5PLrfGUOE0fEhR6wiW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:59 | 2021-06-27 | 2023-05-16 |
 | [July Nights](https://open.spotify.com/track/0z5lgOqdWID9iAH5fxITk5) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Nights](https://open.spotify.com/album/6aFOBMvSiEbkGTPCUAYwmw) | 1:35 | 2021-06-27 | 2023-05-16 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-05-15 |  |
@@ -374,6 +377,7 @@
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2023-05-15 |  |
 | [winter waltz](https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [winter waltz](https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h) | 2:51 | 2024-02-05 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2023-05-15 |  |
+| [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 | 2025-02-19 |  |
 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-05-15 |  |
 | [Yasminah \(Alexanderplatz Station, Berlin\)](https://open.spotify.com/track/6RBURrAX0XCPUwSwTAEbTU) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:20 | 2021-06-27 | 2023-05-16 |
 | [Yoko](https://open.spotify.com/track/5F0DA0Op4ameBmS2OzEeOc) | [Julian Klaas](https://open.spotify.com/artist/4jy6NdHQgxTCEY2OykrMMa) | [Yoko](https://open.spotify.com/album/14Lm9SOzppoTzqLOT3IPCk) | 3:57 | 2023-08-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,070 songs - 4 day 14 hr 56 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,071 songs - 4 day 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2076,7 +2076,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2066 | [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 |
 | 2067 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 |
 | 2068 | [Love The Lows](https://open.spotify.com/track/7zMdkX1VNdKgSJPEti8OwT) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Love The Lows](https://open.spotify.com/album/50JKpF36EA6xWYomnonM8E) | 3:11 |
-| 2069 | [Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/5dmjsLeNMW49goi92kul6n) | 2:10 |
-| 2070 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
+| 2069 | [economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt) | [Levi Ryan](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J) | [operation wandering soul](https://open.spotify.com/album/4Wi6FIHsFBaO6d1BsuQxpj) | 2:22 |
+| 2070 | [Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/5dmjsLeNMW49goi92kul6n) | 2:10 |
+| 2071 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 
-Snapshot ID: `AAAD27w35TA4rGV24F4KgIZ8ioMnyO2h`
+Snapshot ID: `AAAD3d4f2gT+R0Nh3hWB4X4fEGoE4Yjo`

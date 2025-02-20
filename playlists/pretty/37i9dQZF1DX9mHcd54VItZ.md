@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw?si=YezHxkrgR1SKTCQU\-SlGJw">ANVR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,236 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,243 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 4 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 5 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 6 | [Staan by Jou](https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Staan by Jou](https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z) | 3:07 |
-| 7 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
-| 8 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 7 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 8 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
 | 9 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
 | 10 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 11 | [Ek Weet Nie Wat Ek Sê Nie](https://open.spotify.com/track/55GPVHKoJqqFQyBTk2b86b) | [Hartklop](https://open.spotify.com/artist/6CqWHUjfhUj6amb9pP60Ga) | [Ek Weet Nie Wat Ek Sê Nie](https://open.spotify.com/album/5v1NqaYZOiHEhYHLktLh25) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,222 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,242 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,19 +40,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 30 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 |
 | 31 | [Adem In Adem Uit](https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6) | 4:17 |
 | 32 | [Bang Alleen Te Blijven](https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Bang Alleen Te Blijven](https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY) | 3:25 |
-| 33 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 |
-| 34 | [Nachtportier](https://open.spotify.com/track/7ybaNamWNLq1NqdF8GNclY) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Dancing Boontjes](https://open.spotify.com/album/0oV3dWAJAaMJJfeWEqevjM) | 3:05 |
-| 35 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
+| 33 | [Nachtportier](https://open.spotify.com/track/7ybaNamWNLq1NqdF8GNclY) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Dancing Boontjes](https://open.spotify.com/album/0oV3dWAJAaMJJfeWEqevjM) | 3:05 |
+| 34 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
+| 35 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 |
 | 36 | [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 |
 | 37 | [Laatste Dans Remix \- Live](https://open.spotify.com/track/4LTTGWgPG2076NkewIv9FP) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Live](https://open.spotify.com/album/4c9W7mbX8XmjIDFTI4uo89) | 4:11 |
 | 38 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
 | 39 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 |
-| 40 | [Abracadabra](https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:32 |
-| 41 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 |
-| 42 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 |
-| 43 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 |
-| 44 | [Idool](https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Idool](https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE) | 3:02 |
-| 45 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 |
+| 40 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 |
+| 41 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 |
+| 42 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 |
+| 43 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 |
+| 44 | [Abracadabra](https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:32 |
+| 45 | [Idool](https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Idool](https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE) | 3:02 |
 | 46 | [Nooit Meer](https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P) | [Joël Borelli](https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD) | [Nooit Meer](https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG) | 2:59 |
 | 47 | [Als Nu Nu Is](https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Als Nu Nu Is](https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9) | 2:54 |
 | 48 | [Zaklamp](https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Gesprekken Met Mezelf](https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK) | 3:57 |

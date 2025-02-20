@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,354 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,393 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 21 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
 | 22 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 23 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
-| 24 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
-| 25 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
+| 24 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
+| 25 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
 | 26 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
 | 27 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 28 | [All In](https://open.spotify.com/track/3cDT2FK9rNvo1MdIEh2cvn) | [Aktiv Dödshjelp](https://open.spotify.com/artist/6VmW8AvN8ilOMV6hLo4xxP) | [All In](https://open.spotify.com/album/5cvYAH7KUd817SGr1Bklkz) | 2:40 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 38 | [Dud](https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:47 |
 | 39 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
 | 40 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 |
-| 41 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 |
-| 42 | [Machines](https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Machines](https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT) | 4:06 |
+| 41 | [Machines](https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Machines](https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT) | 4:06 |
+| 42 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 |
 | 43 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 |
 | 44 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 45 | [Feast](https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Feast](https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b) | 2:28 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 47 | [Get Down](https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:39 |
 | 48 | [The Ghost](https://open.spotify.com/track/54VdvfLY9vC1bxDdhpWbxW) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed Of Darkness](https://open.spotify.com/album/69JRRb97hIJIHMDqupL67Q) | 4:04 |
 | 49 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
-| 50 | [Jacked](https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Jacked](https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn) | 4:27 |
-| 51 | [Bardo](https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:24 |
+| 50 | [Bardo](https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:24 |
+| 51 | [Jacked](https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Jacked](https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn) | 4:27 |
 | 52 | [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 |
 | 53 | [that's what time does](https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 3:08 |
 | 54 | [Break The Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break The Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 63 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 64 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 | 65 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 |
-| 66 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 |
-| 67 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
+| 66 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
+| 67 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 |
 | 68 | [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 |
 | 69 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
 | 70 | [Unbelonging](https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Unbelonging](https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU) | 3:30 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 72 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 |
 | 73 | [Stay Golden](https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 1:58 |
 | 74 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 |
-| 75 | [Brighter Lights](https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Brighter Lights](https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx) | 3:49 |
+| 75 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 
 Snapshot ID: `Z1BgSwAAAAA7ztjqpuY6W3vrJE4D6zg9`

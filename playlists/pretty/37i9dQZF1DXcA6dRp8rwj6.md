@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,883 likes - 107 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,899 likes - 107 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 106 | [Jersey](https://open.spotify.com/track/1Db1bT0WW1sexHQpuE58HY) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:43 |
 | 107 | [Treasure Island](https://open.spotify.com/track/2VJjZNIizvxz8LJGmwMeHy) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Treasure Island](https://open.spotify.com/album/2ZbiFvf70ycI46qfPwQ9lz) | 1:55 |
 
-Snapshot ID: `Z66CZgAAAADB6F7E5e8ecI+4WdzBxR8S`
+Snapshot ID: `Z66CZgAAAACPDFnkiPVHqN/Vw2fS5u2J`

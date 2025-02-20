@@ -54231,6 +54231,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb"
+    },
+    {
+      "album": {
         "name": "Turn it up",
         "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
       },

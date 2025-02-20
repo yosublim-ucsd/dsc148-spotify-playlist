@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-551 songs - 21 hr 12 min
+553 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aphrodite](https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs) | [KojimaBeats](https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN) | [Aphrodite](https://open.spotify.com/album/4iO4ZqgrW7EMgJcWcAswa4) | 2:42 | 2022-05-13 | 2023-09-16 |
 | [April Showers Bring May Flowers](https://open.spotify.com/track/63Uhb25NexyeGnl60pDnbY) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [April Showers Bring May Flowers](https://open.spotify.com/album/0VY47kBXdRu5gdUR3328jm) | 2:12 | 2023-04-11 | 2023-09-08 |
 | [Argue](https://open.spotify.com/track/3MAmLnvAhpUrUQA9M3Hh9E) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Argue](https://open.spotify.com/album/5i6KZtEr9LXM351MRHW9nm) | 2:15 | 2022-10-28 |  |
-| [arrival of sunrise](https://open.spotify.com/track/4XNzfrexqHEUvePreTvU57) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [arrival of sunrise](https://open.spotify.com/album/4eC4Y5mRvicJOcHX6h150k) | 2:18 | 2024-05-13 |  |
+| [arrival of sunrise](https://open.spotify.com/track/4XNzfrexqHEUvePreTvU57) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [arrival of sunrise](https://open.spotify.com/album/4eC4Y5mRvicJOcHX6h150k) | 2:18 | 2024-05-13 | 2025-02-20 |
 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 | 2022-02-28 |  |
 | [Asahi](https://open.spotify.com/track/04feLXA7gbT5yNeT14ARNw) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Asahi](https://open.spotify.com/album/57IchT3b9pISD00a6tD6Ck) | 2:33 | 2023-08-31 |  |
 | [Astro Chill](https://open.spotify.com/track/0wT5rgH4cWdNJrreXaFeV4) | [The Experience](https://open.spotify.com/artist/2UIQJ7LdWN7Py0eSpUN0IC) | [Astro Chill](https://open.spotify.com/album/5uL83Sc02G0iS1sxcba1zJ) | 1:54 | 2022-09-02 |  |
@@ -124,6 +124,7 @@
 | [Don Lemon](https://open.spotify.com/track/1RKxZAiUKVL6XbGBYOMa2F) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0lghRrVZ6xapTaVWyzIdzQ) | 1:44 | 2022-12-09 | 2023-09-16 |
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 | 2022-11-20 |
 | [Don Lemon](https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq) | 1:44 | 2022-11-11 | 2022-12-14 |
+| [Don\*t ask](https://open.spotify.com/track/1Gk7ZiotJNIysZW5HUXTC8) | [Delbaz](https://open.spotify.com/artist/7awZp2VSR238uWEYBWVA1R) | [Don\*t ask](https://open.spotify.com/album/1guH5RZV3kqLb1mzxtwxhk) | 2:14 | 2025-02-19 |  |
 | [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 | 2023-02-07 |  |
 | [Dream Tunnel](https://open.spotify.com/track/0gyDK00aAkv2Cj5MiDdRDV) | [Alpacca](https://open.spotify.com/artist/6I1hzKZBbWpAwZjGXBI9uA), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Dream Tunnel](https://open.spotify.com/album/1em9TDR3pNUlMSG7VixHbC) | 2:30 | 2022-10-07 | 2024-09-06 |
 | [Dreaming](https://open.spotify.com/track/070NMc5haOwLbYjZp69uHf) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Dreaming](https://open.spotify.com/album/7knFAl2Q5H42tVLblWKfjG) | 2:30 | 2022-11-25 |  |
@@ -345,7 +346,7 @@
 | [My Perfect Garden](https://open.spotify.com/track/5KUkmUXh3rXdLa90AiTkEC) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [My Perfect Garden](https://open.spotify.com/album/2GdkjUkGhENbD1W4BQ5zVx) | 2:07 | 2024-12-11 |  |
 | [My Secret Garden](https://open.spotify.com/track/4d6SWT6p66wZFkIFecDbBi) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [My Secret Garden](https://open.spotify.com/album/5HIkW0PItJ2tfyKxLT79FK) | 1:58 | 2023-06-06 |  |
 | [mystery](https://open.spotify.com/track/1pMdQGhJ4kXbSwuh2ty1f3) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [mystery](https://open.spotify.com/album/4oFCCaThqBFoQtOEDtDIwF) | 1:57 | 2023-06-06 |  |
-| [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 | 2022-09-02 |  |
+| [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 | 2022-09-02 | 2025-02-20 |
 | [Natsukashii, Pleased Nostalgia](https://open.spotify.com/track/5EkE3pKip0yB8YTd9daXp5) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Tosso](https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp) | [Natsukashii, Pleased Nostalgia](https://open.spotify.com/album/2bzopRV7qnGkgRoQrUyQVF) | 2:17 | 2024-09-05 |  |
 | [Natura](https://open.spotify.com/track/5VN3OYlh8fP5P6ola1DkXJ) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/7LMjY84m9bSX4BMeCQmPwg) | 2:38 | 2023-06-06 | 2023-10-20 |
 | [Natura](https://open.spotify.com/track/7Auf2qCVAHFuIvQ02Hku3H) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Natura](https://open.spotify.com/album/3grr4LWLRWNm609pm7e7F3) | 2:38 | 2022-09-09 | 2023-07-06 |
@@ -458,7 +459,7 @@
 | [Sleeping with Eyes Wide Shut](https://open.spotify.com/track/7DjkIRwon0JiCoaGWwJYqm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Sleeping with Eyes Wide Shut](https://open.spotify.com/album/4zYvzmjD0UbHEeblfjIZHZ) | 3:37 | 2023-03-08 | 2024-10-05 |
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-12-07 | 2022-05-20 |
 | [Smoove Sauce](https://open.spotify.com/track/10Y3WT9e8WiTePo3dziWKX) | [Auto Smile](https://open.spotify.com/artist/3hcGTiuDVvU1UZiHECDyQP) | [Smoove Sauce](https://open.spotify.com/album/0k9aMdxtQeEuqvqv9ocOUX) | 2:49 | 2021-12-07 |  |
-| [Snowfall](https://open.spotify.com/track/6LMte3OwjV6DFhNkE68LWn) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Snowfall](https://open.spotify.com/album/27OzZLDN8GF6MbABKSLuzK) | 2:10 | 2023-07-13 |  |
+| [Snowfall](https://open.spotify.com/track/6LMte3OwjV6DFhNkE68LWn) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Snowfall](https://open.spotify.com/album/27OzZLDN8GF6MbABKSLuzK) | 2:10 | 2023-07-13 | 2025-02-20 |
 | [Snowtime](https://open.spotify.com/track/43cniiXl1ChIj4QFTS5fIV) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Snowtime](https://open.spotify.com/album/3KqT93aR4uhuwboEzMMbg0) | 2:03 | 2022-01-28 |  |
 | [So be it](https://open.spotify.com/track/6CY4goxKdCDKB8ZKB9EDIz) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [So be it](https://open.spotify.com/album/5Dj5k28Bnb3Wc2u6TEiWyD) | 2:26 | 2023-07-13 |  |
 | [so far away](https://open.spotify.com/track/4kRlEBBhXOGeCeFaAAfUub) | [narpy](https://open.spotify.com/artist/6HooP8zYHkpZmM0I9H0tmo) | [so far away](https://open.spotify.com/album/4dcMtlFy6F3UnEZX6MQfXj) | 1:23 | 2022-09-16 | 2025-01-17 |
@@ -502,6 +503,7 @@
 | [Terraforma](https://open.spotify.com/track/5O2obBZsd58cpx1GE0XECe) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [Terraforma](https://open.spotify.com/album/2OjwyKz7hqO5EL9JLw3Al0) | 1:38 | 2022-08-19 | 2022-11-12 |
 | [The Hotel at the End of the World](https://open.spotify.com/track/1by1Ft419vJMoWynFCLwMX) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [The Hotel at the End of the World](https://open.spotify.com/album/5OQcRQ3T3dVxq3Ga898XXp) | 1:31 | 2022-05-27 | 2023-06-07 |
 | [the return](https://open.spotify.com/track/7IkeZ0rRYjsOXX2g1qIZga) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [the return of slace n' cal](https://open.spotify.com/album/1wxW8xdGbEWJutK15Y66Pu) | 2:21 | 2023-04-11 |  |
+| [The Robin](https://open.spotify.com/track/0rO5gp1DargdoUfv9NHkQq) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [The Robin](https://open.spotify.com/album/4LAAfMdni0ZgC5ViOpQ9JI) | 2:05 | 2025-02-19 |  |
 | [The Shore](https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [The Shore](https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs) | 2:06 | 2022-09-02 | 2024-11-21 |
 | [The Time I Looked into the Sun](https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [The Time I Looked into the Sun](https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz) | 3:25 | 2023-03-08 | 2024-10-05 |
 | [There is a New Beginning](https://open.spotify.com/track/0E1F9N1OMTTBIeNob0GjG7) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:59 | 2023-02-17 | 2024-10-05 |
@@ -520,7 +522,7 @@
 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Tropical](https://open.spotify.com/track/3flKXxgUUF950gQHuDGBoy) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Tropical](https://open.spotify.com/album/3VyOz3HYyFIg9lXDjUfkOb) | 1:06 | 2022-08-05 | 2022-09-23 |
-| [Tropical Breeze](https://open.spotify.com/track/1eEefbYcJUYxSaUw3GgKyV) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [Tropical Breeze](https://open.spotify.com/album/5I19PV5RgTjejKTfVBFfmX) | 2:33 | 2022-09-30 |  |
+| [Tropical Breeze](https://open.spotify.com/track/1eEefbYcJUYxSaUw3GgKyV) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [Tropical Breeze](https://open.spotify.com/album/5I19PV5RgTjejKTfVBFfmX) | 2:33 | 2022-09-30 | 2025-02-20 |
 | [True Colors](https://open.spotify.com/track/3Xrw2bkSR6TmHs5xE57fRE) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 2:28 | 2021-12-07 | 2022-10-14 |
 | [Tucán](https://open.spotify.com/track/5bkxwX9Z4ir10NF6NesxI9) | [Wezt MAAD](https://open.spotify.com/artist/1hwXiwb02GgcXPuAewKCmF), [Nikkito](https://open.spotify.com/artist/6YvkUS9lekLZSFexDUrOfx) | [Tucán](https://open.spotify.com/album/4UbkMblaB4vzf8qf6iLJKs) | 3:29 | 2023-07-13 | 2024-03-01 |
 | [Tulip](https://open.spotify.com/track/7aK9xhSJUimGQlOB16hIv1) | [GG26](https://open.spotify.com/artist/56UVitciHLjVT60EuUuNyY), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Tulip](https://open.spotify.com/album/4xCxi2nGsdrPmh7slDj1ow) | 2:15 | 2022-10-14 |  |

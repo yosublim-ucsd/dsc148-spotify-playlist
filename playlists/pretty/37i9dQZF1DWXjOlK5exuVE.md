@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\. Los Tucanes de Tijuana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,020 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,116 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 124 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 |
 | 125 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 |
 
-Snapshot ID: `Z2m5ggAAAAD0tcFEMBIowAdPoA1UpoEF`
+Snapshot ID: `Z2m5ggAAAADtY8MmmnoHV3gApzADeCHi`

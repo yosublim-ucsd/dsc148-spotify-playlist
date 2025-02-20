@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring La Cassandra. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Baltazar Lora. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 148000,
       "name": "Bailareina",
       "url": "https://open.spotify.com/track/78fjw0RPmwdSrsFao7qbNA"
@@ -7127,6 +7127,24 @@
     },
     {
       "album": {
+        "name": "Capricho",
+        "url": "https://open.spotify.com/album/3NtAnlBQDSuLoBGtuO8coL"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "Capricho",
+      "url": "https://open.spotify.com/track/458cSEghPwtxKFE9O14bZy"
+    },
+    {
+      "album": {
         "name": "Caprichosa",
         "url": "https://open.spotify.com/album/2f2IpebBgW6adEB0kcnskw"
       },
@@ -8452,7 +8470,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 165286,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/3WU2Wp8id8zciX0gAK2zdn"
@@ -9514,6 +9532,24 @@
       "duration_ms": 182857,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
+    },
+    {
+      "album": {
+        "name": "Cruz",
+        "url": "https://open.spotify.com/album/1g7AqDkaFXRrW1U9MLIOjT"
+      },
+      "artists": [
+        {
+          "name": "Marinero",
+          "url": "https://open.spotify.com/artist/3nO1K3saAuSThsVWi1uxGF"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226234,
+      "name": "Cruz",
+      "url": "https://open.spotify.com/track/7wYlokTxMgQY72KxIGdvjs"
     },
     {
       "album": {
@@ -12054,7 +12090,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 151573,
       "name": "Dientes rotos",
       "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
@@ -12570,7 +12606,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 216000,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/4IOQCUXcsNN0x5dLagt4hz"
@@ -13308,7 +13344,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 216500,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk"
@@ -14590,6 +14626,28 @@
       "duration_ms": 184320,
       "name": "Elba",
       "url": "https://open.spotify.com/track/7i1bq7OEOVJLRzVlO3olUY"
+    },
+    {
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/6xtYyeCIif3OaNMbOTinb7"
+      },
+      "artists": [
+        {
+          "name": "curtice",
+          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
+        },
+        {
+          "name": "Paulina Desdier",
+          "url": "https://open.spotify.com/artist/7aZWllX7dNYUNZi4OR4cnF"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180981,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2prPJJ8eFJ29ISHIzTnx5t"
     },
     {
       "album": {
@@ -19174,7 +19232,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 229115,
       "name": "HUIR",
       "url": "https://open.spotify.com/track/15xyYoTFhqD3Rpg1EdTVqJ"
@@ -19984,7 +20042,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 170400,
       "name": "Intentarlo",
       "url": "https://open.spotify.com/track/2pNfFOfAax3AcuA82r8fGW"
@@ -21664,7 +21722,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 179063,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq"
@@ -24419,6 +24477,24 @@
     },
     {
       "album": {
+        "name": "MAGNOLIA",
+        "url": "https://open.spotify.com/album/7caisbTzWy7wCaCFH4DLPT"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00fa",
+          "url": "https://open.spotify.com/artist/6e1kBESgPygJc5EXQ3YY9l"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182821,
+      "name": "MAGNOLIA",
+      "url": "https://open.spotify.com/track/0XuX4pqQoDAV9hLQu7SQix"
+    },
+    {
+      "album": {
         "name": "MAGNOLIAS",
         "url": "https://open.spotify.com/album/3pdl8NiwKScliQkidd4uA7"
       },
@@ -26438,7 +26514,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 182916,
       "name": "MI DIOSA",
       "url": "https://open.spotify.com/track/5sKDkIFWM2Wdua80He2CdT"
@@ -26822,7 +26898,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 207746,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3zMdS0HkWL6AOGpAItCBpK"
@@ -31152,7 +31228,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 165663,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/2lLS2AU8BLbjlntLzuaLSj"
@@ -31710,6 +31786,42 @@
       "duration_ms": 176223,
       "name": "Opuesto Complementario",
       "url": "https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ"
+    },
+    {
+      "album": {
+        "name": "Orbitando",
+        "url": "https://open.spotify.com/album/0nFa1aL7KMl1r2qwp32nwb"
+      },
+      "artists": [
+        {
+          "name": "Azul An\u00e1loga",
+          "url": "https://open.spotify.com/artist/6MAmCCAGaoXqAmDONdIsMa"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164769,
+      "name": "Orbitando",
+      "url": "https://open.spotify.com/track/6UnL54dv1QvmBeOaLEyRB8"
+    },
+    {
+      "album": {
+        "name": "OREN POR MI",
+        "url": "https://open.spotify.com/album/4pmg91F3zXn02HYTInLHqp"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "OREN POR MI",
+      "url": "https://open.spotify.com/track/5fZq3nNhV6QZ0aM1qqj7nB"
     },
     {
       "album": {
@@ -32796,6 +32908,24 @@
       "duration_ms": 166408,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/60qPcH0i1d3VGE0D4VfNvC"
+    },
+    {
+      "album": {
+        "name": "Pase Lo Que Pase",
+        "url": "https://open.spotify.com/album/5Hxs3KxNOBgtB9EUTedRdb"
+      },
+      "artists": [
+        {
+          "name": "Vick Vapors",
+          "url": "https://open.spotify.com/artist/5w2rxPw0ZQZmf6mkghM2Qe"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227294,
+      "name": "Pase Lo Que Pase",
+      "url": "https://open.spotify.com/track/1rUq85cGOvCgIzCmVZhSye"
     },
     {
       "album": {
@@ -41453,6 +41583,24 @@
     },
     {
       "album": {
+        "name": "The Stars",
+        "url": "https://open.spotify.com/album/4I8CVRqxk2BOPttwWINIW2"
+      },
+      "artists": [
+        {
+          "name": "Alissanei",
+          "url": "https://open.spotify.com/artist/574JZMAuww6x9tMcHqnilw"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148222,
+      "name": "The Stars",
+      "url": "https://open.spotify.com/track/13Q8qLBCIqGFjcj4TRGk0z"
+    },
+    {
+      "album": {
         "name": "Thick",
         "url": "https://open.spotify.com/album/4ULTm7uYU8IeO85cREMVDk"
       },
@@ -43487,6 +43635,24 @@
     },
     {
       "album": {
+        "name": "Tus Ojos (3:33)",
+        "url": "https://open.spotify.com/album/3THNNKAcRLedI3N8YzRxDB"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182758,
+      "name": "Tus Ojos (3:33)",
+      "url": "https://open.spotify.com/track/5CvQSE6mWG7fA4ycRA2riF"
+    },
+    {
+      "album": {
         "name": "Tus Te Quieros",
         "url": "https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7"
       },
@@ -44582,6 +44748,24 @@
       "duration_ms": 264071,
       "name": "Vallarta",
       "url": "https://open.spotify.com/track/2AvX0xXVY3hX5jRNygjaL0"
+    },
+    {
+      "album": {
+        "name": "vamos a conectar",
+        "url": "https://open.spotify.com/album/4BUxeeZtcx25x9yC1t9z6o"
+      },
+      "artists": [
+        {
+          "name": "Nathan Bank",
+          "url": "https://open.spotify.com/artist/0OIuQgMshMZn2tMQEMULYD"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236775,
+      "name": "vamos a conectar",
+      "url": "https://open.spotify.com/track/7fbJpX1hrbT71zNIDgJGAP"
     },
     {
       "album": {
@@ -46011,6 +46195,24 @@
     },
     {
       "album": {
+        "name": "Why Bye",
+        "url": "https://open.spotify.com/album/7zTuKThRUUxQeT4eLMro9B"
+      },
+      "artists": [
+        {
+          "name": "Baltazar Lora",
+          "url": "https://open.spotify.com/artist/1OcU1uVtqF9umURdShNIwP"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186451,
+      "name": "Why Bye",
+      "url": "https://open.spotify.com/track/1PVKh7FCbXovBOAgjRiL8I"
+    },
+    {
+      "album": {
         "name": "Wolftyla",
         "url": "https://open.spotify.com/album/675g1kYSS5zgVygt1P9gQN"
       },
@@ -46828,7 +47030,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 177103,
       "name": "\u00a1Qu\u00e9 miedo!",
       "url": "https://open.spotify.com/track/66LRjTqOyFbkrfH6Ft7dvN"
@@ -47128,6 +47330,24 @@
       "duration_ms": 213698,
       "name": "\u00bfsi me muero?",
       "url": "https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq"
+    },
+    {
+      "album": {
+        "name": "\u00bfte acuerdas c\u00f3mo nos conocimos?",
+        "url": "https://open.spotify.com/album/6GKAW4alLrnAovBTAJ86EU"
+      },
+      "artists": [
+        {
+          "name": "Nico Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1nTXeYpxcO0MIRuyHm5V5s"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "\u00bfte acuerdas c\u00f3mo nos conocimos?",
+      "url": "https://open.spotify.com/track/6Go2rg4xA0GGhkgZhtAiOG"
     },
     {
       "album": {

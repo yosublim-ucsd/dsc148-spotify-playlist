@@ -3742,7 +3742,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -6622,6 +6622,28 @@
       "duration_ms": 163666,
       "name": "El Traje del PSG",
       "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "El trato",
+      "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
     },
     {
       "album": {
@@ -15528,7 +15550,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 232588,
       "name": "Otra poes\u00eda",
       "url": "https://open.spotify.com/track/4OQ1nalWM1VJOrZs6E7xCT"
@@ -15974,10 +15996,36 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
+    },
+    {
+      "album": {
+        "name": "Welcome To Vibes",
+        "url": "https://open.spotify.com/album/1kdStJ1p18yj6fwas5VEXG"
+      },
+      "artists": [
+        {
+          "name": "Norambuena",
+          "url": "https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP"
+        },
+        {
+          "name": "Eduuu Dj",
+          "url": "https://open.spotify.com/artist/1fPxSfa003fgk96aTZE61W"
+        },
+        {
+          "name": "josegga official",
+          "url": "https://open.spotify.com/artist/4SGTRZtyd7SeVmSmzSIm3i"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Pas3",
+      "url": "https://open.spotify.com/track/2aXVqDJenLCbo1ejAmKwp3"
     },
     {
       "album": {
@@ -16000,7 +16048,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 177230,
       "name": "Pas3",
       "url": "https://open.spotify.com/track/4KuOpBubtxoFgLNOaWlYG5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Hands Like Houses
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,692 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,696 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 39 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
 | 40 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
 | 41 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 |
-| 42 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 |
+| 42 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:26 |
 | 43 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
 | 44 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 |
 | 45 | [Time Will Try](https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Time Will Try](https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs) | 4:18 |

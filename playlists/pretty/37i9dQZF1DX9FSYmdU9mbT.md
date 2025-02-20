@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Tim Maia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,575 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,825 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 76 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
 | 77 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 |
 | 78 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
-| 79 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
-| 80 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 |
+| 79 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 |
+| 80 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 81 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 |
 | 82 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |
 | 83 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |

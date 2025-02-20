@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 8 hr 58 min
+163 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 | 2024-01-14 |  |
 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 | 2022-07-17 |  |
 | [Cliche](https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Cliche](https://open.spotify.com/album/5xONmKddxJymbH5cqMhw1r) | 3:15 | 2022-04-17 | 2022-07-18 |
+| [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 | 2025-02-19 |  |
 | [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 | 2023-12-13 |  |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-12 |  |
 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-12-13 |  |

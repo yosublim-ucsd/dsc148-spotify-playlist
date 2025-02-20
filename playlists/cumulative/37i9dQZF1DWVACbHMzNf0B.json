@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 188178,
       "name": "Atenea",
       "url": "https://open.spotify.com/track/3aRSCHA7rQKooRTxOGx8IH"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 201057,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
@@ -5150,7 +5150,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 176000,
       "name": "Eva Mar\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG"
@@ -7852,7 +7852,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
@@ -8240,6 +8240,24 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166801,
+      "name": "M&M",
+      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
     },
     {
       "album": {
@@ -9479,6 +9497,28 @@
     },
     {
       "album": {
+        "name": "Ni Todo el <3 Ni Toda la $",
+        "url": "https://open.spotify.com/album/3KRVDKkePeevEFKLL1FiFW"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245029,
+      "name": "Ni Todo el <3 Ni Toda la $",
+      "url": "https://open.spotify.com/track/74ZyPLoMWSXH4RMPbVbJ2I"
+    },
+    {
+      "album": {
         "name": "No Es Mentira (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
@@ -9614,6 +9654,24 @@
       "duration_ms": 231435,
       "name": "No Me Borres",
       "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
+    {
+      "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228226,
+      "name": "no me culpes por sentir",
+      "url": "https://open.spotify.com/track/2XgCopGQ3HzMhxNPOYrW85"
     },
     {
       "album": {
@@ -10726,6 +10784,24 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
+        "name": "Por Esos Ojos",
+        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "album": {
@@ -12161,6 +12237,24 @@
     },
     {
       "album": {
+        "name": "Secretos De Mi Memoria",
+        "url": "https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Secretos De Mi Memoria",
+      "url": "https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr"
+    },
+    {
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -12674,7 +12768,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 215000,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/5Gds84PZdhggEbBzZbBVjb"
@@ -13073,6 +13167,24 @@
     },
     {
       "album": {
+        "name": "Te Metiste - Spotify Single",
+        "url": "https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "Te Metiste - Spotify Single",
+      "url": "https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj"
+    },
+    {
+      "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
@@ -13245,6 +13357,24 @@
     },
     {
       "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144945,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
+    },
+    {
+      "album": {
         "name": "The One (Pero No Como Yo)",
         "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
       },
@@ -13372,6 +13502,24 @@
       "duration_ms": 150769,
       "name": "Toca Toca",
       "url": "https://open.spotify.com/track/4GTYUSraYAGDb31NRP9tRS"
+    },
+    {
+      "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
     },
     {
       "album": {
@@ -14346,7 +14494,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 240570,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/7LYeUOPupD3SFkOianhywD"
@@ -14686,7 +14834,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 160133,
       "name": "Yo Me Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI"

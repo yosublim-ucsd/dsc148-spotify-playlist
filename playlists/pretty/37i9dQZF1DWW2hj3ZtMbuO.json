@@ -1,6 +1,6 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1539751,
+  "num_followers": 1539853,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
+      "added_at": "2025-02-17 15:29:44",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
       "added_at": "2025-02-04 19:27:17",
       "album": {
         "name": "Being So Normal",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-02-04 19:27:17",
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
-    },
-    {
-      "added_at": "2025-02-04 19:27:17",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
     },
     {
-      "added_at": "2025-02-17 15:29:44",
+      "added_at": "2025-02-04 19:27:17",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": "2025-02-04 19:27:17",

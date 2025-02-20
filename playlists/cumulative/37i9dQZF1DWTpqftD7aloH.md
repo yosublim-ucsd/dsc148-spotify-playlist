@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-395 songs - 1 day 14 hr 36 min
+396 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Não Te Abandono](https://open.spotify.com/track/2QUxsTL6NN2aLISse5WMiD) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Matias Palheiro](https://open.spotify.com/artist/1lLHBfhNJSt67XhQBLJ7Wd), [Guilherme Ludtke](https://open.spotify.com/artist/2dOAyOfeeYGOE3TDXfHLwt) | [Não Te Abandono](https://open.spotify.com/album/5KmuqpltfJxdP1itCpGPZQ) | 4:26 | 2023-10-20 | 2023-11-04 |
 | [Nós Iremos Ver \- Ao Vivo](https://open.spotify.com/track/433p0PyAjtsFf4Gpehvp6E) | [José Wellington](https://open.spotify.com/artist/2egKsN5dCWCpAp9He9BLUt), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Nós Iremos Ver \(Ao Vivo\)](https://open.spotify.com/album/0WPz6DaXqGzr9sJ96LMMcB) | 6:43 | 2024-04-26 | 2024-05-23 |
 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 | 2023-02-11 | 2023-07-28 |
-| [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-16 |  |
+| [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-16 | 2025-02-20 |
 | [O Centro És Tu \- Ao Vivo](https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [O Centro És Tu \(Ao Vivo\)](https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c) | 5:45 | 2024-12-13 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2022-09-09 | 2023-04-29 |
 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 | 2024-12-08 |  |
@@ -247,6 +247,7 @@
 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 | 2024-08-16 |  |
 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 | 2023-09-25 |  |
 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 | 2023-06-23 |  |
+| [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa](https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS) | 8:58 | 2025-02-14 |  |
 | [O Rei Está Voltando](https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Rei Está Voltando](https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA) | 3:47 | 2024-09-06 |  |
 | [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 | 2024-01-11 |
 | [O Senhor, não os ídolos](https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [O Senhor, não os ídolos](https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk) | 10:18 | 2025-01-31 |  |

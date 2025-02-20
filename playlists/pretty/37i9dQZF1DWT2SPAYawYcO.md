@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,555 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,569 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 12 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
 | 13 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 14 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 |
-| 15 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:29 |
+| 15 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 |
 | 16 | [CRESCENT MOON](https://open.spotify.com/track/1jRXjnq4OthnBW3g5pVO3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CRESCENT MOON](https://open.spotify.com/album/1ulob05Af9pcJh4DAqRnjB) | 3:43 |
 | 17 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
 | 18 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |

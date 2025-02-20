@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,917 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 41 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
 | 42 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
 | 43 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
-| 44 | [Nosztalgia](https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:09 |
+| 44 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
 | 45 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 |
 | 46 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 |
 | 47 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 |
 | 48 | [Meztelen](https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB), [Horváth Tamás](https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz) | [Meztelen](https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi) | 4:08 |
 | 49 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 |
-| 50 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
+| 50 | [Nosztalgia](https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:09 |
 | 51 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 |
 | 52 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
 | 53 | [Mámor](https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:56 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 70 | [15](https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:24 |
 | 71 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
 | 72 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 |
-| 73 | [Milliók](https://open.spotify.com/track/5trI6snHPkJHvg0cygjRes) | [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Milliók](https://open.spotify.com/album/0dZzGPImkenhI2yuYD0urs) | 2:41 |
-| 74 | [Baszok Rátok](https://open.spotify.com/track/0M3j65N63vJMzvFgif2R5R) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [SISTAHOOD](https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE) | 3:30 |
+| 73 | [Baszok Rátok](https://open.spotify.com/track/0M3j65N63vJMzvFgif2R5R) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [SISTAHOOD](https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE) | 3:30 |
+| 74 | [Milliók](https://open.spotify.com/track/5trI6snHPkJHvg0cygjRes) | [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Milliók](https://open.spotify.com/album/0dZzGPImkenhI2yuYD0urs) | 2:41 |
 | 75 | [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 |
 | 76 | [Már nem szédülök](https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Már nem szédülök \(Rolling back\)](https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le) | 3:28 |
 | 77 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 |

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Head Above The Clouds",
+        "url": "https://open.spotify.com/album/08h7ZE3uPWXalzuaJXP6sL"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Head Above The Clouds",
+      "url": "https://open.spotify.com/track/79UbZ8oiJFtsl3fRjCsChx"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 916000,
       "name": "Rhapsody in Blue (Solo Piano Version)",
       "url": "https://open.spotify.com/track/3Oywl0XakigMLVBK57QC4W"
+    },
+    {
+      "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Rose Bay",
+      "url": "https://open.spotify.com/track/1EnWUJvL6apLFYFi0iFuyD"
     },
     {
       "album": {

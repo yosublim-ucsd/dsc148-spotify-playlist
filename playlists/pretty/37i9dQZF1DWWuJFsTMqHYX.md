@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,361 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,702 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 19 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
 | 20 | [Amidinine](https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Amidinine](https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU) | 4:21 |
 | 21 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
-| 22 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
-| 23 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
+| 22 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
+| 23 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 24 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
 | 25 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 26 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 45 | [Amoss Idjraw](https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amoss Idjraw](https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl) | 4:37 |
 | 46 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 47 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
-| 48 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
-| 49 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
+| 48 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
+| 49 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
 | 50 | [Ayo Nigla](https://open.spotify.com/track/4UPLbsDhxOq7xtSexAMKIs) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Ayo Nigla](https://open.spotify.com/album/3r4X11sRjrDIvvxc8h4ece) | 4:11 |
 
 Snapshot ID: `Z7TGZgAAAABAow10hUMv9nW48wHs1tJZ`

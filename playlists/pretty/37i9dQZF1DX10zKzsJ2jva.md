@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Neton Vega, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,488,423 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,490,395 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Parte & Choke](https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg) | 3:25 |
 | 50 | [No Son Doritos](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 |
 
-Snapshot ID: `Z67OAgAAAAB9QQKBVnaJTldMUr+NbbBe`
+Snapshot ID: `Z67OAgAAAADJUanfZoCkSWBuyAMzHqMb`

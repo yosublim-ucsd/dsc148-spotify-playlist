@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 120664,
       "name": "Birds by the River",
       "url": "https://open.spotify.com/track/5Jf7lpi81Hgf80BgrZzYIP"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 247471,
       "name": "By The Docks",
       "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 139500,
       "name": "Crisp Precipitation",
       "url": "https://open.spotify.com/track/62RI1GNvl6ZICvlttCIdYg"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 163176,
       "name": "Heavy Rain",
       "url": "https://open.spotify.com/track/7MUOe1g4dEh7OYkisdviDO"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 185305,
       "name": "Rain Droplets",
       "url": "https://open.spotify.com/track/7sQMuVHepJ9oEhXp0qH1Xk"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 180000,
       "name": "Rain Period Experience From a Bungalow in Thailand",
       "url": "https://open.spotify.com/track/3BnFSj59fyZy1v877MHpMV"
@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Satisfying Rain",
+        "url": "https://open.spotify.com/album/4rubn7sVQxo9biA0yeofh6"
+      },
+      "artists": [
+        {
+          "name": "WeatherBug",
+          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Satisfying Rain",
+      "url": "https://open.spotify.com/track/2S8THgm4D9ibaTT1gLWx2F"
+    },
+    {
+      "album": {
         "name": "Schlaf Regen",
         "url": "https://open.spotify.com/album/356Qsx0ZLOttkeBGEGwKQy"
       },
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 258079,
       "name": "Shelter in the Forest",
       "url": "https://open.spotify.com/track/6vDu8yINpZR4zHGNLkxOV4"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
@@ -2666,6 +2684,24 @@
       "duration_ms": 168000,
       "name": "White Noise Crashing Waves",
       "url": "https://open.spotify.com/track/3AFEx7f9qxc6U59s27Tp1V"
+    },
+    {
+      "album": {
+        "name": "White Pine Rain",
+        "url": "https://open.spotify.com/album/7mCFmEXBNEjAiN76HCAHN0"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184494,
+      "name": "White Pine Rain",
+      "url": "https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe"
     },
     {
       "album": {
@@ -2716,7 +2752,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 165296,
       "name": "Zen Nature Sounds",
       "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"

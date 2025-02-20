@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,740 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,753 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 52 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
 | 53 | [MELAZA](https://open.spotify.com/track/47rWtn2fBitY9ieQ5yIY3B) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [3000](https://open.spotify.com/album/5u2yO314Y0z6QxTKmlKWDh) | 2:26 |
 | 54 | [Tal Vez](https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Tal Vez](https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v) | 4:22 |
-| 55 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
-| 56 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
+| 55 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
+| 56 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
 | 57 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
 | 58 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
 | 59 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |

@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-80 songs - 5 hr 32 min
+81 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Malhar \(From "Zindagi Virat"\)](https://open.spotify.com/track/6a7wSmhZEaeFj6n2QMrESl) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Malhar \(From "Zindagi Virat"\)](https://open.spotify.com/album/6597Sx72hpeuJ75EwbvFGQ) | 4:09 | 2024-02-27 | 2024-04-19 |
 | [Mast Challay Amcha](https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Mast Challay Amcha](https://open.spotify.com/album/5koavjbloIXwCFa69roYfm) | 4:55 | 2023-07-04 | 2024-02-07 |
 | [Mast Challay Amcha](https://open.spotify.com/track/6TsADZx0yJpStzCrA4JmH6) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Mast Challay Amcha](https://open.spotify.com/album/2CZhaKFRt3KOHTrMxJSwcH) | 4:55 | 2024-02-05 | 2024-04-19 |
-| [Mast Challay Amcha](https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Marathi Dance Hits](https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA) | 4:56 | 2024-03-28 |  |
+| [Mast Challay Amcha](https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Marathi Dance Hits](https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA) | 4:56 | 2024-03-28 | 2025-02-20 |
 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 | 2023-07-04 |  |
 | [Meri Madhubala](https://open.spotify.com/track/2dIWPmnbgVn6lmpK809l4H) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/1HBEFg3sdFGetJHDcFXoqh) | 3:58 | 2023-07-04 | 2024-02-06 |
 | [Meri Madhubala](https://open.spotify.com/track/6ZehWlAhs6w8fBIFZ22NHA) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/6VGc7aaod8hbxZUTvoWSir) | 3:58 | 2024-02-05 | 2024-04-19 |
@@ -88,5 +88,6 @@
 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 | 2023-07-04 |  |
 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 | 2023-07-04 |  |
 | [Ye Go Ye Ye Maina](https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Jatra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv) | 5:23 | 2023-07-04 |  |
+| [YEDA YUNG](https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG](https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h) | 2:39 | 2025-02-19 |  |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

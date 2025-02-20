@@ -8401,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
         "name": "Sremm 4 Life",
         "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
       },
@@ -10682,7 +10700,7 @@
           "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
         },
         {
-          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+          "name": "Maria Iankovskaia",
           "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
         }
       ],

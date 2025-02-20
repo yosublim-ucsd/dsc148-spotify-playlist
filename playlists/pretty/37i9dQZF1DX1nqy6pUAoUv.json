@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 182015,
+  "num_followers": 182023,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,34 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 282586,
+      "name": "Quasheba, Quasheba",
+      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 282586,
-      "name": "Quasheba, Quasheba",
-      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 287439,
       "name": "Broken Harvest",
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
       "artists": [
         {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
         }
       ],
-      "duration_ms": 252373,
-      "name": "Barbary Coast (Later)",
-      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
       },
       "artists": [
         {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
         }
       ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+      "duration_ms": 252373,
+      "name": "Barbary Coast (Later)",
+      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Miracle of Love",
         "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Gold Record",
+        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "Pigeons",
+      "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Gold Record",
-        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Pigeons",
-      "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Songs Of",
         "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 235506,
       "name": "Unmistakable Love",
       "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2024-11-15 05:00:00",

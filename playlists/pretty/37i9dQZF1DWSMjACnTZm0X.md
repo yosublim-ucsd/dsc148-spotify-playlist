@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,843 likes - 59 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,844 likes - 59 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

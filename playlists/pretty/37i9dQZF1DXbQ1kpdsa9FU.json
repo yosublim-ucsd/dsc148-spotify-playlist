@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: MercyMe",
-  "num_followers": 631205,
+  "num_followers": 631301,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Chain Breaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 265120,
       "name": "Fear Is a Liar",
       "url": "https://open.spotify.com/track/6Z85UCEueQcgSyChlrEu5G"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
-      },
-      "artists": [
-        {
-          "name": "Forever Jones",
-          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "He Wants It All",
-      "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 378986,
       "name": "From The Inside Out - Live",
       "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
+      },
+      "artists": [
+        {
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "He Wants It All",
+      "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Go West Young Man",
         "url": "https://open.spotify.com/album/5WqyNqBEGw2fWmehS9vKuy"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 240173,
       "name": "Place In This World",
       "url": "https://open.spotify.com/track/0PKTBeN87JYJ1mRzrq5Aog"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2259,18 +2259,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+      "duration_ms": 233774,
+      "name": "Tell Your Heart To Beat Again",
+      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 233774,
-      "name": "Tell Your Heart To Beat Again",
-      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2339,24 +2339,24 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
     },
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Welcome to the New",
-        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
       "artists": [
         {
@@ -2364,9 +2364,9 @@
           "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Flawless",
-      "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Everything Is Changing",
-        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
@@ -2439,24 +2423,40 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Welcome to the New",
+        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
       "artists": [
         {
@@ -2464,9 +2464,9 @@
           "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Even If",
-      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
+      "duration_ms": 255640,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2491,18 +2491,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "name": "Fresh Start",
+        "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Gabe Real",
+          "url": "https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+      "duration_ms": 331613,
+      "name": "Eye of the Storm (feat. Gabe Real)",
+      "url": "https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx"
     },
     {
       "added_at": "2024-12-11 10:24:02",

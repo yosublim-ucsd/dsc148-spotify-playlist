@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Surprise - The 4.5th Album",
+        "url": "https://open.spotify.com/album/5F3uCpNJmZFlWXODPfh6yu"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290706,
+      "name": "Just In Love",
+      "url": "https://open.spotify.com/track/6nUfqHTfU9MUiVWUwBg7Nr"
+    },
+    {
+      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 212195,
       "name": "SWEETY",
       "url": "https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602"
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 213533,
       "name": "\ub2ec\ub9ac\uae30",
       "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 224840,
       "name": "\uc0ac\ub791\uc744 \uc544\uc9c1\ub3c4 \ub09c I Don't Know Love",
       "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"

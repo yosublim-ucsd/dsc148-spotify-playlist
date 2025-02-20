@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-213 songs - 10 hr 49 min
+214 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hup Two Three Four](https://open.spotify.com/track/4KfAbJe3usbFkSuX52CBm9) | [The Ramblin' Ambassadors](https://open.spotify.com/artist/3oz1j3bn6x0yZ4v5v9Ysb8) | [Avanti](https://open.spotify.com/album/1UYAuyAJCRXOJxmkmKj1hH) | 2:43 | 2024-07-24 |  |
 | [Hurry Sundown](https://open.spotify.com/track/0Uj04jzL63xl9QGd16S2Rt) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary Album](https://open.spotify.com/album/3pUe8UnX9kRYd33QJn9R1c) | 2:56 | 2024-07-24 |  |
 | [I Could Go On Singing \(Till The Cows Come Home\)](https://open.spotify.com/track/4L6ESJK5pTUL8Apb84M3E3) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [I Could Go On Singing](https://open.spotify.com/album/4K3LwY94osMX4P5UrmXI7G) | 5:00 | 2024-07-24 |  |
+| [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 | 2025-02-19 |  |
 | [I Hear Music](https://open.spotify.com/track/34J3MjWH6gkYJkWMgBSN2b) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:07 | 2024-07-24 |  |
 | [I Knew Him When](https://open.spotify.com/track/2LK0oc64jXwI4gSSjCw9jg) | [Liza Minnelli](https://open.spotify.com/artist/3lQpSzdPxoF1FYk7ilbe37) | [Liza! Liza!](https://open.spotify.com/album/025PqLfRjCiI8ZkmsqTSm2) | 2:44 | 2024-07-24 |  |
 | [I Love to Sing\-A](https://open.spotify.com/track/5Bi3kM1ujFswxELWuJrGQ7) | [Gossamer](https://open.spotify.com/artist/3I4fQAQ8MgiQgm8CYLgsLK) | [Merrie Melodies \(Songs From The Looney Tunes Show: Season Two\)](https://open.spotify.com/album/6ynsuIL1rJlsQseDnNvGFA) | 1:50 | 2024-09-14 |  |

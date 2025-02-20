@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,011 songs - 1 day 15 hr 10 min
+1,013 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 | 2023-02-21 | 2023-09-29 |
 | [Autumn Colours](https://open.spotify.com/track/4jxUiUn3Ho8aN4u2NQpmia) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/25slxRdPIXB4ytpeMEKEge) | 2:27 | 2022-10-28 | 2023-05-08 |
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
+| [autumn shower](https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [autumn shower](https://open.spotify.com/album/6nDLPzzU2OPJqfh1DGTZt1) | 2:07 | 2025-02-14 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Azo](https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Azo](https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy) | 2:01 | 2025-02-07 |  |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-01-20 |  |
@@ -118,7 +119,7 @@
 | [care for u](https://open.spotify.com/track/5RC0Izi18K6pKl4SCWzJsP) | [brentiamy](https://open.spotify.com/artist/7ridZ25826ct0U9QYhJ7Ro) | [care for u](https://open.spotify.com/album/2A4ksT6j03uM0B1EHHRA4Y) | 1:54 | 2024-10-04 | 2024-11-28 |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
 | [Cashmere](https://open.spotify.com/track/38D3yNAwPmCP5VlUEGFfi1) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [Textures](https://open.spotify.com/album/3QspIBavbSRf2RwWFBCxaE) | 2:12 | 2024-03-22 | 2024-07-05 |
-| [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2022-11-11 |  |
+| [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2022-11-11 | 2025-02-20 |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 | 2024-07-13 |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-04-15 | 2022-07-08 |
 | [Catnip](https://open.spotify.com/track/2Nk8JO0n5Juw1ibgXcnHcY) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Catnip](https://open.spotify.com/album/7hhoLPGJppGrXyAK2h3bES) | 2:21 | 2025-02-07 |  |
@@ -331,6 +332,7 @@
 | [Greenhouse](https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Ethan Deetz](https://open.spotify.com/artist/2u9pLWgNWbfZ2qPPZ8jMhZ) | [Greenhouse](https://open.spotify.com/album/6XbxhxcdM0T8uz4jaWtqcQ) | 2:02 | 2024-11-27 |  |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 | 2025-02-08 |
+| [Grooves](https://open.spotify.com/track/2a1kr1fmEAUKphT2cLxGeF) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Grooves](https://open.spotify.com/album/6igUXKzTBxsPRRyXof9YXf) | 1:46 | 2025-02-14 |  |
 | [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 | 2022-10-14 | 2024-05-29 |
 | [Guidance](https://open.spotify.com/track/1SRSlz0WFjWuKO7sxZgiO5) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Guidance](https://open.spotify.com/album/05G1VArVvJLKx1G2ns5jvP) | 2:01 | 2024-10-25 |  |
 | [Habitat](https://open.spotify.com/track/0VebHKTE4C8pJCP5oqPEM3) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:04 | 2022-04-15 | 2022-09-24 |
@@ -409,7 +411,7 @@
 | [Jazzy Attitude](https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7) | [Lush Groovebox](https://open.spotify.com/artist/1XUvAB59xTBce6cacKHuNj) | [Mellow Horizon](https://open.spotify.com/album/4XF3GKpWQuTQHemR24784t) | 1:28 | 2022-04-15 | 2022-07-08 |
 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 | 2022-04-15 | 2022-10-14 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-04-15 | 2022-05-20 |
-| [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2022-06-17 |  |
+| [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2022-06-17 | 2025-02-20 |
 | [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2022-12-09 | 2023-10-20 |
 | [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-22 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-04-15 | 2022-05-14 |

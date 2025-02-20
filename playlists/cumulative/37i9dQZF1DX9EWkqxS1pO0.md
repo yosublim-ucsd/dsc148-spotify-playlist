@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: manifest
 
-197 songs - 9 hr 46 min
+198 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 | 2024-12-30 |
 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 | 2024-06-20 |  |
 | [Biçare](https://open.spotify.com/track/6f4Qvq0AoInO0Fd82Hs6Rl) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Biçare](https://open.spotify.com/album/6YhvM21lICI7twMpta4mL0) | 3:16 | 2024-06-20 | 2025-01-17 |
+| [BNG](https://open.spotify.com/track/1XiIqbHZld1FrvOxm2er2J) | [Gizem Duman](https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ) | [BNG](https://open.spotify.com/album/06HawAWqvBy2rMirHOiKii) | 3:16 | 2025-02-13 |  |
 | [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 | 2024-10-24 |  |
 | [Bu Yangın](https://open.spotify.com/track/3IQpvbZ2ziQLdZ6muToMb7) | [merhababensokak](https://open.spotify.com/artist/3G9IfSbpM10wK68aNR9k4Y) | [Bu Yangın](https://open.spotify.com/album/0Q2PPmruCGGiTnVthScLtt) | 3:02 | 2025-02-13 |  |
 | [Bıraktığın Gibi](https://open.spotify.com/track/6xbGuKshqxhGvECYXF2hD9) | [Ege Sel](https://open.spotify.com/artist/3ppamONbm5lz6Ho7wSWzVy) | [Bıraktığın Gibi](https://open.spotify.com/album/5SmRlGzV4wXUFrVcEoyfFJ) | 2:33 | 2025-01-23 | 2025-02-08 |
@@ -148,7 +149,7 @@
 | [söyle](https://open.spotify.com/track/0FzsSOV5EykJCiENiwA7CC) | [val](https://open.spotify.com/artist/5ykHN9vzOjk9a2AhjoPCUK), [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [söyle](https://open.spotify.com/album/2FYQF7rXRJr2Fs6XH3UZUM) | 3:21 | 2024-10-03 |  |
 | [takıntı](https://open.spotify.com/track/2wWPDdPeAI35eTzTwICe4G) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [takıntı](https://open.spotify.com/album/2XGZQo8GbyLmJQqGwJO3aQ) | 2:49 | 2024-08-22 | 2025-01-26 |
 | [Tamam](https://open.spotify.com/track/04bEcRfmY6N3rsfSlfuc7p) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Tamam](https://open.spotify.com/album/33H5Kl14pixalyKydBKoUF) | 2:55 | 2024-09-19 | 2024-09-22 |
-| [Tane Tane](https://open.spotify.com/track/1Fn1hhLZj1cQc1CSmiVpJf) | [Batuhan Polat](https://open.spotify.com/artist/6SZpPDwlBPtvx9TDoBgwH8) | [Tane Tane](https://open.spotify.com/album/1WOEq0dz8Hx2yaB0oOLl3e) | 4:49 | 2025-02-13 |  |
+| [Tane Tane](https://open.spotify.com/track/1Fn1hhLZj1cQc1CSmiVpJf) | [Batuhan Polat](https://open.spotify.com/artist/6SZpPDwlBPtvx9TDoBgwH8) | [Tane Tane](https://open.spotify.com/album/1WOEq0dz8Hx2yaB0oOLl3e) | 4:49 | 2025-02-13 | 2025-02-20 |
 | [Tasmam Ellerinde](https://open.spotify.com/track/4nilIX9kRj72xYjEYEhXHV) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Tasmam Ellerinde](https://open.spotify.com/album/04qC9MIJZk2ztJ7FULxW8s) | 3:40 | 2024-06-20 |  |
 | [Tatlı Kız](https://open.spotify.com/track/7drxlVHRDPggmxpIBToxHc) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ), [Beyza Yiğit](https://open.spotify.com/artist/4ndEPqnJy4fsarj8Qqq7T8) | [Tatlı Kız](https://open.spotify.com/album/3M8asaH08zYAiAgsSjZeJf) | 2:05 | 2024-06-20 | 2024-11-11 |
 | [Uykusuzum](https://open.spotify.com/track/0FK0LJu6P1S0EoRSsXGI3W) | [Lil Begy](https://open.spotify.com/artist/50do41eMmwBzQICjvnmwxN) | [Uykusuzum](https://open.spotify.com/album/1n0Yub001RO6dD5WVcvPcE) | 2:12 | 2025-01-16 |  |

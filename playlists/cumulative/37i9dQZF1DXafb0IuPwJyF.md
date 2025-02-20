@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: 星野源
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 星野源
 
-1,466 songs - 3 day 19 hr 3 min
+1,467 songs - 3 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Family Sale](https://open.spotify.com/track/3sFhDmtCO39yZUzpk2o4Gs) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [親父](https://open.spotify.com/artist/7tvsTkLL1lt0D5QU8yIvdI) | [Family Sale](https://open.spotify.com/album/3JfuFVx4rgavnVvqXYqK3z) | 4:00 | 2023-10-22 | 2023-10-30 |
 | [FANTASY](https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [PRISMATICS](https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt) | 3:30 | 2022-09-18 | 2022-10-09 |
 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-02-20 | 2022-03-14 |
-| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-17 |  |
+| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-17 | 2025-02-20 |
 | [FEARLESS \- Japanese ver.](https://open.spotify.com/track/3sR8JLZH6aCgPN3XwHh2FU) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 2:48 | 2023-02-01 | 2023-02-20 |
 | [Feel](https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [1Time](https://open.spotify.com/album/2O5JoRxsxK3ZEQWWCwUzDs) | 6:16 | 2024-01-28 | 2024-02-05 |
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-03 | 2023-12-25 |
@@ -1241,6 +1241,7 @@
 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 | 2024-07-23 | 2024-09-04 |
 | [忘れ物](https://open.spotify.com/track/27dTB2lvWsqFeTdtPYtVT3) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [忘れ物](https://open.spotify.com/album/35aqJb4W2aqYwcjBuvgSVl) | 3:18 | 2022-11-13 | 2022-11-28 |
 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-16 | 2024-08-14 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-19 |  |
 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 | 2023-08-06 | 2023-09-25 |
 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 | 2023-01-29 | 2023-02-20 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2022-11-20 | 2022-12-19 |

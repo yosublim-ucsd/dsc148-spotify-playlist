@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: AfterParty）
 
-[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 20 songs - 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 20 songs - 16 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

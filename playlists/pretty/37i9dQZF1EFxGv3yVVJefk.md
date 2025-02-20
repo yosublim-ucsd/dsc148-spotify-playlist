@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 119 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 119 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 59 | [Lick My Lips](https://open.spotify.com/track/3ZOPCuRMpsHoTx2Qbo0zmi) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 2:34 |
 | 60 | [Too Proud To Beg](https://open.spotify.com/track/4IBfq7JnxlhUKRd5ecfdY7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:50 |
 | 61 | [She Saw You](https://open.spotify.com/track/7dN6LdEvKdvwoZquYIVNEP) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:44 |
-| 62 | [You're My Choice Tonight \(Choose Me\) \- Remastered](https://open.spotify.com/track/1flI5thjv7Y8e8t14FXOIF) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Bedroom Classics, Vol\. 1](https://open.spotify.com/album/4dzEBeERyrsFl59LcPYOEC) | 4:42 |
-| 63 | [Are You Using Me?](https://open.spotify.com/track/1QtxGA8cWVJPLEslj9CrL3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:21 |
+| 62 | [Are You Using Me?](https://open.spotify.com/track/1QtxGA8cWVJPLEslj9CrL3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:21 |
+| 63 | [You're My Choice Tonight \(Choose Me\) \- Remastered](https://open.spotify.com/track/1flI5thjv7Y8e8t14FXOIF) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Bedroom Classics, Vol\. 1](https://open.spotify.com/album/4dzEBeERyrsFl59LcPYOEC) | 4:42 |
 | 64 | [If I...](https://open.spotify.com/track/3lZpFRnVx0eaO0IY3Y6tR9) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:42 |
 | 65 | [I Know You Want To](https://open.spotify.com/track/4yQmFbJenNeTqKwFzvdYnS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 4:26 |
 | 66 | [Right in the Middle](https://open.spotify.com/track/3DRT8CMXAh76fOzblti1lV) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:50 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `Abp9CAAAAAD3dF1qsNCJv4x21oAHkwhp`
+Snapshot ID: `AbqCngAAAABYZIE1SM+i06nf5zO/5lze`

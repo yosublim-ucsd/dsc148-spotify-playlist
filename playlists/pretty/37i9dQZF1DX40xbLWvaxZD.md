@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,917 likes - 53 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,923 likes - 53 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 52 | [Midnight Desire \(Full Spec Edition\)](https://open.spotify.com/track/1IyBI6VAYuXfzr9ZCO8USg) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Captain Majima \- EP](https://open.spotify.com/album/6pBoDdXiQbk9Q70XbSCQtZ) | 4:14 |
 | 53 | [ゴロー海賊団のテーマ \(Full Spec Edition\)](https://open.spotify.com/track/7pzXQOxEEcE1qzMGsMoMb7) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Captain Majima \- EP](https://open.spotify.com/album/6pBoDdXiQbk9Q70XbSCQtZ) | 3:15 |
 
-Snapshot ID: `Z6TOhAAAAABTyaUyE1IBBfcvoi+vE25Q`
+Snapshot ID: `Z6TOhAAAAACFne4X4Up+1yriM3+8nxLI`

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0f1SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0lGyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "strangers",
         "url": "https://open.spotify.com/album/01aX0xdW6BEGGuIeDkAktl"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/59aHxkCCgXjOh9TLdgR65P"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Afsos",
         "url": "https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Clippers",
         "url": "https://open.spotify.com/album/3EUQOwMh1dJ8j6eC1bl0Y7"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5VmXCrsHd2iFGeyGkbNHyi"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "chess",
         "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
@@ -113,27 +113,7 @@
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Fat Juicy & Wet",
-        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "Fat Juicy & Wet",
-      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Big Links Riddim",
         "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
@@ -153,23 +133,43 @@
       "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "Sa Bawat Sandali",
+        "url": "https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "duration_ms": 302608,
+      "name": "Sa Bawat Sandali",
+      "url": "https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Sa Bawat Sandali",
-        "url": "https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "Sa Bawat Sandali",
-      "url": "https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Me More Cowboy Than You (Demo)",
         "url": "https://open.spotify.com/album/5d0kDRfGB0Oeu7B133W2sN"
@@ -221,23 +205,23 @@
       "url": "https://open.spotify.com/track/4Kq6O0OuPpQBZJYhawYtio"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Raw Tracks and Reworks",
         "url": "https://open.spotify.com/album/3rROE9cryMcT8NEm4JyGRd"
@@ -253,7 +237,23 @@
       "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
@@ -289,55 +289,7 @@
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 135063,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Hundred Mile High",
-        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 172181,
-      "name": "Hundred Mile High",
-      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -353,7 +305,91 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "LoveHate Thing (feat. Sam Dew)",
+      "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Elevator Operator",
+        "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 189103,
+      "name": "Elevator Operator",
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Hundred Mile High",
+        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 172181,
+      "name": "Hundred Mile High",
+      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
@@ -373,43 +409,7 @@
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Sam Dew",
-          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "LoveHate Thing (feat. Sam Dew)",
-      "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Elevator Operator",
-        "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 189103,
-      "name": "Elevator Operator",
-      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "AFTERCARE DELUXE",
         "url": "https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/47uY2r2IzVg8moQyAwmm83"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Tweaker",
         "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
@@ -441,55 +441,7 @@
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "WONDERWaLL - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "chess",
         "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
@@ -505,7 +457,87 @@
       "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Presenting Bertha Tillman",
+        "url": "https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU"
+      },
+      "artists": [
+        {
+          "name": "Bertha Tillman",
+          "url": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Oh My Angel",
+      "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -525,23 +557,7 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Sports car",
         "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "A KID FROM GURDASPUR",
         "url": "https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ"
@@ -581,39 +597,7 @@
       "url": "https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Presenting Bertha Tillman",
-        "url": "https://open.spotify.com/album/2ITTUdZCFYz2oDvg2f75EU"
-      },
-      "artists": [
-        {
-          "name": "Bertha Tillman",
-          "url": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Oh My Angel",
-      "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -633,43 +617,7 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Rattlesnake (feat. Zach Bryan)",
-        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        },
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 293836,
-      "name": "Rattlesnake (feat. Zach Bryan)",
-      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
@@ -685,7 +633,39 @@
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -701,27 +681,7 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rivera-Herrans",
-          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
-        },
-        {
-          "name": "Anna Lea",
-          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
-        }
-      ],
-      "duration_ms": 345812,
-      "name": "Would You Fall in Love with Me Again",
-      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Im Doing Fine",
         "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
@@ -741,83 +701,7 @@
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 278276,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Ray)",
-      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
-    },
-    {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
@@ -837,10 +721,30 @@
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Anna Lea",
+          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
+        }
+      ],
+      "duration_ms": 345812,
+      "name": "Would You Fall in Love with Me Again",
+      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Hozier (Special Edition)",
-        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
       "artists": [
         {
@@ -848,32 +752,104 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 257560,
+      "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
-      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+      "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
-      "added_at": "2025-02-18 15:29:24",
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278276,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Rattlesnake (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 293836,
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Ray)",
+      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
       "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
@@ -887,6 +863,26 @@
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
+    },
+    {
+      "added_at": "2025-02-19 15:47:44",
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     }
   ],
   "unique_name": "Viral 50 - Canada",

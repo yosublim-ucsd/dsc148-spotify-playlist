@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,174 likes - 155 songs - 8 hr 23 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,176 likes - 155 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Where My Heart Is](https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Where My Heart Is / Time Is On Our Side](https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j) | 3:26 |
-| 2 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |
-| 3 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
+| 1 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
+| 2 | [Where My Heart Is](https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Where My Heart Is / Time Is On Our Side](https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j) | 3:26 |
+| 3 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 |
 | 4 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 |
 | 5 | [Castles In The Sky](https://open.spotify.com/track/2aUFuFkH7YirC6ER6yGit6) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [IVD](https://open.spotify.com/artist/0br6sutLp9kgaxziqx45oZ) | [Castles In The Sky](https://open.spotify.com/album/1DPaEexteBEjBmUk8zVCuK) | 3:13 |
 | 6 | [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 154 | [Odyssey](https://open.spotify.com/track/7kynhUWyK6IfEZPAlPimIT) | [Farrah](https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr) | [Odyssey](https://open.spotify.com/album/3Se3JtYWb96RKXQajCn67V) | 3:01 |
 | 155 | [Brick by Brick](https://open.spotify.com/track/6JfbW27ezAP5dmtdMiudOO) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL) | [Brick by Brick](https://open.spotify.com/album/3g8CEYmcykg5zOcAubJidU) | 5:09 |
 
-Snapshot ID: `AAAJWXF2f2sDwJp1WV+k2ETkC3woFSRV`
+Snapshot ID: `AAAJWonTdW4VTCL0MqPi/ZyEh2jSWbZd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover: The PropheC
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,197 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,204 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 3 | [Gaur Kari](https://open.spotify.com/track/0Gygq1MR4VlCApp3PEdRv2) | [Raahi Rana](https://open.spotify.com/artist/2oyC92A0JdkwjwXSiaMISV) | [Essentials](https://open.spotify.com/album/4XpIaTxFR4SOBv4qyboZhl) | 2:37 |
 | 4 | [Sher Bachiye](https://open.spotify.com/track/4Yif4Gcc243cz92Kl3WQ1h) | [Ray Z](https://open.spotify.com/artist/0Ym0kFA89Lf2D2Rsm50obR) | [Sher Bachiye](https://open.spotify.com/album/4lHiacIkg5efKy7WhAYkTf) | 2:04 |
 | 5 | [Buckle Up](https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:52 |
-| 6 | [Bhau Hood](https://open.spotify.com/track/5vWxAKJYe240lWEuVLSIeP) | [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Raas](https://open.spotify.com/artist/3szxrtt3CYePoAUbLlb4K3), [Space](https://open.spotify.com/artist/76vZk3TWaVcNiP7H7in9fu) | [Bhau Hood](https://open.spotify.com/album/60Cab7ZW7uDeMbrCt3KQHc) | 3:01 |
+| 6 | [Bhau Hood](https://open.spotify.com/track/5vWxAKJYe240lWEuVLSIeP) | [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Raas](https://open.spotify.com/artist/3szxrtt3CYePoAUbLlb4K3), [Space](https://open.spotify.com/artist/3kzjHExUNVeq1mtY9E2rZO) | [Bhau Hood](https://open.spotify.com/album/60Cab7ZW7uDeMbrCt3KQHc) | 3:01 |
 | 7 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 8 | [Horoscope](https://open.spotify.com/track/1fv4JfzNlPXsSmptXHOrDc) | [Mny Deep](https://open.spotify.com/artist/3UdKotGfHi8C7k8xsRi4a4) | [Horoscope](https://open.spotify.com/album/5bIHgN0VcY6PN7YFgUGTjc) | 2:27 |
 | 9 | [Scan](https://open.spotify.com/track/3yxoB7T6HHGirQnktkIXb9) | [Cheema](https://open.spotify.com/artist/2Q5bNdXbSQLSdLqMCNTJfR), [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Scan](https://open.spotify.com/album/6BYc1dffEZklrKiZc1REFF) | 2:23 |

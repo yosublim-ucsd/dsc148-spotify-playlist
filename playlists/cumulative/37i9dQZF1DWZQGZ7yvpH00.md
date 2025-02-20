@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Gabito Ballesteros en portada.
 
-425 songs - 23 hr 37 min
+426 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Feliz Año Nuevo](https://open.spotify.com/track/2c7qukqmQVOn4qLcspoUcN) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Feliz Año Nuevo](https://open.spotify.com/album/195dzz0SiiPFv47u7cigxm) | 3:27 | 2025-01-24 | 2025-02-15 |
 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 | 2025-01-10 |  |
 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 | 2023-06-02 | 2024-01-27 |
-| [Flashback](https://open.spotify.com/track/6NQoCRXN0WvRiJerAuFtZc) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO) | [AXEL](https://open.spotify.com/album/5e7ipY8CPfWFLJ56Y1483l) | 3:25 | 2025-01-31 |  |
+| [Flashback](https://open.spotify.com/track/6NQoCRXN0WvRiJerAuFtZc) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO) | [AXEL](https://open.spotify.com/album/5e7ipY8CPfWFLJ56Y1483l) | 3:25 | 2025-01-31 | 2025-02-20 |
 | [Flores](https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Flores](https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl) | 2:16 | 2024-09-20 | 2025-01-11 |
 | [FUIMOS CASI ALGO](https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:41 | 2024-08-30 | 2024-10-10 |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-06-23 | 2023-09-23 |
@@ -358,6 +358,7 @@
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 | 2023-12-01 | 2024-01-20 |
 | [Te Fuiste](https://open.spotify.com/track/1o9CgYe7ns8DCOVY1uaaRq) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Te Fuiste](https://open.spotify.com/album/6L1hlpfrcjrmLtvGNuvD7m) | 2:26 | 2023-04-21 | 2023-07-08 |
 | [Te Gusta La Loquera](https://open.spotify.com/track/7d6bOOk4QUDfEbxLa7Gsil) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Te Gusta La Loquera](https://open.spotify.com/album/0yuvjX1IIfzunRGzqefwNN) | 3:07 | 2022-06-03 | 2022-08-06 |
+| [Te Metiste \- Spotify Single](https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Te Metiste \- Spotify Single](https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr) | 3:22 | 2025-02-20 |  |
 | [Te Regalo Una Rosa](https://open.spotify.com/track/3d12CQEY12sYiXe6cz9HlM) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 3:27 | 2024-06-07 | 2024-10-10 |
 | [Te Vas](https://open.spotify.com/track/2WXuY0GXFDwui1mfh9h1BY) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Te Vas](https://open.spotify.com/album/7z3mXFNMoA1GKKtDaPmIQb) | 2:34 | 2023-07-28 | 2023-10-07 |
 | [Terminaste Perdiendo](https://open.spotify.com/track/6MUOoy2N11fdY9SSLujiyh) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Terminaste Perdiendo](https://open.spotify.com/album/3jrWrC8ThBb1TQejK14n0v) | 4:18 | 2022-06-24 | 2022-07-23 |

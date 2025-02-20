@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > used to shine bright like gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,231 likes - 142 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,559 likes - 142 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

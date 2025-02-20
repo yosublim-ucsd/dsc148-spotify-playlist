@@ -1,6 +1,6 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 551794,
+  "num_followers": 551988,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
+        "name": "Opera",
+        "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Chocolate Elvis",
+      "url": "https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 269266,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
-        "name": "Opera",
-        "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Chocolate Elvis",
-      "url": "https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Ponderosa",
-      "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
-    },
-    {
-      "added_at": "2024-07-15 20:04:22",
-      "album": {
         "name": "Who Can You Trust? / Beats & B-Sides",
         "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 299240,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h"
+    },
+    {
+      "added_at": "2024-07-15 20:04:22",
+      "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Ponderosa",
+      "url": "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Songs Of A Dead Dreamer",
-        "url": "https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG"
+        "name": "Version Galore",
+        "url": "https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni"
       },
       "artists": [
         {
-          "name": "DJ Spooky",
-          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
         }
       ],
-      "duration_ms": 410400,
-      "name": "Galactic Funk",
-      "url": "https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn"
+      "duration_ms": 383493,
+      "name": "Radio Babylon",
+      "url": "https://open.spotify.com/track/3TheBeg92QzEpR5kdVqpDa"
     },
     {
       "added_at": "2024-07-15 20:04:22",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-07-15 20:04:22",
       "album": {
-        "name": "Version Galore",
-        "url": "https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni"
+        "name": "Songs Of A Dead Dreamer",
+        "url": "https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG"
       },
       "artists": [
         {
-          "name": "Meat Beat Manifesto",
-          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+          "name": "DJ Spooky",
+          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
         }
       ],
-      "duration_ms": 383493,
-      "name": "Radio Babylon",
-      "url": "https://open.spotify.com/track/3TheBeg92QzEpR5kdVqpDa"
+      "duration_ms": 410400,
+      "name": "Galactic Funk",
+      "url": "https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn"
     },
     {
       "added_at": "2024-07-15 20:04:22",

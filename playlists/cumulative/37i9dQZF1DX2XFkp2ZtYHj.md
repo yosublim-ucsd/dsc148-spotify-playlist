@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-263 songs - 11 hr 8 min
+265 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 | 2025-01-07 |  |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-10-18 |  |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-18 |  |
+| [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 | 2025-02-19 |  |
 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 | 2023-10-18 | 2024-09-25 |
 | [Flourish](https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Flourish](https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp) | 2:31 | 2023-10-18 | 2024-10-02 |
 | [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 | 2024-04-17 |  |
@@ -133,6 +134,7 @@
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-18 |  |
 | [It Rained Last Night](https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [It Rained Last Night](https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo) | 2:12 | 2023-12-13 |  |
 | [It's You I'm Seeking](https://open.spotify.com/track/7pbAbWrlXKoycD9q6BGXqq) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [It's You I'm Seeking](https://open.spotify.com/album/3KMNb1SNtbjrIABtPcWEbR) | 2:40 | 2023-10-18 |  |
+| [Jasmine Dreams](https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Jasmine Dreams](https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj) | 3:10 | 2025-02-19 |  |
 | [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-10-18 | 2024-09-11 |
 | [Juniper Dreams](https://open.spotify.com/track/2ny13L1veunc7p6SCnvQ8K) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:06 | 2023-10-18 | 2024-09-11 |
 | [Just One More Time](https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Just One More Time](https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0) | 3:16 | 2023-10-18 | 2024-10-02 |

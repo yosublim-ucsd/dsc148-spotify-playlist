@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,911 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,003 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Un peu d'amoore](https://open.spotify.com/track/0ZcjlETeoMYhg71ZxeMBpo) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Un peu d'amoore](https://open.spotify.com/album/1BKPi7cLCoYkH9UVb7QNKo) | 2:18 |
 | 50 | [Gimme Your Love](https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Gimme Your Love](https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2) | 2:52 |
 
-Snapshot ID: `Z655egAAAABm0eVTi+OGyZGEfZ1Y0AwQ`
+Snapshot ID: `Z655egAAAAARlYzDq/fs8VDLQ5zyvlZs`

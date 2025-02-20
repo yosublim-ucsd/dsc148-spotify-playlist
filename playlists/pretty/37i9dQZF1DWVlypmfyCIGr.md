@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: CLAN QUEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,510 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,503 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Conflicting](https://open.spotify.com/track/7sjJb0GmthGYl8TXGzwh4n) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Conflicting](https://open.spotify.com/album/0LBqMg7aOOg2FYjjY4NmdN) | 2:55 |
 | 80 | [ウィーン](https://open.spotify.com/track/2Q2Bp8S6zNY7KQrfHrYsN1) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [ウィーン](https://open.spotify.com/album/6H4EWlE8vFGGZsxcqa1l7P) | 0:58 |
 
-Snapshot ID: `Z7O2VwAAAACSN0suVzQ/dWm4DNPX9/uA`
+Snapshot ID: `Z7O2VwAAAABfaKLg+OvGAs3WdOvaUNA4`

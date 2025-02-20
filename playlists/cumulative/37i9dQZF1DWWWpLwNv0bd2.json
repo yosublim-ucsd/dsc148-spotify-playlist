@@ -1131,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "Chennai Ponnu",
+        "url": "https://open.spotify.com/album/38Gn4NbuaTV669z3EuZGED"
+      },
+      "artists": [
+        {
+          "name": "Nihal Sadiq",
+          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
+        },
+        {
+          "name": "Ribin Richard",
+          "url": "https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177936,
+      "name": "Chennai Ponnu",
+      "url": "https://open.spotify.com/track/3chNQA6kyjCHhZVeHtGqG4"
+    },
+    {
+      "album": {
         "name": "Lubber Pandhu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3LBvPx4DFCDyRUbfdlu9xk"
       },
@@ -4409,6 +4431,32 @@
     },
     {
       "album": {
+        "name": "Paavai",
+        "url": "https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3"
+      },
+      "artists": [
+        {
+          "name": "Marshall Robinson",
+          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        },
+        {
+          "name": "Priyanka NK",
+          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215942,
+      "name": "Paavai",
+      "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
+    },
+    {
+      "album": {
         "name": "Paayum Theeye (From \"Por\")",
         "url": "https://open.spotify.com/album/7rb2bSWzDwjxDkz6ZU8JaS"
       },
@@ -6748,7 +6796,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 240500,
       "name": "You and Me - Duet Version",
       "url": "https://open.spotify.com/track/7wqRKIyCZHAFpCNUXvsrdX"

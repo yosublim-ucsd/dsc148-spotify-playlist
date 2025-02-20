@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4007112,
+  "num_followers": 4006974,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Unfaithful",
-      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Stop All The World Now",
         "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
+      "duration_ms": 227031,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 158324,
-      "name": "Unstable (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Violent",
         "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 158324,
+      "name": "Unstable (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 185495,
       "name": "I Don't Like Myself",
       "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2791,6 +2791,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 159885,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3235,18 +3235,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+        "name": "People Don't Change",
+        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+      "duration_ms": 209813,
+      "name": "The Worst Of You",
+      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3267,22 +3271,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "People Don't Change",
-        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 209813,
-      "name": "The Worst Of You",
-      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2024-05-22 11:00:00",

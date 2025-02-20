@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158766,
+  "num_followers": 158759,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": "2025-02-14 19:30:12",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Vidal",
-          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 149203,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
-    },
-    {
-      "added_at": "2025-02-14 19:30:12",
-      "album": {
         "name": "Dias de Luta Dias de Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
       },
@@ -423,6 +399,30 @@
       "duration_ms": 189687,
       "name": "BEM VINDO A 4TAL",
       "url": "https://open.spotify.com/track/5RkgebjAEJ8hHboAzE3Zl1"
+    },
+    {
+      "added_at": "2025-02-14 19:30:12",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 149203,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
     },
     {
       "added_at": "2025-02-14 19:30:12",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-02-14 19:30:12",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2025-02-14 19:30:12",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2025-02-14 19:30:12",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2025-02-14 19:30:12",
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-02-14 19:30:12",
       "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2025-02-14 19:30:12",
+      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
-    },
-    {
-      "added_at": "2025-02-14 19:30:12",
-      "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2025-02-14 19:30:12",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-02-14 19:30:12",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2025-02-14 19:30:12",
+      "album": {
         "name": "De Peito Aberto",
         "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
       },
@@ -1191,26 +1207,6 @@
       "duration_ms": 121429,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
-    },
-    {
-      "added_at": "2025-02-14 19:30:12",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2025-02-14 19:30:12",

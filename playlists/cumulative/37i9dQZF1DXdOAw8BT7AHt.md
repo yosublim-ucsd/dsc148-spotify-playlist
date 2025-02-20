@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-447 songs - 22 hr 18 min
+448 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 | 2023-06-20 | 2024-06-01 |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-12-02 | 2023-11-18 |
 | [i hate people](https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [i hate people](https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx) | 1:31 | 2024-07-12 | 2024-09-07 |
-| [I Hate the Internet](https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [I Hate the Internet / True Devotion](https://open.spotify.com/album/54w7HgMTJI295pdatRThsz) | 2:53 | 2025-02-07 |  |
+| [I Hate the Internet](https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [I Hate the Internet / True Devotion](https://open.spotify.com/album/54w7HgMTJI295pdatRThsz) | 2:53 | 2025-02-07 | 2025-02-20 |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 | 2023-03-26 |
 | [I'LL BE OKAY](https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [THE HEALING](https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI) | 2:39 | 2024-05-31 | 2024-06-28 |
 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 | 2023-03-03 | 2023-11-18 |
@@ -353,6 +353,7 @@
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-10-10 | 2025-02-08 |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 | 2024-06-01 |
 | [SICK OF BEING NICE](https://open.spotify.com/track/2uWEmAa7QttqIaWzk3oQEe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET \(DELUXE\)](https://open.spotify.com/album/51Ki3I3yCBQQFfWIMf3YSs) | 2:33 | 2024-11-15 | 2025-02-08 |
+| [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 | 2025-02-07 |  |
 | [Sickner](https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK) | [Big Romance](https://open.spotify.com/artist/2nZSy1iWmRO6MB74FVBo0D) | [Sickner](https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL) | 3:14 | 2024-02-16 | 2024-06-15 |
 | [Silence Is Golden](https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 2:56 | 2023-03-03 | 2023-11-18 |
 | [Silence Is Golden](https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 2:56 | 2022-12-02 | 2023-04-30 |

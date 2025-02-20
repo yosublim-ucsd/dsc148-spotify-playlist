@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR & Drake, Sabrina Carpenter, Daniel Caesar & Rex Orange County,  Addison Rae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,698 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,720 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

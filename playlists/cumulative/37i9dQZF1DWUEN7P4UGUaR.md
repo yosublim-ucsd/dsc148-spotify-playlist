@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-122 songs - 10 hr 47 min
+123 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amenuveve \(Grace\)](https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Amenuveve \(Grace\)](https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f) | 6:48 | 2023-04-06 | 2023-09-04 |
 | [Amenuveve \(Grace\) \- Live](https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Final Say \(Live\)](https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY) | 6:48 | 2023-04-06 | 2023-08-07 |
 | [Aseda](https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [PO Godson](https://open.spotify.com/artist/1TbwnRRabR2ZOYj4u3C6Vl), [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA), [Belac 360](https://open.spotify.com/artist/68McF3BHKgTCfkHlUpy7Ah) | [This Is Us](https://open.spotify.com/album/06C51VglvEDVHgbI25OCty) | 3:27 | 2023-04-06 | 2023-06-10 |
-| [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 | 2024-05-03 |  |
+| [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 | 2024-05-03 | 2025-02-20 |
 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-04-06 | 2024-10-11 |
 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 |  |
 | [Awake](https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [The Awakening \(Alpha Edition\)](https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC) | 8:06 | 2024-01-15 | 2024-05-03 |
@@ -73,6 +73,7 @@
 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 | 2023-11-24 |  |
 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 | 2023-04-06 |  |
 | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5) | 6:12 | 2023-04-06 | 2024-01-16 |
+| [Me Hia Wo](https://open.spotify.com/track/6Us7wnjE8hsu9rF4wuApQt) | [Esther Smith](https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8) | [Me Hia Wo](https://open.spotify.com/album/18GsTmBT5VOo6CRhKE2uzl) | 4:31 | 2025-02-07 |  |
 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 | 2023-04-06 | 2025-01-08 |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 |  |
 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 | 2023-04-06 | 2024-05-17 |

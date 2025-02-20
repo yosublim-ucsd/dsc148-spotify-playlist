@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Pure Negga",
-  "num_followers": 1207587,
+  "num_followers": 1207608,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,18 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
-        "name": "No S\u00e9 Si Salga El Sol (Remix)",
-        "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 188753,
-      "name": "No S\u00e9 Si Salga El Sol - Remix",
-      "url": "https://open.spotify.com/track/0gw6orix5diJLOahicJhj6"
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -315,18 +311,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+        "name": "No S\u00e9 Si Salga El Sol (Remix)",
+        "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+      "duration_ms": 188753,
+      "name": "No S\u00e9 Si Salga El Sol - Remix",
+      "url": "https://open.spotify.com/track/0gw6orix5diJLOahicJhj6"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 227099,
+      "name": "Lo Quiero Todo",
+      "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
+    },
+    {
+      "added_at": "2025-01-07 17:25:06",
+      "album": {
         "name": "BOOM BOOM",
         "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
-    },
-    {
-      "added_at": "2025-01-07 17:25:06",
-      "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 227099,
-      "name": "Lo Quiero Todo",
-      "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2025-01-07 17:25:06",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
-    },
-    {
-      "added_at": "2025-01-07 17:25:06",
-      "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+        "name": "Bonito y Cruel",
+        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
         }
       ],
-      "duration_ms": 172590,
-      "name": "The Heaven",
-      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+      "duration_ms": 220606,
+      "name": "Bonito y Cruel",
+      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -1363,6 +1367,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 172590,
+      "name": "The Heaven",
+      "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+    },
+    {
+      "added_at": "2025-01-07 17:25:06",
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
-    },
-    {
-      "added_at": "2025-01-07 17:25:06",
-      "album": {
-        "name": "Bonito y Cruel",
-        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Bonito y Cruel",
-      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     },
     {
       "added_at": "2025-01-07 17:25:06",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-01-07 17:25:06",
       "album": {
+        "name": "CAHUITA",
+        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 215908,
+      "name": "CAHUITA",
+      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
+    },
+    {
+      "added_at": "2025-01-07 17:25:06",
+      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2025-01-07 17:25:06",
-      "album": {
-        "name": "CAHUITA",
-        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 215908,
-      "name": "CAHUITA",
-      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
     },
     {
       "added_at": "2025-01-07 17:25:06",

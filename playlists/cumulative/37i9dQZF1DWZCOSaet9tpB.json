@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: Rema",
+  "description": "Nigeria's hottest tracks.  Cover: Teni",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 180594,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
@@ -5069,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
+    },
+    {
+      "album": {
         "name": "Money & Love",
         "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
       },
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
@@ -7920,6 +7938,28 @@
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
+      },
+      "artists": [
+        {
+          "name": "Faceless",
+          "url": "https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139199,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
       "album": {

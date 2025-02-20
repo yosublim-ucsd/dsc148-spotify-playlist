@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-701 songs - 1 day 15 hr 11 min
+703 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Jupiter](https://open.spotify.com/track/71qE1KmZj8qnPFkKIQWBxu) | [Phat Yaki](https://open.spotify.com/artist/62JS1LxFnn4uodPXPINFtD) | [Jupiter](https://open.spotify.com/album/5cdFlzbIGXfVdrnfOEDM0Z) | 2:47 | 2023-04-12 | 2023-05-16 |
 | [Just Don't Know It Yet](https://open.spotify.com/track/3gATMpdrZqQIws1Bks8n0O) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Just Don't Know It Yet](https://open.spotify.com/album/3XLyVpNKVG7alNAIZ1jVXE) | 2:57 | 2023-04-17 | 2023-06-05 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-18 | 2022-09-28 |
+| [King of Everything](https://open.spotify.com/track/3MBMDJbcQoUl5WKHgD5cp8) | [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY) | [King of Everything](https://open.spotify.com/album/7D7UOOXWySjWezBDuaqa4p) | 3:43 | 2025-02-19 |  |
 | [Kissing In Swimming Pools](https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Kissing In Swimming Pools](https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX) | 4:47 | 2023-10-09 | 2023-11-09 |
 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 | 2023-08-21 | 2023-08-29 |
 | [labyrinth](https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP) | [heimlich](https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [labyrinth](https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF) | 2:38 | 2023-02-16 | 2023-03-15 |
@@ -519,6 +520,7 @@
 | [Say My Name](https://open.spotify.com/track/5VOBsfdn1wlCwuuw7pKgU3) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Say My Name](https://open.spotify.com/album/3drRUJWgGS6qSjpL1zThyT) | 3:18 | 2022-06-13 | 2022-07-11 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-22 | 2023-11-09 |
 | [Scared as Hell](https://open.spotify.com/track/7qSgFTDiWMulxMdidPSsxE) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Scared as Hell](https://open.spotify.com/album/0ryZqQSEPXNG87ee7LQ64H) | 4:02 | 2023-08-13 | 2023-08-22 |
+| [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-19 |  |
 | [Scared of the Dark](https://open.spotify.com/track/3BiWvG9j7UqmyOvMdC0DgO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:54 | 2022-06-06 | 2022-11-24 |
 | [Scarlett \- Garden Version](https://open.spotify.com/track/4BfjeVabolBNQ8O2Z5DNcr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett \(Garden Version\)](https://open.spotify.com/album/6R31OCgPkgPEYtQzjVxlfm) | 3:08 | 2022-09-01 | 2022-11-01 |
 | [Scars To Your Beautiful](https://open.spotify.com/track/42ydLwx4i5V49RXHOozJZq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:50 | 2023-11-08 |  |

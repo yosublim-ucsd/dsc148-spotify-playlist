@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 321769,
+  "num_followers": 321887,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
-        }
-      ],
-      "duration_ms": 297853,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297853,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "To Die For",
-        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 316466,
       "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
       "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Love To Go",
-        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        },
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Love To Go",
-      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -1815,6 +1791,30 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Love To Go",
+        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        },
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Love To Go",
+      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
-      },
-      "artists": [
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 182497,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 182497,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Happier (Acoustic)",
         "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 206209,
       "name": "Happier - Acoustic",
       "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Boys Like You (Acoustic)",
         "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 238576,
       "name": "Boys Like You - Acoustic",
       "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 218385,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 218385,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
     },
     {
       "added_at": "2024-04-05 00:00:00",

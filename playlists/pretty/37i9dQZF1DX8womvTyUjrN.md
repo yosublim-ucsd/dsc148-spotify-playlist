@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: GALE & ROBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,832 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,844 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
 | 50 | [CONFIÉSALO](https://open.spotify.com/track/0HVUYEYzU9pJ1ssuiBR5Dk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [CONFIÉSALO](https://open.spotify.com/album/3lIt5JdYXqqABaqSieeVRE) | 2:27 |
 
-Snapshot ID: `Z67N7wAAAAAfSw1He2CPIe9v1SHm0gZA`
+Snapshot ID: `Z67N7wAAAABZuzz5+Zil2Sw7WGZMAtbh`

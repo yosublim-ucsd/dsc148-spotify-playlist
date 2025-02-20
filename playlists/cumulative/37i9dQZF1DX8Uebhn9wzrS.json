@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "amnesia",
+        "url": "https://open.spotify.com/album/3quW6PLhZ9D7Ex2nRsO47n"
+      },
+      "artists": [
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "amnesia",
+      "url": "https://open.spotify.com/track/3vYZ9IEqfFakxgfrJnxuPK"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
       },
@@ -2596,6 +2614,24 @@
       "duration_ms": 95999,
       "name": "autumn nights",
       "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
+    },
+    {
+      "album": {
+        "name": "autumn shower",
+        "url": "https://open.spotify.com/album/6nDLPzzU2OPJqfh1DGTZt1"
+      },
+      "artists": [
+        {
+          "name": "muun lite",
+          "url": "https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127582,
+      "name": "autumn shower",
+      "url": "https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2"
     },
     {
       "album": {
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 113647,
       "name": "Check-Out Time",
       "url": "https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N"
@@ -6768,7 +6804,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 122926,
       "name": "clandestine_rhythm",
       "url": "https://open.spotify.com/track/17gI8i22q5eTmQKfxoLmbo"
@@ -8602,7 +8638,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 144615,
       "name": "DaSpritzers",
       "url": "https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb"
@@ -39970,6 +40006,24 @@
       "duration_ms": 110571,
       "name": "Waitress service",
       "url": "https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS"
+    },
+    {
+      "album": {
+        "name": "Walk in the park",
+        "url": "https://open.spotify.com/album/0ZsuD6JoQ1kAzpGfI4ucRe"
+      },
+      "artists": [
+        {
+          "name": "Lil Leaf",
+          "url": "https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Walk in the park",
+      "url": "https://open.spotify.com/track/4lQHkRYF3g8UhXKz4Y02qA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1158504,
+  "num_followers": 1158473,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 188982,
       "name": "Cinnamon Bread",
       "url": "https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178106,
       "name": "Oh Ohio",
       "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Moonflowers (Binaural Acoustic Version)",
         "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 158426,
       "name": "New Wall",
       "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Is There Something Wrong With Me?",
-      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Persephone",
         "url": "https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 262680,
       "name": "Persephone",
       "url": "https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Is There Something Wrong With Me?",
+      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Joy Alchemy",
-        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Southern Facing Room",
-      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "baby, get your ticket",
         "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 155431,
       "name": "baby, get your ticket",
       "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Joy Alchemy",
+        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Southern Facing Room",
+      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
     },
     {
       "added_at": "2024-08-23 14:59:54",

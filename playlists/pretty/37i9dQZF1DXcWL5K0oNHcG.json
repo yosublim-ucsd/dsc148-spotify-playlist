@@ -1,13 +1,61 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
-  "num_followers": 232235,
+  "num_followers": 232320,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6y98wAAAAB/5RuoIQA8oxX5fpkOaZwd",
+  "snapshot_id": "Z7YehQAAAACiJ/1R8ZDKnRweAEJ/yuVs",
   "tracks": [
+    {
+      "added_at": "2025-02-19 18:10:13",
+      "album": {
+        "name": "YUMI",
+        "url": "https://open.spotify.com/album/1wz86niXEGhLEkpbiqVrTa"
+      },
+      "artists": [
+        {
+          "name": "hoshii",
+          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "duration_ms": 159769,
+      "name": "YUMI",
+      "url": "https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws"
+    },
+    {
+      "added_at": "2025-02-19 18:10:13",
+      "album": {
+        "name": "Matilde",
+        "url": "https://open.spotify.com/album/3s0HKjdwhEFLZ1jVanVYl6"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Strino",
+          "url": "https://open.spotify.com/artist/14P9JtTJQeeZn3ZeWvDNm8"
+        },
+        {
+          "name": "Claudio Vignali",
+          "url": "https://open.spotify.com/artist/0RZS4uz4GbD6K9ZOpOFN5S"
+        },
+        {
+          "name": "Giulio Corini",
+          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
+        },
+        {
+          "name": "Zeno De Rossi",
+          "url": "https://open.spotify.com/artist/2F44YptoDPumto13JBMhR5"
+        }
+      ],
+      "duration_ms": 302317,
+      "name": "MATILDE",
+      "url": "https://open.spotify.com/track/4JMIDWR7g6jYlXUSCd9Nds"
+    },
     {
       "added_at": "2025-02-12 15:27:46",
       "album": {
@@ -479,22 +527,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "DIVING",
-        "url": "https://open.spotify.com/album/5RQiKHPd5POJJ1qkYkcFXf"
-      },
-      "artists": [
-        {
-          "name": "Silvan Strauss",
-          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "DIVING",
-      "url": "https://open.spotify.com/track/3oMPDxM5Spr0xrogEGmnLM"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Count To One",
         "url": "https://open.spotify.com/album/05lc4QqiCbS77ZV54DY04e"
       },
@@ -839,22 +871,6 @@
       "duration_ms": 578426,
       "name": "Jump Start",
       "url": "https://open.spotify.com/track/4gkydZOKiJCSBD0fR5BTDL"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Breaking Stretch",
-        "url": "https://open.spotify.com/album/7AFqBcQrNtRtVEl5HYZKo0"
-      },
-      "artists": [
-        {
-          "name": "Patricia Brennan",
-          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
-        }
-      ],
-      "duration_ms": 313391,
-      "name": "Los Otros Yo",
-      "url": "https://open.spotify.com/track/6D612HJ04L7GK8uJUN9j8w"
     },
     {
       "added_at": "2025-01-15 05:00:02",

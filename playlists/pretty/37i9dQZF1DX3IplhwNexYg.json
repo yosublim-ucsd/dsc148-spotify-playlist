@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Spacey Jane",
-  "num_followers": 114289,
+  "num_followers": 114285,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 248215,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 219020,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -475,22 +491,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Fig Tree",
-        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 221394,
-      "name": "Fig Tree",
-      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -539,18 +539,34 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 208298,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -639,22 +655,6 @@
       "duration_ms": 177708,
       "name": "Shandy in the Graveyard",
       "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Building 650",
-        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Got Him!",
         "url": "https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Switch Over",
-        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+        "name": "Building 650",
+        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
       },
       "artists": [
         {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 185915,
-      "name": "Switch Over",
-      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -831,6 +815,22 @@
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "What's Fair",
-        "url": "https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "What's Fair",
-      "url": "https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 269440,
       "name": "Deep End (Paul's in Pieces)",
       "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "What's Fair",
+        "url": "https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "What's Fair",
+      "url": "https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
-        "name": "Run Run Run",
-        "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
+        "name": "Run Run Run",
+        "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 173028,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
     },
     {
       "added_at": "2025-01-17 13:08:36",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-17 13:08:36",
       "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2025-01-17 13:08:36",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 249720,
       "name": "Windows",
       "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
-    },
-    {
-      "added_at": "2025-01-17 13:08:36",
-      "album": {
-        "name": "angel in realtime.",
-        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "the angel of 8th ave.",
-      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
     }
   ],
   "unique_name": "pulp",

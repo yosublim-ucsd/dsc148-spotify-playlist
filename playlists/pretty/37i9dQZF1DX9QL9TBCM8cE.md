@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,180 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,188 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 15 | [裸足じゃイラレナイ](https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day【放課後クライマックスガールズ盤】](https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB) | 3:33 |
 | 16 | [SOS](https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw) | [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:01 |
 | 17 | [無自覚アプリオリ](https://open.spotify.com/track/2Ipl7XfPPg2rxFYuaTgwzt) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:44 |
-| 18 | [Fly and Fly](https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 4:05 |
+| 18 | [OH MY GOD](https://open.spotify.com/track/0EkPfuuMAy0zdR7oYvvCfJ) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 3:44 |
 | 19 | [Fashionable](https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 08](https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF) | 4:03 |
 | 20 | [ビーチブレイバー](https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 04](https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ) | 3:55 |
 | 21 | [パーティーマジックデザイナー](https://open.spotify.com/track/6uuwifjKVZBVM5Ma5v1juH) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS ECHOES 03](https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf) | 4:20 |
 | 22 | [Give me some more...](https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 05](https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV) | 3:46 |
-| 23 | [OH MY GOD](https://open.spotify.com/track/0EkPfuuMAy0zdR7oYvvCfJ) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 3:44 |
+| 23 | [Fly and Fly](https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 4:05 |
 | 24 | [神様は死んだ、って](https://open.spotify.com/track/2mja76vvIBmMbuDqhegpHM) | [斑鳩ルカ \(CV.川口莉奈\)](https://open.spotify.com/artist/38phtutZVVimwjYNOoYi4x) | [神様は死んだ、って](https://open.spotify.com/album/6YOFCgbDa6mUrXjiRufDXT) | 3:54 |
 | 25 | [平行線の美学](https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:35 |
 | 26 | [Wandering Dream Chaser](https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 06](https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL) | 3:56 |

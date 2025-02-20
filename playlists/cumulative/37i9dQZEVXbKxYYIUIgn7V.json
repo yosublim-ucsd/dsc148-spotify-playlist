@@ -8342,7 +8342,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 182960,
       "name": "Filme",
       "url": "https://open.spotify.com/track/2fwj4LVwBYfWpIuy3BeTZu"
@@ -12504,7 +12504,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 99844,
       "name": "Im Doing Fine",
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
@@ -15492,6 +15492,28 @@
       "duration_ms": 147267,
       "name": "Luftballon",
       "url": "https://open.spotify.com/track/7Ds4KiHFco0Ud3fBhWQHMX"
+    },
+    {
+      "album": {
+        "name": "Lukas der rosa Flamingo",
+        "url": "https://open.spotify.com/album/0DPgfQB7YZvI3jLHThlAZr"
+      },
+      "artists": [
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        },
+        {
+          "name": "Biervampir",
+          "url": "https://open.spotify.com/artist/56HjvRvkGMbicmCVDLxeHp"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161517,
+      "name": "Lukas der rosa Flamingo",
+      "url": "https://open.spotify.com/track/50qaVYD8zJtE7TPtWGXrKS"
     },
     {
       "album": {
@@ -21772,7 +21794,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-20",
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"

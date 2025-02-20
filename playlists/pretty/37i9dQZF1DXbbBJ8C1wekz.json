@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 148124,
+  "num_followers": 148152,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,26 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "CONFIA",
         "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 204813,
       "name": "N\u00f3s Combina",
       "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -251,6 +251,30 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -283,30 +307,6 @@
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Good Vibe",
-      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -423,6 +423,26 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -455,22 +475,6 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
@@ -487,6 +491,22 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 135165,
       "name": "N\u00e3o Temos Medo",
       "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "Imaterial",
-        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 152582,
-      "name": "War",
-      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
-        "name": "FNB>BKB",
-        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "FNB",
-      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
         "name": "PLAQUE",
         "url": "https://open.spotify.com/album/2iK9eRH3H0KuqsGs6tNAJx"
       },
@@ -1643,6 +1619,30 @@
       "duration_ms": 203674,
       "name": "PLAQUE",
       "url": "https://open.spotify.com/track/5XfxNjRbr9oPnpKkzTZ21L"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
+        "name": "FNB>BKB",
+        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "FNB",
+      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "A Cunhada",
+        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 167937,
+      "name": "A Cunhada",
+      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1707,30 +1731,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "A Cunhada",
-        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 167937,
-      "name": "A Cunhada",
-      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -1915,38 +1915,6 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
-        "name": "sua vez de escutar",
-        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "MC Koringa",
-          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "a noite chega",
-      "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
         "name": "Yeezy Slide \"FREESTYLE 01\"",
         "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
       },
@@ -1975,6 +1943,38 @@
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
+        "name": "sua vez de escutar",
+        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "a noite chega",
+      "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "Vetin",
         "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
       },
@@ -2183,26 +2203,6 @@
       "duration_ms": 263709,
       "name": "Vetin",
       "url": "https://open.spotify.com/track/3yJPPXZi4RINC7MC2cqYmR"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2025-02-14 19:28:44",
@@ -2515,6 +2515,22 @@
     {
       "added_at": "2025-02-14 19:28:44",
       "album": {
+        "name": "Real Underground",
+        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 130231,
+      "name": "Real Underground",
+      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
+    },
+    {
+      "added_at": "2025-02-14 19:28:44",
+      "album": {
         "name": "Distante",
         "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
       },
@@ -2531,22 +2547,6 @@
       "duration_ms": 172800,
       "name": "Distante",
       "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": "2025-02-14 19:28:44",
-      "album": {
-        "name": "Real Underground",
-        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 130231,
-      "name": "Real Underground",
-      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
     },
     {
       "added_at": "2025-02-14 19:28:44",

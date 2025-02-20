@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-548 songs - 23 hr 28 min
+552 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-12-07 | 2025-01-30 |
 | [A place to rest](https://open.spotify.com/track/4KVimA013KuiiMWHbSft1q) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A place to rest](https://open.spotify.com/album/2BgV9xoJpvqFUgup5QHigN) | 2:34 | 2024-04-03 |  |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 | 2025-01-30 |
+| [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 | 2025-02-19 |  |
 | [A Secret Within](https://open.spotify.com/track/0xIdhwtIiUcA9IJXJjiWYS) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [A Secret Within](https://open.spotify.com/album/2ZC5VlvFDg6ePLkPkGzicH) | 2:43 | 2021-12-07 | 2022-06-08 |
 | [A Time to Talk](https://open.spotify.com/track/1zic8kbRydAEqwdOx8T0Z0) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [A Time to Talk](https://open.spotify.com/album/6rN835FJyPw9GEVglWm0Nz) | 2:24 | 2023-12-12 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2021-12-07 |  |
@@ -71,6 +72,7 @@
 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 | 2022-05-20 |  |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2021-12-07 | 2023-10-05 |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-10-05 |
+| [Au revoir](https://open.spotify.com/track/7vfdFzzXnux3FSS1GOQ5cn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Au revoir](https://open.spotify.com/album/3nthhPdTXBSHY9A0Owcoe2) | 2:46 | 2025-02-19 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
 | [Autumnal Gold](https://open.spotify.com/track/7lKWLWAVjBtknyZ5u7dhaj) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Autumnal Gold](https://open.spotify.com/album/6TEOw0rKpA2oEBQVvyuC9j) | 2:04 | 2023-06-27 |  |
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2021-12-07 | 2024-04-04 |
@@ -278,6 +280,7 @@
 | [Lost & Found](https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Lost & Found](https://open.spotify.com/album/4LablbSrD01fa943OTlDEZ) | 2:23 | 2023-05-09 |  |
 | [Lost and Found](https://open.spotify.com/track/0zoY6SpBQMKmKr8KPtsxdP) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [Lost and Found](https://open.spotify.com/album/5KVNcufTRZBqJaOsVbqIQl) | 2:39 | 2025-01-14 |  |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-14 |  |
+| [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-02-19 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 | 2023-01-27 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 | 2023-10-05 |
@@ -395,6 +398,7 @@
 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 | 2021-12-07 |  |
 | [Private Villa](https://open.spotify.com/track/20ZeuK5VoqXL6QTLXmrDDp) | [Swedelo](https://open.spotify.com/artist/4GaGfgZnYaU8OEP5p96AQT) | [Private Villa](https://open.spotify.com/album/72P4BjS14BUKr3XWVoOrwx) | 3:04 | 2022-07-19 |  |
 | [Profondeur](https://open.spotify.com/track/4c6CZzNkSB8TGdej0Vdj8r) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Profondeur](https://open.spotify.com/album/2avm7Eiash9dQXQYtXrE8x) | 2:20 | 2024-02-13 |  |
+| [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-02-19 |  |
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2021-12-07 | 2022-04-15 |
 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 | 2024-11-29 |  |
 | [quiet plateau](https://open.spotify.com/track/6zODDCy0JYLgVmx3aTt2rC) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [quiet plateau & meadow ballet](https://open.spotify.com/album/1NKiYL9c9mYgkMFIq5iXHY) | 2:32 | 2022-05-20 |  |
@@ -495,7 +499,7 @@
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 | 2023-08-22 |
 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 | 2023-11-20 |  |
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-03-25 |  |
-| [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 |  |
+| [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 | 2025-02-20 |
 | [The Voyager](https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [The Voyager](https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK) | 2:22 | 2023-09-11 |  |
 | [The Wanderer](https://open.spotify.com/track/6BUuhyI6wqIO3N0FMopfOC) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Wanderer](https://open.spotify.com/album/0aBHhkCZz14KhXojiJHHWl) | 3:30 | 2024-02-13 |  |
 | [The Weaver](https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM) | [Brooklyn Meir](https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft) | [The Weaver](https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8) | 3:39 | 2024-11-06 |  |

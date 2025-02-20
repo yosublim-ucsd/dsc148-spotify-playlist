@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Bass Bop",
+        "url": "https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2025-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Bass Bop",
+      "url": "https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM"
       },

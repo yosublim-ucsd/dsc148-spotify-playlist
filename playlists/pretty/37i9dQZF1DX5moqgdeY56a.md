@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,082 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,101 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 31 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
 | 32 | [Mi Gusto Es](https://open.spotify.com/track/1iWyaPk07MTHUD9SEMSMen) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Mi Gusto Es](https://open.spotify.com/album/1M4q7hhvKtguVIvbupcrFz) | 3:26 |
 | 33 | [Una y Mil Razones](https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Una y Mil Razones](https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz) | 3:03 |
-| 34 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
+| 34 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
 | 35 | [Me Falta Valor](https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 3:37 |
-| 36 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
+| 36 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
 | 37 | [Albur De Amor](https://open.spotify.com/track/7DrnMoeK7R06HnZ2TWkEOw) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 1](https://open.spotify.com/album/48CCYGuCWQO4Nn2BstScwL) | 2:36 |
 | 38 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
 | 39 | [Por una Mujer Casada](https://open.spotify.com/track/2vKVjAResslERGdwOxK4iW) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Con Tambora, Vol\. 2](https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy) | 2:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 46 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
 | 47 | [Popurri de Caballos: El Alazán y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas](https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:42 |
 | 48 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
-| 49 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
-| 50 | [Un Puño De Tierra](https://open.spotify.com/track/3A7APEc3HegGLMI5VSGMSc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 2:50 |
+| 49 | [Echame a Mi la Culpa](https://open.spotify.com/track/4JIadtApDJKn7gRea0pgeT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:02 |
+| 50 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
 
 Snapshot ID: `ZhV5xwAAAAB12qW3jeE5KM1Yoc3YpBje`

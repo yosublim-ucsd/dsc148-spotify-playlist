@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Costa Titch
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,587 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,611 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
 | 65 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
 | 66 | [Fall](https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N) | 3:23 |
-| 67 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 |
-| 68 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
+| 67 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
+| 68 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 |
 | 69 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
 | 70 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
 

@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-837 songs - 1 day 12 hr 7 min
+841 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Chapada Dos Veadeiros](https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Chapada Dos Veadeiros](https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK) | 2:34 | 2021-12-08 | 2022-02-16 |
 | [Cherished](https://open.spotify.com/track/1rLMnQfT6ueI1yCOvZS9hN) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Cherished](https://open.spotify.com/album/61BmBejQR7R1whomReaRJc) | 1:58 | 2022-10-07 | 2023-08-19 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2022-12-09 | 2023-08-19 |
+| [Chords In D](https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Chords In D](https://open.spotify.com/album/2jZjzsKKH6LLi8tgsUPjWm) | 2:46 | 2025-02-19 |  |
 | [Cinco](https://open.spotify.com/track/4pkFHpro2S9df35aesICL0) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Cinco](https://open.spotify.com/album/6ha71NRebIjPObIM3ZTrSx) | 1:52 | 2022-05-27 | 2022-09-09 |
 | [Cinema Paradiso \- Love Theme](https://open.spotify.com/track/3Zl7KSDYco84BdircFgR31) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Film favorites for acoustic guitar vol 1 \(EP\)](https://open.spotify.com/album/35UxgJAP2G4fzunaQUeW2V) | 1:59 | 2021-12-08 | 2022-04-22 |
 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2022-10-28 | 2024-06-08 |
@@ -207,6 +208,7 @@
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-03-10 | 2023-08-19 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 |  |
 | [Dripping Ink](https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Dripping Ink](https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1) | 1:42 | 2025-01-27 |  |
+| [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 | 2024-04-20 |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-05-12 | 2024-06-08 |
 | [Dunfanaghy Beach](https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Dunfanaghy Beach](https://open.spotify.com/album/4LlIknto9ZksRNDIZXfPL8) | 2:10 | 2021-12-08 | 2022-06-17 |
@@ -430,6 +432,7 @@
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-08 | 2024-05-04 |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
 | [Look Up](https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Look Up](https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU) | 2:37 | 2025-01-07 |  |
+| [Looking Up](https://open.spotify.com/track/4nkMQNAYRjLxUK1N59SQtk) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Looking Up](https://open.spotify.com/album/5aWsCzut4mZVjwWN7D0oup) | 2:40 | 2025-02-19 |  |
 | [Los Andes](https://open.spotify.com/track/4SPEmf8qMLbQwSbGzZrYG3) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Los Andes](https://open.spotify.com/album/089JMl8TmoCPDtLy5TAvdZ) | 2:23 | 2021-12-08 | 2022-07-29 |
 | [Lost in the North Sea](https://open.spotify.com/track/2CEGRzR5zR1wB3hHJgfJ5M) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Streets of Lisbon](https://open.spotify.com/album/0JJWqOvCxGTd5GiXtJazx7) | 3:56 | 2021-12-08 | 2022-05-11 |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 | 2023-08-19 |
@@ -504,7 +507,7 @@
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 | 2024-06-15 |
 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 | 2022-05-27 | 2022-07-08 |
-| [Never Certain](https://open.spotify.com/track/3ZkOLftaatCYd85DmAkXAr) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Never Certain](https://open.spotify.com/album/4wdnDRywKOuILU3uWW9BdF) | 2:22 | 2024-05-03 |  |
+| [Never Certain](https://open.spotify.com/track/3ZkOLftaatCYd85DmAkXAr) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Never Certain](https://open.spotify.com/album/4wdnDRywKOuILU3uWW9BdF) | 2:22 | 2024-05-03 | 2025-02-20 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2022-04-22 | 2023-10-13 |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2022-09-23 | 2024-06-15 |
 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 | 2022-10-07 | 2023-03-10 |
@@ -650,7 +653,7 @@
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2022-10-28 | 2024-06-08 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Share My Burden](https://open.spotify.com/track/4zrE3bK51nBFR3lA32AADH) | [Pete Harris](https://open.spotify.com/artist/1lw09BJ43yAgXRP8EtUiQQ) | [Share My Burden](https://open.spotify.com/album/4StzfazKpweUdCP3Ei0QH8) | 3:49 | 2022-10-28 | 2023-03-25 |
-| [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
+| [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 | 2025-02-20 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 | 2024-06-21 |
 | [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2022-03-25 | 2024-04-05 |
 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 | 2021-12-08 | 2022-04-22 |
@@ -820,6 +823,7 @@
 | [when the stars align](https://open.spotify.com/track/4JWkY1lHA5tTUCqyk0JFE1) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [when the stars align](https://open.spotify.com/album/7dd2msGOs5dEYWMjYAvcJq) | 3:06 | 2021-12-08 | 2022-04-22 |
 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 |  |
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 | 2022-10-07 |
+| [Whispers of Frost](https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers of Frost](https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6) | 3:12 | 2025-02-19 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2022-11-18 |
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2022-10-07 | 2024-04-05 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
