@@ -1,4 +1,4 @@
-## Playlists \(8382\)
+## Playlists \(8383\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4039,6 +4039,7 @@
 - [New Music Friday Suomi](/playlists/pretty/37i9dQZF1DWXtcXUwhuzFM.md)
 - [New Music Friday Sweden](/playlists/pretty/37i9dQZF1DXcecv7ESbOPu.md)
 - [New Music Friday Switzerland](/playlists/pretty/37i9dQZF1DX3crNbt46mRU.md)
+- [New Music Friday Türkiye](/playlists/pretty/37i9dQZF1DXd8Yptw1g5FC.md)
 - [New Music Friday UK](/playlists/pretty/37i9dQZF1DX4W3aJJYCDfV.md)
 - [New Music Friday: The Popjustice Edit](/playlists/pretty/5s7cNVeGfehrRfCatNN43P.md)
 - [New Music Holiday](/playlists/pretty/37i9dQZF1DX5vMTfJy5XKE.md)
