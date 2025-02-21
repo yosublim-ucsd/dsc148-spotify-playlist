@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > hari e memphis tão na casa, esqueça tudo 👉😌👈
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,695 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,749 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Diz Aí Qual é o Plano?](https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [MC Nego Micha](https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Diz Aí Qual é o Plano?](https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M) | 11:43 |
 | 60 | [Goodnight Menina 4](https://open.spotify.com/track/2rFi57mXQTm8Di4DJ8WPKi) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Goodnight Menina 4](https://open.spotify.com/album/6v0KM0h9wtgD7EcToXVvPl) | 2:54 |
 
-Snapshot ID: `Z7aSVAAAAABajnMYQbNT+fOKgL7PsVai`
+Snapshot ID: `Z7aSVAAAAADQdqaQdaVBKuDg1PL+9dw7`

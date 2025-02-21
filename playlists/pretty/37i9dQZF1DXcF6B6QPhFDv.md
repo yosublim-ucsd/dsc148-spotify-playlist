@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,552,133 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,552,029 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Guided Tour](https://open.spotify.com/track/5libQaNWi39sL1255ivVwK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl) | 4:25 |
 | 75 | [After You](https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [After You](https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC) | 2:28 |
 
-Snapshot ID: `Z67N+gAAAAAuZbEwEEa8TQXo9ymuwnAA`
+Snapshot ID: `Z67N+gAAAACloDaBohL3J93RRyPI6nn6`

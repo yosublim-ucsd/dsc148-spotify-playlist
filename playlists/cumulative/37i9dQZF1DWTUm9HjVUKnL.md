@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Harry Styles
 
-1,314 songs - 3 day 7 hr 8 min
+1,315 songs - 3 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [Take Me To Church](https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 4:30 | 2023-10-18 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-10-03 |  |
 | [Taste \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spotify Singles](https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg) | 7:43 | 2022-01-19 |  |
+| [Te Metiste \- Spotify Single](https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Te Metiste \- Spotify Single](https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr) | 3:22 | 2025-02-20 |  |
 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 2:43 | 2023-06-08 |  |
 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0kdaH9AO4ddOgIAYrnf2tU) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/72ekwhd1WlpvNWvSFirYfr) | 2:43 | 2023-10-02 | 2024-04-19 |
 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 | 2022-01-19 |  |

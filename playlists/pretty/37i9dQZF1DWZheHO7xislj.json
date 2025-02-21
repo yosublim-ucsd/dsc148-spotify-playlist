@@ -1,12 +1,12 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141276,
+  "num_followers": 141269,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6m34AAAAAAbSP2L2eOXuU1FR1rW9Niw",
+  "snapshot_id": "Z6m34AAAAAAwxwRjKwDmU7GnY77TzeuX",
   "tracks": [
     {
       "added_at": "2025-02-10 08:25:04",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Fugue State",
-        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 199639,
-      "name": "1612",
-      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 171773,
       "name": "I Never Loved a Man (The Way I Love You)",
       "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Fugue State",
+        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 199639,
+      "name": "1612",
+      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Tell It Like It Is - The Par Lo Years",
         "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165960,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Remember the Rain",
         "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "The Sweetest Taboo - Remastered",
-      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Circle Of One",
         "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 259666,
       "name": "Rhythm Of Life",
       "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "The Sweetest Taboo - Remastered",
+      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Essential Bill Withers",
-        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Art Of Tea",
         "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 215293,
       "name": "Monkey See-Monkey Do",
       "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Eugene Record",
-        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
-      },
-      "artists": [
-        {
-          "name": "Eugene Record",
-          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "Overdose of Joy",
-      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Eugene Record",
+        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
+      },
+      "artists": [
+        {
+          "name": "Eugene Record",
+          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "Overdose of Joy",
+      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
+        "name": "I'm Back! Family & Friends",
+        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
+      },
+      "artists": [
+        {
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
-        "name": "I'm Back! Family & Friends",
-        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
-      },
-      "artists": [
-        {
-          "name": "Sly Stone",
-          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1868,9 +1868,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2012,9 +2012,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Playlist: The ATCO Singles",
-        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
-      },
-      "artists": [
-        {
-          "name": "Al Hudson",
-          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
-        },
-        {
-          "name": "Soul Partners",
-          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "I'm About Loving You",
-      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 180750,
       "name": "Better Be Home Soon",
       "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Playlist: The ATCO Singles",
+        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
+      },
+      "artists": [
+        {
+          "name": "Al Hudson",
+          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
+        },
+        {
+          "name": "Soul Partners",
+          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "I'm About Loving You",
+      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b"
       },
@@ -2547,18 +2563,18 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
+        "name": "Mr. Big Stuff (Remastered)",
+        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2647,18 +2663,18 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Mr. Big Stuff (Remastered)",
-        "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
+        "name": "Explores Your Mind",
+        "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
       },
       "artists": [
         {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
+      "duration_ms": 225373,
+      "name": "Take Me To The River",
+      "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2779,22 +2795,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Explores Your Mind",
-        "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me To The River",
-      "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Soul Messin",
         "url": "https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY"
       },
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Be Good",
         "url": "https://open.spotify.com/album/2NHJtAvHTWxsiedQBlXlEH"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 285186,
       "name": "Painted On Canvas",
       "url": "https://open.spotify.com/track/7J2xdeaM7LGUQmxNWlG20Z"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
     },
     {
       "added_at": "2025-02-10 08:25:04",

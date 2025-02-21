@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: AR Paisley
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,673 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,684 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [One Ways](https://open.spotify.com/track/14gJiyQfjYQ1rlwLIIr0hy) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Ghost Notes](https://open.spotify.com/artist/3p3RulJ5SgVjRUywR2RKup) | [One Ways](https://open.spotify.com/album/0zBteIeBS016FQPwfYfV9U) | 3:00 |
 | 50 | [Switch Up](https://open.spotify.com/track/0bh9R4sWPfWlfAjsQlPLPI) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Switch Up](https://open.spotify.com/album/0Fl9DWlkdTo49fONygfWHa) | 2:40 |
 
-Snapshot ID: `Z67N+gAAAAC23xXKOCgZEjIZOhTEcKSK`
+Snapshot ID: `Z67N+gAAAAANaWnsP5r5PbEXdeLqsKH3`

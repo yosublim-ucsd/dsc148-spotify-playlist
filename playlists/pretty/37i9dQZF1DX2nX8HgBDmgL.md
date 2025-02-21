@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,582 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,717 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 99 | [Thank You God](https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [Thank You God](https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK) | 2:12 |
 | 100 | [Loco](https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9), [Laiba Khurram](https://open.spotify.com/artist/6kZAZpYJwnwpVF5R9nDTyz) | [Loco](https://open.spotify.com/album/6FHlVxKmN3GdhH5uPFgZ2e) | 2:46 |
 
-Snapshot ID: `Z7WrzAAAAAC8OK5owaIPdmGrJ+M82WtK`
+Snapshot ID: `Z7WrzAAAAAD19w8lG9J4PiPczNYhhFoc`

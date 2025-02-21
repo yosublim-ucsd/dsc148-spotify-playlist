@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand l'indie et l'electro ne font qu'un. Photo : Oliver Koletzki x Talmirage",
+  "description": "Quand l'indie et l'electro ne font qu'un. Photo : Flume",
   "name": "indelectro",
   "tracks": [
+    {
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217997,
+      "name": "1 DAY 2 LATE",
+      "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
+    },
     {
       "album": {
         "name": "BUBBA",
@@ -78,7 +100,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 188228,
       "name": "Adulter8",
       "url": "https://open.spotify.com/track/0ntUW16DrLOtk8ayADB1UE"
@@ -580,7 +602,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 203134,
       "name": "DNA \u221e",
       "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 192857,
       "name": "Farrah Fawcett Hair (Predux)",
       "url": "https://open.spotify.com/track/7bwHcXxoHlYEeKsRDNwIWK"
@@ -775,6 +797,28 @@
     },
     {
       "album": {
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+    },
+    {
+      "album": {
         "name": "Furia Electronica",
         "url": "https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs"
       },
@@ -804,7 +848,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 312040,
       "name": "Future",
       "url": "https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy"
@@ -1173,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "I Wont Tell You",
+        "url": "https://open.spotify.com/album/2DVtyd8VsQHY6AwjLYUo96"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        },
+        {
+          "name": "Kainalu",
+          "url": "https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213628,
+      "name": "I Wont Tell You",
+      "url": "https://open.spotify.com/track/6SVNJBqKbqVFt9uoIgXUNg"
+    },
+    {
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -1192,6 +1258,24 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "album": {
+        "name": "In My Room (Hardcore Mix)",
+        "url": "https://open.spotify.com/album/4qm3Ht93AerrZQT9kMYpOC"
+      },
+      "artists": [
+        {
+          "name": "KFR",
+          "url": "https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191322,
+      "name": "In My Room (Hardcore Mix)",
+      "url": "https://open.spotify.com/track/4z706eNkp3OA3fHTDCTRFs"
     },
     {
       "album": {
@@ -1311,6 +1395,54 @@
     },
     {
       "album": {
+        "name": "Know You Love Me",
+        "url": "https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179161,
+      "name": "Know You Love Me",
+      "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
+    },
+    {
+      "album": {
+        "name": "L'hiver au soleil (Napkey Remix)",
+        "url": "https://open.spotify.com/album/3gmI8TtovNwo4SkGWFSSj8"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
+        },
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191187,
+      "name": "L'hiver au soleil - Napkey Remix",
+      "url": "https://open.spotify.com/track/1LcLM1VMwpKbX5aW0PVQ5r"
+    },
+    {
+      "album": {
         "name": "Thunder, Lightning, Strike",
         "url": "https://open.spotify.com/album/7k8fPk75tH4HPLy43neH0S"
       },
@@ -1362,7 +1494,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182400,
       "name": "Let her go",
       "url": "https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D"
@@ -1630,7 +1762,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 243229,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj"
@@ -2300,7 +2432,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 365461,
       "name": "Still",
       "url": "https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd"
@@ -2402,6 +2534,24 @@
       "duration_ms": 196360,
       "name": "Time To Dance",
       "url": "https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z"
+    },
+    {
+      "album": {
+        "name": "Moving forward / Tokyo",
+        "url": "https://open.spotify.com/album/2LOMmb2BZYcmLy8EdpDrMI"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138490,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gAho5KhpQwVGM32uDjU1G"
     },
     {
       "album": {

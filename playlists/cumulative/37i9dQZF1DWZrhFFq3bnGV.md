@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Rahma Savitri
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adrian Setiawan
 
-223 songs - 15 hr 39 min
+224 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Everyday People](https://open.spotify.com/track/6rmxcDSZza05k1ylSVo3am) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:37 | 2023-08-17 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-04-18 |  |
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 | 2024-01-26 |
+| [Feeling](https://open.spotify.com/track/3F56BRaiq37HjdJWg6YUpj) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Cika Amalia](https://open.spotify.com/artist/2M4JBNdO2DPJBSJSutcgas) | [Feeling](https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf) | 3:34 | 2025-02-20 |  |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2022-09-02 | 2023-01-27 |
 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 |  |
 | [Fonk in the City](https://open.spotify.com/track/0QQKhBgzF6SLBgzWYeEgnm) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Fonk in the City](https://open.spotify.com/album/5o5IiiD5liCqOuJe9ez356) | 4:10 | 2023-03-03 | 2024-11-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,714 likes - 141 songs - 8 hr 28 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,709 likes - 137 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 121 | [Demons](https://open.spotify.com/track/3zdU9eUufJDF6IFc1zThAS) | [Cătălina Solomac](https://open.spotify.com/artist/5JJo3OJiLGZqfBxCUvOSGv) | [Demons](https://open.spotify.com/album/2F9xKINjsLqPgKl3pyMNal) | 3:05 |
 | 122 | [Bad Cards](https://open.spotify.com/track/7IwJumoeRPRGzVmjR43Bee) | [Paul Nourigat](https://open.spotify.com/artist/1i9kYnNoLzXtyzpFOOwZA7), [Paul Brainard](https://open.spotify.com/artist/4mRnHVClEB3xxDjO0FqO8F), [Ji Tanzer](https://open.spotify.com/artist/4q8dXjoZt5UzuVt5Uwb9VC) | [Smiles That Pass By](https://open.spotify.com/album/65fe5NydOUPzuYnNYk8bmw) | 3:20 |
 | 123 | [Morning Pulse](https://open.spotify.com/track/3Zy95EShtjEMe2Sn1StLvK) | [DONPAIRION](https://open.spotify.com/artist/0XkJBN6kZ25ZGfXsuHQRyp) | [PULSE](https://open.spotify.com/album/74aSmBDf6t5SlwJWoXLeC2) | 4:34 |
-| 124 | [Scooter](https://open.spotify.com/track/4drxQWtK5TtzWTu5jEitU2) | [Kremtones](https://open.spotify.com/artist/7yMxHfJX9cIOl7Ab3sPAoD) | [Scooter](https://open.spotify.com/album/6JA4o4Bf2d1t7n7Qws0X6L) | 3:24 |
+| 124 | [Right Guy](https://open.spotify.com/track/70AY34rHmEQ2qEUXgkrLOr) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Right Guy](https://open.spotify.com/album/1hTLrsNLzU9sosVd6mgMaO) | 3:10 |
 | 125 | [Ego Queen](https://open.spotify.com/track/7kUNRP28Rj4tMjvh18SPpJ) | [CASUAL FRIDAY](https://open.spotify.com/artist/0UQrXgSGetULIfINg6WeBb) | [Ego Queen](https://open.spotify.com/album/1TNw52De8fJJbxOvlEzWDn) | 3:40 |
 | 126 | [L'HYMME NATIONAL \#2](https://open.spotify.com/track/6sQtn1uf82cvY4HmauofVk) | [Vane Carter](https://open.spotify.com/artist/2U7rEU74rnndJeanBvrb96) | [L'HYMME NATIONAL \#2](https://open.spotify.com/album/5mlBDMifDTgsJbFkQd6zlP) | 3:59 |
 | 127 | [Heaven's Heat](https://open.spotify.com/track/1b9vt2LjG7d8AhTQXTmJL8) | [rplayin](https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy) | [SOUL UNBOUND](https://open.spotify.com/album/2wCZXoPWQC8UtMJnImVMca) | 5:21 |
@@ -140,14 +140,10 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 130 | [Sonic Intelligence](https://open.spotify.com/track/5MEnnvpV0zklDbW7ehvN80) | [Messiah'el Bey](https://open.spotify.com/artist/1TSU8ZHoDGcAyrAfPtiDZU), [Rocío del Pozo](https://open.spotify.com/artist/4xlZkXazMSrjRmdVeeaM62), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [The Karma of Trust](https://open.spotify.com/album/5X5FnGKfZSQnkL1PK3T4DQ) | 3:15 |
 | 131 | [Clarity](https://open.spotify.com/track/1tT9mKlAeFKuqV1dn7ys58) | [SSANJAY](https://open.spotify.com/artist/2ewSrS6QoK7mFPSeeUdr6H) | [Clarity](https://open.spotify.com/album/2lt8hE01L67uclxgVK665Q) | 2:40 |
 | 132 | [Chasing](https://open.spotify.com/track/3ljY4RmwBAfI9N8jqa9PtS) | [Sheila Stubbs Taylor](https://open.spotify.com/artist/39KpgVKhGlHfcYroT2z2Dv) | [Chasing](https://open.spotify.com/album/1q6AxLyzNVZUn2RFUodf6Y) | 4:15 |
-| 133 | [Right Guy](https://open.spotify.com/track/70AY34rHmEQ2qEUXgkrLOr) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Right Guy](https://open.spotify.com/album/1hTLrsNLzU9sosVd6mgMaO) | 3:10 |
-| 134 | [Everything & Anything](https://open.spotify.com/track/7j2b4WzBi7PHvk8VBABHz5) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Daseca](https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Everything & Anything](https://open.spotify.com/album/4Bw26X5mdODOQYPKM8ssWw) | 3:55 |
-| 135 | [Second Hand Smoke](https://open.spotify.com/track/3muPmDFgIsmbu2YJX0FoQo) | [Two Guys Walk Into A Bar](https://open.spotify.com/artist/3cEBoKijCoS7V0vbPSKeqn) | [Terlingua](https://open.spotify.com/album/10Vuk1cW7EYGWorx7yyBl4) | 4:22 |
-| 136 | [Groove Blvd \- Radio Edit](https://open.spotify.com/track/3WhYL8da4uS8VRs4pniSSa) | [John W Hudson](https://open.spotify.com/artist/4cQlIfryHC5dIN6BZDzigH) | [Groove Blvd \(Radio Edit\)](https://open.spotify.com/album/51YB7OdkXaTpaekScO09c3) | 3:16 |
-| 137 | [Be Mine](https://open.spotify.com/track/0ISzaBWrBb1vxHs5tLEq1I) | [Break Out The Crazy](https://open.spotify.com/artist/0u0BvvBADiPf9t9dTT9zJD) | [Be Mine](https://open.spotify.com/album/609EPMai2ew5oyIzniaGlS) | 4:04 |
-| 138 | [Piosenka Dla Brata \(One Last Modlitwa\)](https://open.spotify.com/track/4PMk9REtC4n0vB6pP9gTzk) | [Vera's Son](https://open.spotify.com/artist/2Y5NBeAPlkQamHPgfqc9na) | [Piosenka Dla Brata \(song for brother\)](https://open.spotify.com/album/4caCkYNhg8cF7pwoLKCPkr) | 3:10 |
-| 139 | [הכל בסדר?!](https://open.spotify.com/track/6s3vfOQjmv9ZM8lhMbYxeE) | [גל ביטון](https://open.spotify.com/artist/48bWSMa6BKDaPs2ZT1E8u9) | [הנה פרפר](https://open.spotify.com/album/4XIDZvavhR3qGKCsYUkYKb) | 4:56 |
-| 140 | [Nostalgic Kiss](https://open.spotify.com/track/7wMup38sHLXt8lAtBL0phF) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Nostalgic Kiss](https://open.spotify.com/album/32j6PMyEdQC5nMit47jqC7) | 3:03 |
-| 141 | [City of Heat](https://open.spotify.com/track/2t3vnS0yMAJXOkIN4JHzN4) | [Two Guys Walk Into A Bar](https://open.spotify.com/artist/3cEBoKijCoS7V0vbPSKeqn) | [Terlingua](https://open.spotify.com/album/10Vuk1cW7EYGWorx7yyBl4) | 5:31 |
+| 133 | [Everything & Anything](https://open.spotify.com/track/7j2b4WzBi7PHvk8VBABHz5) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Daseca](https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Everything & Anything](https://open.spotify.com/album/4Bw26X5mdODOQYPKM8ssWw) | 3:55 |
+| 134 | [Second Hand Smoke](https://open.spotify.com/track/3muPmDFgIsmbu2YJX0FoQo) | [Two Guys Walk Into A Bar](https://open.spotify.com/artist/3cEBoKijCoS7V0vbPSKeqn) | [Terlingua](https://open.spotify.com/album/10Vuk1cW7EYGWorx7yyBl4) | 4:22 |
+| 135 | [Groove Blvd \- Radio Edit](https://open.spotify.com/track/3WhYL8da4uS8VRs4pniSSa) | [John W Hudson](https://open.spotify.com/artist/4cQlIfryHC5dIN6BZDzigH) | [Groove Blvd \(Radio Edit\)](https://open.spotify.com/album/51YB7OdkXaTpaekScO09c3) | 3:16 |
+| 136 | [Be Mine](https://open.spotify.com/track/0ISzaBWrBb1vxHs5tLEq1I) | [Break Out The Crazy](https://open.spotify.com/artist/0u0BvvBADiPf9t9dTT9zJD) | [Be Mine](https://open.spotify.com/album/609EPMai2ew5oyIzniaGlS) | 4:04 |
+| 137 | [Nostalgic Kiss](https://open.spotify.com/track/7wMup38sHLXt8lAtBL0phF) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Nostalgic Kiss](https://open.spotify.com/album/32j6PMyEdQC5nMit47jqC7) | 3:03 |
 
-Snapshot ID: `AAAtpa2pB6IsCp8l/xBS5pfDNgjDR3La`
+Snapshot ID: `AAAtq8iaTFXfmXqWBZ+3L1insghl80WW`

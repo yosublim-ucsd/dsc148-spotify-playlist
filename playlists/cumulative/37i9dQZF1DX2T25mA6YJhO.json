@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1a Polaca, Dani Fern\u00e1ndez.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Medalla.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/5HKIjv0prAqGWDjyiQpHtw"
+      },
+      "artists": [
+        {
+          "name": "Alison Darwin",
+          "url": "https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165180,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH"
+    },
+    {
+      "album": {
         "name": "Almod\u00f3var",
         "url": "https://open.spotify.com/album/04sMUZNOcazdIOi4DovwUa"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 187635,
       "name": "Almod\u00f3var",
       "url": "https://open.spotify.com/track/4f30Z0UAzLenMOk65NtTYH"
@@ -324,6 +342,28 @@
       "duration_ms": 222040,
       "name": "Amanecer Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
+    },
+    {
+      "album": {
+        "name": "Amigo Mercado",
+        "url": "https://open.spotify.com/album/7saMaFAW0XJ25QNFRVNqp3"
+      },
+      "artists": [
+        {
+          "name": "Medalla",
+          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "Amigo Mercado",
+      "url": "https://open.spotify.com/track/6tTWM2nyUiQi7TgqVmq0jR"
     },
     {
       "album": {
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 168525,
       "name": "Dante",
       "url": "https://open.spotify.com/track/2ksRvauNFgEHWlK7bpD8UW"
@@ -1859,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Directo desde Los Invernaderos",
+        "url": "https://open.spotify.com/album/3B36TreEepCBNewRhX92Fh"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Grises - Directo",
+      "url": "https://open.spotify.com/track/5u49GMwqhKyBtyWh80fl9o"
+    },
+    {
+      "album": {
         "name": "Hago lo que quiero",
         "url": "https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp"
       },
@@ -1888,7 +1946,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184631,
       "name": "Hamburguesas",
       "url": "https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ"
@@ -1982,7 +2040,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
@@ -2094,7 +2152,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
@@ -2510,7 +2568,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 116800,
       "name": "Los Malos Mueren",
       "url": "https://open.spotify.com/track/5y5cVgUfKvAOAlrF15x4ck"
@@ -3024,7 +3082,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 140012,
       "name": "Merienda-cena",
       "url": "https://open.spotify.com/track/0so2GzSTC3MuEoPqyc4k3X"
@@ -3255,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5ZYYYVWdLbVb8vc3nSfFEX"
+      },
+      "artists": [
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/4JY44DPb89RJztHekdCeiV"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/6Jm9mp28EyfixR9ZvxCmY7"
       },
@@ -3266,7 +3342,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 211730,
       "name": "Ni\u00f1os Perdidos",
       "url": "https://open.spotify.com/track/1UqcUWFQdHsdkOuBLStzem"
@@ -3605,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Palma Barcelona",
+        "url": "https://open.spotify.com/album/1ncE4g6jVktXa3XVE9EPy6"
+      },
+      "artists": [
+        {
+          "name": "Go Cactus",
+          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161756,
+      "name": "Palma Barcelona",
+      "url": "https://open.spotify.com/track/1S79QByWkGE8ufw0Av0qQy"
+    },
+    {
+      "album": {
         "name": "Palos y Piedras",
         "url": "https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE"
       },
@@ -3869,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Pogo",
+        "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
+    },
+    {
+      "album": {
         "name": "Ponzano",
         "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
       },
@@ -3992,6 +4104,24 @@
       "duration_ms": 104443,
       "name": "Pu\u00f1ales",
       "url": "https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS"
+    },
+    {
+      "album": {
+        "name": "QTHCQE",
+        "url": "https://open.spotify.com/album/3GoRi4qKS7pGWFTfHVkILP"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178592,
+      "name": "QTHCQE",
+      "url": "https://open.spotify.com/track/5yv1T5uuswsP6FLNhzDW09"
     },
     {
       "album": {
@@ -5180,7 +5310,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 187816,
       "name": "WTF",
       "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
@@ -5332,7 +5462,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184200,
       "name": "Yo-me-mi",
       "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
@@ -5368,7 +5498,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193754,
       "name": "\u00a1Que te pares!",
       "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"

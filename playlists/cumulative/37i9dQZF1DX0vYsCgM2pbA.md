@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-234 songs - 14 hr 11 min
+235 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Don't Fret!](https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Don't Fret!](https://open.spotify.com/album/5cQfEAAAMGjXBnPtI0i0mG) | 3:19 | 2025-02-05 |  |
 | [don't give up on me](https://open.spotify.com/track/69dCUv9htSIGQ2Wrq36sD2) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [don't give up on me](https://open.spotify.com/album/7JzEyrvfRWletnCLkJPCRP) | 3:18 | 2023-08-17 | 2023-09-08 |
 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 | 2023-06-08 | 2023-07-14 |
-| [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR) | 3:10 | 2025-02-05 |  |
+| [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Don't Stop \(Keep on Keepin on\)](https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR) | 3:10 | 2025-02-05 | 2025-02-21 |
 | [Don't Touch Me Baby](https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Say](https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO) | 4:01 | 2024-12-17 |  |
 | [Don’t Give Up On Me](https://open.spotify.com/track/4ovQnG03lrudyY3IiZYiY2) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 2:45 | 2022-12-01 | 2023-01-13 |
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2022-12-01 | 2023-02-10 |
@@ -69,6 +69,7 @@
 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 | 2022-12-01 | 2023-05-27 |
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2022-12-01 | 2023-01-27 |
 | [Esther](https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:12 | 2022-12-01 | 2024-04-19 |
+| [Everything](https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Everything](https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V) | 2:20 | 2025-02-05 |  |
 | [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 | 2023-12-21 | 2024-03-27 |
 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 | 2022-12-01 | 2024-04-19 |
 | [Feel It](https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Lost Forever](https://open.spotify.com/album/3kwZmDvzfHAhkWdIUaku4J) | 5:09 | 2022-12-01 | 2023-01-13 |

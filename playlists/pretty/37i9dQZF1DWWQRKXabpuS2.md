@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,963 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,984 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Khajoola](https://open.spotify.com/track/1cylMxQ5Y1lnQhD3fSbbZz) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Khajoola](https://open.spotify.com/album/4AB5LQsjEfynEVrMy35Ysq) | 4:10 |
 | 50 | [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 |
 
-Snapshot ID: `Z7RzdwAAAAD32LopEzbMWfwE8Fak34H1`
+Snapshot ID: `Z7RzdwAAAACE3LhqQaCiST0vwtvZ5Ps6`

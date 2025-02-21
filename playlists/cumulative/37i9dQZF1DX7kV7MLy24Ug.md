@@ -2,7 +2,7 @@
 
 ### [Éxitos Uruguay](https://open.spotify.com/playlist/37i9dQZF1DX7kV7MLy24Ug)
 
-> ¡Escucha los éxitos de hoy! <br/>Foto: Bad Bunny
+> ¡Escucha los éxitos de hoy! <br/>Foto: LA NUEVA ESCUELA
 
 191 songs - 9 hr 42 min
 

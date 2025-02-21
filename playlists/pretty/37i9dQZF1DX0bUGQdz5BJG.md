@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,658 likes - 238 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,696 likes - 238 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 237 | [Down By The River](https://open.spotify.com/track/7DyLV5Fi2NYiQs0V62CCj6) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Down By The River](https://open.spotify.com/album/2StruhIzYyABmB9jMZupHI) | 3:38 |
 | 238 | [Confession](https://open.spotify.com/track/4rq5FtIfihSoI8h2Jq4fDA) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Confession](https://open.spotify.com/album/5LHsXxVLR9UwGQu0QgUuH9) | 3:12 |
 
-Snapshot ID: `Z67OxgAAAABa/iL6p8apwQUMAMTC2w6G`
+Snapshot ID: `Z67OxgAAAADtMbu+kVZc1KJyWcv2jugG`

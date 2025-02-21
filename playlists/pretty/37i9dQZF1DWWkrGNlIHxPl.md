@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,906 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,928 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 24 | [Can't Afford](https://open.spotify.com/track/51V2cgFDgUZjcUtd68ygR4) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Can't Afford](https://open.spotify.com/album/2YH6KgZ6AE5Ahbte48fJ6E) | 3:10 |
 | 25 | [The Route](https://open.spotify.com/track/3AzfHcA5mmjkg04BBXBoiE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:43 |
 | 26 | [Beirut](https://open.spotify.com/track/5FGA9IEDOPYX8viE5BtyLW) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU) | [Beirut](https://open.spotify.com/album/7z6rpzua2aPy1dxLJ4arkm) | 3:05 |
-| 27 | [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 |
+| 27 | [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 |
 | 28 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 |
 | 29 | [House Shoes](https://open.spotify.com/track/7330zPJs9Z3Bb2KcLVDYEP) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Butter](https://open.spotify.com/album/6jdhoZVZfJyRaq6RyQ8flo) | 3:17 |
 | 30 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
 | 50 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
 
-Snapshot ID: `Z63KIQAAAAAL+38BA6szpdjhSfSFADf1`
+Snapshot ID: `Z63KIQAAAABUwuyXoMGHCcFUAmTZZTgr`

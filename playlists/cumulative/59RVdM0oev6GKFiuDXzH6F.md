@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-941 songs - 1 day 23 hr 58 min
+942 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Jack & Jolene](https://open.spotify.com/track/2c7WkFr3D8VxHDsG6W3Hd5) | [Basstian](https://open.spotify.com/artist/4eSY2mrbzDfUKawV0DaeZd), [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [João Faria](https://open.spotify.com/artist/1jBojFT8egA5XQrSwUUFRA) | [Jack & Jolene](https://open.spotify.com/album/2pwYfH1sHdL3rsc5mdIsOr) | 2:37 | 2024-12-05 |  |
 | [Jack's Wave](https://open.spotify.com/track/1WkDNRkXrX00jMRjJKOiNH) | [Duske](https://open.spotify.com/artist/6VfL0NK2Mqt7OWXP6j2YZi) | [Jack's Wave](https://open.spotify.com/album/4t9Mp63xMd66TqnRXSjoJQ) | 3:25 | 2023-09-29 | 2023-12-23 |
 | [Jenny of Oldstones](https://open.spotify.com/track/12ovWvwwklQFH6yaO6DV6l) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Caitlin Potter](https://open.spotify.com/artist/6QKw0Quz1SlN1HWwomofnI), [Joylin](https://open.spotify.com/artist/0AAtlEa5QzMhEv3kuaYkPx) | [Blue Tales EP](https://open.spotify.com/album/7aNhOTxec7xlOjon6XPTVa) | 3:20 | 2024-12-05 |  |
+| [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [FeniFina](https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ) | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej) | 2:30 | 2025-02-20 |  |
 | [Jimi Jimi](https://open.spotify.com/track/3yT6W68zw0x4zaWs1ujRTF) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Jimi Jimi](https://open.spotify.com/album/6CAzbpUvEk8WJvplKUxmYP) | 2:59 | 2023-11-10 | 2023-12-23 |
 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 | 2024-01-12 | 2024-11-30 |
 | [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > wiu o último puto romântico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,168 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,110 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Eles Me Odeiam](https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Eles Me Odeiam](https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k) | 3:07 |
 | 55 | [Pra Se Entorpecer](https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Escolhas e Reflexos](https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5) | 2:40 |
 
-Snapshot ID: `Z7ZrTAAAAABcpH75pEegTYOphlpIrPGH`
+Snapshot ID: `Z7ZrTAAAAAA/7/8LHTYtzarJkJGi2z88`

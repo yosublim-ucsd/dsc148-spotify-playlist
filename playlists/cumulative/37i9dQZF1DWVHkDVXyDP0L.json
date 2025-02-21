@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: There's A Tuesday",
+  "description": "New and local indie noise. Cover: Bean Magazine",
   "name": "Local Noise",
   "tracks": [
+    {
+      "album": {
+        "name": "'Til Kingdom Come",
+        "url": "https://open.spotify.com/album/25vWzG3kQvztTrOvfB2pxD"
+      },
+      "artists": [
+        {
+          "name": "The Melodrones",
+          "url": "https://open.spotify.com/artist/6RVmxr0120ANm1sg6o6KTT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233034,
+      "name": "'Til Kingdom Come",
+      "url": "https://open.spotify.com/track/4zR1HXnD4sqt1UGf7dFsgn"
+    },
     {
       "album": {
         "name": "1800-PAINLESS",
@@ -748,7 +766,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 181546,
       "name": "Blood's on fire",
       "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
@@ -1923,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Effie's Song",
+        "url": "https://open.spotify.com/album/5xD8j5GoY9di0y44fWu6su"
+      },
+      "artists": [
+        {
+          "name": "Pretty Uglys",
+          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178284,
+      "name": "Effie's Song",
+      "url": "https://open.spotify.com/track/5pMxCZjsdHMPBsXQI5hajM"
+    },
+    {
+      "album": {
         "name": "Eighteen",
         "url": "https://open.spotify.com/album/5OVoPSjhixqtzZYgjlFHMh"
       },
@@ -2427,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Free As Hell",
+        "url": "https://open.spotify.com/album/660q3cUSBXyj3Ib3jxfRqx"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148988,
+      "name": "Free As Hell",
+      "url": "https://open.spotify.com/track/06uJf6Re1meuruxWc4UT6p"
+    },
+    {
+      "album": {
         "name": "FRENEMIES",
         "url": "https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz"
       },
@@ -2748,7 +2802,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 215527,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/7yQnOAYsaRfDIXGKW8ZCtl"
@@ -2900,6 +2954,24 @@
       "duration_ms": 185337,
       "name": "Hey...",
       "url": "https://open.spotify.com/track/5kEyWXpQE5hYbqmKHhehkp"
+    },
+    {
+      "album": {
+        "name": "Recency Bias",
+        "url": "https://open.spotify.com/album/3uXHxkvvSygPVteiPPw5Cx"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "Hi Hello",
+      "url": "https://open.spotify.com/track/2dWEiOWSppiWy91zKN5qOM"
     },
     {
       "album": {
@@ -3094,7 +3166,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
@@ -3833,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Like No Other",
+        "url": "https://open.spotify.com/album/340dgGTAgE7yRwyHlJdyIE"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "Like No Other",
+      "url": "https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH"
+    },
+    {
+      "album": {
         "name": "Living Less",
         "url": "https://open.spotify.com/album/31y2oBtE605SBDqM4no7lC"
       },
@@ -4374,7 +4464,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 213666,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3usPMzPwvPJfP5PzX5IeRr"
@@ -4414,6 +4504,24 @@
       "duration_ms": 167384,
       "name": "Munarra",
       "url": "https://open.spotify.com/track/24yO4P0dHKnG6MKklMzwaG"
+    },
+    {
+      "album": {
+        "name": "My Bingayi",
+        "url": "https://open.spotify.com/album/2Apb3FnClm54xxYMkhsSjR"
+      },
+      "artists": [
+        {
+          "name": "Chasing Ghosts",
+          "url": "https://open.spotify.com/artist/5MoQy2vfGU7mfbrwLeE7FZ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169856,
+      "name": "My Bingayi",
+      "url": "https://open.spotify.com/track/0p1aFVGgYEjEufh5A8OWei"
     },
     {
       "album": {
@@ -4702,7 +4810,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 186873,
       "name": "Old and Grey",
       "url": "https://open.spotify.com/track/3UxgO44rRy8iIvx0AU3XP5"
@@ -6049,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Silver and Black",
+        "url": "https://open.spotify.com/album/4tIA1g5pW45xqyX9k1Nrfz"
+      },
+      "artists": [
+        {
+          "name": "Big Wheels",
+          "url": "https://open.spotify.com/artist/0tSStztUA6Hkk2Z7tGLLtd"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "Silver and Black",
+      "url": "https://open.spotify.com/track/6RlrQ2S0yoIRL3yJT8fqCA"
+    },
+    {
+      "album": {
         "name": "Silver Swarm",
         "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
       },
@@ -6172,6 +6298,24 @@
       "duration_ms": 155318,
       "name": "slut era",
       "url": "https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf"
+    },
+    {
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220712,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk"
     },
     {
       "album": {
@@ -6460,7 +6604,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 165093,
       "name": "Stuck In Cheyenne",
       "url": "https://open.spotify.com/track/4M6WG6R3Rx3aB7LrNL9mx8"
@@ -6586,10 +6730,28 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 198184,
       "name": "Sweet Like Sugar",
       "url": "https://open.spotify.com/track/2JCFVEDXZfWWzx3aiV1gZ3"
+    },
+    {
+      "album": {
+        "name": "Sweet Pea",
+        "url": "https://open.spotify.com/album/1dpfszAsLPTufCRsESN4qb"
+      },
+      "artists": [
+        {
+          "name": "Camino Gold",
+          "url": "https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/6EnabkzZAFPB7kooHTvaS7"
     },
     {
       "album": {
@@ -6640,7 +6802,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 204760,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4DmCI8boNPfWxBaao0g9eQ"
@@ -7231,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0GjJFx8yEBr5hLAbm5J6Zy"
+      },
+      "artists": [
+        {
+          "name": "Voom",
+          "url": "https://open.spotify.com/artist/7sOkM3Mc3xPGcM7kGCjDtS"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163566,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7eJYz7WaodvUqfwKwMhEzH"
+    },
+    {
+      "album": {
         "name": "Troubled Views",
         "url": "https://open.spotify.com/album/0k4DG5MWrzoaQGwmBFUNg3"
       },
@@ -7278,7 +7458,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 132034,
       "name": "twentytwentythree",
       "url": "https://open.spotify.com/track/31RBep2ROc1EgNWWfFEjV4"
@@ -7422,7 +7602,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172991,
       "name": "Weather's Better",
       "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"

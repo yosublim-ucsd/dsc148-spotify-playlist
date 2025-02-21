@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits de la pop maghrébine\. Cover: Mocci
+> Les meilleurs hits de la pop maghrébine\. Cover: Mounim Slimani
 
 168 songs - 9 hr 7 min
 

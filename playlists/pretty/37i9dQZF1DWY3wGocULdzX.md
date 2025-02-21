@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,822 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,855 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 35 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 36 | [Mama Guela](https://open.spotify.com/track/3l2dxZWkOLCB64MfK3Yo2J) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Anthology](https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v) | 2:42 |
 | 37 | [Yo No Soy Guapo](https://open.spotify.com/track/4rVA2fijppCGmQOjSnBDxA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Ep](https://open.spotify.com/album/0EU0TpYrF3AJCLCmBE59dz) | 5:05 |
-| 38 | [Asia Minor](https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Latin Lounge Jazz Harlem](https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke) | 3:01 |
-| 39 | [Aprende a Querer](https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 5:26 |
+| 38 | [Aprende a Querer](https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 5:26 |
+| 39 | [Asia Minor](https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Latin Lounge Jazz Harlem](https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke) | 3:01 |
 | 40 | [Mambo Infierno](https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF) | 2:51 |
 | 41 | [Rico Vacilon](https://open.spotify.com/track/2VrhIGVNJkzLwLQL0yCXrg) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:44 |
 | 42 | [Separala Tambien](https://open.spotify.com/track/5eok99TWxCCskPsK9p3jI9) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Separala Tambien! Cantando Tito Rodriguez](https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [María](https://open.spotify.com/track/3vBVX2UTmrgtqFbjDotzb7) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [The Early Years](https://open.spotify.com/album/0tChvSKAT2FaT4ZIIAcAHH) | 2:41 |
 | 50 | [Ran Kan Kan](https://open.spotify.com/track/0q5ARDwy987big1XTriY21) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito Puente \- El Rey](https://open.spotify.com/album/793VeJh8Eze4VdHJ388u7V) | 3:08 |
 
-Snapshot ID: `ZpGDFwAAAAB4TsgkqeVsIimZEHfcTy+5`
+Snapshot ID: `ZpGDFwAAAAD1sgEnXByAqgEWl/flXyqI`

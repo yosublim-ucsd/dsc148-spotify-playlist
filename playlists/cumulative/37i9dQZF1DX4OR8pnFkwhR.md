@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-1,832 songs - 4 day 15 hr 3 min
+1,833 songs - 4 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [CheckMate](https://open.spotify.com/track/3DirXMA31aqLbsAQgAgJKy) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/7kKpNdDFKxAsY7mjkJXbAG) | 2:26 | 2023-11-09 | 2023-11-11 |
 | [CheckMate](https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw) | 2:26 | 2023-11-10 | 2023-12-13 |
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-05-31 | 2022-07-13 |
+| [Cheetah \- Freestyle](https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Cheetah \(Freestyle\)](https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb) | 4:02 | 2025-02-18 |  |
 | [Cherry on Top](https://open.spotify.com/track/4bPPrzm53NFPn5pYpsBn3j) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Cherry on Top](https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA) | 2:50 | 2023-03-28 | 2023-04-28 |
 | [Chiisana Kaiju](https://open.spotify.com/track/4bnNLpqdv1N5SjtWzmLhL7) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Kazemachi Toppu Club\-EP](https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU) | 3:03 | 2023-03-14 | 2023-03-29 |
 | [CHIME!!!](https://open.spotify.com/track/2srhNaMYwT7tTIdXjF5bDw) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [CHIME!!!](https://open.spotify.com/album/5hUAMdL6zCHafVaWN4qeuA) | 2:25 | 2023-08-29 | 2023-09-13 |

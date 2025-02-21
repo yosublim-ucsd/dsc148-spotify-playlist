@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Lil Naay",
-  "num_followers": 267850,
+  "num_followers": 267989,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N3wAAAABiFsL8ghxFMAzYyZHVfixD",
+  "snapshot_id": "Z67N3wAAAADFOVU6mD2h4zUG2LXlP9NM",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -40,16 +40,16 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
           "name": "Luis Brown",
           "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
         },
         {
           "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/6XRYalSzxmHEHi1Zp9T32N"
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
       "duration_ms": 270638,
@@ -1555,7 +1555,7 @@
     {
       "added_at": "2025-02-14 05:00:15",
       "album": {
-        "name": "La Zaza",
+        "name": "Nebula",
         "url": "https://open.spotify.com/album/23bGWnIKHENSOc4hqVHHT8"
       },
       "artists": [
@@ -1569,7 +1569,7 @@
         }
       ],
       "duration_ms": 105688,
-      "name": "La Zaza",
+      "name": "Nebula",
       "url": "https://open.spotify.com/track/1OZRIvlBSOaPmC1vSRq6pp"
     },
     {

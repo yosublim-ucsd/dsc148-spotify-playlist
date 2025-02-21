@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-478 songs - 1 day 2 hr 14 min
+479 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Best Ever](https://open.spotify.com/track/2e78790nRuhpIjajhObwjP) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 3:08 | 2024-10-06 |  |
 | [Best Ever](https://open.spotify.com/track/3kiQOTlExsRTAQW0P0jcTH) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 3:08 | 2024-03-14 | 2024-10-07 |
 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 | 2021-12-27 |  |
+| [Better \(feat\. Justin Stein\) \- Radio Edit](https://open.spotify.com/track/5raFQtUB0XrM2oH0nLCYzY) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o), [Justin Stein](https://open.spotify.com/artist/7sUaejnPyYx9rxX6GCuVMc) | [Better \(feat\. Justin Stein\) \[Radio Edit\]](https://open.spotify.com/album/4lrigen6tJNF9Gj3IzWBgq) | 3:00 | 2025-02-20 |  |
 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 | 2021-12-27 |  |
 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-22 |  |
 | [Black Box](https://open.spotify.com/track/1Ta0HBqWWb4lKsC8J3PP43) | [Naufal Aryanto](https://open.spotify.com/artist/5KumFQ8aQ2asWy8cXcNwOd) | [Black Box](https://open.spotify.com/album/1v4EkaHjNpFUqC1xrF4Byg) | 3:12 | 2023-12-13 |  |

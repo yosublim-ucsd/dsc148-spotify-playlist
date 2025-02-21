@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Vacuous \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,147 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,196 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 54 | [Self Inflicted](https://open.spotify.com/track/0Of94IedXNlKfIVegEKUFp) | [Bisa](https://open.spotify.com/artist/18xZoRR45wHJgMhjP94BRt) | [Self Inflicted](https://open.spotify.com/album/1lcpXIUNNeeQHM6WGNuIuY) | 4:23 |
 | 55 | [Bullet](https://open.spotify.com/track/7pGFtBjxJv8vzb7t1KbQmk) | [Ingrown](https://open.spotify.com/artist/7DHEVu8mFuQP14XdDIFhss) | [Bullet](https://open.spotify.com/album/4eRGUoN10rIgZC7Z3zzjLb) | 1:43 |
 
-Snapshot ID: `Z7VlXQAAAADaFLz6hOfgbYW+aDLQi7Fz`
+Snapshot ID: `Z7VlXQAAAADUeX/KlEKfy8UomlpfTivw`

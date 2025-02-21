@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Kankawa Nagarra
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,139 likes - 109 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,141 likes - 109 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 108 | [Harmony](https://open.spotify.com/track/0Xl6cdNG5qVaJkYGfgzFBL) | [Arrkula Yinbayarra](https://open.spotify.com/artist/3lM25tfwnkRXqkkuLrdqf9), [Shellie Morris](https://open.spotify.com/artist/3f82WkLyVgUGm0AavfRon8) | [Waralungku](https://open.spotify.com/album/1PE8T18TbabD7PHb00oD8N) | 3:26 |
 | 109 | [The Darkest Path](https://open.spotify.com/track/0ftzgwORiinnpihdXZFvOS) | [Wildheart](https://open.spotify.com/artist/1ABzkF6lExaX1nzm4O9hhW) | [The Darkest Path](https://open.spotify.com/album/6Uy7W2JhACvQ6ugsgmaNzM) | 3:35 |
 
-Snapshot ID: `Z19TCgAAAADgaqikm0QdbseYuscnyn4c`
+Snapshot ID: `Z19TCgAAAAAgrYZXjtV8bQ0CVYqX1yl8`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Melody Of A Memory",
+        "url": "https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "CRAZY H*ES",
+      "url": "https://open.spotify.com/track/2ftpqQwXX1NwNGALy1hR8h"
+    },
+    {
+      "album": {
         "name": "CRAZY H*ES",
         "url": "https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 138121,
       "name": "CRAZY H*ES",
       "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"

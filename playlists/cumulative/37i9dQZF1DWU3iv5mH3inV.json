@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Ahi Vienen",
+        "url": "https://open.spotify.com/album/4d1vFOl8NE4PPuzPMhnyRL"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125074,
+      "name": "Ahi Vienen",
+      "url": "https://open.spotify.com/track/3A3xTfOIPl8CZ83v6LhHI2"
+    },
+    {
+      "album": {
         "name": "Al Paso",
         "url": "https://open.spotify.com/album/4RxGKKLygE1HzhJvLI632Z"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 103654,
       "name": "Alocate Bebe",
       "url": "https://open.spotify.com/track/3wMp4FVhfynHzrbyeyirKK"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -1520,6 +1538,32 @@
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ"
+    },
+    {
+      "album": {
+        "name": "BRUTA",
+        "url": "https://open.spotify.com/album/2ZPdsJYrCNXNdlfP4BHhCr"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287179,
+      "name": "BRUTA",
+      "url": "https://open.spotify.com/track/1AQLTbX8amGpWshReAMxkS"
     },
     {
       "album": {
@@ -2068,7 +2112,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
@@ -4325,6 +4369,28 @@
     },
     {
       "album": {
+        "name": "El Bloke",
+        "url": "https://open.spotify.com/album/1r5dniaDGfwtFxnTHHVfUD"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "El Piky",
+          "url": "https://open.spotify.com/artist/4KqB52DfLAKRtgqNwMnvJW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128660,
+      "name": "El Bloke",
+      "url": "https://open.spotify.com/track/7mEQMqoxSSF1qsbYFGLfGT"
+    },
+    {
+      "album": {
         "name": "El Boom",
         "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
       },
@@ -5694,6 +5760,24 @@
       "duration_ms": 125387,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
+    },
+    {
+      "album": {
+        "name": "Envicio",
+        "url": "https://open.spotify.com/album/5rBISJ9h061Ppcu4iDFIoZ"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134771,
+      "name": "Envicio",
+      "url": "https://open.spotify.com/track/7dE3lesKd4LuayXPYW318r"
     },
     {
       "album": {
@@ -7742,7 +7826,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 161751,
       "name": "La Mujeres y Lo Cualto",
       "url": "https://open.spotify.com/track/03zhArKb25qqZ0zNe9WQGZ"
@@ -7962,6 +8046,32 @@
       "duration_ms": 157096,
       "name": "La Pegajosa",
       "url": "https://open.spotify.com/track/5moP23NFBjLaJbfYxJswVI"
+    },
+    {
+      "album": {
+        "name": "La Polea",
+        "url": "https://open.spotify.com/album/1kfGDavrB3rNqr9gtm39gA"
+      },
+      "artists": [
+        {
+          "name": "Nandy G",
+          "url": "https://open.spotify.com/artist/298ZEu3pJlpxJEqrkaqut0"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112554,
+      "name": "La Polea",
+      "url": "https://open.spotify.com/track/2BeMwJsAiLrOqb6w9kSafI"
     },
     {
       "album": {
@@ -8892,7 +9002,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 157005,
       "name": "Mala De Verdad (Tik Tak)",
       "url": "https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE"
@@ -9394,7 +9504,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 169660,
       "name": "Me Arregle - El loco",
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
@@ -10050,7 +10160,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 177857,
       "name": "Mi Funeral",
       "url": "https://open.spotify.com/track/5Smlgxd5cuoOYlS32VbMrA"
@@ -12548,7 +12658,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 118998,
       "name": "PIKY",
       "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
@@ -13820,7 +13930,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 92727,
       "name": "que la mantenga su mama",
       "url": "https://open.spotify.com/track/2SzzWbLa56OHVXVtWqz1P4"
@@ -15438,7 +15548,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
@@ -16472,7 +16582,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 169739,
       "name": "TAGALETO",
       "url": "https://open.spotify.com/track/2ryCFTyhhdo2Bzfd3Lgj9w"
@@ -19024,6 +19134,32 @@
       "duration_ms": 150471,
       "name": "Una Movie",
       "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+    },
+    {
+      "album": {
+        "name": "Una Para Como Bombo",
+        "url": "https://open.spotify.com/album/3tpuzOCnG0kENYeNF6BnMy"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "Xander La Evo",
+          "url": "https://open.spotify.com/artist/7gllDGXBpMw0VQqJ9iestN"
+        },
+        {
+          "name": "Disny",
+          "url": "https://open.spotify.com/artist/7GtAaEf99Nrq41vFMxiDAM"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Una Para Como Bombo",
+      "url": "https://open.spotify.com/track/41ORH2ANoUwoJbo7XMskGW"
     },
     {
       "album": {

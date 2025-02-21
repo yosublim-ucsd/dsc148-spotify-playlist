@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Yazz Ahmed
+> The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-691 songs - 2 day 0 hr 23 min
+692 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:19 | 2023-09-08 | 2024-04-19 |
 | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl) | 4:12 | 2024-11-15 |  |
 | [Blessed Love](https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge) | [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Joy Machine](https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG) | 4:04 | 2024-06-14 | 2024-06-29 |
+| [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 | 2025-02-21 |  |
 | [Borderline](https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 4:15 | 2021-12-17 | 2022-05-20 |
 | [Borders](https://open.spotify.com/track/64kPvG0cDJ7ePFIZi8KBn9) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Starts Again](https://open.spotify.com/album/5M26XYkOb1UHh8MM3eJimL) | 3:57 | 2021-12-17 | 2022-05-26 |
 | [Boundless Beings \- Georgia Anne Muldrow Remix](https://open.spotify.com/track/5wybJHfi2ksyr8UOVNqtAw) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Georgia Anne Muldrow](https://open.spotify.com/artist/20wtJ2UyRisp9KfLWEl9md) | [SOURCE ⧺ WE MOVE](https://open.spotify.com/album/7p1KmTe3TtMb7ojCYNmvpc) | 3:06 | 2022-01-07 | 2022-07-28 |
@@ -403,7 +404,7 @@
 | [My Type](https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Type](https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl) | 3:52 | 2024-07-18 | 2024-11-22 |
 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2023-11-17 | 2024-04-12 |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2023-03-12 |
-| [N29](https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:22 | 2024-10-03 |  |
+| [N29](https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:22 | 2024-10-03 | 2025-02-21 |
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-24 |  |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 | 2024-09-13 |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |

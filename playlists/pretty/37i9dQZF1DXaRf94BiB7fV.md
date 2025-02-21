@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Sarthak Kalyani, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,167 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,169 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Ankahi Baatein](https://open.spotify.com/track/1FjrcA1YTwuqVck06cwC7y) | [Kartikeye](https://open.spotify.com/artist/2hVqVvvcwvSXLZTCdKtBW5), [Khevna](https://open.spotify.com/artist/3rPFuuJSFbu4Lty5o7uH0u) | [Ankahi Baatein](https://open.spotify.com/album/35GYQVhrTZZEhLRibBEy2p) | 3:36 |
 | 100 | [Aana Na Tu](https://open.spotify.com/track/2q6LTElfNENh92sxiPa7nD) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Aana Na Tu](https://open.spotify.com/album/6MOBjenHZeB2VmUnx8XuVQ) | 2:55 |
 
-Snapshot ID: `Z7WdYAAAAABw8txn5NRcmThOudRRfJKK`
+Snapshot ID: `Z7WdYAAAAAC2upe0DggmXSO7vddbq3lP`

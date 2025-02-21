@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,223 likes - 95 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,263 likes - 95 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 94 | [Freedom](https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Freedom](https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f) | 2:43 |
 | 95 | [Energy](https://open.spotify.com/track/6hl3WmHubGcmLTXsmzob0o) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Energy](https://open.spotify.com/album/6yHyf4Zzqp9YICkfay5tLZ) | 2:04 |
 
-Snapshot ID: `Z68eoAAAAACoYGAFsr5A/kAUW5pgQO3B`
+Snapshot ID: `Z68eoAAAAADXzRdbnOinPss4Xb/JkWmu`

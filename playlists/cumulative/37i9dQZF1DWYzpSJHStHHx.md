@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-359 songs - 20 hr 24 min
+360 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-08-27 | 2022-07-29 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-02-05 | 2022-07-29 |
 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 | 2023-07-14 |
-| [Big Sky](https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S) | [Pricey](https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9) | [Big Sky](https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL) | 2:43 | 2023-07-13 |  |
+| [Big Sky](https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S) | [Pricey](https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9) | [Big Sky](https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL) | 2:43 | 2023-07-13 | 2025-02-21 |
 | [Bitter](https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Summer Mixtape](https://open.spotify.com/album/0iz11mCbWWro0BsVpsPpO9) | 3:15 | 2021-02-05 | 2022-12-09 |
 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 | 2024-07-10 |  |
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-02-05 | 2025-02-08 |
@@ -208,6 +208,7 @@
 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 | 2025-02-07 |  |
 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 | 2023-07-13 |  |
 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 | 2023-07-13 |  |
+| [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 | 2025-02-07 |  |
 | [Never Going Home](https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:56 | 2021-02-05 | 2022-07-13 |
 | [No Worries](https://open.spotify.com/track/2AhPep6xcLbpqLwo4c0P6q) | [Unifya](https://open.spotify.com/artist/0oC2lJahrrjwTYF8DaI4HK) | [No Worries](https://open.spotify.com/album/1kkcMkmzB9DgT3ltUulZFh) | 3:41 | 2023-07-13 | 2025-02-09 |
 | [NOBO](https://open.spotify.com/track/1d150ahPbFUS7Cbe5hcJdn) | [Tijuana Panthers](https://open.spotify.com/artist/5XGoUe0WjmbOtppHlB7Taf) | [Wayne Interest](https://open.spotify.com/album/2v2fKCE9DMHnkg6dQqcaZl) | 4:07 | 2021-02-05 | 2022-04-21 |

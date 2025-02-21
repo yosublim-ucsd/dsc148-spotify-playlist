@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Murda",
   "name": "NKVT",
   "tracks": [
     {
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "ElPatron",
+        "url": "https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133155,
+      "name": "A\u011fla",
+      "url": "https://open.spotify.com/track/4qJ5KHEJdcp5niEPWOnTyU"
+    },
+    {
+      "album": {
         "name": "A\u011eZI BOZUK",
         "url": "https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN"
       },
@@ -1708,6 +1726,24 @@
       "duration_ms": 131031,
       "name": "Bizim Araba",
       "url": "https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj"
+    },
+    {
+      "album": {
+        "name": "DUA",
+        "url": "https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185468,
+      "name": "B\u0130ZD\u0130K",
+      "url": "https://open.spotify.com/track/1l5BJzzwIVrYjQXX3K6FcX"
     },
     {
       "album": {
@@ -3064,7 +3100,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 198159,
       "name": "ESK\u0130 OKUL",
       "url": "https://open.spotify.com/track/0bvsV2THvrNj9tQm0yvfTn"
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 201708,
       "name": "Gibi",
       "url": "https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF"
@@ -4262,7 +4298,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 97578,
       "name": "HAVLAMAYAN K\u00d6PEK",
       "url": "https://open.spotify.com/track/3PU0S5BmOUqk5MEm8421ux"
@@ -4448,6 +4484,24 @@
       "duration_ms": 232727,
       "name": "HER G\u00dcN A\u011eLADIM",
       "url": "https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn"
+    },
+    {
+      "album": {
+        "name": "ElPatron",
+        "url": "https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142918,
+      "name": "Her G\u00fcn Bela",
+      "url": "https://open.spotify.com/track/6z2c5tVuE0KEVIIlZWwnMz"
     },
     {
       "album": {
@@ -8156,7 +8210,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 181363,
       "name": "Pelerin",
       "url": "https://open.spotify.com/track/7CFOAqExFoOQ1M6Nrvi3Y0"
@@ -9077,6 +9131,24 @@
     },
     {
       "album": {
+        "name": "DUA",
+        "url": "https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181300,
+      "name": "SCOTTY",
+      "url": "https://open.spotify.com/track/65X5tjYqkJVWm3lTHDGXLO"
+    },
+    {
+      "album": {
         "name": "Sen Dinlen",
         "url": "https://open.spotify.com/album/5LZRhjszAz4Wk1xwq3pquO"
       },
@@ -9560,7 +9632,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 229499,
       "name": "SOKAK K\u00d6\u015eELER\u0130NDE",
       "url": "https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM"
@@ -9764,7 +9836,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 204181,
       "name": "SURF",
       "url": "https://open.spotify.com/track/1HX7FHOdN0QhVNwb0rcinx"
@@ -11177,6 +11249,32 @@
     },
     {
       "album": {
+        "name": "\u00c7IKAR B\u0130R\u0130 KAR\u015eIMA",
+        "url": "https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "\u00c7IKAR B\u0130R\u0130 KAR\u015eIMA",
+      "url": "https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW"
+    },
+    {
+      "album": {
         "name": "\u00c7\u0130LEDEN",
         "url": "https://open.spotify.com/album/79thAqMg7pZtNqxHcmoJ63"
       },
@@ -11280,6 +11378,24 @@
       "duration_ms": 209028,
       "name": "\u00d6nemi Yok",
       "url": "https://open.spotify.com/track/5UMJHh4pgSgArc2As21D5n"
+    },
+    {
+      "album": {
+        "name": "\u00d6teki",
+        "url": "https://open.spotify.com/album/0XvMqA0pq9o5WogJfeD0ge"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "\u00d6teki",
+      "url": "https://open.spotify.com/track/5jUJx7g6WbQoChHHMnzlUJ"
     },
     {
       "album": {

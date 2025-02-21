@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/2BF40lgn2LMb6KTDVh9quc"
+      },
+      "artists": [
+        {
+          "name": "Harley KSD",
+          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165167,
+      "name": "Cartas de Amor",
+      "url": "https://open.spotify.com/track/29J1uPRpOCdJxPkSRgBg8e"
+    },
+    {
+      "album": {
         "name": "Casaco",
         "url": "https://open.spotify.com/album/7yFK2mAEqETdzbmvCBpNN9"
       },
@@ -5028,6 +5046,28 @@
       "duration_ms": 213600,
       "name": "Fica Pra Depois",
       "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
+    },
+    {
+      "album": {
+        "name": "Sant\u00edssima Trindade",
+        "url": "https://open.spotify.com/album/4D8iaMJdGwf8kl8ZKpJa5T"
+      },
+      "artists": [
+        {
+          "name": "Tio Edson",
+          "url": "https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2"
+        },
+        {
+          "name": "Eudreezy",
+          "url": "https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203479,
+      "name": "Ficas Ou Vens",
+      "url": "https://open.spotify.com/track/2KKkQxHfoVKXxaCWxuV9L4"
     },
     {
       "album": {
@@ -9930,7 +9970,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 212038,
       "name": "Possibilidade",
       "url": "https://open.spotify.com/track/3UZrZ4fJ8EIRfLzmt4Mu4D"
@@ -10102,7 +10142,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 212727,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
@@ -12970,7 +13010,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172444,
       "name": "Turma do golpe",
       "url": "https://open.spotify.com/track/5FWFHea6utB5l3E8afL6u7"
@@ -13610,7 +13650,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 201678,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/2szPKUHK4bXSCBTTKpUyCe"

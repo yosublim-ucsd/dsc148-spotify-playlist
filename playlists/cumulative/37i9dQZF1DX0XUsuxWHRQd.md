@@ -4,7 +4,7 @@
 
 > New music from Drake,  Offset and Young Nudy.
 
-2,304 songs - 4 day 23 hr 18 min
+2,305 songs - 4 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2237,6 +2237,7 @@
 | [Who Needs Love](https://open.spotify.com/track/2ShvTyfnjRWVjNB6vmu5Bb) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Who Needs Love](https://open.spotify.com/album/6RKEVbmRzJT6Ku8HJ4A7Kz) | 2:53 | 2020-04-03 | 2020-04-18 |
 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 | 2021-08-14 | 2021-09-11 |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2021-10-08 | 2022-01-20 |
+| [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 | 2025-02-20 |  |
 | [Whole Lotta Choppas](https://open.spotify.com/track/6hLZzCS4E7AWo3PRBWy6az) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Whole Lotta Choppas](https://open.spotify.com/album/5Yqrd9k0j2CSi8v3ffr7KU) | 2:33 | 2020-10-02 | 2020-10-09 |
 | [Whole Lotta Choppas \(Remix\) \[feat\. Nicki Minaj\]](https://open.spotify.com/track/1IlJZCRthVEPlksVzj3JWY) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Whole Lotta Choppas \(Remix\) \[feat\. Nicki Minaj\]](https://open.spotify.com/album/6xVP3wpk1yUu8X7zN9gzDW) | 2:53 | 2020-10-16 | 2020-11-06 |
 | [Whole Lotta Ice \(feat\. Lil Baby & Pooh Shiesty\)](https://open.spotify.com/track/14Lnl6x5G0xDKrkRRCzNq7) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Icy Boyz \(Deluxe\)](https://open.spotify.com/album/0YcS21XBKJP7tl7ILuvRH4) | 4:07 | 2021-10-20 | 2021-10-23 |

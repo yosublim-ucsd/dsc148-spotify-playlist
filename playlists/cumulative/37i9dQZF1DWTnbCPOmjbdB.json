@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Pawe\u0142 Domaga\u0142a",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Magda Bereda, Piotr Rubik",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 180000,
       "name": "Czym chata bogata",
       "url": "https://open.spotify.com/track/3Nq6FtmnrNz6zySzc3SMmh"
@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160213,
+      "name": "falochron",
+      "url": "https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf"
+    },
+    {
+      "album": {
         "name": "Falochrony",
         "url": "https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW"
       },
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 167890,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S"
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 205500,
       "name": "G\u0142upi Lovesong",
       "url": "https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 206846,
       "name": "Hej, nie m\u00f3wi\u0142am ci",
       "url": "https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj"
@@ -2357,6 +2375,28 @@
     },
     {
       "album": {
+        "name": "Jesieni\u0105 (M. Konopnicka)",
+        "url": "https://open.spotify.com/album/75RyLIs0lxuqFQMtZgebgl"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "PZLPiT \u201eMazowsze\u201d",
+          "url": "https://open.spotify.com/artist/0VjYtAt8AQzf7xNgJEUqd9"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Jesieni\u0105 (M. Konopnicka)",
+      "url": "https://open.spotify.com/track/3DWB0qQ01oq837yZSTkxUt"
+    },
+    {
+      "album": {
         "name": "key to my heart",
         "url": "https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ"
       },
@@ -2368,7 +2408,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 158999,
       "name": "key to my heart",
       "url": "https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245"
@@ -2444,7 +2484,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 286733,
       "name": "Kocha\u0142am Pana (A. Osiecka)",
       "url": "https://open.spotify.com/track/5NcnJxxtwAbT44962OU8tO"
@@ -3037,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Ma\u0142a ja",
+        "url": "https://open.spotify.com/album/2lwzDJbrqUBcXw1FGaGLI3"
+      },
+      "artists": [
+        {
+          "name": "Monika Kocio\u0142ek",
+          "url": "https://open.spotify.com/artist/2HRF1rQF94wr5xbwQmPfg8"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164881,
+      "name": "Ma\u0142a ja",
+      "url": "https://open.spotify.com/track/1VdfW4WwZAQdEYCMN1O7IL"
+    },
+    {
+      "album": {
         "name": "MIAMI VICE",
         "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
       },
@@ -3560,6 +3618,32 @@
       "duration_ms": 124422,
       "name": "na nowo",
       "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
+    },
+    {
+      "album": {
+        "name": "Na serio",
+        "url": "https://open.spotify.com/album/6xsSgudBMyYeb472R3lIcZ"
+      },
+      "artists": [
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Na serio",
+      "url": "https://open.spotify.com/track/4cZyfcaOma0bzqffllcVEC"
     },
     {
       "album": {
@@ -4227,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Notting Hill",
+        "url": "https://open.spotify.com/album/32WDD51h6TxwgEOJ3LSrCW"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165679,
+      "name": "Notting Hill",
+      "url": "https://open.spotify.com/track/6ujehISvIr8VAyYVwHyqMd"
+    },
+    {
+      "album": {
         "name": "O Tobie",
         "url": "https://open.spotify.com/album/1g3g9xJSP4SJljS28CYoYX"
       },
@@ -4594,7 +4696,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 195586,
       "name": "Piosenka (C. Mi\u0142osz)",
       "url": "https://open.spotify.com/track/2ESRqedcCznFGbHGDQw1PR"
@@ -5158,7 +5260,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 154782,
       "name": "Samoloty",
       "url": "https://open.spotify.com/track/43DaqWLc47k2qIsRSH9adR"
@@ -6075,6 +6177,28 @@
     },
     {
       "album": {
+        "name": "W blasku s\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/2eAQjaFraEPkB6u1zgSDa5"
+      },
+      "artists": [
+        {
+          "name": "Feel",
+          "url": "https://open.spotify.com/artist/4QgvuQGl8OtPaUpg492Jyz"
+        },
+        {
+          "name": "Damian Skoczyk",
+          "url": "https://open.spotify.com/artist/7EZFaIi6t8ZpeJgOyQURlg"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "W blasku s\u0142o\u0144ca",
+      "url": "https://open.spotify.com/track/4r43uk1VCa1DIIs8hyreUa"
+    },
+    {
+      "album": {
         "name": "W Moim Ogr\u00f3decku (feat. Diiya)",
         "url": "https://open.spotify.com/album/1yVzrlKCQeF826lTlP9E3W"
       },
@@ -6134,7 +6258,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 169655,
       "name": "WAS DW\u00d3CH",
       "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
@@ -6545,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "Za p\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T"
+      },
+      "artists": [
+        {
+          "name": "Ola K\u0119dra",
+          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Za p\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"
+    },
+    {
+      "album": {
         "name": "Za r\u0119k\u0119",
         "url": "https://open.spotify.com/album/4o1pv2gKtxVSaBqw3D1kC9"
       },
@@ -6617,6 +6759,32 @@
     },
     {
       "album": {
+        "name": "zanim spadnie deszcz",
+        "url": "https://open.spotify.com/album/2LGAoh4XlyCyBUsCp7rSVk"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188352,
+      "name": "zanim spadnie deszcz",
+      "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"
+    },
+    {
+      "album": {
         "name": "Zapominam Ci\u0119",
         "url": "https://open.spotify.com/album/0nhoihKHimrRLMddo2BJ3l"
       },
@@ -6672,6 +6840,28 @@
       "duration_ms": 144933,
       "name": "Zaufaj Mi",
       "url": "https://open.spotify.com/track/1sNuaeqLxISt725osuWHf2"
+    },
+    {
+      "album": {
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd"
     },
     {
       "album": {

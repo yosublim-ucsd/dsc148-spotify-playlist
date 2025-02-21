@@ -289,6 +289,28 @@
     },
     {
       "album": {
+        "name": "Adrenaline Assault",
+        "url": "https://open.spotify.com/album/58oz2hgvJH8qCC0hIIVSGg"
+      },
+      "artists": [
+        {
+          "name": "CARAVEL",
+          "url": "https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy"
+        },
+        {
+          "name": "K\u00f8zl\u00f8v",
+          "url": "https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Adrenaline Assault",
+      "url": "https://open.spotify.com/track/3ivjaY274FVZGORw7vHWe6"
+    },
+    {
+      "album": {
         "name": "LFO 1991",
         "url": "https://open.spotify.com/album/7ghClPxP2gu1CV2J1HdpIh"
       },
@@ -463,6 +485,28 @@
     },
     {
       "album": {
+        "name": "PRTY TRAX VA04",
+        "url": "https://open.spotify.com/album/6TpBOfE7dc2ZrEss9cfL6w"
+      },
+      "artists": [
+        {
+          "name": "DKEN",
+          "url": "https://open.spotify.com/artist/2hy5uH17eEnJjvs9VoC8tF"
+        },
+        {
+          "name": "PRTY TRAX",
+          "url": "https://open.spotify.com/artist/57MpUgmGA542Rj9LaK4Q5k"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328662,
+      "name": "Bass Down Low - VIP EDIT",
+      "url": "https://open.spotify.com/track/5V23te312rTkM4P5NIjy2h"
+    },
+    {
+      "album": {
         "name": "Bass Fusion",
         "url": "https://open.spotify.com/album/1BUpher2MWbZxUW0A0FvZ5"
       },
@@ -579,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Beat Your Brain",
+        "url": "https://open.spotify.com/album/54oQEdu6hCPP4RY7am5pfy"
+      },
+      "artists": [
+        {
+          "name": "Noise Not War",
+          "url": "https://open.spotify.com/artist/5M50PhU7eSL7ZYStP0dCgc"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303797,
+      "name": "Beat You Back",
+      "url": "https://open.spotify.com/track/7jimEAzNqEwvTzMimn5SO6"
+    },
+    {
+      "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/5G4Qhpn0a1Og8JBXvNOFn5"
       },
@@ -680,7 +742,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 267337,
       "name": "Bust Like",
       "url": "https://open.spotify.com/track/5JumryayTGcKfLmqZxyvNL"
@@ -864,7 +926,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 349651,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/03xHRqp7DeDaOQbuuHLtKL"
@@ -886,6 +948,24 @@
       "duration_ms": 396486,
       "name": "Dancefloor Murderer",
       "url": "https://open.spotify.com/track/3LHmB1ZhQFcAxtwkhmg1Hr"
+    },
+    {
+      "album": {
+        "name": "DARK SERENADE",
+        "url": "https://open.spotify.com/album/0L1BeT3QKAkg2hXTDEUuV2"
+      },
+      "artists": [
+        {
+          "name": "Brojski",
+          "url": "https://open.spotify.com/artist/2tUSUGv0ZpwocUR8wOeN3F"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267112,
+      "name": "DARK SERENADE",
+      "url": "https://open.spotify.com/track/7KU6HWZDKc1kpcgNyP9gcB"
     },
     {
       "album": {
@@ -979,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/20xPss2CChhr4B4OfwjdaA"
+      },
+      "artists": [
+        {
+          "name": "Fin Carroll",
+          "url": "https://open.spotify.com/artist/5rTMtXlb3xw0Y2ISoVqPb0"
+        },
+        {
+          "name": "PRTY TRAX",
+          "url": "https://open.spotify.com/artist/57MpUgmGA542Rj9LaK4Q5k"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Disco Freak",
+      "url": "https://open.spotify.com/track/5PrsU9E43OolWI4b3AFj2b"
+    },
+    {
+      "album": {
         "name": "100th Release",
         "url": "https://open.spotify.com/album/0JBPwa5yvwZjfOq6V0FNCs"
       },
@@ -1026,7 +1128,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 360000,
       "name": "Donde Vas - Original Mix",
       "url": "https://open.spotify.com/track/3SJq5TjZOB01Q1nG2bzAYO"
@@ -1066,6 +1168,24 @@
       "duration_ms": 213693,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/6KJt0MTAD57CjtZ4ID7x2e"
+    },
+    {
+      "album": {
+        "name": "Drop The Bomb",
+        "url": "https://open.spotify.com/album/3IRRAFyipSTImCPZqzcXi3"
+      },
+      "artists": [
+        {
+          "name": "Ed E.T",
+          "url": "https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232649,
+      "name": "Drop The Bomb",
+      "url": "https://open.spotify.com/track/0NEDXilwQgT0ktuyiSaYCH"
     },
     {
       "album": {
@@ -1252,7 +1372,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 355219,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/04WmuTRtMPefQfsq3WclJk"
@@ -1292,6 +1412,24 @@
       "duration_ms": 369250,
       "name": "Feet Down",
       "url": "https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/3tSWoJ2B2XuvqO6FnpuJP8"
+      },
+      "artists": [
+        {
+          "name": "TETCHKO",
+          "url": "https://open.spotify.com/artist/1YiyHdTRrUF9f9UjkjZHYG"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303896,
+      "name": "Fixated - Original Mix",
+      "url": "https://open.spotify.com/track/6uMdf5PRIRHzBtD7wGTNXT"
     },
     {
       "album": {
@@ -1384,7 +1522,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 207631,
       "name": "Fuck This",
       "url": "https://open.spotify.com/track/5n0vqFI5YWoJlYAcZRWYus"
@@ -1677,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Verknipt EP 001",
+        "url": "https://open.spotify.com/album/2SnP1wPQGtnllRdJgYNDp4"
+      },
+      "artists": [
+        {
+          "name": "VIDO",
+          "url": "https://open.spotify.com/artist/28DVBoEuAN6d6D6u83v2JP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263254,
+      "name": "Hear The Crowd",
+      "url": "https://open.spotify.com/track/1FXuXudxGXROiALSv4swl0"
+    },
+    {
+      "album": {
         "name": "Heavy Bastard",
         "url": "https://open.spotify.com/album/5R4GkJOe38qYwZn7FliPyo"
       },
@@ -1884,7 +2040,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
@@ -2043,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Knock Down",
+        "url": "https://open.spotify.com/album/64QSmO8feWEKRIjQHlgLNe"
+      },
+      "artists": [
+        {
+          "name": "Denis Dekay",
+          "url": "https://open.spotify.com/artist/3bJNAzLC9MAaAScBx7WSDh"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377806,
+      "name": "Knock Down",
+      "url": "https://open.spotify.com/track/4lLP9DZk1K6PByTKB4XAzh"
+    },
+    {
+      "album": {
         "name": "Antracita / Konfi",
         "url": "https://open.spotify.com/album/73jheVoPdI0wR3HnL2Cz29"
       },
@@ -2079,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "Lose Their Shit (feat. Dottychu)",
+        "url": "https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs"
+      },
+      "artists": [
+        {
+          "name": "Per Pleks",
+          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+        },
+        {
+          "name": "Dottychu",
+          "url": "https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195096,
+      "name": "Lose Their Shit",
+      "url": "https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp"
+    },
+    {
+      "album": {
         "name": "Lost In Bliss",
         "url": "https://open.spotify.com/album/0F17CLPTmc1rqhqrmipryG"
       },
@@ -2090,7 +2286,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 328258,
       "name": "Lost In Bliss",
       "url": "https://open.spotify.com/track/4ebKHrtRfaY71EKJuplo4V"
@@ -2620,7 +2816,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 369529,
       "name": "PLAY THAT BEAT",
       "url": "https://open.spotify.com/track/70pdJskP80xUdXe60dgEgt"
@@ -2638,7 +2834,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 318100,
       "name": "Public Disorder",
       "url": "https://open.spotify.com/track/35t8CH8DZEfKq6qTQdKV6v"
@@ -2901,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/52IjCw7lIK32bQC8Japf3C"
+      },
+      "artists": [
+        {
+          "name": "Neika",
+          "url": "https://open.spotify.com/artist/68FFgnelfY75QdZ6RmctYh"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246343,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6q4pS9nzcfAmzunqaEi83T"
+    },
+    {
+      "album": {
         "name": "OXYMORON",
         "url": "https://open.spotify.com/album/0940iyH0aCGmlsgsqK150G"
       },
@@ -3125,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Stay Silent",
+        "url": "https://open.spotify.com/album/5B8ovcLFevH2ZjuxuSqFKM"
+      },
+      "artists": [
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279683,
+      "name": "Stay Silent",
+      "url": "https://open.spotify.com/track/5e2Ytf3yHdpt5qwnNm1UJN"
+    },
+    {
+      "album": {
         "name": "Strange Signal",
         "url": "https://open.spotify.com/album/1hTJ4DAstuoOfgmxrLkKK5"
       },
@@ -3140,6 +3372,60 @@
       "duration_ms": 373640,
       "name": "Strange Signal",
       "url": "https://open.spotify.com/track/408qjgbZbNWtPUXGhltRTs"
+    },
+    {
+      "album": {
+        "name": "Strobo",
+        "url": "https://open.spotify.com/album/03Hcrm3ZWhkudK4tggdiWV"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362517,
+      "name": "Strobo",
+      "url": "https://open.spotify.com/track/3jdQiVH3Ru49VAuheQvFNh"
+    },
+    {
+      "album": {
+        "name": "Various Artists",
+        "url": "https://open.spotify.com/album/5NHnW8eie1zk5oqEykVuxv"
+      },
+      "artists": [
+        {
+          "name": "Paul Clark (UK)",
+          "url": "https://open.spotify.com/artist/2SujbRsm0pOJh0WFvro7Am"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312100,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7rhEN0e529PaByVP13VQpu"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6enL1kUIotH0vvPrKNic9O"
+      },
+      "artists": [
+        {
+          "name": "Remon Verhoeve",
+          "url": "https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318092,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/2PhoMk7pCIZViqxugfE6n8"
     },
     {
       "album": {
@@ -3248,7 +3534,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 259285,
       "name": "Techno Pulse",
       "url": "https://open.spotify.com/track/49roZ37xDFV816vld5lEwr"
@@ -3320,7 +3606,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 343076,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/2uNozhgce16uz5GiXTgh3C"
@@ -3476,7 +3762,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 382451,
       "name": "Unleashed",
       "url": "https://open.spotify.com/track/1PdZY6wSm51e7q2eiM6nxr"
@@ -3632,7 +3918,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 272410,
       "name": "WTF",
       "url": "https://open.spotify.com/track/6lVbBVrQfYCuvuV0RSMcuT"

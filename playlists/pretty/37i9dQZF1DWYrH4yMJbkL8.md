@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by The Halluci Nation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,132 likes - 26 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,140 likes - 26 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 25 | [What It Feels Like](https://open.spotify.com/track/175fkO7dreHWUhXwlj1zJ3) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [T3](https://open.spotify.com/artist/6nexll1N7zdWE1BTdHcGnz), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw) | [Mellow Fantasy](https://open.spotify.com/album/1viqOqmdYpSlerqzHi624d) | 3:34 |
 | 26 | [D&B CUMBIA ID004\-24](https://open.spotify.com/track/2hwilZ55nKEruhDFq5TsAU) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [D&B CUMBIA ID004\-24](https://open.spotify.com/album/0NN36l6BwyGoxgiTb7ZaHc) | 3:46 |
 
-Snapshot ID: `Z6WTbgAAAABANGS46aQCAFiYkAdf5s/9`
+Snapshot ID: `Z6WTbgAAAACS27o1udXIYcOokGfbArLH`

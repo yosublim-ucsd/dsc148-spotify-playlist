@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Yves Jarvis, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,286 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,312 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Dishonest](https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Dishonest](https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN) | 3:08 |
 | 50 | [Afterglow](https://open.spotify.com/track/3jexuSVo2BdY8AfPdzPj5m) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Afterglow](https://open.spotify.com/album/7vQNfOsfFCWzkM0ZXOJzp0) | 4:32 |
 
-Snapshot ID: `Z7YYkAAAAADR6iqtaC/ydjL2S+j54R83`
+Snapshot ID: `Z7YYkAAAAAB226TD51vcPfyHjaVDqTqA`

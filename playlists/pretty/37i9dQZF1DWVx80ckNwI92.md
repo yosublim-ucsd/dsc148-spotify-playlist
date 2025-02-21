@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > Your Valentine's Day mood, curated by <a href="https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM?si=XDeBPayCSFu6vkJt0zpjig">Muneyi</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,151 likes - 35 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,187 likes - 35 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 34 | [Wozobloma](https://open.spotify.com/track/1iyF9PF3vRFqJ3OWFCE1wZ) | [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi) | [Wozobloma](https://open.spotify.com/album/7sCOp9WPtBbKMxFjOvfhSr) | 4:05 |
 | 35 | [Manhã De Luto \(For Fidel\)](https://open.spotify.com/track/7mUVuGQXV3DtM9grTTydXY) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Manhã De Luto \(For Fidel\)](https://open.spotify.com/album/5yaiN0jQZPaF5MZ5nk67hX) | 2:38 |
 
-Snapshot ID: `Z67ocAAAAAC12+N3hCLgA29fgd1YCV9L`
+Snapshot ID: `Z67ocAAAAACNn73FKzfQwRXtvjC6VqHI`

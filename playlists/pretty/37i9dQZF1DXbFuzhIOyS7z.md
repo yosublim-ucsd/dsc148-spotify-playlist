@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,186 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,209 likes - 40 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [さよならプリズナー](https://open.spotify.com/track/60VBYRCuKUlf5S1Bj6JbqX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [girls like girls](https://open.spotify.com/album/4IFc7bAFv7viImQSB2v0Gt) | 4:32 |
 | 40 | [朝を待つ](https://open.spotify.com/track/5pzlLcTYcj6uPy7eCgrLQC) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Melody](https://open.spotify.com/album/3SSp2LssOG3BYwrI3skaSN) | 6:16 |
 
-Snapshot ID: `Z7XyDAAAAABmsIynLtDUlNy5wQ9DZfpV`
+Snapshot ID: `Z7XyDAAAAABQEaRI8DV0KIEQxpWWRc3o`

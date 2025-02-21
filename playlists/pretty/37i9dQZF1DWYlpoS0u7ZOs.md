@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: The Pill
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,689 likes - 93 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,693 likes - 93 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 92 | [MELANCHOLIA](https://open.spotify.com/track/38IWcchmapmGxnObgwSOEj) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [MELANCHOLIA](https://open.spotify.com/album/4tUCkpJ4tPL2uU4Aj5uEtA) | 3:27 |
 | 93 | [Somebody Somewhere](https://open.spotify.com/track/5RJBFUWQoajt56OF4EcETJ) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [Somebody Somewhere](https://open.spotify.com/album/6CPudp2RNN8C2503wCUowK) | 3:33 |
 
-Snapshot ID: `Z6XwuAAAAABmocZRMt6H//HxpZUiThgv`
+Snapshot ID: `Z6XwuAAAAABq++BNMbF7L53u0P/CF0Rv`

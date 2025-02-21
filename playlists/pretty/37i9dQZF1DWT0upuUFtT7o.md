@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Cdubz
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,095 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,202 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 109 | [Albert Bridge](https://open.spotify.com/track/5kaNs08Z9YOzKt3bjtpPk4) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [Anchor Chains, Plane Motors & Train Whistles](https://open.spotify.com/album/5Vxzdz6KfDpaOBm2e4a3wu) | 2:06 |
 | 110 | [If You Ever](https://open.spotify.com/track/2BRHeKxDbaqsdbR6uYUQH6) | [Alma Elste](https://open.spotify.com/artist/1AqdDGLCb1oBkwvQOYTrDP) | [If You Ever](https://open.spotify.com/album/4auzSLlpzJIuq9oCNncodQ) | 4:00 |
 
-Snapshot ID: `Z7Y8jgAAAAAlD26sq481iIQHdq2CWG59`
+Snapshot ID: `Z7Y8jgAAAACFEtwm1ECX8yxCAX9BRF0u`

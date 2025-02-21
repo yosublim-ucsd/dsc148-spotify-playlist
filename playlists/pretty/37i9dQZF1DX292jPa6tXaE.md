@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: UV
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,976 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Chownk](https://open.spotify.com/track/1MikacOahcH5dwkkYI2ClE) | [Safar](https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f) | [Chownk](https://open.spotify.com/album/27pbWn4HyvgOeOehldDTZk) | 2:56 |
 | 50 | [Joda Jhanjran Da](https://open.spotify.com/track/6uuBo8Iap9ujmkae1Bken5) | [Gagan Kocher](https://open.spotify.com/artist/47hIh07ut6su9DCdDs28EM) | [Joda Jhanjran Da](https://open.spotify.com/album/5XkT9XpMNbAyFSOA8ZgiGX) | 2:38 |
 
-Snapshot ID: `Z7WeLgAAAADxGwB6wjxd+dab2EUWK50M`
+Snapshot ID: `Z7WeLgAAAADiZLBAMyQTUAVjcIarvsIK`

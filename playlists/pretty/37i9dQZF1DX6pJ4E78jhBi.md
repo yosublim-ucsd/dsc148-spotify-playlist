@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,446 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,425 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 40 | [O Christmas Tree Reimagined](https://open.spotify.com/track/0p3f3jjSdgnKmBvBpNUzMv) | [Ernst Anschütz](https://open.spotify.com/artist/2BjFbg9VxtzEUZuCQwmaxo), [Tree Hands](https://open.spotify.com/artist/67IIado6qhaXmmjGmH4hvJ) | [Gabriel](https://open.spotify.com/album/1V2aUpfOxwPzbYjvn3zh0F) | 2:43 |
 | 41 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 |
 | 42 | [O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\)](https://open.spotify.com/track/74u9Z0LqZHsjIjLn8whyjx) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Traditional: O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\) \[Musical Moments\]](https://open.spotify.com/album/1Fpts6LEM50PmN9UV1Dc5S) | 3:51 |
-| 43 | [Silent Night \(Arr\. Gjeilo\)](https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter Songs](https://open.spotify.com/album/2jFBT3xeFTFExf0p7nZPT6) | 3:46 |
+| 43 | [Silent Night \(Arr\. Gjeilo for Piano\)](https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter Songs](https://open.spotify.com/album/2jFBT3xeFTFExf0p7nZPT6) | 3:46 |
 | 44 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1qXc4y3UMJeAaSjBnXdPos) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Leonardo Lucero](https://open.spotify.com/artist/0RmoXT2viR9SdWDQznufRE) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/73NbCZ1FCzXKpozFfpcOSd) | 1:53 |
 | 45 | [In Dulci Jubilo](https://open.spotify.com/track/5Al7jcNFVr6sPXmO2jZpjX) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [In Dulci Jubilo](https://open.spotify.com/album/6g98k09O6i2x5RDn4hOPWQ) | 3:39 |
 | 46 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 79 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
 | 80 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 
-Snapshot ID: `Z2lb8wAAAABNUO9cNInshNw+B4s/CKA5`
+Snapshot ID: `Z2lb8wAAAABLiM3gA+pwL1CZ5Mvg4V/O`

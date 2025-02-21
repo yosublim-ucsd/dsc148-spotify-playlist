@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,155 likes - 86 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,193 likes - 86 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 85 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/4dffNnFwOuPC11Lka8tJnW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove](https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ) | 3:34 |
 | 86 | [Enemy](https://open.spotify.com/track/3nJbKOd5abaPWCfBlshuO7) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 2:50 |
 
-Snapshot ID: `Z6607wAAAADxJa6QGcNLVjb8jTOYnAOB`
+Snapshot ID: `Z6607wAAAAB4kGCSnFCiQwuwqNgsNQCw`

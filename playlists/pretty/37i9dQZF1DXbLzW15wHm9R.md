@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Babygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,586 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,568 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 49 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 50 | [So Cold](https://open.spotify.com/track/6u0hAAm6FNykukqrnglyrF) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [So Cold](https://open.spotify.com/album/2kTCDrMzts2IAoEGv6CAZq) | 2:41 |
 
-Snapshot ID: `Z4nkDAAAAAAd6nOcOgxSjID3RCJYOpDU`
+Snapshot ID: `Z4nkDAAAAAB1bGlpIPiYFidMu8zlcSU6`

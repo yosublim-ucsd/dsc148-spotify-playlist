@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,702,527 likes - 208 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,703,144 likes - 208 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 207 | [for you](https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [for you](https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS) | 2:54 |
 | 208 | [Sunrise](https://open.spotify.com/track/4W4kAu3nU0Zp8WH7owpjbn) | [Moises Daniel](https://open.spotify.com/artist/2Us8yrg0LpTXcp6KNfhSKL), [Cristian Vivaldi](https://open.spotify.com/artist/3SVGtGLA9kap5qlxX4WyBb) | [Sunrise](https://open.spotify.com/album/6S2rNFHmusMfzbibhyDXrb) | 2:01 |
 
-Snapshot ID: `Z7YRqAAAAAAF6LXOwIdcPPwUXKo3UTuj`
+Snapshot ID: `Z7YRqAAAAABAuj6bCE1mJDHkQ/LctAGu`

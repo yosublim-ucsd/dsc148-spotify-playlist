@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 345765,
+  "num_followers": 345843,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6pYHwAAAADfHD8O0DoGwAm3T8drVrtA",
+  "snapshot_id": "Z6pYHwAAAACRCDfijhYa5QwQp4/ZGqiH",
   "tracks": [
     {
       "added_at": "2025-02-10 19:48:47",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "PUMPED UP KICKS",
-        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
-      },
-      "artists": [
-        {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "PUMPED UP KICKS",
-      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Terapunk",
         "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238590,
       "name": "Many Thanks",
       "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "PUMPED UP KICKS",
+        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "PUMPED UP KICKS",
+      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Merchant of the Void",
-        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
-      },
-      "artists": [
-        {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 212814,
-      "name": "Merchant of the Void",
-      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Omen X",
         "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 302640,
       "name": "Headhunter V1.0",
       "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
     },
     {
       "added_at": "2025-02-10 19:48:47",

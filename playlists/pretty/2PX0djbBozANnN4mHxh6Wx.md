@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[Fruitman](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 16,945 likes - 543 songs - 1 day 8 hr 39 min
+[Fruitman](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 16,944 likes - 543 songs - 1 day 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

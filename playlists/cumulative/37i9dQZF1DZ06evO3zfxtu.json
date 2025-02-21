@@ -1748,6 +1748,28 @@
     {
       "album": {
         "name": "Space Jungle (Showtek Edit)",
+        "url": "https://open.spotify.com/album/3ndOWDTbHuL1nJsTdzFGTQ"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Space Jungle - Showtek Edit",
+      "url": "https://open.spotify.com/track/2IC86yi2gNJukL4A8P9BkB"
+    },
+    {
+      "album": {
+        "name": "Space Jungle (Showtek Edit)",
         "url": "https://open.spotify.com/album/1XiOHQc9G2fWuhZ2XtSPDB"
       },
       "artists": [
@@ -1762,7 +1784,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 315000,
       "name": "Space Jungle - Showtek Edit",
       "url": "https://open.spotify.com/track/6e19Uxcna7oPqqo0FYYxHY"

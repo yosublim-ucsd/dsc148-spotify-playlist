@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 12 | [Rhythm Of Life \- 1969 Motion Picture Soundtrack](https://open.spotify.com/track/6bzQsXP6h32qMTTfm2t9lD) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Dorothy Fields](https://open.spotify.com/artist/3nN1h30sPPiYW2DxRCdeQ1), [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Joseph Gershenson](https://open.spotify.com/artist/6uoevoVvSe6CME0ESVSzuV) | [Sweet Charity](https://open.spotify.com/album/3FgYqc3QawZLZW3JuZsHXw) | 3:53 |
 | 13 | [Zenophile](https://open.spotify.com/track/3jEq5wdDxv0EK1I8HH24LO) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:10 |
 | 14 | [Rich Man's Frug](https://open.spotify.com/track/6yAQwGdje2w3SvDNmMFfvV) | [Fosse Ensemble](https://open.spotify.com/artist/4B4CWMfBiIeLcXZaEko9iS) | [Fosse \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5CPeU2H0BhLOowigxlAYUU) | 3:38 |
-| 15 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 |
-| 16 | [Baby Dream Your Dream](https://open.spotify.com/track/1sEY6wuPDneYXTS9xLzQsg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/1uD9FC7PbIPI2TAj82JYlI) | 3:35 |
+| 15 | [Baby Dream Your Dream](https://open.spotify.com/track/1sEY6wuPDneYXTS9xLzQsg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/1uD9FC7PbIPI2TAj82JYlI) | 3:35 |
+| 16 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 |
 | 17 | [April Fooled Me](https://open.spotify.com/track/5mQrITejERpSEWTAvbdUmf) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 3:51 |
 | 18 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
 | 19 | [Lovely To Look At](https://open.spotify.com/track/2H0ktBNfFXSTJGOg8yPinH) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 3:26 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Pink Taffeta Sample Size 10](https://open.spotify.com/track/7xm3CNFW6dOfLdZIT8myJu) | [Sylvia Syms](https://open.spotify.com/artist/3U3Pzj2ZtG3hOSd4iDaqsT) | [Lovingly](https://open.spotify.com/album/4VppiWo9CeOdL26mEdsdHH) | 4:13 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:23 |
 
-Snapshot ID: `AbqCdwAAAACAqWcoqtMVyjSCbtGMYaGm`
+Snapshot ID: `AbqIUgAAAABxomKxW7x9gVmv8ci5fPRm`

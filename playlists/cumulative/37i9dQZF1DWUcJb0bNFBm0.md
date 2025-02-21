@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: AprilBlue\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: Milledenials\)
 
-183 songs - 12 hr 38 min
+189 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Heavenor](https://open.spotify.com/track/3NN8f1yC1YCNEXAhntvqG1) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [Heavenor](https://open.spotify.com/album/2VW8BV2LYKInUbtzyZC0pU) | 3:01 | 2024-06-27 | 2024-12-05 |
 | [Hera](https://open.spotify.com/track/0SWIe55gZYfLpoPqkEMvsu) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Hera/Fading Out](https://open.spotify.com/album/3Ms1JgQ155qjzFbgq2NzFR) | 3:20 | 2025-01-23 |  |
 | [Here I Stand](https://open.spotify.com/track/36v2DCsj4nP3KFsKlBdB5H) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 6:50 | 2024-06-27 | 2024-12-05 |
-| [Hollow](https://open.spotify.com/track/7ePcJlMECsg1E8shavyNBO) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ), [Raissa Faranda](https://open.spotify.com/artist/1UepCtrKXPvnkqbanWnw5R) | [Hollow / Buried](https://open.spotify.com/album/73RGFNSjy0xXEycwgIpwo4) | 5:46 | 2024-06-27 |  |
+| [Hollow](https://open.spotify.com/track/7ePcJlMECsg1E8shavyNBO) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ), [Raissa Faranda](https://open.spotify.com/artist/1UepCtrKXPvnkqbanWnw5R) | [Hollow / Buried](https://open.spotify.com/album/73RGFNSjy0xXEycwgIpwo4) | 5:46 | 2024-06-27 | 2025-02-21 |
 | [Home](https://open.spotify.com/track/3KH7uTsH53MNReg0xtMVAT) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Home](https://open.spotify.com/album/0KWcS368MdPtgQlImvyY7k) | 4:57 | 2024-06-27 |  |
 | [Hotel 65](https://open.spotify.com/track/1ArVwoOXyoO9merCqj1l3o) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Lucid Express](https://open.spotify.com/album/26l2DqvJYfGDLaCgPGJ8XN) | 4:24 | 2024-06-27 | 2024-12-05 |
 | [Hujan](https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw) | [Marie Joe](https://open.spotify.com/artist/0wSlT3IFLD14xMCX7VbVCx) | [Hujan](https://open.spotify.com/album/4siflbZ24qkhsQaza9CdRz) | 3:46 | 2024-06-27 | 2024-12-05 |
@@ -75,7 +75,7 @@
 | [In Motion](https://open.spotify.com/track/66Lw5v5MQQtV4Fy7GIQR63) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [In Motion](https://open.spotify.com/album/4Y6DGBMiczxvUtPpG9UEj6) | 5:14 | 2025-01-16 |  |
 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/54o61nZtHnVCnPLtI8B0Cf) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 | 2024-10-10 | 2024-12-05 |
 | [In the End of the World \(I Love You\)](https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\)](https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S) | 3:40 | 2025-01-16 |  |
-| [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 |  |
+| [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 | 2025-02-21 |
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 | 2024-11-08 |
 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 | 2024-10-11 |
 | [Jam Besuk](https://open.spotify.com/track/5Ii4yocie87LCUFIP5HOIK) | [Mafia Pemantik Qolbu](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Jam Besuk](https://open.spotify.com/album/0sENhyCzYjVc5FVAQzRpmX) | 3:53 | 2024-10-10 | 2024-12-05 |
@@ -106,6 +106,7 @@
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-06-27 |  |
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-06-27 | 2024-12-05 |
 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 | 2024-12-04 |  |
+| [My Heart Feels So Sad](https://open.spotify.com/track/6Q2E6GaQgZrqQye7yC9mW2) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [My Heart Feels So Sad](https://open.spotify.com/album/3EMWdATBJndDFqZClmd5kP) | 5:27 | 2025-02-20 |  |
 | [n e a r](https://open.spotify.com/track/224stW1Dr20xqS0HSq6NVL) | [The Earth Earth](https://open.spotify.com/artist/4dbb5ZNqbO2NW0JeFYjvSj) | [n e a r](https://open.spotify.com/album/7k28zino1r6GZ6b3p6j6fH) | 6:03 | 2024-06-27 | 2024-08-09 |
 | [Nanjung](https://open.spotify.com/track/4cpFpsTAoS1EgV5ztYtVTu) | [Ingar](https://open.spotify.com/artist/4GFcXWDJ60btiDRJ332luR) | [Nanjung](https://open.spotify.com/album/4qGR6mTKJqZ0oqUkDqVSTC) | 4:18 | 2024-06-27 |  |
 | [Never Forget](https://open.spotify.com/track/60OeY7NzwVLBaQm8sGnad9) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Never Forget](https://open.spotify.com/album/56ZEqUHU1HvBoN3oOxF4Sq) | 4:07 | 2024-09-26 | 2024-12-05 |
@@ -116,6 +117,7 @@
 | [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-06-27 | 2025-02-08 |
 | [Nothing And Everything](https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/47gPq3W3W8PD0namaGWmtC) | 5:45 | 2024-06-27 | 2024-12-05 |
 | [Nothing And Everything](https://open.spotify.com/track/3mWylfjxLhqVXtgeIP8OWk) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/6r9f8YrvgPf06yW7n6EWMl) | 5:45 | 2024-12-04 |  |
+| [Nothing but strange](https://open.spotify.com/track/40i8O5LY3C9qCBunrHd8X1) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Nothing but strange](https://open.spotify.com/album/5sk57jXyi2sUlcBLOJWha0) | 3:49 | 2025-02-20 |  |
 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-06-27 |  |
 | [Ocean Song](https://open.spotify.com/track/5BdN7AYSSSsAZvob5jA1wZ) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Catflap](https://open.spotify.com/album/5BdtL5nKzSEgRrdXqOFTqa) | 3:04 | 2024-11-07 | 2024-12-05 |
 | [One day, the sky that I stood still and looked at while walking on the crosswalk in front of Dunchon\-dong Station](https://open.spotify.com/track/6b97W8MSTHi58KAqZPUi4V) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 6:32 | 2024-06-27 |  |
@@ -141,6 +143,7 @@
 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 | 2024-06-27 | 2024-10-11 |
 | [Runaway](https://open.spotify.com/track/6izvABDCV72LltDtObbvDw) | [SHIMMER SHRIMPMER](https://open.spotify.com/artist/5B7i15EPohPeNKNVLVjiaQ) | [Runaway](https://open.spotify.com/album/03UecZcOqMePoExqhAMZoH) | 4:40 | 2024-06-27 |  |
 | [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車 \(Railway Suicide Train\)](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 |  |
+| [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Selfless Love](https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7) | [dansa med dig](https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1) | [Selfless Love](https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM) | 3:46 | 2024-10-10 | 2024-12-05 |
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 | 2024-12-05 |
 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 | 2024-08-15 | 2024-12-05 |
@@ -149,6 +152,7 @@
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 |  |
 | [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 |  |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 | 2025-02-08 |
+| [someday we'll live in the sky](https://open.spotify.com/track/3mOFyiRlgcaxMyEdJfQLNO) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [someday we'll live in the sky](https://open.spotify.com/album/5la6f9KZoB8XRn8BYO49FN) | 2:17 | 2025-02-20 |  |
 | [Sometimes](https://open.spotify.com/track/5cTPib9wffQwW6KEgldFBI) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Sometimes](https://open.spotify.com/album/6z1B90KXtwR4iG1JgjQ3KS) | 3:11 | 2024-06-27 |  |
 | [stay away go!](https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [Internet Teenage Lover](https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK) | 4:34 | 2024-06-27 | 2024-08-31 |
 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2024-12-04 |  |
@@ -174,10 +178,12 @@
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 | 2024-08-09 |
 | [Whiteout](https://open.spotify.com/track/20VHVwnyan4eSTq4zYgRi5) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Whiteout](https://open.spotify.com/album/1xySdt3n5nPbTH5pUH5Ms8) | 3:13 | 2024-09-13 | 2024-12-05 |
 | [Why](https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Coming Up Roses](https://open.spotify.com/album/2r3PtUTGT3h6QmnrDSJo6X) | 5:51 | 2024-06-27 |  |
+| [YOU](https://open.spotify.com/track/0cTZIkgDheJ2UGmGnGUiJy) | [Kuyuru](https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52) | [Lovescape](https://open.spotify.com/album/5poyzhkEYno6a9thyFxM65) | 3:12 | 2025-02-20 |  |
 | [You Forgot to Say Goodbye](https://open.spotify.com/track/6BpoU69LfJNhtyk8GmsT8b) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [You Forgot to Say Goodbye](https://open.spotify.com/album/5YjWTbdpSLiB1LQRk3CN5z) | 5:26 | 2024-06-27 |  |
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 |  |
 | [ฉันเสียใจจริงๆ](https://open.spotify.com/track/4dx3VM88XTEsyGrQ3Fd0Ww) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฉันเสียใจจริงๆ](https://open.spotify.com/album/3JZz45zKlVzdsXgBnD97Sj) | 3:48 | 2024-06-27 |  |
 | [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2024-06-27 | 2024-12-05 |
+| [⁠“THE\_MORE,the\_less” \(Enola ver.\)](https://open.spotify.com/track/79C6clV5dEqCgDVjVxuPxV) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [so:LOUD+MORE,less](https://open.spotify.com/album/1EvTyK5ZbKakkCdCPdXKnE) | 12:04 | 2025-02-20 |  |
 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 | 2025-01-16 | 2025-02-08 |
 | [さざめく麦わら](https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2) | [Happy Ever After](https://open.spotify.com/artist/1zbiJz0qV0zYZCXvNRECga) | [Total Feedback 2024](https://open.spotify.com/album/2Dgvi6e7y44CSRXwiURRg2) | 2:33 | 2024-06-27 | 2024-10-11 |
 | [ひらいて](https://open.spotify.com/track/3X4U5HF411RAU1MOteMbG8) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [yura](https://open.spotify.com/album/6DCKEaArrhu5mdwr5e8vgY) | 4:09 | 2025-02-07 |  |

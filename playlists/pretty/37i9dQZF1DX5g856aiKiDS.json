@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 500292,
+  "num_followers": 500381,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6RsgwAAAACDRc3COrNUrwtLgdcMFy5b",
+  "snapshot_id": "Z6RsgwAAAADzYTA1473gumtsZgrno0v/",
   "tracks": [
     {
       "added_at": "2025-02-06 08:02:11",
@@ -723,22 +723,18 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "Cold Hands",
+        "url": "https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 210158,
-      "name": "Jenga (feat. Gaeko)",
-      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+      "duration_ms": 194108,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -767,18 +763,22 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "Cold Hands",
-        "url": "https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo"
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
       "artists": [
         {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 194108,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
+      "duration_ms": 210158,
+      "name": "Jenga (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
     },
     {
       "added_at": "2025-02-06 08:02:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Lenny Monsou
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,760 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,753 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 64 | [Final Wave](https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Final Wave](https://open.spotify.com/album/2ts4A1dtMnCtrb3JnEA1YB) | 3:52 |
 | 65 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
 
-Snapshot ID: `Z7M5bwAAAABrJw7x+hrTgPLZBLNKDbB0`
+Snapshot ID: `Z7M5bwAAAACxGB32W/5PT/0YUhyvhPY8`

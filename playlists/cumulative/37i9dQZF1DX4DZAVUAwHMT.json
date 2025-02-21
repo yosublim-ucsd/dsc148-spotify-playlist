@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: The Amazons",
+  "description": "The UK's biggest rock playlist. Cover: Fontaines D.C.",
   "name": "The Rock List",
   "tracks": [
     {
@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "A Distant Life",
+        "url": "https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160080,
+      "name": "A Distant Life",
+      "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
+    },
+    {
+      "album": {
         "name": "A Feeling",
         "url": "https://open.spotify.com/album/1sABhF8EK5cn1ErlTOD48M"
       },
@@ -644,6 +662,24 @@
       "duration_ms": 222773,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0sRbn7fYmXVTBdQocJk5Xc"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198961,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm"
     },
     {
       "album": {
@@ -1210,6 +1246,24 @@
       "duration_ms": 215929,
       "name": "Are You Ready Now?",
       "url": "https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7"
+    },
+    {
+      "album": {
+        "name": "Ariel",
+        "url": "https://open.spotify.com/album/4v6ChdlO0j6hhBSr321FpE"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322146,
+      "name": "Ariel",
+      "url": "https://open.spotify.com/track/0n1lGgQqkx54zXlqd3Mxir"
     },
     {
       "album": {
@@ -2024,7 +2078,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 205352,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ"
@@ -3106,7 +3160,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 181885,
       "name": "Conspiracy",
       "url": "https://open.spotify.com/track/61U06GAY7jeJmWzJc5dLH9"
@@ -3644,7 +3698,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 339413,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o"
@@ -4838,6 +4892,24 @@
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
+    },
+    {
+      "album": {
+        "name": "For The Plot",
+        "url": "https://open.spotify.com/album/438uLf4EXbMY4obUmurvQK"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "For The Plot",
+      "url": "https://open.spotify.com/track/5cTsAVfMDQxjL6qt7k9ijR"
     },
     {
       "album": {
@@ -6842,7 +6914,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 175190,
       "name": "I'm With The Band (feat. Beck)",
       "url": "https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS"
@@ -7066,6 +7138,24 @@
       "duration_ms": 207808,
       "name": "It Won't Be Like This Forever",
       "url": "https://open.spotify.com/track/748NBl59GV0pfENbadjSxE"
+    },
+    {
+      "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     },
     {
       "album": {
@@ -7986,6 +8076,24 @@
       "duration_ms": 213049,
       "name": "Lion Rumpus",
       "url": "https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA"
+    },
+    {
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
       "album": {
@@ -9014,7 +9122,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 333665,
       "name": "More Than Life",
       "url": "https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW"
@@ -13441,6 +13549,24 @@
     },
     {
       "album": {
+        "name": "TEETHSUCKER (YEA3x)",
+        "url": "https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "TEETHSUCKER (YEA3x)",
+      "url": "https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX"
+    },
+    {
+      "album": {
         "name": "Television Promises",
         "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
       },
@@ -13982,7 +14108,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
@@ -15572,7 +15698,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 225440,
       "name": "Words Lost Meaning",
       "url": "https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE"
@@ -15814,7 +15940,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 227308,
       "name": "Your House",
       "url": "https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av"

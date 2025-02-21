@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,169 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,168 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,6 +31,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 21 | [La La La 라라라](https://open.spotify.com/track/1ASZszY4HnOykk4TXcDdTF) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.12](https://open.spotify.com/album/2EB7wbnLzAQLoOMIt1Jdyb) | 3:32 |
 | 22 | [Feeling](https://open.spotify.com/track/7HabXxaYHFY70Id854846b) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.12](https://open.spotify.com/album/2EB7wbnLzAQLoOMIt1Jdyb) | 4:28 |
 | 23 | [You are to me I am to you 너에게 난 나에게 넌](https://open.spotify.com/track/0Yw38HNDoSm6dqDxKKVUM6) | [JEON EUN JI](https://open.spotify.com/artist/0WmGLz2qnI4TmO3OiUIC0c) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.13](https://open.spotify.com/album/7e3NzBDLhYCXOHy6IM9XUy) | 4:27 |
-| 24 | [On the bus 버스 안에서](https://open.spotify.com/track/4H7eWS7zEykmbykYjWZQcd) | [JANG JUN 장준](https://open.spotify.com/artist/3GAMUgrTmxfmPSbMcyq5Yk), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [Kei \(Kim Ji Yeon\)](https://open.spotify.com/artist/2bKUOy0WLIbuHfJu33hDuD) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.13](https://open.spotify.com/album/7e3NzBDLhYCXOHy6IM9XUy) | 3:11 |
+| 24 | [On the bus 버스 안에서](https://open.spotify.com/track/4H7eWS7zEykmbykYjWZQcd) | [JANG JUN 장준](https://open.spotify.com/artist/3GAMUgrTmxfmPSbMcyq5Yk), [TAG](https://open.spotify.com/artist/5cTgM8X9sAJAuMI0Dz3bh7), [Kei \(Kim Ji Yeon\)](https://open.spotify.com/artist/2bKUOy0WLIbuHfJu33hDuD) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.13](https://open.spotify.com/album/7e3NzBDLhYCXOHy6IM9XUy) | 3:11 |
 
-Snapshot ID: `ZIxVmQAAAAAm2gV/FYzzGW1CE7xJmrOO`
+Snapshot ID: `ZIxVmQAAAABvgujbTgt2KnI+Br534rxX`

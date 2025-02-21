@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128497,
+  "num_followers": 128510,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z655gwAAAADsCgybY6LmpR8yrhN2+jSA",
+  "snapshot_id": "Z655gwAAAACZu1WfPsfD8NQShbguLMpF",
   "tracks": [
     {
       "added_at": "2025-02-13 23:00:19",
@@ -280,7 +280,7 @@
           "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
         }
       ],
-      "duration_ms": 180101,
+      "duration_ms": 180121,
       "name": "Lo que siento \u263c",
       "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
     },
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Chacarera",
-        "url": "https://open.spotify.com/album/2jEUNsJ9uL1SUkY5EWuynJ"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 178583,
-      "name": "Chacarera",
-      "url": "https://open.spotify.com/track/0FNFjuBTHUNkj8wVMJZxxh"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "la ra\u00edz",
         "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 224501,
       "name": "la ra\u00edz",
       "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Chacarera",
+        "url": "https://open.spotify.com/album/2jEUNsJ9uL1SUkY5EWuynJ"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 178583,
+      "name": "Chacarera",
+      "url": "https://open.spotify.com/track/0FNFjuBTHUNkj8wVMJZxxh"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "La Utop\u00eda en que Vivimos",
+        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "duration_ms": 303699,
+      "name": "La Cultura del Miedo",
+      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Tan delicada",
         "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 199096,
       "name": "Tan delicada",
       "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "La Utop\u00eda en que Vivimos",
-        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 303699,
-      "name": "La Cultura del Miedo",
-      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -751,22 +751,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -791,18 +787,38 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -823,22 +839,6 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Todo Este Caos",
-        "url": "https://open.spotify.com/album/4gh2gsIxxU7M1gRmv8Fwn0"
+        "name": "Vig\u00edlia",
+        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
       },
       "artists": [
         {
-          "name": "Mr. Kilombo",
-          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+          "name": "Anna Andreu",
+          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
         }
       ],
-      "duration_ms": 177971,
-      "name": "Trastos",
-      "url": "https://open.spotify.com/track/5x26NTcyjv0uink1DZ8DxJ"
+      "duration_ms": 182360,
+      "name": "Roja i espessa",
+      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -911,6 +911,42 @@
       "duration_ms": 158341,
       "name": "Testamento - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Todo Este Caos",
+        "url": "https://open.spotify.com/album/4gh2gsIxxU7M1gRmv8Fwn0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kilombo",
+          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+        }
+      ],
+      "duration_ms": 177971,
+      "name": "Trastos",
+      "url": "https://open.spotify.com/track/5x26NTcyjv0uink1DZ8DxJ"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "En peu de pau",
+        "url": "https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk"
+      },
+      "artists": [
+        {
+          "name": "Sergi Carbonell",
+          "url": "https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 265261,
+      "name": "En peu de pau",
+      "url": "https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -995,22 +1031,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "En peu de pau",
-        "url": "https://open.spotify.com/album/4zrlIp5JykEiqgMCvjwzGk"
+        "name": "serpiente",
+        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
       },
       "artists": [
         {
-          "name": "Sergi Carbonell",
-          "url": "https://open.spotify.com/artist/3U1WtKior7Vyok72E1T0wO"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+          "name": "Lina de Sol",
+          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
         }
       ],
-      "duration_ms": 265261,
-      "name": "En peu de pau",
-      "url": "https://open.spotify.com/track/1Zk3w0C7firuzq6zsZiFJ5"
+      "duration_ms": 205741,
+      "name": "serpiente",
+      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1031,38 +1063,6 @@
       "duration_ms": 186597,
       "name": "A la deriva",
       "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Vig\u00edlia",
-        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
-      },
-      "artists": [
-        {
-          "name": "Anna Andreu",
-          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Roja i espessa",
-      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "serpiente",
-        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
-      },
-      "artists": [
-        {
-          "name": "Lina de Sol",
-          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
-        }
-      ],
-      "duration_ms": 205741,
-      "name": "serpiente",
-      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
-      },
-      "artists": [
-        {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
-        }
-      ],
-      "duration_ms": 203851,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Fado",
         "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
       },
@@ -1459,18 +1439,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         }
       ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1487,6 +1471,22 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "La recena",
-        "url": "https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "La recena",
-      "url": "https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1711,22 +1695,6 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Herba de Namorar",
-        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 179324,
-      "name": "Herba de Namorar",
-      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1747,6 +1715,38 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Herba de Namorar",
+        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 179324,
+      "name": "Herba de Namorar",
+      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "La recena",
+        "url": "https://open.spotify.com/album/0f1ZpHwCjMYMglYZBCqs2u"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2of8Ssl5Swezw05mhySC8X"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "La recena",
+      "url": "https://open.spotify.com/track/0VjWPWeATCwgzjLGu0GGVq"
     },
     {
       "added_at": "2025-02-13 23:00:19",

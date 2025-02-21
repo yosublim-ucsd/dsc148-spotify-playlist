@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels\. Featuring Edd\. Artwork by Rewina Beshue
+> The best new dance music by independent artists and labels, featuring Tiffy Vera\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,676 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,764 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [HIGHER](https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u) | [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [HIGHER](https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp) | 2:14 |
 | 100 | [Why Won't You Tell Me](https://open.spotify.com/track/54phATUSIJ7qEgCQJyphFs) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Why Won't You Tell Me](https://open.spotify.com/album/6Yp8HLr3IEsSzmBIRf4esm) | 4:45 |
 
-Snapshot ID: `Z7Ym8wAAAABRBE0Oic3DxpgIvNX1v3GW`
+Snapshot ID: `Z7dH+QAAAACu/lA1njsPObjhacnFyl+E`

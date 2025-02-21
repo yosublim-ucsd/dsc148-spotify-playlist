@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Léa Sen
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,676 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,660 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Don't Wanna Know How You Feel](https://open.spotify.com/track/6kAtAcYclMSIOL8MXXAuPp) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Don't Wanna Know How You Feel](https://open.spotify.com/album/3rkcSbdB7vnlaJ3YeOJB6i) | 1:43 |
 | 100 | [Hotline](https://open.spotify.com/track/5QM9WZ4PdG1h0c3dc9QiUA) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Hotline](https://open.spotify.com/album/3IbXCFLguPI38kGf657iI7) | 2:46 |
 
-Snapshot ID: `Z67N7wAAAACDKYEwTPnVFV9Ni2Uoem+h`
+Snapshot ID: `Z67N7wAAAADWpPXNly1VnIidgyJBWw/t`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nousussa olevat hitit. Kannessa Sabrina Carpenter.",
+  "description": "Nousussa olevat hitit. Kannessa Tate McRae.",
   "name": "Nousussa",
   "tracks": [
     {
@@ -487,6 +487,28 @@
     },
     {
       "album": {
+        "name": "Anna m\u00e4 vien (feat. Sara Bee)",
+        "url": "https://open.spotify.com/album/1sVXqoyVFkFwP88uvHnCLP"
+      },
+      "artists": [
+        {
+          "name": "Ina",
+          "url": "https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164358,
+      "name": "Anna m\u00e4 vien (feat. Sara Bee)",
+      "url": "https://open.spotify.com/track/0ERZ0M4FXlh3WAE1FQWQx1"
+    },
+    {
+      "album": {
         "name": "Anna rakas (raju hetki)",
         "url": "https://open.spotify.com/album/5PuhSGjjWX33X7HqsTTwMI"
       },
@@ -564,10 +586,28 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193131,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG"
+    },
+    {
+      "album": {
+        "name": "Anteeks min\u00e4",
+        "url": "https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190803,
+      "name": "Anteeks min\u00e4",
+      "url": "https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU"
     },
     {
       "album": {
@@ -1946,6 +1986,28 @@
       "duration_ms": 182348,
       "name": "Ehk\u00e4 Se Siit\u00e4",
       "url": "https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ"
+    },
+    {
+      "album": {
+        "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157172,
+      "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH"
     },
     {
       "album": {
@@ -3505,6 +3567,28 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156222,
+      "name": "I know love (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
+    },
+    {
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -4733,6 +4817,28 @@
     },
     {
       "album": {
+        "name": "Lampaita",
+        "url": "https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149116,
+      "name": "Lampaita",
+      "url": "https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD"
+    },
+    {
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -4788,6 +4894,28 @@
       "duration_ms": 199200,
       "name": "LE LE LE",
       "url": "https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo"
+    },
+    {
+      "album": {
+        "name": "Leijonanruokaa",
+        "url": "https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Leijonanruokaa",
+      "url": "https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3"
     },
     {
       "album": {
@@ -5046,6 +5174,28 @@
       "duration_ms": 146333,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB"
+    },
+    {
+      "album": {
+        "name": "Love Doctor's",
+        "url": "https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Love Doctor's",
+      "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
     },
     {
       "album": {
@@ -6292,6 +6442,24 @@
       "duration_ms": 165921,
       "name": "Norjalaista puuta",
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
+    },
+    {
+      "album": {
+        "name": "Nostetaan malja",
+        "url": "https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166031,
+      "name": "Nostetaan malja",
+      "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
     },
     {
       "album": {

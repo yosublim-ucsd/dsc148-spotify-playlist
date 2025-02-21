@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Deitrick Haddon, Israel Houghton and more
+> With Sunday Service Choir, James Cleveland, Marvin Winans and more
 
 1,685 songs - 5 day 6 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,694 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,736 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 44 | [The Typewriter](https://open.spotify.com/track/2W7PFU8zXwwEF60G9Yv2Yd) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 1:44 |
 | 45 | [Lowpass Risotto](https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 5:29 |
 | 46 | [Orbit Around the Moon](https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI) | [Joe Meek & the Blue Men](https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6) | [I Hear a New World: An Outer Space Music Fantasy](https://open.spotify.com/album/2y7yQUuTXpNcbN6eOxQqRn) | 2:49 |
-| 47 | [Suite bergamasque: No\. 4: Passepied](https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 3:19 |
-| 48 | [Born to Be Wild](https://open.spotify.com/track/4v33u82NZavg0ji35Cu4Vq) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Ye Olde Space Bande Plays The Classic Rock Hits](https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk) | 4:15 |
+| 47 | [Born to Be Wild](https://open.spotify.com/track/4v33u82NZavg0ji35Cu4Vq) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Ye Olde Space Bande Plays The Classic Rock Hits](https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk) | 4:15 |
+| 48 | [Suite bergamasque: No\. 4: Passepied](https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 3:19 |
 | 49 | [Barnyard In Orbit](https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The Out Sound From Way In!](https://open.spotify.com/album/6JGqckpNnvBhco52GETW15) | 2:26 |
 | 50 | [Song of the Second Moon](https://open.spotify.com/track/569fTEN94rQETqvMgOuQwU) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw), [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Electronic Music](https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU) | 2:46 |
 | 51 | [Getaway Car](https://open.spotify.com/track/38FMDZyRTtiQfvP4Qw0uj2) | [Mike Vickers](https://open.spotify.com/artist/3hIjwU5R5g8xfCJDzEAREt) | [Kpm 1000 Series: A Moog for More Reasons](https://open.spotify.com/album/4eXFRUfmrjGPA1d9vrk6IB) | 2:40 |
 | 52 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
-| 53 | [Soft Space](https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Alive and Well \- Recorded in Paris](https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW) | 8:17 |
-| 54 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 |
+| 53 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 |
+| 54 | [Soft Space](https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Alive and Well \- Recorded in Paris](https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW) | 8:17 |
 | 55 | [Disco Moog](https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Disco Experience](https://open.spotify.com/album/1KdS3ps4WVAPsNErOGeBXM) | 3:54 |
 | 56 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 57 | [Mariposas Acuáticas](https://open.spotify.com/track/5us33NoYbYZQrZ9Bi333D8) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 1:44 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 83 | [The Sausage Machine](https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ) | [Stephen Gray](https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90) | [Kpm 1000 Series: Industry Volume 1](https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC) | 1:10 |
 | 84 | [The First Exploration @ SF Radical Laboratories, 1968](https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ) | [Doug McKechnie](https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D) | [San Francisco Moog: 1968\-72 Vol\. 1](https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl) | 8:31 |
 | 85 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
-| 86 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |
-| 87 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
+| 86 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
+| 87 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |
 | 88 | [Beyoğlu'nda Gezersin](https://open.spotify.com/track/0qJ9xwR2Qak7kc07ovYQM8) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 3:47 |
 | 89 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 |
 | 90 | [Caravanas](https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Continuvm](https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK) | 5:05 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 143 | [This Is My Beloved](https://open.spotify.com/track/1RlbgwBa87TI4LPtXN2h2c) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [This Is My Beloved](https://open.spotify.com/album/0ZywAQAj8ODegCAZsYOVMV) | 3:04 |
 | 144 | [Dragonfly](https://open.spotify.com/track/5txsuDBk4Eno0NUcn0sQ8u) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/0dKaijFd0UsW2ObxcoZL09) | 3:18 |
 
-Snapshot ID: `ZsVRnwAAAADW6nghe2+Em2XkXYdSPj2J`
+Snapshot ID: `ZsVRnwAAAADBAD3kJkDmKr5b2tupq7RT`

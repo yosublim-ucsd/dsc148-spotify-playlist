@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Bouss",
+  "description": "Photo : Soolking",
   "name": "Best Life",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 161079,
       "name": "'Ndrangheta",
       "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 144394,
       "name": "AMOR\u00c9",
       "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
@@ -488,6 +488,28 @@
       "duration_ms": 163253,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+    },
+    {
+      "album": {
+        "name": "Africa Jungle Part.1",
+        "url": "https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH"
     },
     {
       "album": {
@@ -1606,6 +1628,24 @@
       "duration_ms": 179933,
       "name": "Full",
       "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
+    },
+    {
+      "album": {
+        "name": "God Bless / Doku",
+        "url": "https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "God Bless",
+      "url": "https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD"
     },
     {
       "album": {
@@ -4789,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "DANGER vol. 1",
+        "url": "https://open.spotify.com/album/5DSnMmcSiZT1GTUTUB8CGk"
+      },
+      "artists": [
+        {
+          "name": "3arbi",
+          "url": "https://open.spotify.com/artist/3RI6ds3AvoPisoiBSaaNVJ"
+        },
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "VIE DE R\u00caVE",
+      "url": "https://open.spotify.com/track/4xEmHMgrIuUNOP477MoggD"
+    },
+    {
+      "album": {
         "name": "VNTR",
         "url": "https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV"
       },
@@ -4916,7 +4978,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 150866,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/5GoYPbTlQbdXPoUWTsrLoK"

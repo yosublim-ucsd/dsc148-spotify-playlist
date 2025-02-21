@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 友成空
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,533 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,614 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 79 | [eye see](https://open.spotify.com/track/2p4DxbMnIkVjnPLh0tyYY6) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [eye see](https://open.spotify.com/album/2JsrGBTu4QmRQz7nkNmQMc) | 2:45 |
 | 80 | [BREAK IT DOWN](https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [BREAK IT DOWN](https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH) | 4:04 |
 
-Snapshot ID: `Z7Z60QAAAAB95dJ8yj0YsDFqGKOmViny`
+Snapshot ID: `Z7Z60QAAAABWqk2Bf8l5oYQAE1X/5uyK`

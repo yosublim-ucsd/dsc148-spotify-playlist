@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href=“spotify:artist:0yKPpbp3T6JTB9ApDMv9SZ”>Magda Kluz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,398 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,396 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Samoloty](https://open.spotify.com/track/43DaqWLc47k2qIsRSH9adR) | [Ada Borkowska](https://open.spotify.com/artist/4C4T9wrWjuYNhiSwG9PWt0), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Samoloty](https://open.spotify.com/album/3FO69pdviw2HHtLTP9SIZ9) | 2:34 |
 | 50 | [Dom](https://open.spotify.com/track/0i6vUXIeJzLnToH43HZ9hC) | [Runia](https://open.spotify.com/artist/4BzRGbuhIWFhoFuCcHUqmz) | [Dom](https://open.spotify.com/album/0fKo7YGiyx7HC4MvEzLl2W) | 2:52 |
 
-Snapshot ID: `Z6KcFgAAAAA8Y0zbLb9YxcH+oLaq3EAB`
+Snapshot ID: `Z6KcFgAAAADqUregx5L6YTwsQzIkLz2A`

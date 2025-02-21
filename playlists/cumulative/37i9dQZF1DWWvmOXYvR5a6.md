@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Molly Yam, Sik\-K, GGM LIL DRAGON\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: HYUN SEO\(현서\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-745 songs - 1 day 16 hr 5 min
+746 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2022-04-01 |  |
 | [DAY OFF](https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [DAY OFF](https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd) | 3:03 | 2023-09-20 | 2023-11-22 |
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
+| [DayDream](https://open.spotify.com/track/11lHFLhHJfEAJbUvPH6URk) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [DayDream](https://open.spotify.com/album/68ST80GRugLTAd73obnILf) | 3:01 | 2025-02-20 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 | 2024-04-19 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 |  |
@@ -446,7 +447,7 @@
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:01 | 2022-08-11 | 2024-01-04 |
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/7DwLpBaYzlV4EQaNMzm9Bs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/3Sk7Kyj2vUI0W3sCOV2drx) | 3:01 | 2024-01-08 | 2024-04-19 |
 | [My Side \(feat\. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein\)](https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [BRADYSTREET](https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4](https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb) | 4:02 | 2022-04-21 | 2022-07-12 |
-| [MZ](https://open.spotify.com/track/3qCjcrKAydtscX9yIE3SYg) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Rodeo Girls](https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH) | 1:52 | 2024-11-27 |  |
+| [MZ](https://open.spotify.com/track/3qCjcrKAydtscX9yIE3SYg) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Rodeo Girls](https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH) | 1:52 | 2024-11-27 | 2025-02-21 |
 | [Nag Champa](https://open.spotify.com/track/5Z3wrh8mL4qjEDRlz4JyVm) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [Nag Champa](https://open.spotify.com/album/37KYceHlgrIpVPHVR3mWkW) | 3:18 | 2022-05-31 | 2022-06-09 |
 | [namchin](https://open.spotify.com/track/1gyfwwC75JMpb1IaZehq3Y) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [glow forever](https://open.spotify.com/album/24e739nDGBzQuqDxN5DDqC) | 3:12 | 2022-04-01 | 2022-04-21 |
 | [Navigate \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/5GRzWFKbftKvCyrkriRLeh) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 3:06 | 2022-04-21 | 2022-07-27 |

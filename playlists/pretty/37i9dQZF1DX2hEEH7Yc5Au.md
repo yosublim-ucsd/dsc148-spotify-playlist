@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 徐懷鈺 \(Yuki Hsu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,067 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,064 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [不過失去了一點點 \- 八大《終極惡女》片尾曲](https://open.spotify.com/track/6HEfgS0ALir73Un4XKtYI6) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 5:03 |
 | 50 | [對的人](https://open.spotify.com/track/0tsEr5a7QUap42Rm55Nief) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [為愛做的傻事](https://open.spotify.com/album/5VY4rWUXPjfM5CvKQpsfVZ) | 4:37 |
 
-Snapshot ID: `Z6I5pAAAAAD6nzfz7P/G4WALC93wqdB0`
+Snapshot ID: `Z6I5pAAAAAB05hooXkIYQavtRthe9gta`

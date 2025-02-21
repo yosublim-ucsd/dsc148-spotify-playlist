@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Cyrko",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: shama",
   "name": "up next",
   "tracks": [
     {
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 264150,
       "name": "cytryny",
       "url": "https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7"
@@ -1270,6 +1270,24 @@
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
+    },
+    {
+      "album": {
+        "name": "Destroy Me, Today",
+        "url": "https://open.spotify.com/album/0nzJM5ozNQ9ZynPsswgrWH"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191276,
+      "name": "Destroy Me, Today",
+      "url": "https://open.spotify.com/track/72IHFsUmObpJHWeELe2eEV"
     },
     {
       "album": {
@@ -1627,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160213,
+      "name": "falochron",
+      "url": "https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf"
+    },
+    {
+      "album": {
         "name": "Fikcje",
         "url": "https://open.spotify.com/album/30272fiEqUNicMf5MoTo26"
       },
@@ -1776,7 +1812,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 135789,
       "name": "GOD DAMN",
       "url": "https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD"
@@ -3177,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "mona melody",
+        "url": "https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206605,
+      "name": "mona melody",
+      "url": "https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke"
+    },
+    {
+      "album": {
         "name": "monika",
         "url": "https://open.spotify.com/album/41ksbu4TQ61rGzDsGp3vuh"
       },
@@ -3214,6 +3268,24 @@
       "duration_ms": 182117,
       "name": "More than friends",
       "url": "https://open.spotify.com/track/1vZYCrvrO1hoxAbVN70hnw"
+    },
+    {
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "album": {
@@ -4589,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "Psy",
+        "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200249,
+      "name": "Psy",
+      "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
+    },
+    {
+      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
       },
@@ -5498,7 +5588,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 126703,
       "name": "tired",
       "url": "https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY"
@@ -5610,6 +5700,28 @@
       "duration_ms": 191666,
       "name": "Upadki i wzloty",
       "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
+    },
+    {
+      "album": {
+        "name": "Usypiasz Mnie Jak Lek",
+        "url": "https://open.spotify.com/album/28sM9BydOdzvNIbRFn3GQM"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        },
+        {
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166148,
+      "name": "Usypiasz Mnie Jak Lek",
+      "url": "https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh"
     },
     {
       "album": {
@@ -5816,7 +5928,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 146823,
       "name": "Wiosna",
       "url": "https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR"
@@ -6011,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "You Killed The Music",
+        "url": "https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186020,
+      "name": "You Killed The Music",
+      "url": "https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy"
+    },
+    {
+      "album": {
         "name": "Za daleko",
         "url": "https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x"
       },
@@ -6134,6 +6264,46 @@
       "duration_ms": 173726,
       "name": "zapomnia\u0142em wyda\u0107 w lipcu",
       "url": "https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0"
+    },
+    {
+      "album": {
+        "name": "Zaryzykuj\u0119",
+        "url": "https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3"
+      },
+      "artists": [
+        {
+          "name": "Jan Majewski",
+          "url": "https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Zaryzykuj\u0119",
+      "url": "https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F"
+    },
+    {
+      "album": {
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd"
     },
     {
       "album": {

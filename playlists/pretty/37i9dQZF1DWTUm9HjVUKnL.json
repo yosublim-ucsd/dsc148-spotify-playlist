@@ -1,12 +1,12 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Harry Styles",
-  "num_followers": 223161,
+  "num_followers": 226131,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7VlXAAAAACovEUGBQuqZe2aplkJX5+F",
+  "snapshot_id": "Z7dYqgAAAACW9aB+XSbutBpl2BltAz41",
   "tracks": [
     {
       "added_at": "2023-10-02 17:57:02",
@@ -623,6 +623,22 @@
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "added_at": "2025-02-20 16:30:34",
+      "album": {
+        "name": "Te Metiste - Spotify Single",
+        "url": "https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "Te Metiste - Spotify Single",
+      "url": "https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj"
     },
     {
       "added_at": "2025-02-07 20:39:39",

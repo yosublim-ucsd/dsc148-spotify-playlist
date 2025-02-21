@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz, Rooftime
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,905 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,929 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Lies Through Lies](https://open.spotify.com/track/3v76GCKeigUO5ZfXcEoGvz) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Lies Through Lies](https://open.spotify.com/album/0XXpXGj06QJTRNkMB8DIFK) | 2:13 |
 | 75 | [No More](https://open.spotify.com/track/2ep1xrQiV45uivHxd2jJGa) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [No More](https://open.spotify.com/album/3eG38Kp8hpuqfuhursVRjE) | 2:54 |
 
-Snapshot ID: `Z6+ZOQAAAABP3NfEQolT9nvwbi38nxUc`
+Snapshot ID: `Z6+ZOQAAAAAHWaRSnk3+ovDN2W/FVGhK`

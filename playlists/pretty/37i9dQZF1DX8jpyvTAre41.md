@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,309 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,305 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Tongue Trick](https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Choke Hold](https://open.spotify.com/album/7avibQveVA03ZGcknyu0dm) | 2:47 |
 | 100 | [Waiting For A Call](https://open.spotify.com/track/4Mb5Waenb5PhQcieVJJ6T9) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Waiting For A Call](https://open.spotify.com/album/34CojA2Qz1Vm4bcKunwbu0) | 3:56 |
 
-Snapshot ID: `Z67N7gAAAAAtoCAO8dqkgwzXV41hygzv`
+Snapshot ID: `Z67N7gAAAAC3wwARMpLXxs3XYzxLANyk`

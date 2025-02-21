@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,108 likes - 151 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,259 likes - 151 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [In Your Eyes](https://open.spotify.com/track/2j23KBFhJz5G1QTZYhJu6x) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [In Your Eyes](https://open.spotify.com/album/2TqrubsGKTVxeIk65tDNqc) | 3:19 |
 | 151 | [Everything Has A Heartbeat](https://open.spotify.com/track/6kBX2CHykpOQIiYFm4dQs4) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Everything Has A Heartbeat](https://open.spotify.com/album/6yUrt3h3xobOoETo88dNjv) | 3:37 |
 
-Snapshot ID: `Z67N5wAAAAA+YS+coYeXoBNWiO80zQQM`
+Snapshot ID: `Z67N5wAAAADluXQFTyFoitQB8Y7IDpff`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,736,806 likes - 170 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,737,897 likes - 170 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 169 | [Subsolar Stars](https://open.spotify.com/track/5xLdU0RLYHRrNJAnHT51j1) | [We, the Navigators](https://open.spotify.com/artist/2yD5ItKzHsyWvV4PKWBNND) | [Subsolar Stars](https://open.spotify.com/album/3aGqvulNZdcHGJD3bdAqVc) | 2:44 |
 | 170 | [Airglow](https://open.spotify.com/track/3YMYq87kCu0qFlqtof3q8E) | [Víolet Dawn](https://open.spotify.com/artist/7oZu4iBcw4ZT653Xo0pADm) | [Airglow](https://open.spotify.com/album/5AV8HyK3KDVBAtkSVYhHau) | 2:16 |
 
-Snapshot ID: `Z66/xwAAAACRo2OPqqi841OOkbWXT0U9`
+Snapshot ID: `Z66/xwAAAABo95hl8xAjwMfDCdKnB/8n`

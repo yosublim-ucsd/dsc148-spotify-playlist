@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Hellcat Speedracer
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,442 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,450 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 99 | [Better Days](https://open.spotify.com/track/1kMxWL0YbATNIRmprClrYW) | [Leo James](https://open.spotify.com/artist/6xWQDu66fTX5US3kBiFGab) | [Better Days](https://open.spotify.com/album/7KFNVBCS3aQz2NJv5KZHrc) | 7:34 |
 | 100 | [\~T8\_8T\~](https://open.spotify.com/track/4xdwPqtFwYgZw2XGKz77uZ) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [\~T8\_8T\~](https://open.spotify.com/album/0QUPAu1mU7NSRxRLBbSQa3) | 6:38 |
 
-Snapshot ID: `Z66lcAAAAACnXu3peEtdXWPI8u8bwO5n`
+Snapshot ID: `Z66lcAAAAAA1rMhJiOibhMSJOCpiHx65`

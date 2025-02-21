@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61891,
+      "name": "Cargo",
+      "url": "https://open.spotify.com/track/7fAFXX20WLmkSGZVM2BDyu"
+    },
+    {
+      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -832,7 +858,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 41821,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
@@ -1464,7 +1490,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 84146,
       "name": "Riding Horses",
       "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
@@ -1738,7 +1764,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 167066,
       "name": "The Path (A New Beginning)",
       "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 126053,
       "name": "Vanishing Grace",
       "url": "https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP"

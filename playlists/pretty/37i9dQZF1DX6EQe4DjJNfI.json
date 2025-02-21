@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 177003,
+  "num_followers": 177017,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66x/wAAAABAafU88stQjhKa5Wg4hnfu",
+  "snapshot_id": "Z66x/wAAAAB4JjoRS5FzTvT7CgbCP6Uz",
   "tracks": [
     {
       "added_at": "2025-02-14 03:01:19",
@@ -527,6 +527,26 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1043,42 +1059,6 @@
       "duration_ms": 177533,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "Under 2",
-        "url": "https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy"
-      },
-      "artists": [
-        {
-          "name": "Aura Soul",
-          "url": "https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT"
-        },
-        {
-          "name": "Karmo",
-          "url": "https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI"
-        }
-      ],
-      "duration_ms": 117346,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1123,6 +1103,26 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
+        "name": "Under 2",
+        "url": "https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy"
+      },
+      "artists": [
+        {
+          "name": "Aura Soul",
+          "url": "https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT"
+        },
+        {
+          "name": "Karmo",
+          "url": "https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI"
+        }
+      ],
+      "duration_ms": 117346,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf"
     },
     {
       "added_at": "2025-02-14 03:01:19",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-02-14 03:01:19",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "added_at": "2025-02-14 03:01:19",
+      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 193200,
       "name": "Sem Nada",
       "url": "https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4"
-    },
-    {
-      "added_at": "2025-02-14 03:01:19",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2025-02-14 03:01:19",

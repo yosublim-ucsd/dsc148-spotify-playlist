@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Sons Of Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,240 likes - 85 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,302 likes - 85 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 84 | [Covered By The Blood \- Live](https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Covered By The Blood \(Live\)](https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z) | 7:12 |
 | 85 | [New Thing](https://open.spotify.com/track/2p4jg0QWNpIyXK0xJHviro) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [New Thing](https://open.spotify.com/album/7Jj9nUtQ0kY0ya0rh2hpYN) | 4:02 |
 
-Snapshot ID: `Z6XEKAAAAACRlZkCVL1NRQpVYUXa82gJ`
+Snapshot ID: `Z6XEKAAAAACC4xue5TDcvNum+K7hg1Ao`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,536 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,589 likes - 49 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [O Céu](https://open.spotify.com/track/5fhdpABhotbKlLEQt1a83k) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [O Céu](https://open.spotify.com/album/2xU0Gb1VqmFjaEWtIMy28t) | 4:35 |
 | 49 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
 
-Snapshot ID: `Z66yAQAAAAC2kFdFUw6up7a9NlpVNoiV`
+Snapshot ID: `Z66yAQAAAACdh0EYIf0L7/hf4pDMTbBx`

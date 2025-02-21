@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 82421,
+  "num_followers": 82579,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7W3ZwAAAAD+y+D1aonObC6Wqhj4yG2W",
+  "snapshot_id": "Z7W3ZwAAAAB4el/mrGrb8hVC49vsq9pc",
   "tracks": [
     {
       "added_at": "2025-02-19 10:50:15",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -827,22 +807,22 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -863,6 +843,26 @@
       "duration_ms": 137068,
       "name": "World Best",
       "url": "https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
         "name": "Louder (feat. Ayo Maff & Bella Shmurda)",
         "url": "https://open.spotify.com/album/2nN525asSdy0tXZiqq0jBw"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 235789,
       "name": "Louder (feat. Ayo Maff & Bella Shmurda)",
       "url": "https://open.spotify.com/track/5nRbkLjmA6IoeJ8megl81f"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
         "name": "Pano Tona",
         "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
       },
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
         "name": "My Dealer (Remix)",
         "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 148235,
       "name": "My Dealer (Remix)",
       "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
-        "name": "Bhad Boi",
-        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Chocolate & Caramel",
-      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2025-02-19 10:50:15",
       "album": {
+        "name": "Bhad Boi",
+        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Chocolate & Caramel",
+      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 185396,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
+    },
+    {
+      "added_at": "2025-02-19 10:50:15",
+      "album": {
+        "name": "Bad Decisions & Foreplay",
+        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169571,
+      "name": "Bad Decisions & Foreplay",
+      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
     },
     {
       "added_at": "2025-02-19 10:50:15",
@@ -1311,22 +1327,6 @@
       "duration_ms": 156831,
       "name": "Close To Me (feat. Bnxn)",
       "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
-    },
-    {
-      "added_at": "2025-02-19 10:50:15",
-      "album": {
-        "name": "Bad Decisions & Foreplay",
-        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169571,
-      "name": "Bad Decisions & Foreplay",
-      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
     },
     {
       "added_at": "2025-02-19 10:50:15",

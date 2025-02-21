@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Deitrick Haddon, Israel Houghton and more
+> With Sunday Service Choir, James Cleveland, Marvin Winans and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 240 likes - 50 songs - 3 hr 51 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [More Than Anything](https://open.spotify.com/track/2vUNNg9K4PAY5o3OBwGUVU) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 6:53 |
 | 50 | [My Help](https://open.spotify.com/track/0W8RhOqOvJdZNPYSgaxhSn) | [Bam Crawford's Purpose](https://open.spotify.com/artist/6nmSvSdjRWr7lRXz5d1oaJ) | [The King Is Coming Any Day](https://open.spotify.com/album/3Vvs43FUvzNfqNCMhW7fuZ) | 7:41 |
 
-Snapshot ID: `Z7aLrQAAAACT3647yPjMELcK+s8h/8DQ`
+Snapshot ID: `Z7fyYwAAAAAfVuarTpfSsXiAnt5jUIhi`

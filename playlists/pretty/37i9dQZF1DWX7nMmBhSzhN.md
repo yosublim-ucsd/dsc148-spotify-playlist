@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,995 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,206 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 3 | [Tu Pyar Hai Kisi Aur Ka](https://open.spotify.com/track/5jib3JBR209gQizgISFbrH) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Hai Ke Manta Nahin](https://open.spotify.com/album/2azyipdkosVEQFLWDaHGi3) | 6:52 |
 | 4 | [Tere Dard Se Dil](https://open.spotify.com/track/32SM1giQug40rRNN10fYZj) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Deewana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL) | 4:51 |
 | 5 | [Jeeta Tha Jiske Liye](https://open.spotify.com/track/66DKTbjw8hpSnRiKEgml3Q) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PDILz2Sxow9ZRNlTKfBKD) | 7:38 |
-| 6 | [Ab Tere Bin](https://open.spotify.com/track/5maLNkwnwUGzB7I6dNANV5) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Aashiqui](https://open.spotify.com/album/7mUTDWUBOPcpXTALk1TJuX) | 5:46 |
+| 6 | [Ab Tere Bin](https://open.spotify.com/track/5maLNkwnwUGzB7I6dNANV5) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Super Cassettes Industries Private Limited](https://open.spotify.com/artist/7op82a4Hg19bs5i63swfII), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Aashiqui](https://open.spotify.com/album/7mUTDWUBOPcpXTALk1TJuX) | 5:46 |
 | 7 | [Tujhe Yaad Na Meri Aayee](https://open.spotify.com/track/2UtsLJy1O0OFkCgjJGPGfe) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6) | [Kuch Kuch Hota Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:04 |
 | 8 | [Pardesi Pardesi](https://open.spotify.com/track/01bXxpjsD4ARa6ZOP8dmLY) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Raja Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5G16twTP5dS4B99YLakLE6) | 7:28 |
 | 9 | [Woh Meri Neend Mera Chain](https://open.spotify.com/track/7rmhuVGX5VFjdZ1EC0BZqk) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Hum Hain Rahi Pyar Ke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63Y2RfrgCziZL6Jz8YCqV1) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 49 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 50 | [Nahin Saamne Tu](https://open.spotify.com/track/2VbJADm28rn89sdn2QwzuZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 6:03 |
 
-Snapshot ID: `Z2khqwAAAABtZno8F3QuzzCiMh7nHMSr`
+Snapshot ID: `Z2khqwAAAAB8DplkOCzekTCoXHaADGtf`

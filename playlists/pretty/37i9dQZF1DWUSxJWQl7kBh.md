@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Motivación, fe y esperanza para quienes tienen ganas de salir adelante\. Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,121 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,594 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 64 | [Pensando](https://open.spotify.com/track/0D9fj14C2uoAQkQvNPHYIu) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [APRENDIMOS A JUGAR](https://open.spotify.com/album/0o67MloHFyp5sDhFbu4Z3A) | 2:32 |
 | 65 | [Cada Quien \- En Vivo](https://open.spotify.com/track/4dvgorvOEDBC96enV3sXoJ) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [En Vivo De La Costa A La Sierra](https://open.spotify.com/album/58IcLDg1e6DVbJmeANUFJM) | 4:10 |
 
-Snapshot ID: `Z6JgiQAAAACCWytWrivlydkjCeHnZj3e`
+Snapshot ID: `Z6JgiQAAAADM7TIMjtYUf0H05/3k2Ydz`

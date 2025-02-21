@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc5\u7d44\u3092\u7279\u96c6 \uff08Cover: AfterParty\uff09",
+  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc5\u7d44\u3092\u7279\u96c6 ",
   "name": "RADAR: Podcasters 2025",
   "tracks": [
     {
@@ -52,10 +52,28 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 1503623,
       "name": "#113\u3000\u7acb\u98df\u30d1\u30fc\u30c6\u30a3\u3067\u751f\u304d\u306e\u3073\u308b\u65b9\u6cd5",
       "url": "https://open.spotify.com/episode/2qvO2KGJDfh3dvDGWEzI5k"
+    },
+    {
+      "album": {
+        "name": "\u4e0a\u5742\u3042\u3086\u7f8e\u306e\u300c\u79c1\u3088\u308a\u5148\u306b\u4e01\u5be7\u306b\u66ae\u3089\u3059\u306a\u300d",
+        "url": "https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u5742\u3042\u3086\u7f8e\u306e\u300c\u79c1\u3088\u308a\u5148\u306b\u4e01\u5be7\u306b\u66ae\u3089\u3059\u306a\u300d",
+          "url": "https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1580160,
+      "name": "#121\u3000\u305d\u3046\u3044\u3046(=\u98f2\u307f\u4f1a\u306e\u5f8c\u3072\u3068\u308a\u53cd\u7701\u4f1a\u3092\u3059\u308b)\u591c\u306b\u306f\u3082\u3046\u98fd\u304d\u305f",
+      "url": "https://open.spotify.com/episode/0CPrgyvRjBZEs8ocsw5inE"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 1709662,
       "name": "#34 \u3010\u8cea\u554f\u8fd4\u3057\u30112\u4eba\u304c\u8d77\u696d\u3057\u305f\u304d\u3063\u304b\u3051\u30fb\u4ed5\u4e8b\u3068\u5fc3\u3068\u8eab\u4f53\u306e\u30d0\u30e9\u30f3\u30b9\u306f\u3069\u3061\u3089\u3092\u512a\u5148\uff1f",
       "url": "https://open.spotify.com/episode/5NuGrGEMsySFmYt6uYDHox"
@@ -254,6 +272,24 @@
       "duration_ms": 3183229,
       "name": "#5 \u7de8\u96c6\u8005\uff0f\u30e9\u30a4\u30bf\u30fc \u3069\u3046\u3084\u3063\u3066\u306a\u3063\u305f\uff1f",
       "url": "https://open.spotify.com/episode/6cVKVJTEglAYdCc5dwKbnQ"
+    },
+    {
+      "album": {
+        "name": "UNDERDOG in Tokyo",
+        "url": "https://open.spotify.com/album/29gi5EprvrgyfO1BIhSEio"
+      },
+      "artists": [
+        {
+          "name": "UNDERDOG in Tokyo",
+          "url": "https://open.spotify.com/show/29gi5EprvrgyfO1BIhSEio"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3662811,
+      "name": "#54 \u3010\u521d\u516c\u958b\u53ce\u9332\uff01\u3011\u604b\u611b\u3063\u3066\u306a\u3093\u306e\u305f\u3081\u306b\u3059\u308b\u306e\uff1f\u30a4\u30d9\u30f3\u30c8\u3067\u30ea\u30b9\u30ca\u30fc\u3055\u3093\u304b\u3089\u306e\u8cea\u554f\u306b\u7b54\u3048\u305f\uff01",
+      "url": "https://open.spotify.com/episode/0ZeNjV1xFgPPZ9htmTObiC"
     },
     {
       "album": {
@@ -376,7 +412,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 4705641,
       "name": "\u3010\u6d77\u5916\u3067\u6700\u3082\u6709\u540d\u306a\u65e5\u672c\u4eba\u3011YouTuber TAKASHiifromjapan \u5916\u56fd\u4eba\u304b\u3089\u898b\u305f\u65e5\u672c\u3068\u306f",
       "url": "https://open.spotify.com/episode/0FxB13Vt4cfB3HbMUhr8do"
@@ -416,6 +452,24 @@
       "duration_ms": 5568330,
       "name": "\u30d7\u30edYouTuber\u306f\u5927\u5909\u3060\uff01",
       "url": "https://open.spotify.com/episode/4VvlAPPHAe3RDJmXUCzBaW"
+    },
+    {
+      "album": {
+        "name": "GOLDNRUSH PODCAST",
+        "url": "https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW"
+      },
+      "artists": [
+        {
+          "name": "GOLDNRUSH PODCAST",
+          "url": "https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4010580,
+      "name": "\u4eba\u524d\u3067\u6b4c\u3048\u306a\u304b\u3063\u305f\u30cf\u30fc\u30d5\u6b4c\u624bUMI\u304c2\u4e07\u4eba\u89b3\u5ba2\u52d5\u54e1\u30a2\u30ea\u30fc\u30ca\u30c4\u30a2\u30fc\u306e\u821e\u53f0\u306b\u7acb\u3064\u307e\u3067\u3002",
+      "url": "https://open.spotify.com/episode/0oRUrNnb2ZZVvbH4tjjLgJ"
     },
     {
       "album": {

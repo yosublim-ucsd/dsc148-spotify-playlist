@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href=“spotify:artist:2xFCNJxPF8BceY47fJ8DQC”>Dureń</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,574 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,575 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Bangladesz](https://open.spotify.com/track/6mwVqKBTD54RouqyqYplNM) | [mimikyu](https://open.spotify.com/artist/13oSIaWO38a4nof0RhZEh4), [Emil Centkiewicz](https://open.spotify.com/artist/6lu1nLyYVab45gPm6HKoac) | [Bangladesz](https://open.spotify.com/album/6jqSEKfZBlgYHEhNlKV5HT) | 3:37 |
 | 100 | [Kaznodzieja](https://open.spotify.com/track/7svZf11mir24xMYC4rWZ0t) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd) | [KURWOKSIĘSTWO: Geneza](https://open.spotify.com/album/7l1DRjAZx61A5kGJi112Ph) | 4:44 |
 
-Snapshot ID: `Z7URBQAAAAC7H4s6zG3NS9GktjKEKo8z`
+Snapshot ID: `Z7URBQAAAABf0eFJg1rGzhmxOMa2f9jx`

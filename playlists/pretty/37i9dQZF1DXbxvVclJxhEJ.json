@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 91,
+  "num_followers": 99,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7THigAAAADSqbTTTIrUUPJzZ+bMCStT",
+  "snapshot_id": "Z7THigAAAADOS3gIWsKsQKGJrOkiLErG",
   "tracks": [
     {
       "added_at": "2024-06-02 16:39:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180560,
       "name": "Don't Worry 'Bout Strangers",
       "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Rock Me - Remastered",
-      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Rock Me - Remastered",
+      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
     },
     {
       "added_at": "2024-06-02 16:39:20",

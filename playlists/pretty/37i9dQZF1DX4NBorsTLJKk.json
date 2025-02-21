@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34466,
+  "num_followers": 34472,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz9pJQAAAAC3DqoGjTc1BmpQkAqWaY6a",
+  "snapshot_id": "Zz9pJQAAAAA35gZ3UtCuCD/q3TWes1Sc",
   "tracks": [
     {
       "added_at": "2024-11-21 17:08:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u65fa\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3"
-      },
-      "artists": [
-        {
-          "name": "WONFU",
-          "url": "https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy"
-        }
-      ],
-      "duration_ms": 283782,
-      "name": "\u7b49\u5f85\u96e8\u6563",
-      "url": "https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
         "url": "https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u521d\u5b78\u8005",
-        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+        "name": "\u65fa\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3"
       },
       "artists": [
         {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+          "name": "WONFU",
+          "url": "https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy"
         }
       ],
-      "duration_ms": 305262,
-      "name": "\u4e0b\u96e8\u4e86",
-      "url": "https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR"
+      "duration_ms": 283782,
+      "name": "\u7b49\u5f85\u96e8\u6563",
+      "url": "https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -407,6 +391,22 @@
       "duration_ms": 261665,
       "name": "\u96e8\u5b63",
       "url": "https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u521d\u5b78\u8005",
+        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "duration_ms": 305262,
+      "name": "\u4e0b\u96e8\u4e86",
+      "url": "https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
+        "name": "\u600e\u6a23",
+        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "\u96e8\u548c\u592a\u967d",
+      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
         "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
         "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u600e\u6a23",
-        "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "\u96e8\u548c\u592a\u967d",
-      "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70\uff0c\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u65b0\u5730\u7403",
-        "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 256546,
-      "name": "\u8309\u8389\u96e8",
-      "url": "https://open.spotify.com/track/46PzflyM0fehl0AtZutikH"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u7fca\u5f80\u60c5\u6df1",
         "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "SINGING IN THE RAIN",
-        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
+        "name": "\u65b0\u5730\u7403",
+        "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
       },
       "artists": [
         {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
         }
       ],
-      "duration_ms": 228088,
-      "name": "SINGING IN THE RAIN",
-      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
+      "duration_ms": 256546,
+      "name": "\u8309\u8389\u96e8",
+      "url": "https://open.spotify.com/track/46PzflyM0fehl0AtZutikH"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -815,6 +799,22 @@
       "duration_ms": 272099,
       "name": "\u96e8\u5b63\u4e0d\u518d\u4f86",
       "url": "https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "SINGING IN THE RAIN",
+        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "SINGING IN THE RAIN",
+      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
-      },
-      "artists": [
-        {
-          "name": "\u6642\u5149\u8857\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
-        }
-      ],
-      "duration_ms": 264834,
-      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u6df3.\u4f73. (\u65b0\u6b4c+\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 297160,
       "name": "\u96e8\u5929",
       "url": "https://open.spotify.com/track/7lpua9fF4OOuYoQity6uRA"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u5149\u8857\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
+        }
+      ],
+      "duration_ms": 264834,
+      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u611b\u60c5\u591a\u60f1\u6cb3",
-        "url": "https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB"
-      },
-      "artists": [
-        {
-          "name": "\u718a\u5929\u5e73",
-          "url": "https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0"
-        }
-      ],
-      "duration_ms": 356520,
-      "name": "\u9031\u672b\u4e0b\u96e8",
-      "url": "https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
         "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258000,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u611b\u60c5\u591a\u60f1\u6cb3",
+        "url": "https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB"
+      },
+      "artists": [
+        {
+          "name": "\u718a\u5929\u5e73",
+          "url": "https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0"
+        }
+      ],
+      "duration_ms": 356520,
+      "name": "\u9031\u672b\u4e0b\u96e8",
+      "url": "https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN"
     },
     {
       "added_at": "2024-11-21 17:08:53",

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-492 songs - 1 day 3 hr 34 min
+493 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 | 2025-01-03 | 2025-02-13 |
 | [Aaja \- Stripped Version](https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 4:10 | 2024-01-19 | 2024-08-01 |
 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 | 2024-02-20 | 2024-05-29 |
+| [Aakhri Safar](https://open.spotify.com/track/7m6v0Hz4B8PSMAn19Jyz4l) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Aakhri Safar](https://open.spotify.com/album/2tAZqfTl1FvsdL90ZLIZn2) | 4:35 | 2025-02-20 |  |
 | [Aangan](https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Aangan](https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT) | 3:32 | 2023-10-26 | 2023-11-16 |
 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 | 2024-02-29 | 2024-03-16 |
 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 | 2023-10-04 |
@@ -85,7 +86,7 @@
 | [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 | 2024-09-12 | 2024-09-30 |
 | [Chand Ka Takiya](https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Chand Ka Takiya](https://open.spotify.com/album/05OhJuZZurrrrTo2j5pnq6) | 2:49 | 2024-09-17 |  |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 | 2024-04-19 |
-| [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 | 2025-01-23 |  |
+| [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 | 2025-01-23 | 2025-02-21 |
 | [Chaukhat \(Acoustic\)](https://open.spotify.com/track/5ieB78xk3KoBcNda4L1nSr) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Chaukhat \(Acoustic\)](https://open.spotify.com/album/4YHSH25QEB5aQiotQJByRA) | 3:53 | 2024-06-21 | 2024-11-08 |
 | [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 | 2023-11-22 |
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |

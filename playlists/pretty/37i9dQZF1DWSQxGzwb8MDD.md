@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 97 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,683 likes - 97 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [Photographic \- Some Bizzare Version](https://open.spotify.com/track/4K451UeT59EIVvVDto4ZFK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:11 |
 | 97 | [Cyber Sunshine \- Angel D'lite & Eoin DJ Remix](https://open.spotify.com/track/30mCeDo8Gr6MVJ24N1r5JD) | [Match Box](https://open.spotify.com/artist/4d8xBGF8IuHVSHRSpB0dTn), [Angel D'lite](https://open.spotify.com/artist/3hTukG4F04etkdZSQBsPOf), [Eoin DJ](https://open.spotify.com/artist/61lnAG9y0PG9hYkqpTWsLz) | [Cyber Sunshine \(Deluxe Remix Pack\)](https://open.spotify.com/album/4gnlErpA5VWMzrpXF982ys) | 5:46 |
 
-Snapshot ID: `Z23gCgAAAACPnwbP/Wi7+xWR2YeSZSg4`
+Snapshot ID: `Z23gCgAAAAAHIrPc2mJ0Z0rzeXifpQ3n`

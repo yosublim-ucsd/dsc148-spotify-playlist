@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,787 likes - 58 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,859 likes - 58 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 57 | [Anxious](https://open.spotify.com/track/6uWtgxorW1ua0nANLRZdA6) | [Smile on the Sinner](https://open.spotify.com/artist/5MHwF8Wbh7I8LWpR7x7qYS) | [Anxious](https://open.spotify.com/album/1n5eYImd4QEsMcljkSFFEF) | 3:04 |
 | 58 | [The Weight](https://open.spotify.com/track/2mq0tgAFFjPgqC56QL0kjp) | [Downpour](https://open.spotify.com/artist/2LjCRqa3fgVxFvn3FpPHHQ) | [The Weight](https://open.spotify.com/album/4CnvcNNhTaDR4b7flDMlnn) | 2:25 |
 
-Snapshot ID: `Z67TMQAAAACaeiHs3b1QHvqyVK+ZPMbh`
+Snapshot ID: `Z67TMQAAAADiR8atUvnZRijkFjl/7e4h`

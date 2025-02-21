@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-720 songs - 1 day 13 hr 20 min
+721 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Is It Love?](https://open.spotify.com/track/4b6WZ23mT8hBW6qan9OK0D) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/7mnLeneuyGZ9V8l8YTbC25) | 3:27 | 2022-07-28 | 2023-03-04 |
 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 | 2024-06-28 | 2024-07-06 |
 | [It Was Real](https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W) | [D G](https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2) | [It Was Real](https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid) | 2:01 | 2024-05-08 | 2024-06-20 |
-| [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 |  |
+| [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 | 2025-02-21 |
 | [It's Okay to Cry](https://open.spotify.com/track/5aQLoihmDxkqiwrZA7uXKK) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [It's Okay to Cry](https://open.spotify.com/album/2l5Ts9EBIGWpBtkSeFHMWE) | 3:33 | 2022-06-24 | 2023-04-21 |
 | [Iyawo](https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Iyawo](https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa) | 3:12 | 2022-10-13 | 2022-10-29 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 | 2023-09-29 |
@@ -635,6 +635,7 @@
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 | 2023-11-29 |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 |  |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 | 2023-11-24 | 2024-10-26 |
+| [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 | 2025-02-19 |  |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-09-15 |
 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-11-17 | 2023-11-24 |
 | [The Moment](https://open.spotify.com/track/1QrK2D1NuzEJqKPbJuANX2) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [What A Feeling](https://open.spotify.com/album/1JApQO7MXqN3g9MSwDNpPs) | 2:40 | 2024-08-30 | 2024-10-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "la nuova scena pop italiana \u2728 cover: Gaia",
+  "description": "la nuova scena pop italiana \u2728 cover: Sarah Toscano",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -784,6 +784,10 @@
         {
           "name": "Olly",
           "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
       "date_added": "2025-02-12",
@@ -2636,6 +2640,28 @@
       "duration_ms": 135777,
       "name": "FRANKIE",
       "url": "https://open.spotify.com/track/28HNklowBQdAsGwuVp8gCH"
+    },
+    {
+      "album": {
+        "name": "Fredda",
+        "url": "https://open.spotify.com/album/0511moTV5Wz1dc5HU7MXMd"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        },
+        {
+          "name": "Not Good",
+          "url": "https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162621,
+      "name": "Fredda",
+      "url": "https://open.spotify.com/track/021asS7vsNUPcui1oIdKl4"
     },
     {
       "album": {
@@ -6855,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "SENSAZIONALE!",
+        "url": "https://open.spotify.com/album/34TmNhzAQqVJvsdUb44pqi"
+      },
+      "artists": [
+        {
+          "name": "RYEL",
+          "url": "https://open.spotify.com/artist/38Xj1qE3vKhHTLk6hvoo8w"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "SENSAZIONALE!",
+      "url": "https://open.spotify.com/track/4igvak5O51abdmaVvWOFUK"
+    },
+    {
+      "album": {
         "name": "Sensazioni \u3186",
         "url": "https://open.spotify.com/album/0MatjTN53CGvIVuvGn9Kg3"
       },
@@ -7429,6 +7473,28 @@
     },
     {
       "album": {
+        "name": "STRAPPAMI L\u2019ANIMA",
+        "url": "https://open.spotify.com/album/4u1emP5Y9UZ6jqec7Nvpx3"
+      },
+      "artists": [
+        {
+          "name": "Anelie",
+          "url": "https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157291,
+      "name": "STRAPPAMI L\u2019ANIMA",
+      "url": "https://open.spotify.com/track/26b6YSDgL6o4P1s2pJPiql"
+    },
+    {
+      "album": {
         "name": "sull'orlo di fallire",
         "url": "https://open.spotify.com/album/30yNTzilcF8l9NCGtMtDU2"
       },
@@ -7711,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "tra le braccia",
+        "url": "https://open.spotify.com/album/1ivYjNXgEc752jnfSaggmQ"
+      },
+      "artists": [
+        {
+          "name": "Lil Markiese",
+          "url": "https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "tra le braccia",
+      "url": "https://open.spotify.com/track/6uNfJzQST5zbyHxsnLiwEJ"
+    },
+    {
+      "album": {
         "name": "Tram 83",
         "url": "https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd"
       },
@@ -7762,6 +7846,24 @@
       "duration_ms": 196827,
       "name": "Tsubaki",
       "url": "https://open.spotify.com/track/0TDywumqF4EMJM73KuizFc"
+    },
+    {
+      "album": {
+        "name": "TTT le parole",
+        "url": "https://open.spotify.com/album/3g8TCHm0KRmoGtDKrz7AlG"
+      },
+      "artists": [
+        {
+          "name": "giuliettacome",
+          "url": "https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "TTT le parole",
+      "url": "https://open.spotify.com/track/0On3SACPvpZ4WBhELYfxj8"
     },
     {
       "album": {
@@ -8058,6 +8160,24 @@
       "duration_ms": 158095,
       "name": "Vega",
       "url": "https://open.spotify.com/track/0vaIO9erGs9FjppymtXmMj"
+    },
+    {
+      "album": {
+        "name": "VERTEBRE",
+        "url": "https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m"
+      },
+      "artists": [
+        {
+          "name": "SETTEMBRE",
+          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170383,
+      "name": "VERTEBRE",
+      "url": "https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S"
     },
     {
       "album": {

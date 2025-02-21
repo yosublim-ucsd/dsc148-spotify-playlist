@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 729138,
+  "num_followers": 729186,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTdwAAAAAlXm8ssjKV806+ErOj3AQ0",
+  "snapshot_id": "Z6WTdwAAAAAQwIG09hCnc9YaUew5TVqi",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:39",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Here Lies the Fool",
-        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
+        "name": "It's The Little Things",
+        "url": "https://open.spotify.com/album/12ZwQQvd4FX3DgZODo3lSN"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Here Lies the Fool",
-      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
+      "duration_ms": 230644,
+      "name": "It\u2019s The Little Things",
+      "url": "https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -139,18 +139,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "It's The Little Things",
-        "url": "https://open.spotify.com/album/12ZwQQvd4FX3DgZODo3lSN"
+        "name": "Here Lies the Fool",
+        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 230644,
-      "name": "It\u2019s The Little Things",
-      "url": "https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb"
+      "duration_ms": 252213,
+      "name": "Here Lies the Fool",
+      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Because Of Yours",
         "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 240837,
       "name": "Because Of Yours",
       "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Carolina In My Mind",
+        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
       "artists": [
         {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
       "artists": [
         {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
         }
       ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "The Lonely, The Lonesome & The Gone",
         "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 245240,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5geXpnAg1h2r0fouEe3AHK"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2025-02-07 05:00:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover:  Shinedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,589 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,580 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 |
 | 75 | [Violet](https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Violet](https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY) | 4:21 |
 
-Snapshot ID: `Z67N4QAAAADh+VGOTK5JIX1JBjqUSXCc`
+Snapshot ID: `Z67N4QAAAACdzop/4kXox/6KqdxLuFze`

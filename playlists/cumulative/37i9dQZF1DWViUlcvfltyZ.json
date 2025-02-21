@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock e punk dall'Italia \ud83c\udfb8 Lacuna Coil in cover",
+  "description": "Rock e punk dall'Italia \ud83c\udfb8 GIALLORENZO in cover",
   "name": "Rock Italia",
   "tracks": [
+    {
+      "album": {
+        "name": "AL ROGO",
+        "url": "https://open.spotify.com/album/7IpfClCJq8ImLhuDLsdfLm"
+      },
+      "artists": [
+        {
+          "name": "Les Enfants",
+          "url": "https://open.spotify.com/artist/2I1iwTWUlyqq1riD3XzOm7"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304104,
+      "name": "#2",
+      "url": "https://open.spotify.com/track/4A6Wm22EE1wWmMPu9wsmia"
+    },
     {
       "album": {
         "name": "(Dis)fare",
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 199120,
       "name": "01010110",
       "url": "https://open.spotify.com/track/51bWWARJjzpe0y7CL7NWOy"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 511612,
       "name": "Anche tu galleggerai",
       "url": "https://open.spotify.com/track/5mzfV33CS8vpXAxZywlUCK"
@@ -4063,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "CHIEDIMI COME STAI",
+        "url": "https://open.spotify.com/album/4NwS1GgxOk43Df0M3VyPX9"
+      },
+      "artists": [
+        {
+          "name": "Sunset Radio",
+          "url": "https://open.spotify.com/artist/1se8zzXJ2zpzQvdAQIhr4H"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "CHIEDIMI COME STAI",
+      "url": "https://open.spotify.com/track/2k15OSvsBSNgU0NveUfu4q"
+    },
+    {
+      "album": {
         "name": "Chinaglia",
         "url": "https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM"
       },
@@ -4648,6 +4684,24 @@
       "duration_ms": 193359,
       "name": "comphet",
       "url": "https://open.spotify.com/track/0Qt4bjEENOnUiXRA792apJ"
+    },
+    {
+      "album": {
+        "name": "Compressione Continua",
+        "url": "https://open.spotify.com/album/5gKzBbzBPiJ5dGGp1CNsVG"
+      },
+      "artists": [
+        {
+          "name": "COMMA",
+          "url": "https://open.spotify.com/artist/5Jyh4mVSUWVM4KLO9c8zeD"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233370,
+      "name": "Compressione Continua",
+      "url": "https://open.spotify.com/track/4bT35Og0lTt8eEzY0QjsBI"
     },
     {
       "album": {
@@ -5421,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/24KYf336u77wpwBUDxAWh5"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120053,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6ix0BdjxI5QfqYMd2IhCL8"
+    },
+    {
+      "album": {
         "name": "Dentro Lilia",
         "url": "https://open.spotify.com/album/1DuX1BnllGDjSnsf601RCk"
       },
@@ -5908,7 +5980,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184333,
       "name": "Dolcedorme",
       "url": "https://open.spotify.com/track/4QjH9WdnC0fD5gOC9GXeIt"
@@ -5948,6 +6020,24 @@
       "duration_ms": 180740,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/3uLeef6yYyOe3ofw0rpq3d"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/1OiyUhxLkWOVpjwkFHl19D"
+      },
+      "artists": [
+        {
+          "name": "The Peawees",
+          "url": "https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145859,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/08LtbeKRnvRluz3Baean64"
     },
     {
       "album": {
@@ -6378,7 +6468,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 291612,
       "name": "El Me Moro",
       "url": "https://open.spotify.com/track/7sKmVmMOpQYwjORN8PgkGE"
@@ -6476,7 +6566,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 194785,
       "name": "Equatoriale",
       "url": "https://open.spotify.com/track/4TGZutK0f5xXiR1pzWqKKS"
@@ -11229,6 +11319,24 @@
     },
     {
       "album": {
+        "name": "l'arte pi\u00f9 assurda",
+        "url": "https://open.spotify.com/album/31DV1IlD67pbVMzGcLBOcl"
+      },
+      "artists": [
+        {
+          "name": "Tramontana",
+          "url": "https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185148,
+      "name": "l'arte pi\u00f9 assurda",
+      "url": "https://open.spotify.com/track/5CoRuVJqqrTLvKA8PJUj23"
+    },
+    {
+      "album": {
         "name": "Vitamina Life",
         "url": "https://open.spotify.com/album/0Yskhg705GgFHtz5GGjS5s"
       },
@@ -11240,7 +11348,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 171500,
       "name": "L'attimo che verr\u00e0",
       "url": "https://open.spotify.com/track/6GucU5KRxJ28CFjz1sY4AV"
@@ -11558,6 +11666,24 @@
       "duration_ms": 182399,
       "name": "La forma mutevole della perfezione",
       "url": "https://open.spotify.com/track/2A66Vkewxh46W3uCCN9XF9"
+    },
+    {
+      "album": {
+        "name": "Promoters Ripetizioni Sbatte",
+        "url": "https://open.spotify.com/album/1IqasIyk8klbtr5z2SX4Pj"
+      },
+      "artists": [
+        {
+          "name": "Carbs",
+          "url": "https://open.spotify.com/artist/4YBzYtdjKl69HqHPKZnRxU"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240813,
+      "name": "La met\u00e0 dell\u2019altra",
+      "url": "https://open.spotify.com/track/3dtiUsLwn7D7KSjU9J6Em1"
     },
     {
       "album": {
@@ -12492,6 +12618,24 @@
       "duration_ms": 156968,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H"
+    },
+    {
+      "album": {
+        "name": "Lontano dalle ombre",
+        "url": "https://open.spotify.com/album/6S35stIdeFKGIYOGFtJ1hZ"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/0qJ11kNp8ZxLwFuPf6yGpx"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "Lontano dalle ombre",
+      "url": "https://open.spotify.com/track/05Ee6PaIyt5UmHjVyGZdBP"
     },
     {
       "album": {
@@ -14272,7 +14416,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 200339,
       "name": "My Cigarettes",
       "url": "https://open.spotify.com/track/5kW5FpH2ntjaNtJCRCz0nD"
@@ -14406,6 +14550,24 @@
       "duration_ms": 135356,
       "name": "Nebbia",
       "url": "https://open.spotify.com/track/2jfqipZueDmichQIwp1dG0"
+    },
+    {
+      "album": {
+        "name": "Blind Insight",
+        "url": "https://open.spotify.com/album/5URA0wemH29VJi0LQmqIPX"
+      },
+      "artists": [
+        {
+          "name": "Stomp Collision",
+          "url": "https://open.spotify.com/artist/1hUSPsY9LvB05EA1Yu2DfP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217018,
+      "name": "Need a Sign",
+      "url": "https://open.spotify.com/track/0z8RNZJcUUHNDEOLuW0vvT"
     },
     {
       "album": {
@@ -15406,7 +15568,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 322000,
       "name": "Nyx",
       "url": "https://open.spotify.com/track/7FkS5O6RgaL8zLJa4JRl8I"
@@ -16240,7 +16402,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 159693,
       "name": "Pastafrolla",
       "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
@@ -16803,6 +16965,24 @@
     },
     {
       "album": {
+        "name": "piogge intense",
+        "url": "https://open.spotify.com/album/7oq7AEmUgekCdrWxB6bthw"
+      },
+      "artists": [
+        {
+          "name": "c\u00f3lgate",
+          "url": "https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "piogge intense",
+      "url": "https://open.spotify.com/track/3ds6bMZzsKdcaNRYpR7ueT"
+    },
+    {
+      "album": {
         "name": "Rimasti Indietro",
         "url": "https://open.spotify.com/album/6HciTag3REapbsxYXczSmK"
       },
@@ -16872,6 +17052,24 @@
       "duration_ms": 220706,
       "name": "Piramide",
       "url": "https://open.spotify.com/track/5gTJGgKeFbcJvaqmZXMdpS"
+    },
+    {
+      "album": {
+        "name": "Piromani",
+        "url": "https://open.spotify.com/album/2M7HBkFp4FUkvQUQXuel8O"
+      },
+      "artists": [
+        {
+          "name": "novagorica",
+          "url": "https://open.spotify.com/artist/17gE0o0AWJoCkHUrlJPjvu"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201130,
+      "name": "Piromani",
+      "url": "https://open.spotify.com/track/6mGVZjBDTpqbfsG4SzbbNv"
     },
     {
       "album": {
@@ -18044,7 +18242,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 164919,
       "name": "Rampicanti",
       "url": "https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG"
@@ -22701,6 +22899,24 @@
     },
     {
       "album": {
+        "name": "Ultima canzone",
+        "url": "https://open.spotify.com/album/63FOlSOwRjcw1eAhml9p2i"
+      },
+      "artists": [
+        {
+          "name": "C+C=Maxigross",
+          "url": "https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127966,
+      "name": "Ultima canzone",
+      "url": "https://open.spotify.com/track/4ZneAAWMLrUv1SUfIPtPv4"
+    },
+    {
+      "album": {
         "name": "UN BAMBINO",
         "url": "https://open.spotify.com/album/4f1tCKRmp8P7DuV0VZiCo2"
       },
@@ -23404,7 +23620,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 249333,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/7hP2x2qReiPgyQLdNLEsO9"

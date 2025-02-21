@@ -1,12 +1,12 @@
 {
   "description": "Switzerland's biggest hits right now. Cover: Olly",
-  "num_followers": 107222,
+  "num_followers": 107220,
   "original_name": "Hot Hits Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7SozAAAAADsyT/InhoI0UdPCcYOqOZx",
+  "snapshot_id": "Z7SozAAAAADERujuv7LwPPEz4r8LI/Br",
   "tracks": [
     {
       "added_at": "2025-02-18 15:35:40",
@@ -18,6 +18,10 @@
         {
           "name": "Olly",
           "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
       "duration_ms": 197708,

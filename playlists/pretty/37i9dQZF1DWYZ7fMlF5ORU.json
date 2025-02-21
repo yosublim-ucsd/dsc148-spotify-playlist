@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 170728,
+  "num_followers": 170753,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66yAQAAAABNjN4fwQeKGB0cIPBT13/6",
+  "snapshot_id": "Z66yAQAAAAAaOFFQlpb772huqGNxWwog",
   "tracks": [
     {
       "added_at": "2025-02-14 03:01:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
+        "name": "Tua Vontade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
+      },
+      "artists": [
+        {
+          "name": "PV Dantas",
+          "url": "https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 207698,
+      "name": "Tua Vontade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
         "name": "bora!",
         "url": "https://open.spotify.com/album/5z7JSiUpjtDru6DWu2ZeV9"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 203906,
       "name": "bora!",
       "url": "https://open.spotify.com/track/4948u3dZT5UGMASfGvjyzN"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
-        "name": "Tua Vontade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
-      },
-      "artists": [
-        {
-          "name": "PV Dantas",
-          "url": "https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 207698,
-      "name": "Tua Vontade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
     },
     {
       "added_at": "2025-02-14 03:01:21",

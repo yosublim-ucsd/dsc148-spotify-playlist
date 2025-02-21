@@ -229,6 +229,32 @@
     },
     {
       "album": {
+        "name": "Green Album",
+        "url": "https://open.spotify.com/album/4geeDYVC92n0vnBdeNzWcT"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "1017 (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1jeRnCCFCnyYVF3Y4SUXct"
+    },
+    {
+      "album": {
         "name": "1017 ALYX",
         "url": "https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0"
       },

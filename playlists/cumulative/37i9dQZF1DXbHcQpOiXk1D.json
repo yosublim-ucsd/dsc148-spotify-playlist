@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Yazz Ahmed",
+  "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -1422,6 +1422,28 @@
       "duration_ms": 244120,
       "name": "Blessed Love",
       "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
+    },
+    {
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
     },
     {
       "album": {
@@ -8190,7 +8212,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 202360,
       "name": "N29",
       "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"

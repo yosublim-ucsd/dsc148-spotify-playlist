@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6840,
+  "num_followers": 6844,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz7EWAAAAAA2GS5AVbdSdI60gO+5DNhE",
+  "snapshot_id": "Zz7EWAAAAAC2am4Llqd9LP1c7Tfi80nV",
   "tracks": [
     {
       "added_at": "2024-11-21 05:25:44",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "19.99",
-        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Nice Guy",
-      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
         }
       ],
-      "duration_ms": 188506,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU"
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
+      "duration_ms": 188506,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 173373,
       "name": "By Your Side (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     },
     {
       "added_at": "2024-11-21 05:25:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,083 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,121 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 51 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
 | 52 | [heat shock](https://open.spotify.com/track/7y8bpcQebeGgrIGOaUu4bb) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [heat shock](https://open.spotify.com/album/7c7jW4jnLnaRtZkbha4pYv) | 3:24 |
 | 53 | [Side by Side](https://open.spotify.com/track/2IUlXM0xspo4BjPoHuFuvi) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Side by Side](https://open.spotify.com/album/2AiXsrGHfgF4TAALIVUK9R) | 4:19 |
-| 54 | [話そうぜ](https://open.spotify.com/track/6ZaoSGrN328a5SyUBAeYk8) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [話そうぜ / トウ](https://open.spotify.com/album/5136LSMtVqGMxmtz1ZWN8r) | 4:48 |
-| 55 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
-| 56 | [Too busy work](https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [Too busy work](https://open.spotify.com/album/3h2CGevquC3dntTZrefUMG) | 3:16 |
-| 57 | [Broke Boy Rich](https://open.spotify.com/track/0CmK70yC5ALc346KwIYEsS) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:16 |
-| 58 | [Wonderland](https://open.spotify.com/track/788dZDpJRy4wqFtOgpR0LH) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wonderland](https://open.spotify.com/album/3aHWK9k7l5KKIr6sajBg03) | 3:19 |
-| 59 | [only god discotheque](https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [mutist beach](https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu) | 3:37 |
+| 54 | [Cheetah \- Freestyle](https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Cheetah \(Freestyle\)](https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb) | 4:02 |
+| 55 | [話そうぜ](https://open.spotify.com/track/6ZaoSGrN328a5SyUBAeYk8) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [話そうぜ / トウ](https://open.spotify.com/album/5136LSMtVqGMxmtz1ZWN8r) | 4:48 |
+| 56 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
+| 57 | [Too busy work](https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [Too busy work](https://open.spotify.com/album/3h2CGevquC3dntTZrefUMG) | 3:16 |
+| 58 | [Broke Boy Rich](https://open.spotify.com/track/0CmK70yC5ALc346KwIYEsS) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:16 |
+| 59 | [Wonderland](https://open.spotify.com/track/788dZDpJRy4wqFtOgpR0LH) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wonderland](https://open.spotify.com/album/3aHWK9k7l5KKIr6sajBg03) | 3:19 |
+| 60 | [only god discotheque](https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [mutist beach](https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu) | 3:37 |
 
-Snapshot ID: `Z7SgggAAAAD763EpPtVKAAI6oSEYi99j`
+Snapshot ID: `Z7SgggAAAAD6TNKpH+XQlySRfwv0MU/j`

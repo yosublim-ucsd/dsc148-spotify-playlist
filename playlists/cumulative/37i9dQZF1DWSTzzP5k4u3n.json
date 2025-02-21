@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa J. Karjalainen.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa LINDA.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -200,10 +200,28 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 183546,
       "name": "Ajatuksissani",
       "url": "https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1"
+    },
+    {
+      "album": {
+        "name": "Paha Maailma",
+        "url": "https://open.spotify.com/album/6xCgbClvLalqZegjALYmnx"
+      },
+      "artists": [
+        {
+          "name": "Nelosolut",
+          "url": "https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220545,
+      "name": "Alaston",
+      "url": "https://open.spotify.com/track/782QV6u42MGqNGMmG3WYKr"
     },
     {
       "album": {
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Kissankello",
+        "url": "https://open.spotify.com/album/6HININDm9fq4NxbnEmkv56"
+      },
+      "artists": [
+        {
+          "name": "Kaseva",
+          "url": "https://open.spotify.com/artist/1MmU0DeLO3usYcQFejP5pv"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "Kissankello",
+      "url": "https://open.spotify.com/track/3mrfqNmwqJU3JY9bxZjRDY"
+    },
+    {
+      "album": {
         "name": "Kitaralla helpompaa",
         "url": "https://open.spotify.com/album/78gzq1saUjJHpdhELMVW1E"
       },
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 194173,
       "name": "Kolmas s\u00e4\u00e4nt\u00f6",
       "url": "https://open.spotify.com/track/3XReXlWYtceXA0zto3fYUO"
@@ -4351,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4 Oot WAU!",
+        "url": "https://open.spotify.com/album/4yaHLlmTMJbeMMiMqGoLHO"
+      },
+      "artists": [
+        {
+          "name": "Aston Kalmari",
+          "url": "https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179186,
+      "name": "S\u00e4 Oot WAU!",
+      "url": "https://open.spotify.com/track/0N7vlckXr7CUlPstYFYMkM"
+    },
+    {
+      "album": {
         "name": "S\u00e5 l\u00e4nge vi \u00e4r tv\u00e5",
         "url": "https://open.spotify.com/album/2Z2O7WcPBelq8V73TH4gOk"
       },
@@ -4654,6 +4708,24 @@
       "duration_ms": 180878,
       "name": "Tuhat turhaa tarinaa",
       "url": "https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU"
+    },
+    {
+      "album": {
+        "name": "Tuli palaa siltojen alla",
+        "url": "https://open.spotify.com/album/2yZYW7aF8hj5RiHz9XjkUs"
+      },
+      "artists": [
+        {
+          "name": "Pyh\u00e4t Nuket",
+          "url": "https://open.spotify.com/artist/6pIwg2AXb0G7jrSsp25Fp3"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221256,
+      "name": "Tuli palaa siltojen alla",
+      "url": "https://open.spotify.com/track/1TNO0iMLRJsdqLh0I8PJjX"
     },
     {
       "album": {
@@ -5050,6 +5122,24 @@
       "duration_ms": 186626,
       "name": "Vihaa ja rakkautta",
       "url": "https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM"
+    },
+    {
+      "album": {
+        "name": "Rakkaani,",
+        "url": "https://open.spotify.com/album/4b8zkhz3IO9U4oqjGqqX4u"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Music Group",
+          "url": "https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "Vihre\u00e4n\u00e4 puuna kasvava rakkaus",
+      "url": "https://open.spotify.com/track/1P5pn127yNeTM2nTzYRK3e"
     },
     {
       "album": {

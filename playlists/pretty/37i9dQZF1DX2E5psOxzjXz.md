@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,265 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,277 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 84 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
 | 85 | [Dastaan](https://open.spotify.com/track/4KxLTSPAyUZY5GUochDLzr) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Dastaan](https://open.spotify.com/album/2a1fv7tSHqwVEXL62KdpEa) | 5:26 |
 
-Snapshot ID: `Z4m5vwAAAADMKvc1cXQ5wcirkuOn7ESx`
+Snapshot ID: `Z4m5vwAAAADCE71udVRfPQqsUimB2LqR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Lilly Bedard
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,498 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,494 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
 | 65 | [Easy](https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [Real Love](https://open.spotify.com/album/5Pm8GY1s2GRSuhxrxBvDLJ) | 4:09 |
 
-Snapshot ID: `Z7OqTwAAAABr33QC5q8iO+Qe5Qui4I7r`
+Snapshot ID: `Z7OqTwAAAABQ/hOU1HFJf8fthRdzhwsu`

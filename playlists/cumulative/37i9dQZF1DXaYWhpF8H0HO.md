@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Stephanie Poetri
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ricecooker
 
-289 songs - 16 hr 49 min
+295 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BLACKONBLACK FREESTYLE](https://open.spotify.com/track/2MjkZXFRPsNNOxDTztFiL8) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BLACKONBLACK FREESTYLE](https://open.spotify.com/album/50KXBmUr5mJqP3gGYOiS6h) | 2:13 | 2024-07-23 | 2024-11-29 |
 | [Blind to Our Plight](https://open.spotify.com/track/6eky2sCcPFxD0GC0ZIJ4DW) | [Asteriska](https://open.spotify.com/artist/24j6RDsf06YOAKudHmvPry), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Blind to Our Plight](https://open.spotify.com/album/06NCLrTmBgJaMux33NixPH) | 3:47 | 2024-10-24 | 2025-01-24 |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-06-27 | 2024-10-11 |
+| [Blue Lotus](https://open.spotify.com/track/0XuXhobUbtK3i96TouI4m7) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Patterns](https://open.spotify.com/album/03hsJO3aPFCbKhjTNUAlE0) | 5:06 | 2025-02-20 |  |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 | 2024-11-16 |
 | [Blues](https://open.spotify.com/track/6Lg7nPDnRLgtJ4n1tfvaae) | [The Rentenir](https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY) | [Blues](https://open.spotify.com/album/05THAMxxeyyHK0w8cxbklL) | 3:54 | 2025-02-06 |  |
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-09 | 2024-11-16 |
@@ -80,6 +81,7 @@
 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 | 2024-07-11 | 2024-09-27 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-06-27 | 2025-01-18 |
 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 | 2024-06-27 | 2024-08-10 |
+| [Dream Girl](https://open.spotify.com/track/2y990bGSyAdyoqflOOW0Ni) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dream Girl](https://open.spotify.com/album/11K3wztTjLdOChvFITyvvy) | 2:58 | 2025-02-20 |  |
 | [Dreamscape](https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2) | [Peonies](https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp) | [Dreamscape](https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E) | 4:28 | 2024-09-19 | 2024-11-29 |
 | [Dry](https://open.spotify.com/track/4vayL0oPgB79sPQAAkZDX6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Dry](https://open.spotify.com/album/2YFv8DqUWhTASzYvwoPNWa) | 4:14 | 2025-01-23 |  |
 | [Ethereal](https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Manic](https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr) | 4:12 | 2024-08-09 | 2024-09-27 |
@@ -102,6 +104,7 @@
 | [fOr tHe gUyS](https://open.spotify.com/track/7F1c0j4Dd2tqiaS2doH8I6) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [fOr tHe gUyS](https://open.spotify.com/album/2ORq1yIJ3VfsaCseLo7Bcw) | 3:15 | 2025-01-23 |  |
 | [Forever](https://open.spotify.com/track/4AgT480b5qdUXyQqlwrRkh) | [Masalembo](https://open.spotify.com/artist/04YMqUOoUDUChyBomf1J5G) | [Forever](https://open.spotify.com/album/4Y0EphOE1XAFmz8OTV90Ee) | 2:50 | 2024-06-27 | 2024-08-30 |
 | [Forever Last](https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Forever Last](https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r) | 3:43 | 2024-06-27 | 2024-08-30 |
+| [Fraction of You](https://open.spotify.com/track/7E8hyH2bDckedeRcKrIEzM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Fraction of You](https://open.spotify.com/album/129cZUF3VPuqbD5Z6BR1Z9) | 3:42 | 2025-02-20 |  |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 | 2025-01-24 |
 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 | 2024-06-27 | 2025-01-24 |
 | [Friends and Family](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Friends and Family](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 | 2024-06-27 | 2024-08-10 |
@@ -131,6 +134,7 @@
 | [I Don't Know](https://open.spotify.com/track/0Lsj4cCPCc1IvoS7mderH9) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [I Don't Know](https://open.spotify.com/album/6aX1uKqIchfKONT5UAVGtK) | 2:49 | 2025-01-30 |  |
 | [i don't want forever without you](https://open.spotify.com/track/0pHFtqtRTZ5M5oq7FUdiHU) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa) | [i don't want forever without you](https://open.spotify.com/album/06IRKuYvnFpgbnzx2fpmPI) | 3:16 | 2024-09-19 | 2024-11-16 |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-13 |  |
+| [I Gotchu](https://open.spotify.com/track/6VGd5cSK8dpHgaMJKmhaN0) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [I Gotchu](https://open.spotify.com/album/51NxI3UHm3wm5dDBpCSRx3) | 2:58 | 2025-02-20 |  |
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-06-27 | 2024-11-29 |
 | [I Lost My Smile Somewhere](https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [I Lost My Smile Somewhere](https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS) | 3:21 | 2024-07-25 | 2024-11-29 |
 | [I Wanna](https://open.spotify.com/track/2O10SZui7vue7ZyfWWjfcR) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [I Wanna](https://open.spotify.com/album/5tBLeD4BAL4fjrxCF0w7If) | 4:19 | 2024-09-26 | 2024-11-16 |
@@ -229,10 +233,12 @@
 | [Say It to Yourself](https://open.spotify.com/track/3bXL6zTY3ksmLSLORTVKWT) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Say It to Yourself](https://open.spotify.com/album/4xKwnLQfu2DImY8GQyAkWT) | 3:31 | 2024-12-12 |  |
 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 | 2024-06-27 | 2024-09-27 |
 | [See You Again](https://open.spotify.com/track/6MOFpVMe7RU4khlbezH2WY) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3) | [See You Again](https://open.spotify.com/album/0ZLWgSSenkkVi2QLbu21Xx) | 3:39 | 2024-10-24 | 2025-01-18 |
+| [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 | 2025-01-24 |
 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 | 2024-10-31 | 2025-01-24 |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 | 2025-01-24 |
 | [Shell Of A Man](https://open.spotify.com/track/6V2FEvybZVpO9Q6GoHnF5O) | [Audi Kirana](https://open.spotify.com/artist/4oYiHw3MUvsD71zQuqx84C) | [Shell Of A Man](https://open.spotify.com/album/6K5a00me4cDHnuCUpi3tTv) | 4:09 | 2024-11-21 |  |
+| [Silver Linings](https://open.spotify.com/track/6XeTC7wUIiDBU08LITgAZZ) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [Silver Linings](https://open.spotify.com/album/3WwII3mLrRfFS4JUxcfnjU) | 3:19 | 2025-02-20 |  |
 | [So Far Down](https://open.spotify.com/track/3U1iy1sISCWmLAA8OtyUHa) | [ALFRED](https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE) | [So Far Down](https://open.spotify.com/album/6XRDtDollKiMmYgGtOghnn) | 4:44 | 2024-11-15 |  |
 | [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 | 2024-11-29 |
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2025-01-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,029 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Many Worlds](https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:54 |
 | 50 | [Already Want You Back](https://open.spotify.com/track/4SpSZU4kZi2aLDWbyn0gZ7) | [Township](https://open.spotify.com/artist/2Vs3yC6wp5GVocVYcukOct) | [Already Want You Back](https://open.spotify.com/album/5bqzyvK7G6c62iyIf7ZmpG) | 3:20 |
 
-Snapshot ID: `Z7ad5AAAAADm60fLauuQ5c1+5U/borEc`
+Snapshot ID: `Z7fVlQAAAAC57VJxth29+85ovwTzcl3F`

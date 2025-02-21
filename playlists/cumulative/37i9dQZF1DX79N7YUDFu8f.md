@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-259 songs - 15 hr 22 min
+261 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2022-03-24 | 2025-02-11 |
 | [In Our Hearts](https://open.spotify.com/track/2coh2rbFkh7L77h6TH5stT) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [In Our Hearts](https://open.spotify.com/album/3Hlhrov3Um9vBbd8dkibLI) | 3:19 | 2022-11-17 | 2024-10-23 |
 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 | 2021-11-24 |  |
+| [It Takes Ten](https://open.spotify.com/track/63x35hCISEPFns7pGSv8qh) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [It Takes Ten](https://open.spotify.com/album/1KdJ9Kn7lWYBv17jDUxdGd) | 3:41 | 2025-02-20 |  |
 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 | 2023-02-23 | 2024-03-15 |
 | [Joe](https://open.spotify.com/track/43Hd4eUPRzrramyZOQh0JG) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/0cW3C8VF3sHOevQOvsTFr4) | 3:12 | 2021-11-24 |  |
 | [Joe](https://open.spotify.com/track/7kO4G9gASA6xwUGcqRzoLF) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/3ulX2huBgCgMUhgHbYTevv) | 3:12 | 2022-11-03 | 2022-11-13 |
@@ -141,7 +142,7 @@
 | [Lovely Morning](https://open.spotify.com/track/4DSNqIleyyQb5vL18LVgPL) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:53 | 2022-11-03 | 2022-11-14 |
 | [Lovely Morning](https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3) | 3:53 | 2021-11-24 | 2025-02-04 |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-07-28 |  |
-| [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 |  |
+| [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 | 2025-02-21 |
 | [matter \- acoustic](https://open.spotify.com/track/1A2W8FDYmlxVnw2rb8XjyT) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [matter \(acoustic\)](https://open.spotify.com/album/5vwWSs8ggvKAy3UoP6XNbT) | 3:01 | 2025-02-03 |  |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5RTWrfRc2uAppjSBoFhwDV) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:02 | 2022-06-03 | 2022-08-07 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5p2QPQGojxx1vvr9RO90Zc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Mind Games](https://open.spotify.com/album/46hD6fRkBdOTynFXoxgT8y) | 3:02 | 2021-11-24 |  |
@@ -222,6 +223,7 @@
 | [Surrender](https://open.spotify.com/track/6ELv5X7vb5SmiNsoXO7LSH) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Break Up Vibes 2022](https://open.spotify.com/album/6PcCKMhDp6fLkt3yCl2DBD) | 3:03 | 2022-11-03 | 2022-11-13 |
 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 | 2022-06-03 | 2024-04-19 |
 | [Surround Me](https://open.spotify.com/track/6i09oKaV93wnEE5ighvD1E) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me](https://open.spotify.com/album/4k8SXyS6wqomsrdRT8gIWn) | 3:52 | 2021-11-24 | 2025-02-18 |
+| [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 | 2025-02-20 |  |
 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 | 2021-11-24 |  |
 | [Take Me Home](https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv) | 3:01 | 2022-06-03 | 2024-04-19 |
 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 | 2021-11-24 | 2025-02-04 |
@@ -245,7 +247,7 @@
 | [Two After Twelve](https://open.spotify.com/track/34v661LusKeFpxBr6U3sJM) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Two After Twelve](https://open.spotify.com/album/1PusfddhZ6d3Rt3PHMp2NP) | 4:00 | 2025-02-03 |  |
 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 | 2022-04-28 |  |
 | [Untitled](https://open.spotify.com/track/6FWX5q2d33dFBJJAXgFteV) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Lonely Day, Crowded Year](https://open.spotify.com/album/37848eEeXWk3NpVnBnvAC8) | 2:47 | 2021-11-24 | 2023-09-30 |
-| [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 | 2021-11-24 |  |
+| [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 | 2021-11-24 | 2025-02-21 |
 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2022-06-03 | 2024-04-19 |
 | [Wait](https://open.spotify.com/track/75xgIGfWTKFeIvFPkfEqXN) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Wait List](https://open.spotify.com/album/0PYJ24SM5z9wtKiGcLNdNs) | 3:51 | 2022-11-03 | 2022-11-13 |
 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2021-11-24 | 2022-06-17 |

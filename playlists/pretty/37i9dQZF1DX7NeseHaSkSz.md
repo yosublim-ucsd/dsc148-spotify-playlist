@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,721 likes - 124 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,939 likes - 124 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 123 | [Oceans](https://open.spotify.com/track/4R9fpytbmmQtxSU1tpzZNQ) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Oceans](https://open.spotify.com/album/3ZubEIr32PKgAZ0AsImiEF) | 2:22 |
 | 124 | [Indian Rain](https://open.spotify.com/track/6wB1KV5rYAhkCi0yBfEOo6) | [Jasper Whisper](https://open.spotify.com/artist/1mVO71iTroCcLf7mg1uSo2), [Sensory Meditation](https://open.spotify.com/artist/6nsx3cKoJ9eF4KVvN5H8vb), [Nina Nalo](https://open.spotify.com/artist/2MdY1sqVHXi8GkfIaJN09r), [Flame Timo](https://open.spotify.com/artist/4rUIbE7K008AMLXBRYP8sR), [Alma Lin](https://open.spotify.com/artist/3ODNnEyG6ZtPYrnK19oZ5z) | [Indian Rain](https://open.spotify.com/album/1MWEkWy9Y0uKggU5LSWomI) | 2:31 |
 
-Snapshot ID: `Z66/xgAAAAAEZoZ+5E75eAczBGrQA99h`
+Snapshot ID: `Z66/xgAAAABnrWkOTRQHNUK7TijDAVDz`

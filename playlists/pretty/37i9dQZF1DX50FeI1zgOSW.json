@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14427,
+  "num_followers": 14441,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7WLiwAAAADw0QIvdWPb+LEYR4hFx5np",
+  "snapshot_id": "Z7a6ngAAAADAYjUMHaEUsu7fgP8Yq3Z+",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -267,6 +267,26 @@
       "duration_ms": 258644,
       "name": "Death Molam",
       "url": "https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW"
+    },
+    {
+      "added_at": "2025-02-20 05:16:13",
+      "album": {
+        "name": "My Love (Tamil)",
+        "url": "https://open.spotify.com/album/30oPMp2YNNPoo67N3NBo8s"
+      },
+      "artists": [
+        {
+          "name": "R Kaushal",
+          "url": "https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2"
+        },
+        {
+          "name": "Lavanya Anthanna",
+          "url": "https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "My Love - Tamil",
+      "url": "https://open.spotify.com/track/7ulG4zYIzj9htjEPimS9mw"
     },
     {
       "added_at": "2025-02-14 07:14:43",

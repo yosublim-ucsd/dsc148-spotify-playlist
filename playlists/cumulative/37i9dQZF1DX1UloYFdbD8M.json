@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: The Down Troddence",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -2450,8 +2450,8 @@
           "url": "https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m"
         },
         {
-          "name": "sanoop.s",
-          "url": "https://open.spotify.com/artist/2kfL7lbW6Ubd0tTKggYQ66"
+          "name": "Sanoop.S",
+          "url": "https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1"
         },
         {
           "name": "Jinusha Mashesh",
@@ -2690,6 +2690,28 @@
       "duration_ms": 183022,
       "name": "Madhuvaayi",
       "url": "https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL"
+    },
+    {
+      "album": {
+        "name": "Maharani (From \"AYAKTIHIS\")",
+        "url": "https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh"
+      },
+      "artists": [
+        {
+          "name": "The Down Troddence",
+          "url": "https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX"
+        },
+        {
+          "name": "T. M. Krishna",
+          "url": "https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Maharani - From \"AYAKTIHIS\"",
+      "url": "https://open.spotify.com/track/5I3WoDYvFcMZez2et3DhA5"
     },
     {
       "album": {
@@ -3606,7 +3628,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 207310,
       "name": "Nilavaay",
       "url": "https://open.spotify.com/track/6Phcevl6TcQp1C4AaNN3XC"

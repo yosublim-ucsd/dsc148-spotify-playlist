@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,002 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,242 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 |
 | 75 | [Por Nada Te Cambio](https://open.spotify.com/track/7EuzjgPCCn4302zxRQdzeI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Por Nada Te Cambio](https://open.spotify.com/album/4ZYJW43k53sh0EmZhsPykI) | 3:25 |
 
-Snapshot ID: `Z7ZyFAAAAAC+Ph7LLPgosMVzO3PmR/Jx`
+Snapshot ID: `Z7ZyFAAAAABYXpJ8SdgRDaUbg52jdjNN`

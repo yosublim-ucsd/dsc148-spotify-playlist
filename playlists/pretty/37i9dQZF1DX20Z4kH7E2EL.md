@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,882 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,884 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [In Too Deep](https://open.spotify.com/track/5Cs9t0mafrXoDp2Mu2q9OE) | [Fabian Roca](https://open.spotify.com/artist/2bhia8gTXfR8IAT7MrIP6s) | [In Too Deep](https://open.spotify.com/album/5b0CBFp2UmwztPPXvRNDyw) | 2:54 |
 | 80 | [Umbrella](https://open.spotify.com/track/1dAhQHk7XzMuCjCeBcgo5Q) | [Oppaacha](https://open.spotify.com/artist/4xgSjDLUAc95DUbzeKg8MY) | [Umbrella EP](https://open.spotify.com/album/3F5YBwYr8f1jUHrSwAF8Fq) | 6:06 |
 
-Snapshot ID: `Z240fQAAAAC3cO49XT7FHP2ZRPt+ePMx`
+Snapshot ID: `Z240fQAAAAB7TZqY+SSwK6Nj2fsd+mXd`

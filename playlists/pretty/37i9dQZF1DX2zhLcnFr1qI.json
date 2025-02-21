@@ -1,12 +1,12 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 76312,
+  "num_followers": 76305,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z32hpQAAAADmd+spSRjW7pd9d4oMm7X6",
+  "snapshot_id": "Z32hpQAAAABnvHNi+n6agpybgnYLPj2P",
   "tracks": [
     {
       "added_at": "2025-01-07 21:50:29",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-01-07 21:50:29",
       "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Jane X\u00d8",
-          "url": "https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Santa Baby (feat. Jane X\u00d8)",
-      "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
-    },
-    {
-      "added_at": "2025-01-07 21:50:29",
-      "album": {
         "name": "Christmas Tequila",
         "url": "https://open.spotify.com/album/7BJjKM828esz7MGVc9oKCu"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 155076,
       "name": "Christmas Tequila",
       "url": "https://open.spotify.com/track/4efYndb7hVjS7UsslN7OXP"
+    },
+    {
+      "added_at": "2025-01-07 21:50:29",
+      "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Jane X\u00d8",
+          "url": "https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Santa Baby (feat. Jane X\u00d8)",
+      "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
     }
   ],
   "unique_name": "Electronic Christmas",

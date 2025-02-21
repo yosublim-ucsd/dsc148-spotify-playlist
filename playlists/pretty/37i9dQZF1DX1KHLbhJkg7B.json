@@ -1,12 +1,12 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 123590,
+  "num_followers": 123657,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTewAAAAACe3ldl21bO5iUfcVsghuz",
+  "snapshot_id": "Z6WTewAAAACXmFnaFboncNwwn2u+1//W",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:43",
@@ -919,6 +919,38 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "Hold On, We're Going Home (Country Version)",
+        "url": "https://open.spotify.com/album/1wWyT7gYPFTviJ6NNYISx8"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Hold On, We're Going Home - Country Version",
+      "url": "https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -951,38 +983,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "Hold On, We're Going Home (Country Version)",
-        "url": "https://open.spotify.com/album/1wWyT7gYPFTviJ6NNYISx8"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Hold On, We're Going Home - Country Version",
-      "url": "https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
+        "name": "I'm On Fire - Spotify Singles",
+        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 183820,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
+      "duration_ms": 209586,
+      "name": "I'm On Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1123,6 +1127,22 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 183820,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
         "name": "You're Still The One",
         "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 195455,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "I'm On Fire - Spotify Singles",
-        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "I'm On Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/2cE2EIYVWbnsKrLCN55Kix"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5li0T0hP91MgcGMMKfw3KM"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
         "name": "If You Want Love",
         "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 204760,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2cE2EIYVWbnsKrLCN55Kix"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5li0T0hP91MgcGMMKfw3KM"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
-      },
-      "artists": [
-        {
-          "name": "Charly Reynolds",
-          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
-        }
-      ],
-      "duration_ms": 276116,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 233400,
       "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
+      },
+      "artists": [
+        {
+          "name": "Charly Reynolds",
+          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
+        }
+      ],
+      "duration_ms": 276116,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 371448,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1639,22 +1623,34 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Take Me Home (feat. Sugarland)",
-        "url": "https://open.spotify.com/album/5ok0rVro7SFihfF73FPdm8"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 308533,
-      "name": "Take Me Home (feat. Sugarland)",
-      "url": "https://open.spotify.com/track/0De7Oco4TirVIWui6RCjs8"
+      "duration_ms": 371448,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Someone Like You - Piano Vocal",
+      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+        "name": "Take Me Home (feat. Sugarland)",
+        "url": "https://open.spotify.com/album/5ok0rVro7SFihfF73FPdm8"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
         }
       ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+      "duration_ms": 308533,
+      "name": "Take Me Home (feat. Sugarland)",
+      "url": "https://open.spotify.com/track/0De7Oco4TirVIWui6RCjs8"
     },
     {
       "added_at": "2025-02-07 05:00:43",

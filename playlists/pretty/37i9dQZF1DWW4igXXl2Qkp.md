@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:2nQ17oZU3rP09w7d17VK8H">Bri3</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,775 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,880 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Why](https://open.spotify.com/track/1U6X7pkfCPpyxJKjX4Wne0) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7) | [Paid Life 2](https://open.spotify.com/album/7FG8UxsUdRxrCePZ6QXqhI) | 3:50 |
 | 100 | [gogo dancer](https://open.spotify.com/track/4oeJi3JahNmLpGhM8sd8zO) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX RELOADED](https://open.spotify.com/album/6rzQ2UIpcizzS0h1CWSsaY) | 1:50 |
 
-Snapshot ID: `Z7WJ4AAAAADzWG3wjx6VqmUcGR1cVTzG`
+Snapshot ID: `Z7WJ4AAAAACJRwRkFWWwD3c/JLKyv7Uf`

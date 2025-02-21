@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,532 likes - 111 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,539 likes - 111 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 110 | [A/B](https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 4:57 |
 | 111 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 |
 
-Snapshot ID: `Z7S6QQAAAAA+UPKSn+wYtBv7c7ugpwQt`
+Snapshot ID: `Z7S6QQAAAADhcQ7kV2FXsvImDC8B5Xjf`

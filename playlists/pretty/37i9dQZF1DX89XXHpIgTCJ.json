@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 317297,
+  "num_followers": 317376,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MebQAAAAAzTnS8t0DHIvWrfkYesqtI",
+  "snapshot_id": "Z5MebQAAAABojxJUzwBp3aELgOviAzMc",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
+        "name": "Skull & Bones",
+        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Can't Get the Best of Me",
+      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Skull & Bones",
-        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Can't Get the Best of Me",
-      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
         "name": "The Uplift Mofo Party Plan",
         "url": "https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F"
       },
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "We Made It (feat. Linkin Park)",
-        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         },
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
         }
       ],
-      "duration_ms": 238066,
-      "name": "We Made It (feat. Linkin Park)",
-      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
+      "duration_ms": 262160,
+      "name": "Just Another Victim",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
     }
   ],
   "unique_name": "Rap 'n' Roll",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: B Wise",
+  "description": "The best new AUS & NZ Rap. Cover: ONEFOUR, Mabel",
   "name": "Local Hype",
   "tracks": [
     {
@@ -11,7 +11,7 @@
       "artists": [
         {
           "name": "Kerser",
-          "url": "https://open.spotify.com/artist/2aaPtq8rDJJOqXk7sfplNV"
+          "url": "https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7"
         }
       ],
       "date_added": "2025-01-30",
@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/5FkqSE7S6S840jlvhXIQNY"
+      },
+      "artists": [
+        {
+          "name": "KidDave",
+          "url": "https://open.spotify.com/artist/03cVHTIZRVk50IiEryN5Rg"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Common Sense",
+      "url": "https://open.spotify.com/track/6wHuCcHCXtxvLhf3ViGeY8"
+    },
+    {
+      "album": {
         "name": "Como Eso (Like That)",
         "url": "https://open.spotify.com/album/2FRM0bSqwaYOyidMlDSZ9a"
       },
@@ -4608,6 +4626,24 @@
       "duration_ms": 182686,
       "name": "DIRECTIONS",
       "url": "https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI"
+    },
+    {
+      "album": {
+        "name": "Dirty Money Aroma",
+        "url": "https://open.spotify.com/album/7k4J4JCrDQpk43voxV7rKH"
+      },
+      "artists": [
+        {
+          "name": "That Kid Kearve",
+          "url": "https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "Dirty Money Aroma",
+      "url": "https://open.spotify.com/track/1nWPzkSN4LjJsAsUVTA65A"
     },
     {
       "album": {
@@ -5526,6 +5562,24 @@
       "duration_ms": 256799,
       "name": "Envy",
       "url": "https://open.spotify.com/track/4jd4JdmPdbFcTNSiuwy6Ze"
+    },
+    {
+      "album": {
+        "name": "Envy Me",
+        "url": "https://open.spotify.com/album/1fVgwOgVmTb8nK3fvSFEjB"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Envy Me",
+      "url": "https://open.spotify.com/track/4jWluiYfXVQXNcleeodwUs"
     },
     {
       "album": {
@@ -6522,6 +6576,24 @@
       "duration_ms": 169714,
       "name": "Freedom Of Speech",
       "url": "https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/58UE9yrLxaQb1NGSbqim1O"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122664,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/59tSlzMyLojsaLVYR0QRX7"
     },
     {
       "album": {
@@ -7840,6 +7912,24 @@
       "duration_ms": 192604,
       "name": "HARVEY DENT",
       "url": "https://open.spotify.com/track/3Jyc5O21H7tONGABhOasF9"
+    },
+    {
+      "album": {
+        "name": "Hasta Luego",
+        "url": "https://open.spotify.com/album/1Bt23dJAyQOC25DNiSR4L9"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Hasta Luego",
+      "url": "https://open.spotify.com/track/2kaSgT6gcH2XVoHQiWzPV7"
     },
     {
       "album": {
@@ -16584,7 +16674,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 131735,
       "name": "Send Em Hate",
       "url": "https://open.spotify.com/track/72KqYsTOtly7v991VyKLJ6"
@@ -16880,7 +16970,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 200000,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/2wJb1OFDyzdw0RiiYAHvxi"
@@ -19243,6 +19333,28 @@
     },
     {
       "album": {
+        "name": "TOO MANY TIMES",
+        "url": "https://open.spotify.com/album/2yf5XhEgaW6gT4LjLIV16v"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        },
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "TOO MANY TIMES",
+      "url": "https://open.spotify.com/track/4MAb1KCKwjjFmKGF9hu27N"
+    },
+    {
+      "album": {
         "name": "TOOT",
         "url": "https://open.spotify.com/album/2bR1sg2a9szXN03R201RKQ"
       },
@@ -20484,6 +20596,24 @@
       "duration_ms": 136062,
       "name": "Want U",
       "url": "https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk"
+    },
+    {
+      "album": {
+        "name": "Warrior Nation",
+        "url": "https://open.spotify.com/album/0WehI4LyhWiNnzHubRFIvs"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200372,
+      "name": "Warrior Nation",
+      "url": "https://open.spotify.com/track/3pKqSNuOESxetzfWDExJU6"
     },
     {
       "album": {

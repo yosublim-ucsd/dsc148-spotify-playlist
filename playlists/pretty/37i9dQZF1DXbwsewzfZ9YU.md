@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Ingrown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,478 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,524 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 32 | [Don't Need Your Help](https://open.spotify.com/track/1PUQHpDXQKAF7gc2J7vh4S) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC), [Wielded Steel](https://open.spotify.com/artist/3H5wolo8BHkr6ehzYiBQWH) | [Don't Need Your Help](https://open.spotify.com/album/4Yxcb4T7BcOZ0YqBFUy8hc) | 3:22 |
 | 33 | [Inflict My Will](https://open.spotify.com/track/3lNHXhvY8AIfpIku5aAbNX) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU), [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Artillery From Heaven](https://open.spotify.com/album/1Kuq7pIOyEIRSnTb7jQfl6) | 2:24 |
 | 34 | [On Show](https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T) | 3:19 |
-| 35 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
+| 35 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BAD WORLD](https://open.spotify.com/artist/1c4nvMa8NCwftryOF6po9J) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 36 | [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 |
 | 37 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 |
 | 38 | [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [FREEDOM](https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:11 |
 | 100 | [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 |
 
-Snapshot ID: `Z6vLvgAAAADar9GMjyEsU+HdE1w47W8O`
+Snapshot ID: `Z6vLvgAAAADPDLxVpGZRJoQV6CJoC3Sv`

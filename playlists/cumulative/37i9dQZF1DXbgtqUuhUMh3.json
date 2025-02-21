@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Al Harbein",
+        "url": "https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI"
+      },
+      "artists": [
+        {
+          "name": "Bessan Ismail",
+          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Al Harbein",
+      "url": "https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of"
+    },
+    {
+      "album": {
         "name": "Al Hila",
         "url": "https://open.spotify.com/album/53S7tlEKRYRp1pJ7pez7TL"
       },
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 178285,
       "name": "Matstbstnish",
       "url": "https://open.spotify.com/track/7Hn98YOZZziI7zNUv0IayQ"

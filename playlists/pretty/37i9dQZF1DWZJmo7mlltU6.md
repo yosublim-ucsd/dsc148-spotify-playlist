@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Cupido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,746 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,726 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [Capacidad](https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Involuntario](https://open.spotify.com/album/6LfnEvb70qUCNej8pjSThO) | 2:44 |
 | 102 | [Keep Me Coming Back](https://open.spotify.com/track/5oRkaRe10zy58ealrU8rlE) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Keep Me Coming Back](https://open.spotify.com/album/5Zh3oJVYc3WVi02Cj23KvR) | 2:28 |
 
-Snapshot ID: `Z67N4wAAAACkwihQcNHEf/NUGkwMVAUe`
+Snapshot ID: `Z67N4wAAAAB19WABOyqHyzGRASyYV+Y4`

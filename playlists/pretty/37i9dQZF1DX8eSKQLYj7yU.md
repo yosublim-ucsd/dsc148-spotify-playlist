@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,109 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,108 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 107 | [Christmas Times A Comin' / White Christmas](https://open.spotify.com/track/4q3EM3BTl7jLqc3Bi583b3) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Very Merry Christmas](https://open.spotify.com/album/5Xazc4mLRhHLaZGzqvZdKp) | 2:38 |
 | 108 | [Auld Lang Syne](https://open.spotify.com/track/1Np9WAlV2L1vMYL6TRpihk) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [High Country Holiday](https://open.spotify.com/album/261enzJqW3CSJslLyxTCLW) | 3:07 |
 
-Snapshot ID: `Z1xUewAAAAD65Xv7Qa+njOKw4w0GIx9q`
+Snapshot ID: `Z1xUewAAAADwDAq98ZXJWoINGrNHMP4Q`

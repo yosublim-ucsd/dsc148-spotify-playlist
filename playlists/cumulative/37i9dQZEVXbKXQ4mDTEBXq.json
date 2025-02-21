@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Kaiju",
+        "url": "https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252722,
+      "name": "Kaiju",
+      "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
+    },
+    {
+      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ"
       },
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193533,
       "name": "Spacecraft",
       "url": "https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy"

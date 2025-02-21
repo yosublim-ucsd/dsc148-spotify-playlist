@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 23980,
+  "num_followers": 23979,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4AQbAAAAAD6Z7PSkUk1iMj4KkNhuZbb",
+  "snapshot_id": "Z4AQbAAAAACdTIVWTdS4atdCJdyJ66Dz",
   "tracks": [
     {
       "added_at": "2025-01-09 18:07:40",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 311327,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 182599,
       "name": "Claro Ma",
       "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 311327,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Botella",
         "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 132221,
       "name": "Botella",
       "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -671,18 +671,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "No Los Pueden Separar",
-        "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
+        "name": "Los Aires de Buenos Aires",
+        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
       },
       "artists": [
         {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 142147,
-      "name": "No Los Pueden Separar",
-      "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
+      "duration_ms": 277882,
+      "name": "Los Aires de Buenos Aires",
+      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -703,22 +707,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Los Aires de Buenos Aires",
-        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
+        "name": "No Los Pueden Separar",
+        "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
       "artists": [
         {
-          "name": "Todos los Martes",
-          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
         }
       ],
-      "duration_ms": 277882,
-      "name": "Los Aires de Buenos Aires",
-      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
+      "duration_ms": 142147,
+      "name": "No Los Pueden Separar",
+      "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Vandalismo Comparado",
+        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "Ni\u00f1o Elefante",
+          "url": "https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n"
+        }
+      ],
+      "duration_ms": 135189,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -903,42 +923,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Vandalismo Comparado",
-        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
       "artists": [
         {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        },
-        {
-          "name": "Ni\u00f1o Elefante",
-          "url": "https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n"
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
         }
       ],
-      "duration_ms": 135189,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Destruyo Mi Guitarra",
-        "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
-      },
-      "artists": [
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 117087,
-      "name": "Destruyo Mi Guitarra",
-      "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -963,18 +959,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+        "name": "Destruyo Mi Guitarra",
+        "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
       "artists": [
         {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+      "duration_ms": 117087,
+      "name": "Destruyo Mi Guitarra",
+      "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "El Invierno",
         "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 200487,
       "name": "El Invierno",
       "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "El Misterio de Paul Higgs",
-        "url": "https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa"
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
       "artists": [
         {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
         }
       ],
-      "duration_ms": 266373,
-      "name": "Otra Vez De Nuevo",
-      "url": "https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL"
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Puedo ver el mar en tus ojos",
-        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+        "name": "El Misterio de Paul Higgs",
+        "url": "https://open.spotify.com/album/7yv62EzM7FgvQnCWPZKnBa"
       },
       "artists": [
         {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
         }
       ],
-      "duration_ms": 181495,
-      "name": "Puedo ver el mar en tus ojos",
-      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
+      "duration_ms": 266373,
+      "name": "Otra Vez De Nuevo",
+      "url": "https://open.spotify.com/track/16GZsyUlkEHMdXjc9JucoL"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Distintas Frecuencias",
-        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
-      },
-      "artists": [
-        {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
-        }
-      ],
-      "duration_ms": 242547,
-      "name": "Distintas Frecuencias",
-      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Hipercandombe",
         "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 266862,
       "name": "Hipercandombe",
       "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Distintas Frecuencias",
+        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 242547,
+      "name": "Distintas Frecuencias",
+      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "No digas que no te avis\u00e9",
-        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 266472,
-      "name": "No digas que no te avis\u00e9",
-      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Que te iba a Decir",
         "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
+        "name": "No digas que no te avis\u00e9",
+        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
       },
       "artists": [
         {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
         }
       ],
-      "duration_ms": 118625,
-      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
-      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+      "duration_ms": 266472,
+      "name": "No digas que no te avis\u00e9",
+      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+        "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 118625,
+      "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
+      "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "ya soy, ya tengo",
         "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 249245,
       "name": "ya soy, ya tengo",
       "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1527,6 +1511,22 @@
       "duration_ms": 186352,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2025-01-09 18:07:40",

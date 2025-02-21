@@ -961,6 +961,32 @@
     },
     {
       "album": {
+        "name": "Arpy",
+        "url": "https://open.spotify.com/album/1kZwLY8FkPysvCFSR7jd9U"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302602,
+      "name": "Arpy",
+      "url": "https://open.spotify.com/track/1wJIV4ZB7XNU3yCYvPyeeW"
+    },
+    {
+      "album": {
         "name": "Mizugiwa",
         "url": "https://open.spotify.com/album/240VvlzQLu4rQ0aqjA4e4O"
       },
@@ -2419,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "D\u00cdA",
+        "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256579,
+      "name": "COMBAT",
+      "url": "https://open.spotify.com/track/39GJBIC1JhRqOuFBrGlDvl"
+    },
+    {
+      "album": {
         "name": "TENbient 3",
         "url": "https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk"
       },
@@ -2993,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Din",
+        "url": "https://open.spotify.com/album/3Sugc0c7znDhpWxV4b39tQ"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132066,
+      "name": "Din",
+      "url": "https://open.spotify.com/track/7HvYRgEsfyD4mfDdCtfbUV"
+    },
+    {
+      "album": {
         "name": "DINORWIC",
         "url": "https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX"
       },
@@ -3336,7 +3398,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 101034,
       "name": "Echo Sax No.4",
       "url": "https://open.spotify.com/track/6hIN2CWE4FrVqHBa0rrrOT"
@@ -5398,6 +5460,24 @@
       "duration_ms": 178000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/5XVTI6sC9YesVTkzqG4365"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/48xtkNT3Ti2Z2v6LnZtk3S"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249722,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/0JgQrMZtYntcnG6hMamhBK"
     },
     {
       "album": {
@@ -7847,6 +7927,24 @@
     },
     {
       "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS"
+    },
+    {
+      "album": {
         "name": "We hear the last decades dreaming",
         "url": "https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT"
       },
@@ -8792,7 +8890,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 404093,
       "name": "Reeling Then Again",
       "url": "https://open.spotify.com/track/6ndYaBtSmN9IjpSXyNVGOM"
@@ -11178,7 +11276,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 230500,
       "name": "Terra Recipe",
       "url": "https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW"
@@ -13224,7 +13322,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 187531,
       "name": "\u591c\u306e\u8857",
       "url": "https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi"
@@ -13692,7 +13790,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 66061,
       "name": "\u91d1\u7d99\u304e",
       "url": "https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX"

@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, Pent Up Pup and more
+> With glitterpop!, Joshua Lanuarii, STYXVII and more
 
 120 songs - 5 hr 2 min
 

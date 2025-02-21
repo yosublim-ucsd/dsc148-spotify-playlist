@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,036 likes - 60 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,049 likes - 60 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [3 Romances, Op\. 94: Einfach, innig](https://open.spotify.com/track/121wCe6YqHFRKLP3pgEiSF) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jozsef Kiss](https://open.spotify.com/artist/1hninhiYSqfJZbHMS2RbZM), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Schumann, R.: Works for Oboe and Piano](https://open.spotify.com/album/5a5FayCRTbXIj7CQKmoD7W) | 3:34 |
 | 60 | [Introduction And Concert\-Allegro, Op.134](https://open.spotify.com/track/5tLoB5B4halqoOaljIFhdd) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Schumann](https://open.spotify.com/album/1JbcxmOSbG4dlPsosu7Igl) | 12:38 |
 
-Snapshot ID: `Zw6J8gAAAACQ9jfuWejOY8ckdWVgR3Kg`
+Snapshot ID: `Zw6J8gAAAAABbBYO8/mrT42p8EEvTmXn`

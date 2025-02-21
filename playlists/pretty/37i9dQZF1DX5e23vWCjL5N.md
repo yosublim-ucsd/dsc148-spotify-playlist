@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,179 likes - 79 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,207 likes - 79 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 78 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 |
 | 79 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
 
-Snapshot ID: `Z5wErwAAAADAVSWP5md+mKDaBGjEYLlg`
+Snapshot ID: `Z5wErwAAAABhUI2DDsYflCsNNy9sGtKd`

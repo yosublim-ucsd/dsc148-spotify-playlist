@@ -4,12 +4,13 @@
 
 > Soothing piano and strings to help you concentrate.
 
-297 songs - 13 hr 38 min
+300 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2020-10-20\* |  |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-09-08 |  |
+| [A Long Walk](https://open.spotify.com/track/7gq194TSyfCgtQYx7HyQn8) | [Julius Sedlák](https://open.spotify.com/artist/6S7fFMABHpmzS5OX3zNG8w) | [A Long Walk](https://open.spotify.com/album/3zDlfKruCqBcUvE433jhqG) | 2:17 | 2025-02-20 |  |
 | [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2024-03-20 |  |
 | [A Soulful Journey](https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [A Soulful Journey](https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q) | 2:44 | 2024-02-05 |  |
@@ -107,6 +108,7 @@
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2020-10-20\* | 2022-07-29 |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-07-22 | 2023-09-09 |
 | [Gare De Lyon](https://open.spotify.com/track/00hnPMMlA2V0bCKlI8yChO) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Gare De Lyon](https://open.spotify.com/album/7BDOuo6yevp1PSgntKUxs0) | 2:35 | 2023-09-26 |  |
+| [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 | 2025-02-20 |  |
 | [Gone Day](https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Gone Day](https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2) | 4:10 | 2022-07-22 | 2023-09-09 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2020-10-20\* |  |
 | [Greetings from Belize](https://open.spotify.com/track/5nhS7fj2S3Td2HIDCpcmVb) | [Lixol](https://open.spotify.com/artist/4wXk0BFjhLlkvvnizwEUGR) | [Greetings from Belize](https://open.spotify.com/album/6HzK0TGQenShzRupoyc9x5) | 2:43 | 2022-02-24 | 2023-09-09 |
@@ -197,6 +199,7 @@
 | [Once Again](https://open.spotify.com/track/3rM7tHIfS6tzuaPXxp5hK1) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Once Again](https://open.spotify.com/album/6rHvuSWrrMiqfRf08jo137) | 3:23 | 2020-10-20\* |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2020-10-20\* | 2024-07-30 |
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-09-08 |  |
+| [One Step](https://open.spotify.com/track/2VMyo3DKnrhEnnen8pktF1) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [One Step](https://open.spotify.com/album/5PZZA1adyzS18yM6mI9GV1) | 2:36 | 2025-02-20 |  |
 | [One With You](https://open.spotify.com/track/1Xiva2KjOYcPIT8VfrfJKS) | [Rick Jolt](https://open.spotify.com/artist/0hzZ0tiSaLHWUUOWNPo5cQ) | [One With You](https://open.spotify.com/album/4mep7pNFHlun9gvlRKkv6Y) | 2:13 | 2020-10-20\* | 2024-07-30 |
 | [Only For A Moment](https://open.spotify.com/track/3Wya6bQjondLcUwePqEtqh) | [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Only For A Moment](https://open.spotify.com/album/7lSgCH7sHVDx8qmyllUEh0) | 2:19 | 2023-09-08 |  |
 | [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-05-20 | 2022-05-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ?si=IF6TXGQ2RcuJM9o1Wzj8gA\">Christiaan Baartman</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=v95-rOiQQv2Hm-xCDMQrFA\">Zo\u00e9</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 227567,
       "name": "'n Dag Sonder Jou",
       "url": "https://open.spotify.com/track/23jYmQGTgvo8dMLpiZpnL9"
+    },
+    {
+      "album": {
+        "name": "'n Man en 'n Berg",
+        "url": "https://open.spotify.com/album/08cK2EmpCDxAjKiiswPHnf"
+      },
+      "artists": [
+        {
+          "name": "Jako Meyer",
+          "url": "https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171084,
+      "name": "'n Man en 'n Berg",
+      "url": "https://open.spotify.com/track/2bQfct7EHkuyqSp2mHyg6n"
     },
     {
       "album": {
@@ -2387,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Bettie Steyn",
+        "url": "https://open.spotify.com/album/0XrBBBIemMh42oYyyDUtoV"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141523,
+      "name": "Bettie Steyn",
+      "url": "https://open.spotify.com/track/3ro14Kc1NPg72rQKQJTkbS"
+    },
+    {
+      "album": {
         "name": "Biela Se Komeet",
         "url": "https://open.spotify.com/album/2Z2HgK0vQuRnA5UletPQHo"
       },
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 254000,
       "name": "Bietjie Bliss",
       "url": "https://open.spotify.com/track/4FnK3EVHzLCcenNK7XZRW7"
@@ -2500,6 +2536,24 @@
       "duration_ms": 226615,
       "name": "Bietjie Techno",
       "url": "https://open.spotify.com/track/6GYWvnOCF7HSaIC5mZHbdZ"
+    },
+    {
+      "album": {
+        "name": "Bietjie Van Jou Tyd",
+        "url": "https://open.spotify.com/album/6EEn4n7aaHEO8okAqIJuzO"
+      },
+      "artists": [
+        {
+          "name": "Rohan Britz",
+          "url": "https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Bietjie Van Jou Tyd",
+      "url": "https://open.spotify.com/track/6V4CdGuUzvm1XrIrrLk9vg"
     },
     {
       "album": {
@@ -2988,6 +3042,28 @@
       "duration_ms": 230163,
       "name": "Boer In My Hart",
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+    },
+    {
+      "album": {
+        "name": "REMIXES 2025",
+        "url": "https://open.spotify.com/album/5Mw98UbY3s49WNtbeTGLFD"
+      },
+      "artists": [
+        {
+          "name": "Juanita du Plessis",
+          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+        },
+        {
+          "name": "DJ FRAN",
+          "url": "https://open.spotify.com/artist/1A8DhcDKccDUgk5mB4rPCc"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "BOEREJOL - Remix 2025",
+      "url": "https://open.spotify.com/track/1YeFXaHJjnPSIAHmfeiTyx"
     },
     {
       "album": {
@@ -4648,7 +4724,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 208250,
       "name": "Dans Met Gevaar",
       "url": "https://open.spotify.com/track/6vcxNDNQNWZv1AteLwTrD2"
@@ -7041,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Ek Hou Van",
+        "url": "https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192295,
+      "name": "Ek Hou Van",
+      "url": "https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY"
+    },
+    {
+      "album": {
         "name": "Ek Is Daar",
         "url": "https://open.spotify.com/album/2vVmvc6mx1a8Qme5By7nEK"
       },
@@ -7490,7 +7584,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 186230,
       "name": "Ek Weet Nie Wat Ek S\u00ea Nie",
       "url": "https://open.spotify.com/track/55GPVHKoJqqFQyBTk2b86b"
@@ -8230,7 +8324,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 168845,
       "name": "Gelukkige Lewe",
       "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
@@ -8526,6 +8620,24 @@
       "duration_ms": 203362,
       "name": "Gogga",
       "url": "https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT"
+    },
+    {
+      "album": {
+        "name": "Golwe",
+        "url": "https://open.spotify.com/album/3sZvspCqQPlPhT2IUipZYm"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192125,
+      "name": "Golwe",
+      "url": "https://open.spotify.com/track/7MmL4eAj3ZfutFxc8n09tM"
     },
     {
       "album": {
@@ -8956,7 +9068,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 158563,
       "name": "Hande Op My Lyf - Shokbasse Remix",
       "url": "https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd"
@@ -9910,7 +10022,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 194709,
       "name": "Hoog Tyd",
       "url": "https://open.spotify.com/track/3BRuY8zmjdCZIrEfNGuhzd"
@@ -13907,6 +14019,24 @@
     },
     {
       "album": {
+        "name": "Laat Hy Val",
+        "url": "https://open.spotify.com/album/6wS3RuLv6aAL9F465B4h4V"
+      },
+      "artists": [
+        {
+          "name": "Mars",
+          "url": "https://open.spotify.com/artist/3PPMXrl6sW2k1GggKpuqEX"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "Laat Hy Val",
+      "url": "https://open.spotify.com/track/064aozVKf0Se95FDE1KVwD"
+    },
+    {
+      "album": {
         "name": "Laat Jou Voete Praat",
         "url": "https://open.spotify.com/album/1GffQhKNGRVPF6RqgmaXV2"
       },
@@ -14204,7 +14334,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 186393,
       "name": "Leef Jou Rede",
       "url": "https://open.spotify.com/track/4LXRSSOqMh9vj41QExHVgl"
@@ -14716,7 +14846,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 210366,
       "name": "Liefde Is Nie Alles Nie",
       "url": "https://open.spotify.com/track/0LitnB5fZ4EOoJgTxvzXJe"
@@ -15180,6 +15310,24 @@
       "duration_ms": 216173,
       "name": "Loco",
       "url": "https://open.spotify.com/track/7s1DLn8TWQlOPuqgoRRJq3"
+    },
+    {
+      "album": {
+        "name": "Loodsvlam",
+        "url": "https://open.spotify.com/album/5qRP9bpuKO8vZfSwCx7r2T"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238235,
+      "name": "Loodsvlam",
+      "url": "https://open.spotify.com/track/0CegudHGWDgemEYPszyCqz"
     },
     {
       "album": {
@@ -17494,7 +17642,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 203898,
       "name": "Niks Soos Liefde Nie",
       "url": "https://open.spotify.com/track/1edKPGqMRGQARQUmAopOsP"
@@ -20292,7 +20440,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 165714,
       "name": "Risiko - Kampvuur Sessie I",
       "url": "https://open.spotify.com/track/6RFu9XzC2RAlobbs5wRb7D"
@@ -21533,6 +21681,24 @@
     },
     {
       "album": {
+        "name": "SKIELIK",
+        "url": "https://open.spotify.com/album/6mBZFoQyvk91AavthLDggL"
+      },
+      "artists": [
+        {
+          "name": "Francis Na Die Maan",
+          "url": "https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "SKIELIK",
+      "url": "https://open.spotify.com/track/4MpgP3mpRydsnbeMj6dpBX"
+    },
+    {
+      "album": {
         "name": "Skildery (Remix)",
         "url": "https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn"
       },
@@ -21844,7 +22010,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 330000,
       "name": "Slot",
       "url": "https://open.spotify.com/track/1SmMQJST2wOhbA4L23dUZj"
@@ -22256,7 +22422,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 201600,
       "name": "Somer In Die Winter",
       "url": "https://open.spotify.com/track/7ML0qy1lzK7hCSs3hj67uv"
@@ -22540,6 +22706,28 @@
       "duration_ms": 183295,
       "name": "Soos 'n Engel",
       "url": "https://open.spotify.com/track/2AV7AYTvTvII2DZ7erNVhJ"
+    },
+    {
+      "album": {
+        "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+        "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
+      },
+      "artists": [
+        {
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182927,
+      "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+      "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
     },
     {
       "album": {
@@ -22880,6 +23068,24 @@
       "duration_ms": 153214,
       "name": "Spoor",
       "url": "https://open.spotify.com/track/2HUWDMMtqTzml3jTIZjuaO"
+    },
+    {
+      "album": {
+        "name": "Spotgoedkoop",
+        "url": "https://open.spotify.com/album/0NO8OaknzdfsvKjoaAa754"
+      },
+      "artists": [
+        {
+          "name": "Francois Jacobs",
+          "url": "https://open.spotify.com/artist/5QLGBW1OrNzDb1pAho1OHv"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "Spotgoedkoop",
+      "url": "https://open.spotify.com/track/7whoF0IGdRtL01Is8TOwfB"
     },
     {
       "album": {
@@ -23350,7 +23556,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 151868,
       "name": "Stook",
       "url": "https://open.spotify.com/track/4vSmKGNFjSo7uNT5uu2Qag"
@@ -23538,7 +23744,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 159953,
       "name": "Stuur Groete Aan Mannetjies Roux",
       "url": "https://open.spotify.com/track/6v0JSAP65aVqaYGRqYAjCM"
@@ -24394,7 +24600,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172297,
       "name": "Toe Jy Omdraai",
       "url": "https://open.spotify.com/track/5wglNbpZidaMDRUz1npiSW"
@@ -25754,7 +25960,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 192037,
       "name": "Verlief - Radio Edit",
       "url": "https://open.spotify.com/track/1iiPEtOus0bAYjOQOuLMzn"
@@ -26897,6 +27103,28 @@
     },
     {
       "album": {
+        "name": "V\u00ear Van Die Huis Af",
+        "url": "https://open.spotify.com/album/5exylKwlQSPJE3iI6NTRj9"
+      },
+      "artists": [
+        {
+          "name": "MJ Nel",
+          "url": "https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A"
+        },
+        {
+          "name": "wiesner",
+          "url": "https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "V\u00ear Van Die Huis Af",
+      "url": "https://open.spotify.com/track/5VgaegynEASH8aApn1fxS0"
+    },
+    {
+      "album": {
         "name": "Waar Ek Hoort",
         "url": "https://open.spotify.com/album/4MXRL9Mo9UNKQAAVzQM5EM"
       },
@@ -27423,6 +27651,24 @@
     },
     {
       "album": {
+        "name": "Wees",
+        "url": "https://open.spotify.com/album/6xOy8BrdpPcSotWcp5Xy5J"
+      },
+      "artists": [
+        {
+          "name": "Jacques Not Jack",
+          "url": "https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212688,
+      "name": "Wees",
+      "url": "https://open.spotify.com/track/2KOk9qzONoU3eznwFEWtNE"
+    },
+    {
+      "album": {
         "name": "Wees Net Beter",
         "url": "https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk"
       },
@@ -27492,7 +27738,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 201000,
       "name": "Weet Jy",
       "url": "https://open.spotify.com/track/0hClSz5kQYa9qi1HWEottD"
@@ -28272,7 +28518,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 176148,
       "name": "Yskoue Bier (Woes Lekker)",
       "url": "https://open.spotify.com/track/3axI0uUrL3ALH8ExrfQX8Y"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Rose Villain in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Fedez in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -342,6 +342,10 @@
         {
           "name": "Olly",
           "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
       "date_added": "2025-02-12",
@@ -654,7 +658,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 188624,
       "name": "COMPLICI",
       "url": "https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7"
@@ -912,7 +916,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 237500,
       "name": "DOVE TI TROVI TU",
       "url": "https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY"
@@ -1118,6 +1122,24 @@
       "duration_ms": 160785,
       "name": "Fino al Blackout",
       "url": "https://open.spotify.com/track/3wcwQwRNqdSmQwmgXYFFQb"
+    },
+    {
+      "album": {
+        "name": "Follemente (from the motion picture \u201cFolleMente\")",
+        "url": "https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200227,
+      "name": "Follemente (from the motion picture \u201cFolleMente\")",
+      "url": "https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje"
     },
     {
       "album": {
@@ -3325,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "SOTTOMARINI",
+        "url": "https://open.spotify.com/album/28da0MtocHgOTrheQsmGe5"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173558,
+      "name": "SOTTOMARINI",
+      "url": "https://open.spotify.com/track/51ttz3b0rd7a6UOASo36lv"
+    },
+    {
+      "album": {
         "name": "Spogliami",
         "url": "https://open.spotify.com/album/2Aq48XzFY1UZA1PAAJobcS"
       },
@@ -3420,6 +3460,24 @@
       "duration_ms": 166693,
       "name": "Tacchi (fra le dita)",
       "url": "https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488"
+    },
+    {
+      "album": {
+        "name": "tg1",
+        "url": "https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "tg1",
+      "url": "https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4"
     },
     {
       "album": {
@@ -3706,7 +3764,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 158214,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5"

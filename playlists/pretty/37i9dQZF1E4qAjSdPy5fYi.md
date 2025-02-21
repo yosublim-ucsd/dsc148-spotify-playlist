@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, Pent Up Pup and more
+> With glitterpop!, Joshua Lanuarii, STYXVII and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 |
 | 50 | [人気インフルエンサー☆](https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU), [Maruyama Yuki](https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 1:48 |
 
-Snapshot ID: `Z7aJhAAAAAAH2iB4MKg1HU7+IZ5Jnv5+`
+Snapshot ID: `Z7fprwAAAAA2jJrekUMbFZtmYfgEzaRe`

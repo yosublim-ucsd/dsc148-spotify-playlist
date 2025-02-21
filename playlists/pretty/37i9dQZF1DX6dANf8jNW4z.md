@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Lachispa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,393 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,392 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 64 | [Malbajío](https://open.spotify.com/track/3qo5albvNpEmcZMKP0o496) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [Malbajío](https://open.spotify.com/album/3PPdWFWMdMzSkQ86atrQaR) | 2:27 |
 | 65 | [Por primera vez](https://open.spotify.com/track/5WIzUEyUVa3ZZJ9qIZZMFU) | [Biuti Bambú](https://open.spotify.com/artist/6UadYwvgJahN1SgN6M8wII) | [Por primera vez](https://open.spotify.com/album/3243FO7elA7mIzxgmm3jW8) | 2:57 |
 
-Snapshot ID: `Z6KcFQAAAABWrzSVQUPdhEYTNuLIgFhg`
+Snapshot ID: `Z6KcFQAAAAAheYAZHjbMDY+ROn13xC7a`

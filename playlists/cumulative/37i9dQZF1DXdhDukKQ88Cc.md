@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> ny ep rammer som en 💫 <a href="spotify:album:5vbJhFQh6zShDRuWIlaFbg">Supanova</a> 💫   <br/> <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">@Kesi</a>
+> 200% kontrol <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">@Merro8</a> 😮‍💨
 
-287 songs - 12 hr 25 min
+290 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |
 | [2 Sider](https://open.spotify.com/track/0H0YR67BTGnCM45tmqvt2Z) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [2 Sider](https://open.spotify.com/album/6ZDIPlUNce9ZHxIzT0b4ka) | 2:16 | 2024-10-24 | 2024-11-08 |
 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 | 2024-12-26 |  |
+| [200](https://open.spotify.com/track/7IUN4edVylAxDiesAbQe5W) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [200](https://open.spotify.com/album/77BMdrzH3RDuKDM9ZkpPL2) | 2:19 | 2025-02-20 |  |
 | [33](https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS), [Vince Keys](https://open.spotify.com/artist/4udv1bgrUxxKrVg566urM6) | [33](https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC) | 2:30 | 2024-10-03 |  |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 | 2024-11-08 |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
@@ -74,6 +75,7 @@
 | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO) | [Pooyandeh](https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV) | 2:43 | 2023-09-21 | 2024-04-05 |
 | [De Her Dage](https://open.spotify.com/track/1vW1acckwBOO7Smn4lWHyt) | [Marcus Gordon](https://open.spotify.com/artist/6n3apCkzT2FIvh9U3rlggn) | [De Her Dage](https://open.spotify.com/album/2EIIOmUv0bPhm5M8VkFN5i) | 2:39 | 2024-05-23 | 2024-06-22 |
 | [De Her Timer](https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA) | 3:28 | 2024-05-16 | 2025-01-10 |
+| [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 |  |
 | [DEMONS & GOONS](https://open.spotify.com/track/0BlLaxm7TtjUVZm7jHVBuV) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [DEMONS & GOONS](https://open.spotify.com/album/2DsLr0Vbrm06K41Ws8TTac) | 2:13 | 2023-11-10 | 2024-01-19 |
 | [Den Sidste](https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Den Sidste](https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua) | 2:25 | 2023-10-12 | 2023-11-11 |
 | [Denim](https://open.spotify.com/track/4MLmlw78j3ZHSE21lOKhPs) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 3:43 | 2024-06-20 | 2024-09-13 |
@@ -116,6 +118,7 @@
 | [For Evigt](https://open.spotify.com/track/1Ya4w6iBrJCUWfofV31nRw) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [For Evigt](https://open.spotify.com/album/3HDRHW7uO9debf03J3s3L6) | 2:56 | 2025-01-16 |  |
 | [For God Til Mig](https://open.spotify.com/track/38Fl7rQYidn2LeaSg6hMRi) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [For God Til Mig](https://open.spotify.com/album/5UsYwZWBwYGdtNyFQMv0l1) | 2:47 | 2024-10-03 | 2024-11-01 |
 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 | 2023-11-10 | 2024-09-13 |
+| [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 |  |
 | [For Livet](https://open.spotify.com/track/5viIhkqgleyQyxIqPIMvYe) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [For Livet](https://open.spotify.com/album/42x2AI6qbiBJYx89oOZMJg) | 2:59 | 2024-08-29 | 2024-11-01 |
 | [Forfra](https://open.spotify.com/track/6bsOIoszGUGP0I8GK028PS) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Forfra](https://open.spotify.com/album/74pSxfFnIuhpN2NYgrvVfh) | 2:54 | 2024-03-07 | 2024-04-05 |
 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 | 2023-10-12 | 2024-09-13 |

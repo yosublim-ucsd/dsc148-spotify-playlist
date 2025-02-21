@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,483 likes - 224 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,500 likes - 224 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 223 | [Vide sans toi](https://open.spotify.com/track/5QdkQqkU8WgB2sxkUM7wdn) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Vide sans toi](https://open.spotify.com/album/5PZJTl6yZJHQBNfkWSKKGd) | 2:07 |
 | 224 | [Desire](https://open.spotify.com/track/6ZWSNL3mdxhmbLh3KSYdqU) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Desire](https://open.spotify.com/album/5X7MlwenEeNdxXAbg1gdMO) | 2:08 |
 
-Snapshot ID: `Z7Wa1QAAAABW+flGkCRFWmPoNh1L1rRQ`
+Snapshot ID: `Z7Wa1QAAAADA0y7ryJhPt/71tieHmf6p`

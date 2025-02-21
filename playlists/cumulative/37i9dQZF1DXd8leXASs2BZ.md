@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Issei Uno Fifth
 
-853 songs - 1 day 15 hr 28 min
+854 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Cheddar cheese \- Remix\-](https://open.spotify.com/track/2Fgi2wKzUoHAWRUD0HV1NL) | [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u), [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [Tam yellie](https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F) | [Cheddar cheese \(\-Remix\-\)](https://open.spotify.com/album/0LnHszTXui4fuQtct8wfvY) | 2:49 | 2024-03-05 | 2024-04-19 |
 | [Cheddar cheese \- Remix\-](https://open.spotify.com/track/61P2ej4ecrMhNjO8t241gE) | [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u), [E.V.P](https://open.spotify.com/artist/5D9NPQT1XN44peiYNVPfQc), [Hijvc Kid](https://open.spotify.com/artist/1s6kw5kqBkiaD5rjeqAhtH), [Tam yellie](https://open.spotify.com/artist/3vKzwMNdPspIkYPVvG557F) | [Cheddar cheese \(\-Remix\-\)](https://open.spotify.com/album/6e6JnkN75BTzyYRRFgwSMh) | 2:49 | 2024-04-16 | 2024-04-24 |
 | [CHEESE BANGER](https://open.spotify.com/track/1fPNZz13a64JdO6hHXCCDa) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [OUT NOW](https://open.spotify.com/album/2bry4nfUT1jrKcrF0a8CZR) | 4:08 | 2023-12-07 | 2024-01-31 |
+| [Cheetah \- Freestyle](https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Cheetah \(Freestyle\)](https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb) | 4:02 | 2025-02-18 |  |
 | [Chemical](https://open.spotify.com/track/5ECnmnkjtRSAiOds1HVh45) | [kedy](https://open.spotify.com/artist/1ykSXwLpoylLO3SNlXStA9) | [Chemical](https://open.spotify.com/album/3uSUJtM5rl3Xcd0G7o7ipn) | 2:34 | 2023-12-26 | 2024-01-24 |
 | [Chotto Mattene \(feat\. Jean Placide\)](https://open.spotify.com/track/0RqJcCqFvJyjfJnkjgxq3R) | [Kona Rose](https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN), [Jean Placide](https://open.spotify.com/artist/0zpEE72yAy9eM0jxoYX0DM) | [MATSURI](https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw) | 2:29 | 2024-01-16 | 2024-01-26 |
 | [chouhachi](https://open.spotify.com/track/7HHO3TQv4CKNVa4Vxg2M6i) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [chouhachi](https://open.spotify.com/album/73mudsrUDLRUiaRJ0gp9sm) | 3:21 | 2024-03-21 | 2024-04-19 |
@@ -405,7 +406,7 @@
 | [KNOCK KNOCK](https://open.spotify.com/track/1cWKNwi6Kfs6qKiQbXibji) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [KNOCK KNOCK](https://open.spotify.com/album/2hlCfOWlXXIT5jJqGpnKA8) | 3:22 | 2024-04-16 | 2024-05-08 |
 | [Kobra](https://open.spotify.com/track/2lYPQGBza81vM14YJ4714v) | [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU) | [Kobra](https://open.spotify.com/album/1HOesSFXJbFerd4GJeofo1) | 1:48 | 2024-04-24 | 2024-07-10 |
 | [Koncrete](https://open.spotify.com/track/6tNDN4anU7QJSq8P6lfwf6) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [Kidney Fuji](https://open.spotify.com/artist/5ImlGMjtl8oe8VVdjY2mwd), [Kaleido](https://open.spotify.com/artist/4hjxp2rMHSUmd1I7vfKC1l) | [O.B.S 10](https://open.spotify.com/album/3MToBsh7uqlVCkJQNwlA9V) | 2:01 | 2024-07-25 | 2024-12-04 |
-| [KORIAN TOWN](https://open.spotify.com/track/2UWAwPr8JiOS64mbKZJ8Ca) | [DOUBLE UP](https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07) | [NEW SOUTH](https://open.spotify.com/album/55gjOYpKN0WejIdqfq8dpB) | 2:53 | 2025-02-18 |  |
+| [KOREAN TOWN](https://open.spotify.com/track/2UWAwPr8JiOS64mbKZJ8Ca) | [DOUBLE UP](https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07) | [NEW SOUTH](https://open.spotify.com/album/55gjOYpKN0WejIdqfq8dpB) | 2:53 | 2025-02-18 |  |
 | [KUKULU](https://open.spotify.com/track/6aGYB10jAtazDzQQOqFuNx) | [Flowerboi Take](https://open.spotify.com/artist/1jwvfExsuq8uYh4QkMPYYB) | [KUKULU](https://open.spotify.com/album/1uXa8xF040EXPsjYxoCOdt) | 2:01 | 2024-07-16 | 2024-08-28 |
 | [kung fu](https://open.spotify.com/track/3bglZ9EErqn0xsJ3sZ9v9x) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [kung fu](https://open.spotify.com/album/5OdM0vinPYg83LeUyjp4H3) | 2:36 | 2024-08-28 | 2024-11-27 |
 | [Kuruma de go! part2 \(feat\. Daedalbwoy\)](https://open.spotify.com/track/3727tPEfz1TgEd3QNy2rHt) | [AWAZARUKAS](https://open.spotify.com/artist/1qJPbVrtETyKkBDFxxqpcw), [Daedalbwoy](https://open.spotify.com/artist/6xeg8lL9yXzkN53bCoqort) | [A](https://open.spotify.com/album/4c7pxnswpFE2VW1xUlK4wi) | 3:16 | 2024-11-19 | 2025-01-09 |

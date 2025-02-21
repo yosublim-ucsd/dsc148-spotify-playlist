@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,574 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,585 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 |
 | 75 | [Más Intenções](https://open.spotify.com/track/3BPtSwO7ys5cP0V35WRyZ6) | [Soulcity](https://open.spotify.com/artist/40nNL1xkYdlMu5qNqxZ9Ui) | [Más Intenções](https://open.spotify.com/album/7ccSULQ6whY5KPCxOhNZqE) | 4:06 |
 
-Snapshot ID: `Z6V3fQAAAACxnE7sqx7IoMJ+c6zk7ihx`
+Snapshot ID: `Z6V3fQAAAAD57ezWhGiFu7Jo+3TXdgnZ`

@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-272 songs - 15 hr 33 min
+273 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 | 2024-02-03 | 2025-02-08 |
 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 | 2025-02-14 |  |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-31 | 2024-02-04 |
-| [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 | 2024-02-03 |  |
+| [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 | 2024-02-03 | 2025-02-21 |
 | [By Your Side](https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Over And Underneath](https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM) | 4:01 | 2024-07-17 |  |
 | [Came True](https://open.spotify.com/track/4TU8JQCnNPG1l0ZL8c7lPf) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Chavyn Jaice](https://open.spotify.com/artist/5Xf7bP1HuOB3fe0julaUox) | [Came True](https://open.spotify.com/album/6uIN4DNkaaSxXgovWhrz87) | 3:08 | 2024-07-17 | 2025-01-09 |
 | [Can we…?](https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Can we…?](https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX) | 2:23 | 2024-07-17 | 2025-02-08 |
@@ -110,6 +110,7 @@
 | [Higher Love](https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Higher Love](https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO) | 4:06 | 2024-02-03 |  |
 | [Hold Her](https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:04 | 2020-04-17 | 2024-02-04 |
 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 | 2023-01-31 |  |
+| [Hold Me Down](https://open.spotify.com/track/1di5UNszQaTG1dNHdkb06q) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Hold Me Down](https://open.spotify.com/album/5ynCJ6GEsTN7zRvPrzDjLb) | 3:03 | 2025-02-14 |  |
 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 | 2024-02-05 | 2025-02-08 |
 | [Honey](https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Honey](https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw) | 2:44 | 2025-02-07 |  |
 | [HOW DOES IT FEEL](https://open.spotify.com/track/0I5Z4qbYI7D3BSyTmnyNxG) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [HOW DOES IT FEEL](https://open.spotify.com/album/6b5axnC9yBEz1jrtV9kzpB) | 2:48 | 2024-02-05 | 2024-07-18 |

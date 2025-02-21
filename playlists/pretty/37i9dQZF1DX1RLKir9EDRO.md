@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,927 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,932 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 69 | [Bi Yan Yana Olsak](https://open.spotify.com/track/7wKyMpsIw0crueELBYdXuS) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Rüzgar Bizi Götürse](https://open.spotify.com/album/4tsutBOUdQUsJVEXKpDFgk) | 3:43 |
 | 70 | [İsmet](https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [İsmet](https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn) | 5:07 |
 
-Snapshot ID: `Z7W0zAAAAADA7sbgfiUmIOV54+wArlXP`
+Snapshot ID: `Z7W0zAAAAABaFYFViJTtjGtKrm6VXJ1O`

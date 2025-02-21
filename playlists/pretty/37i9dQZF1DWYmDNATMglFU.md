@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > the new generation ⛓ ft\. ALT BLK ERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,629 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,596 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 87 | [I Tried to Act Your Age](https://open.spotify.com/track/6pXQhF6JqV2C1TlHgZKDW1) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [I Tried to Act Your Age](https://open.spotify.com/album/4QoHf1A5nAdISKgsRHHNDA) | 3:56 |
 | 88 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 |
 
-Snapshot ID: `Z6YzsAAAAACSFMU7ibtdK50TXzNvnboo`
+Snapshot ID: `Z6YzsAAAAAAFWGWlTSqbnXB+2GM2/ZTs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover:Momo Asakura
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,055 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,054 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [雨の庭](https://open.spotify.com/track/0CkJtjocL0CT5V76SWciDr) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [雨の庭](https://open.spotify.com/album/6hIoC7FELfXksh3T8IgvtI) | 4:27 |
 | 50 | [Dearest](https://open.spotify.com/track/5CLU5UE022QFfzw94cYgBV) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [Dearest](https://open.spotify.com/album/1Gk8J2M3tkKeoHePwFAiss) | 3:28 |
 
-Snapshot ID: `Z6nmcwAAAACX39zH6EvBCbxahaOJ8zm+`
+Snapshot ID: `Z6nmcwAAAACZRZhTnGf4vyMSbCMhTs08`

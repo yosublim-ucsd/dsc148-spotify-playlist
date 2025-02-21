@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Listen to the future. Cover: rhyu",
+  "description": "Listen to the future. Cover: Adrianna Cinta",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1422,6 +1422,24 @@
       "duration_ms": 204059,
       "name": "Moon & The Sun",
       "url": "https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql"
+    },
+    {
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/7vAY2GYdCPYFWE5h1QJD4k"
+      },
+      "artists": [
+        {
+          "name": "Adrianna Cinta",
+          "url": "https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168970,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/1pNPH4azbjxxfGvBiDq6W9"
     },
     {
       "album": {

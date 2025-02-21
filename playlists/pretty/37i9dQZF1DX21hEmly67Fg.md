@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,658 likes - 139 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,839 likes - 139 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 138 | [Beneath Your Beautiful](https://open.spotify.com/track/2VbY7KIocmOnyESMFJkvnk) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Floritatura](https://open.spotify.com/album/5XLiLgTWItJ7c7PHr8cpEk) | 3:58 |
 | 139 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 |
 
-Snapshot ID: `Z7XwOwAAAAAK/I5Y4CHu9zOUkamJnNSn`
+Snapshot ID: `Z7XwOwAAAABQkHl7pY2ggIaGPnfxz7IH`

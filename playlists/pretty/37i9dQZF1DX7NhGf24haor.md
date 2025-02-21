@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Noisecontrollers
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,902 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,002 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [RAGE](https://open.spotify.com/track/4UnYuYx9EFHbY19cbvOUjb) | [Infliction](https://open.spotify.com/artist/1jlSojJNNkZC35aVF5ifWa), [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [RAGE](https://open.spotify.com/album/6DLccx2pOOMiEwlMZfMN2u) | 2:16 |
 | 100 | [Demise 3.0](https://open.spotify.com/track/7rEdt2985FrkmZw85rf5p2) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Demise 3.0](https://open.spotify.com/album/5RCXfRxwsJERBYQ1AY9THO) | 2:30 |
 
-Snapshot ID: `Z7RFKQAAAADCfp1xPyXT9a0hvTzHtqTD`
+Snapshot ID: `Z7RFKQAAAAD2l+4XGvgV0/oI2KK6gHXJ`

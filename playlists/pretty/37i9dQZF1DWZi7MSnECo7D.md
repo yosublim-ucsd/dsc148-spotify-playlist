@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Karen Jonz
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,135 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,093 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/album/4PE4FggN1JeU3LiYeUiatB) | 2:41 |
 | 80 | [um sorriso que se vai](https://open.spotify.com/track/5PmGhWPnuoJ4L1gxF4R09h) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [um sorriso que se vai](https://open.spotify.com/album/400uetxrcRfI7IGFiwC8ro) | 3:44 |
 
-Snapshot ID: `Z66x/QAAAAA8xFS5VzFESWNdFv86yAxv`
+Snapshot ID: `Z66x/QAAAACV96CxzbYVoRd4HILmVHU9`

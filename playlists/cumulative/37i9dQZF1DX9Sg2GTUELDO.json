@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: AGA \u6c5f\u6d77\u8fe6",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Kiri T",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 186360,
       "name": "AFK???",
       "url": "https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu"
     },
     {
       "album": {
@@ -1698,6 +1716,24 @@
       "duration_ms": 178325,
       "name": "Little Magic",
       "url": "https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73"
+    },
+    {
+      "album": {
+        "name": "Live for You",
+        "url": "https://open.spotify.com/album/26IUr9oTn5LtNm3A1q1SI6"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Live for You",
+      "url": "https://open.spotify.com/track/539H6Lr9wJMOUPy4UGe1wK"
     },
     {
       "album": {
@@ -6223,6 +6259,24 @@
     },
     {
       "album": {
+        "name": "\u69ae\u8b7d\u535a\u58eb",
+        "url": "https://open.spotify.com/album/23qCFYffCFM2XwtSVqsVfE"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177234,
+      "name": "\u69ae\u8b7d\u535a\u58eb",
+      "url": "https://open.spotify.com/track/31WsjJrHaGCkYisP8QEaKc"
+    },
+    {
+      "album": {
         "name": "\u6a02\u5712\u898b",
         "url": "https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC"
       },
@@ -6835,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "\u7559\u5728\u4f60\u5728\u6211\u5728\u7684\u8166\u6d77",
+        "url": "https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn"
+      },
+      "artists": [
+        {
+          "name": "Feanna Wong",
+          "url": "https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233555,
+      "name": "\u7559\u5728\u4f60\u5728\u6211\u5728\u7684\u8166\u6d77",
+      "url": "https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb"
+    },
+    {
+      "album": {
         "name": "\u7576\u5175\u7684\u81ea\u6211\u4fee\u990a",
         "url": "https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa"
       },
@@ -6868,6 +6940,24 @@
       "duration_ms": 168645,
       "name": "\u75f4\u6839\u9435\u7c89",
       "url": "https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F"
+    },
+    {
+      "album": {
+        "name": "\u767d\u6708\u5149",
+        "url": "https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u6a02\u5f64",
+          "url": "https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225764,
+      "name": "\u767d\u6708\u5149",
+      "url": "https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt"
     },
     {
       "album": {

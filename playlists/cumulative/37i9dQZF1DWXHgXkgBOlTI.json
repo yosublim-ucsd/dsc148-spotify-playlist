@@ -70,10 +70,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
+    },
+    {
+      "album": {
+        "name": "Color & Monochrome 3",
+        "url": "https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256136,
+      "name": "after heat",
+      "url": "https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Akatsuki",
       "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 284052,
       "name": "Cosmic Maze",
       "url": "https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 221066,
       "name": "Dusty Future",
       "url": "https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 236866,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 219040,
       "name": "Install",
       "url": "https://open.spotify.com/track/0XHXSRiodyRHikC7Rah4L5"
@@ -890,6 +908,24 @@
       "duration_ms": 400106,
       "name": "Lamp (feat. Nujabes)",
       "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
     },
     {
       "album": {
@@ -940,7 +976,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 231525,
       "name": "massive",
       "url": "https://open.spotify.com/track/5ZLhUcvJ8XVOQ8syjyPYod"
@@ -1092,7 +1128,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 268425,
       "name": "Never Let Go - Instrumental",
       "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 311000,
       "name": "Purple",
       "url": "https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 249833,
       "name": "Sakura Flutter",
       "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 217666,
       "name": "SignaL",
       "url": "https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5"
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 281733,
       "name": "Syncer",
       "url": "https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD"
@@ -1842,6 +1878,24 @@
       "duration_ms": 258663,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP"
+    },
+    {
+      "album": {
+        "name": "debut",
+        "url": "https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "tokyo class",
+      "url": "https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb"
     },
     {
       "album": {
@@ -2286,7 +2340,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 342293,
       "name": "\uff08\u3064\u3065\u304f\uff09",
       "url": "https://open.spotify.com/track/2gMxAHUFrJqvBlRvBorkjE"

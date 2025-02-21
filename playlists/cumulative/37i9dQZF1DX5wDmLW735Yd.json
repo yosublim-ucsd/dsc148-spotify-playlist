@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Benny Page, Mad Sam",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rene LaVice",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -919,6 +919,32 @@
     },
     {
       "album": {
+        "name": "Area Code",
+        "url": "https://open.spotify.com/album/35jRxBjzLbmjgWEfobEUFb"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194471,
+      "name": "Area Code",
+      "url": "https://open.spotify.com/track/04YHC7lSLrX3Ar1VbcCYIs"
+    },
+    {
+      "album": {
         "name": "Arena (Lose My Mind)",
         "url": "https://open.spotify.com/album/2DLInkcZFGNwSS9q7a8JZ2"
       },
@@ -1824,7 +1850,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 180500,
       "name": "Big Bad",
       "url": "https://open.spotify.com/track/5tj8MV1ntfd5DpTsKvYcLc"
@@ -2204,7 +2230,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172413,
       "name": "Break It Down (feat. Emily Makis)",
       "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
@@ -4412,7 +4438,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 131485,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR"
@@ -4434,6 +4460,24 @@
       "duration_ms": 138514,
       "name": "Down 4",
       "url": "https://open.spotify.com/track/4wdqjXxcM5sis1fv4ureKR"
+    },
+    {
+      "album": {
+        "name": "Down Like Me / Watch The Drops",
+        "url": "https://open.spotify.com/album/5F9wYmqWc6mwoOTvsnkreS"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Down like Me",
+      "url": "https://open.spotify.com/track/3e61QGmzok2D3cucDA2pQ7"
     },
     {
       "album": {
@@ -4774,6 +4818,28 @@
       "duration_ms": 231435,
       "name": "End Bad",
       "url": "https://open.spotify.com/track/165DzOuVik4zHz9nNU2ztk"
+    },
+    {
+      "album": {
+        "name": "End of the Road",
+        "url": "https://open.spotify.com/album/59wC4a48REr6hqDwdkAmkM"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Nathan Smoker",
+          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192665,
+      "name": "End of the Road",
+      "url": "https://open.spotify.com/track/2FaIyCxS6hteGORbVlX1fN"
     },
     {
       "album": {
@@ -7142,7 +7208,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 266827,
       "name": "High & Low - Zero T Remix",
       "url": "https://open.spotify.com/track/77Ai4rVwMPKoBbGHyCPVG9"
@@ -7642,7 +7708,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 155056,
       "name": "I Miss The Old Macky",
       "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
@@ -7668,6 +7734,32 @@
       "duration_ms": 216551,
       "name": "I Need To Feel",
       "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
+    },
+    {
+      "album": {
+        "name": "I need to know (CLIPZ Remix)",
+        "url": "https://open.spotify.com/album/74lPt76U97zdmaFUvFKgkW"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178812,
+      "name": "I need to know - CLIPZ Remix",
+      "url": "https://open.spotify.com/track/12N5Nt7pPhM3FcsVJkTP9i"
     },
     {
       "album": {
@@ -7740,6 +7832,28 @@
       "duration_ms": 149345,
       "name": "I Watch The Moon",
       "url": "https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr"
+    },
+    {
+      "album": {
+        "name": "I'm a Roller",
+        "url": "https://open.spotify.com/album/0E8GiFFwmOT8oJ1esR26uZ"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142911,
+      "name": "I'm a Roller",
+      "url": "https://open.spotify.com/track/7xuqb3kfDqNCCyG0cDlIQt"
     },
     {
       "album": {
@@ -10692,7 +10806,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 205517,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/7ddjdWld2iDF5jblH2Hkzg"
@@ -11806,6 +11920,28 @@
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
+    },
+    {
+      "album": {
+        "name": "Owe It All To You",
+        "url": "https://open.spotify.com/album/31D5KFyavZz9dMCF08ARJl"
+      },
+      "artists": [
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162864,
+      "name": "Owe It All To You",
+      "url": "https://open.spotify.com/track/4rnQDR4LkCVeTN85wiPByY"
     },
     {
       "album": {
@@ -17197,6 +17333,32 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3EcraYifDxMHAoqpgaweft"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274385,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/649plSemKxHAB23tlsxlMd"
+    },
+    {
+      "album": {
         "name": "Wake You Up",
         "url": "https://open.spotify.com/album/5njzyBXyZallI39S4ZdNEM"
       },
@@ -18134,7 +18296,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

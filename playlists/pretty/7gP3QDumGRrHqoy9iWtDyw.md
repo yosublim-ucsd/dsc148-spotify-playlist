@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,580 likes - 239 songs - 15 hr 9 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,581 likes - 244 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,10 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 237 | [Xtreme BS](https://open.spotify.com/track/1mNlgNvahC1uZRwhPXxM3y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Xtreme BS](https://open.spotify.com/album/6ijxSQ6IzecdFVWVrMnzIm) | 3:01 |
 | 238 | [Whispers](https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Whispers EP](https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8) | 2:35 |
 | 239 | [Pretty Boy Swag](https://open.spotify.com/track/0OogJrrV5p5otqQe1pQOBb) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68) | [Pretty Boy Swag](https://open.spotify.com/album/3QSn7hwDS4MqBWhozhHcyN) | 3:17 |
+| 240 | [Bad Kubing](https://open.spotify.com/track/1dI9RBzkC4AQjMnukyV2Vz) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Bad Kubing](https://open.spotify.com/album/3tx73yrQaQuqB6CH0qnMOx) | 2:44 |
+| 241 | [Freakquency](https://open.spotify.com/track/5FEZRVJDsMxae4jz3j0OJE) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 2:59 |
+| 242 | [Feels Like Summer](https://open.spotify.com/track/2BmyES33xncl530X676vME) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Feels Like Summer](https://open.spotify.com/album/68yPa8XcioIq8HR3TYRwiI) | 3:02 |
+| 243 | [Hit the Brakes](https://open.spotify.com/track/0p7EW6BKJJ9FgeNd5Vrb5I) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Hit the Brakes](https://open.spotify.com/album/25V5D5A9JJJlCAquCMG5U5) | 2:55 |
+| 244 | [Nobody](https://open.spotify.com/track/2fxHu4Nfnt1Htt3Epsd5DY) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [All In](https://open.spotify.com/album/2my3scIg8dImUFBYcn3DEG) | 2:31 |
 
-Snapshot ID: `AAAJYYLT34giryunBhct0HoXQLEsr6rd`
+Snapshot ID: `AAAJZl/ECI8mvj8YB0z29f/13vFyqjy0`

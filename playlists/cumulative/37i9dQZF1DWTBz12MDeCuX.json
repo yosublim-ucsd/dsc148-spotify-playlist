@@ -1697,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "abendrot",
+        "url": "https://open.spotify.com/album/4XTqp55fa4vT8lBIQj4Wnp"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126551,
+      "name": "abendrot",
+      "url": "https://open.spotify.com/track/5pvDspjgrtfo9rRPE5rR5M"
+    },
+    {
+      "album": {
         "name": "Aber Du",
         "url": "https://open.spotify.com/album/2uZfSq6wohJ5S7F84GMvHO"
       },
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 217639,
       "name": "Amicelli",
       "url": "https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf"
@@ -10567,6 +10589,24 @@
     },
     {
       "album": {
+        "name": "Diebstahl",
+        "url": "https://open.spotify.com/album/3k1NBN8O4ZElSFxrGkzgaA"
+      },
+      "artists": [
+        {
+          "name": "TimmyT",
+          "url": "https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200718,
+      "name": "Diebstahl",
+      "url": "https://open.spotify.com/track/4wRELGdNQurkaZ7VPgKPj2"
+    },
+    {
+      "album": {
         "name": "Dieser Sommer",
         "url": "https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub"
       },
@@ -11126,6 +11166,24 @@
       "duration_ms": 146250,
       "name": "dominik hartz",
       "url": "https://open.spotify.com/track/17nconovPtL9P1y5jOV2zE"
+    },
+    {
+      "album": {
+        "name": "Don't Be Seen With Me",
+        "url": "https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265061,
+      "name": "Don't Be Seen With Me",
+      "url": "https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3"
     },
     {
       "album": {
@@ -11960,7 +12018,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 120263,
       "name": "Durch Gl\u00e4ser sehen",
       "url": "https://open.spotify.com/track/1rNJChyUxuSM8yAykgNa0v"
@@ -11978,7 +12036,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 160000,
       "name": "D\u00f3nde",
       "url": "https://open.spotify.com/track/12WDhdA9LAn4FqiuPhOTWZ"
@@ -12974,6 +13032,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Ende",
+        "url": "https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173487,
+      "name": "Ende",
+      "url": "https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1"
     },
     {
       "album": {
@@ -16363,6 +16439,28 @@
     },
     {
       "album": {
+        "name": "Generation Z",
+        "url": "https://open.spotify.com/album/2dq7zCevg7tsf2wrD3ZBTG"
+      },
+      "artists": [
+        {
+          "name": "Die Gebr\u00fcder Brett",
+          "url": "https://open.spotify.com/artist/07vNMZfNvVVmo0Ajvj8foo"
+        },
+        {
+          "name": "Antifuchs",
+          "url": "https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Generation Z",
+      "url": "https://open.spotify.com/track/0n9KosFpl451B5Ih1aUtaP"
+    },
+    {
+      "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
         "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
       },
@@ -18488,7 +18586,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -21385,6 +21483,24 @@
     },
     {
       "album": {
+        "name": "if jesus saw what we did last night",
+        "url": "https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "if jesus saw what we did last night",
+      "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
+    },
+    {
+      "album": {
         "name": "if u think i'm pretty",
         "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
@@ -21962,6 +22078,24 @@
       "duration_ms": 211541,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ"
+    },
+    {
+      "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/40uGNlnavAbwWtL5zy44Ty"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2VTxjnSovY93J4J4dNXhcH"
     },
     {
       "album": {
@@ -23794,7 +23928,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 118616,
       "name": "kleine freche jungs",
       "url": "https://open.spotify.com/track/42mmXr8GuWAVx2jTxR7LTs"
@@ -24488,6 +24622,28 @@
       "duration_ms": 145004,
       "name": "lass dich los",
       "url": "https://open.spotify.com/track/1BVqOjjfoLqRXS5n8gA8A5"
+    },
+    {
+      "album": {
+        "name": "lass es gehen (feat. Max Raabe)",
+        "url": "https://open.spotify.com/album/78509kJPacnQlVAakLhIM6"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Max Raabe",
+          "url": "https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "lass es gehen (feat. Max Raabe)",
+      "url": "https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8"
     },
     {
       "album": {
@@ -25936,7 +26092,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 178034,
       "name": "loner/loser",
       "url": "https://open.spotify.com/track/4jqfyrkRVFCD4vwTeImy2S"
@@ -28102,7 +28258,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 129022,
       "name": "midnight",
       "url": "https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg"
@@ -30146,7 +30302,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 89074,
       "name": "Nebel",
       "url": "https://open.spotify.com/track/3pZU6UC62REbmuXSYy96Dt"
@@ -31086,7 +31242,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -35513,6 +35669,24 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/2MrecpDg6Y0p88ItxIGBxf"
       },
@@ -37567,6 +37741,28 @@
     },
     {
       "album": {
+        "name": "seitanfangan",
+        "url": "https://open.spotify.com/album/1ffqItD601riuh2NVzjuOv"
+      },
+      "artists": [
+        {
+          "name": "snice1",
+          "url": "https://open.spotify.com/artist/4JShzqEj36XDRzWrQnou74"
+        },
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190054,
+      "name": "seitanfangan",
+      "url": "https://open.spotify.com/track/58EynCRtn7eyZcFS9J1O9H"
+    },
+    {
+      "album": {
         "name": "Sektfr\u00fchst\u00fcck",
         "url": "https://open.spotify.com/album/6EtXewGaltDSG8CmlNMYgT"
       },
@@ -37622,7 +37818,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 119172,
       "name": "Selbstzweifel",
       "url": "https://open.spotify.com/track/0jrG4TxgtxSCzvp3zcOByR"
@@ -37670,6 +37866,24 @@
       "duration_ms": 131041,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "album": {
+        "name": "OUTRUN EP",
+        "url": "https://open.spotify.com/album/49nrhs0JMrPie06MgEjCuE"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133593,
+      "name": "SEV",
+      "url": "https://open.spotify.com/track/2tAS95Xdx1OtB3I1XlcZ0s"
     },
     {
       "album": {
@@ -46812,7 +47026,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 151999,
       "name": "Weg zu weit",
       "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
@@ -47440,7 +47654,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 274640,
       "name": "Wenn nichts von nichts kommt",
       "url": "https://open.spotify.com/track/00Jct5EKWewKIVdLZX9Kl2"
@@ -48842,6 +49056,24 @@
       "duration_ms": 174357,
       "name": "YEAH RIGHT",
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
+    },
+    {
+      "album": {
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
       "album": {

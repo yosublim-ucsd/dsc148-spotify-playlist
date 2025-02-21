@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Grimm Lynn, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,370 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,507 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Caffeine](https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Caffeine](https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs) | 3:10 |
 | 100 | [funk\*](https://open.spotify.com/track/7fKzPucqS1shG2iD7KNFtS) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [funk\*](https://open.spotify.com/album/7x5WtCozyCBzaozSVwHwCo) | 2:47 |
 
-Snapshot ID: `Z7YseAAAAADiRs6clW2i6OXIVtt3N7Eb`
+Snapshot ID: `Z7YseAAAAABHKd0Oc5nfOVjbDIRnPFRJ`

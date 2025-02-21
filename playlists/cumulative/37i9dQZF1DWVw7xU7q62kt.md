@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-407 songs - 19 hr 25 min
+408 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Concept of Jazz](https://open.spotify.com/track/5Ott1vy68HeQh2fVvLQORX) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Concept of Jazz](https://open.spotify.com/album/1XWEJyyh5XWeMrjRObeVC5) | 2:09 | 2025-02-14 |  |
 | [Conflicting](https://open.spotify.com/track/7sjJb0GmthGYl8TXGzwh4n) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Conflicting](https://open.spotify.com/album/0LBqMg7aOOg2FYjjY4NmdN) | 2:55 | 2025-02-14 |  |
 | [Conscious Dream](https://open.spotify.com/track/1EFZlRC3hOeFbN2mmxs6pv) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Conscious Dream](https://open.spotify.com/album/0pyn3nt7UTFH5Jv8s9PdYy) | 1:32 | 2025-02-14 |  |
+| [Corner Piano](https://open.spotify.com/track/0OD9iCzzNE7dotHlzbLtwf) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Corner Piano](https://open.spotify.com/album/2lYCPZvwNuHfSyxutXRATp) | 1:38 | 2025-02-14 |  |
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-08-23 |  |
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
@@ -258,7 +259,7 @@
 | [Nowadayz](https://open.spotify.com/track/4HvdrpohNELdW4PJbh617a) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Nowadayz](https://open.spotify.com/album/1CRi9bXg6x1c5e5qxRX5b1) | 2:04 | 2024-09-06 |  |
 | [nyc in 1940](https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [nyc in 1940](https://open.spotify.com/album/6TM8VNhv0P9CfSf2CdNkQO) | 2:36 | 2025-01-24 | 2025-02-04 |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
-| [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |
+| [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 | 2025-02-21 |
 | [OLDRICH](https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx) | [OLDRICH](https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl) | 2:21 | 2023-08-22 |  |
 | [Omen](https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2) | [RuiijiKun](https://open.spotify.com/artist/34Kex8JSfMcDFqILq2vX0x) | [Omen](https://open.spotify.com/album/0zQQuUOZGdU4XKC7GXpJlB) | 2:49 | 2024-10-11 |  |
 | [One Step Ahead](https://open.spotify.com/track/3JEEEyro5VLuwgz1gV7P0e) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Schematics](https://open.spotify.com/album/228bJhLYXUokuq7eYEQDnf) | 1:48 | 2025-01-10 | 2025-02-09 |

@@ -6,8 +6,548 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACty08JEo0HGbuUgVhDsMK95ZIpUx3w",
+  "snapshot_id": "AACuBJQxt5l0pUBzT11Tra3SLqYItj8j",
   "tracks": [
+    {
+      "added_at": "2025-02-20 19:25:40",
+      "album": {
+        "name": "#1 Best of All Time",
+        "url": "https://open.spotify.com/album/4ohzhYRM3TIMysBhdO6cit"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "duration_ms": 128679,
+      "name": "#1 Best of All Time",
+      "url": "https://open.spotify.com/track/20syoWpQEUCdl91LQRZhjG"
+    },
+    {
+      "added_at": "2025-02-20 19:34:38",
+      "album": {
+        "name": "Dar Dos",
+        "url": "https://open.spotify.com/album/31hoqRwucjvltHHDsl9UuN"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "duration_ms": 213429,
+      "name": "Dar Dos",
+      "url": "https://open.spotify.com/track/2TzV7yrc3A8ejmytkN1z2P"
+    },
+    {
+      "added_at": "2025-02-20 19:26:36",
+      "album": {
+        "name": "Bunky Pop",
+        "url": "https://open.spotify.com/album/3skDHzIhgCaW85Af68Uiz1"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 181320,
+      "name": "Bunky Pop",
+      "url": "https://open.spotify.com/track/3XNTRQC9MdHCcxh0qSbxzW"
+    },
+    {
+      "added_at": "2025-02-20 19:09:53",
+      "album": {
+        "name": "EL BALL DE LA CIVADA",
+        "url": "https://open.spotify.com/album/7vPLGDwXqSHg3HsGwUSBHb"
+      },
+      "artists": [
+        {
+          "name": "Lildami",
+          "url": "https://open.spotify.com/artist/0gasUYSkVsXgX3p3bera9b"
+        }
+      ],
+      "duration_ms": 164187,
+      "name": "EL BALL DE LA CIVADA",
+      "url": "https://open.spotify.com/track/4w9ID1R6nMvuYNaCeYvqbK"
+    },
+    {
+      "added_at": "2025-02-20 19:26:56",
+      "album": {
+        "name": "Till the Morning",
+        "url": "https://open.spotify.com/album/6uT4crkUKHoS3g60Wh1dFN"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Addario",
+          "url": "https://open.spotify.com/artist/4uYOahvnD68yiUJt0QlyBZ"
+        }
+      ],
+      "duration_ms": 222140,
+      "name": "Till the Morning",
+      "url": "https://open.spotify.com/track/7AkaOWmZf1Bin6Vp4LsfBM"
+    },
+    {
+      "added_at": "2025-02-20 19:52:10",
+      "album": {
+        "name": "Ghostly",
+        "url": "https://open.spotify.com/album/1LlEshLkn4bP1ACf2peFF0"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/4XzPBq65qvgxLclPvu0bQw"
+    },
+    {
+      "added_at": "2025-02-20 19:38:44",
+      "album": {
+        "name": "NOT ANYMORE",
+        "url": "https://open.spotify.com/album/4ajPVzhqX4R0LZwIctcOVe"
+      },
+      "artists": [
+        {
+          "name": "chinachinachina",
+          "url": "https://open.spotify.com/artist/3vI709gEiM2AodC16Zp13p"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "NOT ANYMORE",
+      "url": "https://open.spotify.com/track/7tkO4J0p51gZj3XeTLARVt"
+    },
+    {
+      "added_at": "2025-02-20 19:25:22",
+      "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+    },
+    {
+      "added_at": "2025-02-20 19:14:37",
+      "album": {
+        "name": "No Front Teeth",
+        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "No Front Teeth",
+      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
+    },
+    {
+      "added_at": "2025-02-20 19:56:39",
+      "album": {
+        "name": "Probably Wizards",
+        "url": "https://open.spotify.com/album/0sc9Iu6WAUVsWdFPr5P1lv"
+      },
+      "artists": [
+        {
+          "name": "James Krivchenia",
+          "url": "https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Probably Wizards",
+      "url": "https://open.spotify.com/track/1z1gvb1YQeGj6tDuYbamMV"
+    },
+    {
+      "added_at": "2025-02-20 19:58:50",
+      "album": {
+        "name": "Pyramid Scheme",
+        "url": "https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 195700,
+      "name": "Pyramid Scheme",
+      "url": "https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8"
+    },
+    {
+      "added_at": "2025-02-20 19:43:16",
+      "album": {
+        "name": "Recorda (o oblida)",
+        "url": "https://open.spotify.com/album/6ufMnedAQeNOGIzeLcwwP9"
+      },
+      "artists": [
+        {
+          "name": "Mar Pujol",
+          "url": "https://open.spotify.com/artist/1Lwzj7r2h7OYhhM4bDcFQe"
+        },
+        {
+          "name": "Henrio",
+          "url": "https://open.spotify.com/artist/0oSXRm87lhplIslH3BzQwB"
+        }
+      ],
+      "duration_ms": 207632,
+      "name": "Recorda (o oblida)",
+      "url": "https://open.spotify.com/track/6uEMlmLnF1MqpE14PJuGf1"
+    },
+    {
+      "added_at": "2025-02-20 19:32:55",
+      "album": {
+        "name": "Cigarro en la sien",
+        "url": "https://open.spotify.com/album/6k4gIBA6aN3YHGWRDCk7yZ"
+      },
+      "artists": [
+        {
+          "name": "ANADIE",
+          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
+        }
+      ],
+      "duration_ms": 149927,
+      "name": "Cigarro en la sien",
+      "url": "https://open.spotify.com/track/783fMdW7QRKI82Zybr5UWk"
+    },
+    {
+      "added_at": "2025-02-20 19:34:26",
+      "album": {
+        "name": "QTHCQE",
+        "url": "https://open.spotify.com/album/3GoRi4qKS7pGWFTfHVkILP"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "duration_ms": 178592,
+      "name": "QTHCQE",
+      "url": "https://open.spotify.com/track/5yv1T5uuswsP6FLNhzDW09"
+    },
+    {
+      "added_at": "2025-02-20 19:40:22",
+      "album": {
+        "name": "Cash Feeling",
+        "url": "https://open.spotify.com/album/0TSvH5GMGMbLN2YvudPmGr"
+      },
+      "artists": [
+        {
+          "name": "8belial",
+          "url": "https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Virtual Flavor",
+          "url": "https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Cash Feeling",
+      "url": "https://open.spotify.com/track/7BB2ZdVdrzkbmVeUdzJbh3"
+    },
+    {
+      "added_at": "2025-02-20 19:48:55",
+      "album": {
+        "name": "A thousand lies",
+        "url": "https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 251665,
+      "name": "A thousand lies",
+      "url": "https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc"
+    },
+    {
+      "added_at": "2025-02-20 19:54:31",
+      "album": {
+        "name": "OC\u00c9ANO",
+        "url": "https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "OC\u00c9ANO",
+      "url": "https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM"
+    },
+    {
+      "added_at": "2025-02-20 19:29:24",
+      "album": {
+        "name": "Lizard",
+        "url": "https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 200845,
+      "name": "Lizard",
+      "url": "https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS"
+    },
+    {
+      "added_at": "2025-02-20 19:13:55",
+      "album": {
+        "name": "M.O.T.Z.",
+        "url": "https://open.spotify.com/album/2IAPmy2dzGaqx8DZ471kUO"
+      },
+      "artists": [
+        {
+          "name": "Silitia",
+          "url": "https://open.spotify.com/artist/3oRKmMVoejh0XisceSDKbK"
+        },
+        {
+          "name": "Dani Artetxe",
+          "url": "https://open.spotify.com/artist/1r6youOS2bbhf6TXPAitlB"
+        }
+      ],
+      "duration_ms": 188396,
+      "name": "M.O.T.Z.",
+      "url": "https://open.spotify.com/track/3gppvwtjumn9niBg7f49Vc"
+    },
+    {
+      "added_at": "2025-02-20 19:29:02",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb"
+    },
+    {
+      "added_at": "2025-02-20 19:33:39",
+      "album": {
+        "name": "AS VOSAS RAONS",
+        "url": "https://open.spotify.com/album/5n35g5KnMSEYnlpPMxDfuc"
+      },
+      "artists": [
+        {
+          "name": "Joana Dark",
+          "url": "https://open.spotify.com/artist/4q7aDSpekOTZGAZJW8qmdc"
+        },
+        {
+          "name": "Catuxa Salom",
+          "url": "https://open.spotify.com/artist/7pNENbSuiojM2b6ae53ecA"
+        }
+      ],
+      "duration_ms": 205915,
+      "name": "AS VOSAS RAONS",
+      "url": "https://open.spotify.com/track/3Pnt8kGxD1bwneZs4c0DOQ"
+    },
+    {
+      "added_at": "2025-02-20 19:54:06",
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
+    },
+    {
+      "added_at": "2025-02-20 19:53:08",
+      "album": {
+        "name": "XQTECE?",
+        "url": "https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Omarcito Glock",
+          "url": "https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD"
+        },
+        {
+          "name": "Zalo La Z",
+          "url": "https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "XQTECE?",
+      "url": "https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN"
+    },
+    {
+      "added_at": "2025-02-20 19:31:42",
+      "album": {
+        "name": "Angie",
+        "url": "https://open.spotify.com/album/0u0Aq6y5dHhwDvA5tkyvf0"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/653mJODcgxFbQm1AN7Rz8H"
+    },
+    {
+      "added_at": "2025-02-20 19:12:51",
+      "album": {
+        "name": "TEETHSUCKER (YEA3x)",
+        "url": "https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "TEETHSUCKER (YEA3x)",
+      "url": "https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX"
+    },
+    {
+      "added_at": "2025-02-20 19:53:35",
+      "album": {
+        "name": "Arne (feat. QUINQUIS)",
+        "url": "https://open.spotify.com/album/59Lkye6IM7xZ4THfirZKQv"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Arne",
+      "url": "https://open.spotify.com/track/2HUijWxKyi8gR6ttJZQY14"
+    },
+    {
+      "added_at": "2025-02-20 19:30:30",
+      "album": {
+        "name": "Draggin'",
+        "url": "https://open.spotify.com/album/5p6l3NoTw1L11bWbtxei07"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 275307,
+      "name": "Draggin'",
+      "url": "https://open.spotify.com/track/04wr6aFY29qDGWeZvwwjZV"
+    },
+    {
+      "added_at": "2025-02-20 19:33:58",
+      "album": {
+        "name": "Factura",
+        "url": "https://open.spotify.com/album/554hRngpgyaDYWhusR3TQC"
+      },
+      "artists": [
+        {
+          "name": "Liz Forte",
+          "url": "https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 86370,
+      "name": "Factura",
+      "url": "https://open.spotify.com/track/4PKWr5wZMFH2eRn8u8jLTH"
+    },
+    {
+      "added_at": "2025-02-20 19:14:13",
+      "album": {
+        "name": "Cruel Times",
+        "url": "https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 178231,
+      "name": "Cruel Times",
+      "url": "https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI"
+    },
+    {
+      "added_at": "2025-02-20 19:13:08",
+      "album": {
+        "name": "Two Times",
+        "url": "https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Two Times",
+      "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
+    },
     {
       "added_at": "2025-02-19 10:43:35",
       "album": {
@@ -23,6 +563,22 @@
       "duration_ms": 250293,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb"
+    },
+    {
+      "added_at": "2025-02-20 19:28:34",
+      "album": {
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/0xzwuAvYL0dXn2jeQ2Jcbm"
+      },
+      "artists": [
+        {
+          "name": "Motorbike",
+          "url": "https://open.spotify.com/artist/5LQw6s8lo4smOQB2B72YxR"
+        }
+      ],
+      "duration_ms": 163081,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/3T2FuKykaPfwZMBe4Qghl2"
     },
     {
       "added_at": "2025-02-14 06:07:19",

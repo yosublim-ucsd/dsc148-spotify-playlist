@@ -1,12 +1,12 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: Teddy Swims",
-  "num_followers": 463491,
+  "num_followers": 463525,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4qLkgAAAABb4E1EeVIYJMhjeMDvbdph",
+  "snapshot_id": "Z4qLkgAAAABsQpvjV6a3+gvihQZEG0I+",
   "tracks": [
     {
       "added_at": "2025-01-17 16:47:29",
@@ -411,54 +411,6 @@
     {
       "added_at": "2025-01-17 16:47:29",
       "album": {
-        "name": "Forever Young (feat. Ava Max) [A7S Remix]",
-        "url": "https://open.spotify.com/album/0zi8II5T5liaBNcvHloffj"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Forever Young (feat. Ava Max) - A7S Remix",
-      "url": "https://open.spotify.com/track/5tCwupjT5bc13y5rsaVUlX"
-    },
-    {
-      "added_at": "2025-01-17 16:47:29",
-      "album": {
-        "name": "REACT (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 135116,
-      "name": "REACT - D.O.D Remix",
-      "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
-    },
-    {
-      "added_at": "2025-01-17 16:47:29",
-      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -483,6 +435,54 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2025-01-17 16:47:29",
+      "album": {
+        "name": "REACT (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 135116,
+      "name": "REACT - D.O.D Remix",
+      "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
+    },
+    {
+      "added_at": "2025-01-17 16:47:29",
+      "album": {
+        "name": "Forever Young (feat. Ava Max) [A7S Remix]",
+        "url": "https://open.spotify.com/album/0zi8II5T5liaBNcvHloffj"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Forever Young (feat. Ava Max) - A7S Remix",
+      "url": "https://open.spotify.com/track/5tCwupjT5bc13y5rsaVUlX"
     },
     {
       "added_at": "2025-01-17 16:47:29",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-01-17 16:47:29",
       "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
+    },
+    {
+      "added_at": "2025-01-17 16:47:29",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
-      "added_at": "2025-01-17 16:47:29",
-      "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
       "added_at": "2025-01-17 16:47:29",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-01-17 16:47:29",
       "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
-    },
-    {
-      "added_at": "2025-01-17 16:47:29",
-      "album": {
         "name": "Say So (Jax Jones Midnight Snack Remix)",
         "url": "https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 210491,
       "name": "Say So (Jax Jones Midnight Snack Remix)",
       "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
+    },
+    {
+      "added_at": "2025-01-17 16:47:29",
+      "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
       "added_at": "2025-01-17 16:47:29",

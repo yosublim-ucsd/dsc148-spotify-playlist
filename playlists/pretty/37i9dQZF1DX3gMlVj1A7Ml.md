@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Minelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,107 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,110 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Daca M\-ai Iubit](https://open.spotify.com/track/1ydyoGsV3NTwnWnaEuWbw0) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Daca M\-ai Iubit](https://open.spotify.com/album/7HyTCNsXwEzsrqn5RuW0bu) | 3:36 |
 | 50 | [Cred](https://open.spotify.com/track/1fZOK19KA1ArlaDyUruWFv) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [Cred](https://open.spotify.com/album/5Xdm98WpFnSVkLVxGXifa5) | 2:46 |
 
-Snapshot ID: `Z6KN+QAAAABZDNW7WHdMi0nq72uj7TXS`
+Snapshot ID: `Z6KN+QAAAAA9de507mbiEGfDGFUZafFh`

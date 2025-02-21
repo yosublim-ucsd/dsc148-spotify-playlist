@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:0uE0bzpIfuZ9XVduu0byzg">Caroline Kingsbury</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,113 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,142 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Bad Love](https://open.spotify.com/track/1tB5UEseYQt5vRZgcnPHAW) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Bad Love](https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF) | 3:37 |
 | 50 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
 
-Snapshot ID: `Z6Y+0gAAAAAUk4AEX7U+oH/F+y8O1Wq2`
+Snapshot ID: `Z6Y+0gAAAACfRENzqTaL1jUs0GLhWrsv`

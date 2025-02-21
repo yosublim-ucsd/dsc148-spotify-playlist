@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,739 likes - 150 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,760 likes - 150 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [Fro](https://open.spotify.com/track/6gajND7C7Oj3OlKVHfkDEB) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Fro](https://open.spotify.com/album/6hsTkO4wPXVxcX7LxW7tC4) | 2:24 |
 | 150 | [We're Back](https://open.spotify.com/track/2u52q3y5ijACgPYHSHpu6P) | [Bluedoom](https://open.spotify.com/artist/1gFvHTW6FSJiw4FQ355I4K), [Santana Cid](https://open.spotify.com/artist/32pgXj1tADfTxzx1aVGnQf) | [We're Back](https://open.spotify.com/album/1Zz8BsY5CRc9d1MrUENM2W) | 1:38 |
 
-Snapshot ID: `Z5wEeQAAAAA8d76RurmgdwFOfUMeLGWT`
+Snapshot ID: `Z5wEeQAAAABy59YPzAZHGBSVYYRdZVEu`

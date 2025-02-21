@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Oracle Sisters",
+  "description": "The best French indie tracks right now. Cover : Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 171482,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6oHCMqfwWEs5Vr8Y3gQVbT"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
@@ -3749,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "HAZY",
+        "url": "https://open.spotify.com/album/65mklZxfnBFkbRVcDgRL7d"
+      },
+      "artists": [
+        {
+          "name": "Nina Versyp",
+          "url": "https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166868,
+      "name": "HAZY",
+      "url": "https://open.spotify.com/track/4QuFfQ9IJk4ghHiKeNuy1U"
+    },
+    {
+      "album": {
         "name": "HEAR ME. N2.23",
         "url": "https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ"
       },
@@ -4300,6 +4318,24 @@
       "duration_ms": 130720,
       "name": "Impala",
       "url": "https://open.spotify.com/track/1azxgcGDD3ht64TIR1pMAU"
+    },
+    {
+      "album": {
+        "name": "In denial",
+        "url": "https://open.spotify.com/album/1yhHd00lkLeMW3Tw5OUZOX"
+      },
+      "artists": [
+        {
+          "name": "Praa",
+          "url": "https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "In denial",
+      "url": "https://open.spotify.com/track/286b8o4NUguPFtXhrIVtxW"
     },
     {
       "album": {
@@ -6282,7 +6318,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 135040,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
@@ -10284,6 +10320,24 @@
       "duration_ms": 331600,
       "name": "Un Peu d'Amour",
       "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"
+    },
+    {
+      "album": {
+        "name": "Un Premier Amour",
+        "url": "https://open.spotify.com/album/7epVnZXwmDDXs07fFW1TQm"
+      },
+      "artists": [
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Un Premier Amour",
+      "url": "https://open.spotify.com/track/3ACLBmxaG5SknHYGrsl7d3"
     },
     {
       "album": {

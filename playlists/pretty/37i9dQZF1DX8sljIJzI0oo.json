@@ -1,35 +1,51 @@
 {
-  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 Yailin la Mas Viral is bringing the heat this week!",
-  "num_followers": 1931644,
+  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 ROA is bringing the heat this week!",
+  "num_followers": 1931689,
   "original_name": "Fuego",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z63KgwAAAADcU+vrhk7vhozMxieRe2ga",
+  "snapshot_id": "Z7daawAAAABgqf0G/VRV3r2/LWoNT9RU",
   "tracks": [
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "Bing Bong",
-        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
+        "name": "Private Suite (Vol. 2)",
+        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
         }
       ],
-      "duration_ms": 123591,
-      "name": "Bing Bong",
-      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+      "duration_ms": 173573,
+      "name": "ME GUSTAS CC",
+      "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "M\u00d3NTATE BABY (feat. De La Rose)",
+        "url": "https://open.spotify.com/album/5Nk1nQUp9cLu8BsMXsbKra"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 205465,
+      "name": "M\u00d3NTATE BABY (feat. De La Rose)",
+      "url": "https://open.spotify.com/track/5Mq3nHDIGSxURChMzLgmfN"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -38,34 +54,174 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 235336,
+      "name": "VeLD\u00c1",
+      "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "Chulx",
-        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+        "name": "ACEITE DE COCO (feat. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.)",
+        "url": "https://open.spotify.com/album/7K7gpv5RyKPE8hJK8HEXRV"
       },
       "artists": [
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Chulx",
-      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
+      "duration_ms": 401818,
+      "name": "ACEITE DE COCO (feat. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.)",
+      "url": "https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "G O D D E S S",
+      "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "444",
+      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "Osea",
+        "url": "https://open.spotify.com/album/0VO3ZS3hDS2blyRQNfcZfP"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Osea",
+      "url": "https://open.spotify.com/track/5linIf2EVMfHV0KDKFmORd"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/2GBzdCazrBrke1pPKJYOIJ"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/5BFHGBPNLIN4hfGXxaoALf"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "NO ME SUELTES",
+      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
+      "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA"
+    },
+    {
+      "added_at": "2025-02-20 16:38:03",
       "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
@@ -85,324 +241,176 @@
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "BRUTA",
-        "url": "https://open.spotify.com/album/2ZPdsJYrCNXNdlfP4BHhCr"
+        "name": "CRUZ",
+        "url": "https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 287179,
-      "name": "BRUTA",
-      "url": "https://open.spotify.com/track/1AQLTbX8amGpWshReAMxkS"
+      "duration_ms": 183970,
+      "name": "CRUZ",
+      "url": "https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "LYKE MIIKE (DELUXE)",
-        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+        "name": "Frenia",
+        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 205727,
-      "name": "SUELTA (feat. Omar Courtz)",
-      "url": "https://open.spotify.com/track/4bMvbL9C59KX4198rAxBEP"
+      "duration_ms": 254000,
+      "name": "Sabanas Blancas",
+      "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
       },
       "artists": [
         {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 136000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+        "name": "T\u00da ME CALIENTAS",
+        "url": "https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
         }
       ],
-      "duration_ms": 181261,
-      "name": "HALO",
-      "url": "https://open.spotify.com/track/58ldPuiCULxm08TCZ8qX4D"
+      "duration_ms": 188325,
+      "name": "T\u00da ME CALIENTAS",
+      "url": "https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
-        "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
+        "name": "Me Grita",
+        "url": "https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
-      "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "AY LILY",
-        "url": "https://open.spotify.com/album/1tWSPmWmZHpcvsYq6SPps5"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "AY LILY",
-      "url": "https://open.spotify.com/track/63N1uMJ2GqTWkM4ZW7Zn5i"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "Dembow Fres\u00f3n \"Remix\"",
-        "url": "https://open.spotify.com/album/11K79Fzg0SUpjZPeoszisP"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
         }
       ],
-      "duration_ms": 125426,
-      "name": "Dembow Fres\u00f3n \"Remix\"",
-      "url": "https://open.spotify.com/track/7ckxkUmV3YgWMSJ0hgv4Lt"
+      "duration_ms": 232720,
+      "name": "Me Grita",
+      "url": "https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "LYKE MIIKE (DELUXE)",
-        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 205465,
-      "name": "M\u00d3NTATE BABY (feat. De La Rose)",
-      "url": "https://open.spotify.com/track/2gbGzSyT6rbjILNwyA726A"
+      "duration_ms": 205466,
+      "name": "Gata (feat. Young Miko)",
+      "url": "https://open.spotify.com/track/79EyMEZdtzSoAvVA381QUf"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "FCK LOVE",
-        "url": "https://open.spotify.com/album/3wcTfahjRB6Oz3IyyGJWOH"
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
       },
       "artists": [
         {
-          "name": "G.O.K.B.",
-          "url": "https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         },
         {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 124000,
-      "name": "FCK LOVE",
-      "url": "https://open.spotify.com/track/044s0YuJx6qFv3fYQTLYb2"
+      "duration_ms": 130813,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "Dreamwork",
-        "url": "https://open.spotify.com/album/3LdUqLIZawh3QkCUoXMJSu"
+        "name": "EXPERTO",
+        "url": "https://open.spotify.com/album/1hlUlweVs40cCMTm5BHOIK"
       },
       "artists": [
         {
-          "name": "Lemuell",
-          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
-        },
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
         }
       ],
-      "duration_ms": 181463,
-      "name": "Dreamwork",
-      "url": "https://open.spotify.com/track/73072a5t5yftgC8NXbLxJX"
+      "duration_ms": 117038,
+      "name": "EXPERTO",
+      "url": "https://open.spotify.com/track/4rfBykdARoWab5UrOwyVD0"
     },
     {
-      "added_at": "2025-02-13 10:33:39",
+      "added_at": "2025-02-20 16:38:03",
       "album": {
-        "name": "Juguete",
-        "url": "https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv"
+        "name": "SAN JORGE",
+        "url": "https://open.spotify.com/album/68EyMN7WWbPdc7Qt4lWXQk"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
         },
         {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Juguete",
-      "url": "https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "Private Suite (Vol. 2)",
-        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "ME GUSTAS CC",
-      "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "G O D D E S S",
-      "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Baja Pa' Ac\u00e1",
-      "url": "https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "oxy",
-        "url": "https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ"
-      },
-      "artists": [
-        {
-          "name": "Slayter",
-          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "oxy",
-      "url": "https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj"
-    },
-    {
-      "added_at": "2025-02-13 10:33:39",
-      "album": {
-        "name": "Coraz\u00f3n Puro",
-        "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Coraz\u00f3n Puro",
-      "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
+      "duration_ms": 154368,
+      "name": "JEALOUSY",
+      "url": "https://open.spotify.com/track/5klkqE70gwowz012ursa7h"
     }
   ],
   "unique_name": "Fuego",

@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: Bad Bunny
+> ¡Escucha los éxitos de hoy!<br/>Foto: La T y La M
 
 145 songs - 7 hr 55 min
 

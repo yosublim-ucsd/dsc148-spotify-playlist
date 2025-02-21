@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians featuring DJ Minx \ud83e\udd16 50% techno, 50% house",
-  "num_followers": 651523,
+  "num_followers": 651581,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UDIAAAAACMbB2xlq4iQu2kEuy/xUDH",
+  "snapshot_id": "Z7UDIAAAAACk9BJ0rrpFPpJ+i43y2k4w",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:27",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Electricity",
@@ -1327,22 +1343,6 @@
       "duration_ms": 170390,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-11-29 05:26:04",

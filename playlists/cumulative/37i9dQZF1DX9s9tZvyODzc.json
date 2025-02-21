@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 308400,
       "name": "El Ritmo",
       "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
+    },
+    {
+      "album": {
         "name": "HIJA DE RUTA",
         "url": "https://open.spotify.com/album/5K7TbLA4SM88TQAxJ8s7rT"
       },
@@ -2186,6 +2204,28 @@
       "duration_ms": 217373,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215314,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
     },
     {
       "album": {
@@ -2733,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "No Pasar\u00e1n",
+        "url": "https://open.spotify.com/album/6BH7DmrA6qENxehHba4kDv"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "No Pasar\u00e1n",
+      "url": "https://open.spotify.com/track/4PaRbFygnnHjx9t766RRg7"
+    },
+    {
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -2835,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "OC\u00c9ANO",
+        "url": "https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "OC\u00c9ANO",
+      "url": "https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM"
+    },
+    {
+      "album": {
         "name": "A Trav\u00e9s del Mar de los Sargazos",
         "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
@@ -2904,7 +2980,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 245986,
       "name": "Para No Verme M\u00e1s",
       "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
@@ -3274,7 +3350,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 159607,
       "name": "Rid\u00edculo",
       "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
@@ -4098,7 +4174,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 231922,
       "name": "Volver a casa",
       "url": "https://open.spotify.com/track/05195FLjI1KmJDB8MxHU1U"

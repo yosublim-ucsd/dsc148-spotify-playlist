@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! \(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,193 likes - 97 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,209 likes - 97 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 96 | [Disorder](https://open.spotify.com/track/1wlo67jw5f53oT6DMR25t8) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:04 |
 | 97 | [レプリカ](https://open.spotify.com/track/3UriDyfO1fiP0DJjJjLzXc) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 3:29 |
 
-Snapshot ID: `Z5PRjQAAAAAh4LQXPmBfwN3ShCcBoPG/`
+Snapshot ID: `Z5PRjQAAAAArWa/95ryGvU2lBLyStpB4`

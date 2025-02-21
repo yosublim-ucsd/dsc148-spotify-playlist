@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,956 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,979 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Vaasu \- Stick Dance Bit](https://open.spotify.com/track/3zFhY37Mhyy0Qc4NY13mmA) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Vaasu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20SaVlePz8o2EgH4jAeuxl) | 1:20 |
 | 50 | [Bheemla Back On Duty](https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vaishnavi kovvuri](https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i), [Pratyusha pallapothu](https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC), [Rachitha Rayaprolu](https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx), [Parnika Manya](https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Bheemla Nayak](https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V) | 4:02 |
 
-Snapshot ID: `Z6CrbAAAAABQ5XK8kvoEQzhcnS3P1ShR`
+Snapshot ID: `Z6CrbAAAAAB7nzL7vV7NSSFCrjwelN2Y`

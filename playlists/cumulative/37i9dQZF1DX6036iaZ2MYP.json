@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Asake",
+  "description": "Tracks popping off in the Afro scene. Cover:  Lojay",
   "name": "Afro Station",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "22H",
+        "url": "https://open.spotify.com/album/10wYyA1Kh5sup6kwqtQsBm"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "22H",
+      "url": "https://open.spotify.com/track/6nZ5zQcgz3ez5toaoaSW0g"
     },
     {
       "album": {
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 155294,
       "name": "COMME NOBODY",
       "url": "https://open.spotify.com/track/4uEk7w0WUrSb07zzW2ZjHn"
@@ -4464,7 +4482,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 159432,
       "name": "Feeling Alright",
       "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
@@ -5144,6 +5162,24 @@
       "duration_ms": 156600,
       "name": "Gnangami (feat. Zaho)",
       "url": "https://open.spotify.com/track/1eccZ1DVgqm21c22LWCPfD"
+    },
+    {
+      "album": {
+        "name": "God Bless / Doku",
+        "url": "https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "God Bless",
+      "url": "https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD"
     },
     {
       "album": {
@@ -6798,7 +6834,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 143906,
       "name": "La vraie vie",
       "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"
@@ -7085,6 +7121,24 @@
     },
     {
       "album": {
+        "name": "LOCATION",
+        "url": "https://open.spotify.com/album/6lpWRZOJnEE0PqyolWF1EV"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "LOCATION",
+      "url": "https://open.spotify.com/track/3nzTJCqN8FNlYb83Ivzgt6"
+    },
+    {
+      "album": {
         "name": "Lock That Door",
         "url": "https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx"
       },
@@ -7108,6 +7162,24 @@
       "duration_ms": 166153,
       "name": "Lock That Door",
       "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
+    },
+    {
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
     },
     {
       "album": {
@@ -7558,7 +7630,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 175322,
       "name": "Madame",
       "url": "https://open.spotify.com/track/6NaeCPiT5RAO0N083QFTjs"
@@ -7720,6 +7792,24 @@
       "duration_ms": 135482,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8"
+    },
+    {
+      "album": {
+        "name": "Mannequin",
+        "url": "https://open.spotify.com/album/20gS9fmbdAUB56roZIImIU"
+      },
+      "artists": [
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/5QT8vKUxzP90FDio8JTk4e"
     },
     {
       "album": {
@@ -9870,7 +9960,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 158608,
       "name": "Pas comme \u00e7a",
       "url": "https://open.spotify.com/track/1egqivK6r0smUsx9epZ7fJ"
@@ -11387,6 +11477,24 @@
     },
     {
       "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
+    },
+    {
+      "album": {
         "name": "Someone",
         "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
       },
@@ -12770,7 +12878,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 138947,
       "name": "Un peu d'amoore",
       "url": "https://open.spotify.com/track/0ZcjlETeoMYhg71ZxeMBpo"
@@ -13572,6 +13680,24 @@
       "duration_ms": 184705,
       "name": "\u00c7A VA ALLER",
       "url": "https://open.spotify.com/track/5QJGbhcXcWHUOxyNRRMiWi"
+    },
+    {
+      "album": {
+        "name": "\u00c9vident",
+        "url": "https://open.spotify.com/album/5ElomEQqhGEBR0zpBGBwze"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "\u00c9vident",
+      "url": "https://open.spotify.com/track/7gtORRlCDBY7PFzJJ1tUPZ"
     },
     {
       "album": {

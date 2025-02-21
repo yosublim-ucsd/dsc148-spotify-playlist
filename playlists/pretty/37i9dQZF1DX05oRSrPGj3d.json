@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 274773,
+  "num_followers": 274835,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohZ/QAAAAArelTlIDANJ1nayfFV9TUr",
+  "snapshot_id": "ZohZ/QAAAADYwbZaFkes7rRPJlWvdQbQ",
   "tracks": [
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Walking Distance",
-        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Tails I Lose",
         "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Walking Distance",
+        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "West Textures",
-        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 303000,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+        "name": "West Textures",
+        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+      "duration_ms": 303000,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Old No. 1",
         "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2024-07-05 20:39:25",

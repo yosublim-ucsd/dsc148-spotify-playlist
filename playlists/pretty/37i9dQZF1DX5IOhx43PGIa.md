@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: Nafeesisboujee
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,390 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,381 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Undercover Plan](https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Undercover Plan](https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0) | 3:18 |
 | 100 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 |
 
-Snapshot ID: `Z67N8QAAAACa+KB7QdcJEetxyNUVUgTR`
+Snapshot ID: `Z67N8QAAAAC0Wgf7yCh1FgcA2e6VAt93`

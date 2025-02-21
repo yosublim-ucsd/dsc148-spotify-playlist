@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Juan Baro.
 
-330 songs - 20 hr 2 min
+331 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [LOS AMANTES DIFERENTES](https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [LOS AMANTES DIFERENTES](https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9) | 3:47 | 2024-09-06 |  |
 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 | 2024-12-23 |  |
 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 | 2024-12-23 |  |
+| [Los Tres](https://open.spotify.com/track/1MXcZZ15ZqtItBS1DTgKVB) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Los Tres](https://open.spotify.com/album/2n6JAarX7Z7bFRDYq7TyPn) | 3:38 | 2025-02-20 |  |
 | [Luminosidad \- Remix](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 | 2024-04-12 |  |
 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2023-03-17 | 2023-10-07 |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 |  |

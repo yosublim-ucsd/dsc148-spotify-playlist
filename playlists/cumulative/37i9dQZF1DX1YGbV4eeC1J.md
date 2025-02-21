@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Otile Brown & Phina
+> What is your love language? Say it in Swahili\.  Cover: Platform
 
-272 songs - 15 hr 23 min
+277 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-23 |
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-22 | 2024-04-19 |
+| [Am Not Single](https://open.spotify.com/track/537Si4kckMP9Y24UqHodsM) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Am Not Single](https://open.spotify.com/album/2KE2TJXYuUI2GA2AkudXmZ) | 3:34 | 2025-02-20 |  |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 | 2024-07-27 |
 | [Amepotea](https://open.spotify.com/track/1KfN3qcfWz6pgs4Zt5pobn) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Amepotea](https://open.spotify.com/album/1eXFjINMwEDj9gRUJcKThw) | 2:59 | 2024-03-14 | 2024-03-22 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2024-06-07 |
@@ -58,6 +59,7 @@
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 | 2023-01-13 |
 | [Everybody \(feat\. Nadia Mukami\)](https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [Love & Vibes](https://open.spotify.com/album/5siLX3JnBQwSCMUgPM3Gjp) | 3:11 | 2023-04-20 | 2023-10-07 |
 | [Ex Mpya](https://open.spotify.com/track/0ZleYBcgetkVk2LMiLAIaE) | [Gramie](https://open.spotify.com/artist/5dfLTuEIOBSTkgV9JRzkjS) | [Ex Mpya](https://open.spotify.com/album/5DnaaqL5KQqcJR3H6hR7Gn) | 3:10 | 2024-10-04 | 2024-12-20 |
+| [Fala](https://open.spotify.com/track/741T5eSZ2YDzVHRGSzXaNL) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Fala](https://open.spotify.com/album/13pCjFKP7sVMrfhzI4xeDc) | 4:03 | 2025-02-20 |  |
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-15 |
 | [Far Away](https://open.spotify.com/track/3xkPEQyclUqwYfrDCzgdUp) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Far Away](https://open.spotify.com/album/26SiJtz00mjV9MHUL3y5zi) | 3:20 | 2024-07-04 | 2024-08-30 |
 | [Far Away](https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Far Away](https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR) | 2:47 | 2024-05-16 | 2024-08-23 |
@@ -142,6 +144,7 @@
 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 |  |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-05-26 | 2022-11-18 |
+| [Moyo](https://open.spotify.com/track/4p7r68fFE5bXHgcTrlokp0) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Moyo](https://open.spotify.com/album/2uwXA4cezt9I7b9oNeE0Un) | 3:02 | 2025-02-20 |  |
 | [Mtamu](https://open.spotify.com/track/39zxgTFeHYMp7Ajx92amxm) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Mtasubiri \(feat\. Zuchu\)](https://open.spotify.com/track/3qaaPsFYzSb7OGUeXClpND) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 3:26 | 2024-03-14 | 2024-03-22 |
 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 | 2023-07-13 | 2023-11-10 |
@@ -151,6 +154,7 @@
 | [My Baby](https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [My Baby](https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW) | 2:48 | 2023-02-03 | 2024-12-14 |
 | [My Baby \(feat\. Chike\)](https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [My Baby \(feat\. Chike\)](https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go) | 3:32 | 2024-03-14 | 2024-03-22 |
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 | 2023-09-01 |
+| [My Chunun](https://open.spotify.com/track/037gbzOGoBdc1ghXlsuHev) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [Cliv](https://open.spotify.com/artist/0C07Qgst3VI7IdbyjYg8xL) | [My Chunun](https://open.spotify.com/album/6RYbxaMWtH59GPzIDzxAPy) | 3:49 | 2025-02-20 |  |
 | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY) | 3:43 | 2023-06-29 | 2024-02-02 |
 | [My Vow](https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [My Vow](https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC) | 3:57 | 2022-05-26 | 2024-09-21 |
 | [Na Nusu](https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Na Nusu](https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd) | 4:23 | 2024-07-18 | 2024-10-04 |
@@ -269,6 +273,7 @@
 | [Wapambe](https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Wapambe](https://open.spotify.com/album/1Gj7pdyvDIyM2GYzbN4fJ5) | 3:14 | 2024-02-09 | 2024-05-17 |
 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 | 2024-08-09 |
 | [Wewe hapoo](https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Wewe hapoo](https://open.spotify.com/album/395r1bIIUEd20cxJgQ6bp5) | 3:56 | 2024-03-14 | 2024-03-22 |
+| [Why](https://open.spotify.com/track/52BYjohWWYvUustvR8YaRg) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Why](https://open.spotify.com/album/6b8SBxH7W4pSr0Bxf0hBfa) | 2:58 | 2025-02-20 |  |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-05-26 | 2024-08-16 |
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-06 | 2024-01-26 |
 | [WIVU](https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 3:00 | 2024-08-08 | 2025-01-31 |

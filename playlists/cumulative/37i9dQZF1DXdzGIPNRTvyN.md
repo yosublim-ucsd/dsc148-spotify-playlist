@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-288 songs - 13 hr 36 min
+289 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Healing Stream \(432 Hz\)](https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Healing Stream \(432 Hz\)](https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI) | 3:25 | 2023-05-19 |  |
 | [Healing Winds \(Nature\)](https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds \(Nature\)](https://open.spotify.com/album/2CdswrRTCsE83LvoZYNV3h) | 3:02 | 2024-04-01 |  |
 | [Heartfulness](https://open.spotify.com/track/4osN7Zl3miJmSdPZmKVoXm) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Heartfulness](https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY) | 2:47 | 2023-02-22 | 2024-01-19 |
+| [Heedance](https://open.spotify.com/track/0YVqh3AUPCI2vOF4EnKVgV) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Heedance](https://open.spotify.com/album/0vfHbOBSPYVrFiODnFzf38) | 2:38 | 2025-02-10 |  |
 | [Heeding](https://open.spotify.com/track/4szKC2c1OlCvAtzYVeWDyP) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Heeding](https://open.spotify.com/album/3TjjJRBakIWpTMeQVtHoWQ) | 2:39 | 2024-03-01 |  |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-02-13 | 2024-11-29 |
 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 | 2024-01-30 |  |
@@ -222,7 +223,7 @@
 | [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-26 | 2024-07-17 |
 | [Remedies](https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Remedies](https://open.spotify.com/album/0RUb59n7DB8CbRluAPtbUo) | 2:40 | 2023-08-21 |  |
-| [Restful](https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful](https://open.spotify.com/album/0kyFEIREM096fcDuCNxJXN) | 3:18 | 2024-12-20 |  |
+| [Restful](https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful](https://open.spotify.com/album/0kyFEIREM096fcDuCNxJXN) | 3:18 | 2024-12-20 | 2025-02-21 |
 | [Restituere](https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h) | [Takiyo](https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1) | [Restituere](https://open.spotify.com/album/3xca1inY0KAcdo2SpqpydC) | 2:51 | 2024-04-01 |  |
 | [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 | 2025-02-10 |  |
 | [Retrograde](https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Retrograde](https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4) | 2:48 | 2024-03-01 |  |

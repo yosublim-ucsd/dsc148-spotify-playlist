@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,735 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,813 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Hold My Hand](https://open.spotify.com/track/2gLwhuZtMNRjAVPR64ZtcJ) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Hold My Hand](https://open.spotify.com/album/5VcOiWEEHjnkAZNlT6595Q) | 2:51 |
 | 50 | [OOF \(Out of Office Forever\)](https://open.spotify.com/track/4tKiLOHkzrY43buY7hd7ic) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out of Office Forever\)](https://open.spotify.com/album/1k4sLAsm3CuGtAKeAtrzMt) | 2:53 |
 
-Snapshot ID: `ZnmkPQAAAACoSYeoA8rFa0cZ84uoR7Vt`
+Snapshot ID: `ZnmkPQAAAACMvTGo/h0xqGx9JaThmFEd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,962 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,958 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 37 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 |
 | 38 | [8 Days of Christmas](https://open.spotify.com/track/0sjqQzwRTVt46woq1Trv5Z) | [Candlewarmth](https://open.spotify.com/artist/1lEndFgpul8l0g4alJm2vt) | [8 Days of Christmas](https://open.spotify.com/album/3uPA4i195y3KYZOuMBZeYY) | 2:28 |
 | 39 | [Christmas Bells](https://open.spotify.com/track/6yHUCNNMHHVNVaHp2Qw5KF) | [Legendor](https://open.spotify.com/artist/6ETL5WY9KP23LaKCFLpoRW) | [Bring Me Love](https://open.spotify.com/album/7HFEkapfCYUVn7NPUBVP3H) | 2:04 |
-| 40 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
-| 41 | [Nighttide](https://open.spotify.com/track/1yokaYy8WVounrXG82iiM7) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Nighttide](https://open.spotify.com/album/3rVDMhVZkYZ2iFclFc0EaF) | 2:12 |
+| 40 | [Nighttide](https://open.spotify.com/track/1yokaYy8WVounrXG82iiM7) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Nighttide](https://open.spotify.com/album/3rVDMhVZkYZ2iFclFc0EaF) | 2:12 |
+| 41 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
 | 42 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
 | 43 | [We Wish You The Merriest](https://open.spotify.com/track/2QTqOtbCrKnW7KQGELDIGo) | [Cowdy](https://open.spotify.com/artist/6rUvNZQERCDcVh0yiE3fs5) | [We Wish You The Merriest](https://open.spotify.com/album/2vYPFOPOIMhnkscklYWa6C) | 2:12 |
 | 44 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/5Fwj3sPOh0TzshTIQWbrH5) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/06pftaJLqXmfGn67McYKdc) | 2:15 |
@@ -62,18 +62,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 52 | [My Favourite Things](https://open.spotify.com/track/40cGmW2di3zK4zyzEXHJyb) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [My Favourite Things](https://open.spotify.com/album/2RdI5HciSrf3eOFGPiQqT1) | 2:17 |
 | 53 | [O Christmas Chill](https://open.spotify.com/track/57eaor5p4n2fVunmw5A43c) | [Amethyst Voyage](https://open.spotify.com/artist/7qtiZX6nbdr4hwHxMnizT0) | [O Christmas Chill](https://open.spotify.com/album/4hknqOVnHmbEriOiMbakTA) | 2:06 |
 | 54 | [Yuletide](https://open.spotify.com/track/4SqfEcfHRqR522BleRT5Rr) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Lo\-fi Christmas](https://open.spotify.com/album/5a4JddrBEJGsKbMzzunBIH) | 1:43 |
-| 55 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 |
-| 56 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 |
+| 55 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 |
+| 56 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 |
 | 57 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/5s4gbvEoagDAQEGwPfdlKS) | [Baron Oxtar](https://open.spotify.com/artist/6lvzUcMXzJo17F9zo0x2Zs) | [How Great Thou Art](https://open.spotify.com/album/7EMAzPm5WUM3aKFbLsCeyN) | 2:10 |
 | 58 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 |
-| 59 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 |
-| 60 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
+| 59 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
+| 60 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 |
 | 61 | [Do They Know It's Christmas](https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Cozy Little Christmas](https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp) | 2:23 |
 | 62 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
 | 63 | [Marshmallow World](https://open.spotify.com/track/0UU2xw7qhzjTrh6Ifr1wm3) | [Rexiphy](https://open.spotify.com/artist/2VBt6bj5gfN2M78KmEXzOK) | [Marshmallow World](https://open.spotify.com/album/27CLPf7kRjBBEcEPmVoE47) | 2:17 |
 | 64 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0rkxBtWwoutWGPDItsVnia) | 2:05 |
-| 65 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 |
-| 66 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 65 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 66 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 |
 | 67 | [Under The Mistletoe](https://open.spotify.com/track/529eSxqoHAUFj9RJLcPDTG) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [Under The Mistletoe](https://open.spotify.com/album/5UnhWQflxrR1Gh0gNO7oG8) | 3:16 |
 | 68 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
 | 69 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 82 | [Christmas Wrapping](https://open.spotify.com/track/0HRq0BMJ9mDA5pcJRDfpJo) | [bateeq](https://open.spotify.com/artist/4Cra93myOPSZ2Z4DvgMXW0) | [Christmas Wrapping](https://open.spotify.com/album/6AjyOyDNxcEx59wwv3roaM) | 1:39 |
 | 83 | [Like It's Christmas](https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp) | [Rödälv](https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l) | [Like It's Christmas](https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO) | 2:37 |
 | 84 | [Christmas Lovin'](https://open.spotify.com/track/0y1oqexLerBf5CNHtXC8pK) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Christmas Lovin'](https://open.spotify.com/album/05Wd2HHfDgzxabecreL1PO) | 2:46 |
-| 85 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |
-| 86 | [Ice Skating](https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:06 |
+| 85 | [Ice Skating](https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:06 |
+| 86 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |
 | 87 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 88 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
 | 89 | [sleigh bells in the snow](https://open.spotify.com/track/0O2EQLVf4jOD3mpX2gnr5g) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:25 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 152 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 |
 | 153 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 |
 
-Snapshot ID: `Z2UjpwAAAACGVAG8nfReLN5euxrDaF5k`
+Snapshot ID: `Z2UjpwAAAADVFlUooZLKA38Y0UWFrbBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 
 > Music from "Solo Leveling"! /アニメ「俺だけレベルアップな件」の世界を彩る楽曲をプレイリストで。©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,777 likes - 24 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,852 likes - 24 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 | 23 | [onlyORE](https://open.spotify.com/track/2vvtRukxngeGpPxqwyidu1) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 4:44 |
 | 24 | [4eVR](https://open.spotify.com/track/3FQajYjHFNemPYasI7HbAI) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 2:56 |
 
-Snapshot ID: `Z3lNFAAAAADIifh0aBV6DVufjf3Coxik`
+Snapshot ID: `Z3lNFAAAAABLSSG/639/S9ardNNDfeCN`

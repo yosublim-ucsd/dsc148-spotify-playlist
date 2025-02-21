@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Molly Yam, Sik-K, GGM LIL DRAGON)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: HYUN SEO(\ud604\uc11c))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -3198,6 +3198,24 @@
       "duration_ms": 214029,
       "name": "Day or Night",
       "url": "https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4"
+    },
+    {
+      "album": {
+        "name": "DayDream",
+        "url": "https://open.spotify.com/album/68ST80GRugLTAd73obnILf"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "DayDream",
+      "url": "https://open.spotify.com/track/11lHFLhHJfEAJbUvPH6URk"
     },
     {
       "album": {
@@ -9312,7 +9330,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 112941,
       "name": "MZ",
       "url": "https://open.spotify.com/track/3qCjcrKAydtscX9yIE3SYg"

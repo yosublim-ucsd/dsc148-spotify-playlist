@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,128 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,370 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 | 87 | [Me Estas Haciendo Mal](https://open.spotify.com/track/5MT9k2NmBXS7x061dGRUuY) | [Vinocio](https://open.spotify.com/artist/73yh69zlE05t6t0dC3C55p) | [Me Estas Haciendo Mal](https://open.spotify.com/album/560eSjVTwQdGVjtmR3O3Cr) | 2:59 |
 | 88 | [Las Razones](https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 4:09 |
 
-Snapshot ID: `Z7ZSYAAAAAAjUiiRci0fZipllKUs7fSf`
+Snapshot ID: `Z7ZSYAAAAABytPSnoS97qoHbAwwxAoVG`

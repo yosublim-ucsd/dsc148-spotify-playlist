@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 125000,
       "name": "(It Goes Like) Nanana",
       "url": "https://open.spotify.com/track/6xUViUjqotLYw8QawZvadu"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 132705,
       "name": "Blend",
       "url": "https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 168250,
       "name": "Falling (Piece Of Me)",
       "url": "https://open.spotify.com/track/6DSMipCcpahSwU0mXwlHF4"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 125750,
       "name": "I Like The Way You Kiss Me",
       "url": "https://open.spotify.com/track/4F46hLf9W8H4AZ9yf4tkVp"
@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142228,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ"
+    },
+    {
+      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -2513,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+    },
+    {
+      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/0TTkwLSkaU5nYsqNH5SXbL"
       },
@@ -2732,7 +2772,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 210967,
       "name": "Only God Knows",
       "url": "https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc"
@@ -3348,6 +3388,28 @@
       "duration_ms": 174720,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "album": {
@@ -4230,6 +4292,42 @@
       "duration_ms": 155624,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ"
+    },
+    {
+      "album": {
+        "name": "Without You (Falling)",
+        "url": "https://open.spotify.com/album/23PSFyueca3yMzlxh8JHHY"
+      },
+      "artists": [
+        {
+          "name": "BEAUMARCHAIS",
+          "url": "https://open.spotify.com/artist/3yC7olUrcDiQ4mcLVozqqP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Without You (Falling)",
+      "url": "https://open.spotify.com/track/3MbtBolpM1RQWqFWhq82Jc"
+    },
+    {
+      "album": {
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/4tAO7cNmQuQfUDnfJBV7n8"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/1cBb6fiyDm4LAcMSJCHHCF"
     },
     {
       "album": {

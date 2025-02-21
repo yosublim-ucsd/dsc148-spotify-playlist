@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,413 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,462 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 |
 | 80 | [Brother Man, Pt\. 2](https://open.spotify.com/track/51qkZ8WYyU0Ii0aSdIqfox) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [Lucid](https://open.spotify.com/artist/3cjEMTtZxe49tUrhUEwrVZ), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Brother Man, Pt\. 2](https://open.spotify.com/album/4ZjIdlDvnJH6JvoodyphgY) | 3:14 |
 
-Snapshot ID: `Z7W84wAAAAB0SIznOtMoBFxSC8/PcGLP`
+Snapshot ID: `Z7W84wAAAABoxSrJzkltd8PJp/vkJKfe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,778 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,782 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Procedimento](https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa) | [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [Papo Reto](https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e) | 2:31 |
 | 50 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
 
-Snapshot ID: `Z66yAwAAAAC3PAQMPc66yR0V/PncOhYL`
+Snapshot ID: `Z66yAwAAAADf6QmDLBouYmZk7571655c`

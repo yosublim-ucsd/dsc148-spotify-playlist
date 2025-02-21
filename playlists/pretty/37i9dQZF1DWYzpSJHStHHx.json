@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485669,
+  "num_followers": 485664,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6Y8FAAAAACICnO4fUI9DBnx4t/RC6Gx",
+  "snapshot_id": "Z6Y8FAAAAACUBM9AmfIVF2KaCZdf1ueA",
   "tracks": [
     {
       "added_at": "2025-02-07 17:00:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ooooo",
         "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 154811,
       "name": "Alright, Alright",
       "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rock And Roll Music",
-        "url": "https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk"
-      },
-      "artists": [
-        {
-          "name": "Baby Jesus",
-          "url": "https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Right Before I Go",
-      "url": "https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Malibu Sunset b/w Hang On",
         "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5"
+        "name": "Rock And Roll Music",
+        "url": "https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk"
       },
       "artists": [
         {
-          "name": "Jimmy Cloud",
-          "url": "https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv"
-        },
-        {
-          "name": "Willy Sinclair",
-          "url": "https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ"
+          "name": "Baby Jesus",
+          "url": "https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo"
         }
       ],
-      "duration_ms": 140848,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
+      "duration_ms": 155200,
+      "name": "Right Before I Go",
+      "url": "https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 160375,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cloud",
+          "url": "https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv"
+        },
+        {
+          "name": "Willy Sinclair",
+          "url": "https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ"
+        }
+      ],
+      "duration_ms": 140848,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
-      },
-      "artists": [
-        {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
-        }
-      ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Stained Glass Curtain",
         "url": "https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 170788,
       "name": "Stained Glass Curtain",
       "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+      },
+      "artists": [
+        {
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+        }
+      ],
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Surfin' Detective",
         "url": "https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 296809,
       "name": "Surfin' Detective",
       "url": "https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Big Sky",
-        "url": "https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL"
+        "name": "Just Give In / Never Going Home",
+        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
       "artists": [
         {
-          "name": "Pricey",
-          "url": "https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9"
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
         }
       ],
-      "duration_ms": 163677,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S"
+      "duration_ms": 236666,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

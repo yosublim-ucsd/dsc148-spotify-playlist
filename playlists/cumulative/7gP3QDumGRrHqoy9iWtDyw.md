@@ -4,7 +4,7 @@
 
 > 
 
-253 songs - 16 hr 11 min
+257 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Assim](https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Assim](https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71) | 2:49 | 2023-01-28 |  |
 | [Attitudes](https://open.spotify.com/track/4tbOgjltmrF3LQG75lJ9Il) | [Malikk](https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Attitudes](https://open.spotify.com/album/3Dy0nefOvdnBG35jkqdy0N) | 3:16 | 2023-11-08 |  |
 | [Automatic \- Palms Trax Remix](https://open.spotify.com/track/2l8XfWxLcZ2SB7MNFrLTfV) | [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Automatic](https://open.spotify.com/album/04GqieRfxirLyiHWgYPY2M) | 5:34 | 2024-03-12 |  |
+| [Bad Kubing](https://open.spotify.com/track/1dI9RBzkC4AQjMnukyV2Vz) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Bad Kubing](https://open.spotify.com/album/3tx73yrQaQuqB6CH0qnMOx) | 2:44 | 2025-02-20 |  |
 | [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 | 2024-09-19 |  |
 | [Barbarian](https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Barbarian](https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n) | 3:25 | 2024-01-01 |  |
 | [Beat the System](https://open.spotify.com/track/5ddMWvoqRKJGGIpQVvwHsn) | [Derek Muller](https://open.spotify.com/artist/5QClJFGr8nizPtoh6iIxs1), [Ovidi Adlert](https://open.spotify.com/artist/3vpDXRMRh0LovvdnYWRfNq) | [Beat the System](https://open.spotify.com/album/6x9X3FC4DQQZ7jwcxSqV0b) | 5:52 | 2023-08-13 |  |
@@ -81,10 +82,12 @@
 | [Face Off](https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Face Off](https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG) | 2:54 | 2024-11-02 |  |
 | [Feel So Good](https://open.spotify.com/track/4wXt1AZgYt7k72oTHy0e0P) | [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w) | [Feel So Good](https://open.spotify.com/album/5t0Q2AJoqfFuwuYhPDPny7) | 2:35 | 2023-12-04 |  |
 | [Feel the Groove \- Original Mix](https://open.spotify.com/track/3270GTLUMqJaasAVZHFc7n) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Feel the Groove EP](https://open.spotify.com/album/215QqUqoOYIxQoxjR2I0iN) | 6:18 | 2023-07-08 |  |
+| [Feels Like Summer](https://open.spotify.com/track/2BmyES33xncl530X676vME) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Feels Like Summer](https://open.spotify.com/album/68yPa8XcioIq8HR3TYRwiI) | 3:02 | 2025-02-20 |  |
 | [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2024-02-14 |  |
 | [Flow On](https://open.spotify.com/track/5TOPvHIu7JEwTDkYy7SZWO) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Deep Inside](https://open.spotify.com/album/2DbjarFHBuwTKFS7uZFH8O) | 2:27 | 2024-09-28 |  |
 | [Flying Like A Dragon](https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Flying Like A Dragon EP](https://open.spotify.com/album/4Eod6YHLqedv5kw0MuVe2w) | 3:43 | 2024-04-20 |  |
 | [Freak Mode](https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Freak Mode](https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi) | 3:06 | 2024-07-09 |  |
+| [Freakquency](https://open.spotify.com/track/5FEZRVJDsMxae4jz3j0OJE) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 2:59 | 2025-02-20 |  |
 | [Fuck That](https://open.spotify.com/track/4ztmlSZinz3IbpJU5YX7JG) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:52 | 2017-08-25 |  |
 | [Full Speed \- Fun Mix](https://open.spotify.com/track/6HOMu0RW9wSIr1PQg4EwvA) | [Ellie Mary](https://open.spotify.com/artist/0gaPq3OglG2JJ1e29AWhgX) | [Full Speed](https://open.spotify.com/album/6sw3hckbw7gYE2wapAd7cz) | 2:30 | 2023-01-29 |  |
 | [Function \(Radio Edit\)](https://open.spotify.com/track/523LXRE4zywg7PaSI6Ocjf) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [Function](https://open.spotify.com/album/6nlgdRNylhKKt1PTY2sPZ7) | 3:36 | 2023-09-21 |  |
@@ -101,6 +104,7 @@
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |
 | [Got That Flow](https://open.spotify.com/track/0SWjYYoeTEvG0dV9MKyCND) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Got That Flow](https://open.spotify.com/album/6D1x95S3Lcm9qq9YdM7Xht) | 3:00 | 2023-05-05 |  |
 | [H\*es](https://open.spotify.com/track/27Dsm8IzYaLkec04yeCyzc) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [H\*es](https://open.spotify.com/album/62LmVQgKcN1LZlrfeKu5b6) | 4:12 | 2024-08-28 |  |
+| [Hit the Brakes](https://open.spotify.com/track/0p7EW6BKJJ9FgeNd5Vrb5I) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Hit the Brakes](https://open.spotify.com/album/25V5D5A9JJJlCAquCMG5U5) | 2:55 | 2025-02-20 |  |
 | [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 | 2024-04-14 |  |
 | [Hold On](https://open.spotify.com/track/4N0D6t3zCjyYjF7GR3jH4T) | [Zsak](https://open.spotify.com/artist/6lDaKCEOsU9d3gedCSigq1) | [Hold On](https://open.spotify.com/album/3YvhnnkXqisgWsKXFvZJ6A) | 3:20 | 2022-12-18 |  |
 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 | 2024-11-18 |  |

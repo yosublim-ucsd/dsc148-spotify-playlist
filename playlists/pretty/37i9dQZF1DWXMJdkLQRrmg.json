@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 348346,
+  "num_followers": 348379,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohMQQAAAAChTu7MJC4ByQg3nIkydxvx",
+  "snapshot_id": "ZohMQQAAAAAUIskUp5/bYlQxdGn1bJzy",
   "tracks": [
     {
       "added_at": "2024-07-05 19:40:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Can You Hear Me (Acoustic)",
-        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Can You Hear Me - Acoustic",
-      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 225099,
       "name": "Waking up (Acoustic)",
       "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Can You Hear Me (Acoustic)",
+        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Can You Hear Me - Acoustic",
+      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
     },
     {
       "added_at": "2024-07-05 19:40:49",

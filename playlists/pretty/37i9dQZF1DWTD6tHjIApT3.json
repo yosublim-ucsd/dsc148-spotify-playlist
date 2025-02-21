@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u3042\u3044\u307f\u3087\u3093",
-  "num_followers": 119311,
+  "num_followers": 119393,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7SghAAAAADhsq96Sy7ONKn/4ZgsnCHy",
+  "snapshot_id": "Z7SghAAAAAAZ0eWDkHYWptbce0toIR+1",
   "tracks": [
     {
       "added_at": "2025-02-18 15:00:20",
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 182806,
-      "name": "Kawaii kawaii (feat. \u91cd\u76db\u3055\u3068\u7f8e)",
+      "name": "kawaii kawaii (feat. \u91cd\u76db\u3055\u3068\u7f8e)",
       "url": "https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW"
     },
     {
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 175022,
-      "name": "SCOPE",
-      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
         "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "SCOPE",
+        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 175022,
+      "name": "SCOPE",
+      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u8349\u3005\u4e0d\u4e00",
-        "url": "https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "\u8349\u3005\u4e0d\u4e00",
-      "url": "https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "it\u2019s okay",
         "url": "https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l"
+        "name": "\u8349\u3005\u4e0d\u4e00",
+        "url": "https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp"
       },
       "artists": [
         {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 179400,
-      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ"
+      "duration_ms": 191658,
+      "name": "\u8349\u3005\u4e0d\u4e00",
+      "url": "https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1019,6 +1003,22 @@
       "duration_ms": 220833,
       "name": "\u9b54\u6027\u306e\u5973A",
       "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "Orbital Period",
-        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
-      },
-      "artists": [
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 251833,
-      "name": "Orbital Period",
-      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "Value",
         "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185000,
       "name": "Value",
       "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "Orbital Period",
+        "url": "https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 251833,
+      "name": "Orbital Period",
+      "url": "https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u8a00\u306e\u5203",
-        "url": "https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "\u8a00\u306e\u5203",
-      "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "\u516d\u7b49\u661f",
         "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 254280,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "\u8a00\u306e\u5203",
+        "url": "https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "\u8a00\u306e\u5203",
+      "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
     },
     {
       "added_at": "2025-02-18 15:00:20",

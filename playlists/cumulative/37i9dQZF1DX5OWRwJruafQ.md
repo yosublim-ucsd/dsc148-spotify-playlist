@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-562 songs - 1 day 2 hr 54 min
+563 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Diamond](https://open.spotify.com/track/5w8rVGQDtF8bZScjmgVzYi) | [Gurjass](https://open.spotify.com/artist/2MtMmv1X7aUPErcnGHndKZ) | [Diamond](https://open.spotify.com/album/2gsAXNDQbdMAJyw13PgHws) | 2:26 | 2024-07-22 | 2024-08-06 |
 | [Dil Tod Da \(Remix\) \- Remix Version](https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q) | [Real Satnam](https://open.spotify.com/artist/6elDtbrVYRzdQ5RB9AgVTV), [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Rajdeep Mangat](https://open.spotify.com/artist/0ozlrA0RXlU4UcIZeaZ96y) | [Dil Tod Da \(Remix\) \[Remix Version\]](https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO) | 2:46 | 2023-10-26 | 2023-11-25 |
 | [Dil Vadda](https://open.spotify.com/track/6yvKn1YtSndOeVmD9FxUvG) | [Harsh Ghotra](https://open.spotify.com/artist/0VJyYibVbklwXW7vUweaCU), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Dil Vadda](https://open.spotify.com/album/0mAU3kbR9BgGE8SHx8yIri) | 3:08 | 2024-09-30 | 2024-11-15 |
-| [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo), [Nayaab](https://open.spotify.com/artist/4OQJHolpu0nucmMZHVIv5H) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 | 2025-02-06 |  |
+| [Ding Ding](https://open.spotify.com/track/482FqGQVKrzVVWAboMSzbf) | [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1), [Navdeep Dhaliwal](https://open.spotify.com/artist/1GvahiUEF452B16ZNYXQdo), [Nayaab](https://open.spotify.com/artist/4OQJHolpu0nucmMZHVIv5H) | [Ding Ding](https://open.spotify.com/album/1aTT5I1yYEkMUYir3fSUQI) | 2:28 | 2025-02-06 | 2025-02-21 |
 | [Dior](https://open.spotify.com/track/0DoyE2iuXrUjrHr9cLqCmp) | [Harpreet Kalewal](https://open.spotify.com/artist/2nT4wsPEIZH3ONWnv5VvxQ) | [Dior](https://open.spotify.com/album/2bEjkwncDxc9oZCpbZ1Km8) | 2:29 | 2023-10-06 | 2023-10-27 |
 | [Distance](https://open.spotify.com/track/4FYTPNiMWiY72Kvo1JKDt6) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP) | [Distance](https://open.spotify.com/album/0fVMSMACe6VFfutsNwIwAa) | 2:23 | 2023-07-20 | 2023-07-25 |
 | [DND](https://open.spotify.com/track/2jPpmBisn0pKsFyW6mGrIV) | [Param Randhawa](https://open.spotify.com/artist/02Flt7lbv2EfSMdVv3w1yM) | [DND](https://open.spotify.com/album/5c1etI5pvcQtIfurcfFPWa) | 2:10 | 2023-10-04 | 2023-10-18 |
@@ -153,6 +153,7 @@
 | [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 | 2024-01-28 |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [East West](https://open.spotify.com/track/0ixZI5oa9PYpRxu8h1F8tS) | [Yuvraj Hara](https://open.spotify.com/artist/3DQIyhjrn6I9NiDf8lWVlp) | [East West](https://open.spotify.com/album/0X9uP5sRwwMndCWU09lpkk) | 2:16 | 2024-07-08 | 2024-07-19 |
+| [Ego](https://open.spotify.com/track/3IQeEMyltCJUrfw9V0MgdL) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Abaad Lyfe](https://open.spotify.com/artist/4YZ6j1uDKRskhtQrJ3A2JJ) | [Essence & Evolution](https://open.spotify.com/album/3MQsHEXWSEXRo65etUa9sH) | 3:00 | 2025-02-20 |  |
 | [Elite](https://open.spotify.com/track/2m9aE9cICRHXEg3s4Tqoti) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2) | [Fluke](https://open.spotify.com/album/6fk8tsjC44D7JuY4TcwBXO) | 2:11 | 2023-09-11 | 2023-10-27 |
 | [Enemy](https://open.spotify.com/track/5Qezc8ITTq5MZqtKMc3i5Q) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Enemy](https://open.spotify.com/album/0ziChr9CGn1b6TW2f0IFA2) | 2:55 | 2024-03-11 |  |
 | [ENGINE](https://open.spotify.com/track/5nsd4o6nkpTov75TetYhzO) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [ENGINE](https://open.spotify.com/album/6LQnAKk8awpYGj2KjR6qhl) | 2:26 | 2024-02-21 | 2024-04-23 |

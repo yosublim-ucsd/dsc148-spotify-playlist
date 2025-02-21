@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,687 likes - 83 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,820 likes - 83 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 82 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
 | 83 | [Relief Focus Part 1](https://open.spotify.com/track/4iu11idQuMvhRWfeKsT7eZ) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Relief Focus](https://open.spotify.com/album/43OcuIirS6m1pDpabjy9Kx) | 5:20 |
 
-Snapshot ID: `Z4FBrAAAAADnkHgtTHng+0bZCwWePFbK`
+Snapshot ID: `Z4FBrAAAAADcFVfwFGDM8llVtt42Up0x`

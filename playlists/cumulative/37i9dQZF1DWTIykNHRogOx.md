@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo : Styleto
+> Les  meilleures nouveautés de la chanson française\. Photo : Marie\-Flore
 
-138 songs - 7 hr 34 min
+141 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 | 2024-11-29 |
 | [Aujourd'hui Kurt Cobain est mort](https://open.spotify.com/track/0jEkGlpUANVeYw7g0cEAHc) | [Joseph d'Anvers](https://open.spotify.com/artist/1k8xwxvWduyzLf7W4Ov92u), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Un garçon ordinaire \(D'après le roman de Joseph d'Anvers\)](https://open.spotify.com/album/0nDtgDNJX1wCKbuyXCJG5w) | 3:51 | 2024-06-27 | 2024-07-19 |
 | [Bande annonce](https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP) | [Marine Quéméré](https://open.spotify.com/artist/5GDjnPfEAxrXVQUnM4KM9c) | [Bande annonce](https://open.spotify.com/album/3madmQA8hvMj3qZ18ud76H) | 2:34 | 2024-06-27 | 2024-10-04 |
-| [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 | 2025-01-10 |  |
+| [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 | 2025-01-10 | 2025-02-21 |
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 | 2024-11-28 |  |
 | [c'était mieux avant](https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [c'était mieux avant](https://open.spotify.com/album/6s1GZPMUWtSDp5Z8j1ka5E) | 2:17 | 2024-07-18 | 2024-09-20 |
@@ -25,7 +25,7 @@
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 |  |
 | [Comment fais\-tu pour vivre ? \- version guitare](https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [De ton vivant](https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ) | 3:42 | 2025-01-30 |  |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 |  |
-| [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 |  |
+| [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 | 2025-02-21 |
 | [Cowboy](https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Cowboy](https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4) | 3:37 | 2024-09-19 | 2025-01-31 |
 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 | 2024-11-07 |  |
 | [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 | 2025-02-14 |
@@ -36,6 +36,7 @@
 | [Empreinte](https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 3:17 | 2024-06-27 | 2024-12-06 |
 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 | 2024-06-27 | 2024-08-30 |
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 |  |
+| [Ex aequo](https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex aequo](https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz) | 3:57 | 2025-02-20 |  |
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 | 2025-01-17 |
 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 |  |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 | 2025-01-10 |
@@ -77,6 +78,7 @@
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 | 2024-11-08 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-11-14 | 2025-01-11 |
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
+| [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 | 2025-02-20 |  |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 | 2024-11-29 |
 | [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 | 2025-02-07 |
@@ -90,6 +92,7 @@
 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 |  |
 | [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 | 2024-11-22 |
 | [Luxembourg](https://open.spotify.com/track/392kafx6I9FFgx0eUNHA1n) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Saint\-Valentin](https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd) | 4:00 | 2024-10-24 |  |
+| [Ma gueule](https://open.spotify.com/track/1GJTfocbEMpOzQvYbiKr8m) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma gueule](https://open.spotify.com/album/21muzhTaUnwTekAIe3ETWG) | 3:10 | 2025-02-20 |  |
 | [Ma jeunesse](https://open.spotify.com/track/4V35BujGypFe8OzBwmSsbS) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Ma jeunesse](https://open.spotify.com/album/2RCuQSryCXllyUPREA6DzR) | 3:00 | 2024-10-10 | 2025-01-17 |
 | [Ma mère](https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma mère](https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
@@ -106,7 +109,7 @@
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-06-27 | 2024-11-15 |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 | 2024-10-11 |
-| [PEUR DE RIEN](https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [À TRAVERS](https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x) | 3:22 | 2024-10-03 |  |
+| [PEUR DE RIEN](https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [À TRAVERS](https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x) | 3:22 | 2024-10-03 | 2025-02-21 |
 | [Plastique](https://open.spotify.com/track/7nqOy9W1AcgvPB1Ww3N44S) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r) | 3:07 | 2025-02-13 |  |
 | [Pour te plaire](https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Pour te plaire](https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq) | 3:04 | 2025-01-30 |  |
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-11-07 |  |

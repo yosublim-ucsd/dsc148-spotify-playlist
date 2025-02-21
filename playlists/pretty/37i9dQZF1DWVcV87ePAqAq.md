@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,443 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,422 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 40 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 41 | [Heaven](https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA) | 2:45 |
 | 42 | [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 |
-| 43 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
-| 44 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
+| 43 | [When I Wake Up](https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [When I Wake Up](https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz) | 2:23 |
+| 44 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
 | 45 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |
 | 46 | [Soffa från IKEA](https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Soffa från IKEA](https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa) | 2:29 |
 | 47 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 56 | [Vad bänkar du?](https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [Vad bänkar du?](https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv) | 2:47 |
 | 57 | [MEDVETSLÖS](https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [MEDVETSLÖS](https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH) | 3:04 |
 | 58 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
-| 59 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
-| 60 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
+| 59 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
+| 60 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
 | 61 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 |
 | 62 | [SUPA \(Studentlåten\)](https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SUPA \(Studentlåten\)](https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak) | 2:40 |
 | 63 | [HELAN GÅR](https://open.spotify.com/track/5Isz9KOquPmsHmL6gWw2b2) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [HELAN GÅR](https://open.spotify.com/album/4sJqw8dnkNombjj84qXhrb) | 1:43 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 72 | [Fest i våra länder](https://open.spotify.com/track/3LIVbFIzbWDgtkLt29Quhx) | [Pidde P](https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS), [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug), [Petter Northug Jr](https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq) | [Fest i våra länder](https://open.spotify.com/album/3NlgO6EYJpa6KKxFfb6TkG) | 2:42 |
 | 73 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
 
-Snapshot ID: `Zmtr4AAAAAA0kB9EckSGuwVdHlSFlaE1`
+Snapshot ID: `Zmtr4AAAAAC0W+3uPwkhO8q7jm7fUCu4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: Dio
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,604 likes - 44 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,608 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 43 | [Glimlach](https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glimlach](https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w) | 2:27 |
 | 44 | [Een Vak Apart](https://open.spotify.com/track/0HYQ5ecpzJjrF7ikjH86My) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Narco X Styn, Vol\. 1](https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l) | 1:43 |
 
-Snapshot ID: `Z6YQcwAAAADhRSni1JtOuvWlgaHaPgQR`
+Snapshot ID: `Z6YQcwAAAACYFcThHlNs44Bn+iVhzgdc`

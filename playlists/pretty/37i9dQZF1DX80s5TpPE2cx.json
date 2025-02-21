@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 14562,
+  "num_followers": 14580,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+GTAAAAAD2qDn0rZd4hPUTNvQE+lCf",
+  "snapshot_id": "Zv+GTAAAAADjE2yQ2xGO739rBBRrQUNA",
   "tracks": [
     {
       "added_at": "2024-10-04 06:08:12",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "Head Start",
-        "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid"
         }
       ],
-      "duration_ms": 134547,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
+      "duration_ms": 179852,
+      "name": "star signs",
+      "url": "https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG"
     },
     {
       "added_at": "2024-10-04 06:08:12",
@@ -187,22 +191,18 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
+        "name": "Head Start",
+        "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 179852,
-      "name": "star signs",
-      "url": "https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG"
+      "duration_ms": 134547,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
     },
     {
       "added_at": "2024-10-04 06:08:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
+        "name": "Love Is Contagious",
+        "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 84346,
+      "name": "Wishes And Butterflies",
+      "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
         "name": "ARE YOU ALRiGHT?",
         "url": "https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 280888,
       "name": "ARE YOU ALRiGHT?",
       "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

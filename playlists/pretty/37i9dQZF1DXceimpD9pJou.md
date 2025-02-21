@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Majo y Dan
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,828 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,843 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Química](https://open.spotify.com/track/1AknhtoV7lzwCY1Cbs4Y0q) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Química](https://open.spotify.com/album/2s4go9X9AYGLPJ7hvsVCAe) | 2:50 |
 | 100 | [La Respuesta](https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [La Respuesta](https://open.spotify.com/album/3u9UmzZ4mSV2ymIhXMOZEP) | 2:59 |
 
-Snapshot ID: `Z68DsQAAAACSzr/R9u4obwhP+PK8Cpk7`
+Snapshot ID: `Z68DsQAAAAAIr7xoELxe+zLbYCBHYD4N`

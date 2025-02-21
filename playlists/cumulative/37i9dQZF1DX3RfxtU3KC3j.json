@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Bonomo",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Paptircem x Batu Akdeniz",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182250,
       "name": "A\u015fklardan Ge\u00e7tim",
       "url": "https://open.spotify.com/track/60m458rFjnQEVuiin9HNV0"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 211702,
       "name": "Canavar",
       "url": "https://open.spotify.com/track/0zm1FkfZHnxUxzSep34LQk"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 204928,
       "name": "Gelirsin Diye",
       "url": "https://open.spotify.com/track/2jMCNpcvSh4b5jtemziLe8"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 201484,
       "name": "Hepsi Yalan",
       "url": "https://open.spotify.com/track/5Opi5MsSXJmTQW8Fhf3W25"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "O Yollar Seni \u00dczer",
+        "url": "https://open.spotify.com/album/1y4mONQkKk9FnUy6fsNh7X"
+      },
+      "artists": [
+        {
+          "name": "Zaaf",
+          "url": "https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171441,
+      "name": "O Yollar Seni \u00dczer",
+      "url": "https://open.spotify.com/track/1qxa9RoGmYUcmjA3ueUbDq"
+    },
+    {
+      "album": {
         "name": "Olabilirdik",
         "url": "https://open.spotify.com/album/6rlzqJevPRwMcltz4EhNEI"
       },
@@ -3340,6 +3358,28 @@
       "duration_ms": 169700,
       "name": "tak\u0131nt\u0131",
       "url": "https://open.spotify.com/track/2wWPDdPeAI35eTzTwICe4G"
+    },
+    {
+      "album": {
+        "name": "Tek Son Bu Mu?",
+        "url": "https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9"
+      },
+      "artists": [
+        {
+          "name": "Batu Akdeniz",
+          "url": "https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO"
+        },
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Tek Son Bu Mu?",
+      "url": "https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr"
     },
     {
       "album": {
@@ -3947,6 +3987,28 @@
     },
     {
       "album": {
+        "name": "Yerlerdeyim",
+        "url": "https://open.spotify.com/album/0CrUw1BKM8SHtrsIMnm8Sp"
+      },
+      "artists": [
+        {
+          "name": "Vera",
+          "url": "https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3"
+        },
+        {
+          "name": "Simge P\u0131nar",
+          "url": "https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223025,
+      "name": "Yerlerdeyim",
+      "url": "https://open.spotify.com/track/36XvQFoo2dTSbwawPjO0c6"
+    },
+    {
+      "album": {
         "name": "Yine Sev Diyemem",
         "url": "https://open.spotify.com/album/4iJ9li7MMjbzaueRIpmAgh"
       },
@@ -4056,6 +4118,24 @@
       "duration_ms": 191500,
       "name": "Yoruluyorum",
       "url": "https://open.spotify.com/track/06jaPnOFll7wyA5PmpzlW0"
+    },
+    {
+      "album": {
+        "name": "Y\u00fcre\u011fime Vur Kadehi",
+        "url": "https://open.spotify.com/album/6KrTBOzIo8qM6MDBDQVigl"
+      },
+      "artists": [
+        {
+          "name": "Demir Demirkan",
+          "url": "https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311185,
+      "name": "Y\u00fcre\u011fime Vur Kadehi",
+      "url": "https://open.spotify.com/track/4PNNSSlUDfMCURa5uZR8xG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,183 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 52 | [Trabaye](https://open.spotify.com/track/6oU2Y2dRcSkgwxSGgojAxj) | [PAAK](https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL) | [Trabaye](https://open.spotify.com/album/6UYNUNGAQ3yVdWinJpNGgx) | 2:42 |
 | 53 | [Play With Me](https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7), [KKANBYEONGZ](https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt) | [Play With Me](https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd) | 2:49 |
 | 54 | [OXO](https://open.spotify.com/track/79Ulc0SbeRgJyUbiRNsgEz) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7) | [OXO](https://open.spotify.com/album/2nBUmXMS1kaodi7xx46iga) | 2:49 |
-| 55 | [Shooting Star](https://open.spotify.com/track/0rKXS6HI2d0fJF7FPkK5ZO) | [Pan](https://open.spotify.com/artist/1675J85JdJvpWqBMT5NpWg), [jinuseong](https://open.spotify.com/artist/4E1GJ2sKTu9tr9DkxFul4d) | [Shooting Star](https://open.spotify.com/album/7qc8RqceTxZFjDcjw8RhBd) | 3:05 |
-| 56 | [JINHAGA](https://open.spotify.com/track/5DTXFDsnJLQrvL9GdLi2jq) | [Pan](https://open.spotify.com/artist/1675J85JdJvpWqBMT5NpWg) | [Summer Swell](https://open.spotify.com/album/0stJHS4AR3BhRCNuy1R9kT) | 3:19 |
+| 55 | [Shooting Star](https://open.spotify.com/track/0rKXS6HI2d0fJF7FPkK5ZO) | [Gill Gipan](https://open.spotify.com/artist/4w6mpmFOUMsUOmsV9858rE), [jinuseong](https://open.spotify.com/artist/4E1GJ2sKTu9tr9DkxFul4d) | [Shooting Star](https://open.spotify.com/album/7qc8RqceTxZFjDcjw8RhBd) | 3:05 |
+| 56 | [JINHAGA](https://open.spotify.com/track/5DTXFDsnJLQrvL9GdLi2jq) | [Gill Gipan](https://open.spotify.com/artist/4w6mpmFOUMsUOmsV9858rE) | [Summer Swell](https://open.spotify.com/album/0stJHS4AR3BhRCNuy1R9kT) | 3:19 |
 | 57 | [Freyja](https://open.spotify.com/track/7uAmy80cFLuIJQWdsLMGni) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [REVIVAL](https://open.spotify.com/album/2Eed1b1mfkVQKIHhznkLDI) | 2:53 |
 | 58 | [LAFFY TAFFY](https://open.spotify.com/track/5YQbevxJxhMp6RzdXq1mng) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [LAFFY TAFFY](https://open.spotify.com/album/5lc06SAZ75AdrovBd4uBss) | 3:03 |
 | 59 | [Complicated \(Feat\. Kim Mi Jeong, Olltii\)](https://open.spotify.com/track/4oJFvjT57lm7CyCkxGTvYh) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Olltii](https://open.spotify.com/artist/1l1VfoWjli9N3MJH2tAWCA) | [Mood Washing](https://open.spotify.com/album/1d6YLEShwbVdpx3gelT6oZ) | 3:29 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 87 | [Way to You](https://open.spotify.com/track/3cEu4y6MfcnsiFf1OmNr7w) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Way to You](https://open.spotify.com/album/3KonVXFKTK3VmnmUAafTU2) | 3:15 |
 | 88 | [isle of me](https://open.spotify.com/track/0Miji5OZAJoKlOSonlCgCi) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [isle of me](https://open.spotify.com/album/1qJYp7WdUafdCnm6fOhT2A) | 2:47 |
 
-Snapshot ID: `ZrCazQAAAADdfgyu0735VoJkA6FC7U09`
+Snapshot ID: `ZrCazQAAAACAGZ1sIAGRYe/p0Qhlnwci`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. El Chapo Junior in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Frezza in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "DEMONIA",
+        "url": "https://open.spotify.com/album/1fnvtjULnkhp25og59Xciv"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "DEMONIA",
+      "url": "https://open.spotify.com/track/6sm1I8KQUPFAp6peLEFuZe"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -2107,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Ebay",
+        "url": "https://open.spotify.com/album/3NHiw0zEOKyL2rQCTaGJGq"
+      },
+      "artists": [
+        {
+          "name": "ARNONE",
+          "url": "https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174731,
+      "name": "Ebay",
+      "url": "https://open.spotify.com/track/1dLt2QHlINcGLDeJYiqkjH"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -2262,6 +2298,24 @@
       "duration_ms": 161104,
       "name": "FAMM SAPE",
       "url": "https://open.spotify.com/track/5H77TWyf3zFMxZFNYeayQ1"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1Tt1QbxEytKl9ub1ypTlDp"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116996,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0zBuNEWy5YufPBn0xUdCQ9"
     },
     {
       "album": {
@@ -2736,7 +2790,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 152727,
       "name": "Gratitudine",
       "url": "https://open.spotify.com/track/6PGF39AyPVPk0VPc72DlWo"
@@ -7484,7 +7538,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 167766,
       "name": "Skincare (feat. Gu\u00e8 & Yung Snapp)",
       "url": "https://open.spotify.com/track/5zT1c5TS9rgUh2hcdG9cY0"
@@ -7754,7 +7808,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 146865,
       "name": "SOUTHSIDE (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/3pFrl4cW03RrsLrBhXyMb0"

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,024 songs - 2 day 14 hr 17 min
+1,026 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11 Y 6](https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 2:58 | 2021-12-24 |  |
 | [11 y 6](https://open.spotify.com/track/0opWAKmSxKmZgDKj1Dm6cb) | [Francisco Charco](https://open.spotify.com/artist/5ijGwdfVkIvawofd3jGp2b) | [11 y 6](https://open.spotify.com/album/3lH7IoDmv4xZCW6NTBveSI) | 3:38 | 2022-04-13 | 2022-04-21 |
 | [11 y 6](https://open.spotify.com/track/0d8xQb9zET1Jt61CwLbA1o) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [11 y 6](https://open.spotify.com/album/3iYNEe0eYNFKIwCmBx3aV9) | 5:01 | 2022-02-18 | 2022-07-28 |
-| [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2022-03-24 |  |
+| [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2022-03-24 | 2025-02-21 |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [50 Horas](https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 3:33 | 2021-12-24 | 2022-07-29 |
 | [7 Rings \- Acoustic Version](https://open.spotify.com/track/47PTdbgKqE5JZFCZ9Lh4al) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [7 Rings \(Acoustic Version\)](https://open.spotify.com/album/11S56kFlwa4KbADJTpSBJv) | 3:11 | 2022-04-08 | 2022-04-12 |
@@ -577,6 +577,7 @@
 | [Malibu \- Acoustic](https://open.spotify.com/track/2UpFox08IH0MzS7Q3iklBL) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Malibu \(Acoustic\)](https://open.spotify.com/album/0wM958tbqrru8Nf07KWsEm) | 4:04 | 2022-04-13 | 2022-04-20 |
 | [Mambeado](https://open.spotify.com/track/5VmoRnclAlBtbt1Icr0PY1) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Fuerte Y Caliente](https://open.spotify.com/album/0p7UqQIXTkyTKcDVsL1cyy) | 3:41 | 2022-03-24 | 2022-04-21 |
 | [Maneater](https://open.spotify.com/track/3YFRV4FKybqglIQ6yqlJUD) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Maneater](https://open.spotify.com/album/1pd0aIiQIsLXC8ya6YFARz) | 2:51 | 2022-04-08 | 2022-04-10 |
+| [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-02-20 |  |
 | [Marce por Oito](https://open.spotify.com/track/7szAcmwZRBvjAFzQHBN6Vo) | [Amanda Mara](https://open.spotify.com/artist/3V9lgrqOiBjzGXRHq6D3Ul) | [Marce por Oito](https://open.spotify.com/album/3KJUqgwZPdL8VEAAQQzWka) | 2:56 | 2022-03-28 | 2022-04-09 |
 | [Maremagnum](https://open.spotify.com/track/5W3eEy8Igr1vFThLOvdzZC) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 4:03 | 2022-04-13 | 2022-06-29 |
 | [Marihuana](https://open.spotify.com/track/6IfJxrqFTHva6vyrtSzWyj) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [Marihuana](https://open.spotify.com/album/3i82yBqFMp3DCj6ppOZDHr) | 4:25 | 2022-04-08 | 2022-04-12 |
@@ -677,6 +678,7 @@
 | [Obra De Arte](https://open.spotify.com/track/4wDc1MMWhfdC8UHhUgLSD7) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [2020](https://open.spotify.com/album/5PiGqB14PQ9GWPeVWC2tC0) | 3:25 | 2022-01-07 | 2022-04-21 |
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2022-07-25 | 2024-04-19 |
 | [Obsesionario En La Mayor](https://open.spotify.com/track/7DKIXBSQqTUuvnPVXpuv1A) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/6t01Vq8XJrZbKmjpgBSirm) | 4:27 | 2021-12-24 | 2022-07-29 |
+| [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-20 |  |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-03-28 | 2022-04-21 |
 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 | 2022-03-28 | 2022-04-17 |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 | 2023-05-06 |
@@ -890,7 +892,7 @@
 | [Te Llevo](https://open.spotify.com/track/0xFL9BodCjL6r88XhmdT99) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Te Llevo](https://open.spotify.com/album/2kijyvVJoC9h4qizOmeeWm) | 3:08 | 2022-03-24 | 2022-04-18 |
 | [Te Para 3 \- MTV Unplugged](https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:07 | 2022-04-01 |  |
 | [Te Paso por Tonto](https://open.spotify.com/track/15EDp9LxLLXOi676o1eBS9) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Te Paso por Tonto](https://open.spotify.com/album/54fmEsADMtYIiiMJDRkSKP) | 2:17 | 2022-03-24 | 2022-03-30 |
-| [Te Pido Un Favor](https://open.spotify.com/track/6fVtdgVN3ML71LEZ10hbWV) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Te Pido Un Favor](https://open.spotify.com/album/68VdPuwsgauybOP4bJPv5d) | 2:25 | 2025-02-14 |  |
+| [Te Pido Un Favor](https://open.spotify.com/track/6fVtdgVN3ML71LEZ10hbWV) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Te Pido Un Favor](https://open.spotify.com/album/68VdPuwsgauybOP4bJPv5d) | 2:25 | 2025-02-14 | 2025-02-21 |
 | [Te quiero igual](https://open.spotify.com/track/4Y7nAGTGPq8jikscC0jIHy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/2gwzhCxkiLzZC0aPigMz5Y) | 3:55 | 2022-01-07 | 2022-04-17 |
 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 | 2022-07-25 | 2024-04-19 |
 | [Te reís](https://open.spotify.com/track/39YiK0lPXd96w5Z0ad31LS) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Te reís](https://open.spotify.com/album/1RRX72yDVbtFIKu6e7aHXy) | 3:26 | 2022-01-18 | 2022-07-11 |

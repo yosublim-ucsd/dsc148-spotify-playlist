@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Robert van Hemert",
+  "description": "Wekelijkse update met Hollands en volks. Cover: FLEMMING & Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 167462,
       "name": "1 keer in je leven",
       "url": "https://open.spotify.com/track/40k7gc5XwQdU7VtKrRnDAP"
+    },
+    {
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
     },
     {
       "album": {
@@ -114,7 +136,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
@@ -370,6 +392,24 @@
       "duration_ms": 158430,
       "name": "Beest Van De Stad",
       "url": "https://open.spotify.com/track/7wb8rCZUJjrSTRY3eJytyq"
+    },
+    {
+      "album": {
+        "name": "Bel Me Dan",
+        "url": "https://open.spotify.com/album/7z96ITQhxylMEcJPOeA4LS"
+      },
+      "artists": [
+        {
+          "name": "Frank Masmeijer",
+          "url": "https://open.spotify.com/artist/4Q2GuDwv4d8UEyn4PHdg5R"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Bel Me Dan",
+      "url": "https://open.spotify.com/track/0H6Ik5pvcMhPicOjy0AFxN"
     },
     {
       "album": {
@@ -811,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Dichtbij Me (M'n Desire)",
+        "url": "https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Dichtbij Me (M'n Desire)",
+      "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
+    },
+    {
+      "album": {
         "name": "Dief In De Nacht",
         "url": "https://open.spotify.com/album/0z73vLb2gCA3auTRAMclej"
       },
@@ -844,7 +902,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172969,
       "name": "Dit Gaat Over jou",
       "url": "https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW"
@@ -1071,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Feessie",
+        "url": "https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188726,
+      "name": "Feessie",
+      "url": "https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x"
+    },
+    {
+      "album": {
         "name": "Fix Dit",
         "url": "https://open.spotify.com/album/1FcjHOstEG3MaZw3ancFSt"
       },
@@ -1136,7 +1212,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 216513,
       "name": "Ga Als Je Wilt - 2024",
       "url": "https://open.spotify.com/track/40UqMDhrBlpFLbQEBkMuBS"
@@ -1670,7 +1746,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 166923,
       "name": "Ik Spaar Geen Centen",
       "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
@@ -2014,7 +2090,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 216263,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0"
@@ -2174,7 +2250,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 180685,
       "name": "Kom Op En Zing Met Me Mee",
       "url": "https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto"
@@ -2344,7 +2420,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 189569,
       "name": "Ladder Naar De Hemel",
       "url": "https://open.spotify.com/track/56x8TdbbAo6KHvToVEQ9vD"
@@ -2522,7 +2598,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 136133,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
@@ -2612,7 +2688,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182640,
       "name": "Met Tranen In Je Ogen Ben Je Blind",
       "url": "https://open.spotify.com/track/5j9LzSPY6lNn0HCT5eLEZK"
@@ -3583,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Verboden Liefde",
+        "url": "https://open.spotify.com/album/59OMJfvjEpcDy3v529apUp"
+      },
+      "artists": [
+        {
+          "name": "Henk Damen",
+          "url": "https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Verboden Liefde",
+      "url": "https://open.spotify.com/track/48xe6ZQrASG371JErqVAhP"
+    },
+    {
+      "album": {
         "name": "Verder met m'n leven",
         "url": "https://open.spotify.com/album/3Yh72jE3SNMTxSOKOdRXM3"
       },
@@ -3835,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Waar Ga Jij Zo Laat Naar Toe?",
+        "url": "https://open.spotify.com/album/6JLzDKtWuwy3ivpYRSkCSO"
+      },
+      "artists": [
+        {
+          "name": "Delano Bisschops",
+          "url": "https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212857,
+      "name": "Waar Ga Jij Zo Laat Naar Toe?",
+      "url": "https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7"
+    },
+    {
+      "album": {
         "name": "Waarom",
         "url": "https://open.spotify.com/album/6CtORhISBvtsSo7fpGVcCs"
       },
@@ -3904,7 +4016,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 172245,
       "name": "Wat Maakt Het Uit",
       "url": "https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K"
@@ -4344,7 +4456,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 180714,
       "name": "Zou Jij Mij Doen?!",
       "url": "https://open.spotify.com/track/43oq1u2ymYMSAlNF7h4zy1"

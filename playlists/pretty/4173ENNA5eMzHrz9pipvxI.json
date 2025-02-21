@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Pawelo",
-  "num_followers": 120641,
+  "num_followers": 120648,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAezVbwiSIFOQe/qymk21OIa2hbbhFN",
+  "snapshot_id": "AAAez2clLuD3gDnaNi/ILPArrlU7avA2",
   "tracks": [
     {
       "added_at": "2025-02-13 13:34:18",
@@ -995,6 +995,98 @@
       "duration_ms": 160888,
       "name": "Destination Calabria",
       "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2025-02-20 10:24:59",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2025-02-20 10:24:59",
+      "album": {
+        "name": "Jevlis Ka (feat. FeniFina)",
+        "url": "https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "FeniFina",
+          "url": "https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "Jevlis Ka (feat. FeniFina)",
+      "url": "https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl"
+    },
+    {
+      "added_at": "2025-02-20 10:24:59",
+      "album": {
+        "name": "Deaf by Stereo",
+        "url": "https://open.spotify.com/album/0F2lBgnTU0ws7Zh3HYKO5u"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Deaf by Stereo",
+      "url": "https://open.spotify.com/track/7fi7L1Y3bjA6xmhC2PUmLT"
+    },
+    {
+      "added_at": "2025-02-20 10:24:59",
+      "album": {
+        "name": "Hometown Hero",
+        "url": "https://open.spotify.com/album/5tJ3ruGQb5bVYQ5oP8ZUuN"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/0xobh82ftL8JRfZ7dvNmrA"
+    },
+    {
+      "added_at": "2025-02-20 10:24:59",
+      "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

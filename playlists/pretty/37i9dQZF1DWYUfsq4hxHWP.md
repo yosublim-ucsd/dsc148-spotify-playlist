@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Don Louis, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,790 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,834 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 102 | [Never Had You Anyway](https://open.spotify.com/track/738vQDGntMsnuGnKYMYWOG) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Never Had You Anyway](https://open.spotify.com/album/6z0hsxPoQfORbC33E4pd4A) | 3:28 |
 | 103 | [Deceiver](https://open.spotify.com/track/3v2jic6BJXxD9tZBRXQVjT) | [Jared Redden](https://open.spotify.com/artist/57X85IMhk8Vdd0LG5slHDg) | [The Deceiver](https://open.spotify.com/album/4JQ4DRdtqL8aVBBo67XyPw) | 2:26 |
 
-Snapshot ID: `Z7V2oQAAAADDIsetjxfHbZXHuPueLxr2`
+Snapshot ID: `Z7V2oQAAAACben4ix5Z55RNNv47HbDqo`

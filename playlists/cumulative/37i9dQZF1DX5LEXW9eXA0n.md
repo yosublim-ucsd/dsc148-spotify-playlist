@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: GyeongseoYeji\(경서예지\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Gaeko\(개코\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,408 songs - 3 day 19 hr 5 min
+1,410 songs - 3 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Alone](https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y) | [KI HYUN](https://open.spotify.com/artist/37aGvwOvSBT3UCkXBZ6nS6), [수빈](https://open.spotify.com/artist/1NrGKVkZ7SbOUIrtn9Zm8b) | [Alone](https://open.spotify.com/album/0OkfIH5BLiyic0hzd4oTsi) | 3:19 | 2023-11-02 | 2024-03-06 |
 | [Alone](https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Alone](https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A) | 3:41 | 2024-10-30 |  |
 | [Alone](https://open.spotify.com/track/0KkoFye9cvIeLRe3fQMeOK) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Alone](https://open.spotify.com/album/2wUZ7V5326P16ADyTdQpzL) | 4:02 | 2025-02-04 | 2025-02-07 |
-| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 |  |
+| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-02-21 |
 | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-01-07 |  |
 | [Always By Your Side](https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y) | [Jung Se Young](https://open.spotify.com/artist/7mkeMDyzlRKT32H2hsAW6f) | [Bravo, My Life OST Part.6](https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [Always on your side](https://open.spotify.com/track/3QGPAafQu3bRCVa7mqOchZ) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Always on your side](https://open.spotify.com/album/0nETRLU97ZOCWzSGoNqWkt) | 3:47 | 2022-03-24 | 2022-04-21 |
@@ -162,6 +162,7 @@
 | [Blue Night](https://open.spotify.com/track/0ItqbjLfJyUYTPqbKklSCR) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Blue Night](https://open.spotify.com/album/1NsHwomUoMbw74oPzVXH1w) | 3:36 | 2022-08-12 | 2022-11-17 |
 | [Blue night song](https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Blue night song](https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB) | 3:45 | 2023-04-14 | 2023-08-25 |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-06-18 | 2022-09-06 |
+| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 |  |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-14 | 2022-07-08 |
 | [Bouquet](https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p) | [Tia](https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Bouquet](https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK) | 3:29 | 2024-01-05 | 2024-02-16 |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2022-01-17 | 2022-04-04 |
@@ -621,6 +622,7 @@
 | [I′m Sad without You \(Feat\. DOKO\)](https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [I'm Sad without You](https://open.spotify.com/album/1T5vbcHbRYU9ICbvmfexFe) | 3:34 | 2022-11-09 | 2023-01-21 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-11 | 2023-02-15 |
 | [I′m Still In Love With You](https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [I′m Still In Love With You](https://open.spotify.com/album/7DznUUwxhcd3C9urHroOIe) | 4:06 | 2023-09-14 | 2023-11-16 |
+| [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 | 2025-02-20 |  |
 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-22 | 2024-07-12 |
 | [Just](https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Just](https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ) | 3:41 | 2023-04-14 | 2023-08-25 |
 | [Just Another Day](https://open.spotify.com/track/1DsZiNbPwS6WyHdm6P9RZi) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Just Another Day](https://open.spotify.com/album/0GcGIYssBQ5oQ8XMjBYpmT) | 2:59 | 2023-12-13 | 2024-05-01 |
@@ -1227,7 +1229,7 @@
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2021-12-20 | 2022-04-20 |
 | [Wall](https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Next Door, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5xYrVfxCBFberOan8DWmDh) | 3:59 | 2024-09-23 | 2025-02-12 |
 | [want to love you](https://open.spotify.com/track/4is7rfBhIbPBpVdAMnhFoQ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:27 | 2021-12-23 | 2022-06-16 |
-| [Warmth](https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Warmth](https://open.spotify.com/album/700oyQvND1pNIADYqOkrre) | 3:55 | 2024-05-07 |  |
+| [Warmth](https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Warmth](https://open.spotify.com/album/700oyQvND1pNIADYqOkrre) | 3:55 | 2024-05-07 | 2025-02-21 |
 | [Was it my fault for loving you so much?](https://open.spotify.com/track/49QIrzOCOiheYSUTGhLqWX) | [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [A Profitable Cage OST Part.12 \(Soundtrack\)](https://open.spotify.com/album/3hn4ThCKZ5dF4VWvk9vBjW) | 3:14 | 2024-06-14 | 2024-10-17 |
 | [WAVE](https://open.spotify.com/track/5VeByROjeglnNRZFobQOev) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:30 | 2022-03-09 | 2022-04-21 |
 | [We have to meet again](https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8) | 4:30 | 2023-01-20 | 2023-03-28 |

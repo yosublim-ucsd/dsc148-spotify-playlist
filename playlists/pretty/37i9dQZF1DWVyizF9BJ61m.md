@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,277 likes - 47 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,346 likes - 47 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 46 | [This Hustling World](https://open.spotify.com/track/2qWDv8zJ4xRQWMT6BSjCNk) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Simigwa](https://open.spotify.com/album/72batX8m52vXaZwCTXkunL) | 4:18 |
 | 47 | [Free My People](https://open.spotify.com/track/3nl8DKWk06tn3aC7McNxth) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/65VRkb7Fx6EYccDop2dT2z) | 4:52 |
 
-Snapshot ID: `Z5Ml6gAAAAAQvDnzm64KQbzwChgswnep`
+Snapshot ID: `Z5Ml6gAAAADfj7uYhD9TF2fYYPzWg5oX`

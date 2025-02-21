@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,858 likes - 133 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,872 likes - 133 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 132 | [Olvídala](https://open.spotify.com/track/51jFx12ZDrLisbz06Se7jV) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Jorge Celedón Sólo Hits](https://open.spotify.com/album/67EsvtIlpTOT1ZT7blrORN) | 5:04 |
 | 133 | [First Casualty](https://open.spotify.com/track/20z82tYSuj2C7jBCDHzJs6) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Whities 017](https://open.spotify.com/album/41uBZr079JtUY94N5J1xIZ) | 7:09 |
 
-Snapshot ID: `Z56yXwAAAABbhPdT9SdWHGaSebTg0mM8`
+Snapshot ID: `Z56yXwAAAADVnAb1ZFXr1WYjfroecBZ9`

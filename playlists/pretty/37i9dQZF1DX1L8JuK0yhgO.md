@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,486 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,491 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [me&you](https://open.spotify.com/track/39xINaQWFkV1Wga8g8G1AT) | [ezo](https://open.spotify.com/artist/7622TEhRv89RFekzXxRD3A) | [me&you](https://open.spotify.com/album/7i86IU2CwC3nAm4OELQeMP) | 2:31 |
 | 70 | [bouquet](https://open.spotify.com/track/4Nlq6Gc108FcfcOGbGVeWY) | [UCARY & THE VALENTINE](https://open.spotify.com/artist/61NGNNRGbsvvBALMGL0UqN) | [bouquet](https://open.spotify.com/album/0IX65eTSzryDVYAyo1Ok6w) | 3:47 |
 
-Snapshot ID: `Z7KV2wAAAABVacx9vl5974li7t5NbWs2`
+Snapshot ID: `Z7KV2wAAAACFWRzlQLWD+9DJSVCDguK2`

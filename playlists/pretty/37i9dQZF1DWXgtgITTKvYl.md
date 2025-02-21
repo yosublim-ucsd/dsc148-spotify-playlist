@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,193 likes - 75 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,239 likes - 75 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Is It Tomorrow or Just the End of Time?](https://open.spotify.com/track/4D36ReHXc6QIJdza0jvotO) | [Tobin Mueller](https://open.spotify.com/artist/0MSCjp9CiF6NyxmbLubp5p), [Amit Erez](https://open.spotify.com/artist/4ky3esnYhTz2pGaxl7xOV1) | [Best of Tobin Mueller's Prog Rock](https://open.spotify.com/album/4JMEjQEsmny2U9wJWduNdB) | 7:27 |
 | 75 | [The Tipu House](https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [The Tipu House](https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi) | 3:31 |
 
-Snapshot ID: `Z67N4wAAAADA8B+ZscFoKzcrQEzB41+V`
+Snapshot ID: `Z67N4wAAAADHt+PDLtNxGqkV9TOXvro5`

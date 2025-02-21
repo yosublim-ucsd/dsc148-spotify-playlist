@@ -1,13 +1,165 @@
 {
   "description": "Death is just the beginning. Listen to the music from School Spirits, new season now streaming on Paramount+. ",
-  "num_followers": 10335,
+  "num_followers": 10513,
   "original_name": "School Spirits Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z62mjQAAAADo9tRBH4XEeoWcV+rvF3m1",
+  "snapshot_id": "Z7bhAQAAAABJkaN29hyavWHqTfZBqNMk",
   "tracks": [
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Vintage Soul 1967 - 1985",
+        "url": "https://open.spotify.com/album/2pkqrkgcJCqDSa0fc6umiL"
+      },
+      "artists": [
+        {
+          "name": "Henrey Ford",
+          "url": "https://open.spotify.com/artist/0LHGFXIhCA77iTibwHId04"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Take Me for What I Am - 1971",
+      "url": "https://open.spotify.com/track/7G6s4FcnKJVh3jWKhZ2dra"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "The Lost Masters",
+        "url": "https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3"
+      },
+      "artists": [
+        {
+          "name": "Simplistics",
+          "url": "https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi"
+        }
+      ],
+      "duration_ms": 200505,
+      "name": "Heat of the Night",
+      "url": "https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Glorious Ladies of the Eighties",
+        "url": "https://open.spotify.com/album/1if9Mft1XwaSSLH3TBQycE"
+      },
+      "artists": [
+        {
+          "name": "Red Alert",
+          "url": "https://open.spotify.com/artist/4iaK2TE8vaJqdudf4kpy1i"
+        }
+      ],
+      "duration_ms": 250194,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/4ynhrAuFOOHy7EhhoDhLCD"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Ain't No Time for Stoppin'",
+        "url": "https://open.spotify.com/album/0ZRCsdFSnbKVSsUCkO5Yyq"
+      },
+      "artists": [
+        {
+          "name": "Fat City",
+          "url": "https://open.spotify.com/artist/0jKx5W3UPvxkIallM7U0hm"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Baby, Oh Baby",
+      "url": "https://open.spotify.com/track/6KWSXe6yZlNwiDoKMC3LX4"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "The Age of Consent (40 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0GrkL3xnshqjHCUEENvSqr"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Smalltown Boy (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/5H7yuv2SupQrXDYItiHy3d"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Shotgun - Kenny Lynch",
+        "url": "https://open.spotify.com/album/1Ke21O3MMFcq4VCAFVsyGq"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lynch",
+          "url": "https://open.spotify.com/artist/4ekrj85SJvd5BgK3v8XxYC"
+        }
+      ],
+      "duration_ms": 263862,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/5MwkIeUepIjmr7UA119saC"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/7vMaPQXiXBG9ebY5tRzrLy"
+      },
+      "artists": [
+        {
+          "name": "Eyes",
+          "url": "https://open.spotify.com/artist/67jNu5nv9BBdR6RnOAfkLl"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "Living for the Beat",
+      "url": "https://open.spotify.com/track/4eBK3lRyZkszObuAeFjLUf"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1y4awtbaJDMbceQM2JlNr6"
+      },
+      "artists": [
+        {
+          "name": "Blue Peter",
+          "url": "https://open.spotify.com/artist/5qN5HdqAKRaGibFpEmBRlh"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "All Your Time",
+      "url": "https://open.spotify.com/track/7GGT3YeGtWxPgcZSG9dqh7"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
     {
       "added_at": "2025-02-13 08:00:13",
       "album": {

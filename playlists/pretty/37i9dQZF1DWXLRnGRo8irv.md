@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: Milena\(밀레나\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,493 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Sae jip da oh](https://open.spotify.com/track/1QOrJBxHzCW74wFYDh8rxe) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl) | [Sae jip da oh](https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J) | 5:03 |
 | 50 | [Darkness](https://open.spotify.com/track/1jLZNexI7i3ZcqyWfhs2Cw) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl) | [Sae jip da oh](https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J) | 4:33 |
 
-Snapshot ID: `Z6IrjAAAAABb+YTdkdSO+SnIXZlg/g6l`
+Snapshot ID: `Z6IrjAAAAAALzFjQNg+szk8BJICU83Wj`

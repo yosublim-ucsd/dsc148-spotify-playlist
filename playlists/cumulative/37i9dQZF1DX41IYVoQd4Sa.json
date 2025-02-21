@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/4DFbuAOp5fD1LGbmH0QgOh"
+      },
+      "artists": [
+        {
+          "name": "Adi-Keshet Cohen",
+          "url": "https://open.spotify.com/artist/2fHgvt4m6w179ZxCGFJz5f"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/7c6Ax8PdoZfAVDqSQZ0zdw"
+    },
+    {
+      "album": {
         "name": "Ha'chayim Ha'ele",
         "url": "https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 120916,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3NKuAFk0QycmqD1Ontsg1z"
@@ -822,7 +840,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 210485,
       "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
       "url": "https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ"
@@ -2150,6 +2168,24 @@
       "duration_ms": 238867,
       "name": "\u05d9\u05e0\u05d9\u05d1",
       "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05e9 \u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/32uVzW9GCwx7TZUKliecJ3"
+      },
+      "artists": [
+        {
+          "name": "Joseph E-Shine",
+          "url": "https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "\u05d9\u05e9 \u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/40kcuw2ol7Ljm0HmIGGDcc"
     },
     {
       "album": {
@@ -3340,6 +3376,28 @@
       "duration_ms": 232000,
       "name": "\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d4\u05d5\u05d1",
       "url": "https://open.spotify.com/track/7BNMlLhlsC1BejJU0IBOGU"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05de\u05e7\u05d3\u05d9\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd"
+      },
+      "artists": [
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        },
+        {
+          "name": "Korin Allal",
+          "url": "https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "\u05e9\u05d1\u05ea\u05d5\u05ea \u05d5\u05d7\u05d2\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a"
     },
     {
       "album": {

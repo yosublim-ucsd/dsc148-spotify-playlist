@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia?si=a13755939e5a433a">Las Alucines</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,981 likes - 11 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,980 likes - 11 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 10 | [31\. Monsanto: El Legado del Mal Heredado a Bayer](https://open.spotify.com/episode/2sOOjnbgpLB7zcGGv2Xjky) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:08:01 |
 | 11 | [Capítulo 33: Micheladas](https://open.spotify.com/episode/35Sfu6rZ6Zork6UHaaOPbF) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:28:41 |
 
-Snapshot ID: `ZyUcSAAAAACOQ+RSYCqW/SCegzl4swXC`
+Snapshot ID: `ZyUcSAAAAACLfq6GTl2C73RZOb3f0eZv`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Hoke",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Delaossa",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 181739,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc"
@@ -1388,6 +1388,28 @@
       "duration_ms": 230769,
       "name": "Black Ops RMX",
       "url": "https://open.spotify.com/track/5Sv3zGCLH4viReznLKwUJF"
+    },
+    {
+      "album": {
+        "name": "Bl\u00edster",
+        "url": "https://open.spotify.com/album/3InSSjhvgVBR5RyiFMVEYm"
+      },
+      "artists": [
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "BoriRock",
+          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216131,
+      "name": "Bl\u00edster",
+      "url": "https://open.spotify.com/track/26vcoEHrsEkWSl1EmKxNFY"
     },
     {
       "album": {
@@ -2978,7 +3000,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 241666,
       "name": "Demasiados Raperos",
       "url": "https://open.spotify.com/track/7xoozB20Y2zrEgXEzeKkB9"
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 176910,
       "name": "FABERG\u00c9",
       "url": "https://open.spotify.com/track/4p5rJaNRzsicfH1px0XOBD"
@@ -4997,6 +5019,24 @@
     },
     {
       "album": {
+        "name": "Canciones sin videoclip Vol. 1",
+        "url": "https://open.spotify.com/album/49AAu0b2CJb67ULFefyjUz"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204645,
+      "name": "J\u00f3venes para siempre",
+      "url": "https://open.spotify.com/track/1fDX7LMNUqP3ExYcmTflJ7"
+    },
+    {
+      "album": {
         "name": "Kazike",
         "url": "https://open.spotify.com/album/1kfkqYuwTD8S0PJxNngGdG"
       },
@@ -5944,7 +5984,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 255071,
       "name": "Mal de amores",
       "url": "https://open.spotify.com/track/0Lo7sfCdYizVfbg4vKIeYI"
@@ -7090,7 +7130,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 269647,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6K8CM89ef8FN8NIOMmINue"
@@ -7466,6 +7506,46 @@
       "duration_ms": 189853,
       "name": "Nudos",
       "url": "https://open.spotify.com/track/2nXXsCwR49zSwvOByAR4wU"
+    },
+    {
+      "album": {
+        "name": "Nueva Season",
+        "url": "https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227496,
+      "name": "Nueva Season",
+      "url": "https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC"
+    },
+    {
+      "album": {
+        "name": "N\u00e9kora",
+        "url": "https://open.spotify.com/album/34qPmFQX9oIQtrV5nXsD6h"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        },
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149010,
+      "name": "N\u00e9kora",
+      "url": "https://open.spotify.com/track/2nAdlxuUz4VspmjEi6KOXq"
     },
     {
       "album": {
@@ -9674,7 +9754,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 275878,
       "name": "Sudores fr\u00edos",
       "url": "https://open.spotify.com/track/3fTPnf1cNtC8k6nrT0j9wm"
@@ -9981,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "Tipo Raro",
+        "url": "https://open.spotify.com/album/7JSeefMNQIgHv89g1IXOQA"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Tipo Raro",
+      "url": "https://open.spotify.com/track/4tXuJqLUQ42bncqiQAHP3C"
+    },
+    {
+      "album": {
         "name": "Tirando de Bic",
         "url": "https://open.spotify.com/album/3cL774NEgpLROW1t7A9fmo"
       },
@@ -10178,6 +10276,28 @@
       "duration_ms": 201701,
       "name": "Tridente Dorado",
       "url": "https://open.spotify.com/track/3mfkFNikm2SZfAqCxXOwKg"
+    },
+    {
+      "album": {
+        "name": "Trucos",
+        "url": "https://open.spotify.com/album/0MJVxkJaRuxzXmwwzX7yiS"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Trucos",
+      "url": "https://open.spotify.com/track/6nqm2KYclwLyWB3j3WsiCz"
     },
     {
       "album": {

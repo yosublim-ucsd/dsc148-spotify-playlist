@@ -3457,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Los Tres",
+        "url": "https://open.spotify.com/album/2n6JAarX7Z7bFRDYq7TyPn"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218636,
+      "name": "Los Tres",
+      "url": "https://open.spotify.com/track/1MXcZZ15ZqtItBS1DTgKVB"
+    },
+    {
+      "album": {
         "name": "Como Bailan los Dem\u00e1s (Lado B)",
         "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 26234,
+  "num_followers": 26239,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAABoW+UYxYSVj6KV6LlXn8PV",
+  "snapshot_id": "Z7UfAAAAAAA7er35xF2MYdD2shvqN16F",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon (U.S. Version)",
-        "url": "https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4"
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
+      "duration_ms": 201677,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+        "name": "Babylon (U.S. Version)",
+        "url": "https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4"
       },
       "artists": [
         {
@@ -392,25 +392,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 201677,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 223767,
-      "name": "Shut Ya Mouth",
-      "url": "https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc"
+      "duration_ms": 183760,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
     },
     {
       "added_at": null,
@@ -427,22 +411,6 @@
       "duration_ms": 198947,
       "name": "Proceed with Caution",
       "url": "https://open.spotify.com/track/0tEAjGoTGgLtpJJxPaFtJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Start First",
-      "url": "https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl"
     },
     {
       "added_at": null,
@@ -472,9 +440,25 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 244769,
-      "name": "Under Attack",
-      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+      "duration_ms": 223767,
+      "name": "Shut Ya Mouth",
+      "url": "https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Start First",
+      "url": "https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl"
     },
     {
       "added_at": null,
@@ -491,22 +475,6 @@
       "duration_ms": 232378,
       "name": "Ruling Force",
       "url": "https://open.spotify.com/track/0sasXDgZKE2bfltieFtX9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -536,9 +504,25 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 217061,
-      "name": "Volume",
-      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
+      "duration_ms": 244769,
+      "name": "Under Attack",
+      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Tings",
         "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 239072,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 217061,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Destroy the Dancefloor",
-      "url": "https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Destroy the Dancefloor",
+      "url": "https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shark Bites and Dog Fights",
         "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Corrupted",
-      "url": "https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH"
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Rude Boy for Life",
-      "url": "https://open.spotify.com/track/05EzecjpumhZhpMXAkGFZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Rude Boy for Life",
+      "url": "https://open.spotify.com/track/05EzecjpumhZhpMXAkGFZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shark Bites and Dog Fights",
         "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
+      "duration_ms": 216413,
+      "name": "Corrupted",
+      "url": "https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH"
     },
     {
       "added_at": null,

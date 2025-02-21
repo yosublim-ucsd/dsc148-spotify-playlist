@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Dexter and the Moonrocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,956 likes - 126 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,120 likes - 126 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 |
 | 126 | [Rust](https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Rust](https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy) | 2:48 |
 
-Snapshot ID: `Z6+5NgAAAABn+xAebUFoOUDPdyFmCl9E`
+Snapshot ID: `Z6+5NgAAAACo/1NQfFQtYQBVXYA67B/0`

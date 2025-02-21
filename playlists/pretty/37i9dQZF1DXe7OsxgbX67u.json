@@ -1,13 +1,77 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 62380,
+  "num_followers": 63025,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z62mjgAAAACfb8jpX84VZwbh9QaWvZaT",
+  "snapshot_id": "Z7bhAQAAAAD/XMUMb+s0PZz/TQA7aUQv",
   "tracks": [
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Big Mood Attitude",
+        "url": "https://open.spotify.com/album/4XTGugIUJgEbzoL0oH1l2z"
+      },
+      "artists": [
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        }
+      ],
+      "duration_ms": 128840,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/108bp2InL1lMrIi1cFkWI7"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/4kfwZY4Em7ktEHQ31LSTA2"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 171094,
+      "name": "Rock the Bells",
+      "url": "https://open.spotify.com/track/33KvuePYdzsx7ZqoTj3rHU"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Another Soul",
+        "url": "https://open.spotify.com/album/6pNbA97bxlpTYSy6nyrx4q"
+      },
+      "artists": [
+        {
+          "name": "Bombay Beach Revival",
+          "url": "https://open.spotify.com/artist/1W7pMXb6n6ZUUM9Axqi9tL"
+        }
+      ],
+      "duration_ms": 231082,
+      "name": "What I Needed",
+      "url": "https://open.spotify.com/track/2J4D2sVNEoORSAsYd2sIqo"
+    },
+    {
+      "added_at": "2025-02-20 08:00:01",
+      "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
+    },
     {
       "added_at": "2025-02-13 08:00:13",
       "album": {

@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 158926,
       "name": "Ai que Vontade - Ao Vivo",
       "url": "https://open.spotify.com/track/6sDgaU5aSmFTHVOKM0qFf6"
@@ -8626,7 +8626,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "E A\u00ed Como Que T\u00e1 ?",
       "url": "https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez"
@@ -21202,7 +21202,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 169634,
       "name": "Pe\u00e7a \u00cdntima",
       "url": "https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt"
@@ -24349,6 +24349,32 @@
     },
     {
       "album": {
+        "name": "Cavalona de costas, gostosona de frente",
+        "url": "https://open.spotify.com/album/7dvQT98nu7qpWM8hwLV4SF"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160846,
+      "name": "Sei Que Tu Me Odeia",
+      "url": "https://open.spotify.com/track/45ZY7YpxyqPS2qzGBqNxfG"
+    },
+    {
+      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
       },
@@ -24368,7 +24394,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
@@ -27932,6 +27958,24 @@
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
+    },
+    {
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "album": {

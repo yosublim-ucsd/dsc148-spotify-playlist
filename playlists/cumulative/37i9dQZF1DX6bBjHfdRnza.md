@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels\. Featuring Edd\. Artwork by Rewina Beshue
+> The best new dance music by independent artists and labels, featuring Tiffy Vera\. Artwork by Rewina Beshue.
 
 2,665 songs - 7 day 10 hr 24 min
 

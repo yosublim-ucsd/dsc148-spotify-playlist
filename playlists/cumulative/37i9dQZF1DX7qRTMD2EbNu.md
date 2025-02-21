@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Joey b
+> Hottest bars coming live from the 233\.  Cover: Beeztrap KOTM
 
-669 songs - 1 day 9 hr 35 min
+670 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 | 2024-02-16 | 2024-03-08 |
 | [Banana](https://open.spotify.com/track/3hAivMNpJoEXtKFJF7PRZ7) | [Kid Kwesi](https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj) | [Banana](https://open.spotify.com/album/0uJAflveTHwoNBX7ydKeH1) | 2:39 | 2024-03-08 | 2024-03-22 |
 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 | 2022-06-24 | 2023-04-15 |
+| [BANG BANG BANG](https://open.spotify.com/track/0YCknECT4hjx3AiMWecAwh) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [BANG BANG BANG](https://open.spotify.com/album/6wyuQZjF2vOgkPGdBE8MuL) | 3:36 | 2025-02-21 |  |
 | [BarCode 10](https://open.spotify.com/track/7KMeiRyx9ScLp99MP0N3VN) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [BarCode 10](https://open.spotify.com/album/6ds4FFIlSzLNc62A9i861T) | 3:36 | 2024-04-05 | 2024-05-03 |
 | [BarCode 9](https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kevin Beats](https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m) | [BarCode 9](https://open.spotify.com/album/52q7G1CJMkyzlab4Bfi8jT) | 3:08 | 2023-11-24 | 2024-01-05 |
 | [BEBEREBE](https://open.spotify.com/track/7s9nYoCBbALjG5FqNNuB0f) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Earner](https://open.spotify.com/artist/0xmP8LrI9M0HXNbympRWvH), [Boy Ru](https://open.spotify.com/artist/1ZKjyuQf0AeBXvTJHtM1Da), [Achina Dat](https://open.spotify.com/artist/5BII5v4g0BduWKDJxqEC8H) | [BEBEREBE](https://open.spotify.com/album/2nknP8g3YPVpY8EIL8am7e) | 3:14 | 2024-11-22 | 2025-02-14 |
@@ -279,7 +280,7 @@
 | [HABIBI](https://open.spotify.com/track/61KAFZT2UhKG7VBE3R9vec) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 2:56 | 2024-09-13 |  |
 | [Hands Up](https://open.spotify.com/track/1G1hUcZlML9GoHubfVFdiW) | [eNZYM](https://open.spotify.com/artist/2nJsAB7D0EguCc9ATSTZwz), [Cj Biggerman](https://open.spotify.com/artist/1Vl2tN2L85Viewqi6PzAzl) | [Hands Up](https://open.spotify.com/album/0F3Iy5vjBQnOcXZTq2jPkP) | 3:11 | 2023-12-15 | 2024-01-05 |
 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 | 2024-05-17 |  |
-| [HEAT](https://open.spotify.com/track/2y2624vyJUEGPI7Z7ID9mE) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEAT](https://open.spotify.com/album/55aVLKNu4SXkHLgiEFBUAb) | 3:24 | 2024-11-08 |  |
+| [HEAT](https://open.spotify.com/track/2y2624vyJUEGPI7Z7ID9mE) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEAT](https://open.spotify.com/album/55aVLKNu4SXkHLgiEFBUAb) | 3:24 | 2024-11-08 | 2025-02-21 |
 | [Heavy](https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KONNEY](https://open.spotify.com/artist/2hoKCZleMjxNSKUu3eO1eG) | [ANFITO](https://open.spotify.com/album/09ONIT6lO4WhKLyDiZFtn6) | 2:17 | 2024-07-26 | 2024-08-30 |
 | [Hennessy Cypher](https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Hennessy Cypher](https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw) | 8:20 | 2024-07-26 | 2024-09-20 |
 | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/track/7MKeGkDG9lvzR9ZjmfwD2m) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Highlander \(feat\. Sky Kuu, Kofi Mole & Larruso\)](https://open.spotify.com/album/6cAyK6L0wREMTIXrTHeSGd) | 3:01 | 2024-06-28 | 2024-07-06 |

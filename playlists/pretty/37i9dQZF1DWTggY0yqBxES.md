@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,751 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,834 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 100 | [TYG \(feat\. Spiritbox\)](https://open.spotify.com/track/5zkT8awQHaG8JKlaSun1lB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:27 |
 | 101 | [Barry](https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [WE'RE ALL BRODIES\*](https://open.spotify.com/album/6vIfYqKIvseLIBU7e1E34c) | 2:16 |
 
-Snapshot ID: `Z6WTfwAAAABEYP2NAW53wCMkzQrmTmek`
+Snapshot ID: `Z6WTfwAAAADfK8ZFSRS+w/lYzCEOBuaN`

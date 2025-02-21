@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Ana Bacalhau, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,653 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,650 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [COMPLICADO](https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [OLHAR P’RA BAIXO](https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE) | 2:43 |
 | 49 | [Desliza](https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Desliza](https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER) | 2:40 |
 
-Snapshot ID: `Z6ytLgAAAABsKGEVt+U+C/Kyi54xALke`
+Snapshot ID: `Z6ytLgAAAABbfd2xtNkfwpewBj5iD7XG`

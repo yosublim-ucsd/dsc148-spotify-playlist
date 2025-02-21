@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-270 songs - 17 hr 42 min
+272 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 | 2022-08-12 | 2022-11-16 |
 | [Balance In All](https://open.spotify.com/track/7u3J2oavkIdg5JqkVsyz55) | [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C) | [The Feminine: Act II](https://open.spotify.com/album/37vNxGqVuUBQfdhMDEy4Ro) | 3:30 | 2021-08-18 | 2022-06-24 |
 | [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 | 2024-08-02 | 2024-09-19 |
-| [Better \(unplugged\)](https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Better](https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher) | 6:39 | 2025-02-07 |  |
+| [Better \(unplugged\)](https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Better](https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher) | 6:39 | 2025-02-07 | 2025-02-21 |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-03-01 |  |
 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-03-08 | 2024-04-06 |
 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 | 2022-07-28 | 2024-02-21 |
@@ -190,7 +190,8 @@
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 |  |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-15 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-22 |  |
-| [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-30 |  |
+| [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-30 | 2025-02-21 |
+| [Pressure Points \(feat\. Lila Iké\) \- Live Acoustic](https://open.spotify.com/track/3pfVXNWMeGmD7tQRXirbB0) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\) \[Live Acoustic\]](https://open.spotify.com/album/3P7cVmPpAZftjLgESZ6zxy) | 3:18 | 2025-02-20 |  |
 | [Problems](https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB) | 3:03 | 2024-10-10 | 2025-01-24 |
 | [Promised Land](https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH) | [SIMBO](https://open.spotify.com/artist/1lQA8yJSOVRxFOGJvRDQDU), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [SOUNDSORCERER, VOL.2](https://open.spotify.com/album/3m1zGZTGi3qQXLZAiiuuxt) | 2:41 | 2024-10-25 | 2024-11-21 |
 | [Purpose](https://open.spotify.com/track/07v4ZQgNrBtRjTbPQbH9UL) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Purpose](https://open.spotify.com/album/30FVhviyJzjAdMMXLfN0VD) | 3:49 | 2023-06-14 | 2023-11-18 |
@@ -220,6 +221,7 @@
 | [Snooze](https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Snooze](https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj) | 3:39 | 2023-05-25 | 2024-05-11 |
 | [So Good](https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best Of Both Worlds](https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP) | 4:34 | 2022-07-28 | 2023-03-02 |
 | [So Good](https://open.spotify.com/track/5O0wmooPtCi3E9F1O8J7KR) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best of Both Worlds](https://open.spotify.com/album/0Mvp6WwdGESYuYUD2MRzk6) | 4:34 | 2021-08-18 | 2022-07-29 |
+| [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 | 2025-02-20 |  |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-10 | 2025-02-15 |
 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 | 2022-12-16 |  |
 | [Stars at Midnight](https://open.spotify.com/track/11BoVe8hJPrRWB5OcC1F2i) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob), [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [Stars at Midnight](https://open.spotify.com/album/3B02VP9eve5rjpQhgmNOai) | 2:53 | 2024-01-12 | 2024-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,449 likes - 378 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,893 likes - 378 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 377 | [hypnosis](https://open.spotify.com/track/1qAwIgtLiMkc1hnpVOfvEm) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [hypnosis](https://open.spotify.com/album/3lE8EgXPXs3EjsAqSVFL47) | 2:00 |
 | 378 | [Peeter Skeeter](https://open.spotify.com/track/1diQndJIjHScnOZtBj3404) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Peeter Skeeter](https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm) | 1:45 |
 
-Snapshot ID: `Z66/ygAAAAAZkUBxjRJHkHMr9MQE0Gw6`
+Snapshot ID: `Z66/ygAAAACZNSjgE9RtY5xbpv1ls5C9`

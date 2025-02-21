@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,351 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,330 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [People Still Show Up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [People Still Show Up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 |
 | 100 | [Mom's Old Car](https://open.spotify.com/track/4OoGBECsRiNqfP6XgtxoNK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Mom's Old Car](https://open.spotify.com/album/11UV295lkcoaOoyLUDks8a) | 2:40 |
 
-Snapshot ID: `Z69m2AAAAABxog4fQHov1sQM1B59BEFQ`
+Snapshot ID: `Z69m2AAAAAC0c7bcswFFSGl8e5n0Mh7l`

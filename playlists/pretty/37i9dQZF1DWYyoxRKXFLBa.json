@@ -1,12 +1,12 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10805,
+  "num_followers": 10809,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq0PZgAAAACumIuzNtvLaZX2W9d5Qaop",
+  "snapshot_id": "Zq0PZgAAAAAUNokv782UYm8q1Gi0Bj2x",
   "tracks": [
     {
       "added_at": "2024-06-07 12:38:26",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
-        "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 257379,
-      "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
-      "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 156037,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
+        "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 257379,
+      "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
+      "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 123835,
+      "name": "no estamos bien",
+      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 123835,
-      "name": "no estamos bien",
-      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "ni\u00f1o azul",
         "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 145800,
       "name": "ni\u00f1o azul",
       "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Algo De Verdad",
-        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Algo De Verdad",
-      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Me gusto de noche",
         "url": "https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 144347,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3kQBxC4xCNGLDjI8LZXmN3"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Algo De Verdad",
+        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "Algo De Verdad",
+      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
     }
   ],
   "unique_name": "Ruidosas",

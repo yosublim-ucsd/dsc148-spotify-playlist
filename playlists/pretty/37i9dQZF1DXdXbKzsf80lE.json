@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 261005,
+  "num_followers": 261019,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4o1FQAAAADtTUelQr4PMm9RuGZrU5p5",
+  "snapshot_id": "Z4o1FQAAAADjDWowvzK3pCZAhsIFJIQF",
   "tracks": [
     {
       "added_at": "2025-01-17 10:46:45",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "O Original",
+        "url": "https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 167683,
+      "name": "Let\u00edcia",
+      "url": "https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo - Deluxe",
         "url": "https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "O Original",
-        "url": "https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 167683,
-      "name": "Let\u00edcia",
-      "url": "https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "Agora Eu Pego Mesmo",
         "url": "https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l"
       },
@@ -343,42 +343,6 @@
       "duration_ms": 183536,
       "name": "Cabe\u00e7a Voando",
       "url": "https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -399,6 +363,22 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
         "name": "Cena de Amor",
         "url": "https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 222000,
       "name": "Cena de Amor",
       "url": "https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "WS Sem Limites (Deluxe)",
         "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160640,
       "name": "Jenifer",
       "url": "https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "added_at": "2025-01-17 10:46:45",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-01-17 10:46:45",
       "album": {
-        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 169088,
-      "name": "Paraquedas - Live",
-      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
-    },
-    {
-      "added_at": "2025-01-17 10:46:45",
-      "album": {
         "name": "CP 25 Anos, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168658,
       "name": "Amor de Rapariga",
       "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
+    },
+    {
+      "added_at": "2025-01-17 10:46:45",
+      "album": {
+        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 169088,
+      "name": "Paraquedas - Live",
+      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
     },
     {
       "added_at": "2025-01-17 10:46:45",

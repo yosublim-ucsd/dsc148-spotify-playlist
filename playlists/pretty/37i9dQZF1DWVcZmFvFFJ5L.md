@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 
 > Jumping BoAs, Our Beloved BoA is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,245 likes - 109 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,249 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 108 | [Good Love](https://open.spotify.com/track/22t8DIoRe0e5NLmbZU2mJx) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:12 |
 | 109 | [Little More](https://open.spotify.com/track/1UUrSBdCVORp3w0GcZrWcU) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:57 |
 
-Snapshot ID: `Z68RkQAAAACzDxEytr1ticjZt/ODuLZM`
+Snapshot ID: `Z68RkQAAAAAXwYPZ5BRHe+GA9HHZVGA4`

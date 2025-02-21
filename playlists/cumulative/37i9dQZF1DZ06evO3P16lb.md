@@ -4,14 +4,15 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 21 min
+44 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Me Ha Pasado](https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB) | [Beatriz Solis](https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [A Mi Me Ha Pasado](https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT) | 3:11 | 2025-02-12 |  |
 | [Amorcito Corazón](https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Amorcito Corazón](https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70) | 2:29 | 2025-02-12 |  |
 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 | 2025-02-12 |  |
-| [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/7h04fNkaoTxer1zYqhSa3i) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love](https://open.spotify.com/album/4T1RD1g6dtAbw44aob1iPM) | 4:13 | 2025-02-12 |  |
+| [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/1XMI6Ym8dnyQWJfDgu3AdX) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love \(Deluxe Tour Edition\)](https://open.spotify.com/album/69aRmWllq9m7C8P3PSRSf6) | 4:13 | 2025-02-21 |  |
+| [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/7h04fNkaoTxer1zYqhSa3i) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love](https://open.spotify.com/album/4T1RD1g6dtAbw44aob1iPM) | 4:13 | 2025-02-12 | 2025-02-21 |
 | [Canto del Bracero \- En Vivo](https://open.spotify.com/track/7BKUAIlg48DZpcSxMTX7gV) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:03 | 2025-02-12 |  |
 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 | 2025-02-12 |  |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 | 2025-02-12 |  |

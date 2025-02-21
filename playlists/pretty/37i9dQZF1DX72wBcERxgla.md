@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,515 likes - 318 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,655 likes - 318 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 317 | [Walking into Love](https://open.spotify.com/track/7E1zXzH13tIvcGar4QfxjV) | [Margareta Ebbing](https://open.spotify.com/artist/6wDEFbqx3IS26bu5oZWKCO) | [Walking into Love](https://open.spotify.com/album/2FApZSmXMJKxMC2fUjHxUk) | 2:27 |
 | 318 | [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 |
 
-Snapshot ID: `Z7NcdgAAAAAStYHQ/nCb3DCWVJhTxqos`
+Snapshot ID: `Z7NcdgAAAACXpv3VTkXCFEuN1LFasszn`

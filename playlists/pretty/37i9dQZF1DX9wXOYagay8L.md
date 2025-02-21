@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ?si=gOPGTxa9RcS2LOcUSdP\-3Q"> Ringo Madlingozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,019 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,122 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 74 | [Notification](https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:51 |
 | 75 | [Impi Yothando](https://open.spotify.com/track/4K5GlpP2WdwYgZAjDiTbZ5) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Impi Yothando](https://open.spotify.com/album/2qkOyi4KcUglFyXnlYGZPD) | 4:58 |
 
-Snapshot ID: `Z655iQAAAAB+kkNmgfOgZAWGAFfp7HXl`
+Snapshot ID: `Z655iQAAAABsjFdFOoV572Cevkn97cDc`

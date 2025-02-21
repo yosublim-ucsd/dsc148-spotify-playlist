@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 139599,
       "name": "Hanen Alena Ya Rab",
       "url": "https://open.spotify.com/track/2zQtX0AL8stVNw3tMcHY51"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 83800,
       "name": "Qadeer Rabana",
       "url": "https://open.spotify.com/track/42IiWlpfntw14Axb4MM7nW"
@@ -2165,6 +2165,60 @@
     },
     {
       "album": {
+        "name": "\u0645\u0646 \u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0633\u0646\u0649",
+        "url": "https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82298,
+      "name": "\u0627\u0644\u0631\u062d\u0645\u0646",
+      "url": "https://open.spotify.com/track/2XXC0lGlrKrBvy3nO3pSxU"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646 \u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0633\u0646\u0649",
+        "url": "https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72112,
+      "name": "\u0627\u0644\u0633\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/4Njx6uC3m76cjF6iax3SaQ"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646 \u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0633\u0646\u0649",
+        "url": "https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69554,
+      "name": "\u0627\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/7KwKmMYnNGOTm30se4NpHB"
+    },
+    {
+      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0644\u0643",
         "url": "https://open.spotify.com/album/1AzVpX6KTObe8rX2CoT8Td"
       },
@@ -2328,7 +2382,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 178591,
       "name": "\u062a\u0627\u064a\u0628 \u0648\u0631\u0627\u062c\u0639 \u0625\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/2qnhc9vuq4PtBH1iTWdk8U"

@@ -4,11 +4,12 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: El Cómodo Silencio De Los Que Hablan Poco.
 
-305 songs - 19 hr 14 min
+306 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [93](https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [93](https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z) | 2:49 | 2022-04-08 | 2023-03-03 |
+| [A Cada Segundo](https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [A Cada Segundo](https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1) | 3:40 | 2025-02-20 |  |
 | [Abejas En La Miel](https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Abejas En La Miel](https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0) | 3:45 | 2022-04-08 | 2024-10-19 |
 | [Abrázame](https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s) | [Frank's White Canvas](https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i) | [Abrázame](https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW) | 4:15 | 2022-04-08 | 2023-03-03 |
 | [Acab](https://open.spotify.com/track/3EgbMxqBcNEEfHwELjjdm5) | [Efecto Arrebol](https://open.spotify.com/artist/5XlZNXE1isqfRNmf2a4zBF) | [Acab](https://open.spotify.com/album/1UeVb59fQysYRVMQ8lXsly) | 3:35 | 2022-04-08 | 2022-07-20 |
@@ -310,7 +311,7 @@
 | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd) | 4:37 | 2022-04-08 | 2023-03-03 |
 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-10-13 | 2024-10-19 |
 | [Yo Sé Que Tu](https://open.spotify.com/track/0cXB1cFmbsJoHOPFZrLxGl) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Yo Sé Que Tu](https://open.spotify.com/album/4ARfV8aN7KdMENCyXedlCF) | 3:49 | 2022-04-08 | 2022-07-28 |
-| [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-04-08 |  |
+| [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-04-08 | 2025-02-21 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-03-03 | 2024-04-19 |
 | [Únete A Mi Ser](https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0) | 4:41 | 2023-11-24 |  |
 

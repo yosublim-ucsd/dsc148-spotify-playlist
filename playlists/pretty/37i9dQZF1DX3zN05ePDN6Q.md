@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,589 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,623 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Flowers](https://open.spotify.com/track/5yQKXzg5Ir8tCtrRGkK3yQ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [sol na voz](https://open.spotify.com/artist/6vCA2kSjaRhH1ox36SMs3H), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9) | [Pálido Ponto Azul](https://open.spotify.com/album/6JUTiJBMt3ful2dyaB6SWh) | 3:18 |
 | 75 | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/track/5F5OBG4FrorY2IQq84JJjK) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Poeta \(Under Sesh \#3\)](https://open.spotify.com/album/2sQRCpcBHg9oMYJy5OX336) | 2:41 |
 
-Snapshot ID: `Z66x/wAAAAA09XezTbdbp9pCKNb/u4uv`
+Snapshot ID: `Z66x/wAAAADnmexCKpQM3HmE/uNj0Oo7`

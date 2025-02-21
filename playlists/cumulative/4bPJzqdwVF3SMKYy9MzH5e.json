@@ -17650,22 +17650,6 @@
       },
       "artists": [
         {
-          "name": "Daron Malakian",
-          "url": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
-        },
-        {
-          "name": "Shavo Odadjian",
-          "url": "https://open.spotify.com/artist/0KnN84ZQ9NlLlLJOXf3Yr0"
-        },
-        {
-          "name": "Stu Phillips",
-          "url": "https://open.spotify.com/artist/3qQJMaXGaP6E0EEXtqLIuh"
-        },
-        {
-          "name": "Glen Larson",
-          "url": "https://open.spotify.com/artist/7fM84MEW7i52YKVtFmC8Vj"
-        },
-        {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
@@ -36224,12 +36208,16 @@
         {
           "name": "Cult Member",
           "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        },
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
         }
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160000,
+      "duration_ms": 160194,
       "name": "U Weren't Here I Really Miss You",
       "url": "https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b"
     },

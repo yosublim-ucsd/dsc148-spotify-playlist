@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
+    },
+    {
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
       },

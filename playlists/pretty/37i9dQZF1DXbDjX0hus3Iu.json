@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 515292,
+  "num_followers": 515376,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZogncQAAAADQ4qe4ytqmMu+y1baor+QW",
+  "snapshot_id": "ZogncQAAAABTYRS6bsl/VmbzNpLKxwAk",
   "tracks": [
     {
       "added_at": "2024-07-05 17:03:45",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Georgia Satellites",
         "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 161506,
       "name": "Jim Dandy",
       "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 209373,
       "name": "Oh, Atlanta",
       "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+        "name": "Open All Night",
+        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
       },
       "artists": [
         {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
+      "duration_ms": 293066,
+      "name": "Don't Pass Me By",
+      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Open All Night",
-        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
       },
       "artists": [
         {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 293066,
-      "name": "Don't Pass Me By",
-      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Get Right With The Man",
-        "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
-      },
-      "artists": [
-        {
-          "name": "Van Zant",
-          "url": "https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Takin' Up Space",
-      "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Brickyard Road",
         "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 400933,
       "name": "Brickyard Road - l",
       "url": "https://open.spotify.com/track/7G0hwJmqqFJmaM2h1HxRZZ"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Get Right With The Man",
+        "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
+      },
+      "artists": [
+        {
+          "name": "Van Zant",
+          "url": "https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Takin' Up Space",
+      "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
       "artists": [
         {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
       },
       "artists": [
         {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
         }
       ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
-      },
-      "artists": [
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Rhino Hi-Five: The Georgia Satellites",
         "url": "https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 205000,
       "name": "Keep Your Hands to Yourself",
       "url": "https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+      },
+      "artists": [
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2024-07-05 17:03:45",

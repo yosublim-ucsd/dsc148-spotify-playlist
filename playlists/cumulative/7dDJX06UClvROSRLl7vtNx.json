@@ -2167,6 +2167,32 @@
     },
     {
       "album": {
+        "name": "Clouds Over Twin Lakes",
+        "url": "https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Jessie Lee Thetford",
+          "url": "https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "Clouds Over Twin Lakes",
+      "url": "https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F"
+    },
+    {
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/1Kk56qikcuSd1W3UukLVYK"
       },
@@ -3666,7 +3692,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 135000,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M"
@@ -9352,7 +9378,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 116000,
       "name": "Miss a Thing",
       "url": "https://open.spotify.com/track/74JoJh1W94YJfQmnxyQE36"
@@ -10198,6 +10224,28 @@
       "duration_ms": 154000,
       "name": "Nowhere To Go",
       "url": "https://open.spotify.com/track/4xSQow8DRpIJZCjqyvXKDM"
+    },
+    {
+      "album": {
+        "name": "Ocean Away",
+        "url": "https://open.spotify.com/album/6luPWN2S06fb7Af18Hybrw"
+      },
+      "artists": [
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Ocean Away",
+      "url": "https://open.spotify.com/track/2cJZc5TVzwTEkmdGAiMrEL"
     },
     {
       "album": {
@@ -11968,7 +12016,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 175292,
       "name": "Say It",
       "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
@@ -13508,7 +13556,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 150124,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: The Velveteers
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,534 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,595 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [BRAINDEAF](https://open.spotify.com/track/32KlXs8UNZCZJeOtAcCfbc) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [BRAINDEAF](https://open.spotify.com/album/12tUJwwZFqQofxHxvlPEsA) | 2:51 |
 | 126 | [Deny](https://open.spotify.com/track/55h7ImV4EfeWGKYiabiStm) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Deny](https://open.spotify.com/album/0eisa7hrI7hnZWVY45HeRw) | 2:30 |
 
-Snapshot ID: `Z7X9aQAAAAAnWu7ts59INiQzgu9dlVdQ`
+Snapshot ID: `Z7X9aQAAAACz59Z4JSnSFjr8c111qeCT`

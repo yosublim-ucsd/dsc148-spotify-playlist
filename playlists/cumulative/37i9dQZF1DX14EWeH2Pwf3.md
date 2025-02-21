@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Tony Effe in cover della playlist urban più grande in Italia 🔥
+> Capo Plaza in cover della playlist urban più grande in Italia 🔥
 
-713 songs - 1 day 10 hr 59 min
+714 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Diavolo \(con Ghali, Rkomi, Tedua & bnkr44\)](https://open.spotify.com/track/7FvF6VQzph1rEPjSJmkaRv) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:50 | 2022-09-15 | 2022-11-11 |
 | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X) | 3:06 | 2023-03-02 | 2023-05-12 |
 | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/album/54nLn2p65cXgkdIvmCJDhG) | 3:02 | 2023-03-17 | 2023-05-26 |
+| [Diva](https://open.spotify.com/track/0AOZQM1yc4Mfh5B1myt7TF) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Diva](https://open.spotify.com/album/60xvbHHenIHXiHIUrQqmfF) | 2:31 | 2025-02-20 |  |
 | [DM \(feat\. Guè\)](https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 3:14 | 2023-09-07 | 2023-09-29 |
 | [Don't Cry No More \(feat\. Geolier\)](https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:15 | 2024-09-05 | 2024-09-17 |
 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 | 2024-10-24 |  |

@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Mayberg
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,518 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,522 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
-| 2 | [LV](https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [LV / C ME NOW](https://open.spotify.com/album/5uTbmXAlq0U4ccP9vesebZ) | 2:20 |
-| 3 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 |
-| 4 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 |
-| 5 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 |
-| 6 | [Forrest Gump](https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Forrest Gump](https://open.spotify.com/album/5Bb9HWapSIWIacN4iVuLKZ) | 3:52 |
-| 7 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 |
-| 8 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 |
-| 9 | [Girls Like You](https://open.spotify.com/track/6RO6Qx1tiKfz7DM64r0e80) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:45 |
+| 1 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
+| 2 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 |
+| 3 | [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 |
+| 4 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
+| 5 | [LV](https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [LV / C ME NOW](https://open.spotify.com/album/5uTbmXAlq0U4ccP9vesebZ) | 2:20 |
+| 6 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 |
+| 7 | [Forrest Gump](https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Forrest Gump](https://open.spotify.com/album/5Bb9HWapSIWIacN4iVuLKZ) | 3:52 |
+| 8 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 |
+| 9 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 |
 | 10 | [The Great Pretender](https://open.spotify.com/track/2ci47NBNvhsfWiEzBpQC9d) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [The Great Pretender](https://open.spotify.com/album/6qSrKsU1iHSsHMVKKAN8lq) | 2:56 |
 | 11 | [PIROUETTEN](https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [berq](https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn) | 2:27 |
 | 12 | [Number One](https://open.spotify.com/track/0gb6KfibP8ehI8JSjScGpc) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Number One](https://open.spotify.com/album/2VUF1kPLKLvgWgnxrX8If3) | 3:00 |
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 24 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 |
 | 25 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 |
 | 26 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 |
-| 27 | [Sad Girl Era](https://open.spotify.com/track/1xgBezvfQi39j9KWhg9lya) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Sad Girl Era](https://open.spotify.com/album/2FHLOAMBVJ1AuHZYWERM6K) | 2:58 |
-| 28 | [A Million Heartbreak Songs](https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [A Million Heartbreak Songs](https://open.spotify.com/album/1DYm43u5XQfymDy9WuKBBj) | 3:57 |
-| 29 | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp) | 3:12 |
-| 30 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 |
-| 31 | [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 |
-| 32 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 |
-| 33 | [Red Flags](https://open.spotify.com/track/2rltMhQFEAV7UtuXGjcmyO) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Red Flags](https://open.spotify.com/album/1pykzX4hPUlK8sZyxv79r8) | 2:09 |
-| 34 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 |
-| 35 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 |
-| 36 | [Back To Bed](https://open.spotify.com/track/1gdbZIhFYNmQz8aXA7puqH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Back To Bed](https://open.spotify.com/album/4VlR9meFrdYgY2zyy7cumy) | 2:59 |
-| 37 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
+| 27 | [A Million Heartbreak Songs](https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [A Million Heartbreak Songs](https://open.spotify.com/album/1DYm43u5XQfymDy9WuKBBj) | 3:57 |
+| 28 | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Hass tritt dir die Haustür ein](https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp) | 3:12 |
+| 29 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 |
+| 30 | [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 |
+| 31 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 |
+| 32 | [Red Flags](https://open.spotify.com/track/2rltMhQFEAV7UtuXGjcmyO) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Red Flags](https://open.spotify.com/album/1pykzX4hPUlK8sZyxv79r8) | 2:09 |
+| 33 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 |
+| 34 | [Girls Like You](https://open.spotify.com/track/6RO6Qx1tiKfz7DM64r0e80) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:45 |
+| 35 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 |
+| 36 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 |
+| 37 | [Back To Bed](https://open.spotify.com/track/1gdbZIhFYNmQz8aXA7puqH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Back To Bed](https://open.spotify.com/album/4VlR9meFrdYgY2zyy7cumy) | 2:59 |
 | 38 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
 | 39 | [Dimelo](https://open.spotify.com/track/0EExLvFDjUzoonMODtXkOm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Dimelo](https://open.spotify.com/album/72rHHjp2UVsp6DlfSLToHu) | 3:18 |
 | 40 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
 | 60 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 
-Snapshot ID: `Z6U/HAAAAACnhE7pSowlPwdV3Ke0+LLm`
+Snapshot ID: `Z7e0CwAAAADjDyz2Y2CVl8w1A4lUqxxP`

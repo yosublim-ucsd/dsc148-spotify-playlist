@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Brocasito
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,768 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,741 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [ÓPIO](https://open.spotify.com/track/0woCRbHAon5Ku7Y2C1ol0R) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [Russo](https://open.spotify.com/artist/418mnnF62zF79sfC67i1Ni) | [ÓPIO](https://open.spotify.com/album/1WwIz5hhca8JGZUVr5SN4k) | 3:12 |
 | 75 | [Notas no Plastico](https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC) | [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Notas no Plastico](https://open.spotify.com/album/6b47iof8rRXcmipSuBmpCc) | 2:52 |
 
-Snapshot ID: `Z7PP8QAAAAAFw7z2Y3R0+TJh876euMX5`
+Snapshot ID: `Z7PP8QAAAAAAAKp2rK8KKiR2tWMwLVZc`

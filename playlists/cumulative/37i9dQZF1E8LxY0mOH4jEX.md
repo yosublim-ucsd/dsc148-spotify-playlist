@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Bieber, Charlie Puth and more
+> With Bruno Mars, Justin Bieber, Dua Lipa and more
 
 1,316 songs - 3 day 9 hr 7 min
 

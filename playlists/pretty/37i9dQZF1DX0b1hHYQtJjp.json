@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Damiano David",
-  "num_followers": 937477,
+  "num_followers": 937474,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N9wAAAADBSgHth5UHsr+QwO2lsYEy",
+  "snapshot_id": "Z7bFKQAAAADl3FTI83t6tISVCFv4q3Y1",
   "tracks": [
     {
       "added_at": "2025-02-03 03:55:04",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-02-14 05:00:39",
+      "added_at": "2025-02-20 06:01:13",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -54,11 +54,15 @@
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 205082,
-      "name": "GLORIOUS",
-      "url": "https://open.spotify.com/track/1mKNJs35ede94bTPWveVOo"
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
       "added_at": "2025-02-14 05:00:39",

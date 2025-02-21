@@ -4,10 +4,11 @@
 
 > Saintess in cover della playlist dell'R&B italiano 🎧
 
-719 songs - 1 day 11 hr 39 min
+724 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#1](https://open.spotify.com/track/2LlCEVOkJQyPQgy4GMOGbR) | [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9), [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h) | [RNBBOY](https://open.spotify.com/album/3hd9GR8CkFrnSd6jNhAsMn) | 2:48 | 2025-02-20 |  |
 | ['A Passion](https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | ['A Passion](https://open.spotify.com/album/1TfcZ8uJZ9nZXiLBXknhBx) | 2:56 | 2024-12-12 |  |
 | [1 secondo](https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [1 secondo](https://open.spotify.com/album/7MTeZ7wPxGZF0zkcfNcL9p) | 2:15 | 2024-10-10 |  |
 | [11:11](https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [11:11](https://open.spotify.com/album/0ErGOW5ewcPle8WY9AEIU9) | 3:04 | 2023-06-15 | 2023-06-30 |
@@ -253,9 +254,12 @@
 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 | 2023-03-30 | 2024-06-21 |
 | [Giostre](https://open.spotify.com/track/13Ig49AeCaLKKSX00S1spC) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [Giostre](https://open.spotify.com/album/5DcKRnwoaptKHGlpeBlnOp) | 3:34 | 2024-09-12 | 2025-01-17 |
 | [Giovani](https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM) | [LocoLab](https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw), [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW), [Il III](https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3) | [Giovani](https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5) | 3:20 | 2022-09-08 | 2022-10-14 |
+| [Giovani Plotwist](https://open.spotify.com/track/09JELXAE3NriN7BUGRUvJj) | [Deja Lu](https://open.spotify.com/artist/0GThiaw9jp4vKNTM2iBqjC) | [Giovani Plotwist](https://open.spotify.com/album/5STTLRxPcphFt35BQSL96G) | 2:33 | 2025-02-20 |  |
+| [Giù](https://open.spotify.com/track/2mlWZvyGBg6sJmCZsT1ars) | [Ludovica Caniglia](https://open.spotify.com/artist/6TT6vgXfMLov8l1gUqgRhe) | [Giù](https://open.spotify.com/album/1LM2Wobdj0swarAmiPkhBf) | 2:52 | 2025-02-20 |  |
 | [Goccia goccia](https://open.spotify.com/track/031szRldfCkNk6QR83QG1s) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Goccia goccia](https://open.spotify.com/album/3cWxT57YUyi84lqR3oQzOZ) | 3:35 | 2024-04-12 | 2024-04-16 |
 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 | 2023-11-30 | 2024-02-02 |
 | [Goodbye](https://open.spotify.com/track/6h0LjT9ypFfN2d9NqRfIAw) | [ARMA COD](https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC) | [Goodbye](https://open.spotify.com/album/7CGkaB5on41wR5G2UTzTsB) | 3:27 | 2025-02-06 |  |
+| [GoodLove](https://open.spotify.com/track/41TYurnwXDKAD5CLzEzrL5) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [GoodLove](https://open.spotify.com/album/4sVpUkXRg9mb7e6oZdK89C) | 3:16 | 2025-02-20 |  |
 | [Grazie](https://open.spotify.com/track/0ZAIqhIbiIxIRCX3YahwK5) | [Tatomi](https://open.spotify.com/artist/0GZSD6FH5YD9xcTLFcqSxv) | [Grazie](https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT) | 3:43 | 2022-08-05 | 2022-10-21 |
 | [Grido \(Di Notte\)](https://open.spotify.com/track/2Ly5ZoBeOeUaNGaXk3UKIR) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0), [Loris Gentile](https://open.spotify.com/artist/5N9gXQEL7vPr8hTQOAMmqY) | [Grido \(Di Notte\)](https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw) | 3:51 | 2022-05-26 | 2022-10-07 |
 | [Guardi me](https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64) | [LOU](https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I) | [Guardi me](https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM) | 2:53 | 2023-02-02 | 2023-03-31 |
@@ -656,6 +660,7 @@
 | [Ties](https://open.spotify.com/track/4yJ3Uhr2tIJc2XP64YWUP3) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Ties](https://open.spotify.com/album/6DkFYWQ3FEqzXDwQ7fuBvi) | 3:11 | 2025-01-16 |  |
 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 | 2024-11-14 |  |
 | [TOP GYAL](https://open.spotify.com/track/5DKYhoSd9ORUFLIlc7yi04) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Benrucito](https://open.spotify.com/artist/5vBDtof4eJRulrgOisBuqn) | [TOP GYAL](https://open.spotify.com/album/1mymmgR4MoWJ4pmTZKFEO5) | 2:45 | 2024-09-26 | 2024-12-13 |
+| [Torni Da Me](https://open.spotify.com/track/1JHLNfIx2pkNBCZKPyFKbg) | [Simone Longo](https://open.spotify.com/artist/0W73ncB8lW5LBdipGF766U) | [Torni Da Me](https://open.spotify.com/album/7qGCV4cbsQxFfo8AFjqLv1) | 2:37 | 2025-02-20 |  |
 | [Toxic](https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Toxic](https://open.spotify.com/album/02Z6hzwHFd70wMOu6Gsx1T) | 3:41 | 2023-06-29 | 2024-01-12 |
 | [TOY BOY](https://open.spotify.com/track/0ZQ8gIvMdKYLWlq2SS7BC4) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [LADY](https://open.spotify.com/album/0jusNBJdfvqfnNCKMBLLpH) | 2:30 | 2024-10-03 | 2025-01-17 |
 | [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 | 2023-01-26 |

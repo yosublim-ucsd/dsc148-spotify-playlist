@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 | 56 | [The Jangmo taryeong\(mother in law song\)](https://open.spotify.com/track/0sU57ESEg9chbaBShRPbMA) | [namhaesori project](https://open.spotify.com/artist/4cgXvHd6tSQPhYGo99h0O0) | [Namhae Island Folklore](https://open.spotify.com/album/6vRoa0ZzPEfrcXsNzSP1u9) | 4:02 |
 | 57 | [육자배기](https://open.spotify.com/track/0e8pQNSVEjYJ2m8qVmwODm) | [이성현](https://open.spotify.com/artist/10M2AVHfEWbASOLtirmBNX) | [이성현 남도소리](https://open.spotify.com/album/4eWVwA1DoJGlXlYiVrj7dz) | 32:42 |
 
-Snapshot ID: `Z0mOjQAAAADH8yrjfMp0zGEMLB63ZQMh`
+Snapshot ID: `Z0mOjQAAAADhnoKsitPRRm+A8aToCDFh`

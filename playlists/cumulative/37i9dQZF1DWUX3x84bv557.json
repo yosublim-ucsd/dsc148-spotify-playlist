@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: S10",
+  "description": "De nieuwste Nederlandse pop! Cover: Niels Destadsbader & Tessa June",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 153882,
       "name": "1 Minuut",
       "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
+    },
+    {
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
     },
     {
       "album": {
@@ -914,7 +936,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 187636,
       "name": "Allez! Touch\u00e9!",
       "url": "https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 178434,
       "name": "Als Je Gaat",
       "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
@@ -2044,6 +2066,28 @@
       "duration_ms": 168437,
       "name": "Bij Deze",
       "url": "https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ"
+    },
+    {
+      "album": {
+        "name": "Bijna Vergeten",
+        "url": "https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE"
+      },
+      "artists": [
+        {
+          "name": "Niels Destadsbader",
+          "url": "https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus"
+        },
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184140,
+      "name": "Bijna Vergeten",
+      "url": "https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n"
     },
     {
       "album": {
@@ -3614,7 +3658,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 200454,
       "name": "Diepe Dalen",
       "url": "https://open.spotify.com/track/106B2gp2qiLgO7V010oR66"
@@ -5739,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Het verleden",
+        "url": "https://open.spotify.com/album/6fT11QCpe47VOzs8kqvL2T"
+      },
+      "artists": [
+        {
+          "name": "KRISTEL",
+          "url": "https://open.spotify.com/artist/4RR1Hu38jmbA010XOEVuOF"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210935,
+      "name": "Het verleden",
+      "url": "https://open.spotify.com/track/6AjxjyZlpgZzCX2h49EsdF"
+    },
+    {
+      "album": {
         "name": "Hete Vuren",
         "url": "https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa"
       },
@@ -6424,7 +6486,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 204615,
       "name": "Huisje, Boompje, Feestje",
       "url": "https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp"
@@ -7501,6 +7563,42 @@
     },
     {
       "album": {
+        "name": "Kamers Van Je Hart",
+        "url": "https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190145,
+      "name": "Kamers Van Je Hart",
+      "url": "https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96"
+    },
+    {
+      "album": {
+        "name": "Kampvuur",
+        "url": "https://open.spotify.com/album/7IRD3wOMzyZJ3YmpxlMrm1"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154415,
+      "name": "Kampvuur",
+      "url": "https://open.spotify.com/track/2oxhVbOTQOGc5NJiGEuwQj"
+    },
+    {
+      "album": {
         "name": "Kan Je Me Laten",
         "url": "https://open.spotify.com/album/6FrYMFvJal8M2go84iwQhT"
       },
@@ -8126,6 +8224,24 @@
       "duration_ms": 160438,
       "name": "Laat Me Dansen",
       "url": "https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc"
+    },
+    {
+      "album": {
+        "name": "Laat Me Er Langs",
+        "url": "https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151711,
+      "name": "Laat Me Er Langs",
+      "url": "https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1"
     },
     {
       "album": {
@@ -11780,7 +11896,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 175381,
       "name": "Schreeuwen",
       "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
@@ -12424,7 +12540,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 135724,
       "name": "Stewardess",
       "url": "https://open.spotify.com/track/2uu4nNPZnvyBQuZoEdStge"
@@ -13008,7 +13124,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
@@ -14162,7 +14278,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184375,
       "name": "Voor Altijd",
       "url": "https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF"
@@ -15511,6 +15627,24 @@
     },
     {
       "album": {
+        "name": "Zoete Wraak",
+        "url": "https://open.spotify.com/album/1VH4qOWlhRAAeYK2ys6BUZ"
+      },
+      "artists": [
+        {
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138168,
+      "name": "Zoete Wraak",
+      "url": "https://open.spotify.com/track/4GzHTJnakHILedjVW3DqHy"
+    },
+    {
+      "album": {
         "name": "Zogenaamd",
         "url": "https://open.spotify.com/album/7C13aNbkYqf00RQ7HwuFpy"
       },
@@ -15602,6 +15736,24 @@
       "duration_ms": 168000,
       "name": "Zolang morgen maar beter is",
       "url": "https://open.spotify.com/track/7naoVtjM7o7pUJpMBhlecM"
+    },
+    {
+      "album": {
+        "name": "Zolang We Samen Zijn",
+        "url": "https://open.spotify.com/album/4UIvEYoJOB6uGyHaV4uplL"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175588,
+      "name": "Zolang We Samen Zijn",
+      "url": "https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI"
     },
     {
       "album": {

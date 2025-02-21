@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editors' picks for best metal and hard rock songs of the year\.  Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,432 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,456 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 74 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
 | 75 | [Blue Skies](https://open.spotify.com/track/7bsWeMsVacIVzNLeiJSDBV) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Speak in Tongues](https://open.spotify.com/album/7kBvEAyU78SCJvNMCFTh3B) | 4:23 |
 
-Snapshot ID: `Z1BdqQAAAADTWkbMPSBc95Taa/5ITTgy`
+Snapshot ID: `Z1BdqQAAAADepxFtAi53Y0sHQZ7B2fjw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,602 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,605 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [ما في دراما](https://open.spotify.com/track/1QNVvnsVd7xuROBW0zsfp7) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [ما في دراما](https://open.spotify.com/album/1LqhYqrtXru7BtclhJtdeL) | 4:00 |
 | 50 | [Ya Lala](https://open.spotify.com/track/47qNUxTHGDEaXabp6v1OBj) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ya Lala](https://open.spotify.com/album/66lnvwhzM6WKPtIdTuWy8L) | 4:53 |
 
-Snapshot ID: `Z7MUOgAAAAAXLx9SWS7DXAsjEQ3DDwHm`
+Snapshot ID: `Z7MUOgAAAADfcK8VdJ2sFIjmTncExsm3`

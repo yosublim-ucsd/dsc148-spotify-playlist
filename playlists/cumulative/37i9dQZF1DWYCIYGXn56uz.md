@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: CLARA
+> ✨giovane✨pop✨z✨ Cover: Olly
 
-627 songs - 1 day 5 hr 3 min
+629 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 | 2023-05-18 | 2023-11-24 |
 | [Balla Adrenalina](https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Balla Adrenalina](https://open.spotify.com/album/2qdqzQGIMM7Jy5rql8Pf6Q) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-20 | 2024-08-23 |
-| [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 |  |
+| [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 |  |
 | [Bambola](https://open.spotify.com/track/7itnFCUvnNgQmmiULPAlUl) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Bambola](https://open.spotify.com/album/5muRErMN3EKnZDCty6VBfn) | 2:03 | 2024-09-12 | 2024-09-27 |
 | [Basta \(feat\. LDA\)](https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 3:11 | 2023-04-20 | 2023-06-09 |
 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-29 | 2024-08-02 |
@@ -204,6 +204,7 @@
 | [Finta Nostalgia](https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Finta Nostalgia](https://open.spotify.com/album/3gK3RvsiYudYqt8s2YujEg) | 3:10 | 2024-10-24 | 2025-01-10 |
 | [Fiore Sulla Luna](https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Fiore Sulla Luna](https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag) | 2:27 | 2023-08-31 | 2023-09-29 |
 | [fiume di parole](https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [fiume di parole](https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp) | 2:31 | 2023-04-20 | 2023-05-19 |
+| [Flamenco](https://open.spotify.com/track/1VQzMeoZHuwbqV5ipcmWZP) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq), [Luna Racini](https://open.spotify.com/artist/3rVWlRzTyOPBvVzLmzGO28) | [Flamenco](https://open.spotify.com/album/5qYXYSYtWWcccwYAskD1ph) | 3:32 | 2025-02-20 |  |
 | [fluo](https://open.spotify.com/track/2F6uEtSu7h6QUjgenM86K7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [fluo](https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt) | 2:55 | 2023-03-23 | 2023-04-21 |
 | [Follia](https://open.spotify.com/track/6MndhxNWKY5Du4pIGk3CW0) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Follia](https://open.spotify.com/album/2QVkDVj1xNoSE0Pk7sZMBb) | 2:32 | 2023-11-08 | 2024-02-07 |
 | [Formiche](https://open.spotify.com/track/4luGa0WDAf86wqyyWy2eM6) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Formiche](https://open.spotify.com/album/6BEsWdHL2DUqVeSjswYf7U) | 3:00 | 2024-10-10 |  |
@@ -493,6 +494,7 @@
 | [Scarpe](https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz) | [SANTACHIARA](https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW) | [Scarpe](https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1) | 3:12 | 2024-11-28 |  |
 | [Schiava della Vita](https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [Schiava della Vita](https://open.spotify.com/album/3O7kIq8JQAcWd5MmoPY1jc) | 2:45 | 2024-10-10 | 2024-11-16 |
 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 | 2023-03-23 | 2023-06-16 |
+| [Scusa](https://open.spotify.com/track/40nbU2KzxgNICwnD84apPM) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Scusa](https://open.spotify.com/album/4H14ewfokXlCBThQpDdYru) | 2:20 | 2025-02-20 |  |
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-13 | 2023-06-09 |
 | [SCUSAMI SE](https://open.spotify.com/track/4c2PdSDERoU0hA4sz2ohNN) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [SCUSAMI SE](https://open.spotify.com/album/25mWDe25KmW15WyBOWjQer) | 2:46 | 2023-12-21 | 2024-02-02 |
 | [SE MI LASCI DOMANI](https://open.spotify.com/track/4Z8Rrgk9MYwcvMGbxZluuX) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [SE MI LASCI DOMANI](https://open.spotify.com/album/23w6agrUntnc6Ok1A18gvD) | 3:33 | 2023-04-20 | 2023-06-23 |

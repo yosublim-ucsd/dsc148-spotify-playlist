@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: AKASAKI \*👉 <a href="https://spice.eplus.jp/articles/335713">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,262 likes - 87 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,323 likes - 87 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 86 | [ひとつになりたい](https://open.spotify.com/track/6dMTeu0MlKmYnna7sO4JjH) | [Hideyoshi](https://open.spotify.com/artist/3XL6HB2fM5WEBzQfG19n21) | [あいてえです](https://open.spotify.com/album/0JqzsQ09nTQ4OOxSZy5knv) | 5:03 |
 | 87 | [spark](https://open.spotify.com/track/6jBvC1sM3MdSn3DuLU8azT) | [toketadenkyu](https://open.spotify.com/artist/2GgcdKh8581r5VoVT7guML) | [spark](https://open.spotify.com/album/1RFksTHvZN5lL2z66nzHu1) | 4:15 |
 
-Snapshot ID: `Z7ZUgAAAAADAhTLlvFnfkACqm9xmSxhM`
+Snapshot ID: `Z7ZUgAAAAADd95BYQkWOkBCV3q9ke1Xn`

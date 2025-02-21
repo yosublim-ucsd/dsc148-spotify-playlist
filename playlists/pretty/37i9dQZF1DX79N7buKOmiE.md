@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerőn Magyarország női hangjait! Cover: Kollár Dea
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,828 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,829 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Hiba](https://open.spotify.com/track/6QHeKaA91AW1svaYMfdVwq) | [Karola](https://open.spotify.com/artist/5zm8RkAvafvF2A6c5tdzXi), [Valter](https://open.spotify.com/artist/3g7HTvu3GHHLLFxF1B9Esy) | ['13](https://open.spotify.com/album/3fRMFPhsOGtbgNze0R0rAv) | 3:16 |
 | 50 | [Ág se húzza](https://open.spotify.com/track/5FXEXJnJthBJ4Q6HNRicoJ) | [Maluridé](https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6) | [Játsszuk az Istent](https://open.spotify.com/album/5SzaQhlHqUKo0Md0XsXd24) | 3:34 |
 
-Snapshot ID: `Z6KcFgAAAABA4TlyJAXTemyOZ2GVNh+s`
+Snapshot ID: `Z6KcFgAAAAA15j0gFW65ViVKlIRbZNNw`

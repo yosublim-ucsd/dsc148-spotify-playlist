@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,397 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,443 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 79 | [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 |
 | 80 | [Lollipop \(feat\. Yemi Alade\)](https://open.spotify.com/track/5DhQIwNA48BPilqvSXW6zm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 2:21 |
 
-Snapshot ID: `Z66HygAAAAAKdiLBX/+nB+B2KV1lJXVR`
+Snapshot ID: `Z66HygAAAADor/WY1QqWeCiQAP+4yXaB`

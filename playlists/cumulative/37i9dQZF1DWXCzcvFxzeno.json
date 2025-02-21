@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Bass Powah",
+        "url": "https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179718,
+      "name": "Bass Powah",
+      "url": "https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f"
+    },
+    {
+      "album": {
         "name": "Because They Want Our Seat",
         "url": "https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 213333,
       "name": "Captain my Captain (Filth on Acid Mix)",
       "url": "https://open.spotify.com/track/4fXvts788dXktwkYXJeYJt"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 189750,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj"
@@ -2156,7 +2178,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 162580,
       "name": "I Gotta Come In",
       "url": "https://open.spotify.com/track/5Zvm7MJIqbJNPUilBp4VsF"
@@ -2705,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/08HbEH8XyvflTaewgDR2cu"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/3uROl5uWrMQiBpynHm7thI"
+    },
+    {
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T"
       },
@@ -2976,7 +3016,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 306580,
       "name": "On Da Beat",
       "url": "https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn"
@@ -3551,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Self Command",
+        "url": "https://open.spotify.com/album/1AFzsjPNA1cxjLvVF2Oq2f"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "Self Command - Radio Edit",
+      "url": "https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i"
+    },
+    {
+      "album": {
         "name": "SexyBack (TechnoBack)",
         "url": "https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a"
       },
@@ -4008,7 +4066,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 294000,
       "name": "The Engine",
       "url": "https://open.spotify.com/track/1IBCEPkcHokY2BrIllHJOg"

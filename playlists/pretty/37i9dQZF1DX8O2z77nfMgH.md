@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Boza y Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,551 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,576 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 65 | [LLORANDO X MI](https://open.spotify.com/track/01HD3YBiQQnH9hIBspbwHO) | [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH), [DJ Kendo](https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ) | [LLORANDO X MI](https://open.spotify.com/album/0US547NP0vLB7uOOAAuUeE) | 2:25 |
 | 66 | [cuando cae la nite](https://open.spotify.com/track/65YR0u0CXQX9zGRvBGHkkA) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [cuando cae la nite](https://open.spotify.com/album/7CJrWjQkD0xYHQBe4QqYuG) | 3:31 |
 
-Snapshot ID: `Z7DVoQAAAAB0m9ioywyYGYDcuT7iu1Ur`
+Snapshot ID: `Z7DVoQAAAAAZIgbGNkr1+YBSD23gCOF9`

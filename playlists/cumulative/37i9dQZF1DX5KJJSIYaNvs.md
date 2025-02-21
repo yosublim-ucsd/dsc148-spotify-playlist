@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Jonita Gandhi
 
-436 songs - 1 day 1 hr 30 min
+437 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Khoon](https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khoon](https://open.spotify.com/album/6yHQo67wEqmBn30Rs2i8vy) | 4:18 | 2025-01-24 | 2025-02-18 |
 | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/track/79g912tBMwgvwQznCDwfNu) | [Nikitha Venkatesh](https://open.spotify.com/artist/6XkwgUoGqTzwLhVYmZmqeG), [Nimish Shah](https://open.spotify.com/artist/7DxsSjeJmwDkghseVrFfkK) | [Khushiyon Ki Khidkiyaan](https://open.spotify.com/album/3YRZqciPqWlJ2lnpUoOWiZ) | 3:21 | 2024-09-29 | 2024-11-19 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-03-02 | 2023-08-04 |
+| [Kinaare](https://open.spotify.com/track/5hvKhWCV8qXSnXKsVMt2xq) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kinaare](https://open.spotify.com/album/4HtcvB42e7hl9FAW81WkLT) | 2:32 | 2025-02-20 |  |
 | [Kise Hor Da](https://open.spotify.com/track/6VtaoiKwWcVNtTpr8vTRUE) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/2LAmN6XVq5kGH59XOezHkM) | 2:36 | 2023-12-21 | 2024-02-08 |
 | [Kitna Aasaan](https://open.spotify.com/track/56cXwVKPsJxzqKn17tOQqM) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kitna Aasaan](https://open.spotify.com/album/3HAcsDBC0Y042xCV8ZWUse) | 3:34 | 2024-07-19 | 2025-01-11 |
 | [Kuch Humare \(Female Version\)](https://open.spotify.com/track/5Z7NQft4kP2ZLG9e8NTvUZ) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Lalit Pandit](https://open.spotify.com/artist/0El2QAwuEZvpsW2eRZiUdX), [Ssanjay Tripaathy](https://open.spotify.com/artist/1xvUz5RWhWC685oo94dhHk) | [Binny And Family](https://open.spotify.com/album/0eoRM09KI92VQ0KJ9PMdaq) | 4:14 | 2024-09-29 | 2024-10-22 |
@@ -437,7 +438,7 @@
 | [Yeh Aaina](https://open.spotify.com/track/62RXe5I6L7n32fUMd8Puvo) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 5:11 | 2022-02-01 | 2022-03-08 |
 | [Yimmy Yimmy](https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Yimmy Yimmy](https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC) | 3:31 | 2024-03-08 | 2025-01-09 |
 | [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-02 | 2023-07-27 |
-| [Zara Muskurade](https://open.spotify.com/track/2RFPoDKiEp3AprMkX2MsLk) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Zara Muskurade](https://open.spotify.com/album/6FRGIXNRP6KeSMhLxMsXbp) | 1:50 | 2024-10-04 |  |
+| [Zara Muskurade](https://open.spotify.com/track/2RFPoDKiEp3AprMkX2MsLk) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Zara Muskurade](https://open.spotify.com/album/6FRGIXNRP6KeSMhLxMsXbp) | 1:50 | 2024-10-04 | 2025-02-21 |
 | [Zaroorat Se Zyada \- Female Version \- From "Vedaa"](https://open.spotify.com/track/1UrVeNKlZD1Ib6v8rhEtEk) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Vedaa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2dchYcy81PlHNcuZnF6ZOl) | 5:34 | 2024-08-14 | 2024-09-05 |
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 | 2024-11-13 |
 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 | 2024-06-03 | 2025-01-09 |

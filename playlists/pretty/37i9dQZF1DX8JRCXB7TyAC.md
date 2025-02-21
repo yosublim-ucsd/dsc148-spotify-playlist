@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,585 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,606 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 30 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
 | 31 | [Desi](https://open.spotify.com/track/3MF6RjV3MRlKKkg9dlel3V) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Subhash Foji](https://open.spotify.com/artist/0Q338JH1hWC6gDIpAbQKvP) | [Desi](https://open.spotify.com/album/1GIcXhnAkvNExAcUMEoaHH) | 3:02 |
 | 32 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
-| 33 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/1I3EawcCTzAYZtonoobkuU), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 |
-| 34 | [Lottery](https://open.spotify.com/track/42A2WoczSY0mIuryZKLgSp) | [Jaggi Nagar](https://open.spotify.com/artist/3a7N0IvnxFzrL1Xpy4olZy), [Shawn](https://open.spotify.com/artist/7AyhM12M2NRVrVWesXMq7P), [Montee Akanwali](https://open.spotify.com/artist/1reYxH1OEWqlblyCGwmqBR) | [Lottery](https://open.spotify.com/album/4MpdIGbhJ4wELGiscjivyF) | 2:34 |
+| 33 | [Lottery](https://open.spotify.com/track/42A2WoczSY0mIuryZKLgSp) | [Jaggi Nagar](https://open.spotify.com/artist/3a7N0IvnxFzrL1Xpy4olZy), [Shawn](https://open.spotify.com/artist/7AyhM12M2NRVrVWesXMq7P), [Montee Akanwali](https://open.spotify.com/artist/1reYxH1OEWqlblyCGwmqBR) | [Lottery](https://open.spotify.com/album/4MpdIGbhJ4wELGiscjivyF) | 2:34 |
+| 34 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/1I3EawcCTzAYZtonoobkuU), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 |
 | 35 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
-| 36 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
-| 37 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 |
+| 36 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 |
+| 37 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
 | 38 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 |
 | 39 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 |
 | 40 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Inaam](https://open.spotify.com/track/6sR651uGpEJxhZqqnLdYRh) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/2XtzyKgKRtm3PcVS01l2zz) | 3:04 |
 | 50 | [Document](https://open.spotify.com/track/1feOpUkRMcB6kwGvoLW7C4) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Document](https://open.spotify.com/album/2GQZdnBCslzoKfgCMjbz91) | 3:40 |
 
-Snapshot ID: `Z7BKmgAAAAD6UI1ivPu8rNrn1n+HkLuR`
+Snapshot ID: `Z7BKmgAAAADwKE1n+tH7Mv7IL/drdXAS`

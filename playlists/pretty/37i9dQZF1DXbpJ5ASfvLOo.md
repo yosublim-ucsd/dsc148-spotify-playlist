@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJ5ASfvLOo.md) - [plain]
 | 51 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 |
 | 52 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 |
 
-Snapshot ID: `ZMxR+AAAAAC+oCH9iCirwbREHEogCAo2`
+Snapshot ID: `ZMxR+AAAAAC4uPC4LLhLpbwcEjRkq+K9`

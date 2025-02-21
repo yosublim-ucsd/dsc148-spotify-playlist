@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,822 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,096 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Haalaake Marunne](https://open.spotify.com/track/4r25jJbIeF3pED2ilzAmOV) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Pushpavathy](https://open.spotify.com/artist/1ZMVOLxIxsGjltIDUawg8Z), [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 3:16 |
 | 50 | [Alif](https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Alif](https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU) | 3:01 |
 
-Snapshot ID: `Z7RGNQAAAACABGV7soomzJs3VFrmLyGP`
+Snapshot ID: `Z7RGNQAAAAAjDPSi0UWSlDGEh1d3AoSY`

@@ -4,7 +4,7 @@
 
 > Gli e le emergenti dell'anno in Italia per Spotify\. Cover: Coca Puma
 
-175 songs - 8 hr 26 min
+176 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 | 2024-04-23 |  |
 | [Tardi](https://open.spotify.com/track/6UhdHdR5y1xXBhOwYwzA0d) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:02 | 2024-04-23 |  |
 | [Tasche Piene](https://open.spotify.com/track/6FDnLloftKFqfavEIxGJy2) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Bigghie](https://open.spotify.com/artist/2nLSzxzEXcb6ZSqSjWNnul) | [Tasche Piene](https://open.spotify.com/album/1rqwu4TY5aQVaipvV6TED7) | 2:40 | 2022-08-31 | 2023-04-12 |
+| [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-20 |  |
 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 | 2022-08-31 | 2023-04-12 |
 | [Tolona](https://open.spotify.com/track/6f74ZrISrgps488L1QYSb0) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tolona](https://open.spotify.com/album/6h8884jQL2kUResMNzgtTf) | 3:04 | 2023-01-23 | 2023-04-12 |
 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 | 2022-08-31 | 2023-04-12 |

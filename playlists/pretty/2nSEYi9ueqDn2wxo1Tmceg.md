@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,426 likes - 50 songs - 3 hr 33 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,424 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More than real](https://open.spotify.com/track/6JFpSrgoZTYCDwMc6AE3H8) | [Richard Dawson](https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml) | [End of the Middle](https://open.spotify.com/album/1JzuX5abMNgLKPw1POeo1r) | 6:12 |
 | 2 | [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 |
 | 3 | [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 |
-| 4 | [Queen Of 14th St](https://open.spotify.com/track/6G76apo7QJ3y8UdglGWUxA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw) | [Decius Vol\. II \(Splendour & Obedience\)](https://open.spotify.com/album/7tw9VZCzCmiavs3jddFeCm) | 5:51 |
+| 4 | [Queen Of 14th St](https://open.spotify.com/track/6G76apo7QJ3y8UdglGWUxA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. II \(Splendour & Obedience\)](https://open.spotify.com/album/7tw9VZCzCmiavs3jddFeCm) | 5:51 |
 | 5 | [Rock City](https://open.spotify.com/track/2fyxdNYZGJVESN4ToVw0lM) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:49 |
 | 6 | [Departure](https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Departure](https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi) | 3:19 |
 | 7 | [Nevada](https://open.spotify.com/track/01veXxWnOdsXVQDVtNDLNx) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Nevada](https://open.spotify.com/album/3ln22T45Y3d6cNPQdpTzgD) | 3:30 |

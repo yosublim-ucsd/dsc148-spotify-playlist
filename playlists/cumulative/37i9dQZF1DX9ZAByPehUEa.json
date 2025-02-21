@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 238355,
       "name": "Hypnotizin'",
       "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
@@ -9546,6 +9546,28 @@
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/45a3YsnthDFF1bG5ccXpXt"
+      },
+      "artists": [
+        {
+          "name": "Martial Simon",
+          "url": "https://open.spotify.com/artist/72twbwIUSRjha4AnJdNMbs"
+        },
+        {
+          "name": "Vintage Club",
+          "url": "https://open.spotify.com/artist/6RyuI605qTPo9Fb6BqJwcf"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150552,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3mfq1u4LdKJ4SrgeoT8w23"
     },
     {
       "album": {

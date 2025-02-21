@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Amel Bent",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : GIMS",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -189,6 +189,42 @@
     },
     {
       "album": {
+        "name": "Gamin des sables",
+        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "Avec ou sans",
+      "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+    },
+    {
+      "album": {
         "name": "+1",
         "url": "https://open.spotify.com/album/1eoAQ3NzpoBJwFsI79LYqO"
       },
@@ -330,7 +366,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 166154,
       "name": "Changer",
       "url": "https://open.spotify.com/track/0wiXd1EP1zSxI2mSycHz4S"
@@ -1237,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "J'esp\u00e8re que c'est vrai",
+        "url": "https://open.spotify.com/album/1TtiBpOuEDjDo44m20sqkp"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200647,
+      "name": "J'esp\u00e8re que c'est vrai",
+      "url": "https://open.spotify.com/track/2EuuOBDrIfrdKYUKvXW2iK"
+    },
+    {
+      "album": {
         "name": "Je ne pense qu'\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2ZfeZxtZoDt1R6MY1LPD4Z"
       },
@@ -1692,7 +1746,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 198546,
       "name": "Le monde demain - Version radio",
       "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
@@ -2040,7 +2094,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 194720,
       "name": "Mal lun\u00e9e",
       "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
@@ -2368,7 +2422,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 154543,
       "name": "Oser",
       "url": "https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY"
@@ -2488,6 +2542,24 @@
       "duration_ms": 148347,
       "name": "Parle-moi... ou pas",
       "url": "https://open.spotify.com/track/1fvWSvZOi1xm2MzxS4IMCZ"
+    },
+    {
+      "album": {
+        "name": "Pas banale",
+        "url": "https://open.spotify.com/album/7q9chE1LkGztCxEKs5ssA6"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154659,
+      "name": "Pas banale",
+      "url": "https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM"
     },
     {
       "album": {
@@ -3260,7 +3332,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 170000,
       "name": "Tout finit par s'arranger",
       "url": "https://open.spotify.com/track/0HZfhYY0wc85JbzulGptsF"
@@ -3549,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/7r2RSKrWUQ4sw5y990H6Aj"
+      },
+      "artists": [
+        {
+          "name": "Charlie Boisseau",
+          "url": "https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Vide",
+      "url": "https://open.spotify.com/track/3Ywheg9zwWfStowfrpf7V5"
+    },
+    {
+      "album": {
         "name": "Vie vagabonde",
         "url": "https://open.spotify.com/album/0rmOiiMcUxATbZtqUD4Xgz"
       },
@@ -3582,6 +3672,24 @@
       "duration_ms": 181213,
       "name": "Vos voix",
       "url": "https://open.spotify.com/track/45cYeCK8CFZW0nXKDcRcBQ"
+    },
+    {
+      "album": {
+        "name": "V\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/3hebYaRK5QJJx7qEsRZayP"
+      },
+      "artists": [
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165869,
+      "name": "V\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/6n0A1PveCnOugPtdWRkbeC"
     },
     {
       "album": {
@@ -3654,7 +3762,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 149701,
       "name": "\u00c9clipse",
       "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"

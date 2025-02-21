@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,228 songs - 11 day 9 hr 49 min
+7,230 songs - 11 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Antiphon](https://open.spotify.com/track/0Si8GKIFxeMIJpCV2vuq0C) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Antiphon](https://open.spotify.com/album/7y2ft6zhuvl5eGB6SdGvC1) | 2:51 | 2022-11-25 | 2023-10-27 |
 | [Anxious](https://open.spotify.com/track/2LYopzPfntS0aPLCOBr0xH) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Anxious](https://open.spotify.com/album/1X8scpihvXSNE4E0BD8zDs) | 2:29 | 2022-03-11 | 2022-08-12 |
 | [Anybody Else](https://open.spotify.com/track/7AEWXwsrKMljA0ApHWUawW) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Anybody Else](https://open.spotify.com/album/7vVwFXGcZHyUVmP8iLuqd2) | 3:30 | 2020-09-18 | 2021-01-11 |
-| [anymore](https://open.spotify.com/track/768BYGA6sGLudT38KqiVFe) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [anymore](https://open.spotify.com/album/2sflYWG1mU0jo9qmNsvF7P) | 2:17 | 2025-01-10 |  |
+| [anymore](https://open.spotify.com/track/768BYGA6sGLudT38KqiVFe) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [anymore](https://open.spotify.com/album/2sflYWG1mU0jo9qmNsvF7P) | 2:17 | 2025-01-10 | 2025-02-21 |
 | [Anything](https://open.spotify.com/track/0fSiPKVHBhkRV4KEnONLo6) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Anything](https://open.spotify.com/album/50xvIbEJzB3wAoEh1qsoiJ) | 2:29 | 2024-02-02 |  |
 | [anything in the world](https://open.spotify.com/track/393Zq7DKr6IxkmJp5bRe6j) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 1:56 | 2019-06-13 | 2020-01-22 |
 | [Anyway](https://open.spotify.com/track/5rjVg4MScbRnpbLUQSKCys) | [dibintu](https://open.spotify.com/artist/0piHO11bRe9NaZT1H80FEP) | [Anyway](https://open.spotify.com/album/0DAIrOpaOn4Uqffwiy3YmO) | 2:02 | 2023-07-27 | 2023-08-11 |
@@ -1413,6 +1413,7 @@
 | [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 |  |
 | [Cream](https://open.spotify.com/track/7gKStrOOATphBtfbQnfah4) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Cream](https://open.spotify.com/album/1o0aV2wUBEKtZr2UUy89bA) | 2:12 | 2023-11-24 |  |
 | [CREAM](https://open.spotify.com/track/3hEUtaQZbmXOWlHfiIE3lk) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [CREAM](https://open.spotify.com/album/0xL2eVoJ8WWSxGBuDvnwKv) | 2:24 | 2023-02-13 | 2023-10-06 |
+| [Creamy](https://open.spotify.com/track/5M5IxzAJjoYCYBZvzSKloT) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [Creamy](https://open.spotify.com/album/5dvZGvNfmjDvKmNGGNmgc8) | 2:18 | 2025-02-16 |  |
 | [Creamy](https://open.spotify.com/track/7IfMQ5d4iqkWS9febmotaK) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Creamy](https://open.spotify.com/album/6vyyzBsHfajV2rro5QOWGF) | 1:57 | 2022-10-28 | 2023-02-28 |
 | [Creepy Stairs](https://open.spotify.com/track/4oNXTcasIk8toQWO4ZU3Iu) | [Knutsson](https://open.spotify.com/artist/7zd7f1aUNK2re5cDXIoObQ) | [Creepy Stairs](https://open.spotify.com/album/321xLnOX4IskNg8aIEb632) | 1:52 | 2020-10-28 | 2021-10-20 |
 | [Crema](https://open.spotify.com/track/7IvvJS3KzogD6hbjS8ucN2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Crema](https://open.spotify.com/album/5eUGVHoI5xxapnhCk3I2Qu) | 2:29 | 2023-08-17 | 2023-09-19 |
@@ -2565,7 +2566,7 @@
 | [Great Depth](https://open.spotify.com/track/6JqcQEsdVQ745YZ6MTunYs) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Great Depth](https://open.spotify.com/album/2fstCq3z87bxma8h5bVe7r) | 1:56 | 2023-04-05 | 2023-12-15 |
 | [Great Falls](https://open.spotify.com/track/6BY800LJUPLUtIPktfu6Rd) | [Low Phil](https://open.spotify.com/artist/6T17VESgSmBjyVYQCETfj9), [Andonis](https://open.spotify.com/artist/3IQCLbpu9oBPvOCdtCsAnt) | [Great Falls](https://open.spotify.com/album/5WdjRMXQrljopmgzrTqf1i) | 2:17 | 2020-03-20 | 2021-09-04 |
 | [Great Scott](https://open.spotify.com/track/606EXUizJpLKDaDa0amOek) | [Baronski](https://open.spotify.com/artist/0QugAanZtxl77FmPZmhy4b), [BNMO](https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR) | [Great Scott](https://open.spotify.com/album/2IB5JD1HKPYokl9uxK3FC4) | 3:25 | 2023-01-13 | 2024-01-12 |
-| [great white](https://open.spotify.com/track/1Jxr2C8OnhrVOPKorQxjgo) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [great white](https://open.spotify.com/album/0i1j1T23K7LM4ivILWgNvl) | 3:15 | 2024-09-06 |  |
+| [great white](https://open.spotify.com/track/1Jxr2C8OnhrVOPKorQxjgo) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [great white](https://open.spotify.com/album/0i1j1T23K7LM4ivILWgNvl) | 3:15 | 2024-09-06 | 2025-02-21 |
 | [Greatest Year](https://open.spotify.com/track/1CM4tAWU2hGEPnIQ8njOwN) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Greatest Year](https://open.spotify.com/album/1M0KKzZByBREz6IffPJ1d0) | 1:55 | 2023-06-07 | 2024-03-01 |
 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 | 2023-11-17 | 2024-09-14 |
 | [Green](https://open.spotify.com/track/5GN4NROaYPF3B9nctQiqlq) | [Mun$](https://open.spotify.com/artist/3q5IPAzYcyOyLEZecYKILg) | [Green](https://open.spotify.com/album/242fjU9JtLbq3xG7F9jONX) | 1:51 | 2019-11-20 | 2019-11-29 |
@@ -5847,6 +5848,7 @@
 | [Spring kisses](https://open.spotify.com/track/6NXd3WApHhpjZGYyJ8Uzwm) | [KojimaBeats](https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN) | [Serendipity](https://open.spotify.com/album/52AdOU9QTCwRjt5qaglFXC) | 3:01 | 2022-09-16 | 2023-01-07 |
 | [Spring Loop](https://open.spotify.com/track/2q8jQMT5B7HhiKuLkm2JPO) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Spring Loop](https://open.spotify.com/album/0Rp7PkblANJsTtONv1MGmQ) | 2:04 | 2023-04-12 | 2023-11-11 |
 | [Spring Melody](https://open.spotify.com/track/75COvmWgSL1DfGkQburzDa) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Spring Melody](https://open.spotify.com/album/0kooCnKtmAmv51qUx8Wsow) | 2:11 | 2024-06-14 |  |
+| [Spring Time](https://open.spotify.com/track/1WZZ7LxaPwYE4sSQGT69Ga) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Spring Time](https://open.spotify.com/album/0OMnipSbzSOdLtomAfr5lN) | 2:15 | 2025-02-16 |  |
 | [Spring Vibes](https://open.spotify.com/track/2oWvFV3eCfKPvZsJNwvFMC) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Spring Vibes](https://open.spotify.com/album/3JqqF6l1F4d0UrtrrBFzaq) | 2:53 | 2022-01-21 | 2022-07-16 |
 | [Springdays](https://open.spotify.com/track/1nXgAA5bDL2i68D0TrwAf9) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Springdays](https://open.spotify.com/album/1YGUNejUmLdfGzsDa05mKZ) | 2:02 | 2021-05-20 | 2022-01-14 |
 | [Springfrost](https://open.spotify.com/track/2zEmVgZ5qJfgGiTkk2FwlO) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Springfrost](https://open.spotify.com/album/5YRLsBfU5ifkQaufYoXWq0) | 1:58 | 2023-03-24 | 2023-11-17 |

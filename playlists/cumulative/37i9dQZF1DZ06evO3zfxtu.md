@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 27 min
+91 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Sleep Like A Baby](https://open.spotify.com/track/4QdhJUYeuUTOp8UJfaQ7W5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/4aP2gg2VRcv5jbSlKwbAhL) | 2:46 | 2023-12-13 |  |
 | [Snakes](https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [Snakes](https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb) | 3:41 | 2023-12-13 |  |
 | [SOLO \[Hype Hop Edit\]](https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [HYPE HOP 003](https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj) | 2:42 | 2023-12-13 |  |
-| [Space Jungle \- Showtek Edit](https://open.spotify.com/track/6e19Uxcna7oPqqo0FYYxHY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Space Jungle \(Showtek Edit\)](https://open.spotify.com/album/1XiOHQc9G2fWuhZ2XtSPDB) | 5:15 | 2023-12-13 |  |
+| [Space Jungle \- Showtek Edit](https://open.spotify.com/track/2IC86yi2gNJukL4A8P9BkB) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Space Jungle \(Showtek Edit\)](https://open.spotify.com/album/3ndOWDTbHuL1nJsTdzFGTQ) | 5:15 | 2025-02-21 |  |
+| [Space Jungle \- Showtek Edit](https://open.spotify.com/track/6e19Uxcna7oPqqo0FYYxHY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Space Jungle \(Showtek Edit\)](https://open.spotify.com/album/1XiOHQc9G2fWuhZ2XtSPDB) | 5:15 | 2023-12-13 | 2025-02-21 |
 | [SPLASH GOD](https://open.spotify.com/track/2nsdM2dIV9EAlDWN0Ih3bP) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [SPLASH GOD](https://open.spotify.com/album/5jZarzGdeYv5qByBbxPpG6) | 3:01 | 2023-12-13 |  |
 | [STATIC](https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Ching](https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 2:35 | 2024-10-14 |  |
 | [STATIC](https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Ching](https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q) | [STATIC](https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC) | 2:35 | 2023-12-13 | 2024-10-14 |

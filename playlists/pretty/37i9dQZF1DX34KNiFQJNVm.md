@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Mari Fernandez, Grupo Menos É Mais e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020,786 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020,932 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Coisa Rara](https://open.spotify.com/track/52o6oHyK7CDyK0HGQw9PjK) | [Rafael Garcez](https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Coisa Rara](https://open.spotify.com/album/3C2XJ7j601SAnfs2FidJAT) | 2:47 |
 | 75 | [Tu Ama Porra Nenhuma](https://open.spotify.com/track/6cONZRhNd8lSzZf0uTZSag) | [Zé Cantor](https://open.spotify.com/artist/09IVixIx3VLLFmWZfojamH), [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a) | [Tu Ama Porra Nenhuma](https://open.spotify.com/album/03qx1Ot4CEGXBzAaxstPYD) | 2:09 |
 
-Snapshot ID: `Z67N/gAAAAAlz89PcTSdzhR2Het8g2fU`
+Snapshot ID: `Z67N/gAAAABd7NQczZeo844HG3cFR1FD`

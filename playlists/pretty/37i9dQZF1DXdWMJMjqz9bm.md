@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,811 likes - 45 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,831 likes - 45 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 44 | [Murderer](https://open.spotify.com/track/6aZbAWmCQilinWprgzashl) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Murderer](https://open.spotify.com/album/4YxP15mdZTuyPmPv0Oinzr) | 3:30 |
 | 45 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 |
 
-Snapshot ID: `Z67N5wAAAADgo25Hn9lvIK9qJQIr/ksW`
+Snapshot ID: `Z67N5wAAAACII3IgFfu6bxqIY8Tsg52T`

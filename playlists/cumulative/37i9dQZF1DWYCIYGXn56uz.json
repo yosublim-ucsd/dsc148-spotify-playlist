@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: CLARA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Olly",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1134,6 +1134,10 @@
         {
           "name": "Olly",
           "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
       "date_added": "2025-02-12",
@@ -3798,6 +3802,28 @@
       "duration_ms": 151364,
       "name": "fiume di parole",
       "url": "https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/5qYXYSYtWWcccwYAskD1ph"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        },
+        {
+          "name": "Luna Racini",
+          "url": "https://open.spotify.com/artist/3rVWlRzTyOPBvVzLmzGO28"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Flamenco",
+      "url": "https://open.spotify.com/track/1VQzMeoZHuwbqV5ipcmWZP"
     },
     {
       "album": {
@@ -9328,6 +9354,24 @@
       "duration_ms": 158000,
       "name": "Scivola",
       "url": "https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS"
+    },
+    {
+      "album": {
+        "name": "Scusa",
+        "url": "https://open.spotify.com/album/4H14ewfokXlCBThQpDdYru"
+      },
+      "artists": [
+        {
+          "name": "Anto Paga",
+          "url": "https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140454,
+      "name": "Scusa",
+      "url": "https://open.spotify.com/track/40nbU2KzxgNICwnD84apPM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,556 likes - 252 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,557 likes - 252 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 251 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
 | 252 | [Blue \(feat\. Jin Dogg\)](https://open.spotify.com/track/6hbHNlBB2XLrMcnHZKYFKa) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [COSMOS](https://open.spotify.com/album/4O6cOGaxXEf9QPKcrxx6Fc) | 3:10 |
 
-Snapshot ID: `ZlVPdwAAAACK14H8YCaDa6JgpzbLly8V`
+Snapshot ID: `ZlVPdwAAAACfXSqumS8PHZ+Ptmyd2iHg`

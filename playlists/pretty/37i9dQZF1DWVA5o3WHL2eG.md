@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,627 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,619 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
 | 37 | [Schwarze Magie](https://open.spotify.com/track/0mkzp3A8Cr6sIN9wOqJhk5) | [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Schwarze Magie](https://open.spotify.com/album/41HT1dDyuKKbvuCnykRJ26) | 1:43 |
 | 38 | [A.D.H.D](https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [A.D.H.D](https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7) | 2:54 |
-| 39 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 |
+| 39 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
 | 40 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
-| 41 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
+| 41 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 |
 | 42 | [i\-i\-i](https://open.spotify.com/track/6b6aaGlv0iNDJvwTHtV0or) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [I'm Going Somewhere Better Later](https://open.spotify.com/album/7LUSFRgWkfL7rmL4zNXPHD) | 4:15 |
 | 43 | [Ugly Talk](https://open.spotify.com/track/08ZFbn6Z6p8C4jLwBYKdHR) | [jeanie](https://open.spotify.com/artist/07hMLICYoIKGhV4xeTBApP) | [Ugly Talk](https://open.spotify.com/album/6mgH4SNsl5wo4AdJyIAaZQ) | 2:51 |
 | 44 | [Happy](https://open.spotify.com/track/1Vk4R84EyrzKzZtDFGh6oo) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Happy](https://open.spotify.com/album/7FElDXkoXCWG1sjQVOe8tB) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Power](https://open.spotify.com/track/7ce8V90wpaseWbPudzbmp6) | [Laini](https://open.spotify.com/artist/4WdjNB2ZFJ3beIF1MmY8eQ) | [Power](https://open.spotify.com/album/6SPIl9SkURZIpxi0Kxx4OD) | 4:24 |
 | 50 | [Warten](https://open.spotify.com/track/3Jv39bT5Hrmky8GhqZ2rJW) | [YUILA](https://open.spotify.com/artist/3BvAlKnT4q1WKf3UqhLJP3) | [Warten](https://open.spotify.com/album/6Bgxinb5nr5IshryaHlvFj) | 3:57 |
 
-Snapshot ID: `Z6KcFwAAAAAIWn/WkHkYFFZ7RsYTucDb`
+Snapshot ID: `Z6KcFwAAAAD83nMiclcY7GMSSoUsT6ji`

@@ -5385,6 +5385,28 @@
     },
     {
       "album": {
+        "name": "My Love (Tamil)",
+        "url": "https://open.spotify.com/album/30oPMp2YNNPoo67N3NBo8s"
+      },
+      "artists": [
+        {
+          "name": "R Kaushal",
+          "url": "https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2"
+        },
+        {
+          "name": "Lavanya Anthanna",
+          "url": "https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270315,
+      "name": "My Love - Tamil",
+      "url": "https://open.spotify.com/track/7ulG4zYIzj9htjEPimS9mw"
+    },
+    {
+      "album": {
         "name": "Naadu Vittu (From \"Aalan\")",
         "url": "https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS"
       },

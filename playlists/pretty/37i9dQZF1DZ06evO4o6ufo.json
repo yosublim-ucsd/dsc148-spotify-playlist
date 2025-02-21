@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 75634,
+  "num_followers": 75684,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAADh5Y0fvu9Zjcn+Is4th/+D",
+  "snapshot_id": "Z7UfAAAAAACFRoVAM46Zz8wROc6K6O5O",
   "tracks": [
     {
       "added_at": null,
@@ -302,11 +302,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
         }
       ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
+      "duration_ms": 212160,
+      "name": "El 27 (En Vivo)",
+      "url": "https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL"
     },
     {
       "added_at": null,
@@ -370,15 +374,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Nivel C",
-          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
         }
       ],
-      "duration_ms": 212160,
-      "name": "El 27 (En Vivo)",
-      "url": "https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL"
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Plebada del Mayo",
-        "url": "https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
       "artists": [
         {
-          "name": "Los Del Sombrero",
-          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 311530,
-      "name": "La Plebada del Mayo",
-      "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
+      "duration_ms": 158270,
+      "name": "En Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
+        "name": "La Plebada del Mayo",
+        "url": "https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3"
       },
       "artists": [
         {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 158270,
-      "name": "En Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
+      "duration_ms": 311530,
+      "name": "La Plebada del Mayo",
+      "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
     },
     {
       "added_at": null,

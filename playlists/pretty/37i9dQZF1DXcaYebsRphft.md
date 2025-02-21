@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『MISAMO JAPAN DOME TOUR 2024 “HAUTE COUTURE”』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,905 likes - 18 songs - 52 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 30,895 likes - 18 songs - 52 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 17 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 |
 | 18 | [Daydream](https://open.spotify.com/track/6Ysrcp03rQVYuSeFO6bC0W) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:45 |
 
-Snapshot ID: `Z4j01wAAAACgIQjt/+g1VpX0Cw2nYENJ`
+Snapshot ID: `Z4j01wAAAAAEvNH1Q/EtLHmkOy63mKFe`

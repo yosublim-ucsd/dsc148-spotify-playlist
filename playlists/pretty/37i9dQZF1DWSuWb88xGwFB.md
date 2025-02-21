@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,627 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,646 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
-| 2 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
-| 3 | [King Of My Castle \- Roy Malone's King Mix](https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle](https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365) | 4:58 |
+| 2 | [King Of My Castle \- Roy Malone's King Mix](https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle](https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365) | 4:58 |
+| 3 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 4 | [I Like to Move It \(feat\. The Mad Stuntman\) \- Erick "More" Club Mix](https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5) | [I Like To Move It \(feat\. The Mad Stuntman\)](https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP) | 5:52 |
 | 5 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Master Blaster \(Turn It Up\)](https://open.spotify.com/track/4VxHkPiLhUwK4s7q2WpLN4) | [Joint Venture](https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2) | [Master Blaster \(Turn It Up\)](https://open.spotify.com/album/4WEycFfBXOHo3nbBjzy7Ew) | 15:38 |
 | 75 | [Set My Spirit Free](https://open.spotify.com/track/04RY88ENJbbJIbKgpCvyHk) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Set My Spirit Free / Czar](https://open.spotify.com/album/0tOqlita8PHDWvWXhnVPSt) | 7:48 |
 
-Snapshot ID: `ZIsRVQAAAADIKOFhLltFKClsk2ppUEvR`
+Snapshot ID: `ZIsRVQAAAABhmlRTOob33YeuOGZD7PN2`

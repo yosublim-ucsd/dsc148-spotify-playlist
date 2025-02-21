@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: GINEVRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,350 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,348 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 |
 | 50 | [mai stata tua mai](https://open.spotify.com/track/10tFKQAsQYGSzIN8mAUifV) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [Olio Essenziale](https://open.spotify.com/album/3EWRqv2BBr74Zezz2JzraW) | 2:43 |
 
-Snapshot ID: `Z6KcPAAAAABCsEDWbQlFkDISuUOfQwsO`
+Snapshot ID: `Z6KcPAAAAABBf3RKrhhv3YoUUryhW9ul`

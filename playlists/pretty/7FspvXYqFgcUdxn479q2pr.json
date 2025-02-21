@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: LAWRENT, Thierry Von Der Warth",
-  "num_followers": 32499,
+  "num_followers": 32498,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAr9ip6Xx/MlcE8fvEpnbKF+2SsTUJR",
+  "snapshot_id": "AAAr+GueoRjjZDnQiKfYlxQRMozN5v8M",
   "tracks": [
     {
       "added_at": "2025-02-13 13:36:11",
@@ -903,6 +903,98 @@
       "duration_ms": 155606,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
+    },
+    {
+      "added_at": "2025-02-20 10:25:25",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2025-02-20 10:25:25",
+      "album": {
+        "name": "Jevlis Ka (feat. FeniFina)",
+        "url": "https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "FeniFina",
+          "url": "https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "Jevlis Ka (feat. FeniFina)",
+      "url": "https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl"
+    },
+    {
+      "added_at": "2025-02-20 10:25:25",
+      "album": {
+        "name": "Deaf by Stereo",
+        "url": "https://open.spotify.com/album/0F2lBgnTU0ws7Zh3HYKO5u"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Deaf by Stereo",
+      "url": "https://open.spotify.com/track/7fi7L1Y3bjA6xmhC2PUmLT"
+    },
+    {
+      "added_at": "2025-02-20 10:25:25",
+      "album": {
+        "name": "Hometown Hero",
+        "url": "https://open.spotify.com/album/5tJ3ruGQb5bVYQ5oP8ZUuN"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/0xobh82ftL8JRfZ7dvNmrA"
+    },
+    {
+      "added_at": "2025-02-20 10:25:25",
+      "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3"
     }
   ],
   "unique_name": "New Dance Music Friday",

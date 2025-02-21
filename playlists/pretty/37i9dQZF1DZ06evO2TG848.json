@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22406,
+  "num_followers": 22409,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAAC8yI+dWkc1NtmztWgUC+UD",
+  "snapshot_id": "Z7UfAAAAAAAWdJgoKOXMiOGwsKgauvOh",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 167066,
-      "name": "The Path (A New Beginning)",
-      "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
+      "duration_ms": 126053,
+      "name": "Vanishing Grace",
+      "url": "https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP"
     },
     {
       "added_at": null,
@@ -934,11 +934,19 @@
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 41821,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
+      "duration_ms": 61891,
+      "name": "Cargo",
+      "url": "https://open.spotify.com/track/7fAFXX20WLmkSGZVM2BDyu"
     },
     {
       "added_at": null,
@@ -975,22 +983,6 @@
       "duration_ms": 240333,
       "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
       "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 84146,
-      "name": "Riding Horses",
-      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

@@ -1,12 +1,12 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 300826,
+  "num_followers": 300935,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6GCuAAAAAD/uLWYbXmZp0ZeNTYFQJZm",
+  "snapshot_id": "Z6GCuAAAAADq/WuZ3DRlPiV0elOSe1OU",
   "tracks": [
     {
       "added_at": "2025-02-04 03:00:08",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Rest (with Sasha Alex Sloan)",
         "url": "https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193064,
       "name": "Rest (with Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Left In Your Love",
-        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Left In Your Love",
-      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Ready For Love",
         "url": "https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 199203,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "Left In Your Love",
+        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Left In Your Love",
+      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "The Line (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "I Can't Wait Anymore",
         "url": "https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 249436,
       "name": "I Can't Wait Anymore",
       "url": "https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "The Line (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Small Things",
-        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB"
       },
       "artists": [
         {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+          "name": "Jack Robertson",
+          "url": "https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T"
+        },
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
         }
       ],
-      "duration_ms": 176851,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
+      "duration_ms": 224056,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -887,22 +907,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Self Portrait Of A Woman Unravelling",
-        "url": "https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "A World Without You",
-      "url": "https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Saw It Coming",
         "url": "https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY"
       },
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB"
+        "name": "Self Portrait Of A Woman Unravelling",
+        "url": "https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ"
       },
       "artists": [
         {
-          "name": "Jack Robertson",
-          "url": "https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T"
-        },
-        {
-          "name": "Anderson Rocio",
-          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
         }
       ],
-      "duration_ms": 224056,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs"
+      "duration_ms": 212213,
+      "name": "A World Without You",
+      "url": "https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF"
+        "name": "Madly In Love",
+        "url": "https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3"
       },
       "artists": [
         {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+          "name": "Tobias Floor",
+          "url": "https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF"
+      "duration_ms": 223288,
+      "name": "Madly In Love",
+      "url": "https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Madly In Love",
-        "url": "https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF"
       },
       "artists": [
         {
-          "name": "Tobias Floor",
-          "url": "https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB"
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
         }
       ],
-      "duration_ms": 223288,
-      "name": "Madly In Love",
-      "url": "https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy"
+      "duration_ms": 148793,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF"
     },
     {
       "added_at": "2025-02-04 03:00:08",

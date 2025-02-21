@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Fabe.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Ege Zulu.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193131,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 225399,
       "name": "Boiler Freestyle (feat. Gracias)",
       "url": "https://open.spotify.com/track/7diGQAGwMauiSHooM2qt0y"
@@ -2162,6 +2162,28 @@
       "duration_ms": 163699,
       "name": "Ei",
       "url": "https://open.spotify.com/track/3ufAJMOdl2TdYlMrodwEhL"
+    },
+    {
+      "album": {
+        "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157172,
+      "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH"
     },
     {
       "album": {
@@ -3060,7 +3082,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 144190,
       "name": "FIRST DAY OUT",
       "url": "https://open.spotify.com/track/2jyAzORasictsDwMNyc0Jq"
@@ -6596,7 +6618,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 169411,
       "name": "Kyl S\u00e4 Tii\u00e4t",
       "url": "https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi"
@@ -6858,6 +6880,28 @@
       "duration_ms": 130059,
       "name": "Lambo (feat. VJ)",
       "url": "https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt"
+    },
+    {
+      "album": {
+        "name": "Lampaita",
+        "url": "https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149116,
+      "name": "Lampaita",
+      "url": "https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD"
     },
     {
       "album": {
@@ -7518,6 +7562,28 @@
       "duration_ms": 146333,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB"
+    },
+    {
+      "album": {
+        "name": "Love Doctor's",
+        "url": "https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Love Doctor's",
+      "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
     },
     {
       "album": {
@@ -9675,6 +9741,24 @@
     },
     {
       "album": {
+        "name": "Nostetaan malja",
+        "url": "https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166031,
+      "name": "Nostetaan malja",
+      "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
+    },
+    {
+      "album": {
         "name": "Nukkunu",
         "url": "https://open.spotify.com/album/2iPGfnGEeHxROeNjQ99qAE"
       },
@@ -10462,6 +10546,24 @@
       "duration_ms": 191428,
       "name": "Paperihaavoja (feat. Gettomasa)",
       "url": "https://open.spotify.com/track/7LwtWrfbtZhha6PoQMT4z0"
+    },
+    {
+      "album": {
+        "name": "Papi Caramelo",
+        "url": "https://open.spotify.com/album/1D2paKYKNMokGTYtU1qWRn"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136616,
+      "name": "Papi Caramelo",
+      "url": "https://open.spotify.com/track/1UOcNKPvb7Gy8Q5yPttgUy"
     },
     {
       "album": {
@@ -11478,7 +11580,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 174281,
       "name": "Rappari",
       "url": "https://open.spotify.com/track/76jAlykAXpiUe08iAFFvoK"
@@ -12964,7 +13066,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 126181,
       "name": "stupidcash",
       "url": "https://open.spotify.com/track/1yu7x9xOKxnkgLh6rtMGqH"
@@ -14272,6 +14374,28 @@
       "duration_ms": 143070,
       "name": "Totta",
       "url": "https://open.spotify.com/track/4KiTZPhhIeB69bp1AyjyXe"
+    },
+    {
+      "album": {
+        "name": "Totti Freestyle (feat. Ares)",
+        "url": "https://open.spotify.com/album/0Y7hVwith6ptAnydV4muHY"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126954,
+      "name": "Totti Freestyle (feat. Ares)",
+      "url": "https://open.spotify.com/track/4YnIOIdNBEwosJdAoePC08"
     },
     {
       "album": {

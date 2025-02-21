@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : SenSey'
+> Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-211 songs - 11 hr 17 min
+213 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Intouchable](https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Intouchable](https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha) | 3:46 | 2024-01-04 | 2024-06-01 |
 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 | 2024-09-05 | 2024-10-25 |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
-| [Je serai la](https://open.spotify.com/track/7crxjo022nm3xtLb0QweOU) | [Jordan M](https://open.spotify.com/artist/4eylC3GhKMlNcrLN1RhsLk), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Je serai la](https://open.spotify.com/album/3tG4GyqFh5AOjycfCAEnl3) | 2:30 | 2025-01-23 |  |
+| [Je serai la](https://open.spotify.com/track/7crxjo022nm3xtLb0QweOU) | [Jordan M](https://open.spotify.com/artist/4eylC3GhKMlNcrLN1RhsLk), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Je serai la](https://open.spotify.com/album/3tG4GyqFh5AOjycfCAEnl3) | 2:30 | 2025-01-23 | 2025-02-21 |
 | [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-30 | 2024-07-19 |
 | [Je veux ton coeur](https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc) | [Teety](https://open.spotify.com/artist/6HeLKMKnHapbFxCOFppEF9) | [Je veux ton coeur \(Audio\)](https://open.spotify.com/album/3KzcVgfho9IgIo24nqWtVt) | 3:37 | 2023-09-28 | 2023-10-06 |
 | [Jessica \(Island Remix\)](https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(Island Remix\)](https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8) | 2:51 | 2023-10-26 | 2023-12-01 |
@@ -113,6 +113,7 @@
 | [Mon Ame \- Gouyad Remix](https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [King Bouji](https://open.spotify.com/artist/1Q0GT56P1DZTHDsAYQihnX) | [Mon Ame \(Gouyad Remix\)](https://open.spotify.com/album/4KIpKdDmy0UZZ4WaqKsnpZ) | 3:06 | 2024-06-20 | 2024-08-23 |
 | [MON PÉCHÉ](https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [RM'N PROD](https://open.spotify.com/artist/43r0w2IY7M8mujZbclCzKM) | [MON PÉCHÉ](https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf) | 3:28 | 2023-09-28 | 2024-02-09 |
 | [Monalisa](https://open.spotify.com/track/0A5FQkAtB6Eh5RgkEIznWP) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:54 | 2023-09-28 | 2024-07-05 |
+| [Mots Magiques](https://open.spotify.com/track/2icY9mNkAM76xnfDztUBM4) | [MVP](https://open.spotify.com/artist/7x7WK8fEpPoOXn1rMWbcyl), [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Mots Magiques](https://open.spotify.com/album/1rEstCKwGf24mxhrdTdCJz) | 3:24 | 2025-02-20 |  |
 | [My Woman](https://open.spotify.com/track/3s28FCYSmmdJqpZyNinZWo) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [My Woman](https://open.spotify.com/album/1MGhG2rqsurrOmbiSWYPhG) | 3:34 | 2024-11-07 |  |
 | [Mélodie](https://open.spotify.com/track/4ZO1Hmv2h3bmDp3Sxy8z2d) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 2:58 | 2023-09-28 | 2023-11-10 |
 | [Ne doute pas](https://open.spotify.com/track/0Ej7aMck13Ib3r1eOtWzWj) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Ne doute pas](https://open.spotify.com/album/0LRjC9I4P5bndiBhUGCcTX) | 2:53 | 2023-09-28 | 2024-04-05 |
@@ -167,7 +168,7 @@
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-25 | 2024-12-06 |
 | [SERRER CONTRE MOI](https://open.spotify.com/track/11KzpAtpu1YW79xeU4kSJ1) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [SERRER CONTRE MOI](https://open.spotify.com/album/7rr5vAOEmBosZyFFR3B4hw) | 3:08 | 2023-09-28 | 2024-04-19 |
 | [Si Seulement \- Radio Edit](https://open.spotify.com/track/5LDhw86tEleNLulijDdLRh) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Si Seulement \(Radio Edit\)](https://open.spotify.com/album/6Vpyyc4Q21LLX8ZVJ9ANYa) | 2:14 | 2024-03-28 | 2025-02-14 |
-| [Si tu savais](https://open.spotify.com/track/1tWOUTMDkSLVGsoWbSrDAt) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Si tu savais](https://open.spotify.com/album/1A7j6Vx7yFNrQMDXVw7Tqm) | 3:41 | 2024-10-24 |  |
+| [Si tu savais](https://open.spotify.com/track/1tWOUTMDkSLVGsoWbSrDAt) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Si tu savais](https://open.spotify.com/album/1A7j6Vx7yFNrQMDXVw7Tqm) | 3:41 | 2024-10-24 | 2025-02-21 |
 | [Si tu t'en vas](https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Si tu t'en vas](https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET) | 3:21 | 2025-01-30 |  |
 | [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 |  |
 | [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-02 |  |
@@ -219,5 +220,6 @@
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
 | [À genoux](https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [À genoux](https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1) | 3:35 | 2025-01-16 |  |
 | [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 | 2024-11-22 |
+| [Ça va, ça vient](https://open.spotify.com/track/6yGVmoCCXeXcR1oHMKRYEe) | [Dory](https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK), [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Ça va, ça vient](https://open.spotify.com/album/5lU2MAu1LUphevnG4NgtOZ) | 2:53 | 2025-02-20 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

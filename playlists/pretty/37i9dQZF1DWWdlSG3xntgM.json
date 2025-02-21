@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6RwOwAAAADeGQ3HnLhUCAtgpbQ0njdy",
+  "snapshot_id": "Z6RwOwAAAADjOuMALXO1J7Gj4do16knH",
   "tracks": [
     {
       "added_at": "2025-02-06 08:18:03",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
+        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
+        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q"
+        }
+      ],
+      "duration_ms": 294617,
+      "name": "S\u1ea7u l\u1ebb b\u00f3ng 2",
+      "url": "https://open.spotify.com/track/1jYjDxPpkAqaxIm4p5ByiF"
+    },
+    {
+      "added_at": "2025-02-06 08:18:03",
+      "album": {
         "name": "\u00c1o M\u1edbi C\u00e0 Mau",
         "url": "https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 358321,
       "name": "Hoa M\u01b0\u1eddi Gi\u1edd",
       "url": "https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4"
-    },
-    {
-      "added_at": "2025-02-06 08:18:03",
-      "album": {
-        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
-        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
-      },
-      "artists": [
-        {
-          "name": "S\u01a1n Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q"
-        }
-      ],
-      "duration_ms": 294617,
-      "name": "S\u1ea7u l\u1ebb b\u00f3ng 2",
-      "url": "https://open.spotify.com/track/1jYjDxPpkAqaxIm4p5ByiF"
     },
     {
       "added_at": "2025-02-06 08:18:03",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
-        "name": "\u0110\u00eam Ti\u1ec1n \u0110\u1ed3n",
-        "url": "https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu"
+        "name": "Dong Nhac Anh Bang: Mai Toi Di",
+        "url": "https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng \u00dd",
-          "url": "https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG"
+          "name": "M\u1ef9 Huy\u1ec1n",
+          "url": "https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB"
         }
       ],
-      "duration_ms": 271077,
-      "name": "\u0110\u00eam Ti\u1ec1n \u0110\u1ed3n",
-      "url": "https://open.spotify.com/track/3L8gdgw9NsBwsVVYxdbATT"
+      "duration_ms": 183706,
+      "name": "Hai Mua Mua",
+      "url": "https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN"
     },
     {
       "added_at": "2025-02-06 08:18:03",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-02-06 08:18:03",
       "album": {
-        "name": "Dong Nhac Anh Bang: Mai Toi Di",
-        "url": "https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX"
+        "name": "\u0110\u00eam Ti\u1ec1n \u0110\u1ed3n",
+        "url": "https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu"
       },
       "artists": [
         {
-          "name": "M\u1ef9 Huy\u1ec1n",
-          "url": "https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB"
+          "name": "Ph\u01b0\u01a1ng \u00dd",
+          "url": "https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Hai Mua Mua",
-      "url": "https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN"
+      "duration_ms": 271077,
+      "name": "\u0110\u00eam Ti\u1ec1n \u0110\u1ed3n",
+      "url": "https://open.spotify.com/track/3L8gdgw9NsBwsVVYxdbATT"
     },
     {
       "added_at": "2025-02-06 08:18:03",

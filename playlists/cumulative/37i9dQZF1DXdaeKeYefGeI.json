@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Wende",
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Maaike Ouboter & Eric Corton",
   "name": "Mooi Nederlands",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 251704,
       "name": "Barst",
       "url": "https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 177107,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/1R6YYVLcMXzYMCLA5asQrr"
@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Lijn",
+        "url": "https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf"
+      },
+      "artists": [
+        {
+          "name": "Eric Corton",
+          "url": "https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv"
+        },
+        {
+          "name": "Maaike Ouboter",
+          "url": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158560,
+      "name": "Lijn",
+      "url": "https://open.spotify.com/track/0HOrDesxpndcI38kujDxei"
+    },
+    {
+      "album": {
         "name": "Ramen Als Ogen",
         "url": "https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj"
       },
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 252173,
       "name": "Omarm",
       "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 209493,
       "name": "Over De Muur",
       "url": "https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL"
@@ -3390,6 +3412,24 @@
       "duration_ms": 178005,
       "name": "Wie Zal Je Ooit Vergeten",
       "url": "https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW"
+    },
+    {
+      "album": {
+        "name": "Wonderkind",
+        "url": "https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5"
+      },
+      "artists": [
+        {
+          "name": "FULCO",
+          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Wonderkind",
+      "url": "https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs"
     },
     {
       "album": {

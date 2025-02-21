@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,000 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,015 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Tareekan](https://open.spotify.com/track/2I77I1dXs5CqYsRNBHCKmo) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Tareekan](https://open.spotify.com/album/6niefLkciMmlzS5fJmHk8c) | 2:43 |
 | 50 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 |
 
-Snapshot ID: `Z7AggQAAAAANum0M5BHfr0w8SQV/M5EI`
+Snapshot ID: `Z7AggQAAAAAYLBo5HiCCXSHzOQx/c2v6`

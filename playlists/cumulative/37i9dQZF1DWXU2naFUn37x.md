@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Néza in cover della playlist con il top dello street rap italiano ⛓️
+> Mambo e Low\-Red in cover della playlist con il top dello street rap italiano ⛓️
 
 728 songs - 1 day 9 hr 24 min
 

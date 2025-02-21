@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-390 songs - 22 hr 57 min
+391 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [低頭戰](https://open.spotify.com/track/3PZHvFk65YHEhbXtI5T82Q) | [Amber An](https://open.spotify.com/artist/3a5LC9P4JzYWSWo6npWQsw), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [低頭戰](https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4) | 3:22 | 2022-06-06 | 2022-06-13 |
 | [住進你心窩](https://open.spotify.com/track/2dlgLXOZ4dLxOzQPEnjCV5) | [艾成](https://open.spotify.com/artist/2I8PVhkliy7HQXjblxm15w), [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY), [謝俊奇](https://open.spotify.com/artist/2YH8D70CBnOGuDegklDuLK) | [艾成的異想世界](https://open.spotify.com/album/2sl0Yv2sW69M9IavFZfczJ) | 3:49 | 2022-07-04 | 2022-07-29 |
 | [余生都是妳](https://open.spotify.com/track/2QlQ3Pjd5wtYefrnAiHxzl) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [余生都是妳](https://open.spotify.com/album/1BK4cdw3TyPvsh3QOYw9Os) | 3:00 | 2022-06-13 | 2022-08-22 |
+| [你怎么这么可爱 \- Cuteless Chinese Ver.](https://open.spotify.com/track/4lkxDCAllvyqoVhIL4dFzS) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [你怎么这么可爱 \(Cuteless Chinese Ver.\)](https://open.spotify.com/album/3XvPJaChO6sl1x5aMkhqo4) | 3:45 | 2025-02-20 |  |
 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 | 2023-05-08 | 2024-04-19 |
 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 | 2022-08-08 | 2023-05-01 |
 | [你是我的](https://open.spotify.com/track/4dMEzt1ZkFJfHBwcnsHFFi) | [楊勝賢](https://open.spotify.com/artist/1eItrtndbxAuqzQozWCcx0) | [你是我的](https://open.spotify.com/album/3vi6ZO0VmjAiwuyqfkWC6q) | 3:06 | 2024-09-26 | 2024-10-04 |
@@ -219,7 +220,7 @@
 | [情非得已](https://open.spotify.com/track/3HSUm30W0GQ49I2YmS2rxH) | [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [情非得已](https://open.spotify.com/album/5OUsCB2yJFyzFfAdGDN8OK) | 4:25 | 2023-09-25 | 2023-10-03 |
 | [惡作劇](https://open.spotify.com/track/1I0wNk30nKoyFgs1hVIi3C) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 | 2022-07-25 | 2024-04-19 |
-| [想和你](https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [想和你](https://open.spotify.com/album/0A0FCkldQC3lautaFYKz6Z) | 3:43 | 2025-02-13 |  |
+| [想和你](https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [想和你](https://open.spotify.com/album/0A0FCkldQC3lautaFYKz6Z) | 3:43 | 2025-02-13 | 2025-02-21 |
 | [想和你](https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [想和你](https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry) | 3:03 | 2024-09-19 |  |
 | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/track/4sr4x6zcAUiSfUP2CV0ioa) | [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf), [Soya 許素瑄](https://open.spotify.com/artist/5cp42YkACm1QIsk8F5hEnr) | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/album/5X37eBmzqql57QagxpGkYp) | 3:07 | 2022-06-13 | 2022-07-21 |
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2022-09-19 |  |
@@ -326,7 +327,7 @@
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2025-02-18 |
 | [直到有天我们都变老](https://open.spotify.com/track/4Qr0teCIBWVknFZ6tGpBK0) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [直到有天我们都变老](https://open.spotify.com/album/4DQtG5hkx5r32CoyQaj4QU) | 3:37 | 2023-01-09 | 2023-01-17 |
 | [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 | 2024-09-13 |
-| [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 | 2025-02-15 |
+| [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 |  |
 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 | 2023-07-31 | 2023-09-03 |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 | 2024-04-19 |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
@@ -359,7 +360,7 @@
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎？](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2025-02-14 |
 | [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 | 2025-02-11 |
 | [親愛的你](https://open.spotify.com/track/0HA98hhDGR89kcdw9yVGEL) | [Gracie Grace](https://open.spotify.com/artist/0iHZYWswGYdIjSbfAreJIc) | [親愛的你](https://open.spotify.com/album/6eIjXEiW59q9GoIYFhEhDv) | 4:03 | 2023-01-30 | 2023-02-07 |
-| [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 | 2025-02-13 |  |
+| [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 | 2025-02-13 | 2025-02-21 |
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 | 2023-04-11 |

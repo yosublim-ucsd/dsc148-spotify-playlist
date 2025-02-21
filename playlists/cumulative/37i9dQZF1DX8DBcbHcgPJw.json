@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Ian Lucas y Flor Alvarez",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial y DJ TAO",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -7998,7 +7998,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 159281,
       "name": "Otra Boca",
       "url": "https://open.spotify.com/track/7HNSezQS7t0rli7GRAwFnS"
@@ -10664,7 +10664,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 177692,
       "name": "Tal Vez - Remix",
       "url": "https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b"
@@ -11660,6 +11660,28 @@
       "duration_ms": 241461,
       "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
       "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
+    },
+    {
+      "album": {
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/6Ts25jGXnk9bPswAuUbv0M"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176229,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph"
     },
     {
       "album": {

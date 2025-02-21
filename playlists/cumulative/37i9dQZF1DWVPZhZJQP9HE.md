@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-639 songs - 1 day 13 hr 40 min
+640 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2022-12-02 | 2024-12-12 |
 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 | 2025-02-14 |  |
 | [Bullet Vizhigalal \- Speed Up](https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [Bullet Vizhigalal](https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5) | 2:58 | 2024-06-14 | 2024-07-27 |
+| [Bye Bye Bhaiya](https://open.spotify.com/track/5DeFoUexJicerrgXRXDLUi) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Bye Bye Bhaiya](https://open.spotify.com/album/1CDsn3do1lxwOTsgcYt8BZ) | 3:18 | 2025-02-20 |  |
 | [Chechi](https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj) | [Marshall](https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD) | [Chechi](https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4) | 3:12 | 2025-01-30 |  |
 | [Chickana](https://open.spotify.com/track/6NXhU9FTUN8j8W6Qj86uER) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Chickana](https://open.spotify.com/album/4F9B7w1XZeINGaly1GhJ70) | 2:50 | 2023-09-26 | 2024-10-15 |
 | [Chillamma](https://open.spotify.com/track/6mlbSetAfxt50bqQyX7hMY) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3) | [Chillamma](https://open.spotify.com/album/2Nj1UHK73NCPQH3JDr7Dqw) | 1:04 | 2022-12-19 | 2023-03-07 |
@@ -207,7 +208,7 @@
 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-07-27 |  |
 | [Kaatrile](https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F) | [Sperience](https://open.spotify.com/artist/6hM2eMbTUUKLLDIeRBLClE), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Kaatrile](https://open.spotify.com/album/4fBs9f1HRGZYbwM7ghvy3W) | 2:49 | 2023-03-06 | 2023-03-18 |
 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 | 2022-09-23 | 2023-02-09 |
-| [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 | 2023-09-29 |  |
+| [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 | 2023-09-29 | 2025-02-21 |
 | [kadal neer](https://open.spotify.com/track/243zR3wOd3YtFE9FffQkok) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Kishen Das](https://open.spotify.com/artist/6DsauvajbLYSFMM6qKvdif) | [kadal neer](https://open.spotify.com/album/1BT0PRrp0iwQ0YXNbv5amb) | 2:22 | 2024-12-02 | 2024-12-06 |
 | [Kadan \- Naatpadu Theral \- 2](https://open.spotify.com/track/7GcvJKhW4fnVLDd4xo5nUo) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ramesh Vinayakam](https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL) | [Kadan \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3XNd7WczhkD3LZ0A1sp1aB) | 5:59 | 2022-05-31 | 2022-06-16 |
 | [Kadavul Thandha Azhagiyae](https://open.spotify.com/track/0iXBFNZwScIvOg1RRrpaoF) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:22 | 2022-07-27 | 2022-11-22 |

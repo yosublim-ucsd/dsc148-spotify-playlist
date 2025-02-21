@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Sam Akpro
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,366 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,460 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 43 | [Just To Ask A Dance](https://open.spotify.com/track/6OedvYsB1fRsTWhdnj5fnW) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Glutton For Punishment](https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT) | 4:37 |
 | 44 | [Again](https://open.spotify.com/track/5RjamWdv59INL8YEGUKUO1) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Again](https://open.spotify.com/album/0fqeoihWiRX75Mff3walzT) | 2:35 |
 | 45 | [Dramatique](https://open.spotify.com/track/5xNtYcHeaLw9kvtzYZtXwj) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Dramatique](https://open.spotify.com/album/64Rs1xyVBtbsNEw7DAkfPF) | 3:51 |
-| 46 | [Whips andChains](https://open.spotify.com/track/4khpQWJCbkVwj4305aO4mk) | [Slaughterhouse](https://open.spotify.com/artist/1fCSj7Ce0I5wXuy4xkR3tG) | [Sick and Tired](https://open.spotify.com/album/1joC0P4P45o1yfDqRCfLoA) | 1:28 |
+| 46 | [Whips and Chains](https://open.spotify.com/track/4khpQWJCbkVwj4305aO4mk) | [Slaughterhouse](https://open.spotify.com/artist/1fCSj7Ce0I5wXuy4xkR3tG) | [Sick and Tired](https://open.spotify.com/album/1joC0P4P45o1yfDqRCfLoA) | 1:28 |
 | 47 | [floss is boss](https://open.spotify.com/track/0Dvwt8JQdb2XKvBeJixtny) | [really big really clever](https://open.spotify.com/artist/4N9XT7K7Yk6N2Ee9wZrU0T) | [floss is boss](https://open.spotify.com/album/1G0t8A4L6XokzuKmjpFE41) | 3:06 |
 | 48 | [Yes Chef](https://open.spotify.com/track/4sKx1IURoFRpak7Mgr1aY9) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Yes Chef](https://open.spotify.com/album/4hF06ngLLmK4LfqVVgDX1i) | 1:52 |
 | 49 | [\(infinity bugs\)](https://open.spotify.com/track/1BT1ZFIeIukePahh2QRFsy) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [\(infinity bugs\)](https://open.spotify.com/album/6kE0sfwDAH5oD3VfZ29PdW) | 3:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Four](https://open.spotify.com/track/0IIyQPGHIHj3PChgUd1ilE) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Never Exhale](https://open.spotify.com/album/6FLTTZUT3zqFapjxxLd3mi) | 3:00 |
 | 101 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 |
 
-Snapshot ID: `Z7VlXQAAAABdheta0sfWgv1fdi/8jO7n`
+Snapshot ID: `Z7VlXQAAAADYa249ToRnyGoy10QpLBwd`

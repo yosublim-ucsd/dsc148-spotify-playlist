@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Joaquín Fénix en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,456 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,464 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [El inglés se enseña mal](https://open.spotify.com/track/5hNsJPvi6kSFUUWwDuN1rN) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [El inglés se enseña mal](https://open.spotify.com/album/7vcBeGFtsPQvLJ435FdcJg) | 3:23 |
 | 50 | [Tropezar](https://open.spotify.com/track/1rUv7qNQOT6Ak0eCWPITNg) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:44 |
 
-Snapshot ID: `Z67N/gAAAAAASkoVH4uQ5EB8kf4/jSAX`
+Snapshot ID: `Z67N/gAAAAD5gZlLFy0wIIuYdIW08OYa`

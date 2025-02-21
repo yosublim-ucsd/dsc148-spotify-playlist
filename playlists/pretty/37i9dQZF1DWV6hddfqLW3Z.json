@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 801701,
+  "num_followers": 801743,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z69j1QAAAAC0MmX3dcwgk7kRiOCn3PH7",
+  "snapshot_id": "Z69j1QAAAACQZuBa5LSvJAEgR4EDKzQD",
   "tracks": [
     {
       "added_at": "2025-02-14 15:40:04",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-02-14 15:40:04",
       "album": {
+        "name": "Nossa m\u00fasica",
+        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Nossa m\u00fasica",
+      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2025-02-14 15:40:04",
+      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2025-02-14 15:40:04",
-      "album": {
-        "name": "Nossa m\u00fasica",
-        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 239642,
-      "name": "Nossa m\u00fasica",
-      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
     },
     {
       "added_at": "2025-02-14 15:40:04",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-02-14 15:40:04",
       "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "added_at": "2025-02-14 15:40:04",
+      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2025-02-14 15:40:04",
       "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
-    },
-    {
-      "added_at": "2025-02-14 15:40:04",
-      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 178892,
       "name": "Mentiras - Ao Vivo",
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
-    },
-    {
-      "added_at": "2025-02-14 15:40:04",
-      "album": {
-        "name": "Bananeira",
-        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Bananeira",
-      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
     },
     {
       "added_at": "2025-02-14 15:40:04",
@@ -1111,6 +1091,26 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+    },
+    {
+      "added_at": "2025-02-14 15:40:04",
+      "album": {
+        "name": "Bananeira",
+        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Bananeira",
+      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
     },
     {
       "added_at": "2025-02-14 15:40:04",

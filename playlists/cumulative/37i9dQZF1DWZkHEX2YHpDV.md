@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Arm's Length
 
-1,358 songs - 2 day 23 hr 45 min
+1,359 songs - 2 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [98 Degrees](https://open.spotify.com/track/4Df5LQCm51Md155Wwcf8uU) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [98 Degrees](https://open.spotify.com/album/3CTiPl9nzPo0tOddi73vvi) | 2:47 | 2021-12-10 | 2022-05-20 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 | 2023-12-09 |
 | [\[Reboot\]](https://open.spotify.com/track/0ok2vDeauh7sJT1IxPzQTK) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [\[Reboot\]](https://open.spotify.com/album/3soOQPd1MEVqXwxCFrneun) | 3:22 | 2021-12-10 | 2022-06-16 |
+| [A Broken Face](https://open.spotify.com/track/5YBKEz80gnrrQzR7DwDbrG) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [A Broken Face](https://open.spotify.com/album/3Ch60uEuMDdUNneVrxJXzU) | 1:36 | 2025-02-14 |  |
 | [A Lesson In Dramatics](https://open.spotify.com/track/2Pkdxc8F6xhtuNhRKKWLbY) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe), [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A Lesson In Dramatics](https://open.spotify.com/album/0vSf832krBlezgeQm7NqIK) | 2:33 | 2023-07-14 | 2023-09-16 |
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-11-04 | 2023-04-12 |
 | [A Memory](https://open.spotify.com/track/1NOq8FywCzxFMxIi4ZiUNC) | [Elbow Room](https://open.spotify.com/artist/53pWXyjnYx2aXzUWZPDVpf) | [Constant Mistake](https://open.spotify.com/album/0WcfjNPu4Tzj2IiC0mEcBz) | 4:02 | 2022-03-25 | 2022-04-16 |
@@ -372,7 +373,7 @@
 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 | 2024-07-19 | 2024-12-07 |
 | [End of the World/A Game of Chess](https://open.spotify.com/track/61Wr8Uti1rMxMV0NBv2uOx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [End of the World](https://open.spotify.com/album/1uUnNVwOZxR4RGIZpAHgHS) | 3:56 | 2022-06-24 | 2022-08-03 |
 | [Enemy](https://open.spotify.com/track/7qMpO1Hys70qo0HvE9c4s2) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 3:22 | 2023-11-10 | 2024-05-15 |
-| [Engines](https://open.spotify.com/track/00lDy6qiWazm3H6oKhJVz9) | [Fenix TX](https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr) | [Engines](https://open.spotify.com/album/5JGkKZzm0a9VTIRTcsr5mO) | 3:27 | 2025-01-31 |  |
+| [Engines](https://open.spotify.com/track/00lDy6qiWazm3H6oKhJVz9) | [Fenix TX](https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr) | [Engines](https://open.spotify.com/album/5JGkKZzm0a9VTIRTcsr5mO) | 3:27 | 2025-01-31 | 2025-02-21 |
 | [Enough](https://open.spotify.com/track/4cuIcSljVOACHlGnqLz0EY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Enough](https://open.spotify.com/album/4hzCDeEBOU1v9slj1O7bUs) | 3:21 | 2021-12-10 | 2022-04-20 |
 | [Enough](https://open.spotify.com/track/3r9xPs2waUOzUSQsc9RvLl) | [The Scene Aesthetic](https://open.spotify.com/artist/5E8EP2XI4VkHHUdhGTFKWK) | [Enough](https://open.spotify.com/album/2LQGmaEg6pYWyJYaMqImLh) | 3:46 | 2022-02-04 | 2022-06-22 |
 | [Epitaph](https://open.spotify.com/track/2f7f7JiH5tElV1CxPDpuDD) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Epitaph](https://open.spotify.com/album/3bHTFqQeUE1l6sr3XZS90s) | 3:03 | 2022-02-04 | 2022-04-20 |

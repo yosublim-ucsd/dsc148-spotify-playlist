@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > วาเลนไทน์ ฟังเพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: แดน YEW, mute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,509 likes - 55 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,520 likes - 55 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 |
 | 55 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 |
 
-Snapshot ID: `Z68a6QAAAACGPHwVAYx6wll+gsIl+VJd`
+Snapshot ID: `Z68a6QAAAADeNSQnWpMei8l0xLzs2XRS`

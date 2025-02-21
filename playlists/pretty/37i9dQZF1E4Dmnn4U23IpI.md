@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,478 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,487 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Art3mis & Parzival](https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Stella Le Page](https://open.spotify.com/artist/6VzpJprdrDY9NCo9psNyQr) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:52 |
 | 50 | [Lying to Myself](https://open.spotify.com/track/37A4nDMBJLMiwubQMjCWYo) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 3:29 |
 
-Snapshot ID: `Z7agogAAAADgfzlH67QeHtAcMZ+cnpiA`
+Snapshot ID: `Z7fOwQAAAACcxn0wkBUKly4Bg8Ml53kl`

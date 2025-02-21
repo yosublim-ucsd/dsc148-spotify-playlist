@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mandark
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Jimmy KUAN \(關惠中\)
 
-343 songs - 20 hr 51 min
+345 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 | 2024-10-10 | 2024-10-18 |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2024-09-19 |  |
 | [Disneyland](https://open.spotify.com/track/6fVMbf2gHADlE4rstGL1O9) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [The Make](https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr) | 4:38 | 2024-08-01 | 2024-08-23 |
-| [DISSolve瓦解](https://open.spotify.com/track/6J3PRyKEhp6n3zVCGToJK8) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [DISSolve瓦解](https://open.spotify.com/album/0VI28t5pV37j6bRD5TvUyp) | 1:54 | 2025-01-30 |  |
+| [DISSolve瓦解](https://open.spotify.com/track/6J3PRyKEhp6n3zVCGToJK8) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [DISSolve瓦解](https://open.spotify.com/album/0VI28t5pV37j6bRD5TvUyp) | 1:54 | 2025-01-30 | 2025-02-21 |
 | [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 | 2024-07-04 | 2024-08-02 |
 | [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2024-01-25 | 2025-01-10 |
 | [Don't Know Why](https://open.spotify.com/track/0xjvKbZd4Xw3HcsX6HM7Wq) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Don't Know Why](https://open.spotify.com/album/6T7rNwPedpUw87DnVJWekC) | 3:26 | 2024-12-19 |  |
@@ -115,6 +115,8 @@
 | [I Can't Feel](https://open.spotify.com/track/3767V9CBkByt1ZTVDCtle9) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [I Can't Feel](https://open.spotify.com/album/1mhSBrO628Rxi5hoLbl9sJ) | 3:26 | 2024-11-07 | 2024-11-29 |
 | [I Could](https://open.spotify.com/track/7Ki8b6jPtwoF9aBINZmqG3) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [I Could](https://open.spotify.com/album/4i4FIbpSC1ms15o6HtDf8C) | 3:21 | 2024-02-29 | 2024-03-15 |
 | [I reach for the stars](https://open.spotify.com/track/6Dy6M7uQWa5QxRSPFPecRQ) | [Mikeyyy Jen](https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk) | [I reach for the stars](https://open.spotify.com/album/6plV4pa5eJ8krGWsiZUEXp) | 2:13 | 2024-01-25 |  |
+| [I Still Care For You](https://open.spotify.com/track/3GO4VTsMrIMEE01gLCkMgj) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [I Still Care For You](https://open.spotify.com/album/6dpt3Yp5ZuqWGUpbnDwRwl) | 3:05 | 2025-02-20 |  |
+| [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/track/5g25NbR1XTe48Wmz17rh7R) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/album/363ZIyafmc3TxEhPuZfoJZ) | 2:57 | 2025-02-20 |  |
 | [I Want To Be With You](https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen), [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [I Want To Be With You](https://open.spotify.com/album/3aDWgiykjPhsVwepM3yNaG) | 4:30 | 2024-10-17 | 2024-11-15 |
 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 | 2025-02-13 |  |
 | [I'm Lost](https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ) | [潘婕](https://open.spotify.com/artist/3qX27u4mAqflYeIhY8dOar) | [I'm Lost](https://open.spotify.com/album/07kG46tge4IaR2NMOhtEwv) | 3:25 | 2024-01-25 | 2024-09-27 |
@@ -151,7 +153,7 @@
 | [Meet in the Middle](https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Meet in the Middle](https://open.spotify.com/album/748Lp7MOcqqJhYHtcApkBm) | 4:34 | 2024-07-18 | 2024-12-20 |
 | [Merry Go Round](https://open.spotify.com/track/41312k36is0WtJUS5S3RTb) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Merry Go Round](https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG) | 3:05 | 2024-01-25 | 2024-08-09 |
 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 | 2024-10-24 | 2024-11-15 |
-| [Mikerid 引路](https://open.spotify.com/track/6cwmgl1cUUbLUEsOwwviU5) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [Mikerid 引路](https://open.spotify.com/album/7EXEhgjXJPbCd9KjKbgfjD) | 3:35 | 2025-01-23 |  |
+| [Mikerid 引路](https://open.spotify.com/track/6cwmgl1cUUbLUEsOwwviU5) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [Mikerid 引路](https://open.spotify.com/album/7EXEhgjXJPbCd9KjKbgfjD) | 3:35 | 2025-01-23 | 2025-02-21 |
 | [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 | 2024-11-29 |
 | [Moon](https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Moon](https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa) | 5:35 | 2024-05-30 | 2024-07-05 |
 | [more about you](https://open.spotify.com/track/3PGX7THaDbTHSdoDijMNaV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [more about you](https://open.spotify.com/album/15jd1fNpq1MGOzssezx2uj) | 2:25 | 2024-08-08 | 2024-08-30 |

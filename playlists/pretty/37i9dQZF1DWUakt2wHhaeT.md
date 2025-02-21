@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Adam Lambert in Cabaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,019 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,017 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 50 | [This Time \- from "The Time Traveller's Wife The Musical"](https://open.spotify.com/track/5wONhDccNj4ONVITWprJ1t) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [This Time \(from "The Time Traveller's Wife The Musical"\)](https://open.spotify.com/album/6McCmIvAEFASq3AquTAMzg) | 2:39 |
 | 51 | [Risen](https://open.spotify.com/track/51kR1dYXVfmfBLARCotaVK) | [Jeremy Kushnier](https://open.spotify.com/artist/2lIEXxk8hjg3RtNAk3W250) | [The Gospel According to Heather \(Original Off Broadway Cast\)](https://open.spotify.com/album/1ulMVtw2vvbRRvh0qYJ40C) | 2:41 |
 
-Snapshot ID: `Z1PkwwAAAACucoMW3whmJa0UkR+PvI8i`
+Snapshot ID: `Z1PkwwAAAAAWb7VRIvay5p98ziDQfwgy`

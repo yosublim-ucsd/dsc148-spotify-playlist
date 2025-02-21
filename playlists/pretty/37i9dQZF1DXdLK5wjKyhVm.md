@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,281 likes - 233 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,418 likes - 233 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 232 | [Tea Leaves](https://open.spotify.com/track/7LINIBYL3Nqc4tK7mmmWsx) | [littlehouse](https://open.spotify.com/artist/2FNVpme1c5oaaSp8ubShra), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Tea Leaves](https://open.spotify.com/album/6kWCwBJw2tWfoVWP5gGJAv) | 2:06 |
 | 233 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 
-Snapshot ID: `Z4nV0AAAAADjPC5jYF8RWpMAW8ePQeAL`
+Snapshot ID: `Z4nV0AAAAAC+XfgEOqOGAVHvj5T0l+Ci`

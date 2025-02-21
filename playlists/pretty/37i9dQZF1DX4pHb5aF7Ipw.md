@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover: The PropheC
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,204 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,228 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 18 | [Laal Suha Rang](https://open.spotify.com/track/7rWw4eguIc5TZGCfKZ1rFn) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Laal Suha Rang](https://open.spotify.com/album/4222Ueib10aOn12baqR1as) | 2:06 |
 | 19 | [Far Away](https://open.spotify.com/track/3xMNg7xrFbQbvOhjHHEboW) | [Mizaaj](https://open.spotify.com/artist/5USe0Ic3MmLhBsd8861tz9), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Far Away](https://open.spotify.com/album/6hClYdDz7k71kgbUWxXtIq) | 2:33 |
 | 20 | [Tohar](https://open.spotify.com/track/1h4kPrSOTcG2LWa904bgHP) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Avi $ohal](https://open.spotify.com/artist/7dSFA9gmFQMjp9TBjB96oW) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:18 |
-| 21 | [Kaali Cullinan](https://open.spotify.com/track/3Wq1tTcKBQvs9TWFIkuRph) | [Yuvan](https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt), [Gurbaj](https://open.spotify.com/artist/4xofDh7I2jhxoQBpZpRsgP), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ), [Mb](https://open.spotify.com/artist/0guYBWbXPLtZ8mP4soCVan) | [TRUST THE PROCESS](https://open.spotify.com/album/7KWHTXHfy0gsyYAnn37p1P) | 2:35 |
+| 21 | [Kaali Cullinan](https://open.spotify.com/track/3Wq1tTcKBQvs9TWFIkuRph) | [Yuvan](https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt), [Gurbaj](https://open.spotify.com/artist/4xofDh7I2jhxoQBpZpRsgP), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ), [Mb](https://open.spotify.com/artist/2AlBrBaWtpHRLxsZwPzUIe) | [TRUST THE PROCESS](https://open.spotify.com/album/7KWHTXHfy0gsyYAnn37p1P) | 2:35 |
 | 22 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
 | 23 | [Reshami Rumal](https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Reshami Rumal](https://open.spotify.com/album/6BinEWb7r68vOm0Q69VYWw) | 2:52 |
 | 24 | [Punjab Side](https://open.spotify.com/track/2iYo0ZV94uTjcTvnILatmf) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Punjab Side](https://open.spotify.com/album/3J3fbc0gObeq2U7UlBblSo) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Hustler](https://open.spotify.com/track/2OcY01R8TlA3co5aDHJG2G) | [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Hustler](https://open.spotify.com/album/04G5wa2MYgirsIXWESITcn) | 2:30 |
 | 75 | [The Flow](https://open.spotify.com/track/1Pk7D9aRHKhfu9A5BN18Jf) | [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [The Flow](https://open.spotify.com/album/21ZSpe7ee0L2wQz9PRoJXg) | 2:10 |
 
-Snapshot ID: `Z7RMMwAAAADbRxi2xgSi4pQv7g1cB/ix`
+Snapshot ID: `Z7RMMwAAAAD52LGGu+dFQ1Ch49v6rAbr`

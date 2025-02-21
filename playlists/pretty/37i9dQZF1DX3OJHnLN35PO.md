@@ -9,4 +9,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3OJHnLN35PO.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `Z6OsigAAAACzb6/jUKmx4MbKINE8tej8`
+Snapshot ID: `Z6OsigAAAAAvJWQCwp/xomJUDX/Cds56`

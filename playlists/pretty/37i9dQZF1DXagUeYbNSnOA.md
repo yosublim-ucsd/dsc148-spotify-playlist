@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Baltazar Lora\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,014 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,046 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Valentinoo](https://open.spotify.com/track/3b6p4QnsijQf4xFfKGDSKg) | [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ), [¡Carly](https://open.spotify.com/artist/0K8Zo9AanUegE8ld2OLkHd) | [Valentinoo](https://open.spotify.com/album/17DRgsS4qm0QcRf1CEVPIS) | 2:59 |
 | 50 | [Tomba](https://open.spotify.com/track/6KL01UR8CYgRvrBw8C51nu) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64) | [Tomba](https://open.spotify.com/album/356r80NDVGWqPbHX1A55AO) | 2:44 |
 
-Snapshot ID: `Z7VlXQAAAAC31WwppWoFOWVpqzYmBr3d`
+Snapshot ID: `Z7VlXQAAAAAYgv49u724nx9DDrjkxW3P`

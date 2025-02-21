@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR & Drake, Sabrina Carpenter, Daniel Caesar & Rex Orange County,  Addison Rae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,720 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,744 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [White Wine](https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2) | 2:33 |
 | 100 | [Fuck It](https://open.spotify.com/track/4W2lJzDUYI6mDTUINPQTRC) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1temaUisiC4fnq9A2vGOuE) | 2:16 |
 
-Snapshot ID: `Z67O2QAAAAD3M45PiJiaPVc149KgimS9`
+Snapshot ID: `Z67O2QAAAAAvU8VzzmhcKxQ++9ojo5pu`

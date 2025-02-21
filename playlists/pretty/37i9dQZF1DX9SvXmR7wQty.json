@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N/QAAAAAvY5PymiTXKRy2wYGMy1fD",
+  "snapshot_id": "Z67N/QAAAAAgsCE4zAanAyMPDrxO8R/V",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:45",
@@ -347,22 +347,18 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "1 Minute",
-        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
+        "name": "SHAOLIN",
+        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 186746,
-      "name": "1 Minute",
-      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
+      "duration_ms": 124705,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -387,6 +383,26 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
+        "name": "1 Minute",
+        "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "1 Minute",
+      "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
         "name": "ORIGINAL GANGSTA",
         "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "SHAOLIN",
-        "url": "https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "Sp\u00e9cial",
         "url": "https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 147186,
       "name": "Sp\u00e9cial",
       "url": "https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "H\u00e9las",
+        "url": "https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "H\u00e9las",
+      "url": "https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -479,26 +499,6 @@
       "duration_ms": 176027,
       "name": "Hockey",
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
-        "name": "H\u00e9las",
-        "url": "https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "H\u00e9las",
-      "url": "https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
+        "name": "WIN WIN",
+        "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "duration_ms": 112039,
+      "name": "WIN WIN",
+      "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
         "name": "BIG BODY",
         "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 179388,
       "name": "BIG BODY",
       "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
-        "name": "WIN WIN",
-        "url": "https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE"
-      },
-      "artists": [
-        {
-          "name": "Davy One",
-          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
-        }
-      ],
-      "duration_ms": 112039,
-      "name": "WIN WIN",
-      "url": "https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "Essonne History X",
-        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
+        "name": "Je veux",
+        "url": "https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
         }
       ],
-      "duration_ms": 164533,
-      "name": "Belle madame",
-      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
+      "duration_ms": 132000,
+      "name": "Je veux",
+      "url": "https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

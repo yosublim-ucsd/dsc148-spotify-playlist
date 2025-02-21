@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 90709,
+  "num_followers": 90720,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAAAVUyUPFOVT6DpDUThHiIdI",
+  "snapshot_id": "Z7PNgAAAAAA0fGWQjxYglwnaolp9t/Rv",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 152066,
       "name": "The Irrationality of Rationality",
       "url": "https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 145466,
+      "name": "Take Two Placebos And Call Me Lame",
+      "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
     }
   ],
   "unique_name": "This Is NOFX",

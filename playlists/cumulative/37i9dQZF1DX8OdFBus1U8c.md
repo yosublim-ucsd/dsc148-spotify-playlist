@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : Dabzee & Rishi Roy
 
-230 songs - 12 hr 5 min
+231 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [KAAYI](https://open.spotify.com/track/4POXo4IBs74MRjBB5NctbP) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [KAAYI](https://open.spotify.com/album/6MGV4xLMxk0PcOyCGBmNR2) | 3:08 | 2024-01-15 |  |
 | [KABAR](https://open.spotify.com/track/2qZ887g5AznECp6SyPDiG4) | [Shabab](https://open.spotify.com/artist/2adX9X3TKBcCmzBmc1pcIT) | [KABAR](https://open.spotify.com/album/65HjRHPyEx21z1A7y5rH2S) | 2:36 | 2025-01-08 |  |
 | [Kadha](https://open.spotify.com/track/2l4EVn50WSQIu5Z34hRg1y) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kadha](https://open.spotify.com/album/204Cd7br9ZbJwx8VsVQcsR) | 2:15 | 2024-03-28 | 2024-05-22 |
-| [Kafan](https://open.spotify.com/track/68xGI5z4Uwzvi2ZLEOr3NU) | [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI) | [Kafan](https://open.spotify.com/album/6mytAwiM55TpIc9OBV6BsW) | 2:25 | 2025-01-09 |  |
+| [Kafan](https://open.spotify.com/track/68xGI5z4Uwzvi2ZLEOr3NU) | [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI) | [Kafan](https://open.spotify.com/album/6mytAwiM55TpIc9OBV6BsW) | 2:25 | 2025-01-09 | 2025-02-21 |
 | [Kaipuzha to Balewadi](https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [Kaipuzha to Balewadi](https://open.spotify.com/album/18NoTZC6G1zSKxvKSThiPh) | 2:34 | 2025-01-30 |  |
 | [Kalapila \- V3K Remix](https://open.spotify.com/track/45U5zq3Y9gQqMPlRGJQKK6) | [Street Academics](https://open.spotify.com/artist/0LZRSRpEniupzKWif9FXh6), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Loop Flip](https://open.spotify.com/album/3JnHc13jZk30WkcSCE1Te2) | 3:21 | 2022-04-18 | 2025-02-01 |
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-07-23 |  |
@@ -138,6 +138,7 @@
 | [Namma Stories](https://open.spotify.com/track/3RcS3P11j5PL7ttgEG5viZ) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Namma Stories](https://open.spotify.com/album/4QDOVhXnmdyTc2xWynuCq3) | 3:48 | 2021-12-03 | 2024-04-19 |
 | [Namma Stories](https://open.spotify.com/track/3TmyH58VMepcWFbtPRNlUC) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Namma Stories](https://open.spotify.com/album/6eDPOLEhnYFjOo8SP5qkki) | 3:48 | 2024-02-13 | 2025-02-18 |
 | [Nammal Onnalle](https://open.spotify.com/track/74CPd5lYCGH8unDrOcX9AF) | [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ) | [Nammal Onnalle](https://open.spotify.com/album/7ubLIhSb8kgrGAyAMeQx37) | 3:33 | 2023-07-23 | 2023-09-26 |
+| [Naranga Paal](https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Naranga Paal](https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy) | 2:31 | 2025-02-20 |  |
 | [Ne Mathram](https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [Ne Mathram](https://open.spotify.com/album/1b9FDYIr9PM38BwZzd63bQ) | 3:14 | 2022-06-23 | 2023-08-29 |
 | [Ne Po](https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Ne Po](https://open.spotify.com/album/5RwYNI6oeKE0YGhhwM2H9X) | 2:35 | 2023-07-23 | 2024-05-22 |
 | [Neeyethaa \- From "Naradan"](https://open.spotify.com/track/6UMVbjz1nsK3dIDhEWSiwx) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Neeyethaa \(From "Naradan"\)](https://open.spotify.com/album/5837OVdrRqLzKMjuXmNgWi) | 2:59 | 2022-10-25 | 2024-05-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 170371,
+  "num_followers": 170393,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6ABEQAAAACzsGvzKrTCCxEWnUxT6LDL",
+  "snapshot_id": "Z6ABEQAAAABeWkSGA4pS8osYCs4xVYVl",
   "tracks": [
     {
       "added_at": "2025-02-02 23:34:41",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "Fuwa Fuwa",
+        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 206566,
+      "name": "Fuwa Fuwa",
+      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "Fuwa Fuwa",
-        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 206566,
-      "name": "Fuwa Fuwa",
-      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
         "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -987,22 +1003,6 @@
       "duration_ms": 210276,
       "name": "Every One Minute",
       "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "Flower Garden",
         "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Just Wanna Sing",
-        "url": "https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5"
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
       "artists": [
         {
-          "name": "\u9df2\u5c3e\u4f36\u83dc",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
         }
       ],
-      "duration_ms": 252706,
-      "name": "\u6563\u308b\u6563\u308b\u6e80\u3061\u308b",
-      "url": "https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA"
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1439,6 +1423,22 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "Just Wanna Sing",
+        "url": "https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5"
+      },
+      "artists": [
+        {
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "\u6563\u308b\u6563\u308b\u6e80\u3061\u308b",
+      "url": "https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "duration_ms": 240205,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
       },
       "artists": [
         {
-          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
-          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 240205,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1563,18 +1579,34 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+        "name": "\u8003\u3048\u4e2d",
+        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
+      "duration_ms": 242373,
+      "name": "\u8003\u3048\u4e2d",
+      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1627,38 +1659,6 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "\u8003\u3048\u4e2d",
-        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "\u8003\u3048\u4e2d",
-      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 275935,
-      "name": "Document",
-      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
+    },
+    {
+      "added_at": "2025-02-02 23:34:41",
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/1pjnSakXyIUkTBacbXguWq"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 266453,
+      "name": "\u884c\u3051\u305f\u3089\u3001\u884c\u304f\u308f",
+      "url": "https://open.spotify.com/track/6MlZpIrMtTrb2E64bXnpUK"
     },
     {
       "added_at": "2025-02-02 23:34:41",
@@ -1691,34 +1707,18 @@
     {
       "added_at": "2025-02-02 23:34:41",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+        "name": "enough",
+        "url": "https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2025-02-02 23:34:41",
-      "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/1pjnSakXyIUkTBacbXguWq"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 266453,
-      "name": "\u884c\u3051\u305f\u3089\u3001\u884c\u304f\u308f",
-      "url": "https://open.spotify.com/track/6MlZpIrMtTrb2E64bXnpUK"
+      "duration_ms": 282036,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

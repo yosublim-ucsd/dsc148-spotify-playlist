@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Hwang Karam\(황가람\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: BIBI\(비비\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-593 songs - 1 day 14 hr 47 min
+594 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Blank](https://open.spotify.com/track/2OyX69J0H3ZaO3irKbcemY) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/7xSPokUlRKABb78sL7WRsm) | 3:12 | 2022-03-29 | 2022-06-10 |
 | [blue lagoon](https://open.spotify.com/track/6biXLR6erSRv6PtgTt3Nd9) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [blue lagoon](https://open.spotify.com/album/2J4f8XpnORZvKOxqRmWQfx) | 3:37 | 2022-03-24 | 2022-04-18 |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-07-25 | 2022-07-28 |
+| [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-20 |  |
 | [BMK \- v o K a l \(EN\)](https://open.spotify.com/track/2aBxzp16WH2Kx8wtLQelGz) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 | 2023-12-01 |  |
 | [BMK \- v o K a l \(KR\)](https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3) | [BMK](https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8) | [BMK voKal Audio Liner](https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv) | 0:03 | 2023-12-01 |  |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2021-12-20 | 2022-06-13 |
@@ -579,7 +580,7 @@
 | [배웅](https://open.spotify.com/track/01U1Qm1lGhiwOi0zzFLjUr) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [My Strange Hero Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1J0DyNr0dvnv8ZCeaxLPow) | 3:27 | 2022-01-27 | 2022-04-16 |
 | [보고싶다](https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [천국의 계단 OST](https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq) | 4:04 | 2023-12-01 |  |
 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 | 2023-12-01 |  |
-| [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 | 2025-02-10 |  |
+| [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 | 2025-02-10 | 2025-02-21 |
 | [비상 \- 2021 Remaster Version](https://open.spotify.com/track/4ymit9zQwlWNR35jEBdk6p) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories...속으로 Pt\. 3](https://open.spotify.com/album/0WCdB90PesVFkun2JoNVnV) | 4:21 | 2022-10-24 | 2022-11-24 |
 | [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [사랑과 우정사이](https://open.spotify.com/track/5srgr7ASTh6teJWhmsPZx3) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [사랑과 우정사이](https://open.spotify.com/album/19ZHgSzdZ0G3rZDFUprfBq) | 4:17 | 2024-05-20 | 2024-07-18 |

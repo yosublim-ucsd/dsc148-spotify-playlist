@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,225 likes - 230 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,482 likes - 230 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 229 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 |
 | 230 | [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 |
 
-Snapshot ID: `Z5emqAAAAAAeVk0y8xVyjvuycQ0VmJng`
+Snapshot ID: `Z5emqAAAAAAiBouIoLvWxnW70aHRRfTW`

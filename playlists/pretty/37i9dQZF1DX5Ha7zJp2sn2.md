@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 
 > El sonido de la nueva canción latinoamericana\. Foto: Marta Gómez
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,989 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,993 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 | 59 | [el Alquimista \- versión piano](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista \(versión piano\)](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 |
 | 60 | [Nelly](https://open.spotify.com/track/2ney4ornm9KOwjzk7J1KmN) | [Jaison Neutra](https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf) | [Elegante Arrabalero](https://open.spotify.com/album/7ga13VkKeIGzTZfb61Bt0P) | 3:11 |
 
-Snapshot ID: `Zwi6TgAAAACh83ReSa4L9GBe7s7IbNm8`
+Snapshot ID: `Zwi6TgAAAAB0TPVZS0Giihy4xjrm6v47`

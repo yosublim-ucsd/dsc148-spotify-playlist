@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,157 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,209 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Under The Table](https://open.spotify.com/track/6B5NoqyeXRjS3tfq8MZNcy) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/6xQxmSMnt7HM7toUWaSyYz) | 2:13 |
 | 100 | [can't blame yr dad](https://open.spotify.com/track/6ciqwVllqiTPD09Dga6NIX) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [sentimental slowdown](https://open.spotify.com/album/4G1GdHTCo04M3NrYZL11oL) | 3:15 |
 
-Snapshot ID: `Z66HpgAAAACQfv0KIIIC1c//wZuJDS0f`
+Snapshot ID: `Z66HpgAAAABzO8luRCPTxDkPJZi3T6eX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 198 songs - 9 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 199 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 196 | [Insomniak \(feat\. Rick Ross\)](https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:59 |
 | 197 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 198 | [SEAL Team](https://open.spotify.com/track/0eCofGOAk2fxcaLbw7aR8X) | [DotComNirvan](https://open.spotify.com/artist/0LbaxICOQlJs3MuIRwVpu4), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [SEAL Team](https://open.spotify.com/album/3dTUIZH3zpfJfX3iN1LhiB) | 1:56 |
+| 199 | [1017 \(feat\. Young Thug\)](https://open.spotify.com/track/1jeRnCCFCnyYVF3Y4SUXct) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Green Album](https://open.spotify.com/album/4geeDYVC92n0vnBdeNzWcT) | 3:00 |
 
-Snapshot ID: `AAAd54EYCiWHp9GZl6qpzWlbrAxaqROi`
+Snapshot ID: `AAAd6FnW7IzEl26Z4T1h+G1ezkeqjHj2`

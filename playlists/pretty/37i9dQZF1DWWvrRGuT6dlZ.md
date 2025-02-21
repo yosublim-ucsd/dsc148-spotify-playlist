@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: lovlaine\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,946 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,947 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 76 | [over again](https://open.spotify.com/track/37iW8X8YFVwkfYxW5lvm29) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [over again](https://open.spotify.com/album/3grYbQWNGmymlbMjlV6Qo1) | 2:50 |
 | 77 | [POP IT](https://open.spotify.com/track/1oQxB04uhKjbbWUgr8kMKE) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [STORY TO BE TOLD](https://open.spotify.com/album/1tHrA5f17EVSpA7ZKsNQzs) | 2:59 |
 
-Snapshot ID: `Z5LxjQAAAAANih+73Rz7gir72KTMnQjX`
+Snapshot ID: `Z5LxjQAAAADevPq9rzH5GfLMhHbdPXEz`

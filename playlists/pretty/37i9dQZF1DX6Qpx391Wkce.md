@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,728 likes - 66 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,750 likes - 66 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [My Mind](https://open.spotify.com/track/5Rd2FpUs8UZJvbZln1yfy3) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [My Mind](https://open.spotify.com/album/3iq5wc6NOJSHigqnc4yXsX) | 5:54 |
 | 66 | [Soulstice \- Alberto Ruiz 80 Monster Remix](https://open.spotify.com/track/7kkv6UAd9C6i4leZcwcvWI) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Alberto Ruiz](https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8) | [Colours](https://open.spotify.com/album/5EnuzoFxD2QjtG2VFfZVpF) | 7:25 |
 
-Snapshot ID: `Z240dQAAAAAGMYWRAV3GCAbfynkrdXJH`
+Snapshot ID: `Z240dQAAAAB4L0Y47fDHL4c5Dn7DT6po`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 201216,
+  "num_followers": 201278,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAADGq+dTrsrvqADJHDSVrV6t",
+  "snapshot_id": "Z7UfAAAAAAB0jfFBGnY13EijOYOithOP",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Un Destello De Tu Gloria - En Vivo",
-      "url": "https://open.spotify.com/track/1p857QcWbg695PflPkPYIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soplando Vida",
         "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 255120,
       "name": "Soplando Vida",
       "url": "https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 333173,
+      "name": "Un Destello De Tu Gloria - En Vivo",
+      "url": "https://open.spotify.com/track/1p857QcWbg695PflPkPYIE"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 342613,
-      "name": "Sentado En Su Trono",
-      "url": "https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg"
+      "duration_ms": 443973,
+      "name": "Mi Jes\u00fas, Mi Amado",
+      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 443973,
-      "name": "Mi Jes\u00fas, Mi Amado",
-      "url": "https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x"
+      "duration_ms": 342613,
+      "name": "Sentado En Su Trono",
+      "url": "https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg"
     },
     {
       "added_at": null,

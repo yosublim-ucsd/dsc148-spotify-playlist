@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, GIVĒON, Miguel and more
+> With Brent Faiyaz, Sonder, Avenoir and more
 
 637 songs - 1 day 12 hr 12 min
 

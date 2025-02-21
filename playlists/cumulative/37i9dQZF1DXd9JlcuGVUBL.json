@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=6AtyPSCxScmHUY5VnPBwgA\">Tamlyn Wessels</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4?si=loNMQHsmQVaNSeljhqQIjg\">Christi van Niekerk</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Bettie Steyn",
+        "url": "https://open.spotify.com/album/0XrBBBIemMh42oYyyDUtoV"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141523,
+      "name": "Bettie Steyn",
+      "url": "https://open.spotify.com/track/3ro14Kc1NPg72rQKQJTkbS"
+    },
+    {
+      "album": {
         "name": "Black Coffee",
         "url": "https://open.spotify.com/album/29aot6JOzcSkH3ad3b9jFN"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 170375,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/4XXNTT4WD4HUthuoSqT97K"
+    },
+    {
+      "album": {
+        "name": "Burning All Bridges",
+        "url": "https://open.spotify.com/album/0qOoFNvSY9Y5apzuTpikxw"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Supra",
+          "url": "https://open.spotify.com/artist/5X0xyiVN7qe5zmXUYFKES6"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164075,
+      "name": "Burning All Bridges",
+      "url": "https://open.spotify.com/track/2fXUAbGAUiucfU8SCUn8t7"
     },
     {
       "album": {
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182880,
       "name": "Lui Voete",
       "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
@@ -1562,7 +1598,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 186421,
       "name": "Nothin On",
       "url": "https://open.spotify.com/track/7zDBSZ6vaE969hD5YxpUXf"
@@ -1634,7 +1670,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 162333,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/6JX0MgOc94PlAZTA4BON7c"
@@ -1887,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "So Much of You",
+        "url": "https://open.spotify.com/album/7mqsySr7kvTj9gUe5mv2L5"
+      },
+      "artists": [
+        {
+          "name": "Jeandr\u00e9",
+          "url": "https://open.spotify.com/artist/5Ch2OQRlnl1tDkmwCkRNli"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250067,
+      "name": "So Much of You",
+      "url": "https://open.spotify.com/track/7nGWCvaCcmNzAITiDdN7XQ"
+    },
+    {
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -1963,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Stay in Your Lane",
+        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
+      },
+      "artists": [
+        {
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209417,
+      "name": "Stay in Your Lane",
+      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
+    },
+    {
+      "album": {
         "name": "Stof Skop",
         "url": "https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx"
       },
@@ -2010,7 +2086,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"

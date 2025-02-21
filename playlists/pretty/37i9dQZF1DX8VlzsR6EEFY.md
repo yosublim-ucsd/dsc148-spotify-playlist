@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Victor García, Luis Ángel El Flaco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,299 likes - 81 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,350 likes - 81 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 80 | [El Concierto de mi Vida](https://open.spotify.com/track/2i6xB3VJ6nu4sIkqEDPDas) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [El Concierto de mi Vida](https://open.spotify.com/album/1fygi1kVK236WxthwlHyBr) | 2:33 |
 | 81 | [Qué Equivocada Estás](https://open.spotify.com/track/1j3RcqUxhxt06tF5Z4wg8B) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Qué Equivocada Estás](https://open.spotify.com/album/5u9CalEAoWNO1J2eobxQjC) | 4:03 |
 
-Snapshot ID: `Z5fzwwAAAAD+liAYQpB6qcHRddokm08C`
+Snapshot ID: `Z5fzwwAAAADnlqLoB2taLSNycsmAKG7d`

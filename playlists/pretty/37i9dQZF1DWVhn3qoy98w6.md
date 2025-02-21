@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: PANTERA BLUE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,351 likes - 74 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,361 likes - 74 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 73 | [Último Verano](https://open.spotify.com/track/31n8ZqLiUTLPGq08AWbd2i) | [Gume](https://open.spotify.com/artist/5wnw2uz7xQBuzIQIsy1ujO) | [Último Verano](https://open.spotify.com/album/5K8FahMfrGmytzar9whlGD) | 2:00 |
 | 74 | [Amor Líquido](https://open.spotify.com/track/7hWrOQRhi7IDe2EhC2cYKb) | [sanmi](https://open.spotify.com/artist/3Zs12jhNmvJK4eow8Si1gy) | [Amor Líquido](https://open.spotify.com/album/6njZfSKFiRJnYSFeivZjB8) | 2:35 |
 
-Snapshot ID: `Z7URBQAAAADWS2x503/5rCyYEiQc8CaU`
+Snapshot ID: `Z7URBQAAAAApcpXQfZIUNFWnnFpe+g1O`

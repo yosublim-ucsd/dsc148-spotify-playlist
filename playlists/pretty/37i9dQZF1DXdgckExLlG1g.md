@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,869 likes - 55 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,863 likes - 55 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 54 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 55 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `Z68WCwAAAACjhYXgVbt85HCT6Dy9yfVX`
+Snapshot ID: `Z68WCwAAAABf+EyLWUjvMQg60BtKf6ki`

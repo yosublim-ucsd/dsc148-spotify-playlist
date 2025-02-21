@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Bieber, Charlie Puth and more
+> With Bruno Mars, Justin Bieber, Dua Lipa and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,628 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,632 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 | 49 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 |
 | 50 | [Marvin Gaye \(feat\. Wale\) \- Remix](https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:20 |
 
-Snapshot ID: `Z7agpwAAAAD3YjnYY5xrwys7JMpw0zaI`
+Snapshot ID: `Z7fzjQAAAABhHD9iOenDlU0pFdrRdN3o`

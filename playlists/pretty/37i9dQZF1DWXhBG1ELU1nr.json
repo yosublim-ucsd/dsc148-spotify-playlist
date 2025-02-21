@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 234989,
+  "num_followers": 235059,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zd5CyQAAAABQInksXhktu2M5uWhHiKsc",
+  "snapshot_id": "Zd5CyQAAAAB2NJYbskYhtGZ1ct1Xc8TB",
   "tracks": [
     {
       "added_at": "2024-02-27 20:15:05",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -692,10 +692,6 @@
       },
       "artists": [
         {
-          "name": "Daron Malakian",
-          "url": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
-        },
-        {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
@@ -971,22 +967,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
-      },
-      "artists": [
-        {
-          "name": "10,000 Maniacs",
-          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Because the Night - Live Unplugged",
-      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo Em S\u00e3o Paulo / 1999)",
         "url": "https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg"
       },
@@ -999,6 +979,22 @@
       "duration_ms": 272000,
       "name": "Hoje A Noite N\u00e3o Tem Luar (Hoy Me Voy Para M\u00e9xico) - Ao Vivo Em S\u00e3o Paulo / 1999",
       "url": "https://open.spotify.com/track/0dHTMMFAzlk164gZ7YB1rG"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+      },
+      "artists": [
+        {
+          "name": "10,000 Maniacs",
+          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Because the Night - Live Unplugged",
+      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1163,22 +1159,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -1191,6 +1171,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1419,22 +1415,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "The Joshua Tree (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
       },
@@ -1447,6 +1427,22 @@
       "duration_ms": 328093,
       "name": "Listen To Your Heart",
       "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "The Joshua Tree (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1515,22 +1511,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Hopes and Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "A Arte De Cazuza",
         "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
       },
@@ -1543,6 +1523,22 @@
       "duration_ms": 222200,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Hopes and Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
     },
     {
       "added_at": "2024-02-27 20:15:05",

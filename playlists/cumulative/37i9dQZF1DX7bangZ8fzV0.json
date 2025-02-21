@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=oAE-sEhZSaiMWvRUbhKyLA\">Tamlyn Wessels</a> ",
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=YXHLEABeQBqT-FSGMkLuMg\">Ruhan Du Toit</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1056,6 +1056,24 @@
       "duration_ms": 145684,
       "name": "EEN TWEE",
       "url": "https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2"
+    },
+    {
+      "album": {
+        "name": "Ek Hou Van",
+        "url": "https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192295,
+      "name": "Ek Hou Van",
+      "url": "https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY"
     },
     {
       "album": {
@@ -4786,7 +4804,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 155409,
       "name": "Wes Kaap",
       "url": "https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI"

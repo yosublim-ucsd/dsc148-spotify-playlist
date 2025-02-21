@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 49 | [1984](https://open.spotify.com/track/3OT1OWjqzG5aqAqUrN297t) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [1984](https://open.spotify.com/album/06oDgcuzei9MKffwRgw98C) | 4:10 |
 | 50 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
 
-Snapshot ID: `Z7agpgAAAABa2cLN7TfEkHVdVLoCNQbs`
+Snapshot ID: `Z7fziwAAAABzDXegAzIYLIGwncafBPI4`

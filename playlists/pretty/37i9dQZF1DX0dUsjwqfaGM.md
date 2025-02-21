@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,939 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,940 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [SapoChê](https://open.spotify.com/track/0JLgKwxlXWgXMw40M2Xe6v) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [SapoChê](https://open.spotify.com/album/27s6PKqAn7rCHXtoyzFe0m) | 3:30 |
 | 50 | [Đi chơi về khuya](https://open.spotify.com/track/6I9E4JRzz4NmeUHGDXbsyS) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 4:38 |
 
-Snapshot ID: `Z4nuXAAAAAC8cP/8FlKej8y6XsrOPx08`
+Snapshot ID: `Z4nuXAAAAADcKWPGQcnRT+XloGKJ2gQZ`

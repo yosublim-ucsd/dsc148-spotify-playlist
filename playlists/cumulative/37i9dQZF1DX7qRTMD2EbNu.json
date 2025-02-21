@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Joey b",
+  "description": "Hottest bars coming live from the 233.  Cover: Beeztrap KOTM",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -1676,6 +1676,32 @@
       "duration_ms": 166530,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg"
+    },
+    {
+      "album": {
+        "name": "BANG BANG BANG",
+        "url": "https://open.spotify.com/album/6wyuQZjF2vOgkPGdBE8MuL"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216886,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0YCknECT4hjx3AiMWecAwh"
     },
     {
       "album": {
@@ -5814,7 +5840,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 204611,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2y2624vyJUEGPI7Z7ID9mE"

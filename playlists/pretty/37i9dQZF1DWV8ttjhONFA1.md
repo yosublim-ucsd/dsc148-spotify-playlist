@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Diosque
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,707 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,708 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Fin del día](https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Fin del día](https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j) | 4:37 |
 | 100 | [ya está, ya fue :\(](https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [ya está, ya fue :\(](https://open.spotify.com/album/6fvSV5TC6POgSYhMvZAqkV) | 3:05 |
 
-Snapshot ID: `Z66xuwAAAAD58PpP4webD2OfPPKvWb1k`
+Snapshot ID: `Z66xuwAAAAAXUP69jWWXDMRhFCrwAdil`

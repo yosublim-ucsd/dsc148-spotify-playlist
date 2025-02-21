@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 254142,
       "name": "Apa Fer Milaange",
       "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
@@ -8916,6 +8916,28 @@
       "duration_ms": 199534,
       "name": "Khuda Qurban (From \"Bibi Rajni\")",
       "url": "https://open.spotify.com/track/1KNX0PtjsneFeNt8wfydZU"
+    },
+    {
+      "album": {
+        "name": "Khulle Aasmaan",
+        "url": "https://open.spotify.com/album/1zAkoiHmUOlICFeYAsPEFE"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219061,
+      "name": "Khulle Aasmaan",
+      "url": "https://open.spotify.com/track/2zZMYUiTPcXN1mY5RrER33"
     },
     {
       "album": {
@@ -19132,6 +19154,24 @@
       "duration_ms": 132085,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO"
+    },
+    {
+      "album": {
+        "name": "Tu Ae Mera",
+        "url": "https://open.spotify.com/album/4Fll8pKZSs4zobfo2lloEf"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150230,
+      "name": "Tu Ae Mera",
+      "url": "https://open.spotify.com/track/0kaadDImKbYPk4MXP2H8JV"
     },
     {
       "album": {

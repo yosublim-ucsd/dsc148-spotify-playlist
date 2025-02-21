@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 做自己，驚咩啊
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,149 likes - 19 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 18 | [我養你 Pamper Ü](https://open.spotify.com/track/2xHtMhtGFjKGNZ6AibKDpz) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [我養你 Pamper Ü](https://open.spotify.com/album/6BDOJxX6c4XbgBWkYT1VB6) | 2:56 |
 | 19 | [七⼗⼆變](https://open.spotify.com/track/4FZlcTftXiBVqDShBWWrMo) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [七⼗⼆變](https://open.spotify.com/album/5NWCD7F3EGIxF7qcuwyqD1) | 2:59 |
 
-Snapshot ID: `ZzGupAAAAADBLftbop43twKIO8fFpjk1`
+Snapshot ID: `ZzGupAAAAABBNQfh/HnieNC+IPgWECL1`

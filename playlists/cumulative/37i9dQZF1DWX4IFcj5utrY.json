@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi?si=d_vew40_TqSrIpLSZkf7Ww\">TRESOR</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=reuhoRpsS4KrnLArXQNJkA\">Drega</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 427118,
       "name": "1000 Seconds - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/10TbShpB6filtUg2GJqLtA"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -7342,6 +7342,24 @@
       "duration_ms": 337102,
       "name": "Flames - Black Circle Remix",
       "url": "https://open.spotify.com/track/4MsXlIuplLGWVQj7BztbSR"
+    },
+    {
+      "album": {
+        "name": "Flight Of Hope",
+        "url": "https://open.spotify.com/album/5YkzoV9J3zL8MG2MILgGI2"
+      },
+      "artists": [
+        {
+          "name": "Suffocate SA",
+          "url": "https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428107,
+      "name": "Flight Of Hope",
+      "url": "https://open.spotify.com/track/0ltIY6u9LENBEnoJrIUkif"
     },
     {
       "album": {
@@ -16188,7 +16206,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -17010,7 +17028,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 233898,
       "name": "Parachute (feat. Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed"
@@ -17742,6 +17760,32 @@
       "duration_ms": 255121,
       "name": "Queen of Ice - Nora En Pure Club Mix",
       "url": "https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR"
+    },
+    {
+      "album": {
+        "name": "Rain Queen (Mas\u0161h Remix)",
+        "url": "https://open.spotify.com/album/2DxaYGuLHQVEHt3YJpolp0"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389485,
+      "name": "Rain Queen - Mas\u0161h Remix",
+      "url": "https://open.spotify.com/track/69DgAPtwvtelXRlEW7sMSD"
     },
     {
       "album": {
@@ -19056,7 +19100,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 216774,
       "name": "Send Me - Doug Gomez Remix",
       "url": "https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO"
@@ -21125,6 +21169,24 @@
     },
     {
       "album": {
+        "name": "Kharnju II",
+        "url": "https://open.spotify.com/album/3dzzLzZMO9oZasaIgMs6LI"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430087,
+      "name": "Tanka Tanka",
+      "url": "https://open.spotify.com/track/24T4jR99ORYmWAQ2q0vKyS"
+    },
+    {
+      "album": {
         "name": "Tantalizing",
         "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
       },
@@ -23174,7 +23236,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 187543,
       "name": "Ululations",
       "url": "https://open.spotify.com/track/2odXp60K1fqdveno4qMHx0"

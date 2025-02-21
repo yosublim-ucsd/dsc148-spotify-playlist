@@ -1,12 +1,12 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1067168,
+  "num_followers": 1067167,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7WJrgAAAAAJ020DQRg4BttY4EQd6yYh",
+  "snapshot_id": "Z7WJrgAAAACVKutJdFMjqInW4lvIRxtD",
   "tracks": [
     {
       "added_at": "2025-02-19 07:35:10",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 169771,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
         "name": "i don't mind floating",
         "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 174240,
       "name": "september lightning",
       "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 169771,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
+        "name": "This Sunset",
+        "url": "https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "This Sunset",
+      "url": "https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
         "name": "born in the teens",
         "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
       },
@@ -1347,22 +1367,6 @@
       "duration_ms": 193017,
       "name": "heartache in july",
       "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1383,6 +1387,22 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
@@ -1395,22 +1415,6 @@
       "duration_ms": 187795,
       "name": "maybe",
       "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 267100,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1431,6 +1435,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 267100,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1475,6 +1495,22 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 256670,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+    },
+    {
+      "added_at": "2025-02-19 07:35:10",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -1495,18 +1531,18 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "Someone Special",
-        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 256670,
-      "name": "Someone Special",
-      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1563,18 +1599,18 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1599,22 +1635,6 @@
       "duration_ms": 151500,
       "name": "Mitternacht (feat. Josi Miller)",
       "url": "https://open.spotify.com/track/4eiBSDEa9x6fEpA2fy94vU"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
-        "name": "How?",
-        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "How?",
-      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2025-02-19 07:35:10",
@@ -1651,22 +1671,6 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
-    },
-    {
-      "added_at": "2025-02-19 07:35:10",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
       },
@@ -1687,22 +1691,18 @@
     {
       "added_at": "2025-02-19 07:35:10",
       "album": {
-        "name": "This Sunset",
-        "url": "https://open.spotify.com/album/4MKOGWAwpOHcmXBRFrYNxm"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
       "artists": [
         {
-          "name": "Ruffnux",
-          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 152000,
-      "name": "This Sunset",
-      "url": "https://open.spotify.com/track/0H3GBkjQdcX6bbcw1EtpSN"
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2025-02-19 07:35:10",

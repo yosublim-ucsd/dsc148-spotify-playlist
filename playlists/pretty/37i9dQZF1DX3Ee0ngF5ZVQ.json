@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410658,
+  "num_followers": 410694,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY7AAAAAA+jrizS9jpRTCWIw1PuKnt",
+  "snapshot_id": "Z5xY7AAAAABhINowLWtKWym+OtUc/3af",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:28",
@@ -391,18 +391,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+        "name": "Honky Tonkin' About",
+        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
         }
       ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+      "duration_ms": 185315,
+      "name": "Honky Tonkin' About",
+      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -427,22 +431,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Honky Tonkin' About",
-        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
       "artists": [
         {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        },
-        {
-          "name": "Drake Milligan",
-          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 185315,
-      "name": "Honky Tonkin' About",
-      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -575,8 +575,8 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 201211,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -691,8 +691,8 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
+      "duration_ms": 201211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "Work Boots and More from Leather",
+        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "Work Boots",
+      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Work Boots and More from Leather",
-        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "Work Boots",
-      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Haggard Blues",
-        "url": "https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK"
+        "name": "Learnin' my Lesson",
+        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Wes Bayliss",
+          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
         }
       ],
-      "duration_ms": 187758,
-      "name": "Haggard Blues",
-      "url": "https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW"
+      "duration_ms": 187089,
+      "name": "Learnin' my Lesson",
+      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Learnin' my Lesson",
-        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
+        "name": "Haggard Blues",
+        "url": "https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK"
       },
       "artists": [
         {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Wes Bayliss",
-          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 187089,
-      "name": "Learnin' my Lesson",
-      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
+      "duration_ms": 187758,
+      "name": "Haggard Blues",
+      "url": "https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Same Ol\u2019 Cowboy, Different Rodeo",
-        "url": "https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "There's A Drink For That",
-      "url": "https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
         "name": "Boys Growing Up",
         "url": "https://open.spotify.com/album/4PV7QhsKFblKMyMQCFXBct"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
+        "name": "Same Ol\u2019 Cowboy, Different Rodeo",
+        "url": "https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "There's A Drink For That",
+      "url": "https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
         "name": "The Droptines",
         "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
         "name": "Till You",
         "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 206016,
       "name": "Till You",
       "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+    },
+    {
+      "added_at": "2025-01-31 05:00:28",
+      "album": {
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "Never Not Love You",
-        "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Whiskey to Work",
-      "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-01-31 05:00:28",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2025-01-31 05:00:28",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+        "name": "Never Not Love You",
+        "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+      "duration_ms": 204933,
+      "name": "Whiskey to Work",
+      "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
     }
   ],
   "unique_name": "Texas Country Now",

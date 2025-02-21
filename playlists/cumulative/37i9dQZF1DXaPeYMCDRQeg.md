@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-338 songs - 22 hr 21 min
+339 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Cooking With Grease](https://open.spotify.com/track/1AXQGKyaAp4JbRjHnCTBIr) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Cooking With Grease](https://open.spotify.com/album/7LZUM8AbeflII80VGpi0r7) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-12-15 | 2023-02-11 |
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2022-03-14 | 2023-02-11 |
-| [CRYING IN CHANEL](https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:19 | 2025-02-14 |  |
+| [CRYING IN CHANEL](https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:19 | 2025-02-14 | 2025-02-21 |
 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 | 2021-12-15 | 2023-02-11 |
 | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/track/5ELIl3vnSY0mF7jpf7lyhC) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Jimi Tents](https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg), [Garren](https://open.spotify.com/artist/0963LEoOeEvJqPRYH9eG7X) | [Curious \(feat\. Jimi Tents & Garren\)](https://open.spotify.com/album/6lpJujucgwCYj9fw15Gmsc) | 4:10 | 2021-12-15 | 2022-07-29 |
 | [DAMAGED GOODS](https://open.spotify.com/track/06epYIK3ECrIKlVxmZwVZ7) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI) | [Archives](https://open.spotify.com/album/1G2rgOUVGdVzOEIjsqDGOX) | 2:53 | 2024-04-29 | 2024-06-16 |
@@ -187,6 +187,7 @@
 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 | 2021-12-15 | 2022-04-22 |
 | [Like I Want You](https://open.spotify.com/track/1RohgA8t3qiVc5HcAroDgf) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 4:20 | 2022-03-14 | 2023-02-11 |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2021-12-15 | 2023-02-04 |
+| [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2025-02-20 |  |
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2024-01-31 |  |
 | [Love Again](https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Love Again](https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN) | 2:34 | 2022-02-18 | 2022-03-10 |
 | [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/51zMVZ0d9XOwsWvgz4kFZb) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 | 2024-01-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: HAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,001 likes - 88 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,004 likes - 88 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 87 | [Beetay Zamaney \- Unplugged](https://open.spotify.com/track/1DpoA4o7FeG9jMofUpHiNB) | [Salman Masood](https://open.spotify.com/artist/281oSMLaN71SO2JzZgPsKj) | [Beetay Zamaney \(Unplugged\)](https://open.spotify.com/album/4YFnTtk2SZwfBlwqhf44vJ) | 1:33 |
 | 88 | [Sexy Sheikh](https://open.spotify.com/track/4balFpzF3GPWrfiR1MerAG) | [SHISHU HERRY](https://open.spotify.com/artist/5xAPMFif4zPX0FcwfK74Z3), [Wicked Sunny](https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa), [Sami Amiri](https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP) | [Sexy Sheikh](https://open.spotify.com/album/51il7cYFC252GNk89ppzUH) | 2:52 |
 
-Snapshot ID: `Z6sd4wAAAADKNPauHUzbLxB+Lkju6WYS`
+Snapshot ID: `Z6sd4wAAAAA+7RSp4JOyGUc73/rHQJER`

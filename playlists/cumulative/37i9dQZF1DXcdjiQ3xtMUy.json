@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Eleni Foureira, Christos Mastoras",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Klavdia",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -134,6 +134,28 @@
       "duration_ms": 180000,
       "name": "Aeroplano",
       "url": "https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg"
+    },
+    {
+      "album": {
+        "name": "Agapi Mou",
+        "url": "https://open.spotify.com/album/5W7Bv6F9oRD67Hfo9njREK"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123451,
+      "name": "Agapi Mou",
+      "url": "https://open.spotify.com/track/0SCB23ZKWE9ve7Vpji1wLv"
     },
     {
       "album": {
@@ -381,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Ap' Ton Ourano",
+        "url": "https://open.spotify.com/album/2BjaxMiv8oijoLmSLV6l6d"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258600,
+      "name": "Ap' Ton Ourano",
+      "url": "https://open.spotify.com/track/1QcHKq0Y7pue3WYWVmmIGS"
+    },
+    {
+      "album": {
         "name": "Apo To 1 Os To 100",
         "url": "https://open.spotify.com/album/67RpKgF2mR9tKCtZqvJMBb"
       },
@@ -512,7 +552,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 146000,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt"
@@ -820,7 +860,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 166764,
       "name": "Exeis Ta Matia 2024",
       "url": "https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0"
@@ -1027,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/26ih0j76ltsP8nt5n2TDGv"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180125,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4PcUMCVKU27h5l9jBXvUOJ"
+    },
+    {
+      "album": {
         "name": "50 Years (Live at Odeon of Herodes Atticus)",
         "url": "https://open.spotify.com/album/31Er5ZZpjPKHNQx1z8IPeC"
       },
@@ -1078,6 +1136,28 @@
       "duration_ms": 137400,
       "name": "Irema To Leo",
       "url": "https://open.spotify.com/track/4L9tzIelOaND2gIkVVwK4M"
+    },
+    {
+      "album": {
+        "name": "ISOS SICARIO REMIX",
+        "url": "https://open.spotify.com/album/48QgTIugLApqfKWm2Ypqfd"
+      },
+      "artists": [
+        {
+          "name": "ONEMANSHOW",
+          "url": "https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR"
+        },
+        {
+          "name": "Levianth",
+          "url": "https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190005,
+      "name": "ISOS SICARIO REMIX",
+      "url": "https://open.spotify.com/track/4YtpcUfLPzymYNLkXRlqZ3"
     },
     {
       "album": {
@@ -1268,7 +1348,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 164755,
       "name": "LALALALA - Remix",
       "url": "https://open.spotify.com/track/7i1PClgbxW5GQCIxFuS9eW"
@@ -1730,7 +1810,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 139672,
       "name": "Our Groove",
       "url": "https://open.spotify.com/track/5uj9FIJ6JsKvvkINJepyCi"
@@ -2012,7 +2092,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 219707,
       "name": "Protagonistes",
       "url": "https://open.spotify.com/track/7eU0GAZD508EQ2JLHyyYRv"
@@ -2230,6 +2310,24 @@
       "duration_ms": 292478,
       "name": "Taxidi",
       "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
+    },
+    {
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/1w9avdSSsgMi0zFRzbiEZY"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157227,
+      "name": "Thes Thelo",
+      "url": "https://open.spotify.com/track/0JgU6taqN6BU2FpTLWzRkP"
     },
     {
       "album": {

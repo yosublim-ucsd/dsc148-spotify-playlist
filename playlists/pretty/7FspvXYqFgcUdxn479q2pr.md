@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: LAWRENT, Thierry Von Der Warth
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,499 likes - 44 songs - 2 hr 5 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,498 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,10 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 42 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
 | 43 | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/track/5bXWpj4RxYxMtichvf4Rwe) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Adnan Veron](https://open.spotify.com/artist/0YpOe2SiYZVcWvrHiCV17W), [Erga](https://open.spotify.com/artist/3aJ68Ih0UWLFSwyPxWKRMa), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/album/6VN8CODkyWNadiJ6okvaOj) | 3:01 |
 | 44 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 |
+| 45 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
+| 46 | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [FeniFina](https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ) | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej) | 2:30 |
+| 47 | [Deaf by Stereo](https://open.spotify.com/track/7fi7L1Y3bjA6xmhC2PUmLT) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Deaf by Stereo](https://open.spotify.com/album/0F2lBgnTU0ws7Zh3HYKO5u) | 2:16 |
+| 48 | [Hometown Hero](https://open.spotify.com/track/0xobh82ftL8JRfZ7dvNmrA) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Hometown Hero](https://open.spotify.com/album/5tJ3ruGQb5bVYQ5oP8ZUuN) | 2:50 |
+| 49 | [Over Now](https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Over Now](https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA) | 3:04 |
 
-Snapshot ID: `AAAr9ip6Xx/MlcE8fvEpnbKF+2SsTUJR`
+Snapshot ID: `AAAr+GueoRjjZDnQiKfYlxQRMozN5v8M`

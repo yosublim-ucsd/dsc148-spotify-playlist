@@ -1,12 +1,12 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 194445,
+  "num_followers": 194502,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7PAAAAAD0yBrhnr/RjDanBH+C9B45",
+  "snapshot_id": "Zuy7PAAAAAAUUkFjnUAfao73vaSJXfDO",
   "tracks": [
     {
       "added_at": "2024-09-20 00:01:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Floaty Boaty",
+        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
+      },
+      "artists": [
+        {
+          "name": "House Tours",
+          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Floaty Boaty",
+      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
-        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
-      },
-      "artists": [
-        {
-          "name": "Puerto Austral",
-          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
-        }
-      ],
-      "duration_ms": 213512,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 231640,
       "name": "Gemelos C\u00f3ctel",
       "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
+        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
+      },
+      "artists": [
+        {
+          "name": "Puerto Austral",
+          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
+        }
+      ],
+      "duration_ms": 213512,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Canis Allegro",
-        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
-      },
-      "artists": [
-        {
-          "name": "DJ Perro",
-          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
-        }
-      ],
-      "duration_ms": 302869,
-      "name": "Jazztas",
-      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Muted Earth",
         "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "ARUKAS",
-        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
+        "name": "Canis Allegro",
+        "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "DJ Perro",
+          "url": "https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE"
         }
       ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
+      "duration_ms": 302869,
+      "name": "Jazztas",
+      "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -903,6 +903,22 @@
       "duration_ms": 395146,
       "name": "D'arcy",
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "ARUKAS",
+        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Floaty Boaty",
-        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
-      },
-      "artists": [
-        {
-          "name": "House Tours",
-          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Floaty Boaty",
-      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Imago",
         "url": "https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Sorrow EP",
-        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
-      },
-      "artists": [
-        {
-          "name": "Oh No! Yoko",
-          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
-        }
-      ],
-      "duration_ms": 138891,
-      "name": "Mimi Ashi",
-      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Valerio Benustelli",
         "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 206007,
       "name": "Valerio Benustelli",
       "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Sorrow EP",
+        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
+      },
+      "artists": [
+        {
+          "name": "Oh No! Yoko",
+          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
+        }
+      ],
+      "duration_ms": 138891,
+      "name": "Mimi Ashi",
+      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+      },
+      "artists": [
+        {
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Gagarin",
-        "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
       "artists": [
         {
-          "name": "Katana Koala Kiwi",
-          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
         }
       ],
-      "duration_ms": 188485,
-      "name": "Gagarin",
-      "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
+        "name": "Gagarin",
+        "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
       },
       "artists": [
         {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+      "duration_ms": 188485,
+      "name": "Gagarin",
+      "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
     },
     {
       "added_at": "2024-09-20 00:01:00",

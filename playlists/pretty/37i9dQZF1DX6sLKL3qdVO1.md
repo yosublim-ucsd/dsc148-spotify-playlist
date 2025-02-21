@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. El Jordan 23 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,721 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,710 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 49 | [G O D D E S S](https://open.spotify.com/track/6CqT8nNfeFX89UaZQn6eIa) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [G O D D E S S](https://open.spotify.com/album/3Nu0PN3Oiw7Z1yCqDubU4m) | 2:35 |
 | 50 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 |
 
-Snapshot ID: `Z67b9wAAAAC8mx+qiI7sjWnuuEhykYt0`
+Snapshot ID: `Z67b9wAAAAC6SDYw1gHpunwvzzMIsMFI`

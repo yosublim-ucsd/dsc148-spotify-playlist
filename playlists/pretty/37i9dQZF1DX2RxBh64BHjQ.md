@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">GELO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,790,882 likes - 99 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,791,069 likes - 99 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
 | 99 | [Wavy Navy University](https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Wavy Navy University](https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa) | 2:00 |
 
-Snapshot ID: `Z7WPaAAAAABLzHV/E+DIdwXVS/Fjeh94`
+Snapshot ID: `Z7WPaAAAAAAyJ1b3qyPwM66aN7GG5OxR`

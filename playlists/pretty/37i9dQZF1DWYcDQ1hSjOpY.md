@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,992,886 likes - 226 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,993,125 likes - 226 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 225 | [Argenteus](https://open.spotify.com/track/3DIHHlerF1iuu5oJDcXG5h) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Argenteus](https://open.spotify.com/album/0l3huQuLBA6cM1L6Ak74lT) | 2:58 |
 | 226 | [Siesta](https://open.spotify.com/track/1of1w719lgQC4RxNrXNAHh) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Siesta](https://open.spotify.com/album/7BvVjal3EM8Y4UmhcCwvkB) | 2:42 |
 
-Snapshot ID: `Z66/yQAAAAC7itt0klJmXZpyuh/GGtFu`
+Snapshot ID: `Z66/yQAAAABivCBYpDV5HayV2ntCjUQx`

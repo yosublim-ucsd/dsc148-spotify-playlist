@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Bebe Cool
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,571 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,572 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Namulabako](https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Namulabako](https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj) | 2:47 |
 | 60 | [Nteesa](https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Salongo Siraje](https://open.spotify.com/artist/3eQ4darYNRBrwqfMajhRLd) | [Nteesa](https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI) | 3:06 |
 
-Snapshot ID: `Z6WsFwAAAAArHevwJcPW5kdTilmML2sl`
+Snapshot ID: `Z6WsFwAAAACSwIbBv5vlystEL+tLYmHB`

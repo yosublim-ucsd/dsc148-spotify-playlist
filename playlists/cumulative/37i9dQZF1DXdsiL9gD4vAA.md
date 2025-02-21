@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-196 songs - 17 hr 38 min
+197 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Chandni Ke Bagh Mein](https://open.spotify.com/track/6T4AUanQF0Nhs7WHoMXujI) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 6:29 | 2023-02-27 | 2024-04-19 |
 | [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-10 |  |
 | [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 | 2023-03-23 |  |
-| [Chheen Lenge Tumhe](https://open.spotify.com/track/1T2iEiWoDP6UXMxlGoGSVz) | [Krrishna Sharma](https://open.spotify.com/artist/0O3IGO6lACrm4wrPkmBdRC), [Pravin Heera](https://open.spotify.com/artist/44acuIzCDfwi6HY9dgF6bG) | [Chheen Lenge Tumhe](https://open.spotify.com/album/0FWlprMdk7lDh7Y4am66n7) | 4:05 | 2024-07-04 |  |
+| [Chheen Lenge Tumhe](https://open.spotify.com/track/1T2iEiWoDP6UXMxlGoGSVz) | [Krrishna Sharma](https://open.spotify.com/artist/0O3IGO6lACrm4wrPkmBdRC), [Pravin Heera](https://open.spotify.com/artist/44acuIzCDfwi6HY9dgF6bG) | [Chheen Lenge Tumhe](https://open.spotify.com/album/0FWlprMdk7lDh7Y4am66n7) | 4:05 | 2024-07-04 | 2025-02-21 |
 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 | 2021-12-01 | 2023-05-16 |
 | [Chitthi Aai Hai](https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Naam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZpyKpCBKxRL8xRn0gKdz) | 7:14 | 2021-12-01 | 2023-05-16 |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/02K9EZr0aJwXzHTclgNHL8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19uTzMdiFnYjNYXQsrkHc1) | 7:48 | 2021-12-01 | 2023-05-16 |
@@ -76,6 +76,7 @@
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 | 2024-03-06 |
 | [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 | 2025-01-01 |
 | [Gumshuda](https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7) | 3:48 | 2024-02-15 | 2024-04-19 |
+| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 |  |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2025-01-01 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 | 2024-04-19 |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 |  |

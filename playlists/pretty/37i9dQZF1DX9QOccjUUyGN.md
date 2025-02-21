@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,078 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,083 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 87 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |
 | 88 | [DESCONSIDERA](https://open.spotify.com/track/06W0pTzzF4h3F710ktH8vi) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [OgEMr](https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ) | 3:02 |
 
-Snapshot ID: `ZvYf7AAAAABPZt6LavWeMk6VVW1jCyvg`
+Snapshot ID: `ZvYf7AAAAABftmJFj0+t3VGQXlnszZ0C`

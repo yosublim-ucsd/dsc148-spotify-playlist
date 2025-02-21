@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Sherifflazone
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,425 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,437 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 59 | [L'incendie](https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Gardien du Labyrinthe](https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ) | 3:12 |
 | 60 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `Z4mPlgAAAADyfrPwx4hXwthj5D6qkPl8`
+Snapshot ID: `Z4mPlgAAAAAZwlXChO3Sk4Sj7NAFuPvp`

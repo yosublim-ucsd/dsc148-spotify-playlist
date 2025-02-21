@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-302 songs - 1 day 2 hr 7 min
+304 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adrift](https://open.spotify.com/track/2MF5PmEeFCudJz87mbQ3aX) | [The Watercolors](https://open.spotify.com/artist/5xbkbQqKZyoPSK49m7MjmU) | [La Grande Odyssée](https://open.spotify.com/album/4CYgMZ3NIUbwMOOIG6Jgg1) | 4:39 | 2024-03-08 |  |
 | [Aelita](https://open.spotify.com/track/61rFTzOs4B62gXv9HCK8x8) | [VIRTA](https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b) | [Horros](https://open.spotify.com/album/7KUmdgjZxB8wvZKwAgKePs) | 6:01 | 2023-10-05 | 2024-03-23 |
 | [Again](https://open.spotify.com/track/2iGdBQuR3jcaGF5MCM4TsV) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Again](https://open.spotify.com/album/3SJ2EYiAW1TswTxPEdZET5) | 3:32 | 2023-10-26 | 2023-11-11 |
+| [Aikaa](https://open.spotify.com/track/09m3t68THiy7ZcaGntKG9O) | [Kanvas](https://open.spotify.com/artist/26kK0R906bP7hK534QRKAQ) | [Värit](https://open.spotify.com/album/4vbQ1MfI4wEW5Nm3yMgTCq) | 3:19 | 2025-02-20 |  |
 | [Air](https://open.spotify.com/track/3Q6MqWZNaloy2Vi6dmbwYk) | [Kaira](https://open.spotify.com/artist/24G9JLS9UymXL553GyzogI), [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jussi Lehtonen](https://open.spotify.com/artist/2HilbFWypaCnlUZeesaIXb), [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn) | [AIR](https://open.spotify.com/album/4VDpk8ktd9rCYGgVimGyid) | 6:54 | 2024-03-15 |  |
 | [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 | 2022-09-02 | 2023-02-25 |
 | [Al Ponto](https://open.spotify.com/track/0KvncMYji5nBEBdeJERT0l) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jukka Eskola](https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St) | [Al Ponto / Tweet Tweet](https://open.spotify.com/album/0LrG9kfoh3U2862mU7JmLJ) | 3:41 | 2024-10-24 |  |
@@ -149,7 +150,7 @@
 | [Let Loose](https://open.spotify.com/track/10Rj5XNphUyBgykNwFjinP) | [TRI\-](https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Arttu Huopainen](https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [Let Loose](https://open.spotify.com/album/7HL8UoL0hmtfSYFdPHdGxs) | 4:11 | 2023-05-26 | 2023-06-30 |
 | [Liar](https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Liar](https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj) | 4:57 | 2023-03-03 | 2023-05-13 |
 | [Life of K](https://open.spotify.com/track/5zu2a4ZO2Bjx33QEg0uIuX) | [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Kalle Kalima](https://open.spotify.com/artist/5fwSJDZDOdHTgXw9yFFzSq) | [Stings, Bites and Scratches](https://open.spotify.com/album/4QLhrPjxyIOCjGjOqrrCld) | 4:16 | 2025-01-31 |  |
-| [Liian myöhään](https://open.spotify.com/track/6JshwF0SI5yU84XrjYXcip) | [Kanvas](https://open.spotify.com/artist/26kK0R906bP7hK534QRKAQ) | [Liian myöhään](https://open.spotify.com/album/736UfvXJiovLetCn9atrDY) | 7:16 | 2025-01-17 |  |
+| [Liian myöhään](https://open.spotify.com/track/6JshwF0SI5yU84XrjYXcip) | [Kanvas](https://open.spotify.com/artist/26kK0R906bP7hK534QRKAQ) | [Liian myöhään](https://open.spotify.com/album/736UfvXJiovLetCn9atrDY) | 7:16 | 2025-01-17 | 2025-02-21 |
 | [Like Steel](https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph) | 5:07 | 2022-09-22 | 2023-10-18 |
 | [Like Steel](https://open.spotify.com/track/1LFUykhSDCqcmpDzs0WpvH) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/4aakvcLyo3hy75L2R2w5jp) | 5:07 | 2023-10-13 | 2024-03-23 |
 | [Little Demons](https://open.spotify.com/track/02eNiKAOY0VYSA1iVAtp7S) | [Ida Alanen Trio](https://open.spotify.com/artist/3gElqj8hulfTVD9xclvbkn) | [Little Demons](https://open.spotify.com/album/28kDetPEgpkO15Lid6d2jk) | 6:48 | 2023-08-25 | 2023-10-06 |
@@ -282,6 +283,7 @@
 | [Turn Again Hourglass](https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6) | [Mama Longhorn](https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh) | [Turn Again Hourglass](https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C) | 5:47 | 2023-10-26 | 2024-04-27 |
 | [Two Kids A Day](https://open.spotify.com/track/0Y6ydDHos0BlEofX7AX93O) | [Joakim Berghäll](https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O), [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3) | [Runoja rauhalle \(Poems for Peace\)](https://open.spotify.com/album/1xxwZokHP27IAA1y0EbvnK) | 3:49 | 2024-02-23 |  |
 | [Two Shadows of You](https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Two Shadows of You](https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W) | 7:29 | 2023-05-12 | 2025-01-03 |
+| [Unissain sua kaipaan](https://open.spotify.com/track/3V1SBm6eeZQwEa2wF8m48N) | [Helmi Antila](https://open.spotify.com/artist/4Co5CFq2qPw2P04NS3fs7u), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Unissain sua kaipaan](https://open.spotify.com/album/3pAJQwsOWGOtBMmWV75Qa4) | 3:55 | 2025-02-20 |  |
 | [Utu](https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq) | [Melomatic Orchestra](https://open.spotify.com/artist/1gwwXyk6bfMPCEGaEMvPvp) | [Utu](https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif) | 5:31 | 2022-09-02 | 2023-05-13 |
 | [Valkoinen hevonen](https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y) | [Minsku Tammela](https://open.spotify.com/artist/6aREkURkJ8VvNZBh9sJKw5), [Joakim Berghäll](https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O) | [Valkoinen hevonen](https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP) | 3:54 | 2023-09-08 | 2025-01-03 |
 | [Vanhatie](https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Vanhatie](https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN) | 6:44 | 2022-09-02 | 2023-10-19 |

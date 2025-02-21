@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,551,497 likes - 100 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,554,725 likes - 100 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [NITE](https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW) | [ELVEN DIOR](https://open.spotify.com/artist/23zYsCtsJGcPB3obepBSm5) | [NITE](https://open.spotify.com/album/73U0xHmd1hwLU7TYBCX52n) | 1:38 |
 | 100 | [krushed!](https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA) | [krushed!](https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo) | 1:38 |
 
-Snapshot ID: `Z69algAAAAAJzwwdHcRoejUx6K4+I+v8`
+Snapshot ID: `Z69algAAAACvjdxpoXUSQMmnVffwdI7j`

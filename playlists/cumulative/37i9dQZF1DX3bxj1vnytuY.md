@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-285 songs - 1 day 3 hr 32 min
+286 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Exoplanet \- Original Mix](https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx) | [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Exoplanet](https://open.spotify.com/album/0docPqSZtIMdeG1OIVLETs) | 4:39 | 2022-04-13 | 2023-04-21 |
 | [Faiyum \- Zuma Dionys Remix](https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Faiyum \(Incl\. Zuma Dionys Remix\)](https://open.spotify.com/album/2bAHNvhIuJjrgkZfE7dcI6) | 7:06 | 2022-04-13 | 2023-04-21 |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 | 2023-10-24 |
+| [Feel Good](https://open.spotify.com/track/39oL5jhAS61DRY3szh9qrG) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Feel Good](https://open.spotify.com/album/4LZwueq8Uvb3MkEGAph37S) | 2:29 | 2025-02-20 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 | 2023-03-10 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
 | [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 | 2023-07-25 |
@@ -260,7 +261,7 @@
 | [Timeo](https://open.spotify.com/track/0VSxh2hM9Yqs8T57H4R7Ws) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Timeo](https://open.spotify.com/album/5CKlCsJGEQYSMtXjrmed6L) | 6:53 | 2023-04-07 | 2024-08-02 |
 | [Tolo \- FNX Omar Remix](https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Tolo](https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv) | 6:37 | 2022-09-29 | 2023-06-20 |
 | [Tomorrowland](https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Bakone](https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l) | 8:12 | 2023-11-07 | 2024-06-01 |
-| [Toscali](https://open.spotify.com/track/51nl15CGPLhbcR25zawzg6) | [Makemba](https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4), [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Toscali](https://open.spotify.com/album/2GwT1vJhinoHfStwEAx0La) | 2:28 | 2024-09-19 |  |
+| [Toscali](https://open.spotify.com/track/51nl15CGPLhbcR25zawzg6) | [Makemba](https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4), [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Toscali](https://open.spotify.com/album/2GwT1vJhinoHfStwEAx0La) | 2:28 | 2024-09-19 | 2025-02-21 |
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 | 2023-03-14 |
 | [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 | 2022-10-13 | 2023-07-29 |
 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 | 2022-10-17 |

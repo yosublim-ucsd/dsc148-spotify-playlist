@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Mazaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,521 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,556 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Madam \(From "Aa Okkati Adakku"\)](https://open.spotify.com/track/2SrTDN6saJjGUH8rbl5uz3) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Oh Madam \(From "Aa Okkati Adakku"\)](https://open.spotify.com/album/4w6Yk9BowBhqsXiqMA7m6A) | 4:42 |
 | 50 | [Poolamme Pilla \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Poolamme Pilla \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN) | 4:27 |
 
-Snapshot ID: `Z7W9+QAAAAAjGrM4ZHM9PQAaJPAm39R7`
+Snapshot ID: `Z7W9+QAAAABAoqKR/lf1MupFsTJcgFQv`

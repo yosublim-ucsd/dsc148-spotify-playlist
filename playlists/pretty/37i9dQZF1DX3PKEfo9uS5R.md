@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,460 likes - 160 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,532 likes - 160 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 159 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 |
 | 160 | [Snapshot](https://open.spotify.com/track/5F3Js0D4Yj4eLQVeAKJcUV) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Snapshot](https://open.spotify.com/album/6RE5jCWoFWlVbnpRJiKSPi) | 2:56 |
 
-Snapshot ID: `Z5zLkwAAAAAGHHeICDN2KDwAkCuXBOwc`
+Snapshot ID: `Z5zLkwAAAAC7KQS0gZQkWTE/ghXIJV2F`

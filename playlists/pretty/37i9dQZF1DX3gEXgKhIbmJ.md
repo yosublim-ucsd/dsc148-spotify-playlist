@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,350 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,362 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 59 | [Abacaxi na Churrasqueira](https://open.spotify.com/track/07sAzT51Z8H8pjbFUhQwcZ) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5), [Vinnizin16](https://open.spotify.com/artist/5EIBII46Rc02FICFjOYp8Y), [Dopenatio](https://open.spotify.com/artist/6LN9l7ljfgwyU2yBBTV4Lr) | [Penso, Logo Afeto](https://open.spotify.com/album/7cCAYzgoSBsLkwMWv9m4Rf) | 2:28 |
 | 60 | [Se o Leonardo Davinci Pq Não Posso D2](https://open.spotify.com/track/4by4SR3RYNRDt73CyEr7vS) | [Kaxis](https://open.spotify.com/artist/0nXkzWPmfiZJ5TJ8wScnOD), [T\-zoyyn](https://open.spotify.com/artist/7mZfj7hEfKtsDaLwv4t39G), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c), [Gy.AmA](https://open.spotify.com/artist/3LSQGA5qrrSJOFAXmmtqzo), [Aron Gang](https://open.spotify.com/artist/1MwCY42igsNcsZNNqObyeS) | [Atividade Bendita](https://open.spotify.com/album/2rvjEh06dtrdfds0inWdRg) | 2:40 |
 
-Snapshot ID: `Z66yAAAAAAABSY2cOAc/xBKr6X5GUgf2`
+Snapshot ID: `Z66yAAAAAADvc4igDof+9CXZG+zfJjxZ`

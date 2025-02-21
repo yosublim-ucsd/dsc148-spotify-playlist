@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 59 | [Overture](https://open.spotify.com/track/50R5QqKUfj6niDS2DTPJW1) | [Original 1955 Oklahoma! Studio Orchestra](https://open.spotify.com/artist/36qP0dp3Y5ympdBoAPijaL), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:55 |
 | 60 | [All Er Nuthin' \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/39samHAXkog2sCDJj86oVY) | [Gloria Grahame](https://open.spotify.com/artist/6S6vNgwUc1xRMgnmuyGQY7), [Gene Nelson](https://open.spotify.com/artist/76oAGFmD7Qs2MT3iqxiKN5), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:54 |
 | 61 | [The Next Ten Minutes Ago](https://open.spotify.com/track/1tjRhMpR7h9UdGMfvfho36) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 5:30 |
-| 62 | [What's the Use of Wondrin](https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:49 |
-| 63 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 |
+| 62 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 |
+| 63 | [What's the Use of Wondrin](https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:49 |
 | 64 | [Soliloquy](https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:47 |
 | 65 | [Chi\-Town Christmas](https://open.spotify.com/track/08FvHE34YtkAlGwC4Bpces) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/2w78Cx36U8NynXOR6GFB03) | 1:57 |
 | 66 | [Pore Jud Is Daid](https://open.spotify.com/track/4dbYEYqNVV1LIzdjqdhFqj) | [Damon Daunno](https://open.spotify.com/artist/114IXWRk0TuKYwHxAOOT3F), [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 4:28 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AbqCngAAAABChLYQjKvs1zBOMx62uX8F`
+Snapshot ID: `AbqIPgAAAAAHJnvJzG3ntMQzUc1NT2Yh`

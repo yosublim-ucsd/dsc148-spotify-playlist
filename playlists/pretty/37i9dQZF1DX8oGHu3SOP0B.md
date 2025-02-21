@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,015 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,014 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Sunlit Room](https://open.spotify.com/track/3vXSgNLaBKG20JhGiuPRbQ) | [neptember](https://open.spotify.com/artist/2BOschGRHhNSTw8CilZMZb) | [That’s Love After All, Isn’t It?](https://open.spotify.com/album/6VX5uEwRDeAJbZl2hFQT1m) | 4:14 |
 | 50 | [ตั้งแต่เธอหายไป](https://open.spotify.com/track/7eQWVn9FERFoXKw7CFNRuN) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [Tippsy Planet](https://open.spotify.com/album/5ttt4iMQCVqLrdVX5l0Vvn) | 3:52 |
 
-Snapshot ID: `Z6ItcAAAAACaWzV+DYmEkUF2lOZgt+HC`
+Snapshot ID: `Z6ItcAAAAADSYYpNpCNWVoRvJVfxzfOp`

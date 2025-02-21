@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,953 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,939 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 79 | [Sliver](https://open.spotify.com/track/5CzXwnIdde1PNkV3NByQXU) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Sliver](https://open.spotify.com/album/498Sr7Fxlid1v57fhEjBSy) | 3:18 |
 | 80 | [Dare I Say](https://open.spotify.com/track/3x4GmIoBoi6AKOcnTihKMe) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Hard To Exist](https://open.spotify.com/album/4uQLlofCSNpWRfinInFzVJ) | 3:10 |
 
-Snapshot ID: `Z67N4gAAAAC10ww6EbEobCMm6PVJgd13`
+Snapshot ID: `Z67N4gAAAAB3e+H73ErIw5XJZ7TSmITX`

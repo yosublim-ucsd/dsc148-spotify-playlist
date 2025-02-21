@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 💛 Dahlin
+> Det bedste nye pop 💚 Katinka
 
-362 songs - 18 hr 23 min
+369 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 |  |
 | [Agnes](https://open.spotify.com/track/3ueuKx5ItkRoIinsjUtN14) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Hate Me For This](https://open.spotify.com/album/3AWwgYgmsw5BzxKEpF3Nyr) | 2:32 | 2025-01-02 | 2025-01-17 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-06-27 | 2024-11-08 |
+| [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 |  |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2024-10-04 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-01-17 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 |  |
@@ -94,6 +95,7 @@
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-06-27 | 2024-07-30 |
 | [Dream team](https://open.spotify.com/track/6WrM6GnzCkfv075p1KN6fi) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Jeg vil bare gerne være et godt menneske, men det er ikke let.](https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo) | 3:23 | 2025-01-30 |  |
 | [Drenge som dig](https://open.spotify.com/track/3xpUMnxzCS2z8ueLyirAzJ) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Drenge som dig](https://open.spotify.com/album/0Ngl8n1DyVcIqwFbs5tbCl) | 2:35 | 2025-02-13 |  |
+| [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 | 2025-02-20 |  |
 | [Drinks Og Drama](https://open.spotify.com/track/1naQthdiYi3CBdEwLXfyZS) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Drinks Og Drama](https://open.spotify.com/album/2V2In3T2jH4i5JipoP2sLW) | 3:00 | 2025-01-09 | 2025-01-17 |
 | [Drive With Our Eyes Closed](https://open.spotify.com/track/2I5J70Cmzlwn0OAzPrbARg) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Drive With Our Eyes Closed](https://open.spotify.com/album/3RVbhUDDUTsjzQ6zILkLca) | 3:55 | 2024-12-19 | 2025-01-17 |
 | [Du Har Ret](https://open.spotify.com/track/1KCiaWjh1Rol8hnS35QHKU) | [Laura Ziani](https://open.spotify.com/artist/5obJCBYDzkO1xEmm6P3MSo) | [Du Har Ret](https://open.spotify.com/album/0gzC0uQBZRCsXPPloHvm8W) | 2:37 | 2024-10-01 | 2025-01-17 |
@@ -119,6 +121,7 @@
 | [Finde Tilbage](https://open.spotify.com/track/1UNf3igHn4Gvl0YApRbbZP) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Finde Tilbage](https://open.spotify.com/album/6cIiFImHSjUAOj4C4UUniJ) | 2:51 | 2024-06-27 | 2024-11-08 |
 | [First Date](https://open.spotify.com/track/4I5DEaG9BaeAUAisL87wyg) | [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g) | [First Date](https://open.spotify.com/album/3RQzHCmXYbFp12YWjUxWZO) | 3:58 | 2024-09-05 | 2024-10-04 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-10-04 |
+| [For Mig Selv](https://open.spotify.com/track/0jPslebKwQgZ9cC0sTqyyA) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [For Mig Selv](https://open.spotify.com/album/7exUIsUZ0oyAbeAEMokcpy) | 2:19 | 2025-02-20 |  |
 | [For The Love Of You](https://open.spotify.com/track/3hBJzRjC7HLxJOXEg8PEiN) | [Hush](https://open.spotify.com/artist/6F5xUbHE5eHGoGBS4IMWPj) | [For The Love Of You](https://open.spotify.com/album/0AUwUepLLK2EoZBAcE5K5U) | 3:35 | 2024-07-05 | 2024-08-30 |
 | [For The Show](https://open.spotify.com/track/5nq49A7NUjar8G7tiVfWnc) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj) | [For The Show](https://open.spotify.com/album/5mzVQJPAL75eUyIFT4TEjb) | 3:04 | 2024-06-27 | 2024-08-30 |
 | [Forever With Savannah](https://open.spotify.com/track/2LFaDGWpg9S6rYyDL4qWKH) | [Emely](https://open.spotify.com/artist/1DjkK0PiDGeOslM18k1HmE) | [Forever With Savannah](https://open.spotify.com/album/0FC4ogurRNrDJ9KXgJd8lj) | 3:18 | 2024-08-15 | 2024-10-04 |
@@ -127,7 +130,9 @@
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 | 2025-01-24 |
 | [Fri](https://open.spotify.com/track/5VQ2lgaLOhJKXwgqKaPR3w) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Fri](https://open.spotify.com/album/61pr82QsY1CNXVT5hKuDbl) | 2:58 | 2024-10-18 | 2025-01-24 |
 | [Færdig Med Pis?](https://open.spotify.com/track/76ebYJn6WUdOZuYvlqka5r) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Færdig Med Pis?](https://open.spotify.com/album/1bSnvK3278AA7cKRnRbWTb) | 2:52 | 2024-06-27 | 2024-07-30 |
+| [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 |  |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-11-08 |
+| [Genfærd](https://open.spotify.com/track/0DSXSBT15E18Wzmh4JV41L) | [ANYA](https://open.spotify.com/artist/0LtICwkx09q0oc4VjuwJTT) | [Genfærd](https://open.spotify.com/album/3JwZ1Dtmuvc0rN8f02BF2Q) | 3:20 | 2025-02-20 |  |
 | [Get Outta My Heart](https://open.spotify.com/track/2KlxiyBYb01MW2qvoKYcWx) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Get Outta My Heart](https://open.spotify.com/album/3icqrgQ5BLZ1cGyfLhQ7Mx) | 3:28 | 2025-02-13 |  |
 | [Ghost](https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Ghost](https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS) | 3:49 | 2024-09-26 | 2024-10-04 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2024-08-09 |
@@ -187,6 +192,7 @@
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-22 | 2025-01-17 |
 | [Jylland](https://open.spotify.com/track/2CsNcwVW6fUabGB0E4ASjF) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Jylland](https://open.spotify.com/album/1g9JFulc8UWHOAzL6dy22d) | 3:14 | 2024-08-29 | 2025-01-17 |
 | [Kalder Hinanden For Baby](https://open.spotify.com/track/49z3msZeeUVeSdZDuuvcYl) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Kalder Hinanden For Baby](https://open.spotify.com/album/7fL7dFdhZHl0diZuiLckmd) | 3:13 | 2024-08-22 |  |
+| [Knappenål](https://open.spotify.com/track/2IkoAk3xTcdQARiz9nx5GG) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Knappenål](https://open.spotify.com/album/1fA0mMY3s4zCBSYR51qf8B) | 3:08 | 2025-02-20 |  |
 | [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-06-27 | 2024-07-30 |
 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 | 2024-08-29 |  |
 | [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 | 2024-06-27 | 2024-10-04 |
@@ -349,6 +355,7 @@
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2024-10-04 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-11-08 |
 | [USB](https://open.spotify.com/track/4S9p8TRkZA9z53rDjwu032) | [Emil Lange](https://open.spotify.com/artist/4UxkyClhUPBeJjyGwHvgaV), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [USB](https://open.spotify.com/album/1qBhQXg3Z2yRdDUImIHe5O) | 2:45 | 2024-06-27 | 2024-10-04 |
+| [Vend Om](https://open.spotify.com/track/37ez8CGYIVe5nQQjVK2Whf) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Vend Om](https://open.spotify.com/album/1bAJrBn0Pc6er22xbuTStG) | 3:18 | 2025-02-20 |  |
 | [Venus](https://open.spotify.com/track/0vdgqKnjg1tyIgkkzucxyJ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Venus](https://open.spotify.com/album/5x5grG9u5thsvO2wVGeAbr) | 2:42 | 2024-06-27 | 2024-07-30 |
 | [Verdens Største Idiot](https://open.spotify.com/track/2qhqM5uFpEwCL3isdxD8rs) | [Laura4evigt](https://open.spotify.com/artist/38loz68LLQSxadt4CJZq0O) | [Verdens Største Idiot](https://open.spotify.com/album/2TWPcEGi2QFw6CpLycKVpg) | 3:25 | 2024-09-19 | 2025-01-24 |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 |  |

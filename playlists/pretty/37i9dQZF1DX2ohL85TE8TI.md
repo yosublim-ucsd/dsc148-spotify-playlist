@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: When the Stars Gossip\(별들에게 물어봐\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,858 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,828 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 |
 | 100 | [Dog Sound](https://open.spotify.com/track/5E6mUNoD6g1hfz7KKv7mge) | [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Dog Knows Everything \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3hlmiT9wGHP6X1SZDdgovZ) | 2:22 |
 
-Snapshot ID: `Z66aKwAAAACORGWbr4SZSGoEbjhYluJF`
+Snapshot ID: `Z66aKwAAAAAn2IgI84Y3omOqcB0pLJkK`

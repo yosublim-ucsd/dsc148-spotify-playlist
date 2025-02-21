@@ -4,12 +4,13 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-61 songs - 3 hr 45 min
+65 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2025-02-06 |  |
 | [Alive](https://open.spotify.com/track/5SzUrle1WAaMAJjIEZ2YYy) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 5:07 | 2025-02-06 |  |
+| [Attitude](https://open.spotify.com/track/108bp2InL1lMrIi1cFkWI7) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw) | [Big Mood Attitude](https://open.spotify.com/album/4XTGugIUJgEbzoL0oH1l2z) | 2:08 | 2025-02-20 |  |
 | [Avalanche](https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity \(2009 \- Remaster\)](https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P) | 5:09 | 2025-02-06 |  |
 | [Baby Drummer](https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd) | 2:20 | 2025-02-06 |  |
 | [Ballad Of A Thin Place](https://open.spotify.com/track/0VkMYMMccsX2fE4BRLiSiD) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/7Fdr6rpnrWE6GsMzIyPh0g) | 4:16 | 2025-02-06 |  |
@@ -51,8 +52,10 @@
 | [One of a Kind](https://open.spotify.com/track/4bH58CXnPCvRoOsgfvqcX5) | [The N3W N3W](https://open.spotify.com/artist/2pTWadxa7S6m2XrXh1Tbpv), [SYDNY](https://open.spotify.com/artist/2JeLt8IW2gvuRu6aDoTjbU) | [One of a Kind](https://open.spotify.com/album/5paCvDalb4NUv5iPU8kRQa) | 2:21 | 2025-02-06 |  |
 | [Paradise](https://open.spotify.com/track/1yjznOLHmk9nMVskfYSMpr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/6QG66B6oznYRrMPLSXZqPZ) | 2:48 | 2025-02-06 |  |
 | [Riding Solo](https://open.spotify.com/track/7ljBw7FDHlYtWhUVKgcm7z) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Riding Solo](https://open.spotify.com/album/7e0HCVNR9U3CZqU1MCn0I6) | 3:36 | 2025-02-06 |  |
+| [Rock the Bells](https://open.spotify.com/track/33KvuePYdzsx7ZqoTj3rHU) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mayday](https://open.spotify.com/album/4kfwZY4Em7ktEHQ31LSTA2) | 2:51 | 2025-02-20 |  |
 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/5X3i6maFdxK5xyO5bXGoQ6) | 3:15 | 2025-02-06 |  |
 | [Rubble Kings Theme \(Dynamite\)](https://open.spotify.com/track/5jM0aU1gAjbK26fLQUTBJw) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Rubble Kings: The Album \(Original Music Inspired By The Documentary\)](https://open.spotify.com/album/74O6J1xtV7RHLzymBv2U9y) | 3:42 | 2025-02-06 |  |
+| [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2025-02-20 |  |
 | [Skipping Stones](https://open.spotify.com/track/20spL0UCWRur2zbgpZhMM6) | [Olivia Wendel](https://open.spotify.com/artist/6VFhe94v6lnp9FLqRdfgAx) | [Windthrow](https://open.spotify.com/album/0P2WCmU6hiDH0iyrZ5tm4A) | 3:16 | 2025-02-06 |  |
 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 | 2025-02-06 |  |
 | [Televangelism](https://open.spotify.com/track/6jd7Cv7yfWGTs7g89eA9Ss) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:03 | 2025-02-06 |  |
@@ -64,6 +67,7 @@
 | [u and me, but mostly me](https://open.spotify.com/track/3JVVqUHTCylHLm9wCLh5hL) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me](https://open.spotify.com/album/0QZZbn5ugHghTnSaHpPZPn) | 4:20 | 2025-02-06 |  |
 | [We Are Infinite](https://open.spotify.com/track/0PsCdWEczdow0ZYgmRd1Mq) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Mont Royal](https://open.spotify.com/album/7DQVIBQzh3Jef1EeK3Fb1W) | 3:05 | 2025-02-06 |  |
 | [Weapon of Choice](https://open.spotify.com/track/08kB9HSfrcIi83rymwgjMz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:39 | 2025-02-06 |  |
+| [What I Needed](https://open.spotify.com/track/2J4D2sVNEoORSAsYd2sIqo) | [Bombay Beach Revival](https://open.spotify.com/artist/1W7pMXb6n6ZUUM9Axqi9tL) | [Another Soul](https://open.spotify.com/album/6pNbA97bxlpTYSy6nyrx4q) | 3:51 | 2025-02-20 |  |
 | [What's Going On !](https://open.spotify.com/track/6pLzJ1xpUIqI2Xve5e0aA6) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [What's Going On !](https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ) | 2:04 | 2025-02-06 |  |
 | [When You Want Me](https://open.spotify.com/track/4kk7aHXUx7KTfPqnk9gZ3U) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Porsche](https://open.spotify.com/album/6PkhPpNkGgG129V0XuKDHk) | 3:53 | 2025-02-06 |  |
 | [Wild and Free](https://open.spotify.com/track/3qsl5j3xc2VmkuaGlJjN2T) | [That Kid CG](https://open.spotify.com/artist/0JGbaXZgaigAnUbKtQBwwK) | [My Tiny Planet 2](https://open.spotify.com/album/2B3raABHsJOlGWLFZOrWf1) | 2:20 | 2025-02-06 |  |

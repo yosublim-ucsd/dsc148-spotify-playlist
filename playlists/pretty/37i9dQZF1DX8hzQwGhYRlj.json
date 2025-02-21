@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 37999,
+  "num_followers": 38002,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxWZQAAAADCP5fuzOx5R4FWfLiEHOoG",
+  "snapshot_id": "ZIxWZQAAAABOH+RbWqKKBIEylEwPHBK9",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 273786,
-      "name": "VI. Hjemve (Andante)",
-      "url": "https://open.spotify.com/track/0UDJzgIWDc1e6qS9rYldCY"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 71773,
       "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
       "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "duration_ms": 273786,
+      "name": "VI. Hjemve (Andante)",
+      "url": "https://open.spotify.com/track/0UDJzgIWDc1e6qS9rYldCY"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-212 songs - 12 hr 8 min
+214 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Defenseless](https://open.spotify.com/track/7lJRWdXp88DJecgWmEiGAR) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Defenseless](https://open.spotify.com/album/5nNXOc7Bd8eJQHs5Elsz5H) | 4:21 | 2025-02-13 |  |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-12-22 | 2024-04-19 |
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2024-04-18 |  |
-| [Electric Life](https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Electric Life](https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6) | 3:14 | 2022-12-22 |  |
+| [Electric Life](https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Electric Life](https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6) | 3:14 | 2022-12-22 | 2025-02-21 |
 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 | 2024-04-18 |  |
 | [Eyes Shut](https://open.spotify.com/track/3vx3J3TSgqR6BW4JBXf4Ui) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:18 | 2022-12-22 | 2023-02-02 |
 | [Find The River](https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:49 | 2022-12-22 | 2023-12-15 |
@@ -141,8 +141,9 @@
 | [Nothing Forgotten](https://open.spotify.com/track/0AF0YrKxK7WDyN4tR2uJ3p) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Nothing Forgotten](https://open.spotify.com/album/5feBqDBr4AqfJVempNrKug) | 2:23 | 2025-01-25 |  |
 | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs) | 2:56 | 2024-10-03 |  |
 | [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 | 2024-05-10 |
-| [Open Hearts](https://open.spotify.com/track/1rCr67Uoj5GndsMEC8Gkvq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6h2sXjfVdBakT2T3w0R7Vv) | 3:23 | 2024-04-18 |  |
+| [Open Hearts](https://open.spotify.com/track/1rCr67Uoj5GndsMEC8Gkvq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6h2sXjfVdBakT2T3w0R7Vv) | 3:23 | 2024-04-18 | 2025-02-21 |
 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 | 2022-12-22 | 2024-04-19 |
+| [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 | 2025-02-20 |  |
 | [Out of the Blue](https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wrote](https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0) | 3:36 | 2023-12-24 |  |
 | [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 | 2023-12-30 |
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 | 2024-10-11 |
@@ -200,6 +201,7 @@
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 | 2023-07-14 |
 | [Time To Talk](https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Time To Talk](https://open.spotify.com/album/4uJTZ5NqiavcZcWTi3JvUK) | 3:23 | 2024-11-22 |  |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2022-12-22 | 2025-01-26 |
+| [Trade it for the Night \- Acoustic Version](https://open.spotify.com/track/6rRRpQjOiXvR70uYxmPcJz) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Trade it for the Night \(Unfold Bundle\)](https://open.spotify.com/album/0Fk2Qyu8r17ylGxOciMV1e) | 3:22 | 2025-02-20 |  |
 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 | 2024-07-25 |  |
 | [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 |  |
 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 | 2024-07-18 | 2024-11-15 |

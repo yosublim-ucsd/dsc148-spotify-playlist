@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Wanlov
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,130 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 79 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 |
 | 80 | [Party Pooper](https://open.spotify.com/track/6SDk1JtsAUIeBp1nGIjeEY) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [Party Pooper](https://open.spotify.com/album/51ZolHWaY2WRNxUdMXmZ86) | 2:30 |
 
-Snapshot ID: `Z66HygAAAACPd23467UGx6OB47jLqbtJ`
+Snapshot ID: `Z66HygAAAABnW/bM2gK/5DFZVGZX9aOZ`

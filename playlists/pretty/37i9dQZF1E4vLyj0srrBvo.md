@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sky Ferreira, Eartheater and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,993 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,005 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 50 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 |
 
-Snapshot ID: `Z7aEzwAAAAAXBI98LdDAUmWXOEGMdMfO`
+Snapshot ID: `Z7fjigAAAABiEfaNS7TajHSYpi9BCUrO`

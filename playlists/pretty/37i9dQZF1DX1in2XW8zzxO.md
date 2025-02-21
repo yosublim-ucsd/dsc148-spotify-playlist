@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,680 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,733 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Johnny](https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf) | [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Johnny](https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5) | 6:18 |
 | 50 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
 
-Snapshot ID: `Z5wLIAAAAACN6zM2oZFiVUtBz81+ku7x`
+Snapshot ID: `Z5wLIAAAAAB1b6zco9MdTTyW/Yow7zCx`

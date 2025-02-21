@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-509 songs - 1 day 7 hr 9 min
+510 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [House Music \- Edit](https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol\. 2](https://open.spotify.com/album/1RkCmF3rQDxfFe8h97OBSR) | 4:37 | 2024-09-06 | 2024-12-05 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [Hustle](https://open.spotify.com/track/0AIVZBiAQJDGmYLfDF2UDe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Hustle](https://open.spotify.com/album/4tSRDTghTctng45CrZ7bwx) | 2:20 | 2024-09-13 | 2024-11-13 |
-| [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 |  |
+| [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 | 2025-02-21 |
 | [I Believe In Miracles](https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [I Believe In Miracles](https://open.spotify.com/album/5CRmAnjCyw5GKRgIgddbRh) | 2:35 | 2025-01-10 |  |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2022-01-14 | 2024-07-13 |
 | [I DON'T MIND](https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [I DON'T MIND](https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz) | 2:58 | 2024-07-05 | 2024-11-17 |
@@ -466,6 +466,7 @@
 | [Talking About Those](https://open.spotify.com/track/5pBO42qEZXn25QCmpm0PUu) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Talking About Those](https://open.spotify.com/album/3CoaeFSETJpWaPM9KKv0Oo) | 3:34 | 2024-09-13 | 2024-11-09 |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2022-04-06 | 2024-11-09 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-07-12 |  |
+| [Temptation](https://open.spotify.com/track/3mfq1u4LdKJ4SrgeoT8w23) | [Martial Simon](https://open.spotify.com/artist/72twbwIUSRjha4AnJdNMbs), [Vintage Club](https://open.spotify.com/artist/6RyuI605qTPo9Fb6BqJwcf) | [Temptation](https://open.spotify.com/album/45a3YsnthDFF1bG5ccXpXt) | 2:30 | 2025-02-14 |  |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-12-22 |  |
 | [Thank You \- Jax Jones Remix](https://open.spotify.com/track/77PHaOlBrM9krYHIl39LAo) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Thank You \(Jax Jones Remix\)](https://open.spotify.com/album/3ySavJtPwv3onVluixQuIK) | 3:47 | 2022-01-14 | 2022-07-29 |
 | [The Answer \(featuring Arthur Baker & Victor Simonelli\)](https://open.spotify.com/track/5tb7bUuqTNVeON3uamNvSF) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Arthur Baker](https://open.spotify.com/artist/5YzGCkGA6XEGKs2C9KRVKA), [Victor Simonelli](https://open.spotify.com/artist/1wO0AVFTGzQNoM9uv2oM1M) | [The Answer](https://open.spotify.com/album/6osp6kNYz8jc4ZPDRqzZE4) | 3:23 | 2022-01-14 | 2022-05-25 |

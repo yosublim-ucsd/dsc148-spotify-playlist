@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Max Zendencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,842 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,870 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 39 | [Mes Doce](https://open.spotify.com/track/0vO8vUtgIW3eZnalAzzDjI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Mes Doce](https://open.spotify.com/album/4AFiyO0hxJx17fyt8UfrHi) | 2:50 |
 | 40 | [Donde Quedo](https://open.spotify.com/track/0dzmj4pj5TwDT0XLKTYhGh) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP), [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [Donde Quedo](https://open.spotify.com/album/7LtJMYubiIFSeKCpkghUiu) | 3:14 |
 
-Snapshot ID: `Z67N4AAAAAAr7f+DSDXy06ggIWPZyAC/`
+Snapshot ID: `Z67N4AAAAADla+cBSuCK7QeEnoudRsoR`

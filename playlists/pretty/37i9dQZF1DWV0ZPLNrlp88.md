@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,299 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,300 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [then I luv U](https://open.spotify.com/track/45qDFztSBBgzodqrBc37TM) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [then I luv U](https://open.spotify.com/album/5kaEW9NyXvdllc0qOAW4fD) | 3:51 |
 | 40 | [ブルシット・ファンク](https://open.spotify.com/track/5pQp2sP7pEEQuAtXfnzYAl) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:13 |
 
-Snapshot ID: `Z7CulwAAAAAetS2Req6O5pHWGNPsZqhV`
+Snapshot ID: `Z7CulwAAAAAeA76/62iG98TNW0CW7mxv`

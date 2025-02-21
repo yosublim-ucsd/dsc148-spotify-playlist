@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hamza Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,422 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,430 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 48 | [Mumtaaz](https://open.spotify.com/track/5K31v6y0QwaeRRABsCr84R) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Mumtaaz](https://open.spotify.com/album/68UHkfoFPcC5MvJVcpeBIt) | 3:31 |
 | 49 | [Tona \(without Narration\)](https://open.spotify.com/track/20uGfmHlG0hnTse0JXhqH3) | [PAPOSHNAGAR](https://open.spotify.com/artist/428xtmHnbGBmh0YAgV9e3y) | [Tona \(without Narration\)](https://open.spotify.com/album/0hFRTgWOSlWTD8eBoxfPV5) | 3:34 |
 
-Snapshot ID: `Z68MrgAAAAAtPoT0HjAW9aWk+cZ15RZG`
+Snapshot ID: `Z68MrgAAAABOCJHeL+ftAr4Q/JqyEjzG`

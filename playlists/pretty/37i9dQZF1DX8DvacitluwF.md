@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Your Valentine's mood, curated by Rickelle and <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=Tu7SelC\_Q4Spai2nsDG2og">A\-Reece</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,055 likes - 31 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,225 likes - 31 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 30 | [Everyday \- Remastered 2013](https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:28 |
 | 31 | [MORNING PEACE](https://open.spotify.com/track/4607H11d3SMFfITEICAFZe) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Today's Tragedy, Tomorrow's Memory: the mixtape](https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F) | 3:58 |
 
-Snapshot ID: `Z7NfAwAAAAAZ1LCvVjGgiL0XXVieshSY`
+Snapshot ID: `Z7NfAwAAAACYG8W+KZNcahl7b91qnRmR`

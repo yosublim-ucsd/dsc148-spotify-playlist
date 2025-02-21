@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Elle Limebear & Samm Henshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,751 likes - 97 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,809 likes - 97 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 96 | [Jesus Name Above All Names](https://open.spotify.com/track/79tuKYXjZlM1G1b7nnHV1F) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Tom Eccleshall](https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1) | [Jesus Name Above All Names](https://open.spotify.com/album/1AorYGtFrnqrtLaFIs9BJ5) | 4:12 |
 | 97 | [He's My God](https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Joy Wharton](https://open.spotify.com/artist/5IJlUFsS8bZ8fTzHyB2SCd), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [He's My God](https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4) | 5:25 |
 
-Snapshot ID: `Z7GElwAAAACK7blzIIYx+IQRiwPZYfhm`
+Snapshot ID: `Z7GElwAAAABmN2VK+RokZuMwBeWKxpKm`

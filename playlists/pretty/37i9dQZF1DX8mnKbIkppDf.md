@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De  genomineerden Edisons Pop 2025: Pop, Song, Album, Nederlandstalig, Hollands, Dance, Rock, Alternative, Hiphop, Soul/R&B/Funk en Nieuwkomer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,528 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,532 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 | 29 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
 | 30 | [Samen \(Niet Alleen\)](https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l) | [Samen \(Niet Alleen\)](https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg) | 2:25 |
 
-Snapshot ID: `Z6Xt8gAAAAB7UzMnrqgdJekSWPN+ttMz`
+Snapshot ID: `Z6Xt8gAAAABcj3s8EsbS01QGB4Su4s2b`

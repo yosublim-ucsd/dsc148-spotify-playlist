@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Polly
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,395 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,404 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [The Cure](https://open.spotify.com/track/48J2UDdWb0wVy5cAk45CdW) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [VALLEY pt.2](https://open.spotify.com/album/3BUlDkd2GoCDyiQyMWBx5e) | 3:00 |
 | 100 | [Oh Boy](https://open.spotify.com/track/6R7RYIpagtAYuv7SVkzn0B) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [Oh Boy](https://open.spotify.com/album/4PuzirjypjLimJ2ozWwVSF) | 3:57 |
 
-Snapshot ID: `Z7SEUgAAAABmHa3RK/hjwgxxJflNlEAD`
+Snapshot ID: `Z7SEUgAAAADieRX7eJC1pfbdfSip0bDH`

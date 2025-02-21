@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Serøtonin
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,891 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,922 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [Ajoke](https://open.spotify.com/track/6PM8LP6tFAaPHy7NsOEJDX) | [Shine Bm](https://open.spotify.com/artist/3D0aT4H2RqLXYzuWjcm2Wl) | [Ajoke](https://open.spotify.com/album/1vn2Ff4nccR4bmPiZZ6eS7) | 3:58 |
 | 70 | [Banku Riddim](https://open.spotify.com/track/4eaiD3xjKhcTnpEdHS1mmq) | [Dj Nayiram](https://open.spotify.com/artist/31l50WEIscYptO4W2DH6wp), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [DJ Bass](https://open.spotify.com/artist/3Xx7lp7h2ELGLV6Wrbt8qJ) | [Banku Riddim](https://open.spotify.com/album/7gu4GrWxsdjhbE04VYUvsZ) | 2:54 |
 
-Snapshot ID: `Z7W8MwAAAADGEX/YX9OUC2r9HajZUEAG`
+Snapshot ID: `Z7W8MwAAAADOkyHn42/WnnOwBGz33fGW`

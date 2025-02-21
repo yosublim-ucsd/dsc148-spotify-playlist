@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,078 likes - 74 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,105 likes - 74 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 73 | [Pretexto / Adivinha \- Ao Vivo](https://open.spotify.com/track/5fTtvgzg9hO3HwUDmFYFnM) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Pôr do Suel Em Recife – Completo \(Ao Vivo\)](https://open.spotify.com/album/5waW4bsJtwTf6SApxu7UKi) | 3:10 |
 | 74 | [Para/ S.O.S Paixão/ Mais Forte Que Eu \- Ao Vivo](https://open.spotify.com/track/2YO697JUFpneIUTVw6FESL) | [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Pagodão do Darlan \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/2BDOgPbEuF5egCi2ddDWnU) | 4:35 |
 
-Snapshot ID: `Z6+MlQAAAAB2of9UdZF8I4qfFn/w8Fm8`
+Snapshot ID: `Z6+MlQAAAACiVAf80Hv+845zOMaClhU2`

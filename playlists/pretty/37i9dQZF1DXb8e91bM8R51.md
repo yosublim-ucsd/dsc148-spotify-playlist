@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,462 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,464 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 90 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
 | 91 | [Wise Up](https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Wise Up](https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL) | 3:47 |
 | 92 | [Gravity Glidin](https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Gravity Glidin](https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ) | 2:20 |
-| 93 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |
-| 94 | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [RJ Payne](https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy) | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1) | 2:58 |
+| 93 | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [RJ Payne](https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy) | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1) | 2:58 |
+| 94 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |
 | 95 | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/album/7iTi1Vio2z7cT0ZvQiIWFN) | 3:04 |
 | 96 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 |
 | 97 | [Euphoria](https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Off the Strength](https://open.spotify.com/album/1okrd5yTD0zDNhOq2YJDox) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 99 | [Ronaldinho](https://open.spotify.com/track/35JqNzZFpwrODnieizyUm0) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Ronaldinho](https://open.spotify.com/album/6JQQKrPXvSeAI4eoGi6kWU) | 3:55 |
 | 100 | [Recognize My Car](https://open.spotify.com/track/12JB83J6gWSZ3akzcqr64x) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl) | [Recognize My Car](https://open.spotify.com/album/3SKa2RTPY6cja3BecEyKeT) | 3:32 |
 
-Snapshot ID: `Z6V3fgAAAABvf64r4X/U9HXtzHDtEjCf`
+Snapshot ID: `Z6V3fgAAAAC4fEx3SohI0wVRtzJ/118V`

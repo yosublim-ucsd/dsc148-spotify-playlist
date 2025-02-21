@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Zo\u00eb Tauran & Idaly",
+  "description": "Motion & good vibes! Cover: Ronnie Flex & Jonna Fraser",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 211351,
       "name": "Baller",
       "url": "https://open.spotify.com/track/2bsIrUVQ1GgMQydlOa0QG5"
@@ -4824,7 +4824,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 188059,
       "name": "Capabel",
       "url": "https://open.spotify.com/track/5qOnC1ocw4QPHw1zUy8uJq"
@@ -5273,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Chimiy\u00e9",
+        "url": "https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151033,
+      "name": "Chimiy\u00e9",
+      "url": "https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ"
+    },
+    {
+      "album": {
         "name": "Chingar (Remix)",
         "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
       },
@@ -5606,6 +5624,28 @@
       "duration_ms": 144136,
       "name": "Completa",
       "url": "https://open.spotify.com/track/7ExsepdpDGcseWOi6LEdKm"
+    },
+    {
+      "album": {
+        "name": "Concentratie",
+        "url": "https://open.spotify.com/album/1Vwems8UdpshxLnFPHgnL5"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133558,
+      "name": "Concentratie",
+      "url": "https://open.spotify.com/track/5KOy4O0d6regxnYOUeXrTH"
     },
     {
       "album": {
@@ -7893,6 +7933,24 @@
     },
     {
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/3i28uUBv4xFn2HDvqmiUto"
+      },
+      "artists": [
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/4cPNb5fYFzhwVoattGcfIX"
+    },
+    {
+      "album": {
         "name": "FAKE LOVE",
         "url": "https://open.spotify.com/album/6xiKcv0sBADsG4Tal7LSFc"
       },
@@ -9152,7 +9210,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 139250,
       "name": "Ghalta",
       "url": "https://open.spotify.com/track/0xY2vzshH5d07tNf8OTdEa"
@@ -11134,7 +11192,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 161626,
       "name": "ILEBOGUS (feat. MASIDI)",
       "url": "https://open.spotify.com/track/3H3SnLZImZuFhlstOt7SXj"
@@ -14791,6 +14849,32 @@
     },
     {
       "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/4V3Y02cGDeIbiIlZA9JwhJ"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105230,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6RzajU3Lthpfs47lFzB4CE"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/1B6JEWEFeYzO4iRj0NQex7"
       },
@@ -14984,7 +15068,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 136981,
       "name": "Many Many",
       "url": "https://open.spotify.com/track/0ou5JIjvsztWUEPnsB2Pyy"
@@ -18176,7 +18260,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 110941,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/1U2jqtkHfXeKM6SBPypv8z"
@@ -19574,7 +19658,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 160884,
       "name": "Plan",
       "url": "https://open.spotify.com/track/1tbntllXOTcc91aDlRtls6"
@@ -19950,7 +20034,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 157748,
       "name": "Positie",
       "url": "https://open.spotify.com/track/6AByvhNeeeGcJTUeTaddGg"
@@ -21005,6 +21089,28 @@
     },
     {
       "album": {
+        "name": "Saint-Tropez",
+        "url": "https://open.spotify.com/album/6ljLOSig5ayZiBJV6Xis7h"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/18pJ7y3ZiJRlfNlF3wuSOJ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177649,
+      "name": "Saint-Tropez",
+      "url": "https://open.spotify.com/track/4nnHqN4ApFcJ2ZIEKPBTVQ"
+    },
+    {
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM"
       },
@@ -21626,6 +21732,28 @@
       "duration_ms": 180734,
       "name": "SHOW LEVEL",
       "url": "https://open.spotify.com/track/70zjxnzPf4kwqVUhWsr5N9"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "album": {
@@ -25185,6 +25313,24 @@
     },
     {
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
+    },
+    {
+      "album": {
         "name": "Urau",
         "url": "https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI"
       },
@@ -27546,6 +27692,32 @@
       "duration_ms": 152990,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"
+    },
+    {
+      "album": {
+        "name": "Zoeken Naar Jou",
+        "url": "https://open.spotify.com/album/0A9sHUu7qU2zdqfEIoWNSq"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "JFT",
+          "url": "https://open.spotify.com/artist/0RiLlPi3La2ar2ybA3Z1po"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120309,
+      "name": "Zoeken Naar Jou",
+      "url": "https://open.spotify.com/track/2bDtHSpZAR1wkMCVYDcJL3"
     },
     {
       "album": {

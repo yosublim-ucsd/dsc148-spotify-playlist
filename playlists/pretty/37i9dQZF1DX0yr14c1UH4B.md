@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > New music from your timeless favourites\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,325 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,340 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 49 | [The Girl That I Call Home](https://open.spotify.com/track/0n9eqeBYUlffRuP92V7mrY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Girl That I Call Home](https://open.spotify.com/album/0Dha3eXphxwdxSss1BNSnr) | 3:44 |
 | 50 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 |
 
-Snapshot ID: `Z5wSvgAAAACbbkzucb1G5e9EOrkTg7x/`
+Snapshot ID: `Z5wSvgAAAAA18BHC9qzMezZf7PkOe9Xp`

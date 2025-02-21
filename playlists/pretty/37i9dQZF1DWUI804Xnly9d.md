@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,443 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,459 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 6 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
 | 7 | [Khamosh Hum](https://open.spotify.com/track/6DbqJtVimKA96EPcTNpHKC) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR) | [Khamosh Hum](https://open.spotify.com/album/6cuCRw4GK3FA6PetXShiWK) | 2:45 |
 | 8 | [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 |
-| 9 | [Teri Aadat](https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g) | [ANK](https://open.spotify.com/artist/1pubO9H9yDaUmuweQHVne8) | [Teri Aadat](https://open.spotify.com/album/12cTuBqDOyvDonuFgEN4FO) | 3:06 |
-| 10 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
-| 11 | [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 |
-| 12 | [Mascara \(Unplugged\)](https://open.spotify.com/track/6IdJ9zRvPbSW5cERtMsoL5) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Mascara \(Unplugged\)](https://open.spotify.com/album/0xYDRKSJxhdkQiJCtVM61T) | 2:37 |
-| 13 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
-| 14 | [Tu Hai Pari](https://open.spotify.com/track/3CmrGupyMWv8nPmvi82l29) | [Jobin Johny](https://open.spotify.com/artist/5fGhoGW4lgdZdQrQ8DWB4x) | [Tu Hai Pari](https://open.spotify.com/album/674vfQyjaaQ6DuvZ8p3oJA) | 2:48 |
-| 15 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
+| 9 | [Aakhri Safar](https://open.spotify.com/track/7m6v0Hz4B8PSMAn19Jyz4l) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Aakhri Safar](https://open.spotify.com/album/2tAZqfTl1FvsdL90ZLIZn2) | 4:35 |
+| 10 | [Teri Aadat](https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g) | [ANK](https://open.spotify.com/artist/1pubO9H9yDaUmuweQHVne8) | [Teri Aadat](https://open.spotify.com/album/12cTuBqDOyvDonuFgEN4FO) | 3:06 |
+| 11 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
+| 12 | [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 |
+| 13 | [Mascara \(Unplugged\)](https://open.spotify.com/track/6IdJ9zRvPbSW5cERtMsoL5) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Mascara \(Unplugged\)](https://open.spotify.com/album/0xYDRKSJxhdkQiJCtVM61T) | 2:37 |
+| 14 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
+| 15 | [Tu Hai Pari](https://open.spotify.com/track/3CmrGupyMWv8nPmvi82l29) | [Jobin Johny](https://open.spotify.com/artist/5fGhoGW4lgdZdQrQ8DWB4x) | [Tu Hai Pari](https://open.spotify.com/album/674vfQyjaaQ6DuvZ8p3oJA) | 2:48 |
 | 16 | [Kisi Tarah](https://open.spotify.com/track/4jVJH1awgJLzWWv2vKNRwg) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Kisi Tarah](https://open.spotify.com/album/20GlqmFsboHgSZC4KA0rtr) | 2:58 |
 | 17 | [Kaise Bataun](https://open.spotify.com/track/7kZPzHdYiNLacsoCBxSpI3) | [Sur](https://open.spotify.com/artist/6L5KkoxG4x8q5kGTMER0U5) | [Kaise Bataun](https://open.spotify.com/album/2N8oJuriRWv8yM4nNIAclm) | 3:10 |
 | 18 | [Love Strings](https://open.spotify.com/track/0X74jZuAmNab2gOmZpGkrC) | [Honeyjeet Singh](https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ) | [Love Strings](https://open.spotify.com/album/78SUVtYpOdV367OE30nglI) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Chai Peete Peete](https://open.spotify.com/track/2KM2zCZgre6zisTh3SOf0Y) | [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Chai Peete Peete](https://open.spotify.com/album/5FWUWIaXzFWTmaEplDrzbJ) | 2:42 |
 | 75 | [Chand Ka Takiya](https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Chand Ka Takiya](https://open.spotify.com/album/05OhJuZZurrrrTo2j5pnq6) | 2:49 |
 
-Snapshot ID: `Z7QdTQAAAACVq7RI/HB94ZxvBZMTOffc`
+Snapshot ID: `Z7bG5wAAAAAQ7BK2zW+kAM/kGDgY9xP3`

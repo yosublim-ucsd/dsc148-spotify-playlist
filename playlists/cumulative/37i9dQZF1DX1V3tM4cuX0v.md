@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: MOLODI
+> Найпопулярніші пісні сьогодення\. Обкладинка: Nikow
 
 96 songs - 4 hr 45 min
 

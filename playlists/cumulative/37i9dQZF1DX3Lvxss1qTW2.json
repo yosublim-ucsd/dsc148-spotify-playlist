@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Ruger",
+  "description": "The future hits of today. \nCover: Yarden",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -2473,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124865,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG"
+    },
+    {
+      "album": {
         "name": "Ifineme X Upstandin",
         "url": "https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk"
       },
@@ -4746,7 +4768,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 127346,
       "name": "Shake It To The Max (FLY)",
       "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"

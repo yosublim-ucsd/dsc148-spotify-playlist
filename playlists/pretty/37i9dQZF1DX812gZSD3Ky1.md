@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: JISOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,813 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,835 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Moon & Stars](https://open.spotify.com/track/3J6JDjIpQmJeRzmt4LhZ9O) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Moon & Stars](https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS) | 4:21 |
 | 100 | [Now Or Never](https://open.spotify.com/track/38bpdoavxRTydgisUpZFL1) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Now Or Never](https://open.spotify.com/album/51Zme9D9kAFrCGYNWvxQsW) | 2:58 |
 
-Snapshot ID: `Z67SkwAAAAB2jHFStqzECfPwYqYIcCMu`
+Snapshot ID: `Z67SkwAAAAAj8cUV795/eW1O/oT9vtM+`

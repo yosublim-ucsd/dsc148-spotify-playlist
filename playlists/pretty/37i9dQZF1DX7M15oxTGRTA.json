@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 150707,
+  "num_followers": 150788,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3hMewAAAAAiYasU9YyBMz/fkHca2Mf0",
+  "snapshot_id": "Z3hMewAAAAAdpfEz6+5et8MunshCgtL0",
   "tracks": [
     {
       "added_at": "2025-01-03 20:45:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "A Bit Of Soul",
-        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "In A Special Way",
         "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225573,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Cl\u00e1udio Zoli",
-        "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
-      },
-      "artists": [
-        {
-          "name": "Claudio Zoli",
-          "url": "https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav"
-        }
-      ],
-      "duration_ms": 288040,
-      "name": "Cada Um, Cada Um",
-      "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "The Best Of Fourplay",
         "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Cl\u00e1udio Zoli",
+        "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
+      },
+      "artists": [
+        {
+          "name": "Claudio Zoli",
+          "url": "https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav"
+        }
+      ],
+      "duration_ms": 288040,
+      "name": "Cada Um, Cada Um",
+      "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
     },
     {
       "added_at": "2025-01-03 20:45:47",

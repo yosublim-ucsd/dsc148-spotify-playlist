@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u9ed2\u7530\u5353\u4e5f",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Ezra Collective",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 278000,
       "name": "Air\u2019s Running Low",
       "url": "https://open.spotify.com/track/0cUaNtFVzi3g5pE24yruDe"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 221126,
       "name": "Al Ponto",
       "url": "https://open.spotify.com/track/0KvncMYji5nBEBdeJERT0l"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 252026,
       "name": "Black Hole (feat. Reggie Watts)",
       "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
@@ -618,6 +618,28 @@
       "duration_ms": 153626,
       "name": "BMT - brushmyteeth",
       "url": "https://open.spotify.com/track/1kPMbJYGkFtBajYecm2sbA"
+    },
+    {
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
     },
     {
       "album": {
@@ -1227,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Dinorah Dinorah",
+        "url": "https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277459,
+      "name": "Dinorah Dinorah",
+      "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
+    },
+    {
+      "album": {
         "name": "Don't Remember Me",
         "url": "https://open.spotify.com/album/6JHab78zkxjegd93W4VYW6"
       },
@@ -1603,6 +1643,32 @@
     },
     {
       "album": {
+        "name": "Free Hit",
+        "url": "https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289568,
+      "name": "Free Hit",
+      "url": "https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd"
+    },
+    {
+      "album": {
         "name": "Frica",
         "url": "https://open.spotify.com/album/4HyLxdVq2zut2z0NKsgT75"
       },
@@ -1626,6 +1692,32 @@
       "duration_ms": 142570,
       "name": "Frica",
       "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
+    },
+    {
+      "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/0Kjcg6xKRgmN5klFo9EPWi"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199381,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa"
     },
     {
       "album": {
@@ -1772,7 +1864,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 441029,
       "name": "Half Past Something feat. Imani J & Hikaru Arata",
       "url": "https://open.spotify.com/track/2TTSIDn06bL3uplkLBVglR"
@@ -1990,7 +2082,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 256911,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
@@ -2134,6 +2226,46 @@
       "duration_ms": 262846,
       "name": "It's Ok, B U",
       "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Okay (feat. Kassa Overall)",
+        "url": "https://open.spotify.com/album/2wYxgFVV30dQLXd24c5p5X"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211473,
+      "name": "It\u2019s Okay (feat. Kassa Overall)",
+      "url": "https://open.spotify.com/track/5xGo1MzhQn0LddjOz5NfN5"
+    },
+    {
+      "album": {
+        "name": "I\u2019m (Back To Love)",
+        "url": "https://open.spotify.com/album/6osGdMY77iw5ZbFDiV2Bz6"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217554,
+      "name": "I\u2019m (Back To Love)",
+      "url": "https://open.spotify.com/track/7oOmbJTVzSVsZBjrSC9KF0"
     },
     {
       "album": {
@@ -3218,7 +3350,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 266035,
       "name": "obsession",
       "url": "https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG"
@@ -3586,7 +3718,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 412626,
       "name": "Rumba Roy",
       "url": "https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF"
@@ -4318,7 +4450,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 339933,
       "name": "Tranxit",
       "url": "https://open.spotify.com/track/3J27GbmvtUh7fVmVFTH0oN"
@@ -4380,6 +4512,32 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "album": {
+        "name": "Unafraid",
+        "url": "https://open.spotify.com/album/2TJnVAEd5NwNtji0NOWCtc"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321323,
+      "name": "Unafraid",
+      "url": "https://open.spotify.com/track/4y9X3vl2VYtSzhlrhiK93s"
     },
     {
       "album": {

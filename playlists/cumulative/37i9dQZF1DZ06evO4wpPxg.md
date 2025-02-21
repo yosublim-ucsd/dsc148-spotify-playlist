@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-325 songs - 20 hr 26 min
+326 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Get Right Church](https://open.spotify.com/track/1jhyUeUcRMvprfydfuNsdX) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Gospel, Blues And Street Songs](https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO) | 3:04 | 2022-06-16 | 2024-04-01 |
 | [Get Right Church](https://open.spotify.com/track/0b8ErkzbDe8R4ueOIAprJQ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 3:12 | 2024-05-24 |  |
 | [Gimme That Old Time Religion \- Live](https://open.spotify.com/track/1RNnpPmtQUzwwttul27l0s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Village Out West: The Lost Tapes of Alan Oakes](https://open.spotify.com/album/5v3PL4WZb94qqBzLmsyMcB) | 4:11 | 2023-12-20 | 2023-12-24 |
-| [Give Me a Heart to Love](https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 2:24 | 2022-06-16 |  |
+| [Give Me a Heart to Love](https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 2:24 | 2022-06-16 | 2025-02-21 |
 | [Go Ahead](https://open.spotify.com/track/4wJtYioapm5OAkWoYZF2UT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:00 | 2024-05-16 | 2024-07-03 |
 | [God Be With You](https://open.spotify.com/track/2H7QwsOrqmJ889g2ckPnLB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 1:19 | 2023-07-04 | 2024-08-14 |
 | [God's Gonna Separate](https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 2:49 | 2022-05-25 | 2024-10-29 |
@@ -231,6 +231,7 @@
 | [Sally, Where'd You Get Your Liquor From](https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 1:56 | 2022-05-25 |  |
 | [Samson And Delilah](https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2022-05-29 |  |
 | [Save up Your Money, John D Rockerfeller Put the Panic On](https://open.spotify.com/track/3CukN14yE52yNQurwvD1gL) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 1:55 | 2022-11-25 | 2023-07-17 |
+| [Save Up Your Money, John D\. Rockefeller / Put the Panic on](https://open.spotify.com/track/6qpetbMD9QCZpM1PphyjTy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 6:02 | 2025-02-21 |  |
 | [Save up Your Money, John D\. Rockefeller Put the Panic On](https://open.spotify.com/track/4R7yI4rTPPAtZ9TYIxfkbv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 3:54 | 2022-10-24 | 2023-07-31 |
 | [Save Up Your Money, John D\. Rockerfeller Put The P](https://open.spotify.com/track/7eXk6qhkpVxT2ZLWpJbmbS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 1:55 | 2023-07-16 | 2024-08-07 |
 | [Say No to the Devil](https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:20 | 2022-05-25 |  |

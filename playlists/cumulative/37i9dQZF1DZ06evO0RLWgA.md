@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-147 songs - 10 hr 13 min
+148 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2022-08-08 | 2024-02-05 |
 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 | 2024-02-08 |  |
 | [Boom Boom](https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:32 | 2022-08-06 |  |
-| [Bottle Up & Go](https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:25 | 2022-08-05 |  |
+| [Bottle Up & Go](https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:25 | 2022-08-05 | 2025-02-21 |
+| [Bottle Up & Go \- 2025 Remaster](https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:28 | 2025-02-21 |  |
 | [Burning Hell](https://open.spotify.com/track/0vvPcj65VlYiG0P4464lvQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 5:28 | 2022-08-05 | 2022-10-29 |
 | [Chill Out \(Things Gonna Change\)](https://open.spotify.com/track/3SQwVXJork7A75pRnQLgtf) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE) | 4:47 | 2022-08-05 | 2024-02-07 |
 | [Chill Out \(Things Gonna Change\) \(feat\. Carlos Santana\) \(2007 \- Remaster\)](https://open.spotify.com/track/6w3ukyGLi1JdnTnOiRZAsU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 4:47 | 2024-02-06 |  |
@@ -89,7 +90,7 @@
 | [Medley: Serves Me Right To Suffer/Syndicator](https://open.spotify.com/track/0XiKlXNrY8b7qlAaB2MjY3) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE) | 6:26 | 2022-08-05 | 2024-02-06 |
 | [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 | 2022-08-05 | 2024-09-10 |
 | [Money](https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:23 | 2022-08-06 | 2025-02-16 |
-| [Money \- 2025 Remaster](https://open.spotify.com/track/0H0sVV08u23jZxuhXoHk4G) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:26 | 2025-02-18 |  |
+| [Money \- 2025 Remaster](https://open.spotify.com/track/0H0sVV08u23jZxuhXoHk4G) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:26 | 2025-02-18 | 2025-02-21 |
 | [Moon Is Rising](https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Alternative Boogie: Early Studio Recordings, 1948\-1952](https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc) | 2:49 | 2022-08-10 | 2024-05-15 |
 | [Mr\. Lucky](https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:52 | 2023-04-23 |  |
 | [Mr\. Lucky](https://open.spotify.com/track/3MvJHgY3n4VSb4GEKYUlLl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Mr\. Lucky](https://open.spotify.com/album/7vNIps3OBFC1neFArqUvHI) | 4:41 | 2022-08-05 | 2023-04-23 |
@@ -104,7 +105,7 @@
 | [One Bourbon, One Scotch, One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 | 2022-08-05 |  |
 | [Peace Lovin' Man](https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 | 2022-08-05 |  |
 | [Please Don't Go](https://open.spotify.com/track/2kbHzR8Ac2a7sBk1uErIE5) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Plays & Sings The Blues](https://open.spotify.com/album/32WLhVCgqsFqFj4HRs1rbL) | 2:27 | 2023-12-13 | 2023-12-26 |
-| [Process](https://open.spotify.com/track/7CMDV19vm31ihLvqZUHLAu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:46 | 2022-08-06 | 2022-10-23 |
+| [Process](https://open.spotify.com/track/7CMDV19vm31ihLvqZUHLAu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:46 | 2022-08-06 |  |
 | [Red House](https://open.spotify.com/track/2al9nseOuULjTfe6GqInU1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE) | 4:04 | 2022-10-06 | 2022-10-08 |
 | [Rock With Me](https://open.spotify.com/track/3ASudh2vHVrxPqYlqekkYi) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Rock With Me](https://open.spotify.com/album/0nfkflglWTXtbrCl4ZwZ6p) | 7:06 | 2025-01-11 |  |
 | [Run On \- 2024 Remastered](https://open.spotify.com/track/7krXbrL1BUjgfe8x5gBzjy) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 2:12 | 2024-07-23 | 2024-07-24 |

@@ -212,6 +212,24 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214422,
+      "name": "Empty House",
+      "url": "https://open.spotify.com/track/79XPSIrAIDsneJNGLxIm8Y"
+    },
+    {
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184490,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"

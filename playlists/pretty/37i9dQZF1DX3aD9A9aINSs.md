@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Eda Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,601 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,598 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 58 | [Bana Yetti](https://open.spotify.com/track/53hRFhZ3Np9f3WWhloKpr2) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Bana Yetti](https://open.spotify.com/album/7oLROXOJ57kX3MubdQ7tl1) | 2:44 |
 | 59 | [Gelevera Deresi](https://open.spotify.com/track/7jDu9QJqzD5htpioKeg11C) | [Zeynep Sağdaş](https://open.spotify.com/artist/31OgDTm4dccas3rztaXiav) | [Gelevera Deresi](https://open.spotify.com/album/0JhPNiaqnqXM8ubMKeW6AW) | 4:38 |
 
-Snapshot ID: `Z6J/3QAAAAB6p5t3ry9369UdoxIsyZzK`
+Snapshot ID: `Z6J/3QAAAABOyj+/BlHn9USKDM4fPPoy`

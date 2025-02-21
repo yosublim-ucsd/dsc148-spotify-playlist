@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ozuna & Kapo, De La Rose, Neton Vega, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,323 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,491 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 59 | [No Puedo Olvidarte](https://open.spotify.com/track/2uKvLBz4BCk0jGKFviOn4o) | [DREAH](https://open.spotify.com/artist/6PQMN59XxY6G316nWgLv0o) | [No Puedo Olvidarte](https://open.spotify.com/album/4QiHwqstfXJtmxPA9Xvveu) | 2:42 |
 | 60 | [NINA](https://open.spotify.com/track/4U1UvfG0B2UVqWb8Pgvvbw) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [NINA](https://open.spotify.com/album/1OctTG0xdFHuIdixua7451) | 2:53 |
 
-Snapshot ID: `Z7SiugAAAAC29M12PbXdJxDN379AstHm`
+Snapshot ID: `Z7SiugAAAAC6H4xva4SEhhg8aQFJzNWf`

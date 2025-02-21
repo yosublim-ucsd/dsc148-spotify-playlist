@@ -2,7 +2,7 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: manifest
+> Yeni favori sanatçını keşfet ⚡ Kapak: merhababensokak
 
 198 songs - 9 hr 50 min
 

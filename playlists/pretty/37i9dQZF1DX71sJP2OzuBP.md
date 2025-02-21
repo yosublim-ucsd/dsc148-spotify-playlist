@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,338 likes - 124 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,337 likes - 124 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 123 | [每一天](https://open.spotify.com/track/4taoq0VNUIq6PKNEFgBcZU) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [每一天](https://open.spotify.com/album/1O9EwhCdlcqXwgrO05E2P5) | 3:31 |
 | 124 | [住在心里的人](https://open.spotify.com/track/4WBWv09WcKhje5yyKNoPxb) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [住在心里的人](https://open.spotify.com/album/6ojwByhXjqY1YhOPQpL1XI) | 3:24 |
 
-Snapshot ID: `Z7KgQgAAAADMk1tNdX58XWRmHOPDjPzp`
+Snapshot ID: `Z7KgQgAAAADWhsVWfB4abupumQfVZwgA`

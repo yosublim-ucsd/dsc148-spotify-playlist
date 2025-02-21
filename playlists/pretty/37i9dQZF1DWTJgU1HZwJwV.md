@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,924 likes - 153 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,035 likes - 153 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 152 | [Spring Song](https://open.spotify.com/track/52n5yfjlyiJoFZjTOQKTN6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Spring Song](https://open.spotify.com/album/2L66m0ySBM5BfEjugxT0LZ) | 2:51 |
 | 153 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 
-Snapshot ID: `Z7YM1QAAAADkDIiJCvuUy+XbdYltM80g`
+Snapshot ID: `Z7YM1QAAAADOcEIKQUB6qKqH+n6PyDiQ`

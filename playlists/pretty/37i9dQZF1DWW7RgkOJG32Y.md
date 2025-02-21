@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,540 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,630 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 54 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 |
 | 55 | [Silverado Blue](https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Silverado Blue](https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv) | 3:03 |
 
-Snapshot ID: `Z67N7gAAAABy67SFQuK3fd6Z/Krcw7rS`
+Snapshot ID: `Z67N7gAAAABh/G0WpqclOkLEg3XkHIwg`

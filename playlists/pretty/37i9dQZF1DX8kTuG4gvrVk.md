@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 
 > ¡Los éxitos de hoy en un sólo lugar! En portada: Alleh, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,302 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,381 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 | 49 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 50 | [Todas Mienten](https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Todas Mienten](https://open.spotify.com/album/5mgPda10MxzNBE6Q0pUlHb) | 2:56 |
 
-Snapshot ID: `Z65t9gAAAACHpV7oyicztQi/gomih45r`
+Snapshot ID: `Z65t9gAAAAB5VWtZJh/nU+SJOL7aCd2p`

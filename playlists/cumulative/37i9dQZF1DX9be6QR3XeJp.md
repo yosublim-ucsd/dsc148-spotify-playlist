@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Luvcat
+> Discover your new favourite artists from UK&IE\. Cover: Callinsick
 
-297 songs - 15 hr 59 min
+298 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 |  |
 | [HEART ATTACK](https://open.spotify.com/track/3ZwM4sK8D23CYoXiZ8dguS) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [FOREVER CLASSIC](https://open.spotify.com/album/6wFsRFuCL3IXmDXVN40BoD) | 3:02 | 2022-10-13 | 2024-04-19 |
 | [HEART ATTACK](https://open.spotify.com/track/76EYkurEHDQIPBsoYoT1sT) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/2KZ8ZwkG1jERKvUXdZ0lL7) | 3:02 | 2022-11-11 | 2022-11-14 |
+| [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 | 2025-02-21 |  |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-07-19 | 2023-07-21 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-02-18 |  |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-18 |  |

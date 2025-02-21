@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 67553,
+  "num_followers": 67564,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztx5GQAAAACxv8AAK8DQOD4bpsf/jXXQ",
+  "snapshot_id": "Ztx5GQAAAADkfoFavO1NaMXS3bUFfeD3",
   "tracks": [
     {
       "added_at": "2024-09-07 16:02:33",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 362426,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 362426,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Donna Summer (Re-Mastered & Expanded)",
         "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
-      },
-      "artists": [
-        {
-          "name": "Debbie Jacobs",
-          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
-        }
-      ],
-      "duration_ms": 468831,
-      "name": "Don't You Want My Love - Remastered",
-      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Love, Luther",
         "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 339506,
       "name": "Never Too Much - 12\" Version",
       "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
+      },
+      "artists": [
+        {
+          "name": "Debbie Jacobs",
+          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
+        }
+      ],
+      "duration_ms": 468831,
+      "name": "Don't You Want My Love - Remastered",
+      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Time Waits for No One",
-      "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 317480,
       "name": "Victim",
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Time Waits for No One",
+      "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
     },
     {
       "added_at": "2024-09-07 16:02:33",

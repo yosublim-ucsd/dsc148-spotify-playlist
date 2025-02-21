@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > bora viajar nesse foguete?? as faixas perfeitas pro seu verão selecionadas pelo ícone do momento: <a href="spotify:artist:1DuBkL1pAgaZQHXKPiVr08">Léo Foguete</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,488 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,513 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 |
 | 50 | [Beijo Bom \- Ao Vivo](https://open.spotify.com/track/5jLbIbWW07IAWBN65ah8T8) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Na Essência \(Ao Vivo\)](https://open.spotify.com/album/09fWv6Vgp4CFfRkt4Veaxf) | 2:46 |
 
-Snapshot ID: `Z6DbhAAAAADsnFHiOwndV2ggVmqtaiju`
+Snapshot ID: `Z6DbhAAAAACyMT/699+jFvyqDbeWwEd+`

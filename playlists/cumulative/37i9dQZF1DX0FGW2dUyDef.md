@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Kubilay Karça
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Reynmen
 
 123 songs - 6 hr 23 min
 

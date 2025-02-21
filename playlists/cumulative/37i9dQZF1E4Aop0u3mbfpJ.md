@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Rihanna, Ariana Grande, Adele and more
+> With Rihanna, Ariana Grande, Sabrina Carpenter and more
 
 1,938 songs - 4 day 20 hr 23 min
 

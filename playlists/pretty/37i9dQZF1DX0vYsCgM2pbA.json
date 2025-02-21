@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141976,
+  "num_followers": 141990,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6LwXwAAAABdK5ZDgilS2F1CqD7p7UzR",
+  "snapshot_id": "Z6LwXwAAAABf4XBvuPkEXUQ2oGFaNgfU",
   "tracks": [
     {
       "added_at": "2025-02-05 05:00:15",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
@@ -507,6 +487,22 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -547,18 +543,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
       },
       "artists": [
         {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 182869,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "My Vibe",
+        "url": "https://open.spotify.com/album/4QrIXQCRIPqx2jLqUykSrY"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        },
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "My Vibe",
+      "url": "https://open.spotify.com/track/7HFkxGzL9Opf1vMlaokRqC"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Gimme Some More (feat. Shungudzo)",
         "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
       },
@@ -1287,22 +1307,18 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "My Vibe",
-        "url": "https://open.spotify.com/album/4QrIXQCRIPqx2jLqUykSrY"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4ACDfqTP2MvJ7oSFRT1z11"
       },
       "artists": [
         {
-          "name": "Hutcher",
-          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
-        },
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 161484,
-      "name": "My Vibe",
-      "url": "https://open.spotify.com/track/7HFkxGzL9Opf1vMlaokRqC"
+      "duration_ms": 158804,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3w9Gddx38ouMryZzm1tWe0"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1327,18 +1343,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4ACDfqTP2MvJ7oSFRT1z11"
+        "name": "Tied to You",
+        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
       },
       "artists": [
         {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
         }
       ],
-      "duration_ms": 158804,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3w9Gddx38ouMryZzm1tWe0"
+      "duration_ms": 223728,
+      "name": "Tied to You",
+      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1379,26 +1399,6 @@
       "duration_ms": 173793,
       "name": "Under The Milky Way - Leo Portela Remix",
       "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Tied to You",
-        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Tied to You",
-      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Foam (Sam Alfred Remix)",
-        "url": "https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        },
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Foam - Sam Alfred Remix",
-      "url": "https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Foam (Sam Alfred Remix)",
+        "url": "https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        },
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Foam - Sam Alfred Remix",
+      "url": "https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Regrowth",
         "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 225048,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 162857,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Love Type",
         "url": "https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 215605,
       "name": "Love Type",
       "url": "https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Don't Stop (Keep on Keepin on)",
-        "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
-      },
-      "artists": [
-        {
-          "name": "Lemonade Baby",
-          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Don't Stop (Keep on Keepin on)",
-      "url": "https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E"
     }
   ],
   "unique_name": "Sunday Sessions",

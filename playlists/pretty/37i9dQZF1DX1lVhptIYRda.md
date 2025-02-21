@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,661,999 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,662,779 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 |
 | 50 | [Quit You](https://open.spotify.com/track/1DPkLVuWJKqbUafPFOU7fZ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Quit You](https://open.spotify.com/album/5DubA7RsmIwJmWu8NAQrQU) | 3:06 |
 
-Snapshot ID: `Z67N5wAAAAAwm1e4eC5XJPb3eCbS/VQf`
+Snapshot ID: `Z67N5wAAAAAg1uIfDt11bNeEODzfeAh+`

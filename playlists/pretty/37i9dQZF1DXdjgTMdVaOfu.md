@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,447 likes - 53 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,570 likes - 53 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 52 | [春牡丹](https://open.spotify.com/track/2fqHg2p64AtsrYDVnJDUHN) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:46 |
 | 53 | [毒見役の少女](https://open.spotify.com/track/4u3w9n9YSglLlGBxic1WLI) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:01 |
 
-Snapshot ID: `Z4CT/wAAAACKusAKjXwd4hgtdSZw2y3r`
+Snapshot ID: `Z4CT/wAAAACkjGdBZACjW1rVVA3gYmYv`

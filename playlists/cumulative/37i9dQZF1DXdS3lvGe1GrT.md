@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-1,555 songs - 3 day 20 hr 40 min
+1,556 songs - 3 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Home in the Country](https://open.spotify.com/track/7eiS9YMhjhX4r7qutGHJvo) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Home in the Country](https://open.spotify.com/album/3Eas5dSoSK2Zx59Qkm2h2W) | 3:38 | 2023-06-21 | 2023-08-24 |
 | [home on the range](https://open.spotify.com/track/3UVBJCa53mJUl86apapS8D) | [wilter](https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R) | [home on the range](https://open.spotify.com/album/0ZHPMLO1uAycrb3E8RCrMi) | 3:46 | 2024-05-15 | 2024-08-01 |
 | [Home Run](https://open.spotify.com/track/09vsySrvxLLyJKzeNAXjQj) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Home Run](https://open.spotify.com/album/45zRBFb2wD4XDuZOBJqbEH) | 2:34 | 2024-09-26 | 2025-01-16 |
+| [Home Run \(pt.2\)](https://open.spotify.com/track/1XllnlkVI1GpZ5OWEmcwoP) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x), [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [Home Run \(pt.2\)](https://open.spotify.com/album/3LJI9YVyQN2Cz6aUQ8HhjN) | 3:09 | 2025-02-20 |  |
 | [Homesick](https://open.spotify.com/track/486EjWGaXjhgt9oQdeDUdA) | [Bobby Kid](https://open.spotify.com/artist/3itmbTKEe0jxP7ndPo54hN) | [Babyface](https://open.spotify.com/album/6hMw5ZWrlzx65rf4RXEzkW) | 3:17 | 2023-04-12 | 2023-05-24 |
 | [Honest Mistake](https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Honest Mistake](https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t) | 3:47 | 2024-04-10 | 2024-06-20 |
 | [Honey](https://open.spotify.com/track/7xRhhe1Lg7Mwi1hSjeRCaZ) | [Rebecca Marcyes](https://open.spotify.com/artist/20XswVKXwQujBBB0s9xMwU), [Mikayla McVey](https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb), [Catch Prichard](https://open.spotify.com/artist/4fGnksIEapOHDbvWOYPCW5) | [Honey](https://open.spotify.com/album/1tcpIzJmy9nLExvj9TWYzP) | 2:36 | 2023-04-05 | 2023-05-11 |

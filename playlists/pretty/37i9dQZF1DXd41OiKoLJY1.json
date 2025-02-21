@@ -1,13 +1,301 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Brianna Artwork: Isu Kim\n",
-  "num_followers": 64231,
+  "description": "Fresh releases from your future favorite artists. Cover: Pauline Anne Artwork: Isu Kim\n",
+  "num_followers": 64263,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HoAAAAABWmv8fE57QDf5Kk9a3QTIB",
+  "snapshot_id": "Z7dRnwAAAABDmW+A/aLmpBC05WbmqIoX",
   "tracks": [
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/1IXT2dXH8AsOhtyc0Cubly"
+      },
+      "artists": [
+        {
+          "name": "Drei",
+          "url": "https://open.spotify.com/artist/57Ss3NocTxYs2nP9ZobQGJ"
+        }
+      ],
+      "duration_ms": 121508,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/1BlgKv89kZ6mKEjk8ySdoe"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "BAT DI MO",
+        "url": "https://open.spotify.com/album/2aSlMTis0cTRq3aZbhWrnQ"
+      },
+      "artists": [
+        {
+          "name": "Fc Pao",
+          "url": "https://open.spotify.com/artist/7N28aBCU6I4aULzXSglxFS"
+        }
+      ],
+      "duration_ms": 177744,
+      "name": "BAT DI MO",
+      "url": "https://open.spotify.com/track/0d3QjHE4IC5EFwKSjiAwLy"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Paulit-Ulit (Dito Ka Lang)",
+        "url": "https://open.spotify.com/album/7y2sieZGVvY31kVlEEe8G2"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anne",
+          "url": "https://open.spotify.com/artist/4n5v9PHXMujNYfl8gcMyGo"
+        }
+      ],
+      "duration_ms": 196605,
+      "name": "Paulit-Ulit (Dito Ka Lang)",
+      "url": "https://open.spotify.com/track/7aY3FlZVsvS6DQjyabEi9c"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "ALAS DOS",
+        "url": "https://open.spotify.com/album/3rSPl5CDwn3lLH40oVzUq7"
+      },
+      "artists": [
+        {
+          "name": "P4bl0",
+          "url": "https://open.spotify.com/artist/0xh04KMHGerrwFTxxdLs4V"
+        }
+      ],
+      "duration_ms": 124071,
+      "name": "ALAS DOS",
+      "url": "https://open.spotify.com/track/11A15vpKklR8OihxWkaIQh"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Kahit Bawal",
+        "url": "https://open.spotify.com/album/71PX8B7IGSlu7NdlZiObfD"
+      },
+      "artists": [
+        {
+          "name": "YOUNGMOB",
+          "url": "https://open.spotify.com/artist/6OTpwG6TRwvA6vzTpRzl7p"
+        }
+      ],
+      "duration_ms": 148711,
+      "name": "Kahit Bawal",
+      "url": "https://open.spotify.com/track/70kkvTGmXhlGChxncWfH64"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Weather",
+        "url": "https://open.spotify.com/album/3e4OSGiFaqPonNuLr8xDlS"
+      },
+      "artists": [
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2DJfC9Qn2XrtnWaRymEzgt"
+        }
+      ],
+      "duration_ms": 148182,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1AzAbra3QB4hthQ1EYj2iV"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Funky Funk",
+        "url": "https://open.spotify.com/album/5YDcS24KM6uU5pL34scneX"
+      },
+      "artists": [
+        {
+          "name": "BLITZ",
+          "url": "https://open.spotify.com/artist/6UUAqyLM2Nt0vDUkY0EEf6"
+        }
+      ],
+      "duration_ms": 194176,
+      "name": "Funky Funk",
+      "url": "https://open.spotify.com/track/45IEb1ojlA2IqtWmKmRE9h"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Ayokong Mag Asawa",
+        "url": "https://open.spotify.com/album/60cUdktBloSlJmY3DCnxPM"
+      },
+      "artists": [
+        {
+          "name": "YUN",
+          "url": "https://open.spotify.com/artist/1KHYsn8dT0PXqVWz1d3Sgh"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Ayokong Mag Asawa",
+      "url": "https://open.spotify.com/track/080zbN7zlbhBje2cyfHTaG"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "We'll Be Okay",
+        "url": "https://open.spotify.com/album/24FwugszdkfOSlDC6UKk2W"
+      },
+      "artists": [
+        {
+          "name": "Diego's Scenes",
+          "url": "https://open.spotify.com/artist/3rNIEGFC3obGwotxBdL0jE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "We'll Be Okay",
+      "url": "https://open.spotify.com/track/2SLeABFipkH11rWyKHmZZE"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "IWL",
+        "url": "https://open.spotify.com/album/3aitd0yMw5synK95L6wneG"
+      },
+      "artists": [
+        {
+          "name": "Ferny",
+          "url": "https://open.spotify.com/artist/0c2o962KhSDjbr8doBqOcC"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "IWL",
+      "url": "https://open.spotify.com/track/7nmriwx0cwgw0Z61TT5RjE"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Di Ko Kaya",
+        "url": "https://open.spotify.com/album/1cDDiwn3c3Quj6all1kwo9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Angelo",
+          "url": "https://open.spotify.com/artist/48pvdRP9qwG9omYQpxtLJE"
+        }
+      ],
+      "duration_ms": 274576,
+      "name": "Di Ko Kaya",
+      "url": "https://open.spotify.com/track/0cQibHPnITVOdGjms97KLY"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Hindi Hihiwalay",
+        "url": "https://open.spotify.com/album/5fEcjFAuXLRxXc5gImaTqK"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Caraan",
+          "url": "https://open.spotify.com/artist/6eEUEW6MNy1FSGJkHxYSKF"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Hindi Hihiwalay",
+      "url": "https://open.spotify.com/track/01vobZtrWSSb7af1dR6tdB"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Bati Na Ba?",
+        "url": "https://open.spotify.com/album/7bzpgg4PAOsHAgrnAVOOdn"
+      },
+      "artists": [
+        {
+          "name": "Dreiboi",
+          "url": "https://open.spotify.com/artist/3s43UzWzqeDZvLhBb3FYiY"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Bati Na Ba?",
+      "url": "https://open.spotify.com/track/1MXebJSXCc4UCb1q6yccYE"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "City Nites",
+        "url": "https://open.spotify.com/album/2RGA6lideiMzFMe1TNVxEd"
+      },
+      "artists": [
+        {
+          "name": "Paul Arcega",
+          "url": "https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME"
+        }
+      ],
+      "duration_ms": 305753,
+      "name": "Bawat Kalawakan",
+      "url": "https://open.spotify.com/track/7D0vflIJuREza9OvWfO9My"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Strangers Again",
+        "url": "https://open.spotify.com/album/3ydeKEMhrLxl2AnoKj96ZP"
+      },
+      "artists": [
+        {
+          "name": "Sean de Castro",
+          "url": "https://open.spotify.com/artist/0fvu33mHlFL0EpVlqHZ1hR"
+        }
+      ],
+      "duration_ms": 260002,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/7wBILUZ2QlbItlBokJVkAy"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Saving Grace",
+        "url": "https://open.spotify.com/album/3rezkI3XloBPHfcDotsdVZ"
+      },
+      "artists": [
+        {
+          "name": "RAKI",
+          "url": "https://open.spotify.com/artist/0Rx1HTfXRLwSQSa1LEMxFZ"
+        }
+      ],
+      "duration_ms": 212217,
+      "name": "Saving Grace",
+      "url": "https://open.spotify.com/track/2k2LE1s3BBq1naW0mdSBpN"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/1WnwE1IVUBWN5EGoSkPsko"
+      },
+      "artists": [
+        {
+          "name": "serro",
+          "url": "https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0"
+        }
+      ],
+      "duration_ms": 203871,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1aDp9bW7JKuzW0dJZhmxgk"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "Candy Kisses",
+        "url": "https://open.spotify.com/album/46vYelh3SmbfO2wcJkm5dW"
+      },
+      "artists": [
+        {
+          "name": "MnLA",
+          "url": "https://open.spotify.com/artist/3x70UUkXaHnnzeB3asayu7"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "Candy Kisses",
+      "url": "https://open.spotify.com/track/3OQkdhVuHglA6x7lmyLh7G"
+    },
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
@@ -1403,334 +1691,6 @@
       "duration_ms": 133882,
       "name": "Let's Bounce",
       "url": "https://open.spotify.com/track/19VjLCWF9sx2YLzYJOuFxt"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Alay sa Gabay",
-        "url": "https://open.spotify.com/album/0mhngz32A0dr0RanaFskm2"
-      },
-      "artists": [
-        {
-          "name": "Jerms",
-          "url": "https://open.spotify.com/artist/0ecCRQhRSR0PTID7RdB6qA"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Alay sa Gabay",
-      "url": "https://open.spotify.com/track/2ujouOfryhAO8n41MsykmQ"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Extra Time",
-        "url": "https://open.spotify.com/album/7obOctwy9Hnch1ipTFydBd"
-      },
-      "artists": [
-        {
-          "name": "Jean Flores",
-          "url": "https://open.spotify.com/artist/6008BItDf2Xyd2L9Jv49Ks"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Extra Time",
-      "url": "https://open.spotify.com/track/2n8MZzoEfynqP2KFfWBcME"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Lonely Little Serenade",
-        "url": "https://open.spotify.com/album/33mfN1LqU2M91hAqVlEOIR"
-      },
-      "artists": [
-        {
-          "name": "wax.wav",
-          "url": "https://open.spotify.com/artist/48uqK9OsVB4OZiiLmIMWAk"
-        }
-      ],
-      "duration_ms": 268755,
-      "name": "Lonely Little Serenade",
-      "url": "https://open.spotify.com/track/4y4ZP37sV004Zc8AqZRrhX"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Balang Araw",
-        "url": "https://open.spotify.com/album/1RmqCVYwn9Y1M81fLdmE2s"
-      },
-      "artists": [
-        {
-          "name": "SY\u2022NC",
-          "url": "https://open.spotify.com/artist/7sr10u47SZqLx2SQMWEQyO"
-        }
-      ],
-      "duration_ms": 223611,
-      "name": "Balang Araw",
-      "url": "https://open.spotify.com/track/6IU6mQ6qH5pJBikWt9FPuM"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "I Wanna Know Ya",
-        "url": "https://open.spotify.com/album/7w968OFcEFPvHDhAlKnBa6"
-      },
-      "artists": [
-        {
-          "name": "Sofia San Diego",
-          "url": "https://open.spotify.com/artist/1ElmVsVcMKhOKaPSEN1LbN"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "I Wanna Know Ya",
-      "url": "https://open.spotify.com/track/6Ty7BIGydZToDbwT24NqWD"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/7jXFtmvhE29tH1QSRpBwC3"
-      },
-      "artists": [
-        {
-          "name": "Sendero",
-          "url": "https://open.spotify.com/artist/3HmK1RVitv2JoHmt4oIOSn"
-        }
-      ],
-      "duration_ms": 240163,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/1gSwQ7JlVM0RhjyojeSM5O"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/2ppeoBUxHum4MmboyA3yLM"
-      },
-      "artists": [
-        {
-          "name": "Chad Bihag",
-          "url": "https://open.spotify.com/artist/1VqiiC4FpCPeYebAhNGDRZ"
-        },
-        {
-          "name": "lxni",
-          "url": "https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm"
-        }
-      ],
-      "duration_ms": 182668,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/1n1QVccM6Jg4XyiGshGfiX"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "So Easy",
-        "url": "https://open.spotify.com/album/3RP5j3387rW4ecHeR4QIbm"
-      },
-      "artists": [
-        {
-          "name": "Jam Quijano",
-          "url": "https://open.spotify.com/artist/7AY7NvAIHxqjuHEtMhaNe0"
-        }
-      ],
-      "duration_ms": 181343,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/4prZ86T4nuXIbOtHZh8w3E"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Lagi",
-        "url": "https://open.spotify.com/album/1N7M1EfDVmsY8UqwgaT0tg"
-      },
-      "artists": [
-        {
-          "name": "Ica Frias",
-          "url": "https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Lagi",
-      "url": "https://open.spotify.com/track/4O5dsryOtQKORwt73CH1sD"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "TIMEWITHYOU",
-        "url": "https://open.spotify.com/album/0pUr4s9u06uvHIwME04GUw"
-      },
-      "artists": [
-        {
-          "name": "AZKAL",
-          "url": "https://open.spotify.com/artist/11bDEn3Ys2jFXV397dA4Bz"
-        }
-      ],
-      "duration_ms": 184210,
-      "name": "TIMEWITHYOU",
-      "url": "https://open.spotify.com/track/6hyNTXMNA5xdYS9IIF1EvS"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Salamat Sayo",
-        "url": "https://open.spotify.com/album/5kzNJcmMbVCz5tCJAA335y"
-      },
-      "artists": [
-        {
-          "name": "LEYO",
-          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Salamat Sayo",
-      "url": "https://open.spotify.com/track/5TmcPadZkrMco5mMoc3nnD"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Ilusyon",
-        "url": "https://open.spotify.com/album/5lp424ElB05sZmIkgVxBzn"
-      },
-      "artists": [
-        {
-          "name": "Carish",
-          "url": "https://open.spotify.com/artist/3OeiqjQLg0Nnm1xLVpmydn"
-        }
-      ],
-      "duration_ms": 218182,
-      "name": "Ilusyon",
-      "url": "https://open.spotify.com/track/05zXBHWDJYcdEhowAhw9mQ"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "When I Met You",
-        "url": "https://open.spotify.com/album/5BaT2HBQWxaQm3FLuk5HLD"
-      },
-      "artists": [
-        {
-          "name": "Luis Paderes",
-          "url": "https://open.spotify.com/artist/5WVVIHNQk9TY5pwvAVteWP"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "When I Met You",
-      "url": "https://open.spotify.com/track/7ceUQdLh7TJY1BskIhrK15"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "WHEN THE DAY ENDS",
-        "url": "https://open.spotify.com/album/4UdLBto8MJ7EWhHGssgsB7"
-      },
-      "artists": [
-        {
-          "name": "Leah Halili",
-          "url": "https://open.spotify.com/artist/4B13ZLlqLRlWWrlfKR7C4r"
-        }
-      ],
-      "duration_ms": 150058,
-      "name": "WHEN THE DAY ENDS",
-      "url": "https://open.spotify.com/track/0NGUHcNsgfcBvxCwGYyR3y"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Tagaytay",
-        "url": "https://open.spotify.com/album/5TsTf2Br4soYcqSy9X5bha"
-      },
-      "artists": [
-        {
-          "name": "Grhym3z",
-          "url": "https://open.spotify.com/artist/4lxNxQiwKG1jUewO2yzSGM"
-        }
-      ],
-      "duration_ms": 236312,
-      "name": "Tagaytay",
-      "url": "https://open.spotify.com/track/0GVr0ioGMACW9zlT5RRtxY"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "The Queen",
-        "url": "https://open.spotify.com/album/2ouSJYbTsS4lEg69zWdZjO"
-      },
-      "artists": [
-        {
-          "name": "Eloisa",
-          "url": "https://open.spotify.com/artist/5mDsFqB6IM7KUbrk9pOZEF"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "The Queen",
-      "url": "https://open.spotify.com/track/3nTt8uC3fJDQWISBy5PCQy"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Wag Siya",
-        "url": "https://open.spotify.com/album/0SxRUn3SdOgCw3MSQOZdnD"
-      },
-      "artists": [
-        {
-          "name": "Mark Rivera",
-          "url": "https://open.spotify.com/artist/6dZbMKNYQNmxcSuE0djM90"
-        }
-      ],
-      "duration_ms": 236079,
-      "name": "Wag Siya",
-      "url": "https://open.spotify.com/track/36j2rbFoj1uhSu6DPqvhjy"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Scorpio",
-        "url": "https://open.spotify.com/album/1gkRn0IDe4Gy2dWES6arhc"
-      },
-      "artists": [
-        {
-          "name": "Jean Alejandro",
-          "url": "https://open.spotify.com/artist/7hibTW3hMAc5bWpk5VlaCf"
-        }
-      ],
-      "duration_ms": 213346,
-      "name": "Scorpio",
-      "url": "https://open.spotify.com/track/0aC1n1s6ACGHxwoazcGx3M"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "BENZZZ",
-        "url": "https://open.spotify.com/album/50qnvhSA1o7LEpgjY0vqdK"
-      },
-      "artists": [
-        {
-          "name": "KPC",
-          "url": "https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ"
-        }
-      ],
-      "duration_ms": 95243,
-      "name": "BENZZZ",
-      "url": "https://open.spotify.com/track/4CkXUSPHqWcxeAfrOf9lyb"
-    },
-    {
-      "added_at": "2025-01-31 13:00:21",
-      "album": {
-        "name": "Tagpuan (From \u201cEvangeline\u201d: A Short Film)",
-        "url": "https://open.spotify.com/album/1P6OpRQCnML4JNHkBuTpAz"
-      },
-      "artists": [
-        {
-          "name": "Lene Asuncion",
-          "url": "https://open.spotify.com/artist/6xt63GRORwP6QTjvfXnV4j"
-        },
-        {
-          "name": "Brigz Viernes",
-          "url": "https://open.spotify.com/artist/6Y5TRzpjFIrvpzDdqav9lg"
-        }
-      ],
-      "duration_ms": 326003,
-      "name": "Tagpuan (From \u201cEvangeline\u201d: A Short Film)",
-      "url": "https://open.spotify.com/track/3w03z4RwrmHLVPpxbBoI1A"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

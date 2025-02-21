@@ -675,6 +675,52 @@
     },
     {
       "album": {
+        "name": "Anniversary (A Cappella)",
+        "url": "https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM"
+      },
+      "artists": [
+        {
+          "name": "JABARI",
+          "url": "https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        },
+        {
+          "name": "Amanda Adams",
+          "url": "https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7"
+        },
+        {
+          "name": "R&B ONLY",
+          "url": "https://open.spotify.com/artist/48zrLqRRtFQ7jAeWNs1j7F"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "Anniversary - A Cappella",
+      "url": "https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv"
+    },
+    {
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -1830,7 +1876,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 211120,
       "name": "Can\u2019t Wait For You",
       "url": "https://open.spotify.com/track/5n2wrLDldsLbFWi8dmqJua"
@@ -2372,7 +2418,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 226400,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
@@ -11034,7 +11080,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 217622,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"

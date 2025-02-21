@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,806 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,847 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 59 | [MOTIVEISHON](https://open.spotify.com/track/2NioKrz9davb3CvHmgZ7yw) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:38 |
 | 60 | [Incondicional](https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:32 |
 
-Snapshot ID: `Z03gPgAAAACS92v1QkoaDwdFGAu9vRzj`
+Snapshot ID: `Z03gPgAAAADxinNklywCNoLgnQM4qM7b`

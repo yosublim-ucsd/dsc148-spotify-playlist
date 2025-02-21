@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Pawelo
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,641 likes - 49 songs - 2 hr 19 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,648 likes - 54 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,10 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 47 | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ) | 3:19 |
 | 48 | [Dark Days](https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Dark Days](https://open.spotify.com/album/3s2OsUcKQigkeEnnU5ZHfg) | 2:33 |
 | 49 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
+| 50 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
+| 51 | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [FeniFina](https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ) | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej) | 2:30 |
+| 52 | [Deaf by Stereo](https://open.spotify.com/track/7fi7L1Y3bjA6xmhC2PUmLT) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Deaf by Stereo](https://open.spotify.com/album/0F2lBgnTU0ws7Zh3HYKO5u) | 2:16 |
+| 53 | [Hometown Hero](https://open.spotify.com/track/0xobh82ftL8JRfZ7dvNmrA) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Hometown Hero](https://open.spotify.com/album/5tJ3ruGQb5bVYQ5oP8ZUuN) | 2:50 |
+| 54 | [Over Now](https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Over Now](https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA) | 3:04 |
 
-Snapshot ID: `AAAezVbwiSIFOQe/qymk21OIa2hbbhFN`
+Snapshot ID: `AAAez2clLuD3gDnaNi/ILPArrlU7avA2`

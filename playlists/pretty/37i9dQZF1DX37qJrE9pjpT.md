@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Msodoki Young Killer
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,018 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,026 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [FLEX](https://open.spotify.com/track/0CVLCHO8V6YAdGJ3vXWXEo) | [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [FLEX](https://open.spotify.com/album/2u2vEZK7u7AdEZIV9xSLco) | 2:44 |
 | 50 | [Top Dollar](https://open.spotify.com/track/29WjWmO7ENZgp5CqWKBA39) | [Fundi Wake](https://open.spotify.com/artist/51eaWTJAxlRqKgmpSXlBcV) | [Top Dollar](https://open.spotify.com/album/3EBuNLpKwDPvke1LMArGIc) | 2:37 |
 
-Snapshot ID: `Z1I+RAAAAADAmhciOmI4QL+5sINjZO/c`
+Snapshot ID: `Z1I+RAAAAAAMr0dTnQXECO53hvBE1odX`

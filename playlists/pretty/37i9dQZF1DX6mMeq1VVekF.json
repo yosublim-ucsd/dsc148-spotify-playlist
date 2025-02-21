@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Kelela",
-  "num_followers": 179085,
+  "num_followers": 179083,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HoAAAAADOTq7alYzz5bZQFfYlT49f",
+  "snapshot_id": "Z66HoAAAAACEwG0odH3c/b8ZlttAnDAw",
   "tracks": [
     {
       "added_at": "2025-02-14 00:00:32",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "Counterfeit",
-        "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
-      },
-      "artists": [
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
+        "name": "Counterfeit",
+        "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
     },
     {
       "added_at": "2025-02-14 00:00:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "Creole",
         "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
       },
@@ -499,22 +483,34 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "Black & Tan",
-        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
       "artists": [
         {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 138260,
-      "name": "Black & Tan",
-      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
+        "name": "NEXT MOVE",
+        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 100050,
+      "name": "NEXT MOVE",
+      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
     },
     {
       "added_at": "2025-02-14 00:00:32",
@@ -535,18 +531,22 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "NEXT MOVE",
-        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
+        "name": "Black & Tan",
+        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
       },
       "artists": [
         {
-          "name": "Slew",
-          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
         }
       ],
-      "duration_ms": 100050,
-      "name": "NEXT MOVE",
-      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
+      "duration_ms": 138260,
+      "name": "Black & Tan",
+      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
     },
     {
       "added_at": "2025-02-14 00:00:32",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/4zOjFy0gQWpl8fMtM7GrEU"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 265799,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/52pfiQ1SaxKC6LcLmvDD97"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/4zOjFy0gQWpl8fMtM7GrEU"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 265799,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/52pfiQ1SaxKC6LcLmvDD97"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "Take Me Down",
         "url": "https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "2BADGYALZ",
-        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 101500,
-      "name": "2BADGYALZ",
-      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "Desert Belly",
         "url": "https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 182680,
       "name": "Desert Belly",
       "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
+        "name": "2BADGYALZ",
+        "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 101500,
+      "name": "2BADGYALZ",
+      "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
     },
     {
       "added_at": "2025-02-14 00:00:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "BEAST LIVING",
-        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Same Place",
-      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "The Fork",
         "url": "https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280306,
       "name": "The Fork",
       "url": "https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
+        "name": "BEAST LIVING",
+        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
     },
     {
       "added_at": "2025-02-14 00:00:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-14 00:00:32",
       "album": {
-        "name": "Wagashi",
-        "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
-      },
-      "artists": [
-        {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
-        }
-      ],
-      "duration_ms": 116879,
-      "name": "Wagashi",
-      "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
-    },
-    {
-      "added_at": "2025-02-14 00:00:32",
-      "album": {
         "name": "Chaos Is Her Name",
         "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 220285,
       "name": "Precious",
       "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
+    },
+    {
+      "added_at": "2025-02-14 00:00:32",
+      "album": {
+        "name": "Wagashi",
+        "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 116879,
+      "name": "Wagashi",
+      "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
     },
     {
       "added_at": "2025-02-14 00:00:32",

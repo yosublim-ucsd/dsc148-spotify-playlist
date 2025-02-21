@@ -1,15 +1,15 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
-  "num_followers": 30673,
+  "num_followers": 30675,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6wJrQAAAAAi5d0YdR0o88HxZi/Dl+UK",
+  "snapshot_id": "Z7dDkQAAAABVGpRIMoLGUcYqhtEhdGRm",
   "tracks": [
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "DEEPER",
         "url": "https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
@@ -45,39 +45,7 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "The Creation of ADAM",
-        "url": "https://open.spotify.com/album/15yXyGAjrQJj2wdKrzUqvc"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Install",
-      "url": "https://open.spotify.com/track/0XHXSRiodyRHikC7Rah4L5"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "MELODICA",
         "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
@@ -97,23 +65,7 @@
       "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/23ZjMOszKR7sjFmN0vXEan"
-      },
-      "artists": [
-        {
-          "name": "toconoma",
-          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "Syncer",
-      "url": "https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
@@ -137,7 +89,55 @@
       "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Balloon Pop",
         "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
@@ -157,115 +157,7 @@
       "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Answer to Remember II",
-        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
-      },
-      "artists": [
-        {
-          "name": "Answer to Remember",
-          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
-        },
-        {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        },
-        {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
-        },
-        {
-          "name": "Gensuke Kanki",
-          "url": "https://open.spotify.com/artist/6wKIQpK2Xmxfoto8ezWfZC"
-        },
-        {
-          "name": "\u4e95\u4e0a\u9298",
-          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
-        },
-        {
-          "name": "MELRAW",
-          "url": "https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N"
-        },
-        {
-          "name": "\u6d77\u5800\u5f18\u592a",
-          "url": "https://open.spotify.com/artist/2agGhXNQXZhNjIgVKeDkF1"
-        },
-        {
-          "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30db\u30ed\u30d9\u30c3\u30af",
-          "url": "https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj"
-        }
-      ],
-      "duration_ms": 342293,
-      "name": "\uff08\u3064\u3065\u304f\uff09",
-      "url": "https://open.spotify.com/track/2gMxAHUFrJqvBlRvBorkjE"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
@@ -281,23 +173,23 @@
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "Dusty Future / Struggle",
-        "url": "https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL"
+        "name": "MINT JAMS(Live)",
+        "url": "https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9"
       },
       "artists": [
         {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Dusty Future",
-      "url": "https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D"
+      "duration_ms": 298920,
+      "name": "\u671d\u713c\u3051 - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982",
+      "url": "https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "qualia",
         "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
@@ -313,39 +205,7 @@
       "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 284052,
-      "name": "Cosmic Maze",
-      "url": "https://open.spotify.com/track/119ny23uRdkV5mzqyZ0sr6"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        }
-      ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
@@ -369,39 +229,7 @@
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "C",
-        "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
-      },
-      "artists": [
-        {
-          "name": "a picture of her",
-          "url": "https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT"
-        }
-      ],
-      "duration_ms": 327160,
-      "name": "The bell tolls",
-      "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "SignaL",
-        "url": "https://open.spotify.com/album/5wcdh9GwhmHAdyQmbpwmkd"
-      },
-      "artists": [
-        {
-          "name": "toconoma",
-          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "SignaL",
-      "url": "https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
@@ -417,23 +245,23 @@
       "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "GOOD LUCK SOUND TRACKS 2",
-        "url": "https://open.spotify.com/album/5BDrpgNmD2rtFlLr6zKj2P"
+        "name": "C",
+        "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
       },
       "artists": [
         {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+          "name": "a picture of her",
+          "url": "https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT"
         }
       ],
-      "duration_ms": 231525,
-      "name": "massive",
-      "url": "https://open.spotify.com/track/5ZLhUcvJ8XVOQ8syjyPYod"
+      "duration_ms": 327160,
+      "name": "The bell tolls",
+      "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
@@ -449,23 +277,7 @@
       "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP"
-      },
-      "artists": [
-        {
-          "name": "stim",
-          "url": "https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
@@ -481,23 +293,23 @@
       "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
-        "name": "MINT JAMS(Live)",
-        "url": "https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
       "artists": [
         {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         }
       ],
-      "duration_ms": 298920,
-      "name": "\u671d\u713c\u3051 - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982",
-      "url": "https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO"
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "\u30de\u30a4\u30fb\u30c7\u30a3\u30a2\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD"
@@ -513,7 +325,7 @@
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
@@ -529,7 +341,7 @@
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Keep on Going",
         "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
@@ -545,23 +357,7 @@
       "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Silent Jazz Case 3",
-        "url": "https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Philly's Dance",
-      "url": "https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
@@ -577,7 +373,7 @@
       "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Synesthesia",
         "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
@@ -593,7 +389,23 @@
       "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Silent Jazz Case 3",
+        "url": "https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        }
+      ],
+      "duration_ms": 299693,
+      "name": "Philly's Dance",
+      "url": "https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
@@ -609,7 +421,7 @@
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Floating in the midnight sun",
         "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
@@ -625,7 +437,7 @@
       "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Horns Riot",
         "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
@@ -645,7 +457,7 @@
       "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Re:Tokage",
         "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
@@ -661,7 +473,7 @@
       "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "MOMENTS",
         "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
@@ -677,7 +489,7 @@
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Tangerine Peel Jam",
         "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
@@ -693,71 +505,7 @@
       "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "Ready?",
-        "url": "https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw"
-      },
-      "artists": [
-        {
-          "name": "MIDORINOMARU",
-          "url": "https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu"
-        }
-      ],
-      "duration_ms": 275251,
-      "name": "Ready?",
-      "url": "https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
-      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "SET FREE",
-        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "The Piano",
-      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
-      "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Living Message",
         "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
@@ -773,7 +521,71 @@
       "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Ready?",
+        "url": "https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw"
+      },
+      "artists": [
+        {
+          "name": "MIDORINOMARU",
+          "url": "https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu"
+        }
+      ],
+      "duration_ms": 275251,
+      "name": "Ready?",
+      "url": "https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
+      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "SET FREE",
+        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "The Piano",
+      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "color & monochrome 2",
         "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
@@ -789,7 +601,7 @@
       "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Susanna",
         "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
@@ -805,7 +617,7 @@
       "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Phantasia",
         "url": "https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ"
@@ -821,7 +633,7 @@
       "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Variety",
         "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
@@ -837,7 +649,7 @@
       "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "PIANO CRAZE",
         "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
@@ -853,7 +665,7 @@
       "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
     },
     {
-      "added_at": "2025-02-12 02:38:37",
+      "added_at": "2025-02-20 15:00:33",
       "album": {
         "name": "Defying",
         "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
@@ -867,6 +679,166 @@
       "duration_ms": 208026,
       "name": "Sol Levante",
       "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Acceleration",
+      "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "debut",
+        "url": "https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "tokyo class",
+      "url": "https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 249833,
+      "name": "Sakura Flutter",
+      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
+        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+      },
+      "artists": [
+        {
+          "name": "PEZ",
+          "url": "https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Akatsuki",
+      "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "New Horizon",
+        "url": "https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F"
+      },
+      "artists": [
+        {
+          "name": "The Hey Song",
+          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Greenfield",
+      "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Oneself Likeness",
+        "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
+      },
+      "artists": [
+        {
+          "name": "Quasimode",
+          "url": "https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD"
+        }
+      ],
+      "duration_ms": 390680,
+      "name": "Down In The Village",
+      "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Elastic Afterwords (Instrumental)",
+        "url": "https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Nishihara",
+          "url": "https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m"
+        }
+      ],
+      "duration_ms": 268425,
+      "name": "Never Let Go - Instrumental",
+      "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "Color & Monochrome 3",
+        "url": "https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 256136,
+      "name": "after heat",
+      "url": "https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc"
+    },
+    {
+      "added_at": "2025-02-20 15:00:33",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

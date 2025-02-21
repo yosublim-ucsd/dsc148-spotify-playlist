@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,228 likes - 140 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,277 likes - 140 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 139 | [Delta Sleep Waves 84.4Hz \- 85.7Hz](https://open.spotify.com/track/5KHYjgWV3oxkX6UbY2iJBM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:12 |
 | 140 | [Night Ride F\# Delta \(91\-94hz\)](https://open.spotify.com/track/3bLSOLWuOszYk5lT7WGZzD) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Solar Revelations Delta](https://open.spotify.com/album/11IBTRZmVlGv9dUXNESyNA) | 2:48 |
 
-Snapshot ID: `Z7SK+gAAAADh2Z3Zoh7FVmUvsmWe2hNs`
+Snapshot ID: `Z7SK+gAAAACffCCOe3iXv+s6Q6PMJFCo`

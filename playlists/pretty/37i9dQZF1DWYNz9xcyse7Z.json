@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 147858,
+  "num_followers": 147994,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4cQiAAAAAB9h6i5SeEYA14e4JrR1vJb",
+  "snapshot_id": "Z4cQiAAAAAChB2my7mRoao27i+F26v1F",
   "tracks": [
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
         }
       ],
-      "duration_ms": 163448,
-      "name": "Tus Verdades",
-      "url": "https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e"
+      "duration_ms": 215301,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
         }
       ],
-      "duration_ms": 215301,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
+      "duration_ms": 163448,
+      "name": "Tus Verdades",
+      "url": "https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Raza Pesada",
-        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
       "artists": [
         {
-          "name": "Los Pescadores De Guaymas",
-          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
         }
       ],
-      "duration_ms": 194813,
-      "name": "Ambicion",
-      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
+      "duration_ms": 197466,
+      "name": "Los Plebes Atrevidos",
+      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+        "name": "Raza Pesada",
+        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
       },
       "artists": [
         {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+          "name": "Los Pescadores De Guaymas",
+          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Los Plebes Atrevidos",
-      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
+      "duration_ms": 194813,
+      "name": "Ambicion",
+      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
-      },
-      "artists": [
-        {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "El Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z"
-    },
-    {
-      "added_at": "2025-01-15 01:34:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 202733,
       "name": "Equivocacion (En Vivo)",
       "url": "https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB"
+    },
+    {
+      "added_at": "2025-01-15 01:34:00",
+      "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "El Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z"
     },
     {
       "added_at": "2025-01-15 01:34:00",

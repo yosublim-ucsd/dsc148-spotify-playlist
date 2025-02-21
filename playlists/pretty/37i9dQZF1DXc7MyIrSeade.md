@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 49 | [Anestezic](https://open.spotify.com/track/5SjxwbSwVdsYRk4xImMT1E) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Anestezic](https://open.spotify.com/album/5WOxpjVvcoke5yoJv7YbtQ) | 3:08 |
 | 50 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 |
 
-Snapshot ID: `Z1BHxAAAAACQiSOfe6sz9DEtXB9/KJIG`
+Snapshot ID: `Z1BHxAAAAAAMmj3AALdSjB8IzMUzTXAJ`

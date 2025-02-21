@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: FEROZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,482 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,500 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 74 | [Tabahi](https://open.spotify.com/track/3uyerwTFMDIzQRmo62UJ6d) | [RB Gujjar](https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0), [CK Nara](https://open.spotify.com/artist/1TFtilwVj1KoItcly7EVHH), [Perry Venus](https://open.spotify.com/artist/43XMFGn5DhhoEE3sXFuHJn) | [Tabahi](https://open.spotify.com/album/6YoOREbaBnmJ1qYS0Syvlz) | 3:24 |
 | 75 | [Na Bawle](https://open.spotify.com/track/0AA9WdZRQxyQciaf4wuJSl) | [Sunny Boi Singh](https://open.spotify.com/artist/6NtfxVEjZtsMvpz9WPe0WC) | [Na Bawle](https://open.spotify.com/album/4gPcOlRFGEo07gm8APwCse) | 2:51 |
 
-Snapshot ID: `Z7BJwAAAAAArX6hixG1eLJUBXypDdDSi`
+Snapshot ID: `Z7BJwAAAAACRChnZmUh1PCoxuMPyztAd`

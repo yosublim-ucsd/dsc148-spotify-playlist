@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Marlena Käthe, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,003 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,005 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Silent White \- Single Edit](https://open.spotify.com/track/58xL7Kmqf9UHC1oXpt0T1w) | [LIONLION](https://open.spotify.com/artist/39vMeaxc9e74z7v6HdSYC6) | [Silent White](https://open.spotify.com/album/2AtCKBXCPcXedyed0Eeykw) | 3:33 |
 | 80 | [2016](https://open.spotify.com/track/63bse8TV0R796UVdecU8un) | [TROVA](https://open.spotify.com/artist/1XRu89FDdaGMmpZPLxrmWc) | [2016](https://open.spotify.com/album/2N2UVP5PhVvEzjoXgaBvCD) | 3:19 |
 
-Snapshot ID: `Z7W5ygAAAACnKdTQwBidabnDuKY2/26o`
+Snapshot ID: `Z7W5ygAAAAA0bX6Y03a6hybO0RKcUeHH`

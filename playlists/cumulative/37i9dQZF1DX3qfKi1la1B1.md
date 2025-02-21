@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-434 songs - 1 day 3 hr 55 min
+435 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bouquet](https://open.spotify.com/track/45I57NjUhhZuGWS0j3DGkI) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Bouquet](https://open.spotify.com/album/1tCZ5EdMtSdaimvdhSafS9) | 1:34 | 2023-04-13 | 2023-05-10 |
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 | 2023-08-18 |
 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
-| [Break Me Open \(with RY X\)](https://open.spotify.com/track/7iXnpP6wM2tlWTBMo3WmMS) | [TRY](https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Shmuck the Loyal](https://open.spotify.com/artist/2P8NapWy187EyueZtdIg0C) | [Break Me Open \(with RY X\)](https://open.spotify.com/album/4N8lX8poSmAjaF9yoEZoqV) | 4:17 | 2025-01-24 |  |
+| [Break Me Open \(with RY X\)](https://open.spotify.com/track/7iXnpP6wM2tlWTBMo3WmMS) | [TRY](https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Shmuck the Loyal](https://open.spotify.com/artist/2P8NapWy187EyueZtdIg0C) | [Break Me Open \(with RY X\)](https://open.spotify.com/album/4N8lX8poSmAjaF9yoEZoqV) | 4:17 | 2025-01-24 | 2025-02-21 |
 | [Broken Face](https://open.spotify.com/track/2Ss8ae4buw5Lq5O2F9YVoa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Broken Face](https://open.spotify.com/album/5jxdGCLfFNNRvfkIIVC1IS) | 2:52 | 2023-12-14 | 2024-04-03 |
 | [Broken Hearted Kota \- Suzanne Kraft Remix](https://open.spotify.com/track/7natbLjSlCXaRzwCOnBrw6) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Broken Hearted Kota \(Suzanne Kraft Remix\)](https://open.spotify.com/album/66uKSxV4Zr9x9lJQseZ29R) | 5:00 | 2022-11-29 | 2022-12-14 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-08-17 | 2023-08-27 |
@@ -413,6 +413,7 @@
 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 | 2023-03-18 | 2023-05-12 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-10-20 | 2025-01-14 |
 | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk) | 5:06 | 2022-10-20 | 2022-12-07 |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-21 |  |
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-22 | 2023-10-06 |
 | [you know me](https://open.spotify.com/track/3895CE7ZIWMt4cCkMXJAW2) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [you know me](https://open.spotify.com/album/1gUfUE48PiNBtbERMGwdXZ) | 2:30 | 2024-05-23 | 2024-06-15 |
 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-15 | 2023-02-15 |

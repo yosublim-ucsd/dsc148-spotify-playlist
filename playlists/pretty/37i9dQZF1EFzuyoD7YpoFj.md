@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 406 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 406 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 53 | [I Love Paris / J'aime Paris \(feat\. Nikki Yanofsky\)](https://open.spotify.com/track/0zxwDxNMlmQLsqyRCIoCd7) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy), [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Paris](https://open.spotify.com/album/7iXV74Ij5lEvt6Msi4e12z) | 4:02 |
 | 54 | [We Open In Venice](https://open.spotify.com/track/1WgG3IMzz233bIm4EQ7QCM) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:11 |
 | 55 | [Things](https://open.spotify.com/track/5PyXm54zAI34wONEEtVBjZ) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 4:48 |
-| 56 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 |
-| 57 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
+| 56 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
+| 57 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 |
 | 58 | [Too Darn Hot](https://open.spotify.com/track/0ZP5fnIUj0dQJpulOreMW8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:49 |
 | 59 | [Rosalie](https://open.spotify.com/track/58VDbR5BA09Zs1e5mh1eSE) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [0816 \(Deluxe Edition\)](https://open.spotify.com/album/68SOZJEQBRmccKCJkMy1g4) | 2:59 |
 | 60 | [Count Your Blessings](https://open.spotify.com/track/2vFtN1SVl5EbNs07mwresF) | [A Covering](https://open.spotify.com/artist/58BVzwP1dnWnK2wktWCqHa) | [Peaceful Offerings](https://open.spotify.com/album/7E3shHAaXsEyZCPR75a9li) | 1:46 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 86 | [Paranoia \- Bonus Track](https://open.spotify.com/track/44AELZZdwsZA95Z1o2gymO) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Beautiful Disaster \(Deluxe\)](https://open.spotify.com/album/1Pcd7hr3aP4UpCxVstTmv1) | 3:09 |
 | 87 | [Love For $ale](https://open.spotify.com/track/3gS9xuTfnr15MAo4RVUbQ3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Momentum](https://open.spotify.com/album/4CAfF5JPPvnHlJ3mrvQfbe) | 5:20 |
 | 88 | [The Key](https://open.spotify.com/track/5Wt6nnGyzwQbQ2iHsGgM5S) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 1:24 |
-| 89 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 |
-| 90 | [Ganz Paris träumt von der Liebe](https://open.spotify.com/track/5KzB6s7mGfDfIKFcTzCoYr) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Ein Gruß von Caterina Valente \(Expanded Edition\)](https://open.spotify.com/album/2LSfGoJ9U8f8zeYwx8AObL) | 2:53 |
+| 89 | [Ganz Paris träumt von der Liebe](https://open.spotify.com/track/5KzB6s7mGfDfIKFcTzCoYr) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Ein Gruß von Caterina Valente \(Expanded Edition\)](https://open.spotify.com/album/2LSfGoJ9U8f8zeYwx8AObL) | 2:53 |
+| 90 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 |
 | 91 | [Ladies In Waiting](https://open.spotify.com/track/78zOinQvrTKJowX5ZtZGni) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:33 |
 | 92 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
 | 93 | [I Happen to Like New York \(From the New Yorkers\) \- Live @ the Carlyle](https://open.spotify.com/track/47xiOR9Qfjr8z4aXlCCIwL) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 1:52 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 406 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbqCdgAAAAD9NAe8kgGYakxb/p8EgBuK`
+Snapshot ID: `AbqIPgAAAABBQ2nj+tCQF63Nxop0LBWc`

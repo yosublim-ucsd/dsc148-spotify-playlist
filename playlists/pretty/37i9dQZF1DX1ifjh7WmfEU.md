@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,643 likes - 135 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,695 likes - 135 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 134 | [Seeking Peace](https://open.spotify.com/track/74eaTXKxwzYbDiRrk3tuDG) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [Seeking Peace](https://open.spotify.com/album/7gW9EjAmEafsT7eii28A4w) | 2:36 |
 | 135 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
 
-Snapshot ID: `Z7XRswAAAABHHKotcOBjUCzouyDgyww+`
+Snapshot ID: `Z7XRswAAAAAE2o6S2sQmVMF30rW/nndM`

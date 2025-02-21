@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 169990,
+  "num_followers": 170077,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoykTgAAAABDg2NXUW9vjtPUZgttJoHf",
+  "snapshot_id": "ZoykTgAAAAB/lMesoIr3QaNyzl597X/q",
   "tracks": [
     {
       "added_at": "2024-07-09 02:45:34",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Into The Gap",
-        "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "The Pleasure Principle",
         "url": "https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Into The Gap",
+        "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
     },
     {
       "added_at": "2024-07-09 02:45:34",

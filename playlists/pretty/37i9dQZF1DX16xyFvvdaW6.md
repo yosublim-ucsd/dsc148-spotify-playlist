@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,369 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,412 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Mi Amado Dios](https://open.spotify.com/track/0TRNxsVPOQqMRouzH2i0Db) | [Cristo Para Las Naciones Band](https://open.spotify.com/artist/4EqHQ5btr5YYUroQKJzJq7) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:35 |
 | 50 | [Fe](https://open.spotify.com/track/6WVrVeVXeREZp8aXRnh30E) | [Santo Remedio](https://open.spotify.com/artist/6103ay1cM9Vux1EceF8CCZ) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 3:11 |
 
-Snapshot ID: `Z1k7VQAAAACG7tUnsS2YoFhdkZIGucVh`
+Snapshot ID: `Z1k7VQAAAACcn4XHTAwKbJLUEzNBNq3/`

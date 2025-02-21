@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 321586,
+  "num_followers": 321668,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7J8AAAAAABWixMvZTSLd3JEwtnZE6RE",
+  "snapshot_id": "Z7UfAAAAAADWDzSgmWBvL+8Z+UAQYEuG",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Inmortales",
         "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163546,
       "name": "Que Me Entierren Cantando",
       "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gallo de Sinaloa",
-        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
+        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
+        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 207866,
-      "name": "El Gallo de Sinaloa",
-      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
+      "duration_ms": 156734,
+      "name": "La Loba Del Mal",
+      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
-        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
+        "name": "El Gallo de Sinaloa",
+        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 156734,
-      "name": "La Loba Del Mal",
-      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
+      "duration_ms": 207866,
+      "name": "El Gallo de Sinaloa",
+      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
     },
     {
       "added_at": null,

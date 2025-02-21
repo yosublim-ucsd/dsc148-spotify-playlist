@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,850 likes - 84 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,989 likes - 84 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pa Tripea](https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/5URYGDnbKvb8Trms0UyPTh) | [Pa Tripea](https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL) | 2:13 |
-| 2 | [La Patrulla](https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Lil Naay](https://open.spotify.com/artist/6XRYalSzxmHEHi1Zp9T32N) | [La Patrulla](https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn) | 4:30 |
+| 2 | [La Patrulla](https://open.spotify.com/track/6Q3f0PpLowVMddWQfF0TlA) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [La Patrulla](https://open.spotify.com/album/4iPUAL1LLPnd3jTjn3PbWn) | 4:30 |
 | 3 | [Diabla](https://open.spotify.com/track/5BFHGBPNLIN4hfGXxaoALf) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Diabla](https://open.spotify.com/album/2GBzdCazrBrke1pPKJYOIJ) | 2:06 |
 | 4 | [Cierra La Puerta](https://open.spotify.com/track/4jz9oKHdzwfNZAJXGN3GuZ) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Cierra La Puerta](https://open.spotify.com/album/505c4M7v1DUKb867hwaRfo) | 2:09 |
 | 5 | [Hay Bobo Mami](https://open.spotify.com/track/3OPrjDe1ymWchYz2JFa7Ae) | [26 Music](https://open.spotify.com/artist/2k245hS7oLmevgWH1ngZ28), [Rochy Rd](https://open.spotify.com/artist/2toUCqO30OxM1cS5U3uZW5), [El Virus El Preso](https://open.spotify.com/artist/4auf953JHxsrrQTY0G9RzL) | [Hay Bobo Mami](https://open.spotify.com/album/31Bfwm5u1AABrnLMYi9DOG) | 2:22 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [DALE MAMI](https://open.spotify.com/track/2mNZ3G50c6zcVRknsm1huI) | [Iz BLAKK](https://open.spotify.com/artist/3gIaXwGvba40FNweun2cOW) | [DALE MAMI](https://open.spotify.com/album/0AE9yI5vMUEiCVNNCRY9uO) | 2:08 |
 | 75 | [Que Sera \(Remix\)](https://open.spotify.com/track/4ZHDUFMYdwiHhtObBGHRJ1) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2) | [Que Sera \(Remix\)](https://open.spotify.com/album/6z0maNGhOaldJdAz2QYST2) | 4:34 |
 | 76 | [Me Gustan Mala](https://open.spotify.com/track/28XH05JK9MvOCziO2poEkK) | [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [Me Gustan Mala](https://open.spotify.com/album/2cDuXTCgIgLkfMo2F3NGqy) | 2:01 |
-| 77 | [La Zaza](https://open.spotify.com/track/1OZRIvlBSOaPmC1vSRq6pp) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Faru Beatz](https://open.spotify.com/artist/3U4gsgEAJufvev4BWD60eT) | [La Zaza](https://open.spotify.com/album/23bGWnIKHENSOc4hqVHHT8) | 1:45 |
+| 77 | [Nebula](https://open.spotify.com/track/1OZRIvlBSOaPmC1vSRq6pp) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Faru Beatz](https://open.spotify.com/artist/3U4gsgEAJufvev4BWD60eT) | [Nebula](https://open.spotify.com/album/23bGWnIKHENSOc4hqVHHT8) | 1:45 |
 | 78 | [No Me Hable De Calle](https://open.spotify.com/track/3bBhl7O4v1MUSz8FTbQJSD) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [No Me Hable De Calle](https://open.spotify.com/album/2WH2OICEVTnwtuTa81DmEs) | 2:23 |
 | 79 | [Lo Bandi](https://open.spotify.com/track/3g7LnycZQ7kumWdbRozb1k) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Lo Bandi](https://open.spotify.com/album/1v20zHAzftHXg5joWwinCb) | 2:48 |
 | 80 | [Bandidos](https://open.spotify.com/track/44L0vWdwoqYeB5L4hEweir) | [YCA](https://open.spotify.com/artist/4SBUI1RLLmUJTHhgzb3s5H), [Xavier El BEBECITO](https://open.spotify.com/artist/6I8eftlYkBhGW6urAzLcwx), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k) | [Bandidos](https://open.spotify.com/album/1fxPo358R242w37CFG7Md2) | 3:24 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 83 | [Aparentas](https://open.spotify.com/track/3PQ2dI48s5BCDsFXIMPkSl) | [Prisy Pcoreta](https://open.spotify.com/artist/1K7muR7t7FX1p7iHH1z3fL), [JBD JBD](https://open.spotify.com/artist/6Vb569o8eCrfzHV3YAW8SK) | [Aparentas](https://open.spotify.com/album/7pVwboiIwH1hG6muFBWwha) | 2:49 |
 | 84 | [Chivato](https://open.spotify.com/track/3VSraTr792QF7WyIhpmtlx) | [El Shakiti](https://open.spotify.com/artist/2iAUatAAZ5Q2Z1TxWfIIEh), [Johcrap Marfer](https://open.spotify.com/artist/7lyGh6JaQ62Hw14luYC19e) | [Chivato](https://open.spotify.com/album/335zyfmCEq68KXNYO7l99R) | 1:08 |
 
-Snapshot ID: `Z67N3wAAAABiFsL8ghxFMAzYyZHVfixD`
+Snapshot ID: `Z67N3wAAAADFOVU6mD2h4zUG2LXlP9NM`

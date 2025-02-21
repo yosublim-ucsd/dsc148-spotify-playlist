@@ -3349,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Cheetah (Freestyle)",
+        "url": "https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242972,
+      "name": "Cheetah - Freestyle",
+      "url": "https://open.spotify.com/track/0YBzPPtLfs6nMLP5wYZMNo"
+    },
+    {
+      "album": {
         "name": "Cherry on Top",
         "url": "https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA"
       },

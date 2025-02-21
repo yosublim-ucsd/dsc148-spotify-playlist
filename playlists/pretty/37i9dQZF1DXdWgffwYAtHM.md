@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5j7Xq0NEDtSOahTZK3bVLc">Colo de amiga por @sofidisse</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811 likes - 8 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,810 likes - 8 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 7 | [O PROCESSO DE ADAPTAÇÃO DA MOLLY \- Histórias pra Adulto Dormir](https://open.spotify.com/episode/60rvvblPpCanHFnpOQQ19d) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 16:57 |
 | 8 | [amizades depois de adulta \#41](https://open.spotify.com/episode/4g2tOtVx8b9tZfJTbKdjL6) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 46:20 |
 
-Snapshot ID: `Z6ycdgAAAABmu9OjPQ5g31VdHEaRQArK`
+Snapshot ID: `Z6ycdgAAAAAH4uA5oEHYIu5BjMIrtyNB`

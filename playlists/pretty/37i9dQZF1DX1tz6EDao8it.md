@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,201 likes - 130 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265,420 likes - 130 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 129 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 130 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 |
 
-Snapshot ID: `Z4EFcgAAAAAgabumKEIuCS4K1LYj04A4`
+Snapshot ID: `Z4EFcgAAAAAvt2vQ1Wm7Cz+B11cCgTsH`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: EMSAISI",
+  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Matteo Crea",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Bellezza",
+        "url": "https://open.spotify.com/album/1EiMeZCO4CH806XE15gc9E"
+      },
+      "artists": [
+        {
+          "name": "Cusu",
+          "url": "https://open.spotify.com/artist/694sp2sd59eYihuAGcQpPc"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Bellezza",
+      "url": "https://open.spotify.com/track/7IdxiU3MFOS0QD6xXyJN9q"
+    },
+    {
+      "album": {
         "name": "Bene Bene",
         "url": "https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 184565,
       "name": "Che Guevara",
       "url": "https://open.spotify.com/track/1oEp2BlXfAjlgDG5tHHMjs"
+    },
+    {
+      "album": {
+        "name": "Che male c'\u00e8?",
+        "url": "https://open.spotify.com/album/68hRiUtlWStcxPi6MQduFh"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6ly",
+          "url": "https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Che male c'\u00e8?",
+      "url": "https://open.spotify.com/track/7dV5IhoorEN6HzOqIkPyjt"
     },
     {
       "album": {
@@ -1549,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Dell'io e delle cose",
+        "url": "https://open.spotify.com/album/6lDZ05bXovoE4a625RcQOE"
+      },
+      "artists": [
+        {
+          "name": "MASEENI",
+          "url": "https://open.spotify.com/artist/5VGCg6sjG4Uyr6qdeZ4388"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192313,
+      "name": "Dell'io e delle cose",
+      "url": "https://open.spotify.com/track/0B4sJToD2FMeYkbvrjVQS6"
+    },
+    {
+      "album": {
         "name": "Denti",
         "url": "https://open.spotify.com/album/2Vvxn4VT3PsU0suocQOOAn"
       },
@@ -1896,7 +1950,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182908,
       "name": "Fare finta",
       "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
@@ -2120,7 +2174,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 182500,
       "name": "Forse Per Sempre",
       "url": "https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn"
@@ -2365,6 +2419,50 @@
     },
     {
       "album": {
+        "name": "GOCCE",
+        "url": "https://open.spotify.com/album/57yHS4bmlrUZqM2u9h4ypl"
+      },
+      "artists": [
+        {
+          "name": "lillilillililli",
+          "url": "https://open.spotify.com/artist/1TGW9wdYRJJefowQooycXh"
+        },
+        {
+          "name": "palwa",
+          "url": "https://open.spotify.com/artist/6QZRZ9p0aenJjODtnS9O6E"
+        },
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142977,
+      "name": "GOCCE",
+      "url": "https://open.spotify.com/track/4mTJ3t2mTPh01CZRPP0Aiu"
+    },
+    {
+      "album": {
+        "name": "Gocce",
+        "url": "https://open.spotify.com/album/12JLnKlWN4ykO4wINtRNaA"
+      },
+      "artists": [
+        {
+          "name": "ventitrevoltemario",
+          "url": "https://open.spotify.com/artist/6w0NvwmzOqPi8nvb7URfdo"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166196,
+      "name": "Gocce",
+      "url": "https://open.spotify.com/track/3SEae5NvhxHrZyU7DkpCEF"
+    },
+    {
+      "album": {
         "name": "Ora",
         "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
       },
@@ -2412,7 +2510,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 174314,
       "name": "Grazie",
       "url": "https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ"
@@ -2520,7 +2618,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 184534,
       "name": "i miei fiumi",
       "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
@@ -2823,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "LA SOCIET\u00c0 DEGLI APERITIVI",
+        "url": "https://open.spotify.com/album/3o60Vd9Ca9aTGtqAlTk7BB"
+      },
+      "artists": [
+        {
+          "name": "SAMUEL COSTA",
+          "url": "https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117538,
+      "name": "LA SOCIET\u00c0 DEGLI APERITIVI",
+      "url": "https://open.spotify.com/track/5XRfiEjHsgRWidb1ESdnlt"
+    },
+    {
+      "album": {
         "name": "La Storia Della Nostra Vita",
         "url": "https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp"
       },
@@ -3000,7 +3116,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 174268,
       "name": "LEI",
       "url": "https://open.spotify.com/track/7uVpOf4K7e7v2Z7gDF5yJp"
@@ -4340,7 +4456,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 188933,
       "name": "PARTITA A SCACCHI",
       "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
@@ -4671,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Pozzetto",
+        "url": "https://open.spotify.com/album/53JKAvwGe54pV83fZBoGzx"
+      },
+      "artists": [
+        {
+          "name": "KENAI",
+          "url": "https://open.spotify.com/artist/2000Bt7BSRLXTB6RN3kmcZ"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Pozzetto",
+      "url": "https://open.spotify.com/track/4BSiG0HLQXhw6cNZS8EDeB"
+    },
+    {
+      "album": {
         "name": "Preda",
         "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
       },
@@ -4780,7 +4914,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 187000,
       "name": "Quanto \u00e8 difficile amarsi in una grande citt\u00e0",
       "url": "https://open.spotify.com/track/65PgxCsP4oWVivjDEKD3NI"
@@ -4820,6 +4954,24 @@
       "duration_ms": 177320,
       "name": "Quel che eravamo",
       "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "album": {
+        "name": "Margherita P.P.",
+        "url": "https://open.spotify.com/album/52yypYBni9xtpvWpQh4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Ginko Biloba",
+          "url": "https://open.spotify.com/artist/4qKzu5BHWqpxhZRFBVRAWH"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200098,
+      "name": "Quello che vuoi",
+      "url": "https://open.spotify.com/track/21s9Pf9fRPUlPqSc1QsM8U"
     },
     {
       "album": {
@@ -5155,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "scatole vuote",
+        "url": "https://open.spotify.com/album/6iwbz4t7lV95uWjFy732ut"
+      },
+      "artists": [
+        {
+          "name": "Tocka",
+          "url": "https://open.spotify.com/artist/1XPiLkWgALxMZ3jC7ytz9w"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164153,
+      "name": "scatole vuote",
+      "url": "https://open.spotify.com/track/3H92ZZivdSV3XTHwsAN437"
+    },
+    {
+      "album": {
         "name": "Scatoloni",
         "url": "https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls"
       },
@@ -5206,7 +5376,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 170880,
       "name": "sconosciuti",
       "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
@@ -5278,7 +5448,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 202793,
       "name": "Se non passasse aria",
       "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
@@ -5300,6 +5470,24 @@
       "duration_ms": 152166,
       "name": "Se voglio salvarmi la vita",
       "url": "https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq"
+    },
+    {
+      "album": {
+        "name": "Seia",
+        "url": "https://open.spotify.com/album/3WAoNWDrL6pc5B9H7vAjOX"
+      },
+      "artists": [
+        {
+          "name": "Gaia Banfi",
+          "url": "https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292001,
+      "name": "Seia",
+      "url": "https://open.spotify.com/track/6WAhQ3jjp09O82E9phHVwo"
     },
     {
       "album": {
@@ -5524,7 +5712,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 191250,
       "name": "Sott'acqua",
       "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
@@ -5957,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "TR\u00c8S JOLIE",
+        "url": "https://open.spotify.com/album/5C8hjdnU2OKb2bxnI4h4R4"
+      },
+      "artists": [
+        {
+          "name": "CORSO ITALIA",
+          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172399,
+      "name": "TR\u00c8S JOLIE",
+      "url": "https://open.spotify.com/track/1JXKz4JVlfgIDM4yQwXICy"
+    },
+    {
+      "album": {
         "name": "Tutta La Notte",
         "url": "https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg"
       },
@@ -5990,6 +6196,24 @@
       "duration_ms": 144970,
       "name": "tutte le tue onde",
       "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
+    },
+    {
+      "album": {
+        "name": "tutto bene",
+        "url": "https://open.spotify.com/album/03E4tuUdOmu0EaXBpdQT10"
+      },
+      "artists": [
+        {
+          "name": "nube",
+          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164281,
+      "name": "tutto bene",
+      "url": "https://open.spotify.com/track/5FHX6K2rDL2qMdph5Yi9al"
     },
     {
       "album": {
@@ -6154,7 +6378,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 138588,
       "name": "Un giorno in pi\u00f9",
       "url": "https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP"
@@ -6226,7 +6450,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 156857,
       "name": "Un'ora di sole",
       "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"

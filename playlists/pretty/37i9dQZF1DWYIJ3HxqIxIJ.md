@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Tobiahs
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,438 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,439 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 59 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 60 | [THE FIRST TEST](https://open.spotify.com/track/6rNjVOudfdBJKmWKLbz16p) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/0dqxVuMzJVZLo1hqWvNUjf) | 2:14 |
 
-Snapshot ID: `Z5I9cAAAAABElvKh8MgfDVxliKaNPTsx`
+Snapshot ID: `Z5I9cAAAAAAAELgG5k4xQl8SBQT++I+r`

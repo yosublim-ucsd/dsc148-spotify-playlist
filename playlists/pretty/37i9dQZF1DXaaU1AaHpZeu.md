@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Vanessa Zamora & maye en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,193 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,211 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [El Polvo de los Días Raros](https://open.spotify.com/track/6z98CyBiVapgBCecH98y4d) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Polvo de los Días Raros](https://open.spotify.com/album/49NvBmz5ULkzTBuoVD2GLc) | 4:07 |
 | 50 | [\(es posible\)](https://open.spotify.com/track/4CtDnjoCgSHnxwTgutzRMt) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK), [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy), [Clara Redi](https://open.spotify.com/artist/1bMeI0cqgvxC0dey9dLZMi), [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr), [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Grande Amore](https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ), [interrogación amor](https://open.spotify.com/artist/5Y4irfwurTJyeavbs0dPDZ), [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm), [Lucy Morry](https://open.spotify.com/artist/2IPRuevPK8i0XGGQFlkrNg), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn), [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24), [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [No lo volveré a hacer](https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip) | 3:04 |
 
-Snapshot ID: `Z67N/gAAAABM1+AtAOAu0vLP79VuvRQz`
+Snapshot ID: `Z67N/gAAAAB7TiB3QexuOurIW1qyMZuE`

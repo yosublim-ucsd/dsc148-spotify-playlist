@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : Candice
+> 🍯🍯🍯\. Photo : Nilusi
 
-287 songs - 14 hr 11 min
+290 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Contresens](https://open.spotify.com/track/30VhZNP5duxROC70ugow1w) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Contresens](https://open.spotify.com/album/2Z9Yj4fLaNRaWNGzzc94FY) | 2:51 | 2023-09-28 | 2023-11-10 |
 | [Corps Accord](https://open.spotify.com/track/76Fx5ruanK52uVQVTYtVlM) | [Lamarre](https://open.spotify.com/artist/6IX0WXkIrQX6mLHzCDf5oB) | [Corps Accord](https://open.spotify.com/album/0u75F1YavDI1EmhTtbD4OC) | 3:20 | 2023-10-19 | 2024-02-02 |
 | [Corps à corps](https://open.spotify.com/track/4JihV9mvL6fagy6YNYsDU0) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Corps à corps](https://open.spotify.com/album/6STnKIdCfuS0zl2ppUJmF2) | 2:50 | 2024-11-28 | 2025-01-31 |
-| [COULER NOS NAVIRES](https://open.spotify.com/track/4sDkPDRjuTHLVVGags51en) | [Bénédicte](https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT) | [COULER NOS NAVIRES](https://open.spotify.com/album/00zMGJVsIjgd74arpSkeVE) | 3:41 | 2025-01-09 |  |
+| [COULER NOS NAVIRES](https://open.spotify.com/track/4sDkPDRjuTHLVVGags51en) | [Bénédicte](https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT) | [COULER NOS NAVIRES](https://open.spotify.com/album/00zMGJVsIjgd74arpSkeVE) | 3:41 | 2025-01-09 | 2025-02-21 |
 | [Coup de fil](https://open.spotify.com/track/2xrPOmiTWiuiLMRMj5li5A) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Coup de fil](https://open.spotify.com/album/7jWw0c7G2psVC9ZmV7U2gB) | 4:24 | 2023-09-28 | 2024-02-16 |
 | [Coup de foudre](https://open.spotify.com/track/7Mzh1T5Y1DidCEVY7a8MNH) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Coup de foudre](https://open.spotify.com/album/45RcEQboX7GHDdDY82hkib) | 3:19 | 2023-12-21 | 2024-02-16 |
 | [Cra$h \(feat\. Enchantée Julia & Jazzy Bazz\)](https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Moussa](https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX) | 3:10 | 2023-09-28 | 2024-03-08 |
@@ -76,6 +76,7 @@
 | [E.M.I](https://open.spotify.com/track/5FY2ILoDg2EIvjYJxA25MM) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [E.M.I](https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu) | 3:53 | 2023-10-26 | 2023-12-01 |
 | [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 | 2023-09-28 | 2024-02-09 |
 | [Elle qui commande](https://open.spotify.com/track/1jm2exfpjraErGoA5F1YhG) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1), [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Porn Winter](https://open.spotify.com/album/5zPg1VPabOYoZpi07a923U) | 2:55 | 2025-01-16 |  |
+| [En apesanteur](https://open.spotify.com/track/0veCuEH5urr4nxUKhDyIyM) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [En apesanteur](https://open.spotify.com/album/0yeTO47saqkxI71QCO1vNJ) | 3:29 | 2025-02-20 |  |
 | [Encaisser](https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I) | [Ceddy](https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk), [Nola Cherri](https://open.spotify.com/artist/619I9NuGM8wQklavu1cjRj) | [Encaisser](https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5) | 3:23 | 2023-09-28 | 2023-11-17 |
 | [encore](https://open.spotify.com/track/4BoXY1PkUhvMeXQ862Qtdu) | [Nyhasina](https://open.spotify.com/artist/73TIPlk476kpOXwbNL08Cr) | [encore](https://open.spotify.com/album/0gK76tECE7tF6sXNddkP0o) | 4:27 | 2024-06-27 | 2024-08-09 |
 | [Encore une fois](https://open.spotify.com/track/3jsWcQxYV4xKnCKmiF6dJE) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM) | [Encore une fois](https://open.spotify.com/album/2K671EFv7RZq7yGgefMPvO) | 2:50 | 2024-08-08 | 2024-11-08 |
@@ -170,11 +171,12 @@
 | [MIEUX QUE LES AUTRES](https://open.spotify.com/track/0CSVMPP9R2jxc7NyhxL3r0) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 4:05 | 2024-03-14 |  |
 | [minibar](https://open.spotify.com/track/2O77JjyoBbw1FvXXK1Roka) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [minibar](https://open.spotify.com/album/3RQH6fCXeMqMW95LWQyHpQ) | 2:21 | 2024-06-20 | 2024-10-04 |
 | [Mirage](https://open.spotify.com/track/1odA378yBmB168qEXdrxka) | [Keziah](https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467) | [Mirage](https://open.spotify.com/album/191DoTkYTANUBkoCjGvXRC) | 1:44 | 2024-03-14 | 2024-04-26 |
+| [Mon Préféré](https://open.spotify.com/track/15upvdrNC3nypTlDkdSVa9) | [Erianne](https://open.spotify.com/artist/5IDv5kxCyUJSvIfwFqP77l) | [Mon Préféré](https://open.spotify.com/album/4SSGj9pROhYiXycc2uOIRB) | 2:42 | 2025-02-20 |  |
 | [MONEY POUR TOI](https://open.spotify.com/track/1NJpAFTaghepCZWZmcZ3Pt) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [MONEY POUR TOI](https://open.spotify.com/album/59MlcMqjLWRdDyaBS38tu1) | 3:37 | 2024-10-24 |  |
 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 | 2023-12-21 | 2024-02-16 |
 | [Mumu](https://open.spotify.com/track/5qwBg0MKq4VNInXqBoZQlI) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm) | [Mumu](https://open.spotify.com/album/26iXKODyT3nZbK37Ny4t7z) | 3:34 | 2024-11-07 | 2024-12-06 |
 | [MUSE](https://open.spotify.com/track/4HiNfdHUfq8PG4v8fgXjvB) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [AU COEUR DU MIEN](https://open.spotify.com/album/2jm5SpD0s0eNf3lDKC1fR6) | 3:20 | 2024-04-11 | 2024-06-28 |
-| [My Love \(feat\. Tayc\) \- Acoustic](https://open.spotify.com/track/4hgBfQhqCLuJDvPdawrF3p) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [My Love \(feat\. Tayc\) \[Acoustic\]](https://open.spotify.com/album/6DatG710FskVHGjVshqJye) | 2:33 | 2024-02-29 |  |
+| [My Love \(feat\. Tayc\) \- Acoustic](https://open.spotify.com/track/4hgBfQhqCLuJDvPdawrF3p) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [My Love \(feat\. Tayc\) \[Acoustic\]](https://open.spotify.com/album/6DatG710FskVHGjVshqJye) | 2:33 | 2024-02-29 | 2025-02-21 |
 | [My Luv](https://open.spotify.com/track/1BR0nKf4sv0l2SqhugpIUJ) | [Keziah](https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467) | [My Luv](https://open.spotify.com/album/7MxG2HZlJvO0Q7KGxFfGYc) | 2:38 | 2025-01-30 | 2025-02-14 |
 | [Même si](https://open.spotify.com/track/2qKaQs2leFuprBfviIewts) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season 2](https://open.spotify.com/album/45zM9grYw3huSLPlgXpjwU) | 2:44 | 2024-02-15 | 2024-04-26 |
 | [NBDY](https://open.spotify.com/track/4P2njhfma47xkcdVlEuXkL) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [NBDY](https://open.spotify.com/album/0zYTDrnEc5EODxvX8SMuBV) | 2:05 | 2024-02-29 | 2024-04-12 |
@@ -260,6 +262,7 @@
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 | 2024-02-02 |
 | [tant que tu](https://open.spotify.com/track/6YTcI8Q9Jd6gp3y2mag1PQ) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tant que tu](https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0) | 3:20 | 2024-11-07 | 2024-12-13 |
 | [Tapage nocturne](https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tapage nocturne](https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9) | 2:46 | 2024-06-27 | 2024-11-22 |
+| [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 | 2025-02-20 |  |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 | 2024-01-19 |
 | [TOI QUI VOULAIS PARTIR](https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOI QUI VOULAIS PARTIR](https://open.spotify.com/album/6w2w4ERrrr8kEj2fvnV30h) | 2:45 | 2024-11-28 | 2025-02-07 |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 | 2023-11-10 |
@@ -276,7 +279,7 @@
 | [tu pleureras](https://open.spotify.com/track/0txjuBejOtziB6YX7XEkJE) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [tu pleureras](https://open.spotify.com/album/5MAt7WDa0bL9bShnQ2aHWQ) | 1:57 | 2024-08-01 | 2024-09-20 |
 | [Tu sais que](https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Tu sais que](https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN) | 2:40 | 2024-02-01 | 2024-03-29 |
 | [Télécommande](https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Télécommande](https://open.spotify.com/album/6krz5mD2pn0ZcGsrSidtR9) | 2:55 | 2024-02-22 | 2024-04-19 |
-| [Témoin](https://open.spotify.com/track/3oAeLtP06SAeztPQwKUip4) | [Heza](https://open.spotify.com/artist/2dNXAcbcjLYoPbcDM1Hvs1) | [Témoin](https://open.spotify.com/album/11G2GTJeEW5Wt3ob2B9rcf) | 2:48 | 2025-01-23 |  |
+| [Témoin](https://open.spotify.com/track/3oAeLtP06SAeztPQwKUip4) | [Heza](https://open.spotify.com/artist/2dNXAcbcjLYoPbcDM1Hvs1) | [Témoin](https://open.spotify.com/album/11G2GTJeEW5Wt3ob2B9rcf) | 2:48 | 2025-01-23 | 2025-02-21 |
 | [U&I](https://open.spotify.com/track/3lqQyJlnNko0tmdo7KyCTM) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [U&I](https://open.spotify.com/album/5u5zyvtdoUoqJ9t8dSgFPQ) | 2:25 | 2024-12-12 | 2025-01-31 |
 | [Un autre que moi](https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:40 | 2023-09-28 | 2024-01-19 |
 | [un soir d'hiver](https://open.spotify.com/track/5Y2WTNlWpKx5c8HWDaitqk) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [un soir d'hiver](https://open.spotify.com/album/5b0PkXB589VuBvcKritnvc) | 3:09 | 2024-05-30 | 2025-01-31 |

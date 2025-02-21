@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 155000,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 185372,
       "name": "Bobby & Whitney - Ashley Beedle No' West Edit",
       "url": "https://open.spotify.com/track/0wYNfsk8I5SXaXGmXU9KKa"
@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "hate it",
+        "url": "https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161559,
+      "name": "hate it",
+      "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
+    },
+    {
+      "album": {
         "name": "A la folie",
         "url": "https://open.spotify.com/album/7G1A4q4iZs7nqKeORKHlW2"
       },
@@ -1972,6 +1990,32 @@
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
+    },
+    {
+      "album": {
+        "name": "L'hiver au soleil (Napkey Remix)",
+        "url": "https://open.spotify.com/album/3gmI8TtovNwo4SkGWFSSj8"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
+        },
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191187,
+      "name": "L'hiver au soleil - Napkey Remix",
+      "url": "https://open.spotify.com/track/1LcLM1VMwpKbX5aW0PVQ5r"
     },
     {
       "album": {
@@ -2494,7 +2538,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 202535,
       "name": "Nu Lova",
       "url": "https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon"
@@ -3264,6 +3308,28 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "album": {
+        "name": "Sugar Rush (Late Night Snack)",
+        "url": "https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        },
+        {
+          "name": "Pongo",
+          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "Sugar Rush (Late Night Snack)",
+      "url": "https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc"
     },
     {
       "album": {

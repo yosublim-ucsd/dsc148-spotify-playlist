@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Hendra Kumbara",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Nabila Gomes",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 269619,
       "name": "Aku Ra Mundur (Tepung Kanji)",
       "url": "https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm"
+    },
+    {
+      "album": {
+        "name": "Aku Tenang",
+        "url": "https://open.spotify.com/album/2uCk5kk3fWD9JQ0JkTM7QA"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318239,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/1bmOl3WYltXNAWDFcyOrmc"
     },
     {
       "album": {
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 247384,
       "name": "Bahagiamu Loroku",
       "url": "https://open.spotify.com/track/2klu3MQzMY8SLw2s680TCP"
@@ -1625,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Enak Rasane",
+        "url": "https://open.spotify.com/album/0ZopuJIJhOL8G0taD0ZZ8O"
+      },
+      "artists": [
+        {
+          "name": "Nabilla Gomes",
+          "url": "https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Enak Rasane",
+      "url": "https://open.spotify.com/track/4ADfkFYj6kD8Gt4rsr7WoW"
+    },
+    {
+      "album": {
         "name": "Full Senyum Sayang",
         "url": "https://open.spotify.com/album/2JXj5teDGxv4RQ2KfWfSIy"
       },
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 399344,
       "name": "Kalah 2",
       "url": "https://open.spotify.com/track/31YjCe7pqLWsPtBXXQqVQZ"
@@ -6016,7 +6052,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 200977,
       "name": "Pugal",
       "url": "https://open.spotify.com/track/0QpUmDpED0plT1eliJF4LL"
@@ -6082,7 +6118,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 346457,
       "name": "PUJANINGSIH",
       "url": "https://open.spotify.com/track/5HJ6EpywbFvVl7T8MaGjug"
@@ -6930,7 +6966,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 368372,
       "name": "Sampun Lilo",
       "url": "https://open.spotify.com/track/2k7x48UjvHeutTU8D7Oxrt"
@@ -7160,7 +7196,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 360000,
       "name": "Segara Madu - Live",
       "url": "https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45"

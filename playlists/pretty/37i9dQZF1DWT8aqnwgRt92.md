@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,262 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,447 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ふたりじめ](https://open.spotify.com/track/4ZbVwJbpYar8i92dMtcE2R) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [ふたりじめ](https://open.spotify.com/album/5XDbT8mrABEnxvjzZuy1vG) | 4:24 |
 | 85 | [OOKAMI](https://open.spotify.com/track/0wdp05r1nZ7rRBly693Kcs) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi) | [OOKAMI](https://open.spotify.com/album/5CngdZn6tQb42BAyY121J9) | 2:39 |
 
-Snapshot ID: `Z7XyCwAAAABrb6otbNyp+P0wg6KoaJ/C`
+Snapshot ID: `Z7XyCwAAAAAhxcNwLSKhs3Mf+rXWSrDa`

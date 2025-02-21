@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Bart Skils",
+  "description": "Techno is a state of mind. Cover: ARTBAT, Vintage Culture",
   "name": "Techno State",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 199047,
       "name": "Bloom At Night",
       "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 193218,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
@@ -3241,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Get Hyper",
+        "url": "https://open.spotify.com/album/3sHVEZbpqNI2ubfH66GbdW"
+      },
+      "artists": [
+        {
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247412,
+      "name": "Get Hyper",
+      "url": "https://open.spotify.com/track/3Msb02hbi8eB8Bo7WDOWbI"
+    },
+    {
+      "album": {
         "name": "Ghost Kiss",
         "url": "https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW"
       },
@@ -3274,6 +3292,32 @@
       "duration_ms": 353398,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND"
+    },
+    {
+      "album": {
+        "name": "gImmE gImmE",
+        "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197842,
+      "name": "gImmE gImmE",
+      "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
       "album": {
@@ -5049,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/08HbEH8XyvflTaewgDR2cu"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/3uROl5uWrMQiBpynHm7thI"
+    },
+    {
+      "album": {
         "name": "Movin' Thru Your System",
         "url": "https://open.spotify.com/album/5yTENMSG5IjPRHFJHNh0aw"
       },
@@ -5680,7 +5742,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 239475,
       "name": "Now Or Never (feat. IVERSON)",
       "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
@@ -5702,6 +5764,24 @@
       "duration_ms": 180000,
       "name": "Oddity",
       "url": "https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr"
+    },
+    {
+      "album": {
+        "name": "Offbeat",
+        "url": "https://open.spotify.com/album/1fCXa4ozWDMabkrxEnQJqh"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192517,
+      "name": "Offbeat",
+      "url": "https://open.spotify.com/track/4rGkLTgvTSnxAPy2wv3YRW"
     },
     {
       "album": {
@@ -7920,7 +8000,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 225000,
       "name": "The Afterparty - Loco & Jam Remix",
       "url": "https://open.spotify.com/track/08MmPdIc2RSZ93U4Ux2RxI"

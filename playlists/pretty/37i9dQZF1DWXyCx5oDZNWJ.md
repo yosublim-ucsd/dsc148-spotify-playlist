@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,595 likes - 33 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,610 likes - 33 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 32 | [Aujourd'hui](https://open.spotify.com/track/4dhE8eXUnkQGRN0sWJ6YCx) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Mindibu](https://open.spotify.com/album/37dEq8GDThnOucEkaAULcL) | 6:25 |
 | 33 | [El Mundo De Nina](https://open.spotify.com/track/1qqBRvECEmcDLePakJF3kE) | [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [Street Breaks, Vol\. 1](https://open.spotify.com/album/3ukRoUPikHsOoYR1aqG6vV) | 4:29 |
 
-Snapshot ID: `Z7RNSQAAAADoFT/15ct2LSmVNsQAjeyr`
+Snapshot ID: `Z7RNSQAAAACfNxQOE4IBewRvKWTC6iQr`

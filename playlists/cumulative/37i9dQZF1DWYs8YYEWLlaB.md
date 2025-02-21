@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Aleyna Tilki
+> viral, trend ve yükselenler\. Kapak: Ceren Sagu
 
 128 songs - 6 hr 38 min
 

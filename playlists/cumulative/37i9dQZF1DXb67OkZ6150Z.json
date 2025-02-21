@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
@@ -3672,6 +3672,24 @@
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance with Somebody",
+        "url": "https://open.spotify.com/album/0AIGpssdHEG88gkMqCWYQc"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231828,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/7epLg2tfeofcLl5mGcjOqQ"
     },
     {
       "album": {
@@ -6176,7 +6194,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 249789,
       "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
@@ -8642,7 +8660,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 296715,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"

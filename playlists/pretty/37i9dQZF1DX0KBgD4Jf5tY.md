@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente italiana, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:60hS0Wt0Px2B3rr9Zzur8E">Gaia Banfi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,927 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,934 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Graffi](https://open.spotify.com/track/3bfvRLYLXBoIljgWt0A31t) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Graffi](https://open.spotify.com/album/21kWptj6rY79sOAlCG5Si8) | 2:54 |
 | 50 | [What is Real](https://open.spotify.com/track/195vtBaixkaHqocCEKB9ZU) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [What is Real](https://open.spotify.com/album/75vU38bOw8o4EBDhN7Xnz6) | 3:10 |
 
-Snapshot ID: `Z7URSgAAAACH+nmItLgvdXhH1hvPsTOy`
+Snapshot ID: `Z7URSgAAAADuAUdXB30YnjNRiHKHn/kZ`

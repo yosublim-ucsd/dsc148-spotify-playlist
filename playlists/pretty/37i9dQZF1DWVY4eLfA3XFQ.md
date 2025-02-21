@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians featuring DJ Minx 🤖 50% techno, 50% house
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,523 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,581 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 66 | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 |
 | 67 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 |
 | 68 | [Certified](https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Certified](https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz) | 3:36 |
-| 69 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
-| 70 | [Wild](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Wild](https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ) | 2:14 |
+| 69 | [Wild](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Wild](https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ) | 2:14 |
+| 70 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
 | 71 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
 | 72 | [Low Rider \- Kyle Watson Remix](https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Low Rider \(Kyle Watson Remix\)](https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji) | 3:20 |
 | 73 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 99 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |
 | 100 | [Done](https://open.spotify.com/track/49WMXexA9yViG267eOhxGn) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Done](https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE) | 3:05 |
 
-Snapshot ID: `Z7UDIAAAAACMbB2xlq4iQu2kEuy/xUDH`
+Snapshot ID: `Z7UDIAAAAACk9BJ0rrpFPpJ+i43y2k4w`

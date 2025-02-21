@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> jisokuryClub\(지소쿠리클럽\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-890 songs - 2 day 6 hr 25 min
+891 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 | 2023-05-04 | 2024-04-19 |
 | [Hollywood](https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/2Mw3tpyBFi65jX9hgBXP17) | 5:31 | 2021-12-12 | 2022-07-24 |
 | [Home](https://open.spotify.com/track/6y7oBWsXHt4ClQuUqqdFsj) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Home](https://open.spotify.com/album/6fO5C0CRfbjwL027kmCJG2) | 4:07 | 2022-04-12 | 2022-04-21 |
+| [Home Sweet Home](https://open.spotify.com/track/4SX5SmW6mflphAMaXSoWlO) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Jebidabang Compilation 2024/2025](https://open.spotify.com/album/0KTa4dYpjWANhs6gj6kBYP) | 4:02 | 2025-02-20 |  |
 | [Honesty](https://open.spotify.com/track/63AyrRTi5G6HBOic0TaENv) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [Honesty](https://open.spotify.com/album/5jVTyv5ByyJbR12tELjMug) | 3:26 | 2022-03-31 | 2022-04-07 |
 | [Hoo! ha..](https://open.spotify.com/track/2g6xX5juQc08YW8UxI8yH7) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 4:33 | 2025-01-30 |  |
 | [Hool Hool](https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [HOOL HOOL](https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4) | 3:30 | 2025-01-22 |  |
@@ -635,7 +636,7 @@
 | [School Day Nostalgia](https://open.spotify.com/track/5UGIaoiIUbQBNqoRhXVCAb) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [School Day Nostalgia](https://open.spotify.com/album/2XfFXZaYjsAoHwJZxkHG8r) | 3:21 | 2025-01-14 |  |
 | [Sea](https://open.spotify.com/track/5la8ECy76bV0Meh8d5wiZg) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Sea](https://open.spotify.com/album/4zC2lB85NNMiHOUQjItOhQ) | 2:05 | 2022-01-27 | 2022-02-02 |
 | [season of ours](https://open.spotify.com/track/4gbxZGNDhSg3qlUtJEUrTe) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [EP.2 Season of ours](https://open.spotify.com/album/4Ot4ze0iWOv7SCyWaqFA5k) | 3:27 | 2022-03-31 | 2022-04-25 |
-| [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 |  |
+| [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 | 2025-02-21 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |

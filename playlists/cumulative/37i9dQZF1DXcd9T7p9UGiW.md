@@ -2,9 +2,9 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Tyla and Sean Paul
+> Catching flights and going global\. Cover: Moliy
 
-647 songs - 1 day 10 hr 41 min
+648 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All Over You](https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [All Over You](https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx) | 2:37 | 2025-01-24 |  |
 | [ALL WE KNOW](https://open.spotify.com/track/7rpEH6Ajxeu76ed6bq7EdV) | [ROIA](https://open.spotify.com/artist/7DYQ8UB8zGvbNG34zmzDJB), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [ALL WE KNOW](https://open.spotify.com/album/3lvA95FAgrQX3lTeKfRYv3) | 4:19 | 2024-05-31 | 2024-06-15 |
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2024-09-13 | 2024-11-23 |
-| [Alone](https://open.spotify.com/track/40RZ8R5VnlaS1oN38bx8eW) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Alone](https://open.spotify.com/album/78rq4tSfGFWB2gOOY9fwFU) | 2:52 | 2025-01-31 |  |
+| [Alone](https://open.spotify.com/track/40RZ8R5VnlaS1oN38bx8eW) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Alone](https://open.spotify.com/album/78rq4tSfGFWB2gOOY9fwFU) | 2:52 | 2025-01-31 | 2025-02-21 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2021-10-08 | 2024-06-15 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-24 | 2022-03-11 |
 | [Ama](https://open.spotify.com/track/0jUtRyBXXB5EwrSd9zg6BM) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Ama](https://open.spotify.com/album/1kHJNx3QUnGiuXSWEPqAhL) | 3:43 | 2022-03-24 | 2022-05-20 |
@@ -494,6 +494,7 @@
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 | 2021-10-08 | 2023-11-11 |
 | [Sex & Marijuana](https://open.spotify.com/track/4IYlivA2JNikyAskn9JVhh) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 2:57 | 2023-11-17 | 2024-10-18 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 |  |
 | [Shake Shake \(feat\. Dreamdoll\)](https://open.spotify.com/track/4PdMZg2fMnOqjidtB5X9u5) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Shake Shake \(feat\. Dreamdoll\)](https://open.spotify.com/album/0IRau8537fbmOYDvbUlgep) | 2:17 | 2024-05-10 | 2024-05-17 |
 | [She Got Control](https://open.spotify.com/track/2i1oze10HBGg8Q1L147F0Q) | [Musical Masquerade](https://open.spotify.com/artist/3tGqXswNRkWelus0YLgJy5), [Chris Marshall](https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [She Got Control](https://open.spotify.com/album/4QhiNyQhKK6vYiGGqIWHEk) | 3:03 | 2024-03-15 | 2025-02-14 |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 | 2022-11-15 |

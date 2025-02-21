@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,467 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,450 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Nebula](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Nebula](https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch) | 3:15 |
 | 50 | [Scarlett](https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Scarlett](https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv) | 3:12 |
 
-Snapshot ID: `Z6V3ewAAAAD/s/JCRZ4qM5jWX9YsAq6o`
+Snapshot ID: `Z6V3ewAAAABKyTKIs0B8dmS2D0GI9uEr`

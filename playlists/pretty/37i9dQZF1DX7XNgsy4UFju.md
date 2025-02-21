@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Daniel Caesar, Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,451 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,470 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Indifferent](https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Sprig](https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS) | 3:00 |
 | 100 | [Model, Actress, Whatever](https://open.spotify.com/track/4wjE62bHELzlZvE52cxMfL) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:32 |
 
-Snapshot ID: `Z67N7gAAAADfpigYR+K0AEo59hVpCHVT`
+Snapshot ID: `Z67N7gAAAACDiJwBz0Wy/qAPhqALJDse`

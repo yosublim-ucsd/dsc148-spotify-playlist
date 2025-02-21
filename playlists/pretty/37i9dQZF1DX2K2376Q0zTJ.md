@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青山テルマ
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,995 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,991 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kawaii kawaii \(feat\. 重盛さと美\)](https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [EASY MODE](https://open.spotify.com/album/7xO7vcPs8Uau9BQcwJN0QZ) | 3:02 |
+| 1 | [kawaii kawaii \(feat\. 重盛さと美\)](https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [EASY MODE](https://open.spotify.com/album/7xO7vcPs8Uau9BQcwJN0QZ) | 3:02 |
 | 2 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/2yLzEJX16DA53MYJDP5Wrr), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/7kCFvoPirTF7lPnUQyUUAQ) | 3:15 |
 | 3 | [Tomorrow](https://open.spotify.com/track/6JYzHnOSYnt2FEwfv2baDu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Tomorrow](https://open.spotify.com/album/4yANGkyZk4Ia7z4eSRDPkS) | 2:41 |
 | 4 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Mona Lisa](https://open.spotify.com/track/5w9QUh8OIm4k0YQQVygent) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Mona Lisa](https://open.spotify.com/album/3y3enebOp9Bej82K3mDorK) | 2:45 |
 | 50 | [ON](https://open.spotify.com/track/0VyK2oBDqDuZXKRn3vUkT6) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Orbit](https://open.spotify.com/album/5Y95h3smPs2ihUnfe06Mi5) | 3:18 |
 
-Snapshot ID: `Z7SxigAAAADJ15waUL50o1P3Fb5z4KTl`
+Snapshot ID: `Z7SxigAAAABKIprl/RVpHEIzRDMrJBqg`

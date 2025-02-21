@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 40 min
+46 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Tightrope](https://open.spotify.com/track/6HUAWdvqLh5mGPGhZGRGjx) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Tightrope](https://open.spotify.com/album/7DdfRSxj7KN1q2a7Jwu0vi) | 4:41 | 2023-06-17 | 2023-08-29 |
 | [Tunnel Vision](https://open.spotify.com/track/74kXBXZW06evdyhknXq6ZX) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-10-12 | 2023-07-17 |
 | [Vacant Home](https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:38 | 2022-09-16 |  |
+| [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 | 2025-02-21 |  |
 | [Worst Wishes](https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:06 | 2022-09-16 |  |
 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 | 2023-08-19 | 2023-12-18 |
 

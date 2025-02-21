@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,112 likes - 63 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 63 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 62 | [Kongo Feat Gaël Faye](https://open.spotify.com/track/13jvw0CeBooDwdHktqQsuS) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Earthquake \(Edition Deluxe\)](https://open.spotify.com/album/0QuQbk2cBdSJ5Xayb18eWv) | 3:32 |
 | 63 | [Ana \- Miishu Flow Mix](https://open.spotify.com/track/4U45umvC1FJZqehZ4tWoBv) | [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Ana](https://open.spotify.com/album/2qlImWqOWHl9pypU2Qdwuq) | 7:36 |
 
-Snapshot ID: `Z6oibAAAAACr+U/vjnxCuozoB0a73+bb`
+Snapshot ID: `Z6oibAAAAAA/5XBj/BdMsuEYFP3iH0sL`

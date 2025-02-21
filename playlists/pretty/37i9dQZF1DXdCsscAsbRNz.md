@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,829 likes - 211 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,848 likes - 211 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 210 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 |
 | 211 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
 
-Snapshot ID: `Z4aHZwAAAAAvKpi1m5lF1mRTu3GLIR1Z`
+Snapshot ID: `Z4aHZwAAAABpS0cjB51LOwOA8VXzQMFo`

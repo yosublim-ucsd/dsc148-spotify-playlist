@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 
 > Kung Hei Fat Choi! Hit play and get the authentic Chinese New Year atmosphere right away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,317 likes - 166 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,314 likes - 166 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 | 165 | [恭喜恭喜 \- 2017 深白色二人組改編版](https://open.spotify.com/track/5xLPASO6UJX3ebhJLSTyHB) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [恭喜恭喜 \(2017 深白色二人組改編版\)](https://open.spotify.com/album/3kEOttkKn179NPFnTOT5EW) | 3:13 |
 | 166 | [恭喜發財財](https://open.spotify.com/track/7INVjjTn9yfVePNmgyFR0E) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [恭喜發財財](https://open.spotify.com/album/5Pk4PLgspk2IJSgCnrY6J4) | 3:47 |
 
-Snapshot ID: `Z5JsJgAAAABPjQHS1SfjT3sRaseN0YtZ`
+Snapshot ID: `Z5JsJgAAAADnhoSHHwWmQBPQ5j0vBYv5`

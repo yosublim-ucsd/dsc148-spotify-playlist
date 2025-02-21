@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-147 songs - 7 hr 39 min
+148 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Pink Vortex](https://open.spotify.com/track/597lXxH6JjkH7xvYCrPgab) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Pink Vortex](https://open.spotify.com/album/6LB8nf8cxLLtZ079JBSIaR) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [post blast...](https://open.spotify.com/track/5L8e5LwAYgL5csKCJN1RAF) | [n3on\-horizon](https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe) | [post blast...](https://open.spotify.com/album/30wJUED0Bxwapu0eVaaT9o) | 3:06 | 2024-06-06 |  |
 | [Primatology](https://open.spotify.com/track/3te4nCqa852HkboUhdSL9g) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Filtered Smiles](https://open.spotify.com/album/5Pm1OsfYv0mKcgVQgg1ANb) | 2:35 | 2024-06-06 |  |
-| [Prisma](https://open.spotify.com/track/3mZfVG8hSYqGF8eTBKVuVs) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Prisma](https://open.spotify.com/album/5bYQr9siEzu3EpkW5fBrgO) | 3:12 | 2024-06-06 |  |
+| [Prisma](https://open.spotify.com/track/3mZfVG8hSYqGF8eTBKVuVs) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Prisma](https://open.spotify.com/album/5bYQr9siEzu3EpkW5fBrgO) | 3:12 | 2024-06-06 | 2025-02-21 |
 | [Radiate](https://open.spotify.com/track/21zlF8F7xfYvbMnM9atda1) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Radiate](https://open.spotify.com/album/7BITBWHql9BZNZmdKNmZze) | 3:51 | 2024-06-06 | 2025-02-01 |
 | [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 | 2024-06-06 | 2024-12-23 |
 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 | 2024-06-06 | 2024-06-21 |
+| [rescue \- slowed + reverb](https://open.spotify.com/track/2Zva4REc3tRtrl8U1r3iBt) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD), [ByErik ヵ](https://open.spotify.com/artist/1I6Mw56K10rObkhBIomvIW) | [rescue](https://open.spotify.com/album/1t5xSIz7cMIFsqDhSPrSPr) | 2:26 | 2025-02-20 |  |
 | [Retrospective](https://open.spotify.com/track/424yw05HVjjPldglLjJtmy) | [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Retrospective](https://open.spotify.com/album/1ZDwHFLH5XczqjNJLmgOoM) | 4:19 | 2024-09-27 |  |
 | [Roxanne](https://open.spotify.com/track/1Ju6i9d28t9786RVrm1GGz) | [Velvet Pillows](https://open.spotify.com/artist/65CuhifhbwR2bSo6OWTrJM) | [Roxanne](https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1) | 3:14 | 2024-06-06 | 2025-02-01 |
 | [Runaway Hits](https://open.spotify.com/track/1txPfOfGv4KDLbT8fxMJpx) | [Silva Silvester](https://open.spotify.com/artist/0qX6jHWN2dF8OAGysAJl9Y) | [Runaway Hits](https://open.spotify.com/album/3HbfhUt88VoXeYx7CUMnwv) | 3:10 | 2024-06-06 | 2024-06-13 |
@@ -136,7 +137,7 @@
 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 | 2024-11-23 |
 | [Tape Surfing](https://open.spotify.com/track/0WS5DPLL0cyeYlpbS694NP) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Tape Surfing](https://open.spotify.com/album/0tfaD16fh0vZjegWmgJ6y3) | 2:49 | 2025-01-10 |  |
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 |  |
-| [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 |  |
+| [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 | 2025-02-21 |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 |  |
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |

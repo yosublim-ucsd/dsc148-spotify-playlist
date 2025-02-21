@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-184 songs - 9 hr 25 min
+185 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 | 2024-02-02 |
 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 | 2023-09-28 | 2025-01-03 |
-| [Fake Liefde](https://open.spotify.com/track/098qSyDgrgHwr4VRJ6ADRq) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Fake Liefde](https://open.spotify.com/album/2kv98q0GUhH7MfDVZEC5nI) | 3:40 | 2024-11-29 |  |
+| [Fake Liefde](https://open.spotify.com/track/098qSyDgrgHwr4VRJ6ADRq) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Fake Liefde](https://open.spotify.com/album/2kv98q0GUhH7MfDVZEC5nI) | 3:40 | 2024-11-29 | 2025-02-21 |
 | [FFF](https://open.spotify.com/track/4ELBY7XVZYESi10omwgAok) | [DEMIGOD MINGO](https://open.spotify.com/artist/71GIrJ3f0Q0YDz2IaA4DxW) | [FFF](https://open.spotify.com/album/36nqnCoIwYAaQhD7nNRtMw) | 3:17 | 2023-04-20 | 2023-05-06 |
 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 | 2024-06-06 |  |
 | [Fok Met Hai](https://open.spotify.com/track/69zAtt5IgW7xixqCrlrhYi) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [021 Flava](https://open.spotify.com/artist/4LJJ8jQMFrJ4ZbOn60YLpv), [23Baby](https://open.spotify.com/artist/56xSkXzHYtM5CGeiG1pWp8) | [2K25](https://open.spotify.com/album/5r1pEHnPXsqzsO7KCirgmr) | 3:21 | 2025-01-23 |  |
@@ -100,6 +100,7 @@
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 | 2023-02-17 |
 | [Kyk Uit](https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Kyk Uit](https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS) | 2:40 | 2024-08-29 |  |
 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 | 2024-04-05 | 2024-12-13 |
+| [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 | 2025-02-20 |  |
 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 | 2023-10-06 | 2025-02-15 |
 | [Letterkundig \- 7785 oordrom remix](https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu) | [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF), [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Letterkundig \(7785 oordrom remix\)](https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1) | 4:03 | 2023-07-06 | 2024-05-24 |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Larry June, 2 Chainz & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,468 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,463 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Cryotherapy](https://open.spotify.com/track/0A83vW4q1Gzb23gg5QuHy6) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Skeleton Key](https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52) | 3:01 |
 | 50 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 |
 
-Snapshot ID: `Z66/yQAAAADpv7mJ0mi5mfTtORTq8+5O`
+Snapshot ID: `Z66/yQAAAADI20M6vXOPemcqUTP75A05`

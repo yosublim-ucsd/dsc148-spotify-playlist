@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Lila-May\n",
+  "description": "The best jazz new releases. Cover: Ezra Collective\n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1550,6 +1550,28 @@
       "duration_ms": 303091,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
+    },
+    {
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
     },
     {
       "album": {
@@ -3262,7 +3284,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 255013,
       "name": "Devenirs",
       "url": "https://open.spotify.com/track/34UzZAPMMKvGcztewCXhl9"
@@ -3302,6 +3324,24 @@
       "duration_ms": 291691,
       "name": "Did Somebody Make a Fool Out of You",
       "url": "https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb"
+    },
+    {
+      "album": {
+        "name": "Dinorah Dinorah",
+        "url": "https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277459,
+      "name": "Dinorah Dinorah",
+      "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
     },
     {
       "album": {
@@ -4362,7 +4402,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 243040,
       "name": "Flyways",
       "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
@@ -8618,7 +8658,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 420583,
       "name": "Musicians!",
       "url": "https://open.spotify.com/track/42PDeav8OU2VeArOyYqlN1"
@@ -10140,7 +10180,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 288666,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/1iWYa5WRA7JNng13cWiMhP"
@@ -10432,6 +10472,28 @@
       "duration_ms": 366880,
       "name": "Rituel du soleil",
       "url": "https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5UtxXYIkCwJhnm4ccP77ie"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Bex",
+          "url": "https://open.spotify.com/artist/1NVyfQbY0oM9xBVCaIYkwh"
+        },
+        {
+          "name": "David Taieb",
+          "url": "https://open.spotify.com/artist/4XGYpvtl5JZouPyqGqbvmO"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337813,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/4vUrXy8MnrNxyHAAoXoWa4"
     },
     {
       "album": {
@@ -11124,6 +11186,24 @@
       "duration_ms": 390733,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4gnLPUf5GDEH1jl8XGqM2O"
+    },
+    {
+      "album": {
+        "name": "SOeuR FeLiX aka BeeHive",
+        "url": "https://open.spotify.com/album/6n9prltMvd8HQbiriBXahp"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233874,
+      "name": "SOeuR FeLiX aka BeeHive",
+      "url": "https://open.spotify.com/track/4BTm4UH5qHLEMtdAtEhDCr"
     },
     {
       "album": {

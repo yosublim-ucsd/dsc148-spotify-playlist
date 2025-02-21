@@ -1,39 +1,35 @@
 {
-  "description": "Les hits dancehall du moment. Photo : Lu City x SKUNK x X-Man",
-  "num_followers": 172862,
+  "description": "Les hits dancehall du moment. Photo : DJ Kawest",
+  "num_followers": 172958,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z69c6gAAAADZaxucp62irK3cedui6i2d",
+  "snapshot_id": "Z7e0BQAAAAB6e5duqzjmGHXRVgynxAGK",
   "tracks": [
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
-        "name": "D\u00e9ranger",
-        "url": "https://open.spotify.com/album/1Q7tGjAI2iaIFtGW9HvZbB"
+        "name": "Chambre 04",
+        "url": "https://open.spotify.com/album/5H8p6fAmRy5j9Hn6cJAU0l"
       },
       "artists": [
         {
-          "name": "Lu City",
-          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
         },
         {
-          "name": "SKUNK",
-          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
-        },
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+          "name": "Attachingboy",
+          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
         }
       ],
-      "duration_ms": 154886,
-      "name": "D\u00e9ranger",
-      "url": "https://open.spotify.com/track/3wvQ2D30p0OhAng2iZcMy9"
+      "duration_ms": 129056,
+      "name": "Chambre 04",
+      "url": "https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Money Pull Up",
         "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
@@ -57,7 +53,31 @@
       "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "TAGADA",
+        "url": "https://open.spotify.com/album/1HPzalVQ9WIaSz1eQ6NAOV"
+      },
+      "artists": [
+        {
+          "name": "DJ Ken",
+          "url": "https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf"
+        },
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 134796,
+      "name": "TAGADA",
+      "url": "https://open.spotify.com/track/6MO6jOYSBio7diMCMrqmyg"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Ba Ba Bad",
         "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
@@ -81,47 +101,7 @@
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Chambre 04",
-        "url": "https://open.spotify.com/album/5H8p6fAmRy5j9Hn6cJAU0l"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Attachingboy",
-          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "Chambre 04",
-      "url": "https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Phase II",
         "url": "https://open.spotify.com/album/0tkCeSJBM9WJ2v8HEZhfcs"
@@ -137,227 +117,23 @@
       "url": "https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
-        "name": "Mwen An Sa",
-        "url": "https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi"
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/1jysTp8hYT1f8wb4Mbf45P"
       },
       "artists": [
         {
-          "name": "SKUNK",
-          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
-        },
-        {
-          "name": "Tiitof",
-          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
         }
       ],
-      "duration_ms": 179823,
-      "name": "Mwen An Sa",
-      "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
+      "duration_ms": 125160,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Breakfast Titony",
-        "url": "https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
-        },
-        {
-          "name": "Titony",
-          "url": "https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy"
-        }
-      ],
-      "duration_ms": 117627,
-      "name": "Gunman",
-      "url": "https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "P\u00e9t\u00e9 Tchouw",
-        "url": "https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom"
-      },
-      "artists": [
-        {
-          "name": "Le J\u00e8m'ss",
-          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
-        },
-        {
-          "name": "Jona",
-          "url": "https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM"
-        },
-        {
-          "name": "JDS",
-          "url": "https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm"
-        }
-      ],
-      "duration_ms": 113926,
-      "name": "P\u00e9t\u00e9 Tchouw",
-      "url": "https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Ghetto Whine",
-        "url": "https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        }
-      ],
-      "duration_ms": 127993,
-      "name": "Ghetto Whine",
-      "url": "https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
-        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
-      },
-      "artists": [
-        {
-          "name": "Krys",
-          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
-        },
-        {
-          "name": "YSN",
-          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
-      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
-      },
-      "artists": [
-        {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        },
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 114407,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "LA PLI SI TOL (Shatta Remix)",
-        "url": "https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV"
-      },
-      "artists": [
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "LA PLI SI TOL - Shatta Remix",
-      "url": "https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Mondialit\u00e9",
-        "url": "https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi"
-      },
-      "artists": [
-        {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 129373,
-      "name": "Mondialit\u00e9",
-      "url": "https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "OU JA KONET",
-        "url": "https://open.spotify.com/album/4AjOa9YsfCcMnO56bxRkiB"
-      },
-      "artists": [
-        {
-          "name": "Attachingboy",
-          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
-        },
-        {
-          "name": "Lord Crazy",
-          "url": "https://open.spotify.com/artist/0MgaOeBE3j0qhcsD0Tevvf"
-        }
-      ],
-      "duration_ms": 143067,
-      "name": "OU JA KONET",
-      "url": "https://open.spotify.com/track/6O3eOdQzK0doZZxcJ5fjhc"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "KONGOLESE SOUS BBL",
-        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jeez Suave",
-          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "KONGOLESE SOUS BBL",
-      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Vieux cl\u00e9bard",
-        "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
-      },
-      "artists": [
-        {
-          "name": "TKD",
-          "url": "https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV"
-        },
-        {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "Vieux cl\u00e9bard",
-      "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Capitaine",
         "url": "https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju"
@@ -381,7 +157,343 @@
       "url": "https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Shatta Ting",
+        "url": "https://open.spotify.com/album/4Y8rhzQmphj5nEXhIlJW6P"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "Tight",
+      "url": "https://open.spotify.com/track/5qQlgSSbVTAJ2qtHKMzrH7"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Mwen An Sa",
+        "url": "https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi"
+      },
+      "artists": [
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 179823,
+      "name": "Mwen An Sa",
+      "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "CHORD",
+        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Theomaa",
+          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Bouw\u00e9y",
+      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "P\u00e9t\u00e9 Tchouw",
+        "url": "https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Jona",
+          "url": "https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM"
+        },
+        {
+          "name": "JDS",
+          "url": "https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm"
+        }
+      ],
+      "duration_ms": 113926,
+      "name": "P\u00e9t\u00e9 Tchouw",
+      "url": "https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/3mZXvkX8YsR3MI33seIECN"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "duration_ms": 141199,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/15asbiNkK4d3KQu1fEXNvN"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "D\u00e9ranger",
+        "url": "https://open.spotify.com/album/1Q7tGjAI2iaIFtGW9HvZbB"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        },
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "duration_ms": 154886,
+      "name": "D\u00e9ranger",
+      "url": "https://open.spotify.com/track/3wvQ2D30p0OhAng2iZcMy9"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/1MAuPoSzXiIAwzqhyJEMM9"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Marcus",
+          "url": "https://open.spotify.com/artist/3c8IRGWxXH02QgDaLz3IOe"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6sW4DL65owAWH5Ps03N36z"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "LA PLI SI TOL (Shatta Remix)",
+        "url": "https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV"
+      },
+      "artists": [
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "LA PLI SI TOL - Shatta Remix",
+      "url": "https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Jet Ski",
+        "url": "https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "duration_ms": 122951,
+      "name": "Jet Ski",
+      "url": "https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
+        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Mondialit\u00e9",
+        "url": "https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi"
+      },
+      "artists": [
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Mondialit\u00e9",
+      "url": "https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jeez Suave",
+          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 114407,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Top Girl",
+        "url": "https://open.spotify.com/album/3Jza6dQfNfKzQSyNyEupgQ"
+      },
+      "artists": [
+        {
+          "name": "Xavier Picardo",
+          "url": "https://open.spotify.com/artist/41dndcs0lGb9GMwJiJhVCJ"
+        }
+      ],
+      "duration_ms": 105563,
+      "name": "Top Girl",
+      "url": "https://open.spotify.com/track/3564j6A9wK19qUKM2CfuLO"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Vieux cl\u00e9bard",
+        "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
+      },
+      "artists": [
+        {
+          "name": "TKD",
+          "url": "https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "Vieux cl\u00e9bard",
+      "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Montoya Freestyle",
+        "url": "https://open.spotify.com/album/4Tp5VpRr64fUmDV1MPxqCf"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Sansand",
+          "url": "https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ"
+        }
+      ],
+      "duration_ms": 170684,
+      "name": "Montoya Freestyle",
+      "url": "https://open.spotify.com/track/7xPM1v262uR06tH4VbLn5U"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "\u00e7a pique am remix",
         "url": "https://open.spotify.com/album/5hflrePJ5QQGpjWHAOHDmp"
@@ -409,7 +521,47 @@
       "url": "https://open.spotify.com/track/0pOeeaiSFtB9zcGNggv5Ax"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "OU JA KONET",
+        "url": "https://open.spotify.com/album/4AjOa9YsfCcMnO56bxRkiB"
+      },
+      "artists": [
+        {
+          "name": "Attachingboy",
+          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
+        },
+        {
+          "name": "Lord Crazy",
+          "url": "https://open.spotify.com/artist/0MgaOeBE3j0qhcsD0Tevvf"
+        }
+      ],
+      "duration_ms": 143067,
+      "name": "OU JA KONET",
+      "url": "https://open.spotify.com/track/6O3eOdQzK0doZZxcJ5fjhc"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Ghetto Whine",
+        "url": "https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "duration_ms": 127993,
+      "name": "Ghetto Whine",
+      "url": "https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/6cQ3MIZw8DCiW3qTIwmKPA"
@@ -425,87 +577,7 @@
       "url": "https://open.spotify.com/track/7fz6UjCGK4n3gdc8NpC225"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Jet Ski",
-        "url": "https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe"
-      },
-      "artists": [
-        {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        },
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        }
-      ],
-      "duration_ms": 122951,
-      "name": "Jet Ski",
-      "url": "https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Lajol",
-        "url": "https://open.spotify.com/album/7dvPfbZpyEAPlzYQXWbVVp"
-      },
-      "artists": [
-        {
-          "name": "Elji",
-          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
-        }
-      ],
-      "duration_ms": 115617,
-      "name": "Lajol",
-      "url": "https://open.spotify.com/track/16ljuzPM0hfUTW8SalghpZ"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "CHIC",
-        "url": "https://open.spotify.com/album/6YkW1iJwZc2zm2HkEtD7ob"
-      },
-      "artists": [
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        },
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHIC",
-      "url": "https://open.spotify.com/track/6UGuhDkeAKbYMG1V7IPBzl"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Badman Party",
-        "url": "https://open.spotify.com/album/4XCePJwzv9wGnj5SqfBmLs"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Sukuward",
-          "url": "https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3"
-        }
-      ],
-      "duration_ms": 111690,
-      "name": "Badman Party",
-      "url": "https://open.spotify.com/track/4fhi1faidAMJkWkVLjq7iK"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Wasav",
         "url": "https://open.spotify.com/album/2qFVvRxEg6oAjgFCPE48wl"
@@ -525,63 +597,27 @@
       "url": "https://open.spotify.com/track/2rE51kV2cQ8qbiaSjz8Z6z"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/06ZzrqTvbYZhNQdPDvTaVp"
+        "name": "Breakfast Titony",
+        "url": "https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU"
       },
       "artists": [
         {
-          "name": "K-Rosif",
-          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Elle",
-      "url": "https://open.spotify.com/track/3RHJUXBNxOHdfOG9xYSTt1"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "En Balade",
-        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
         },
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Titony",
+          "url": "https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy"
         }
       ],
-      "duration_ms": 211760,
-      "name": "En Balade",
-      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
+      "duration_ms": 117627,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Yo Bunny",
-        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        },
-        {
-          "name": "Ugly Andz.",
-          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
-        }
-      ],
-      "duration_ms": 110471,
-      "name": "Yo Bunny",
-      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "MIKATUSS",
         "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
@@ -605,7 +641,87 @@
       "url": "https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "CHIC",
+        "url": "https://open.spotify.com/album/6YkW1iJwZc2zm2HkEtD7ob"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "CHIC",
+      "url": "https://open.spotify.com/track/6UGuhDkeAKbYMG1V7IPBzl"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "duration_ms": 129563,
+      "name": "BIG BOSS LADY",
+      "url": "https://open.spotify.com/track/2cMzw6PMnqwjRQjTlb40Zr"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "Bon D\u00e9ga",
+        "url": "https://open.spotify.com/album/3sFcCNm0aKpt3SOmhnH59l"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Dj Nov",
+          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
+        }
+      ],
+      "duration_ms": 135661,
+      "name": "Bon D\u00e9ga",
+      "url": "https://open.spotify.com/track/04advRmMP3vXJr28qOiVO1"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
+      "album": {
+        "name": "PKM",
+        "url": "https://open.spotify.com/album/2PV8k4DqW67bAROuL5zzXT"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Allison",
+          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "duration_ms": 151128,
+      "name": "PKM",
+      "url": "https://open.spotify.com/track/3C05UuZ8PvWCsYczM7L62l"
+    },
+    {
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Cvni",
         "url": "https://open.spotify.com/album/7H4WN465EbkdZi8IGBMzoU"
@@ -629,27 +745,23 @@
       "url": "https://open.spotify.com/track/2m0S0wcHghSpdCHmg8YBX7"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
-        "name": "Gimme This",
-        "url": "https://open.spotify.com/album/2pzrxgfcQBTteI1blNzrup"
+        "name": "Lajol",
+        "url": "https://open.spotify.com/album/7dvPfbZpyEAPlzYQXWbVVp"
       },
       "artists": [
         {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
         }
       ],
-      "duration_ms": 120076,
-      "name": "Gimme This",
-      "url": "https://open.spotify.com/track/2UBhly3ixZDOC8lVohDWnR"
+      "duration_ms": 115617,
+      "name": "Lajol",
+      "url": "https://open.spotify.com/track/16ljuzPM0hfUTW8SalghpZ"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "MAESTRO",
         "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
@@ -665,87 +777,7 @@
       "url": "https://open.spotify.com/track/6ZGyhbIqqIyT8950Hf6D93"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "PKM",
-        "url": "https://open.spotify.com/album/2PV8k4DqW67bAROuL5zzXT"
-      },
-      "artists": [
-        {
-          "name": "Rachelle Allison",
-          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
-        },
-        {
-          "name": "YSN",
-          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
-        }
-      ],
-      "duration_ms": 151128,
-      "name": "PKM",
-      "url": "https://open.spotify.com/track/3C05UuZ8PvWCsYczM7L62l"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jahlys",
-          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
-        }
-      ],
-      "duration_ms": 129563,
-      "name": "BIG BOSS LADY",
-      "url": "https://open.spotify.com/track/2cMzw6PMnqwjRQjTlb40Zr"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Bon D\u00e9ga",
-        "url": "https://open.spotify.com/album/3sFcCNm0aKpt3SOmhnH59l"
-      },
-      "artists": [
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        },
-        {
-          "name": "Dj Nov",
-          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
-        }
-      ],
-      "duration_ms": 135661,
-      "name": "Bon D\u00e9ga",
-      "url": "https://open.spotify.com/track/04advRmMP3vXJr28qOiVO1"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "WDMD",
-        "url": "https://open.spotify.com/album/3WxmAyAR6bafW8qVZg63IP"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "WDMD",
-      "url": "https://open.spotify.com/track/7GirVr6QNVzWIMzotndrjs"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
         "name": "Jumanji",
         "url": "https://open.spotify.com/album/2s2lyCzwBXOiGFkrmzHbmP"
@@ -769,60 +801,20 @@
       "url": "https://open.spotify.com/track/0eXooFEiS5060vL0fbNjGi"
     },
     {
-      "added_at": "2025-02-14 15:10:34",
+      "added_at": "2025-02-20 23:00:21",
       "album": {
-        "name": "Shatta Love #1",
-        "url": "https://open.spotify.com/album/7LITfeLJ7ZiAqGSl6hIMdo"
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/06ZzrqTvbYZhNQdPDvTaVp"
       },
       "artists": [
         {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Shatta Love #1",
-      "url": "https://open.spotify.com/track/79JzDkMCygau28t4WxD5F1"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Lass Pal\u00e9",
-        "url": "https://open.spotify.com/album/5sjXX8wgkcrxb0Lx1kXw1b"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Lass Pal\u00e9",
-      "url": "https://open.spotify.com/track/0nUZ0FDUJ7nxhXben9a9pR"
-    },
-    {
-      "added_at": "2025-02-14 15:10:34",
-      "album": {
-        "name": "Elles veulent twerker !",
-        "url": "https://open.spotify.com/album/7zVzecXPNXSm41yz0PT6tg"
-      },
-      "artists": [
-        {
-          "name": "DJ Mike One",
-          "url": "https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd"
-        },
-        {
-          "name": "Elji",
-          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
-        },
-        {
-          "name": "T-Matt",
-          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
-        }
-      ],
-      "duration_ms": 116234,
-      "name": "Elles veulent twerker !",
-      "url": "https://open.spotify.com/track/40lonv25VaTFHGrY9AvmWT"
+      "duration_ms": 146938,
+      "name": "Elle",
+      "url": "https://open.spotify.com/track/3RHJUXBNxOHdfOG9xYSTt1"
     }
   ],
   "unique_name": "Dancehall Station",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Liv del Estal",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Suzane",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 309160,
       "name": "Clover Paradise",
       "url": "https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 153802,
       "name": "Deep Eyes",
       "url": "https://open.spotify.com/track/57If5DV9TQdoSHKP5jNvSh"
@@ -1448,6 +1448,28 @@
       "duration_ms": 208810,
       "name": "EREX",
       "url": "https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb"
+    },
+    {
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198656,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm"
     },
     {
       "album": {
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 210045,
       "name": "J'adore le monde - Short Version",
       "url": "https://open.spotify.com/track/5JWEx6AJ89LuupEXLIsdSC"
@@ -2320,7 +2342,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 252800,
       "name": "Le Plus Grand Spectacle De La Terre",
       "url": "https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-21",
       "duration_ms": 203878,
       "name": "Le sang de papa et maman",
       "url": "https://open.spotify.com/track/3ylbP2pqUzfm1j2mPwERmi"
@@ -2777,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Mouvement",
+        "url": "https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158318,
+      "name": "Mouvement",
+      "url": "https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a"
+    },
+    {
+      "album": {
         "name": "4 Ever",
         "url": "https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO"
       },
@@ -2984,6 +3024,24 @@
       "duration_ms": 304624,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw"
+    },
+    {
+      "album": {
+        "name": "BLAST.",
+        "url": "https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172272,
+      "name": "ODYSS_X",
+      "url": "https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs"
     },
     {
       "album": {
@@ -4634,6 +4692,24 @@
       "duration_ms": 223466,
       "name": "Zero Box",
       "url": "https://open.spotify.com/track/7CcnzW8nPLBMg8PuNHdbj8"
+    },
+    {
+      "album": {
+        "name": "zombi",
+        "url": "https://open.spotify.com/album/7dBhWvpu5RbV60WZPOGArl"
+      },
+      "artists": [
+        {
+          "name": "Pierre Pleure",
+          "url": "https://open.spotify.com/artist/4LdNhzvsIrPK2c7QPhYw6h"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141966,
+      "name": "zombi",
+      "url": "https://open.spotify.com/track/5gxrevOrqNW1IPPtZaKJZt"
     },
     {
       "album": {

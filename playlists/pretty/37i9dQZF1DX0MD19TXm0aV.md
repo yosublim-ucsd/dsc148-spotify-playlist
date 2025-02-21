@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,222 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,220 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Balorda nostalgia](https://open.spotify.com/track/5pNm9cYzWaAtoihxILG3cw) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [TUTTA VITA](https://open.spotify.com/album/74qhbKLkfhlWo32AIPqs7v) | 3:17 |
+| 1 | [Balorda nostalgia](https://open.spotify.com/track/5pNm9cYzWaAtoihxILG3cw) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/74qhbKLkfhlWo32AIPqs7v) | 3:17 |
 | 2 | [Lej kto rrena](https://open.spotify.com/track/28LgPbNAuQOYOcdoJzaGGP) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Lej kto rrena](https://open.spotify.com/album/4bBU1jMBMnQEAI3vJm2Ef9) | 2:45 |
 | 3 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
 | 4 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
 | 50 | [Stäffisburg](https://open.spotify.com/track/50rtbFg8mURiWLHrddBc1K) | [Patent Ochsner](https://open.spotify.com/artist/4Cfx9c45o8GigUIYzDie9B) | [Stäffisburg](https://open.spotify.com/album/5uU2oneRjOxbus8C48tuLF) | 4:17 |
 
-Snapshot ID: `Z7SozAAAAADsyT/InhoI0UdPCcYOqOZx`
+Snapshot ID: `Z7SozAAAAADERujuv7LwPPEz4r8LI/Br`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Talha Anjum
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,530 likes - 53 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,576 likes - 53 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 52 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 |
 | 53 | [Over You](https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Over You](https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv) | 2:57 |
 
-Snapshot ID: `Z7MBgAAAAAAKFacqQ6oV4vjbkkej3t+q`
+Snapshot ID: `Z7MBgAAAAACvXBm+x6dy6xOb8JRT6dp1`

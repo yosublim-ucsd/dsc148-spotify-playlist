@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rahma Savitri",
-  "num_followers": 108594,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Adrian Setiawan",
+  "num_followers": 108609,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6T4oAAAAADAHc7T3qdCkm1C8H5IaKQV",
+  "snapshot_id": "Z7dflAAAAAAF9oJLaghX1zXW1x7G1x6T",
   "tracks": [
+    {
+      "added_at": "2025-02-20 17:00:04",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf"
+      },
+      "artists": [
+        {
+          "name": "Adrian Setiawan",
+          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
+        },
+        {
+          "name": "Cika Amalia",
+          "url": "https://open.spotify.com/artist/2M4JBNdO2DPJBSJSutcgas"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3F56BRaiq37HjdJWg6YUpj"
+    },
     {
       "added_at": "2025-02-06 18:00:00",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 185142,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
-    },
-    {
-      "added_at": "2025-01-23 17:00:04",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir"
-      },
-      "artists": [
-        {
-          "name": "tjdika",
-          "url": "https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7"
-        },
-        {
-          "name": "Tommy Pratomo",
-          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
     },
     {
       "added_at": "2024-12-06 04:19:28",
@@ -75,6 +75,26 @@
       "duration_ms": 188224,
       "name": "Gagal Diet",
       "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
+    },
+    {
+      "added_at": "2025-01-23 17:00:04",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir"
+      },
+      "artists": [
+        {
+          "name": "tjdika",
+          "url": "https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7"
+        },
+        {
+          "name": "Tommy Pratomo",
+          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
     },
     {
       "added_at": "2024-12-06 04:19:28",
