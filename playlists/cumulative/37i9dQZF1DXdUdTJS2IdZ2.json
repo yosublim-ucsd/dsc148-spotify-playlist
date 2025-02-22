@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "farewell handshake",
+        "url": "https://open.spotify.com/album/5oBH2o0hJ1xtU0H2tkQuHO"
+      },
+      "artists": [
+        {
+          "name": "Phantom Haze",
+          "url": "https://open.spotify.com/artist/68vrmU1aYdSG3azBjle63Q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179667,
+      "name": "farewell handshake",
+      "url": "https://open.spotify.com/track/7phUmq6hzPD6Rp17G4s30w"
+    },
+    {
+      "album": {
         "name": "FAST (Remix)",
         "url": "https://open.spotify.com/album/0hk5piMIWlVUTFi526defv"
       },
@@ -8528,6 +8546,24 @@
       "duration_ms": 198571,
       "name": "Venum - Prito Afromix",
       "url": "https://open.spotify.com/track/2ha8kTs9TchIr3JZxGMSfH"
+    },
+    {
+      "album": {
+        "name": "Wail",
+        "url": "https://open.spotify.com/album/5TssfBAsIedUtnELotzh2v"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel Tok",
+          "url": "https://open.spotify.com/artist/2i7r4upIcuvwaX5OnZrjXy"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "Wail",
+      "url": "https://open.spotify.com/track/6QHX2ouw6wcKJyCXy1zCB7"
     },
     {
       "album": {

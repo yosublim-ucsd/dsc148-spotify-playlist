@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-9,859 songs - 21 day 11 hr 51 min
+9,862 songs - 21 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2718,6 +2718,7 @@
 | [Exploring](https://open.spotify.com/track/3jmghQYyqmCP8YJTRHJohZ) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Exploring](https://open.spotify.com/album/73ouwsWkbPlJdFKodyPNov) | 3:12 | 2025-01-30 | 2025-02-07 |
 | [Explosief](https://open.spotify.com/track/4Aj8VNV1ZtTo1rZ6BDHsjE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Explosief](https://open.spotify.com/album/5a0MDVbq0KSVBKqxSTtFFE) | 2:14 | 2025-02-13 | 2025-02-21 |
 | [Express Yourself](https://open.spotify.com/track/6pboB3He1xSnnqNNEd009S) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Express Yourself](https://open.spotify.com/album/3cIpqzKP1fHbUaYYi91oIK) | 2:18 | 2024-11-28 | 2024-12-06 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Exxxplain this](https://open.spotify.com/track/5Rscw7Y0xkKvj5ZCYglCsU) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV), [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Exxxplain this](https://open.spotify.com/album/1gtLOfdZZhPnYMIbvGy0Dp) | 2:41 | 2023-08-03 | 2023-08-11 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-24 | 2023-03-31 |
 | [Eyes](https://open.spotify.com/track/1IBafhHvDkVv1aCbHQ2pDV) | [The Magic Mumble Jumble](https://open.spotify.com/artist/18lm5VtpoiMth7H3EOts54) | [Eyes](https://open.spotify.com/album/3f0aVcPnlDcFKmcJcmaGFC) | 2:45 | 2023-03-02 | 2023-03-10 |
@@ -5320,6 +5321,7 @@
 | [Luv](https://open.spotify.com/track/3KyGzyI0zkvrxnicAST48P) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Luv](https://open.spotify.com/album/72vkKg2GcRLyxjXH5ntPAJ) | 2:46 | 2025-01-02 | 2025-01-10 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-06 | 2024-06-14 |
 | [Luvin It](https://open.spotify.com/track/15IiH9MIKo0moBwzZMSjoB) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Luvin It](https://open.spotify.com/album/6rwUOTTLX9wClHix5VYWtw) | 2:12 | 2023-06-29 | 2023-07-07 |
+| [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-21 |  |
 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-07 | 2023-07-14 |
 | [Lwonesome Tonight](https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 3:48 | 2023-07-06 | 2023-07-08 |
 | [LWRW](https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LWRW](https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN) | 2:39 | 2024-03-14 | 2024-03-22 |
@@ -8751,6 +8753,7 @@
 | [TRAP ACADEMY](https://open.spotify.com/track/6onuQHyYUwmPs9syYJp5JL) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [ROAD 2 U2OPIA](https://open.spotify.com/album/2tqgwaLjmWJUq0PGiGdoae) | 1:57 | 2024-11-07 | 2024-11-15 |
 | [Trap Sexion](https://open.spotify.com/track/5jkDEEx8mR4XANJT1z424d) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F), [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [Na Regen Komt Neonlicht](https://open.spotify.com/album/3K1AyS4L9QDKwQsqqLFTCo) | 2:01 | 2024-09-05 | 2024-09-13 |
 | [Traphuis](https://open.spotify.com/track/4i6T15x8tsJY3C3p9u4Tu1) | [Red Moons](https://open.spotify.com/artist/0XldWxMP7pIID97K67gQNo), [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Traphuis](https://open.spotify.com/album/74qv5gig3oaewGMBrs7UqW) | 2:48 | 2024-06-27 | 2024-07-05 |
+| [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 | 2025-02-21 |  |
 | [Trapped Under Nice](https://open.spotify.com/track/6USWG3CNM00MQ9zxpiTgdZ) | [Tusky](https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr) | [Trapped Under Nice](https://open.spotify.com/album/1pdIvCKWmGcg2a7HCJ8TQe) | 1:22 | 2024-09-19 | 2024-09-27 |
 | [Trash](https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV) | [Stella](https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db) | [Trash](https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D) | 4:02 | 2024-04-04 | 2024-04-12 |
 | [Trash Blanket](https://open.spotify.com/track/3crOykl82l9i6NtkzTsM8G) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Trash Blanket](https://open.spotify.com/album/5nSMOh9sxfJOLlDZP7rcXR) | 3:14 | 2024-07-26 | 2024-08-02 |

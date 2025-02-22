@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 61222,
+  "num_followers": 61239,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAABCxYfiCkk3r7tOs1nqbXmp",
+  "snapshot_id": "Z7ZwgAAAAAA7MpgnbRN0jMIqb4la2L5v",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Wonderful God (feat. Jonathan Ogden)",
+      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aeon",
         "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 124885,
       "name": "You Changed on Me.",
       "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedroom Gospel",
-        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Wonderful God (feat. Jonathan Ogden)",
-      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -487,6 +503,22 @@
       "duration_ms": 188000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": null,
@@ -507,34 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
       "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "SOPHIETHEHOMIE",
+          "url": "https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+      "duration_ms": 235500,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
     },
     {
       "added_at": null,
@@ -575,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "SOPHIETHEHOMIE",
-          "url": "https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 182857,
       "name": "3:35am",
       "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 118140,
+      "name": "Yes, You Love Me.",
+      "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
     },
     {
       "added_at": null,
@@ -715,26 +735,6 @@
       "duration_ms": 244453,
       "name": "Your Love Has Called Me Back",
       "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 118140,
-      "name": "Yes, You Love Me.",
-      "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 276421,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyes Only for You",
         "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 212250,
       "name": "Eyes Only for You",
       "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 276421,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
     },
     {
       "added_at": null,

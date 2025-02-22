@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Keisya Levronka
 
-324 songs - 21 hr 26 min
+325 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/3P4GuhNOuhUVomoKZiIVVl) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 | 2024-07-18 | 2024-10-11 |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-03-07 | 2024-05-03 |
 | [Di Depan Mata](https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Di Depan Mata](https://open.spotify.com/album/6Ryjq3Sbvru0bQhzPZQRwC) | 2:37 | 2024-09-19 | 2024-12-13 |
+| [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 | 2025-02-21 |  |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl) | 4:02 | 2024-02-15 | 2025-02-14 |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 | 2024-11-15 |
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-29 | 2024-10-18 |

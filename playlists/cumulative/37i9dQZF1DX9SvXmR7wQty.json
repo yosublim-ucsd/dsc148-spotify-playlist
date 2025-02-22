@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: DVTR",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Moffatt",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 186746,
       "name": "1 Minute",
       "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 167880,
       "name": "AMORE",
       "url": "https://open.spotify.com/track/3Q3kWZsygRrW7D0KNOUvYp"
@@ -5306,6 +5306,24 @@
       "duration_ms": 185910,
       "name": "Beaux r\u00eaves (feat. Prinzly)",
       "url": "https://open.spotify.com/track/1c6lF0X3r1gOf59EaK3l8h"
+    },
+    {
+      "album": {
+        "name": "Beaux yeux",
+        "url": "https://open.spotify.com/album/71vGN5WKF17AZOuJA5BKpT"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140974,
+      "name": "Beaux yeux",
+      "url": "https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R"
     },
     {
       "album": {
@@ -9457,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Chimiy\u00e9",
+        "url": "https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151033,
+      "name": "Chimiy\u00e9",
+      "url": "https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ"
+    },
+    {
+      "album": {
         "name": "Cho Na Cho",
         "url": "https://open.spotify.com/album/2JEvOtNRCHxEQsva13KrAW"
       },
@@ -11348,7 +11384,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159750,
       "name": "Cool",
       "url": "https://open.spotify.com/track/1WBgVsSqtyCtd1wFNCXE8v"
@@ -15601,6 +15637,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9sol\u00e9 pour \u00e7a",
+        "url": "https://open.spotify.com/album/3SQVTDV5PCLhZEglIaCPFe"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "D\u00e9sol\u00e9 pour \u00e7a",
+      "url": "https://open.spotify.com/track/7ixuWNA0xCe1EPYkrOze6z"
+    },
+    {
+      "album": {
         "name": "D\u00e9sol\u00e9e",
         "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
       },
@@ -16410,6 +16464,24 @@
       "duration_ms": 226000,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
+    },
+    {
+      "album": {
+        "name": "Liaison toxique (Deluxe)",
+        "url": "https://open.spotify.com/album/1qc9g3w4JbQysmxcPpQH9O"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/3oYKep8bmqWwIfZ7iszfCJ"
     },
     {
       "album": {
@@ -20105,6 +20177,24 @@
     },
     {
       "album": {
+        "name": "Garde-Malade",
+        "url": "https://open.spotify.com/album/5sVfv6lOfXSqIxHZIw8AKM"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "Garde-Malade",
+      "url": "https://open.spotify.com/track/0qB5KfAWmhEnQmxs85GJ1m"
+    },
+    {
+      "album": {
         "name": "T\u00eate br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f"
       },
@@ -20192,6 +20282,24 @@
       "duration_ms": 184120,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
+    },
+    {
+      "album": {
+        "name": "Gentil Gar\u00e7on",
+        "url": "https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Gentil Gar\u00e7on",
+      "url": "https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp"
     },
     {
       "album": {
@@ -25729,6 +25837,24 @@
     },
     {
       "album": {
+        "name": "Jouer",
+        "url": "https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "Jouer",
+      "url": "https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL"
+    },
+    {
+      "album": {
         "name": "Jouer ensemble",
         "url": "https://open.spotify.com/album/63pWF4HoUH3zqVcRSZS8iI"
       },
@@ -26712,7 +26838,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 194597,
       "name": "KX",
       "url": "https://open.spotify.com/track/3aChirEW4T3P7AWpywqCbW"
@@ -28350,7 +28476,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147750,
       "name": "La mer rose",
       "url": "https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv"
@@ -35168,7 +35294,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 162706,
       "name": "Mauvais Gar\u00e7on",
       "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
@@ -53528,7 +53654,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 146977,
       "name": "Th\u00e9rapie",
       "url": "https://open.spotify.com/track/7brYeIfKriDjfVx2mdi4M0"
@@ -53692,6 +53818,28 @@
       "duration_ms": 220186,
       "name": "Tipatshimushtunan",
       "url": "https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0"
+    },
+    {
+      "album": {
+        "name": "En Attendant Paphos",
+        "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188589,
+      "name": "Tise & Ken",
+      "url": "https://open.spotify.com/track/254mSu5mvfeomdx79F1rdB"
     },
     {
       "album": {
@@ -56164,7 +56312,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 246556,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/0QHNFgt0f0o5pIFLgmKyOy"
@@ -60350,6 +60498,24 @@
       "duration_ms": 329481,
       "name": "\u00c9cho",
       "url": "https://open.spotify.com/track/72cFHDISfSGOIPHfzpYLdk"
+    },
+    {
+      "album": {
+        "name": "\u00c9clipse",
+        "url": "https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149701,
+      "name": "\u00c9clipse",
+      "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"
     },
     {
       "album": {

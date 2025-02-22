@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,147 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,173 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vida](https://open.spotify.com/track/0co0ZOkzlwV2xeIHqC2olu) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Vida](https://open.spotify.com/album/73ar6JITfxgCsLOYsJuyYx) | 4:17 |
 | 2 | [You've Changed](https://open.spotify.com/track/59Y0HlcCevMDvNN04V5kSQ) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [You've Changed](https://open.spotify.com/album/4NjbuYwyN7kS6tQhZNggR9) | 3:28 |
-| 3 | [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 |
+| 3 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/2DsJEmesdUlHMqaY4nPDrC) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/album/2a0bgUmBrurbHyyPUe1sej) | 3:19 |
 | 4 | [Never Say Yes](https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Never Say Yes](https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ) | 3:32 |
 | 5 | [Save Your Love For Me](https://open.spotify.com/track/7iub1m9seT5PfUxoTPRmsz) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Smile](https://open.spotify.com/album/5RiFbjDgfyfzTCQths9B6c) | 2:39 |
 | 6 | [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 |
 | 7 | [Love Is a Place](https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Lucas Pino](https://open.spotify.com/artist/5XJ3MtDvjwCTEbu4oehX7Q) | [I Guess I Just](https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9) | 4:31 |
 | 8 | [Bold](https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Bold](https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04) | 3:27 |
-| 9 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 |
+| 9 | [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 |
 | 10 | [Don't Forget Your Love](https://open.spotify.com/track/2YVCAhio5l6KdLvh6jg1mP) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Messages](https://open.spotify.com/album/4KVABgFjy5h5u9KcCeTYD7) | 4:38 |
 | 11 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 |
 | 12 | [Your Love Is Home](https://open.spotify.com/track/6qFZF9ptbBvmsBKgN9MNF9) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [Your Love Is Home](https://open.spotify.com/album/5v3mkKCbt69luTADFPX4ud) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 | 100 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 |
 
-Snapshot ID: `Z67N9gAAAAAkZtGQ6xavacFnySq1CNSb`
+Snapshot ID: `Z7gIYQAAAAD89+H7A2Z8U2CK7iNVkjSV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,277 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,345 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 4 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 |
 | 5 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |
 | 6 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 |
-| 7 | [The Revenant \(Main Theme\)](https://open.spotify.com/track/2KMpuyFJuyHbeFen3XsFDm) | [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [The Revenant \(Main Theme\)](https://open.spotify.com/album/5ELrtg0cvRebmaLjRV0wDb) | 3:19 |
-| 8 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 |
+| 7 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 |
+| 8 | [The Revenant \(Main Theme\)](https://open.spotify.com/track/2KMpuyFJuyHbeFen3XsFDm) | [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [The Revenant \(Main Theme\)](https://open.spotify.com/album/5ELrtg0cvRebmaLjRV0wDb) | 3:19 |
 | 9 | [No Time To Die Suite: Part 2, Final Ascent](https://open.spotify.com/track/5NxRI8qQDeXWgCEagvsAyF) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Steve Mazzaro](https://open.spotify.com/artist/4RLyniSM7MwTs6qkcXBYfY), [Mariko Muranaka](https://open.spotify.com/artist/6fq7JvH0T63V1KPNxrBraE), [Alexios Anest](https://open.spotify.com/artist/4CY87zMsYjMPYwXYD1ksIP), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [No Time To Die Suite](https://open.spotify.com/album/2UXHQxoY7ntBCfn1ClxIPP) | 2:49 |
 | 10 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 |
 | 11 | [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 73 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 74 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
 
-Snapshot ID: `Z5OPDgAAAACJooFsw5fA62nDMnJPuSY8`
+Snapshot ID: `Z7i6WwAAAAAB8W7KFsyxH+VRBeT7fmm/`

@@ -2,7 +2,7 @@
 
 ### [Éxitos Chile](https://open.spotify.com/playlist/37i9dQZF1DXclgCwbk0uat)
 
-> ¡Escucha los éxitos de hoy! <br/>Foto: Bad Bunny.
+> ¡Escucha los éxitos de hoy! <br/>Foto: Katteyes & Kidd Voodoo
 
 459 songs - 1 day 1 hr 30 min
 

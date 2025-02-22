@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: GALE, ROBI
 
-412 songs - 21 hr 42 min
+413 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 | 2023-10-27 | 2024-08-10 |
 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 | 2025-01-31 |  |
 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-10-20 | 2023-11-06 |
-| [Despacio Que Hay Prisa](https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Despacio Que Hay Prisa](https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj) | 5:02 | 2024-11-22 |  |
+| [Despacio Que Hay Prisa](https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Despacio Que Hay Prisa](https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj) | 5:02 | 2024-11-22 | 2025-02-22 |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-03-17 | 2023-04-15 |
 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 |  |
 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 | 2024-05-10 | 2024-12-07 |
@@ -328,6 +328,7 @@
 | [Que Vuelva](https://open.spotify.com/track/4rcpIZPn98q2yRwvTFZsuG) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Que Vuelva](https://open.spotify.com/album/0Cf2276QwJGQdF7D3xhCpF) | 2:30 | 2024-09-20 | 2024-11-08 |
 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 | 2025-01-17 |  |
 | [Quiero](https://open.spotify.com/track/26tLmURZXoOmbFA7pjtvJ4) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Quiero](https://open.spotify.com/album/3rWNMVZ6RZvJm4RuF6G2Ts) | 2:55 | 2023-03-17 | 2023-03-25 |
+| [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 |  |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 | 2024-02-17 |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-06-23 | 2023-09-16 |
 | [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 | 2023-03-17 | 2023-03-25 |

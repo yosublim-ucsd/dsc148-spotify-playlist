@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: t024\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,072 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,094 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 |
+| 1 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun \(0WAVE\)](https://open.spotify.com/artist/6Sz2tD6LEK9ViKwW4BYU4t) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 |
 | 2 | [Still My Baby \(feat\. BUMKEY\)](https://open.spotify.com/track/4XzSMVLuTSLsIhAwD8eWuc) | [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Still My Baby](https://open.spotify.com/album/74pcbfqQXzki48G0Y4b3eT) | 3:53 |
 | 3 | [Phase 2](https://open.spotify.com/track/5EpEUsgdUnOKqaO3V6teQ5) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Phase 2](https://open.spotify.com/album/0lH0wKS720gDw5NqMlUDjH) | 3:07 |
 | 4 | [Make the vibe](https://open.spotify.com/track/0pzxdQ001Rot9Ll5MilQmP) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [TRACE](https://open.spotify.com/album/00kDMNQFXyx8iSGSXjsSl7) | 2:33 |

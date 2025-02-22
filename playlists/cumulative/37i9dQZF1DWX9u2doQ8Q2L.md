@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,577 songs - 3 day 23 hr 26 min
+1,578 songs - 3 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [2016](https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [2016](https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY) | 4:00 | 2023-04-04 | 2023-05-09 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-13 |  |
 | [25](https://open.spotify.com/track/5oh8O4EMOBQNldYQyL7irn) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [25](https://open.spotify.com/album/7D312ufAVxYDBTOgiKQaBS) | 2:56 | 2024-02-27 | 2024-04-13 |
-| [27:00](https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [27:00](https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9) | 3:28 | 2025-01-15 |  |
+| [27:00](https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [27:00](https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9) | 3:28 | 2025-01-15 | 2025-02-22 |
 | [27歳 \[CD Ver.\] \(phritz Remix\)](https://open.spotify.com/track/7B8WbWWA9cEvWnZgcrjjUG) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Panikhida \[2015\-2022 Best Song Remixes\]](https://open.spotify.com/album/0C5dNmi2SZVHkevtFF1FXc) | 3:05 | 2023-02-21 | 2023-03-01 |
 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 | 2023-11-28 | 2024-04-13 |
 | [37.5°C](https://open.spotify.com/track/2xBq6S5pDvVsIxxlCxlC1z) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [37.5°C](https://open.spotify.com/album/6wNizIxKsGdvJEfVCP9oF4) | 2:47 | 2022-08-16 | 2022-09-24 |
@@ -1187,6 +1187,7 @@
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-07 |  |
 | [wish i could hate you](https://open.spotify.com/track/2cynQrxwlp2Q8ILbG6Ko13) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [pending](https://open.spotify.com/album/4xqjO4wMZEsEM5EjNvMGkr) | 2:20 | 2023-12-05 | 2023-12-13 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2025-01-22 |
+| [Wonder Woman](https://open.spotify.com/track/63Z1plOzb8d2Ke0ypFkz2g) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Wonder Woman](https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS) | 2:38 | 2025-02-21 |  |
 | [Wonderful Life](https://open.spotify.com/track/6V36HaM6MDqRKCg8OY716v) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 7:22 | 2022-09-13 | 2022-10-26 |
 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 | 2022-05-26 | 2022-07-20 |
 | [Woofin' and Meowin'](https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Woofin' and Meowin'](https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ) | 2:47 | 2022-12-06 | 2023-01-11 |

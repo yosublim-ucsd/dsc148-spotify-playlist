@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
+    },
+    {
+      "album": {
         "name": "The Only One",
         "url": "https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG"
       },

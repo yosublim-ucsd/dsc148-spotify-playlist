@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=v95\-rOiQQv2Hm\-xCDMQrFA">Zoé</a>
 
-1,525 songs - 3 day 12 hr 57 min
+1,526 songs - 3 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,6 +1030,7 @@
 | [Op'ie Dansvloer](https://open.spotify.com/track/5lKRQZbCvU7Hs4D844cAd3) | [André Van Wyngaardt](https://open.spotify.com/artist/37zpTgPGK8vPj3PLrGVmNk) | [Op'ie Dansvloer](https://open.spotify.com/album/1jrcQ3cGuwJ3MVpPWS0D4P) | 3:05 | 2024-11-21 | 2024-11-29 |
 | [Ophou](https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ophou](https://open.spotify.com/album/4DgQmYYVWDOszCGW7McXWe) | 3:32 | 2022-09-29 | 2022-12-02 |
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |
+| [Oranje](https://open.spotify.com/track/4xSbkn8zFG0BOG3QGd71ZY) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [Oranje](https://open.spotify.com/album/6w6Ihr89EWWswlOnAOaKxx) | 3:34 | 2025-02-21 |  |
 | [Orion](https://open.spotify.com/track/5oIf1T25Eixf1ToSIwwIRx) | [Eldon Flare](https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW) | [Orion](https://open.spotify.com/album/7BbxZ36fn5ueWdBMCPS1xc) | 2:40 | 2024-10-31 | 2024-11-08 |
 | [Ou Kraalliedjie](https://open.spotify.com/track/3uyiLQ7snZ6Njes5kNyyrD) | [Ouderdoos](https://open.spotify.com/artist/3YtJ7CNA0rbetvlXmJtVwT) | [Ou Kraalliedjie](https://open.spotify.com/album/5QyOwNGK6bqpgIqb1geH8q) | 2:33 | 2022-10-13 | 2022-10-28 |
 | [Ou Ryperd](https://open.spotify.com/track/2nXLcw0LljCX9aBGaAaywl) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Ou Ryperd](https://open.spotify.com/album/2uLXSjlX0nlHP8oaIm7vta) | 2:40 | 2024-11-14 | 2024-12-06 |
@@ -1055,7 +1056,7 @@
 | [Pilanesberg](https://open.spotify.com/track/2XncqXp57eG02KhKMvkW21) | [Jako Meyer](https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6) | [Pilanesberg](https://open.spotify.com/album/4tsSXj53SpA63hmFWa37Sy) | 2:49 | 2023-07-27 | 2023-08-11 |
 | [Plaas Dorp Toe](https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Plaas Dorp Toe](https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC) | 3:18 | 2024-06-20 | 2024-12-06 |
 | [Plaas Toe](https://open.spotify.com/track/21mE9jeLuMe2oXMmFBK1dP) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Plaas Toe](https://open.spotify.com/album/6zqPSiodiTcqT21EyaHtSa) | 4:36 | 2024-03-21 | 2024-07-05 |
-| [Plaas Toe](https://open.spotify.com/track/0NFSKhj9XWqqkpK42avcoI) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Plaas Toe](https://open.spotify.com/album/5VPMeKZAZZOEiKKGr8UoWA) | 3:08 | 2024-09-19 |  |
+| [Plaas Toe](https://open.spotify.com/track/0NFSKhj9XWqqkpK42avcoI) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Plaas Toe](https://open.spotify.com/album/5VPMeKZAZZOEiKKGr8UoWA) | 3:08 | 2024-09-19 | 2025-02-22 |
 | [Plaashond](https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Plaashond](https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn) | 2:45 | 2022-12-08 | 2023-04-21 |
 | [Plaaskat](https://open.spotify.com/track/5LVE5RfHmwb6A5L8vDimP1) | [Richann Brüssow](https://open.spotify.com/artist/6Oj09J13TIKZrR0n18DAom) | [Plaaskat](https://open.spotify.com/album/1lHVpQN3cS9LtPlElrIHdW) | 3:22 | 2024-06-13 | 2024-12-06 |
 | [Plaaskind](https://open.spotify.com/track/34BkAkK3yMNPS9xHQqwYC0) | [Eardly](https://open.spotify.com/artist/6H0n5TNMgIwfFeDPofTfSJ) | [Plaaskind](https://open.spotify.com/album/1bgCeLzELkCczCt5iLL5iU) | 3:30 | 2024-09-05 | 2024-09-13 |

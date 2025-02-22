@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Kenneth Mugabi
 
-139 songs - 7 hr 46 min
+140 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Sunday](https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa) | [SSSOUNDMAN](https://open.spotify.com/artist/6ozIxfjjWlPEWxMCwdrFii) | [Sunday](https://open.spotify.com/album/4W7gufMbRo0lw53VRI9gEA) | 1:25 | 2025-02-07 |  |
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |
+| [Tanimba](https://open.spotify.com/track/2Hafw2FRF7RAHyRPnxPgpm) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Tanimba](https://open.spotify.com/album/4w8Gb7vP6EK6glctX9NyiE) | 2:20 | 2025-02-21 |  |
 | [Taste](https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Taste](https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse) | 2:51 | 2025-02-14 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |
 | [TEACH ME](https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [TEACH ME](https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf) | 3:05 | 2024-11-22 |  |
@@ -135,7 +136,7 @@
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 | 2023-04-01 |
 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 | 2023-10-20 |  |
 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 | 2023-01-12 | 2025-02-15 |
-| [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 |  |
+| [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 | 2025-02-22 |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 | 2023-10-13 |
 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 | 2023-06-09 | 2024-04-13 |
 | [Wampisa](https://open.spotify.com/track/6q5lNkKJfxpzLrsv0QlyMR) | [Aziz Azion](https://open.spotify.com/artist/5A4WNUoNE2OHg8hbn0wzDi) | [Wampisa](https://open.spotify.com/album/6UDMeyDezBLR1BOPm0yoM6) | 4:01 | 2024-01-19 |  |

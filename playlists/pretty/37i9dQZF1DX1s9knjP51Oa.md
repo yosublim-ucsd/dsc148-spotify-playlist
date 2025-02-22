@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,554 likes - 179 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 967,589 likes - 179 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 178 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 |
 | 179 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
 
-Snapshot ID: `Z7SWiwAAAABkbCGLc+WDU2m1DwRWtBKu`
+Snapshot ID: `Z7SWiwAAAAA4JESXEA1RTQA3Ta7WbcP6`

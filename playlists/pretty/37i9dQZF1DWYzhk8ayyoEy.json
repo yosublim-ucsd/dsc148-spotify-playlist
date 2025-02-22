@@ -1,32 +1,64 @@
 {
-  "description": "Warm, inspirational pop, that's good at heart. Cover:  James Bay & Jon Batiste",
-  "num_followers": 43377,
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Mike Posner",
+  "num_followers": 43401,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N5wAAAADtd5Ar4IMqxOSofXb3SnU/",
+  "snapshot_id": "Z7gIYAAAAADq/szgpYD2XtHtMpolfQo2",
   "tracks": [
     {
-      "added_at": "2025-01-31 05:00:25",
+      "added_at": "2025-02-21 05:00:16",
       "album": {
-        "name": "Sunshine In The Room",
-        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         },
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
         }
       ],
-      "duration_ms": 182955,
-      "name": "Sunshine In The Room (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+      "duration_ms": 221314,
+      "name": "Time To Make A Change (feat. MonoNeon)",
+      "url": "https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -45,20 +77,20 @@
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
-      "added_at": "2024-10-11 13:41:50",
+      "added_at": "2025-02-21 05:00:16",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR"
       },
       "artists": [
         {
-          "name": "Samantha Ebert",
-          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+      "duration_ms": 195463,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH"
     },
     {
       "added_at": "2025-02-14 05:00:23",
@@ -127,6 +159,42 @@
       "duration_ms": 180146,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -311,22 +379,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "Morning / Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "Jordans",
         "url": "https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI"
       },
@@ -391,22 +443,6 @@
       "duration_ms": 203567,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -531,22 +567,6 @@
       "duration_ms": 220525,
       "name": "You Can Make It",
       "url": "https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Thank God I Do",
-        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "Thank God I Do",
-      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -851,22 +871,6 @@
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1031,22 +1035,6 @@
       "duration_ms": 165293,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
     },
     {
       "added_at": "2024-10-11 13:41:50",

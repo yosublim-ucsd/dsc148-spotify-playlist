@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+    },
+    {
+      "album": {
         "name": "Farrenc: Nonet - Clarinet Trio",
         "url": "https://open.spotify.com/album/4oJtR0XATs2ZskA2RNcaHT"
       },

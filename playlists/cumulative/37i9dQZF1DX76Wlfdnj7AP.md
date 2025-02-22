@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,406 songs - 3 day 3 hr 53 min
+1,407 songs - 3 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-11-24 | 2024-04-21 |
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-10-13 | 2022-04-20 |
 | [Break A Sweat](https://open.spotify.com/track/2WKHv9lUvKA3dEnJy0t9ie) | [Sophie Francis](https://open.spotify.com/artist/0NQJm4Wlz3rrDJGlQ28L81) | [Break A Sweat](https://open.spotify.com/album/4k3rSZETqfdbmcx3oWR17E) | 2:31 | 2021-06-24 | 2022-06-11 |
-| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-08-08 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-08-08 | 2025-02-22 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2020-10-06 | 2022-04-20 |
 | [Breathe \- Eric Prydz Remix](https://open.spotify.com/track/2l8OMu1TS4Q6EAqAYpTQKW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Breathe \(Eric Prydz Remix\)](https://open.spotify.com/album/7K7ADuLVxkvNRrfJyw0QNR) | 7:25 | 2019-07-07 | 2019-08-13 |
 | [Bricks](https://open.spotify.com/track/6VJD8tzKgfQjxy8SwneeOX) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Papi Gordo](https://open.spotify.com/album/4YlVZDAPmGGRneJh8Bx8Oy) | 4:24 | 2020-05-30 | 2020-10-20 |
@@ -334,6 +334,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-28 | 2024-05-03 |
 | [Dream Big Live Bigger](https://open.spotify.com/track/6d05vkeVeSYIyUQdOoFWLH) | [Jay Pay$o](https://open.spotify.com/artist/5ZKgvJ6HbQqciZuojoH7Lh) | [Dream Big Live Bigger](https://open.spotify.com/album/2FtO9nlR1ufRMnVu3nA3sS) | 3:42 | 2019-06-12 | 2020-10-21 |
 | [Dreamer \- Matisse & Sadko Remix](https://open.spotify.com/track/6Bz6Rsp8GyeK4yL7APYYX3) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Dreamer \(Remixes\)](https://open.spotify.com/album/6DWBzXE4ccUNtpKXdvU2tA) | 4:10 | 2020-05-30 | 2021-10-16 |
+| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-21 |  |
 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 | 2020-10-06 | 2021-03-23 |
 | [Drop It](https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Drop It](https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi) | 2:55 | 2019-09-15 | 2020-05-30 |
 | [Drop To The Floor](https://open.spotify.com/track/37pmMCR4KBMXLTZ4uBrLTR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Hardwell presents Revealed Vol\. 10](https://open.spotify.com/album/00YXCy07JtImfl3xB1m5X2) | 3:05 | 2019-09-14 | 2020-09-15 |

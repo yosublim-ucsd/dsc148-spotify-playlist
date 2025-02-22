@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Marc Seguí & Rawayana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,640 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,630 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 28 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/5wg3327utYfdvkoXqWf86d) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3i8ucjU1mdD5JrH4jqtFpu) | 2:55 |
 | 29 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 30 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
-| 31 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 32 | [el vino y el tiempo](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |
+| 31 | [el vino y el tiempo](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |
+| 32 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 33 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
 | 34 | [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 |
 | 35 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 54 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 |
 | 55 | [Care For You](https://open.spotify.com/track/2xsxYtcnAoJr2tFv5vGBab) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Care For You](https://open.spotify.com/album/7ndFEP8klJsxrPA7BhD6jm) | 3:30 |
 | 56 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
-| 57 | [oye Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
-| 58 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
+| 57 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
+| 58 | [oye Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
 | 59 | [Mabel](https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Mabel](https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn) | 2:40 |
 | 60 | [QUIERO TODA MI VIDA DE VUELTA](https://open.spotify.com/track/4uTP7thtTSQrNotminsgu9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [QUIERO TODA MI VIDA DE VUELTA](https://open.spotify.com/album/1wjnHmhlzHYQtO4bM54dMp) | 4:16 |
 | 61 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 68 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [para siempre\(｡>﹏<\)](https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi) | 2:30 |
 | 69 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
 | 70 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
-| 71 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
-| 72 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
+| 71 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
+| 72 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
 | 73 | [Siempre Vuelve](https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Bailódromo, Vol\. 1](https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL) | 4:28 |
 | 74 | [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 |
 | 75 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |

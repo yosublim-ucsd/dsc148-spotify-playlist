@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142097,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -2088,6 +2106,28 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "album": {
+        "name": "Everything Has A Heartbeat",
+        "url": "https://open.spotify.com/album/6yUrt3h3xobOoETo88dNjv"
+      },
+      "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "Everything Has A Heartbeat",
+      "url": "https://open.spotify.com/track/6kBX2CHykpOQIiYFm4dQs4"
     },
     {
       "album": {
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 282794,
       "name": "Headlands",
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
@@ -4025,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
+    },
+    {
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4"
       },
@@ -4184,7 +4242,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 230568,
       "name": "leave a light on",
       "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
@@ -4228,6 +4286,24 @@
       "duration_ms": 223666,
       "name": "Let You Go - Acoustic",
       "url": "https://open.spotify.com/track/2UFFkNjqEm1H2DVeomQuWX"
+    },
+    {
+      "album": {
+        "name": "Let's Go Swimming",
+        "url": "https://open.spotify.com/album/4CKsINjnNa1hfJjSpyNqi8"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254581,
+      "name": "Let's Go Swimming",
+      "url": "https://open.spotify.com/track/2f7IZQDBK8uCckTPRn4XdJ"
     },
     {
       "album": {
@@ -4354,6 +4430,24 @@
       "duration_ms": 206720,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35"
+    },
+    {
+      "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
     },
     {
       "album": {
@@ -4548,7 +4642,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
@@ -6286,7 +6380,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
@@ -6304,7 +6398,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 242526,
       "name": "Softly",
       "url": "https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2"

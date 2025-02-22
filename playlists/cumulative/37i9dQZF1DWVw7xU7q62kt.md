@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-408 songs - 19 hr 27 min
+409 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [deep space](https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6) | [trees of sleep](https://open.spotify.com/artist/4PlHxeFd0jqHReZRnrtpz3) | [delaye](https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK) | 1:30 | 2023-08-22 | 2024-08-24 |
 | [Destiny](https://open.spotify.com/track/3BrRYzSKc8oLFBeFmyXm4G) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Destiny](https://open.spotify.com/album/5kH5Eq898z06gEUNGjWFIL) | 2:43 | 2024-10-11 |  |
 | [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 |  |
-| [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 |  |
+| [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 | 2025-02-22 |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 | 2024-10-04 |
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |
 | [do good, think bad](https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [stealing from cats](https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv) | 2:22 | 2024-06-04 | 2024-12-04 |
@@ -161,6 +161,7 @@
 | [Hotel Clara](https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Lytmus](https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9), [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO) | [Hotel Clara](https://open.spotify.com/album/0royvZusJQXJnXqHJGKQyW) | 3:23 | 2025-01-24 |  |
 | [Household](https://open.spotify.com/track/5dRj6Gevj4UKpWkIu0INIe) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Household](https://open.spotify.com/album/7qFXrncXQT6MWKtF7sSRNw) | 2:09 | 2024-10-18 |  |
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 | 2025-02-16 |
+| [Hypnagogic](https://open.spotify.com/track/5663WXCTJjpMB7SKXX6gaQ) | [Intermood](https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG) | [Hypnagogic](https://open.spotify.com/album/56AM3RlIdxQSsLmDOFuz9u) | 8:40 | 2025-02-21 |  |
 | [I Don’t Want Love \- SwuM Remix](https://open.spotify.com/track/7BdUbHTfVwu2d6v9kM8VI1) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [I Don’t Want Love \(SwuM Remix\)](https://open.spotify.com/album/0qU2uou1nUrCv9nbmhI7K1) | 2:05 | 2024-11-29 |  |
 | [i remember this picture](https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 3:33 | 2024-03-20 | 2024-04-19 |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2023-08-22 | 2024-08-24 |

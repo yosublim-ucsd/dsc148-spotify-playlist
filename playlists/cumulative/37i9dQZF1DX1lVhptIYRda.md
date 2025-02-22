@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Zach Top
+> Today's top country hits\. Cover: Tucker Wetmore
 
-858 songs - 1 day 22 hr 21 min
+860 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2020-10-23 | 2021-07-24 |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-01-27 | 2021-09-11 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-04-30 | 2022-01-15 |
+| [Friday Night Heartbreaker](https://open.spotify.com/track/0oJhcYnFy6wx36jSFaDGuM) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Friday Night Heartbreaker](https://open.spotify.com/album/0FGySZHkb5MORFp5BG9L8z) | 3:25 | 2025-02-21 |  |
 | [Friends Like That](https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA) | 3:06 | 2023-11-03 | 2023-11-25 |
 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-07-14 | 2023-11-05 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-07 |
@@ -332,6 +333,7 @@
 | [Hell Right \(feat\. Trace Adkins\)](https://open.spotify.com/track/3y8xKFhQWc8DARB3fuGMGA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Hell Right \(feat\. Trace Adkins\)](https://open.spotify.com/album/48YMXYbvuTk4iY7MhZY3ML) | 3:27 | 2019-08-16 | 2020-01-13 |
 | [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-09-16 | 2022-12-17 |
 | [Here And Now](https://open.spotify.com/track/0NSwXfEWMG7HIRvXioGu03) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0CBezlC6aZNKVf2554t53k) | 2:51 | 2020-02-21 | 2020-07-12 |
+| [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 | 2025-02-21 |  |
 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 | 2019-05-26\* | 2019-06-15 |
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-11-08 | 2025-01-28 |
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 | 2024-06-21 |  |
@@ -342,7 +344,7 @@
 | [hole in the bottle](https://open.spotify.com/track/2EzFVkHWMMWmdwW08AlCK8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [hole in the bottle](https://open.spotify.com/album/766fmnPgzM6A13LSSbqioL) | 2:35 | 2020-08-01 | 2020-09-11 |
 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 | 2020-11-14 | 2021-02-20 |
 | [hole in the bottle \- ballerini album version](https://open.spotify.com/track/1f6BZccfonUYohfGJIeBR1) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 2:32 | 2020-09-11 | 2020-11-22 |
-| [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-06-07 |  |
+| [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-06-07 | 2025-02-22 |
 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2021-03-20 | 2021-09-11 |
 | [Home With Her](https://open.spotify.com/track/2cxU72H3CkiHJKiJhOj1Rm) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [Home With Her](https://open.spotify.com/album/5kgTIWW6pk1nUfFSyVViQl) | 2:59 | 2019-05-26\* | 2019-06-15 |
 | [homecoming queen?](https://open.spotify.com/track/1s71G3V7XQaVo5IOR6gLbp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [homecoming queen?](https://open.spotify.com/album/2lFDv7V3owbyWPJ2Ln5h2J) | 2:47 | 2019-09-06 | 2020-04-10 |
@@ -550,7 +552,7 @@
 | [Nothing Like You](https://open.spotify.com/track/5ppDdMho96v8gdDm7HKEbK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:16 | 2020-01-18 | 2020-06-12 |
 | [Nothing To Do Town](https://open.spotify.com/track/3L5cSHbf7oBWubuCwJbUGt) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/5WNhGMQk003WHUGkRrVB53) | 3:05 | 2019-05-26\* | 2019-07-06 |
 | [Nothing's Better](https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 3:13 | 2020-09-25 | 2021-05-08 |
-| [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy) | 2:54 | 2024-09-06 |  |
+| [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy) | 2:54 | 2024-09-06 | 2025-02-22 |
 | [Now You Know](https://open.spotify.com/track/0zvFpizoPkjXNuii0mYjb7) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Now You Know](https://open.spotify.com/album/6PgUqzVsJMcgSjHs9usz1R) | 2:55 | 2019-09-06 | 2019-11-09 |
 | [Off Road](https://open.spotify.com/track/5Flk5ig2Lt0FrdM8UQfVeu) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Off Road](https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH) | 3:04 | 2021-03-27 | 2021-07-24 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-10-13 | 2024-07-13 |

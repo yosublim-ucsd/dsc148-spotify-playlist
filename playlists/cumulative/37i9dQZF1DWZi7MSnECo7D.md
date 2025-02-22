@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Karen Jonz
 
-761 songs - 1 day 19 hr 10 min
+763 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [DDD 31](https://open.spotify.com/track/7plV3fVV4weEAf4wXGmJtI) | [Lua Sanja](https://open.spotify.com/artist/5zbjAdiQ09woNIoKn1ok6Y) | [DDD 31](https://open.spotify.com/album/5aYZMrE1SPZ8uxH8RNXquI) | 2:36 | 2024-09-13 | 2024-10-26 |
 | [De ponta cabeça](https://open.spotify.com/track/22kGdSLK3uos6nXIvrCzBZ) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:21 | 2024-05-24 | 2024-09-28 |
 | [de tudo que eu sonhei sozinho](https://open.spotify.com/track/2nAosIAHtsSC6kNPjAVlr1) | [pedro lanches](https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [de tudo que eu sonhei sozinho](https://open.spotify.com/album/6ZN4H3f2sboSlzWw6FLFNs) | 3:19 | 2024-10-25 |  |
-| [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/album/4PE4FggN1JeU3LiYeUiatB) | 2:41 | 2024-07-19 |  |
+| [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/album/4PE4FggN1JeU3LiYeUiatB) | 2:41 | 2024-07-19 | 2025-02-22 |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
 | [Decorei o Jornal](https://open.spotify.com/track/7MQXecuMrLgGSmUX4TAO5t) | [Zambonii](https://open.spotify.com/artist/010ghLTjpH3itDq6KkyXN3) | [Vitrais](https://open.spotify.com/album/5qFfLFUEOLo6DVb9JF2rAb) | 2:51 | 2023-06-09 | 2023-09-23 |
 | [Degelo](https://open.spotify.com/track/357gtvzeFa2p4FzoS70eVl) | [Marambaia](https://open.spotify.com/artist/1nSIVcTiKYSVQRMCj9REzK) | [Degelo](https://open.spotify.com/album/3IrfVkRxjwznfCB6TKqqFJ) | 3:52 | 2024-08-02 | 2024-10-12 |
@@ -302,6 +302,7 @@
 | [Guarde Isso](https://open.spotify.com/track/56eX0mR15K1PutImuabniD) | [Milton Guesi](https://open.spotify.com/artist/4zIyIja72kzmKIi7v02sZx) | [Meu Olhar no Seu](https://open.spotify.com/album/26Tp6hnXuSHOCpRtHaktcE) | 3:16 | 2024-10-11 |  |
 | [HAHAHA](https://open.spotify.com/track/5gWer2Q0jgZo2VHgt3akHr) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [HAHAHA](https://open.spotify.com/album/0iCtU3hO1nlgfP5AHOdvGQ) | 2:30 | 2022-07-01 | 2023-01-28 |
 | [Hasta Luego](https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Hasta Luego](https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw) | 3:10 | 2024-12-06 |  |
+| [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 | 2025-02-21 |  |
 | [Hiperdrama](https://open.spotify.com/track/05ydEpbmq9hREtvEa06vWd) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Hiperdrama](https://open.spotify.com/album/1c6vK2tA3ysL1eVrp26viF) | 3:48 | 2024-09-27 | 2024-10-26 |
 | [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 | 2024-12-20 |  |
 | [Hit](https://open.spotify.com/track/1WFwgI3X9MUsNwv5LVEJi4) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:56 | 2022-01-14 | 2022-02-12 |
@@ -368,6 +369,7 @@
 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 | 2022-08-26 | 2023-01-21 |
 | [Mamífero](https://open.spotify.com/track/65rO0bHugFesLwCcmrpRJQ) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH) | [Mamífero](https://open.spotify.com/album/30HmZaLv7CCRa2Vm1cuy25) | 2:31 | 2024-06-28 | 2024-10-19 |
 | [Mandando](https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Mandando](https://open.spotify.com/album/7H8Mbrgu2IA7oEYtCE8W63) | 3:37 | 2022-01-14 | 2022-05-14 |
+| [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/track/7kHH0LYG6Rmi6qE8Jp7SGA) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr) | [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/album/1PRMWQZFUBDOeDEkjqBrxI) | 2:55 | 2025-02-21 |  |
 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 | 2022-01-28 | 2023-05-27 |
 | [Mantra](https://open.spotify.com/track/62xWvqTKWo8h2UG9YWnA9g) | [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Mantra](https://open.spotify.com/album/2Xaylkmc4GnUZIItxxwFD1) | 3:02 | 2022-01-14 | 2022-07-16 |
 | [Mantra dos Dias Atuais](https://open.spotify.com/track/5xuondyGgShEtV09eORB25) | [Viviane Pitaya](https://open.spotify.com/artist/0TiXdtsCwl7w4TtbH2CYco) | [Mantra dos Dias Atuais](https://open.spotify.com/album/5oireUvuNCnQj63ngYfwlR) | 3:55 | 2023-04-14 | 2023-04-29 |
@@ -707,7 +709,7 @@
 | [Um Novo Dia](https://open.spotify.com/track/6GzCZcnOADP6g4Su0bRYzb) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX), [deb](https://open.spotify.com/artist/6oGsmB1VtaXtDfBlMxMZq0) | [Um Novo Dia](https://open.spotify.com/album/0aNsPO4Uons10wG029Xr8n) | 3:10 | 2023-12-08 | 2024-02-24 |
 | [Um pagode pra você \(Pagotrap Romântico\)](https://open.spotify.com/track/662AsvRPlVqsrB9EbkpTrJ) | [Lila](https://open.spotify.com/artist/4JMUFi0rRIYoyOo7sDZUoY), [Marcelo Cebukin](https://open.spotify.com/artist/4Z31uh0S6iKzy17NJbJiu3) | [Um pagode pra você \(Pagotrap Romântico\)](https://open.spotify.com/album/1aCidZfFDqGyOuxkLDhFjN) | 3:28 | 2024-03-08 | 2024-04-27 |
 | [Um Pescador](https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Um Pescador](https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn) | 3:49 | 2023-10-13 | 2024-04-27 |
-| [um sorriso que se vai](https://open.spotify.com/track/5PmGhWPnuoJ4L1gxF4R09h) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [um sorriso que se vai](https://open.spotify.com/album/400uetxrcRfI7IGFiwC8ro) | 3:44 | 2024-07-05 |  |
+| [um sorriso que se vai](https://open.spotify.com/track/5PmGhWPnuoJ4L1gxF4R09h) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [um sorriso que se vai](https://open.spotify.com/album/400uetxrcRfI7IGFiwC8ro) | 3:44 | 2024-07-05 | 2025-02-22 |
 | [Uma Beleza De Barriga](https://open.spotify.com/track/5DGVr28QOzIrioAablvVZW) | [Barulhista](https://open.spotify.com/artist/6mkcm4lxtlAgUOIgBeBhAA) | [Uma Beleza De Barriga](https://open.spotify.com/album/6hENLDi5c2kdU4TStF3w5j) | 3:19 | 2024-05-10 | 2024-08-24 |
 | [Uma Boa Lembrança](https://open.spotify.com/track/3UKQzFYqkty5RuxF4PykDF) | [Porfírio](https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz) | [Uma Boa Lembrança](https://open.spotify.com/album/72GsBmcvOYMf0jKVuQ3adh) | 3:48 | 2023-06-23 | 2023-10-21 |
 | [Uma Grande Saudade Boba](https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg) | [Bordoá](https://open.spotify.com/artist/1iAW1QQLoyyWN2yrcWt4ct) | [Uma Grande Saudade Boba](https://open.spotify.com/album/4kEgbijNbP9KRKww5xNcjN) | 3:17 | 2022-04-29 | 2022-08-20 |

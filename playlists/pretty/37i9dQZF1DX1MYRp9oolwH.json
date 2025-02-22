@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mazaka",
-  "num_followers": 148556,
+  "num_followers": 148608,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7W9+QAAAABAoqKR/lf1MupFsTJcgFQv",
+  "snapshot_id": "Z7h9NgAAAAC+i/Le0X1N6vRpzxtHhgW+",
   "tracks": [
     {
       "added_at": "2025-02-10 11:48:01",
@@ -257,6 +257,34 @@
       "url": "https://open.spotify.com/track/0LNcW03pFU5bfo5JONhZfz"
     },
     {
+      "added_at": "2025-02-21 13:18:46",
+      "album": {
+        "name": "Yedhee (From \"Jaabilamma Neeku Antha Kopama\")",
+        "url": "https://open.spotify.com/album/3NHhUL9i4NOnVjHtnEiTYJ"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rambabu Gosala",
+          "url": "https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH"
+        },
+        {
+          "name": "Amal C Ajith",
+          "url": "https://open.spotify.com/artist/2uIieZCftpxa12QwCTB43D"
+        },
+        {
+          "name": "Sruthy Sivadas",
+          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Yedhee (From \"Jaabilamma Neeku Antha Kopama\")",
+      "url": "https://open.spotify.com/track/0Q9N7r8eM7YuAkYVvDy3ZL"
+    },
+    {
       "added_at": "2025-02-13 16:03:52",
       "album": {
         "name": "Nilavadee Nilavadee (From \"Its Ok Guru\")",
@@ -279,6 +307,74 @@
       "duration_ms": 187000,
       "name": "Nilavadee Nilavadee - From \"Its Ok Guru\"",
       "url": "https://open.spotify.com/track/3u5J2civxH33ljOlPzWHrT"
+    },
+    {
+      "added_at": "2025-02-21 13:18:46",
+      "album": {
+        "name": "Pattudala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6c5k65a6GGJCrsZvGox4jb"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Yasaswi Kondepudi",
+          "url": "https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj"
+        }
+      ],
+      "duration_ms": 199304,
+      "name": "Manase",
+      "url": "https://open.spotify.com/track/7p0JeXxp9L5o4XZHljsQMB"
+    },
+    {
+      "added_at": "2025-02-21 13:18:46",
+      "album": {
+        "name": "Oh Prema Prema (From \"Artiste\")",
+        "url": "https://open.spotify.com/album/1Lhs01HOBe8wI1gNhVFWvw"
+      },
+      "artists": [
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Rambabu Gosala",
+          "url": "https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH"
+        }
+      ],
+      "duration_ms": 192298,
+      "name": "Oh Prema Prema (From \"Artiste\")",
+      "url": "https://open.spotify.com/track/38FeP0OpXL0ML29Wp72fHq"
+    },
+    {
+      "added_at": "2025-02-21 13:18:46",
+      "album": {
+        "name": "Bangaari Bangaari (From \"Mension House Mallesh\")",
+        "url": "https://open.spotify.com/album/16gBLGKJ1wKXn5TwExITEI"
+      },
+      "artists": [
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 318596,
+      "name": "Bangaari Bangaari (From \"Mension House Mallesh\")",
+      "url": "https://open.spotify.com/track/71wqxr5KGqH1PtSJY7Ot32"
     },
     {
       "added_at": "2025-01-31 10:08:27",
@@ -1061,22 +1157,6 @@
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
-      "added_at": "2024-03-27 08:23:37",
-      "album": {
-        "name": "Madhuramu Kadha (From \"The Family Star\")",
-        "url": "https://open.spotify.com/album/5xYjkmiZjgx6KUybyOt5Wr"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 249309,
-      "name": "Madhuramu Kadha (From \"The Family Star\")",
-      "url": "https://open.spotify.com/track/1imOLzI7CR77fqs5sjKYBO"
-    },
-    {
       "added_at": "2024-07-10 05:39:26",
       "album": {
         "name": "Sitar Song (From \"Mr. Bachchan\")",
@@ -1127,78 +1207,6 @@
       "duration_ms": 222537,
       "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
       "url": "https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU"
-    },
-    {
-      "added_at": "2024-04-10 09:41:52",
-      "album": {
-        "name": "Prasanna Vadanam",
-        "url": "https://open.spotify.com/album/2tCZIGkcqMzOk32g977MJn"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Ninna Monna Naalona",
-      "url": "https://open.spotify.com/track/1O0vCBEdmMjIxwgC5mE5sz"
-    },
-    {
-      "added_at": "2024-04-09 09:04:36",
-      "album": {
-        "name": "Oh Madam (From \"Aa Okkati Adakku\")",
-        "url": "https://open.spotify.com/album/4w6Yk9BowBhqsXiqMA7m6A"
-      },
-      "artists": [
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 282636,
-      "name": "Oh Madam (From \"Aa Okkati Adakku\")",
-      "url": "https://open.spotify.com/track/2SrTDN6saJjGUH8rbl5uz3"
-    },
-    {
-      "added_at": "2024-04-10 09:56:25",
-      "album": {
-        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 267682,
-      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
     }
   ],
   "unique_name": "Latest Romance Telugu",

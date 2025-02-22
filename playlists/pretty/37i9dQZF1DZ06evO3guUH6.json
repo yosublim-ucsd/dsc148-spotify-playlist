@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1004403,
+  "num_followers": 1004685,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAABehfyd7gLRmAnPnuQiuvTT",
+  "snapshot_id": "Z7ZwgAAAAACfwowtXKOnjOCN5fM7qwG3",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "Soy Lo Que Ves",
+        "url": "https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 185973,
-      "name": "La Supuesta Cita",
-      "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
+      "duration_ms": 220480,
+      "name": "Soy Lo Que Ves",
+      "url": "https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Ves",
-        "url": "https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5"
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 220480,
-      "name": "Soy Lo Que Ves",
-      "url": "https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0"
+      "duration_ms": 185973,
+      "name": "La Supuesta Cita",
+      "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
     },
     {
       "added_at": null,

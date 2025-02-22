@@ -599,22 +599,6 @@
     {
       "added_at": "2025-02-10 12:30:03",
       "album": {
-        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
-    },
-    {
-      "added_at": "2025-02-10 12:30:03",
-      "album": {
         "name": "Cape",
         "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 264119,
       "name": "Cape",
       "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
+    },
+    {
+      "added_at": "2025-02-10 12:30:03",
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
     },
     {
       "added_at": "2025-02-10 12:30:03",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-02-10 12:30:03",
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 286432,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP"
+    },
+    {
+      "added_at": "2025-02-10 12:30:03",
+      "album": {
         "name": "HOW YOU FEEL?",
         "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 222285,
       "name": "Rainy Season",
       "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
-    },
-    {
-      "added_at": "2025-02-10 12:30:03",
-      "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 286432,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP"
     },
     {
       "added_at": "2025-02-10 12:30:03",

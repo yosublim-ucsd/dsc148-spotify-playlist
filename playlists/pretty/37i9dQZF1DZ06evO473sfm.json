@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 464683,
+  "num_followers": 464849,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAADyeNKdBabYfClLpXP9Nkyr",
+  "snapshot_id": "Z7ZwgAAAAADj4GW70BIM/kFCGVQLvYTt",
   "tracks": [
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex de Verdad",
-        "url": "https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ"
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 186081,
-      "name": "Ex de Verdad",
-      "url": "https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9"
+      "duration_ms": 168087,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No",
-        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
+        "name": "Ex de Verdad",
+        "url": "https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 168087,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
+      "duration_ms": 186081,
+      "name": "Ex de Verdad",
+      "url": "https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9"
     },
     {
       "added_at": null,

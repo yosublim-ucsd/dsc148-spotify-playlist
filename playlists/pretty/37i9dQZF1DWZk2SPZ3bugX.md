@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,444 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,470 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 12 | [Same Old Story](https://open.spotify.com/track/7jyy9JO1IT3txW2FMLNLf5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Same Old Story](https://open.spotify.com/album/6SRh9ykaXuheaC83PahQ4o) | 2:51 |
 | 13 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
 | 14 | [The Edge of Light](https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/4AlegZ2nupO33LjHg09HuW) | 3:58 |
-| 15 | [Sugar Rush \(Late Night Snack\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snack\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 |
+| 15 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 |
 | 16 | [The Sun](https://open.spotify.com/track/4IY8Lz6j0sc2DuUva1KLNo) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [The Sun](https://open.spotify.com/album/4hI5JJDxanXbakx4MkFToA) | 3:30 |
 | 17 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
 | 18 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |

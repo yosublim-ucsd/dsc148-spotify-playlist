@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Gabi Melim, Duda Beat",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 165427,
       "name": "Anuncia\u00e7\u00e3o - Sessions",
       "url": "https://open.spotify.com/track/2KHy5ac4tiPYXCzMd1rRrK"
@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "album": {
         "name": "Ch\u00e1 De Camomila",
         "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
       },
@@ -4148,6 +4166,24 @@
       "duration_ms": 209411,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb"
+    },
+    {
+      "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "album": {
@@ -8296,6 +8332,24 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "album": {
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188203,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
       "album": {
@@ -12484,7 +12538,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
@@ -12542,7 +12596,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 151399,
       "name": "SOL DE ABRIL",
       "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"

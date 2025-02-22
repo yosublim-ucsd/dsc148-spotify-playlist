@@ -589,6 +589,36 @@
     },
     {
       "album": {
+        "name": "Another Way",
+        "url": "https://open.spotify.com/album/5WZ9xj15bKwHuVb9WXiPBv"
+      },
+      "artists": [
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161375,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/5ZcFqKhIGOfyx0VNsr5JXr"
+    },
+    {
+      "album": {
         "name": "apart",
         "url": "https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7"
       },

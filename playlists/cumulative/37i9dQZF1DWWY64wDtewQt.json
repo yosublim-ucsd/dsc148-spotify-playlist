@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 141000,
       "name": "BLAH!",
       "url": "https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
@@ -7039,6 +7039,32 @@
     },
     {
       "album": {
+        "name": "JOGO MORTO",
+        "url": "https://open.spotify.com/album/17Q5BWWS8c59puiKKg2fRO"
+      },
+      "artists": [
+        {
+          "name": "SCHWVFTY",
+          "url": "https://open.spotify.com/artist/5tZkYTy4jkyMRRdobi5isM"
+        },
+        {
+          "name": "DYSMANE",
+          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
+        },
+        {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112005,
+      "name": "JOGO MORTO - Slowed",
+      "url": "https://open.spotify.com/track/4XW5HM4UV59AsneUMYDkwA"
+    },
+    {
+      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/0QyVIrggMGABwjt79ICTdd"
       },
@@ -7514,6 +7540,28 @@
       "duration_ms": 127403,
       "name": "KRYPTIC TYPE",
       "url": "https://open.spotify.com/track/2Cge0P573ppMqoHINh6k3r"
+    },
+    {
+      "album": {
+        "name": "KUATR0",
+        "url": "https://open.spotify.com/album/7klOHdTglD5R7yhEVUmjKB"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "KUATR0",
+      "url": "https://open.spotify.com/track/4kzt8RUsBa8RFQe8pRLDel"
     },
     {
       "album": {
@@ -10818,6 +10866,24 @@
       "duration_ms": 116374,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/5L5p2rCrrqXKLdK4mTXpAt"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
     },
     {
       "album": {
@@ -15280,7 +15346,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"

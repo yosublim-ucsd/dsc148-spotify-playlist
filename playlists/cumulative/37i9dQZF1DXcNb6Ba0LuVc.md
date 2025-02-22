@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-578 songs - 22 hr 25 min
+581 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2021-11-11 | 2025-01-11 |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-14 |  |
 | [After the Weekend](https://open.spotify.com/track/74Cq9eYAutzUcqQpCTtgqL) | [Superglue](https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp) | [After the Weekend](https://open.spotify.com/album/0JMvNXw5BoanjXX8zQQRLP) | 2:01 | 2022-11-11 | 2023-09-08 |
+| [Afterglow](https://open.spotify.com/track/6PdMZlWariPbXnQfFREMKv) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Afterglow](https://open.spotify.com/album/73yxhEbudVxME2Ht8i5IBU) | 3:00 | 2025-02-21 |  |
 | [afternoon espresso](https://open.spotify.com/track/0z0lcD8CgATL07Vb2bwViB) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [afternoon espresso](https://open.spotify.com/album/0pMqi7Py6c4wsB7eKH7FUx) | 1:50 | 2024-08-09 |  |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
 | [Alicante](https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Alicante](https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3) | 3:04 | 2024-06-14 |  |
@@ -443,11 +444,12 @@
 | [Smiley](https://open.spotify.com/track/5Q1obMlAxxadeS22JviBGH) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smiley](https://open.spotify.com/album/2YZfBvHIhTWGdnjRLV3BKR) | 1:29 | 2024-06-07 |  |
 | [Smokes](https://open.spotify.com/track/2FGPAygk8Vsg13PZ51qINX) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [California Dreaming](https://open.spotify.com/album/14CfuAeDQUkihQCeA1c5G9) | 1:36 | 2021-11-11 | 2022-05-27 |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-13 | 2023-09-08 |
-| [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-05 |  |
+| [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-05 | 2025-02-22 |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-11-11 | 2022-09-09 |
 | [Soft Sunsets](https://open.spotify.com/track/1ChQHADZfxqbO1IvWDIqAd) | [Guiseppe](https://open.spotify.com/artist/4HP2Lyk5M4bEADiSVz2tbt) | [Soft Sunsets](https://open.spotify.com/album/0csztTNlDcDqKG6UVjzKLK) | 2:33 | 2024-11-06 |  |
 | [Solution](https://open.spotify.com/track/2A2eYjmKioXlENYqs2rxB9) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tender](https://open.spotify.com/album/5buYqNrXgQlcACaYQRwiRc) | 1:46 | 2021-11-11 | 2022-05-27 |
 | [Solution](https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Solution](https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l) | 2:54 | 2021-11-11 | 2024-08-24 |
+| [Something Good](https://open.spotify.com/track/4c4WAThLEEQlrnRF8J077n) | [Beat X](https://open.spotify.com/artist/6Av1D6HQTl3Vjrd6pna9db) | [Something Good](https://open.spotify.com/album/0VqL76HNIYi5NwHe3Mhedh) | 2:03 | 2025-02-21 |  |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-04-08 | 2023-01-13 |
 | [Somewhere Else](https://open.spotify.com/track/1iZmhfieN8euwBRYq0V9aD) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Somewhere Else](https://open.spotify.com/album/0pwbJPrLHPGgeLuDAXhrvG) | 2:40 | 2023-04-11 | 2023-08-26 |
 | [Somewhere Else](https://open.spotify.com/track/2AjbijtpXLNFWjrENuM771) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Tomorrow Never Knows](https://open.spotify.com/album/7t8gMgC2JPz0letGTpOJIW) | 2:40 | 2023-07-19 | 2023-09-22 |
@@ -489,6 +491,7 @@
 | [Sunny Side](https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/2f8sYkAMIleSBlqydbL4Pc) | 2:14 | 2022-10-15 | 2022-11-24 |
 | [Sunny Side Up](https://open.spotify.com/track/501Cc7uHAE8rUkE1ey5P5k) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Sunny Side Up](https://open.spotify.com/album/0zl4VbPHBAtR1zhucRvmyY) | 1:58 | 2023-11-17 |  |
 | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/track/4F5mLxbhGHhwQpYeJCZKAf) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/album/0Upp6SD0SMlItdoMasbOuD) | 3:38 | 2021-11-11 | 2022-09-03 |
+| [Sunset Drive](https://open.spotify.com/track/7c3NG5R8SQgHpwVhm7w1kO) | [Sofi Tones](https://open.spotify.com/artist/2CmDq0oP7WE5N8WkxC2F8y) | [Sunset Drive](https://open.spotify.com/album/24m0dT6pG1WYd7stxP993u) | 2:18 | 2025-02-21 |  |
 | [Sunset Hues](https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [Sunset Hues](https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP) | 1:37 | 2022-09-02 |  |
 | [Surf Boogie](https://open.spotify.com/track/04aD25LiPRSZfT2lz1mGw8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Loves You](https://open.spotify.com/album/63qpWQd44kLnmFhMZ1mkRm) | 2:10 | 2021-11-11 | 2022-05-27 |
 | [Sweet Taboo](https://open.spotify.com/track/40gdXSYMmhTw2TvD8J1TdY) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Sweet Taboo](https://open.spotify.com/album/0y662HfJpSlbiDp461Fuhh) | 2:21 | 2021-11-11 |  |
@@ -576,7 +579,7 @@
 | [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 | 2023-10-27 | 2024-07-06 |
 | [Wine & You](https://open.spotify.com/track/4VlopfgRJ11tEPbSTM7XoC) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Wine & You](https://open.spotify.com/album/5d5zS9upUeTAFV6GghOtr4) | 2:09 | 2023-07-19 |  |
 | [Winning Again](https://open.spotify.com/track/0zNA7zPYwwCukoKPRMV3r7) | [Mokezi](https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg) | [Winning Again](https://open.spotify.com/album/17kiYm7MQaNUVansMeodpO) | 2:17 | 2025-02-07 |  |
-| [winter creek](https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [winter creek](https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ) | 2:44 | 2024-01-19 |  |
+| [winter creek](https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [winter creek](https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ) | 2:44 | 2024-01-19 | 2025-02-22 |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-11-11 | 2024-06-29 |
 | [Witching Hour](https://open.spotify.com/track/17uRVL0hDUqWwbF4KYSr48) | [Tin Ghosts](https://open.spotify.com/artist/5SkZxzEJm6ScRc4G4SAkwI) | [Witching Hour](https://open.spotify.com/album/1Nz6t4KOf741GhyFIKHAeF) | 2:31 | 2021-11-11 | 2022-09-03 |
 | [wolfram wonders](https://open.spotify.com/track/2SEnMRBzVNrfraOxbFKI2Q) | [ideal form](https://open.spotify.com/artist/2YhLgIJkYQpdzQqUoLE79a) | [lightbulb](https://open.spotify.com/album/7tlUo25yvN8n0JErn7ytSw) | 1:48 | 2021-11-11 | 2023-09-22 |

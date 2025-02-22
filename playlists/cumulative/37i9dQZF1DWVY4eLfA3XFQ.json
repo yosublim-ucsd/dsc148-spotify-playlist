@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians featuring DJ Minx \ud83e\udd16 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Airwolf Paradise \ud83d\udd2b 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -178,6 +178,28 @@
       "duration_ms": 139047,
       "name": "1995",
       "url": "https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE"
+    },
+    {
+      "album": {
+        "name": "2 My People",
+        "url": "https://open.spotify.com/album/3jAx3OE9ksODcrHRRwkldZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Campos",
+          "url": "https://open.spotify.com/artist/4zcYbutLLDd2DPK6VEiPG8"
+        },
+        {
+          "name": "Daniel Dubb",
+          "url": "https://open.spotify.com/artist/11QbgTgVwwhiM9SU8nanWo"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237483,
+      "name": "2 My People",
+      "url": "https://open.spotify.com/track/1OGr2jUEydwqIncfmE07Ps"
     },
     {
       "album": {
@@ -571,6 +593,24 @@
     },
     {
       "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
       },
@@ -956,7 +996,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 200000,
       "name": "Agarrala Aprietala",
       "url": "https://open.spotify.com/track/5Iq8kDTeim8ifXE3FJRHtq"
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
@@ -3004,6 +3044,24 @@
       "duration_ms": 174375,
       "name": "Beat Go Bump",
       "url": "https://open.spotify.com/track/51RhTPvrVNx7DmGscgNJuc"
+    },
+    {
+      "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
     },
     {
       "album": {
@@ -5565,6 +5623,28 @@
     },
     {
       "album": {
+        "name": "Can't Stop (feat. GINA VOCA)",
+        "url": "https://open.spotify.com/album/1RDI6dDpX8sr6zUzC3SrJB"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "GINA VOCA",
+          "url": "https://open.spotify.com/artist/5HqxP1vbOTofGKiCDfKqDL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162684,
+      "name": "Can't Stop (feat. GINA VOCA)",
+      "url": "https://open.spotify.com/track/5MiKJCGJL2gaMR4AaVG9YT"
+    },
+    {
+      "album": {
         "name": "Can't Take It Anymore",
         "url": "https://open.spotify.com/album/0Gcby1p56pmK1FOFc0F7UQ"
       },
@@ -6246,6 +6326,28 @@
       "duration_ms": 163488,
       "name": "Chiquetere (feat. Rafa Villalba)",
       "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
+    },
+    {
+      "album": {
+        "name": "Choose Violence",
+        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195071,
+      "name": "Choose Violence",
+      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
     },
     {
       "album": {
@@ -7626,7 +7728,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 210937,
       "name": "Dance Naked",
       "url": "https://open.spotify.com/track/02004T36dT91vxe7vfdRa1"
@@ -9440,7 +9542,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185624,
       "name": "Done",
       "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
@@ -9900,6 +10002,28 @@
       "duration_ms": 156923,
       "name": "Drugs From Amsterdam - Armand Van Helden Remix",
       "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
+    },
+    {
+      "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
     },
     {
       "album": {
@@ -12559,6 +12683,32 @@
     },
     {
       "album": {
+        "name": "Freak EP",
+        "url": "https://open.spotify.com/album/1mxfzLdy5o6BTGpBImmRmx"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Aya Anne",
+          "url": "https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3OlywDkPJRPQY1L4wy6mcF"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp"
       },
@@ -12596,7 +12746,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 165942,
       "name": "Freak - GREG (BR) Remix",
       "url": "https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo"
@@ -13890,7 +14040,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161280,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/0RUOqcKBZqY84EPGzr2WXZ"
@@ -14519,6 +14669,28 @@
     },
     {
       "album": {
+        "name": "H.O.U.S.E.",
+        "url": "https://open.spotify.com/album/017CLSoIiuc2jKEKF3OmcC"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Fuzzy Cufflinxxx",
+          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "H.O.U.S.E.",
+      "url": "https://open.spotify.com/track/5SbB70CvX0V8TrACuUbMsz"
+    },
+    {
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/1S1omO47vWP6lk8wjwhjNT"
       },
@@ -15126,7 +15298,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180923,
       "name": "High",
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
@@ -17616,7 +17788,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 202500,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/0oz5HfryxH2aVdGbIwzU9O"
@@ -24756,7 +24928,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 135000,
       "name": "No Phones",
       "url": "https://open.spotify.com/track/5Ctacqj7cOVHtOcO8ZYZ57"
@@ -28127,6 +28299,24 @@
     },
     {
       "album": {
+        "name": "Rack City",
+        "url": "https://open.spotify.com/album/1MN3wQfWuQuq03vMqdtUXl"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Rack City",
+      "url": "https://open.spotify.com/track/7FtA4puD4CKWqoPMTsWPdq"
+    },
+    {
+      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/5ur625TMdgqvNQdVYq4DmY"
       },
@@ -28911,6 +29101,24 @@
     },
     {
       "album": {
+        "name": "Revolver",
+        "url": "https://open.spotify.com/album/3SGiYiOb88avGWt27pXmWX"
+      },
+      "artists": [
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193171,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY"
+    },
+    {
+      "album": {
         "name": "Rewind It Back",
         "url": "https://open.spotify.com/album/4DORITatWcmETmJzWT2Dt9"
       },
@@ -29024,7 +29232,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174545,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/2MO9WiFblhthHqQp0etUxO"
@@ -30312,6 +30520,24 @@
       "duration_ms": 210875,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
+    },
+    {
+      "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/2Cwn5SU8ubw1CV9DSeGFrm"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211990,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/7qmByNtmXOOSSCUTdUiVex"
     },
     {
       "album": {
@@ -33007,6 +33233,24 @@
     },
     {
       "album": {
+        "name": "Steel Drum",
+        "url": "https://open.spotify.com/album/7IfvPYfV65MiwYXQUKfOUk"
+      },
+      "artists": [
+        {
+          "name": "Tony Cortez",
+          "url": "https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Steel Drum",
+      "url": "https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK"
+    },
+    {
+      "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
       },
@@ -33940,7 +34184,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180468,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO"
@@ -40264,7 +40508,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 200000,
       "name": "XXX",
       "url": "https://open.spotify.com/track/0soiFDRLcsO54jlv2ejrK4"

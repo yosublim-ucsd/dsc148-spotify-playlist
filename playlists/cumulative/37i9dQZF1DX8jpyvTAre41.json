@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Amira Elfeky",
+  "description": "The best rock songs of the moment. Cover: Sam Fender",
   "name": "Rock Now",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
@@ -732,6 +732,24 @@
     {
       "album": {
         "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198961,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
         "url": "https://open.spotify.com/album/4x2mpWpNy9Kh7qQABj6lqV"
       },
       "artists": [
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
@@ -8497,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
+    },
+    {
+      "album": {
         "name": "It's Not Up to Me",
         "url": "https://open.spotify.com/album/1tCP9OBs848IeiITNJGqUM"
       },
@@ -10022,6 +10058,24 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
       "album": {
@@ -12536,7 +12590,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161279,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/1EoShOxDGs74MKiyhsziiB"
@@ -14847,6 +14901,24 @@
     },
     {
       "album": {
+        "name": "Save My Life",
+        "url": "https://open.spotify.com/album/5614yeoZ72Qs036Ioeh1Qf"
+      },
+      "artists": [
+        {
+          "name": "Hawksley Workman",
+          "url": "https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180404,
+      "name": "Save My Life",
+      "url": "https://open.spotify.com/track/0P2M5EYNWRhK66aaeZDD5F"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
       },
@@ -14934,6 +15006,24 @@
       "duration_ms": 176483,
       "name": "Scratch the Surface",
       "url": "https://open.spotify.com/track/5hEPmm2FmNSHeQu0I43ofj"
+    },
+    {
+      "album": {
+        "name": "Seashells",
+        "url": "https://open.spotify.com/album/2xx1k3UyUodh7uVjEExIPn"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "Seashells",
+      "url": "https://open.spotify.com/track/5x580chHVWcS2kjxbTTpH9"
     },
     {
       "album": {
@@ -16860,7 +16950,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -18254,7 +18344,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 167923,
       "name": "Tongue Trick",
       "url": "https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA"
@@ -18369,6 +18459,24 @@
     },
     {
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Tropical Therapy",
+      "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
+    },
+    {
+      "album": {
         "name": "Trouble Found Me",
         "url": "https://open.spotify.com/album/603STn9jyMs4UDW87CgKvQ"
       },
@@ -18434,7 +18542,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 157011,
       "name": "Try",
       "url": "https://open.spotify.com/track/2rHdNroEBCbFWRcFUYA5xf"
@@ -18554,6 +18662,24 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4ftCCirBegUNTb6H2DqdGW"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/6qO5JtzohjQpvw2zIzrEcN"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193527,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3HVwVLzQobGyOjmjPVx5d5"
     },
     {
       "album": {
@@ -19038,7 +19164,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236133,
       "name": "Waiting For A Call",
       "url": "https://open.spotify.com/track/4Mb5Waenb5PhQcieVJJ6T9"

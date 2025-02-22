@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Rifle Club",
-  "num_followers": 436096,
+  "num_followers": 436372,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7RGNQAAAAAjDPSi0UWSlDGEh1d3AoSY",
+  "snapshot_id": "Z7giTgAAAABmwavjNGjGXupPOYX809JV",
   "tracks": [
     {
       "added_at": "2025-01-16 09:40:27",
@@ -107,6 +107,30 @@
       "duration_ms": 209530,
       "name": "Blood (From \"Marco\")",
       "url": "https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6"
+    },
+    {
+      "added_at": "2025-02-21 06:50:54",
+      "album": {
+        "name": "Kodava Wedding Song (From \"Bromance\")",
+        "url": "https://open.spotify.com/album/6fuczhcfFpZ51NzH4QcVLk"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Kiran Kaverappa",
+          "url": "https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9"
+        }
+      ],
+      "duration_ms": 229843,
+      "name": "Kodava Wedding Song (From \"Bromance\")",
+      "url": "https://open.spotify.com/track/6hwtqPMgsoSCLg8yEW28nA"
     },
     {
       "added_at": "2025-01-06 06:56:44",
@@ -260,12 +284,12 @@
       },
       "artists": [
         {
-          "name": "Saeed Abbas",
-          "url": "https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h"
-        },
-        {
           "name": "BABY JEAN",
           "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Saeed Abbas",
+          "url": "https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h"
         },
         {
           "name": "Vinayak Sasikumar",
@@ -1083,26 +1107,6 @@
       "duration_ms": 197314,
       "name": "Nilaavil Ellame",
       "url": "https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt"
-    },
-    {
-      "added_at": "2023-09-01 07:56:37",
-      "album": {
-        "name": "Neela Nilave (From \"RDX\")",
-        "url": "https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Neela Nilave (From \"RDX\")",
-      "url": "https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ"
     },
     {
       "added_at": "2023-05-15 09:43:32",

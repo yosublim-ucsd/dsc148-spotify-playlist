@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Ismail Izzani, Gabriella Ekaputri
 
-1,404 songs - 3 day 12 hr 30 min
+1,405 songs - 3 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Cinta Tidak Buta](https://open.spotify.com/track/1E2TDwrOborRkcDBU3Jd4u) | [Joanne Duke](https://open.spotify.com/artist/7GNfW7Jbu6xXYuIZzvud4v) | [Cinta Tidak Buta](https://open.spotify.com/album/0wSvpbDAQbdL4ANq6QMhXE) | 3:30 | 2023-11-02 | 2023-11-11 |
 | [Circle](https://open.spotify.com/track/2daQ1ffjbUgZxzrxQSQb71) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [All Around You](https://open.spotify.com/album/0V1dIAje2IVpyBQp6byOwi) | 3:00 | 2023-09-15 | 2023-09-23 |
 | [Circus](https://open.spotify.com/track/4781XkXxJngw9YjlKJ21e9) | [LANA](https://open.spotify.com/artist/23IETu4hBOXIXr59a48DMi), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Circus](https://open.spotify.com/album/6xwGU2bbSKlzBXp4Xdl4Te) | 3:15 | 2024-07-12 | 2024-07-19 |
+| [Cita\-Cita Asmara](https://open.spotify.com/track/4zCj2PrAn9X2SRDmHg9O1K) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN) | [Cita\-Cita Asmara](https://open.spotify.com/album/4XeBe0fR1eTK1bQh6Oh3Kx) | 4:23 | 2025-02-21 |  |
 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 | 2023-11-17 | 2023-11-25 |
 | [Coba Cintaku](https://open.spotify.com/track/1Sx8A2P6hI1YpUkTiL7WnC) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [In Diversity](https://open.spotify.com/album/4sTb2l0f5cRgbRxq6HvZyU) | 3:26 | 2024-01-12 | 2024-01-20 |
 | [come 'n find me](https://open.spotify.com/track/3OjEf6zYCbxM8zqolCafK0) | [Mea Shahira](https://open.spotify.com/artist/29bENDLYu1dHDXV0sXtfRC), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [come 'n find me](https://open.spotify.com/album/16v1QKaSFFzlwf20eGsV3x) | 3:20 | 2024-02-09 | 2024-02-23 |
@@ -602,7 +603,7 @@
 | [Jika Itu Yang Terbaik](https://open.spotify.com/track/1noTARky3QXlfNeqXFC8QU) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Waktu Yang Dinanti 3.0 \- Studio Session](https://open.spotify.com/album/0PO18eTH60OBIBsSVOGqSy) | 4:36 | 2024-04-19 | 2024-04-27 |
 | [Jika Takdir \- From "Mentua"](https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Jika Takdir \- From "Mentua"](https://open.spotify.com/album/2qXnwAxai2l7vTW924Gntd) | 3:38 | 2024-08-16 | 2024-08-24 |
 | [Jiwa Raga](https://open.spotify.com/track/0H1SerRzt4EhRQjKyI9MYV) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Jiwa Raga](https://open.spotify.com/album/2OyOdqcclX9N968numajYc) | 3:36 | 2024-02-01 | 2024-02-10 |
-| [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-08-03 |  |
+| [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-08-03 | 2025-02-22 |
 | [Jodoh](https://open.spotify.com/track/4zk6vjrDv00f3X8IjlyMqH) | [Haikal Ali](https://open.spotify.com/artist/5YzFBHP3bi816J2SExOYlx), [MVVNBOI](https://open.spotify.com/artist/6pt7AYLUw1gDFycxHK12m2) | [Jodoh](https://open.spotify.com/album/1rwuH1QxfPG80OFh1P8iX1) | 2:54 | 2024-10-03 | 2025-01-11 |
 | [Jodoh Ajal Rezeki](https://open.spotify.com/track/40IiqAuWE2PsoiFVm8yBHm) | [Haris Ismail](https://open.spotify.com/artist/7lfFMAUlQG5HlBipqdkfgM), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Neelofa](https://open.spotify.com/artist/1OJ7e3qOeNgrHHy6vnBsnJ) | [Jodoh Ajal Rezeki](https://open.spotify.com/album/2ULnMUW9akEVjoF1qieBKA) | 2:57 | 2023-03-24 | 2023-05-05 |
 | [Joke](https://open.spotify.com/track/2JHGZwGVY3OCjPPe4pzkTl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Joke](https://open.spotify.com/album/31cmPLdB33tlGRj7Qlftrx) | 2:34 | 2023-07-28 | 2023-08-04 |

@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Alan Ramírez & Yeison Jiménez
 
-288 songs - 14 hr 49 min
+289 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Me Liberé](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Me Liberé](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 | 2023-07-28 | 2023-09-16 |
 | [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 | 2024-08-02 | 2025-02-08 |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |
+| [Me Recordaras](https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Me Recordaras](https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b) | 3:28 | 2025-02-21 |  |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 | 2023-09-23 |
 | [Melancolía](https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv) | [Melancolía](https://open.spotify.com/album/1GZGQpmwMbtj8hty4KFkbP) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Mi Adicción](https://open.spotify.com/track/29hIEYdUegee9SPp9mWRyg) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Mi Adicción](https://open.spotify.com/album/307DczXlOZ7O1u5xFm256I) | 2:16 | 2024-03-08 | 2024-04-06 |
@@ -218,7 +219,7 @@
 | [Por Qué la Envidia](https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa \(Con el Corazon\)](https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp) | 2:57 | 2022-11-04 | 2022-11-13 |
 | [Por Qué la Envidia](https://open.spotify.com/track/40NH0SUMcwf3Fpx5YeCXhf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/6fM19D7w8OyRTerM772Mpe) | 2:57 | 2024-04-05 |  |
 | [Por Qué la Envidia](https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ) | 2:57 | 2022-08-12 | 2024-04-19 |
-| [Por retenerte](https://open.spotify.com/track/4Os2ZQZSEXVmUo0dmTDyBe) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Por retenerte](https://open.spotify.com/album/5seID5rmta30Fje5oLdnYj) | 3:16 | 2024-12-13 |  |
+| [Por retenerte](https://open.spotify.com/track/4Os2ZQZSEXVmUo0dmTDyBe) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Por retenerte](https://open.spotify.com/album/5seID5rmta30Fje5oLdnYj) | 3:16 | 2024-12-13 | 2025-02-22 |
 | [Pregúntale Por Quién Llora](https://open.spotify.com/track/4MZrruknp5UrZ6kzBg2e4s) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Pregúntale Por Quién Llora](https://open.spotify.com/album/4Mxv4SjgddWtxXGnzMg5TT) | 3:39 | 2023-05-12 | 2023-06-10 |
 | [Pregúntele a mi ex](https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK) | [Pregúntele a mi ex](https://open.spotify.com/album/08wW249B1Fh2EbhrOkGrF4) | 2:41 | 2024-07-19 | 2025-02-15 |
 | [Prohibido](https://open.spotify.com/track/1VLkiIqQk4T4fcOMFNwW3S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Franko](https://open.spotify.com/artist/69bk5U1iIqM7jbcvLoyZvb) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:03 | 2022-08-12 | 2022-11-05 |

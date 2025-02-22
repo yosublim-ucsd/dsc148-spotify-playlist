@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Marlena Käthe, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,005 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,015 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keine Liebe](https://open.spotify.com/track/4z5mqBhTiK5nxv2ADCLNgA) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc) | [Keine Liebe](https://open.spotify.com/album/4b05pohxkfNEmKzJ4zrAzX) | 2:13 |
-| 2 | [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [Goodwin](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 |
+| 2 | [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 |
 | 3 | [Kein happy end](https://open.spotify.com/track/5syysytI9EvNPNFMYzQXxu) | [urbie](https://open.spotify.com/artist/3q6Roe8WuwjXajxaTkQLSB) | [Kein happy end](https://open.spotify.com/album/0MvLyqtYYaPxYdty8CFNRS) | 3:32 |
 | 4 | [Augen Zu](https://open.spotify.com/track/4lmoRwBH5q7iHfUTqyfvow) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Augen Zu](https://open.spotify.com/album/0hl4QKqLxZ0pD9mp7SAn47) | 2:17 |
 | 5 | [between the lines](https://open.spotify.com/track/46nXu2Zvjeb85b5UO8xRGT) | [Lena Rose](https://open.spotify.com/artist/7i2Wf0bp1I2x2Qj1I1iLes) | [between the lines](https://open.spotify.com/album/3d2mZtGNg8gNQA3QlAeUAA) | 4:11 |

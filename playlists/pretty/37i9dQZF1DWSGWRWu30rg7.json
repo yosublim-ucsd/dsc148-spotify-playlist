@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: MAKO.",
-  "num_followers": 63712,
+  "num_followers": 63719,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7dflQAAAACTBRLocSzQA8sgPV/+OjsO",
+  "snapshot_id": "Z7fi8wAAAAAOLWy4EFP64oZ7jYCCCU2u",
   "tracks": [
     {
       "added_at": "2025-02-20 17:00:05",
@@ -119,6 +119,22 @@
       "duration_ms": 224780,
       "name": "All He Does",
       "url": "https://open.spotify.com/track/4zyGH4nKW8AMQSOqVR9Uch"
+    },
+    {
+      "added_at": "2025-02-21 02:20:35",
+      "album": {
+        "name": "BULAN",
+        "url": "https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku"
+      },
+      "artists": [
+        {
+          "name": "Raina Gumay",
+          "url": "https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "BULAN",
+      "url": "https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd"
     },
     {
       "added_at": "2025-02-20 17:00:05",

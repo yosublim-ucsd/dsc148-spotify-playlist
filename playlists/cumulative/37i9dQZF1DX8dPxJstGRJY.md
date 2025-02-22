@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-90 songs - 5 hr 55 min
+91 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [I Hate You Then I Love You \(Duet with Luciano Pavarotti\)](https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:42 | 2022-09-21 |  |
 | [I Rest My Eyes](https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [I Rest My Eyes](https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h) | 4:49 | 2022-02-11 |  |
 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 | 2024-11-08 |  |
+| [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp) | 4:25 | 2025-02-21 |  |
 | [Love of My Life](https://open.spotify.com/track/6U43jM0olCZ8tvbRbClWwR) | [Mark Vincent](https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90) | [Love of My Life](https://open.spotify.com/album/5aa7wQB7hyWhjy4RtOvZkC) | 3:35 | 2022-03-18 | 2022-05-07 |
 | [Make Me a Channel of Your Peace \(Arr\. by Simon Lole\)](https://open.spotify.com/track/0vBTnSkwQIOaO2iCHjb3d6) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4ukD3wwj1rWH8JDY7a50BO) | 3:41 | 2023-06-30 | 2024-04-19 |
 | [Make Me a Channel of Your Peace \- Arr\. by Simon Lole](https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj) | 3:41 | 2021-09-24 |  |

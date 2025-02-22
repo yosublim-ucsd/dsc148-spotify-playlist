@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,563 likes - 150 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,662 likes - 150 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 149 | [Luminary Creek](https://open.spotify.com/track/3aECxXZzEPZGDZXjNeVX2n) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Luminary Creek](https://open.spotify.com/album/6MXhFPCsKGlecRns53i0TP) | 2:25 |
 | 150 | [Serenitas](https://open.spotify.com/track/6uyJy0Lp3EGtWnTQ7NIZud) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Notturni, Vol\. 2](https://open.spotify.com/album/5CpQ5Ab4mZg0GfVoy3tt5y) | 3:29 |
 
-Snapshot ID: `Z7SVmwAAAAD8n4rQ2UbDBqhuqIWuOzsM`
+Snapshot ID: `Z7SVmwAAAAAqUoVIKKLHbIjw23PiaHJV`

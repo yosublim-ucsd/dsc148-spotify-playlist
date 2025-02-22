@@ -48763,6 +48763,28 @@
     },
     {
       "album": {
+        "name": "STANK!",
+        "url": "https://open.spotify.com/album/4E5IFWU7G3NqXrBB9zFVRJ"
+      },
+      "artists": [
+        {
+          "name": "Coast Side Boiz",
+          "url": "https://open.spotify.com/artist/1ezjbQw4HxsiE56T0tovfs"
+        },
+        {
+          "name": "FDK",
+          "url": "https://open.spotify.com/artist/5OEzF3EfMnmMRLPbwMcS6h"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270873,
+      "name": "STANK!",
+      "url": "https://open.spotify.com/track/3DYGhaD5KVA1O6Td45buk8"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/2h20SSSPsqv3IBuTnPX29T"
       },

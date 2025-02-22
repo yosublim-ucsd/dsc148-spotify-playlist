@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-463 songs - 1 day 4 hr 11 min
+464 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Arizona](https://open.spotify.com/track/7hGeRC8nVfXI4a9sC8x8N7) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Arizona](https://open.spotify.com/album/4hiNrZKf4GuN3Djx0ngOkd) | 3:19 | 2019-05-26\* | 2022-06-23 |
 | [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 | 2022-10-14 | 2024-04-19 |
 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 | 2019-05-26\* | 2023-03-01 |
+| [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-21 |  |
 | [Asshole \- Demo](https://open.spotify.com/track/4jEAQtOfv9yfGYefR48wwE) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Asshole \(Demo\)](https://open.spotify.com/album/7tXZuCdegsmWNLROp3OdrT) | 3:12 | 2019-05-26\* | 2020-06-12 |
 | [At the Party](https://open.spotify.com/track/2PdymseMdXz8eqOXxxTaCM) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [At the Party With My Brown Friends](https://open.spotify.com/album/0N14D9LoMALrUCfyFgkMtb) | 3:54 | 2019-10-22 | 2019-10-24 |
 | [Baby Drugs](https://open.spotify.com/track/2qCBqY9hnIIj1oOLHX3Kzc) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Charlatans At the Garden Gate](https://open.spotify.com/album/1f1xR8TP4O0DmFRZI1Kzmm) | 2:34 | 2020-03-09 | 2020-09-05 |
@@ -210,7 +211,7 @@
 | [Inner Meet Me](https://open.spotify.com/track/14v8jznoR89bjfgmVWvCrh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three E.P.'s](https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra) | 6:20 | 2020-07-10 | 2020-09-05 |
 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 | 2020-07-24 | 2021-06-18 |
 | [Irene \(Ravin' Bomb\)](https://open.spotify.com/track/09kr1ZVtvs1kX3yaHeRgA9) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:58 | 2019-09-30 | 2020-04-21 |
-| [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2021-11-19 |  |
+| [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2021-11-19 | 2025-02-22 |
 | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/track/7cDe66xC16bLKEqqBgoYtd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/album/3KcAvJj74W48ZPCh10EpBX) | 3:34 | 2019-07-26 | 2020-06-12 |
 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 | 2023-09-29 |  |
 | [It's Cool \(We're Cool, Everything's Cool\)](https://open.spotify.com/track/0OMvb6n7NuFN2eSIw5U6JH) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [It's Cool](https://open.spotify.com/album/4v3u2TGpmZHpv1xYMLPbsw) | 3:40 | 2020-03-09 | 2020-06-11 |

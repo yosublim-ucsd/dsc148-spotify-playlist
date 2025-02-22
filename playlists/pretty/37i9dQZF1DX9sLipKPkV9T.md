@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועה קירל
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,912 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,927 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 59 | [זמן ועוד זמן](https://open.spotify.com/track/59ApGI4lSqGFCH9ijBDBLk) | [Erez Lev Ari](https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN) | [זמן ועוד זמן](https://open.spotify.com/album/2FhYOXyV6nDSaGvj50yDcK) | 3:07 |
 | 60 | [שרשרת](https://open.spotify.com/track/1htDAjSVuHM9jMW34c0NZB) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [שרשרת](https://open.spotify.com/album/0E8mbGH6rSqOodhec9JrY3) | 2:47 |
 
-Snapshot ID: `Z7el8QAAAAB1KLrCHSkSkjbiuVCDlWHS`
+Snapshot ID: `Z7el8QAAAAAOtpOk13f1xS41RG0Rfl8M`

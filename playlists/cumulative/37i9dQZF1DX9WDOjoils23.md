@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-67 songs - 9 hr 1 min
+68 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 | 2023-12-18 |  |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 | 2023-02-15 | 2023-09-29 |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 | 2024-04-19 |
+| [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/track/4y0HMpAmZMMZYr9f44FHv6) | [Raman Kapoor](https://open.spotify.com/artist/24G6ZqD5Ia9B402pUd0ePh) | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/album/5BmWoNx2ItokOGwEmfP0ta) | 3:10 | 2025-02-21 |  |
 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 | 2025-02-01 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Ki Hath Aya Tere Sahnoon Tarpaha Ke](https://open.spotify.com/track/0YGDJmZrd4TQ9J3L5WzRMw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 8:49 | 2024-04-24 |  |
@@ -65,7 +66,7 @@
 | [Sohnia Mukh Tera Sajri Saver Ay](https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 10:24 | 2023-02-15 |  |
 | [Sone Yaar](https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Aa Mil Yaar](https://open.spotify.com/album/6nzQRybk8TXsl30nIYR3Vt) | 5:15 | 2023-02-15 |  |
 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 | 2023-02-15 | 2025-02-02 |
-| [Tasvi De Manke](https://open.spotify.com/track/6gOwSBSuTm1nuF884LkQuy) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Tasvi De Manke](https://open.spotify.com/album/1IWalUhl4oILgaiUDH2rYp) | 4:19 | 2025-02-01 |  |
+| [Tasvi De Manke](https://open.spotify.com/track/6gOwSBSuTm1nuF884LkQuy) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Tasvi De Manke](https://open.spotify.com/album/1IWalUhl4oILgaiUDH2rYp) | 4:19 | 2025-02-01 | 2025-02-22 |
 | [Tenu Mein Pyaar Karaa \- Version 1](https://open.spotify.com/track/4m78k5BYJz2hSch5AW8KYw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 6:14 | 2023-02-15 |  |
 | [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 | 2023-02-15 |  |
 | [Terian Mithian Gallan Da](https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 15:19 | 2023-02-15 |  |

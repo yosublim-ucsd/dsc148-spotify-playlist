@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=Dg50okc9RjqJOjFD3c2ADQ>Festizie</a>
 
-970 songs - 2 day 5 hr 38 min
+971 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Can You Feel It](https://open.spotify.com/track/0YzxXvJEokptYlZ50ppKsO) | [Edez](https://open.spotify.com/artist/5xKwjfZZfX18r0Lq0TA5QE), [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [Can You Feel It](https://open.spotify.com/album/0WrkTANWeyR7klt1HRoRW6) | 3:27 | 2024-11-08 | 2024-12-27 |
 | [CAN’T EXPLAIN](https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Can’t Explain](https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC) | 2:50 | 2023-03-23 | 2023-04-28 |
 | [Capable God](https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 3:24 | 2023-12-05 | 2023-12-11 |
+| [Care for Me](https://open.spotify.com/track/22mHqeNjJEQsj8cDTqY3x1) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Care for Me](https://open.spotify.com/album/2D2ZmCRbEKRTnLjxBiVzOH) | 2:57 | 2025-02-21 |  |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-23 |
 | [Carry You](https://open.spotify.com/track/7evtIT3xJiAbxgPXjIS9X8) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Carry You](https://open.spotify.com/album/5l3HA0RBIsrOhZY87bykJH) | 3:40 | 2023-06-23 | 2023-07-28 |
 | [Cassette](https://open.spotify.com/track/2h0Pp0TU3rh2Ytodzesxw1) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Cassette](https://open.spotify.com/album/0hqAKFFH9keBfpgjDJfqxK) | 2:21 | 2023-10-20 | 2023-12-01 |

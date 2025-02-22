@@ -11261,6 +11261,24 @@
     },
     {
       "album": {
+        "name": "BULAN",
+        "url": "https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku"
+      },
+      "artists": [
+        {
+          "name": "Raina Gumay",
+          "url": "https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "BULAN",
+      "url": "https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd"
+    },
+    {
+      "album": {
         "name": "bulan pagi",
         "url": "https://open.spotify.com/album/02pAqXBVcOwZQTvFV59H2n"
       },

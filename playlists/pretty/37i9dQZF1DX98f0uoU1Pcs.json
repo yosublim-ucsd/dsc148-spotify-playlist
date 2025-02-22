@@ -1,6 +1,6 @@
 {
   "description": "a unique mix of rock, punk, alt & indie. Cover: Squid",
-  "num_followers": 285162,
+  "num_followers": 285185,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "New Beginning (Water From Your Eyes Remix)",
         "url": "https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 191239,
       "name": "New Beginning (Water From Your Eyes Remix)",
       "url": "https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
-      },
-      "artists": [
-        {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Default Parody",
         "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 207760,
       "name": "Default Parody",
       "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "El Que",
-        "url": "https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Garcia",
-          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
-        }
-      ],
-      "duration_ms": 325695,
-      "name": "El Que",
-      "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Lemon On Plastic",
         "url": "https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 65654,
       "name": "Art History",
       "url": "https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "El Que",
+        "url": "https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "duration_ms": 325695,
+      "name": "El Que",
+      "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Sick Of The Blues",
-        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 203769,
-      "name": "Sick Of The Blues",
-      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/6r0e9t80tlT8jLRfYvKLRT"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Spiel",
-        "url": "https://open.spotify.com/album/5jSK4jeCpxMxhuySk8EOBI"
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
       },
       "artists": [
         {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Big Air",
-      "url": "https://open.spotify.com/track/6iwhvpSBLm0xBWxd0Vgmjg"
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1547,6 +1531,22 @@
       "duration_ms": 193160,
       "name": "Recreate The Start",
       "url": "https://open.spotify.com/track/7ea6FVEesrKyRLVfprLbGU"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Spiel",
+        "url": "https://open.spotify.com/album/5jSK4jeCpxMxhuySk8EOBI"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Big Air",
+      "url": "https://open.spotify.com/track/6iwhvpSBLm0xBWxd0Vgmjg"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/5FUD1SRn2eqvbLHMMFitlH"
+        "name": "Sick Sweet",
+        "url": "https://open.spotify.com/album/6L6seQappAQPbm2rf0YZRb"
       },
       "artists": [
         {
-          "name": "Armlock",
-          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 144378,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt"
+      "duration_ms": 196440,
+      "name": "Sick Sweet",
+      "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
     }
   ],
   "unique_name": "Noisy",

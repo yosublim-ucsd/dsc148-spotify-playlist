@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81772,
+  "num_followers": 81774,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAAAzIiS5DlKdE644IKVv3c8V",
+  "snapshot_id": "Z7ZwgAAAAAA9B7DVaG01/1D2Ieaqwuzb",
   "tracks": [
     {
       "added_at": null,
@@ -1159,26 +1159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cereja Hollywood",
-        "url": "https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu"
+        "name": "O Corre",
+        "url": "https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx"
       },
       "artists": [
         {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
         }
       ],
-      "duration_ms": 207829,
-      "name": "Vila dos Len\u00e7\u00f3is",
-      "url": "https://open.spotify.com/track/4ullabmaElUh1kqSkH7JrK"
+      "duration_ms": 183333,
+      "name": "O Corre",
+      "url": "https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO"
     },
     {
       "added_at": null,
@@ -1207,22 +1203,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Corre",
-        "url": "https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx"
+        "name": "Cereja Hollywood",
+        "url": "https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
         },
         {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 183333,
-      "name": "O Corre",
-      "url": "https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO"
+      "duration_ms": 207829,
+      "name": "Vila dos Len\u00e7\u00f3is",
+      "url": "https://open.spotify.com/track/4ullabmaElUh1kqSkH7JrK"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

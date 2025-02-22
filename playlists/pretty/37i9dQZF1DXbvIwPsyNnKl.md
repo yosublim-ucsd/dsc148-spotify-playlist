@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Dreycruz, Bert Symoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,294 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,736 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 29 | [Girl U Gotta Go](https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [2Joints & Harmony](https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L) | 2:47 |
 | 30 | [SOBRANG SOLID](https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [SOBRANG SOLID](https://open.spotify.com/album/7GZveuL9U8QsWEQFeG7pyC) | 3:18 |
 | 31 | [Sakin ka](https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [Sakin ka](https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r) | 4:29 |
-| 32 | [All About Love](https://open.spotify.com/track/4wrhCbOGYkyY26aBSLCuex) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Ryouji](https://open.spotify.com/artist/3bOB7mpUzE4XeWCaYY6wNM), [Alaine](https://open.spotify.com/artist/7e9Gb8ztJpNYafqSzHBQbm) | [All About Love](https://open.spotify.com/album/04yGGYDEd11Mxm8NWIN0JT) | 4:39 |
+| 32 | [All About Love](https://open.spotify.com/track/4wrhCbOGYkyY26aBSLCuex) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [Alaine](https://open.spotify.com/artist/7e9Gb8ztJpNYafqSzHBQbm) | [All About Love](https://open.spotify.com/album/04yGGYDEd11Mxm8NWIN0JT) | 4:39 |
 | 33 | [213](https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R) | [Tommie King](https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm), [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [213](https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY) | 3:03 |
 | 34 | [Elohim](https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV) | [Lynx](https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC) | [Elohim](https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs) | 2:26 |
 | 35 | [TALKSHIT](https://open.spotify.com/track/6wWxz6Qg8OUnuntgSkeP4N) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [TALKSHIT](https://open.spotify.com/album/09mUig5tOtFDbYbHmPAk8H) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Wait \(Teka Lang\)](https://open.spotify.com/track/79u2BIQd1v81BbpXcqqFuQ) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Wait \(Teka Lang\)](https://open.spotify.com/album/3IXv5Y8ExzRIz2rS1WqVMI) | 3:00 |
 | 50 | [GANG KO](https://open.spotify.com/track/6hIn7q8ZpAknIteqnU2Ry0) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [GANG KO](https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg) | 3:17 |
 
-Snapshot ID: `Z7WjPwAAAABeGSNuIx8yeEdH0wf1YRGj`
+Snapshot ID: `Z7WjPwAAAACxh+IHHEEaSONQ7qrpiJH2`

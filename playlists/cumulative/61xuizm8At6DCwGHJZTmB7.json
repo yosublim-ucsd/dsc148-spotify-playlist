@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "All My Life (Supreme Edition)",
+        "url": "https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "All My Life - Live",
+      "url": "https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj"
+    },
+    {
+      "album": {
         "name": "All That Remains",
         "url": "https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO"
       },
@@ -1202,6 +1220,24 @@
       "duration_ms": 274903,
       "name": "Before The Breakthrough - Instrumental",
       "url": "https://open.spotify.com/track/60W5WYskuz6NKyu3rromYN"
+    },
+    {
+      "album": {
+        "name": "Behold (This Is Jesus) [Live]",
+        "url": "https://open.spotify.com/album/1YrITZtQb7bAqSsWDmInBs"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1077082,
+      "name": "Behold (This Is Jesus) - Live",
+      "url": "https://open.spotify.com/track/7qawMw0pAKIsTcrAHZT8h2"
     },
     {
       "album": {
@@ -4989,6 +5025,32 @@
     },
     {
       "album": {
+        "name": "I Fear No Evil (Live)",
+        "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Megan Parker",
+          "url": "https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b"
+        },
+        {
+          "name": "Whitney Wood",
+          "url": "https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361650,
+      "name": "I Fear No Evil - Live",
+      "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
+    },
+    {
+      "album": {
         "name": "I Know That I Know (Live)",
         "url": "https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5"
       },
@@ -5126,6 +5188,32 @@
       "duration_ms": 232855,
       "name": "I Thank God",
       "url": "https://open.spotify.com/track/7GJeMVJbLzRgNuabsQ8RXt"
+    },
+    {
+      "album": {
+        "name": "I Will Follow Jesus (Live)",
+        "url": "https://open.spotify.com/album/0CSTR20V5XAnqXGyVMkhfH"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Black Voices Movement",
+          "url": "https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392014,
+      "name": "I Will Follow Jesus - Live",
+      "url": "https://open.spotify.com/track/1cqUGdNRpn1YVp5Naea0qM"
     },
     {
       "album": {
@@ -10296,6 +10384,36 @@
       "duration_ms": 449474,
       "name": "The Lamb Slain - Live",
       "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
+    },
+    {
+      "album": {
+        "name": "Call On Heaven (Come, Lord Jesus) - Live",
+        "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362680,
+      "name": "The Lamb's Book of Life - Live From Passion 2025",
+      "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
     },
     {
       "album": {

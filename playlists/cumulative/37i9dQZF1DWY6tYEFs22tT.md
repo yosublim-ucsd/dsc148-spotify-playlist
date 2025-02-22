@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with PARTYNEXTDOOR & Drake, AJ Tracey, Doechii and Jack Harlow.
+> Today's Hip\-Hop with Drake, AJ Tracey, Central Cee and Kendrick Lamar.
 
-1,283 songs - 2 day 15 hr 38 min
+1,284 songs - 2 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-03-26 |
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-07 | 2024-10-05 |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-22 | 2025-02-15 |
-| [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2025-01-03 |  |
+| [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2025-01-03 | 2025-02-22 |
 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 | 2023-09-08 | 2023-11-25 |
 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 | 2022-09-23 | 2023-01-14 |
 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 | 2024-10-25 | 2025-01-25 |
@@ -795,6 +795,7 @@
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 | 2023-09-09 |
 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 | 2023-03-03 | 2023-04-22 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-25 | 2024-11-09 |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-21 |  |
 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 | 2022-02-11 | 2022-03-05 |
 | [Normally \(feat\. NSG\)](https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Normally \(feat\. NSG\)](https://open.spotify.com/album/5ED2pTvFshAEdAru6rbhhs) | 2:44 | 2024-05-24 | 2024-08-03 |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-07 |  |

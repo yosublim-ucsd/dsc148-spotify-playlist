@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5j7Xq0NEDtSOahTZK3bVLc">Colo de amiga por @sofidisse</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,810 likes - 8 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,809 likes - 8 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

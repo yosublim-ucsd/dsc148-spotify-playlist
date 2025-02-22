@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Jagged Edge",
+  "description": "The soulful tunes to ease you into your day. Cover: Durand Bernarr",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 199253,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/69Z7UBjpKY5VesBHwpiQjH"
@@ -3901,6 +3901,32 @@
     },
     {
       "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/0Kjcg6xKRgmN5klFo9EPWi"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199381,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa"
+    },
+    {
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -6040,7 +6066,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 221000,
       "name": "Just Might Get It",
       "url": "https://open.spotify.com/track/4PDs5cYSvolI9INGUy8pHn"
@@ -8443,6 +8469,24 @@
     },
     {
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+    },
+    {
+      "album": {
         "name": "VANTABLACK",
         "url": "https://open.spotify.com/album/2OObNk2YheZrtE1YYZLhD7"
       },
@@ -10236,7 +10280,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 217417,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
@@ -11080,7 +11124,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 217622,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf"
@@ -12643,6 +12687,24 @@
     },
     {
       "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139177,
+      "name": "WANDERING",
+      "url": "https://open.spotify.com/track/47pDhZQeIJVxVm1yHoYomI"
+    },
+    {
+      "album": {
         "name": "Waterfall (I Adore You)",
         "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
       },
@@ -13282,6 +13344,24 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "album": {
+        "name": "Would You",
+        "url": "https://open.spotify.com/album/76qjd1OUHtqZnpJlTb2KVB"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Evans",
+          "url": "https://open.spotify.com/artist/3CoW2DhcuWKs93YEjEY5Eq"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Would You",
+      "url": "https://open.spotify.com/track/7mWvEVLWW3VbEZHr9DOanz"
     },
     {
       "album": {

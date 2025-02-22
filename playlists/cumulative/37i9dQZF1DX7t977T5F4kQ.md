@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-466 songs - 1 day 0 hr 20 min
+467 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [I Am Aware](https://open.spotify.com/track/1ccMiMKN9IuomcCgoq1awJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [I Am Aware](https://open.spotify.com/album/2bop6myDfaClJxDnisq1xM) | 2:29 | 2024-11-08 | 2024-11-22 |
 | [I Don't Care](https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0) | [Kixx Alphah](https://open.spotify.com/artist/4QETJXRJe1ngdzifCC9D4a), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [I Don't Care](https://open.spotify.com/album/1HqSh0DlOiG2Sn9i5Hgdj2) | 3:01 | 2023-09-14 | 2023-10-13 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 | 2024-06-28 |
-| [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 |  |
+| [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-02-22 |
 | [I Want](https://open.spotify.com/track/3D2zP0zJA2GbpMlxBPfQWy) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [I Want](https://open.spotify.com/album/2Ij6kBFCbkv5u0U9xDqoNg) | 3:28 | 2024-12-13 |  |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 | 2024-10-05 |
@@ -376,6 +376,7 @@
 | [Sex](https://open.spotify.com/track/3tyMlwxHwEE5TAb2ecUqQU) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Sex](https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE) | 3:24 | 2023-07-07 | 2023-08-11 |
 | [Sexual Healing](https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ) | [Ohene PD](https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Sexual Healing](https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm) | 3:10 | 2024-04-19 | 2024-07-12 |
 | [Sexy Sexy](https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Reggie Rockstone](https://open.spotify.com/artist/5Q73WzWI1MkAbAwi2ZhG8K) | [Her Vibe Is Right Vol\. 2](https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy) | 3:37 | 2023-07-28 | 2023-09-22 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 |  |
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-15 | 2024-04-04 |
 | [Shey](https://open.spotify.com/track/0CrJhwiDiG73IypX3SVae8) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Shey](https://open.spotify.com/album/5Vux3Ln8qKzjevdF2n676w) | 3:03 | 2024-10-25 | 2025-01-18 |
 | [Shine](https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Gizmo Original](https://open.spotify.com/artist/6rrtn6So9bRb6mZLTMjGMX) | [Shine](https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl) | 2:58 | 2024-03-29 | 2024-04-04 |

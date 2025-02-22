@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 38646,
+  "num_followers": 38661,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
+      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 291600,
       "name": "House Of Love - Love Mix",
       "url": "https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
-      },
-      "artists": [
-        {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
-        }
-      ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
-      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -203,6 +203,22 @@
       "duration_ms": 566026,
       "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
       "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
+      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -315,38 +331,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
-      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe - Erick 'More' Mix",
-      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 342621,
       "name": "My People - My People Mix",
       "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe - Erick 'More' Mix",
+      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
     },
     {
       "added_at": "2022-03-03 13:59:16",

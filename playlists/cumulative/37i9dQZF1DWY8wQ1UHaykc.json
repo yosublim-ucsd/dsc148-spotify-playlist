@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Dunia Sempurna",
+        "url": "https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW"
+      },
+      "artists": [
+        {
+          "name": "Lyla",
+          "url": "https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246674,
+      "name": "Kamu Cantik Kamu Baik",
+      "url": "https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i"
+    },
+    {
+      "album": {
         "name": "Love, Life & Music",
         "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },

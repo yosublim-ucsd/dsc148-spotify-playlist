@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "album": {
         "name": "Cacao",
         "url": "https://open.spotify.com/album/710wtCXmXkvEZ0AGvdiURa"
       },
@@ -1226,6 +1248,28 @@
       "duration_ms": 203482,
       "name": "Everything is romantic",
       "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
+    },
+    {
+      "album": {
+        "name": "Fale Ent\u00e3o",
+        "url": "https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "Fale Ent\u00e3o",
+      "url": "https://open.spotify.com/track/6ZhMxiXukvTSZyWdy64sgj"
     },
     {
       "album": {
@@ -2514,7 +2558,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 152629,
       "name": "MUITO FOGO",
       "url": "https://open.spotify.com/track/7hzctgZPIy1EGldzRaVLyf"
@@ -3072,7 +3116,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 167315,
       "name": "Saia Mini",
       "url": "https://open.spotify.com/track/383AaDYkagb6VGEdjYwFQ0"
@@ -3349,6 +3393,28 @@
     },
     {
       "album": {
+        "name": "SOMMEIL",
+        "url": "https://open.spotify.com/album/7ra9ioUauBOTS6njOuAFi6"
+      },
+      "artists": [
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Lisa Ducasse",
+          "url": "https://open.spotify.com/artist/0JfTNeLOZ8n8cgfSkbExZN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231831,
+      "name": "SOMMEIL",
+      "url": "https://open.spotify.com/track/4VgyR6cGoOCVtV9S94FsYR"
+    },
+    {
+      "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
       },
@@ -3548,7 +3614,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179013,
       "name": "Te Sent\u00eda M\u00eda",
       "url": "https://open.spotify.com/track/2PxIBcE4nkY0bO2Vl1nuVT"

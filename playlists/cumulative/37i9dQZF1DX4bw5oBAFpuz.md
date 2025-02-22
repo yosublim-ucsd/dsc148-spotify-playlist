@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-518 songs - 1 day 5 hr 43 min
+519 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2023-02-23 |  |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 | 2025-01-10 |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 | 2024-01-29 |
-| [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2025-01-23 |  |
+| [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2025-01-23 | 2025-02-22 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-11-04 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2023-02-23 |  |
 | [Hands That I Drew](https://open.spotify.com/track/0Bf2bX4w9pWz2HGWEZFtjT) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Hands That I Drew](https://open.spotify.com/album/5g5i8YVNFQu8SyQPjLTAFZ) | 4:27 | 2023-02-23 | 2024-03-22 |
@@ -296,6 +296,7 @@
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2024-04-11 |  |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2024-03-21 | 2024-04-19 |
 | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n) | 3:41 | 2024-03-21 |  |
+| [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2025-02-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 | 2023-02-23 | 2023-09-08 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-02-23 | 2023-04-26 |
 | [New Tattoo](https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V) | [New Tattoo](https://open.spotify.com/album/6YpgMfuRYkPRkgAFij0zK2) | 3:31 | 2023-02-23 | 2024-03-20 |

@@ -1,13 +1,33 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 438941,
+  "num_followers": 439983,
   "original_name": "HOT NOW - JENNIE & Doechii ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7e0FwAAAADXzYJgyR20HpsgRYjKWDPK",
+  "snapshot_id": "Z7e0FwAAAABiZTNzwLBmT2SaIIJtJ5tx",
   "tracks": [
+    {
+      "added_at": "2025-02-20 23:00:39",
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
     {
       "added_at": "2025-02-20 23:00:39",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,032 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,084 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,9 +106,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 96 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |
 | 97 | [De Mil Amores](https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [De Mil Amores](https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r) | 2:28 |
 | 98 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
-| 99 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 |
-| 100 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
-| 101 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
+| 99 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
+| 100 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 |
+| 101 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
 | 102 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
 | 103 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
 | 104 | [Estaré Bien](https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Estaré Bien](https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3) | 3:09 |

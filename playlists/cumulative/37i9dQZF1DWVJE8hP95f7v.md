@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
 
-104 songs - 6 hr 16 min
+105 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Sonhei Com Você](https://open.spotify.com/track/6X5HcSIFWzSgHmiPbPLoHB) | [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Sonhei Com Você](https://open.spotify.com/album/759q2HQzEyaPE2x3mDGhRh) | 3:43 | 2024-12-13 |  |
 | [Soul Brasileira](https://open.spotify.com/track/6dJ0wn1N0JtFdMlu5VbXjJ) | [Denise Diniz](https://open.spotify.com/artist/6MHeydE3MqKbdCVYavZxCR) | [Deusa Música](https://open.spotify.com/album/10SrMOCudH13pz9cSK3GnF) | 3:40 | 2023-12-08 |  |
 | [Soul África](https://open.spotify.com/track/530My5F6QgNrWspNZ4vEDW) | [Babu Santana](https://open.spotify.com/artist/0qA5UtcBL55QFvtjDmxRK8) | [Soul África](https://open.spotify.com/album/2wHupJ3kLogckvwYS6ToBO) | 3:23 | 2023-12-08 |  |
-| [Sá Menina](https://open.spotify.com/track/6TZDYwfSPFSxTEThMI41AZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Tom](https://open.spotify.com/album/7hKgpy2F02FNid1YXH4TM6) | 4:13 | 2023-12-08 |  |
+| [Sá Menina](https://open.spotify.com/track/6TZDYwfSPFSxTEThMI41AZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Tom](https://open.spotify.com/album/7hKgpy2F02FNid1YXH4TM6) | 4:13 | 2023-12-08 | 2025-02-22 |
+| [Sábado à Noite](https://open.spotify.com/track/4naCEptRqizADSHEP4J16A) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 4:20 | 2025-02-21 |  |
 | [São Paulo High Society \- Remix](https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb), [Luísa Viscardi](https://open.spotify.com/artist/5crcFRnnfwZTcGybeH6OH3), [Shaka](https://open.spotify.com/artist/6C2JXtWjH9WXUdC7T8ViU4), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [São Paulo High Society \(Remix\)](https://open.spotify.com/album/3n8EMWGqqovL4THs4lx1w9) | 3:35 | 2024-01-26 |  |
 | [Só Vem](https://open.spotify.com/track/4OcpqJY4RHMa2BniHjrVqC) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:00 | 2024-03-29 |  |
 | [Só Vem](https://open.spotify.com/track/6pRF997AHPwLzCRxu429th) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/6c508kN5KWvy2R5F0jtQQv) | 3:00 | 2023-12-08 | 2024-04-19 |

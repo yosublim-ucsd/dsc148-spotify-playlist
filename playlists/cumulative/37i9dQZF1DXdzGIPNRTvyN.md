@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-289 songs - 13 hr 38 min
+290 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Sauntering Dream](https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Jonathan Warman](https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf) | [Wandering Mind](https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF) | 3:19 | 2023-03-13 | 2023-05-20 |
 | [Seasonal](https://open.spotify.com/track/4H4IsE65mrXvEq0C141s11) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Seasonal](https://open.spotify.com/album/6AOfXfTdIbeiFjmVZ1PaiY) | 2:43 | 2024-07-16 |  |
 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 | 2024-04-01 |  |
-| [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 |  |
+| [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 | 2025-02-22 |
 | [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 |  |
 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 |  |
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-05 |  |
@@ -246,6 +246,7 @@
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
 | [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
+| [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 |  |
 | [Solitude](https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L) | 2:38 | 2023-05-19 | 2023-05-31 |

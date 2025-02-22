@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc"
+      },
+      "artists": [
+        {
+          "name": "Los T\u00edteres",
+          "url": "https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177051,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp"
+    },
+    {
+      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
@@ -541,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Av. del Sol",
+        "url": "https://open.spotify.com/album/4gmmwvJnMtYbTtsfbihhqm"
+      },
+      "artists": [
+        {
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "Caminos de Cristal",
+      "url": "https://open.spotify.com/track/38XoBphIO71ZGhr86J3j9z"
+    },
+    {
+      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -690,7 +726,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -1285,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Detener el Tiempo",
+        "url": "https://open.spotify.com/album/4yUzltg6s8AJKrIHA1Nb8c"
+      },
+      "artists": [
+        {
+          "name": "Nacho Contreras",
+          "url": "https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "Detener el Tiempo",
+      "url": "https://open.spotify.com/track/60PZ8GsP5PzSMnvTJaGjXw"
+    },
+    {
+      "album": {
         "name": "Caminos Br\u00edos",
         "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
       },
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
@@ -1662,6 +1716,24 @@
       "duration_ms": 215636,
       "name": "El Valor de un Te Quiero - En Vivo",
       "url": "https://open.spotify.com/track/6EJP3Yg5O1rLSXxDzlgOpt"
+    },
+    {
+      "album": {
+        "name": "El Tesoro Bajo el Barro",
+        "url": "https://open.spotify.com/album/19oxtNcPRbr3P3U5IiyR3r"
+      },
+      "artists": [
+        {
+          "name": "Setas",
+          "url": "https://open.spotify.com/artist/5XvCbvb7kM4VVZMG2ovpr3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281795,
+      "name": "El Viaje",
+      "url": "https://open.spotify.com/track/5s707ArhT7g5JDNXp1rJta"
     },
     {
       "album": {
@@ -2058,7 +2130,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
@@ -2456,7 +2528,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 199495,
       "name": "La Ladrona",
       "url": "https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72"
@@ -2662,6 +2734,24 @@
       "duration_ms": 308946,
       "name": "Lago en el Cielo",
       "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "album": {
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
     },
     {
       "album": {
@@ -2904,7 +2994,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 191906,
       "name": "Los chicos",
       "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
@@ -2962,7 +3052,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
@@ -3266,6 +3356,28 @@
       "duration_ms": 286813,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+    },
+    {
+      "album": {
+        "name": "Mermelada",
+        "url": "https://open.spotify.com/album/5nd36c1EWZUCGUvVGdc3z4"
+      },
+      "artists": [
+        {
+          "name": "Maniqui",
+          "url": "https://open.spotify.com/artist/7gq8mqhV9MrSfSKAsbYFae"
+        },
+        {
+          "name": "Hollywood Bungalows",
+          "url": "https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266014,
+      "name": "Mermelada",
+      "url": "https://open.spotify.com/track/4M796JAW8wYqsgFHQTgxiI"
     },
     {
       "album": {
@@ -3624,6 +3736,42 @@
       "duration_ms": 263200,
       "name": "No Me Dejan Salir",
       "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
+    },
+    {
+      "album": {
+        "name": "LA RED",
+        "url": "https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM"
+      },
+      "artists": [
+        {
+          "name": "Alter Vu",
+          "url": "https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219637,
+      "name": "No Se Amarguen",
+      "url": "https://open.spotify.com/track/4A9PMFmGUWShmy5gEr5VtI"
+    },
+    {
+      "album": {
+        "name": "no te muevas, no respires",
+        "url": "https://open.spotify.com/album/6odaa2uB2ftJQ6gqVRhWG4"
+      },
+      "artists": [
+        {
+          "name": "Luna Zeta",
+          "url": "https://open.spotify.com/artist/2Y1pHqRX6IXV5ASVvbqjX8"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "no te muevas, no respires",
+      "url": "https://open.spotify.com/track/2pZ46sv9h1OWlM5BWVKdP2"
     },
     {
       "album": {
@@ -4062,7 +4210,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -4384,7 +4532,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 237636,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P"
@@ -4460,6 +4608,24 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "album": {
+        "name": "Hollywood Bungalows",
+        "url": "https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Bungalows",
+          "url": "https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204070,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs"
     },
     {
       "album": {
@@ -4622,7 +4788,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 243104,
       "name": "S\u00f3lo por Hoy (Chica Oriental)",
       "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
@@ -4944,6 +5110,24 @@
       "duration_ms": 214600,
       "name": "Todo Sigue Igual",
       "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+    },
+    {
+      "album": {
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/5WAo4Y0yMlJxiJMeUj0rvk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Bossa",
+          "url": "https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159608,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/1ZiuyoMWd7BS1Xp8nm6gGs"
     },
     {
       "album": {
@@ -5304,7 +5488,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154376,
       "name": "un tiro",
       "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"

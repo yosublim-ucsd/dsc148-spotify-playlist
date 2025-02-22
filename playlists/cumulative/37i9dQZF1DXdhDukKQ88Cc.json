@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "Brummer (feat. KESI)",
+        "url": "https://open.spotify.com/album/4sn6av6beIjH5BFrQAE25V"
+      },
+      "artists": [
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154676,
+      "name": "Brummer (feat. KESI)",
+      "url": "https://open.spotify.com/track/24OxOXIG8y2mMZgDI2lfFX"
+    },
+    {
+      "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,051 songs - 4 day 12 hr 42 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,052 songs - 4 day 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2059,5 +2059,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2049 | [I Can't Take It](https://open.spotify.com/track/5hF58SQmcjUwD5F1hqmxVR) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [I Can't Take It](https://open.spotify.com/album/6By3bJu40jt2B2zBvDjOmi) | 2:49 |
 | 2050 | [The Superweapon](https://open.spotify.com/track/26YFkUBx9by2nElAVGhuVh) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Valhalla](https://open.spotify.com/artist/1r2WudV60Fg4uwKoK0uNNe) | [The Superweapon](https://open.spotify.com/album/2nIIoDDjXvcDhcWbyJO5t3) | 3:32 |
 | 2051 | [The Product](https://open.spotify.com/track/3yBhjpD6jWW8VQsrqz7MYB) | [Exproz](https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU) | [The Product](https://open.spotify.com/album/1cBfPDPIDz2xWOKkng0TUM) | 2:37 |
+| 2052 | [I Wanna](https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [I Wanna](https://open.spotify.com/album/4qE3DiAGExwNVDXsd8uUuv) | 2:58 |
 
-Snapshot ID: `AAAIO+RS+kkT59aj4gyj54VDU9VbiKQH`
+Snapshot ID: `AAAIPDP8qebXf3nnJBTZ3Zt1D952jcje`

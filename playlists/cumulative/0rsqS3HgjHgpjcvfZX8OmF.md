@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: Bleeker
+> The best and latest rock and alternative\. Cover: Sam Fender
 
-254 songs - 15 hr 5 min
+257 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-11-03 | 2024-03-09 |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-21 | 2024-12-07 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-09-03 |  |
-| [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-04-19 |  |
+| [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-04-19 | 2025-02-22 |
 | [Bumblebee](https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Bumblebee](https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE) | 3:39 | 2023-11-03 | 2024-03-09 |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-05-17 | 2024-06-29 |
 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-11-01 |  |
@@ -53,7 +53,7 @@
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-09-03 | 2024-09-28 |
 | [Chicago](https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1) | 3:58 | 2024-07-19 | 2025-01-20 |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-03-15 | 2024-04-20 |
-| [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 | 2025-01-10 |  |
+| [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 | 2025-01-10 | 2025-02-22 |
 | [Come Out](https://open.spotify.com/track/4FZYzPLOHh90osvljS7ueD) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Come Out](https://open.spotify.com/album/3FnK7zoEHC8QWtedhmTnJw) | 3:03 | 2024-01-26 | 2024-07-13 |
 | [Connecting](https://open.spotify.com/track/1FFO1ljkHXcYSqALUA8JrI) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Connecting](https://open.spotify.com/album/5j72g77DDbeDQa10Kbn9HW) | 3:42 | 2024-05-31 | 2024-09-28 |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-27 | 2025-01-11 |
@@ -100,12 +100,13 @@
 | [Hey Man](https://open.spotify.com/track/3zHSoUJTJtlJ8eL9qAGInn) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Hey Man](https://open.spotify.com/album/7M50WU6shdcokRPvQZdcb0) | 3:00 | 2025-02-14 |  |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2023-11-03 | 2024-05-18 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-05-17 |  |
-| [Hook Me Up](https://open.spotify.com/track/5XE1yZvWYaxq73n8o2k31q) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Hook Me Up](https://open.spotify.com/album/2Xpx4wGbzN73O3qRuF3J9n) | 2:36 | 2024-09-20 |  |
+| [Hook Me Up](https://open.spotify.com/track/5XE1yZvWYaxq73n8o2k31q) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Hook Me Up](https://open.spotify.com/album/2Xpx4wGbzN73O3qRuF3J9n) | 2:36 | 2024-09-20 | 2025-02-22 |
 | [I Don’t Wanna Talk](https://open.spotify.com/track/0rpOR79X30vU5I9i0Jnusg) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [I Don’t Wanna Talk](https://open.spotify.com/album/2xOJFe7Fh9zbscZrf3NqqQ) | 3:46 | 2025-01-25 |  |
 | [I Was Made For Lovin’ You \- from The Fall Guy](https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I Was Made For Lovin' You \(from The Fall Guy\)](https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ) | 4:21 | 2024-04-26 | 2024-06-22 |
 | [I Won’t Run](https://open.spotify.com/track/1HrOEzhY9igRiYqCRQbEyA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 4:05 | 2023-11-03 | 2024-02-03 |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2023-11-03 | 2024-02-03 |
 | [is it too late?](https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [is it too late?](https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g) | 2:39 | 2024-04-05 | 2024-10-05 |
+| [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 |  |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-25 |  |
 | [JIM BOB](https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JIM BOB](https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE) | 3:41 | 2024-05-31 |  |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-11-03 | 2024-04-06 |
@@ -122,6 +123,7 @@
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-02 |  |
 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-02-01 |  |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-08 | 2024-06-02 |
+| [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 | 2025-02-21 |  |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-11-03 | 2024-04-27 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-17 | 2024-06-08 |
 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 | 2025-01-25 |  |
@@ -238,6 +240,7 @@
 | [Trial By Fire](https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Trial By Fire](https://open.spotify.com/album/1VTD55qqG4845hiL2D3aWj) | 4:00 | 2024-11-01 |  |
 | [Try](https://open.spotify.com/track/0HsTfpRWlG37ZScD9432te) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Try](https://open.spotify.com/album/2I1wfhhrYy5gpO5j4jBfus) | 2:37 | 2025-01-10 |  |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-24 |  |
+| [Ultraviolet](https://open.spotify.com/track/5zYrFAC9t6uHxcfOabpWQr) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Ultraviolet](https://open.spotify.com/album/7Fg36AWabq2UB9gbcF5qgw) | 3:13 | 2025-02-21 |  |
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-11-03 | 2025-02-03 |
 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 | 2024-02-02 | 2024-06-29 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-11-01 |  |

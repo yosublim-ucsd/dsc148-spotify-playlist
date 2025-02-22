@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,133 likes - 571 songs - 1 day 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,140 likes - 571 songs - 1 day 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,9 +189,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 179 | [I Feel Beautiful](https://open.spotify.com/track/1AtjPqqE1L2QWWea0kCeQu) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:31 |
 | 180 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 |
 | 181 | [What Do I Do With The Love](https://open.spotify.com/track/6qwotLZ6V1QGoSTc6bGCaZ) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:46 |
-| 182 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
-| 183 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
-| 184 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 182 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 183 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
+| 184 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
 | 185 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 |
 | 186 | [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 |
 | 187 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
@@ -400,8 +400,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 390 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
 | 391 | [I Wanna Get Back With You](https://open.spotify.com/track/1nvVkERyrtBdV8mDj1bcdU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [The Lead And How To Swing It](https://open.spotify.com/album/45QU97Z1TooErTjggqMadG) | 5:00 |
 | 392 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
-| 393 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
-| 394 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
+| 393 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
+| 394 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
 | 395 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 |
 | 396 | [Baby Be There](https://open.spotify.com/track/1K9cAcnZ55oIaIsVQMXsAH) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Time](https://open.spotify.com/album/3dlQhSbEXPzDKCr3jPsT0Q) | 3:49 |
 | 397 | [Ciego De Amor](https://open.spotify.com/track/3zw3qgkrA4E4yENZ5YYDt3) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Si Te Vas](https://open.spotify.com/album/5rP5Gjl6YbGNBsQeahKUdq) | 4:07 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 571 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbqIKgAAAAD2MeSItW/CA0ltWXTlG9TJ`
+Snapshot ID: `AbqN6AAAAABBwCIhLh4fZnhwaQT4PyM5`

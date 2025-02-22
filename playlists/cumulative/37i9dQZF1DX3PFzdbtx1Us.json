@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/23I3vOfNHDcGU9BDFkZWj7"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/08pO7gmtNm6BQjzTIM1INY"
+    },
+    {
+      "album": {
         "name": "Free Falling",
         "url": "https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe"
       },

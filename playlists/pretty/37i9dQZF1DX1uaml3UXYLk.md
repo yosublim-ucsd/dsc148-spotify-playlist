@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,841 likes - 188 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,977 likes - 188 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 187 | [Rain Moves Aside](https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Rain Moves Aside](https://open.spotify.com/album/2ePJcR2LULuHH4hplAlkTE) | 3:16 |
 | 188 | [Lemon Chill](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Lemon Chill](https://open.spotify.com/album/0JusNbO9M4ZAvvnmdMoU19) | 2:12 |
 
-Snapshot ID: `Z68hNwAAAAD2vEtZY5W6I+alj2Oz/+8X`
+Snapshot ID: `Z68hNwAAAAALW1cAyuwqp6rjJgJwZcw0`

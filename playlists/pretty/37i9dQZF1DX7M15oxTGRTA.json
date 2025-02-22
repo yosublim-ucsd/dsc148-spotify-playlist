@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 150788,
+  "num_followers": 150866,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 244440,
       "name": "Summer In The City",
       "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
-      },
-      "artists": [
-        {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 242680,
       "name": "Don't You Know That?",
       "url": "https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+      },
+      "artists": [
+        {
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2025-01-03 20:45:47",

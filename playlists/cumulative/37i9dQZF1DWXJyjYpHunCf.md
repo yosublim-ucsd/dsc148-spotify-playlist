@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Bren Joy
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Jensen McRae
 
-482 songs - 1 day 3 hr 19 min
+483 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [As Soon As I'm Gone](https://open.spotify.com/track/2nQHEShCowzlA9MssApiAW) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [As Soon As I'm Gone](https://open.spotify.com/album/0GtJHvcgZlZG9fPCEx8eQ3) | 3:01 | 2024-10-11 |  |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-14 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 | 2024-04-19 |
-| [august](https://open.spotify.com/track/6nK2pIKFcRc5frrZKHgsiT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:21 | 2024-03-29 |  |
+| [august](https://open.spotify.com/track/6nK2pIKFcRc5frrZKHgsiT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:21 | 2024-03-29 | 2025-02-22 |
 | [Automatic](https://open.spotify.com/track/5wfSsLHzl4WcgkGmvOpYai) | [Castro](https://open.spotify.com/artist/1qXuwKQR0iK6HBmJO3n0SZ) | [Automatic](https://open.spotify.com/album/10OlzRqxBpmKLxMWAvxeFx) | 3:53 | 2021-11-12 | 2022-07-26 |
 | [Avalon](https://open.spotify.com/track/4a3coKHqS9oX5ooTZHVUm6) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Avalon](https://open.spotify.com/album/4ahlOf4Dz3n8FsmdXxb1GG) | 2:51 | 2024-08-02 | 2024-09-21 |
 | [Back & Forth](https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 3:31 | 2022-03-12 | 2022-11-13 |
@@ -209,7 +209,7 @@
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-11-12 | 2024-03-18 |
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 | 2023-11-11 |
 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-08-02 |  |
-| [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 |  |
+| [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2025-02-22 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 |  |
 | [how to survive](https://open.spotify.com/track/1oe8q2RUTbarV3X6PRqRR3) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [how to survive](https://open.spotify.com/album/7zoI1UoPLg2t4W5TuPgJOG) | 2:51 | 2024-05-03 |  |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-31 |  |
@@ -330,11 +330,12 @@
 | [Part of Me](https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2) | 3:02 | 2022-03-12 | 2023-12-25 |
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2021-11-12 | 2023-06-17 |
 | [Passenger](https://open.spotify.com/track/1NZxALMXgmzpFTnDH9gYd3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Passenger](https://open.spotify.com/album/59gdaLyBocDMZs3fTYRUtQ) | 3:27 | 2022-03-12 | 2022-07-28 |
-| [Perfect Portrait of Young Love](https://open.spotify.com/track/5JR1l1O7OfqrTGrToo9Pwk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Perfect Portrait of Young Love](https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm) | 2:59 | 2024-02-09 |  |
+| [Perfect Portrait of Young Love](https://open.spotify.com/track/5JR1l1O7OfqrTGrToo9Pwk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Perfect Portrait of Young Love](https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm) | 2:59 | 2024-02-09 | 2025-02-22 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2022-02-21 | 2023-03-18 |
 | [Pollution](https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Pollution](https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq) | 3:54 | 2023-09-29 | 2023-12-18 |
 | [pop the placebo](https://open.spotify.com/track/2DCsAm1Xkrttl6aREjCdhW) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [sincerely, e](https://open.spotify.com/album/2E6gQ19tm1StEXwl5kHusx) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [Powder Blue](https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS) | [HARBRS](https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T) | [Powder Blue](https://open.spotify.com/album/2lJVt9WuO7TgCGO7ww9ZS6) | 3:36 | 2022-02-21 | 2022-07-29 |
+| [Praying For Your Downfall](https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Praying For Your Downfall](https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK) | 3:05 | 2025-02-21 |  |
 | [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-04-19 |  |
 | [Pure Desire](https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Pure Desire / Loosen Up](https://open.spotify.com/album/3J95vIMwdAUouqR2vekhJ0) | 3:26 | 2021-11-12 | 2022-07-28 |
 | [Puzzle Peace](https://open.spotify.com/track/6RNx2PvcKDBJSvFMW6SqES) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Puzzle Peace](https://open.spotify.com/album/7vKsNksBLfF9WRExodr9DF) | 3:54 | 2021-11-12 | 2022-07-29 |

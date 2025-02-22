@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-632 songs - 1 day 2 hr 26 min
+633 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Beyond the Moon](https://open.spotify.com/track/5TomtKpTQSdGAHCEfk9zx0) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Beyond the Moon](https://open.spotify.com/album/2DlaNrVF8bQZKLwL0xuFJR) | 1:44 | 2023-10-29 | 2023-11-16 |
 | [birds that cant sleep](https://open.spotify.com/track/5XEt40GW4q6vzoMbLp2cEC) | [driving horses](https://open.spotify.com/artist/3PKU3gXPPRLmChkUpOO1SU) | [birds that cant sleep](https://open.spotify.com/album/4NcoVToGj7x4GXyApUfKPV) | 2:32 | 2024-06-17 | 2024-06-20 |
 | [blankets of snow](https://open.spotify.com/track/6wuAS1un3w0O9A2tqTZafa) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [blankets of snow](https://open.spotify.com/album/6ZVWmjgHpKz5em2hBbkVGH) | 1:32 | 2024-04-13 |  |
-| [Blue Sand](https://open.spotify.com/track/5vhSxWXSYhmo7mABug9blW) | [Le Promeneur](https://open.spotify.com/artist/2f186fEKMhDjztlDg5wf4M) | [Blue Sand](https://open.spotify.com/album/3YJDSIqwyNHEXago8OwLln) | 2:50 | 2024-10-23 |  |
+| [Blue Sand](https://open.spotify.com/track/5vhSxWXSYhmo7mABug9blW) | [Le Promeneur](https://open.spotify.com/artist/2f186fEKMhDjztlDg5wf4M) | [Blue Sand](https://open.spotify.com/album/3YJDSIqwyNHEXago8OwLln) | 2:50 | 2024-10-23 | 2025-02-22 |
 | [Bluff Trail](https://open.spotify.com/track/1GuV3mmmbG7ngfD34BoPyD) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Bluff Trail](https://open.spotify.com/album/0Tie6ojO7uXOqjXiiynU5l) | 2:06 | 2024-04-13 | 2025-02-01 |
 | [Broken Waltz](https://open.spotify.com/track/4lCX28gJF69wmnHJbUXSxQ) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Broken Waltz](https://open.spotify.com/album/3ie4veJvgpbsyMhUyh5DUu) | 3:31 | 2024-07-12 |  |
 | [brudeslør](https://open.spotify.com/track/7vFUJtfkdIobStuWimu92o) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [brudeslør](https://open.spotify.com/album/5dIOIZlK7LbVHeHkEZCOWY) | 1:51 | 2023-10-29 | 2024-10-24 |
@@ -474,6 +474,7 @@
 | [She Cooks](https://open.spotify.com/track/2dIvXYhB8ZO03FlMLPH6Xi) | [Simon Park](https://open.spotify.com/artist/01NXB5dRKo7u1GcRovVyB2) | [Merushï](https://open.spotify.com/album/6B5V33OXRlJmVApVOgGYDQ) | 1:44 | 2023-10-29 | 2024-11-16 |
 | [She's Love Personified](https://open.spotify.com/track/01OW4L1QIGfqLAsVHZ8wtp) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [She's Love Personified](https://open.spotify.com/album/7c9YgIebYEVsYMpzrM2Grr) | 2:12 | 2024-04-13 |  |
 | [Sierra](https://open.spotify.com/track/1vo0FDdS2LOgbF59kZueow) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Sierra](https://open.spotify.com/album/5FJ07iBpkQiq7aKMhuAVq7) | 3:08 | 2024-12-06 |  |
+| [Sierre Nevada](https://open.spotify.com/track/76HBZOHT9EBLTdWKSoOcO0) | [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Sierra Nevada](https://open.spotify.com/album/2QygOW4UcVugvIZREOzlKD) | 3:14 | 2025-02-21 |  |
 | [Sighs of the Heart](https://open.spotify.com/track/4t1vOiUg8qpHdkx66yJjCE) | [Coffee Piano](https://open.spotify.com/artist/2oep6ou2PkJrdXI6aa9zP8) | [Sighs of the Heart](https://open.spotify.com/album/2guEWqoU863afIxTCPvBQ8) | 1:38 | 2024-04-13 | 2025-02-01 |
 | [Signature](https://open.spotify.com/track/6jJm023qG8hm4iABExHif5) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d), [Will Ackerman](https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd), [Paul Jarman](https://open.spotify.com/artist/1r5RcNpuLOKh9gQvPrpfRV) | [Signature \(Deluxe Edition\)](https://open.spotify.com/album/736ws74W6xWx2vFNgjoruV) | 2:57 | 2023-10-29 | 2024-10-24 |
 | [Silence’s Story](https://open.spotify.com/track/1ikm9yTP4jlPmNl7FYTpj5) | [Evæ Ives](https://open.spotify.com/artist/1lSZpnqDbSN84SpXNrwhvI), [dvw logic](https://open.spotify.com/artist/54tlInME01xeaPj66tZkre) | [Silence’s Story](https://open.spotify.com/album/0gndXr5rOSM9L5Gf4RsPgU) | 3:42 | 2024-09-27 |  |
@@ -560,7 +561,7 @@
 | [thinking back](https://open.spotify.com/track/6mTrTzN3edA7VOsv9hd7c3) | [fragile keys](https://open.spotify.com/artist/18uHhd1i866SZTLRTCWCbF) | [nostalgia warmth](https://open.spotify.com/album/1cW2OYCB00kJ7eM237RsJ9) | 2:33 | 2024-06-12 | 2024-08-10 |
 | [this is not the end](https://open.spotify.com/track/1CHg1GfkNDq3dGtYTm1iRA) | [Pianoverse](https://open.spotify.com/artist/50LK4p696LmZ0MN3VZ4ZSP) | [this is not the end](https://open.spotify.com/album/7MQp6Zned0M6t9ZD3vCcLY) | 1:40 | 2024-09-06 |  |
 | [This Little Fairytale](https://open.spotify.com/track/09CYiwVBdIlt6KQVtU5QYh) | [Jona Alvas](https://open.spotify.com/artist/4uKSeDjgX5mVDQ8qQ0azvQ) | [This Little Fairytale](https://open.spotify.com/album/203NIpBRN361805M37Jf50) | 1:41 | 2023-10-29 | 2024-01-25 |
-| [thoughts](https://open.spotify.com/track/1GkeRFP2QageV8fv5ibfMe) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [thoughts](https://open.spotify.com/album/1AraYyc3P8JLhJIrTiKKfO) | 1:49 | 2025-02-14 |  |
+| [thoughts](https://open.spotify.com/track/1GkeRFP2QageV8fv5ibfMe) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [thoughts](https://open.spotify.com/album/1AraYyc3P8JLhJIrTiKKfO) | 1:49 | 2025-02-14 | 2025-02-22 |
 | [Time Fades](https://open.spotify.com/track/6IekAdbwfpBrX6lQshqvva) | [Dermott Reilly](https://open.spotify.com/artist/4m2y4IV1lkTrGLztYQH452) | [Time Fades](https://open.spotify.com/album/1uCNR6cQ6BPnKR8azqfTXD) | 2:32 | 2024-10-23 |  |
 | [Time Flows Like Liquid Light](https://open.spotify.com/track/1QfdpDUXi5uljnh3hkC0uz) | [Paul H.](https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Time Flows Like Liquid Light](https://open.spotify.com/album/3XXRfYWeLTF7bUTqDoBGQi) | 1:33 | 2024-10-23 |  |
 | [time to dream](https://open.spotify.com/track/66pUOGUzCXu9aNRJ8vyPrw) | [we still have time to dream](https://open.spotify.com/artist/65CdirvsEPDxb0X1jD5J22) | [we still have time to dream](https://open.spotify.com/album/0fmwMHXCtE9FAHtfJNymaK) | 1:44 | 2024-05-02 |  |
@@ -584,7 +585,7 @@
 | [Two Skins](https://open.spotify.com/track/5dRMYQ8mIpHJ5qUBXi9EDZ) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Two Skins](https://open.spotify.com/album/4Iney8ThlQR8Qxdy1D1OV3) | 5:37 | 2024-08-04 |  |
 | [Two Years](https://open.spotify.com/track/5OXimoxINUI6lvCAGQqPDY) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Two Years](https://open.spotify.com/album/7Cpo5iK9QckXMTGdGhs0DD) | 2:08 | 2024-09-06 |  |
 | [Uhre Kirke](https://open.spotify.com/track/0aAXobe9TRTIzy54tuuSth) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Uhre Kirke](https://open.spotify.com/album/677gcmWTyohc3Oe5gZQjNd) | 3:35 | 2024-05-02 |  |
-| [Uhre Kirke \- Take 5](https://open.spotify.com/track/5JTuOIoBRsTt2IsF0M7DCz) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:15 | 2024-05-17 |  |
+| [Uhre Kirke \- Take 5](https://open.spotify.com/track/5JTuOIoBRsTt2IsF0M7DCz) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:15 | 2024-05-17 | 2025-02-22 |
 | [Una Mattina](https://open.spotify.com/track/0mRQ62gINTuXybrgr6dNZ0) | [IRSNa](https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR) | [Una Mattina](https://open.spotify.com/album/6k4JPeTYueJiM1o6jlFAB6) | 2:12 | 2023-10-29 | 2024-11-16 |
 | [Unfolding](https://open.spotify.com/track/3o0GCkyaprXDYTUG6Yr1Ub) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Unfolding](https://open.spotify.com/album/1A1hqVdSgrtTL8r5A061Cp) | 2:02 | 2023-10-29 | 2024-12-28 |
 | [Unknown Mirror](https://open.spotify.com/track/78RyRCRytkvwtShnQM3WTV) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [Unknown Mirror](https://open.spotify.com/album/1tKnpSLLAOBgD9sZJslDYp) | 2:20 | 2024-10-23 |  |

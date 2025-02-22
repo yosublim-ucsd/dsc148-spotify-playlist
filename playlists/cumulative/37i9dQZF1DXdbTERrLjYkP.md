@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Lilly Bedard
+> Discover the next wave of talent writing their own songs\. Cover: Ronia
 
-805 songs - 1 day 18 hr 55 min
+808 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2022-01-14 | 2022-03-05 |
 | [Easy](https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 2:47 | 2023-06-02 | 2023-10-01 |
 | [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 | 2023-05-05 | 2023-08-04 |
-| [Easy](https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [Real Love](https://open.spotify.com/album/5Pm8GY1s2GRSuhxrxBvDLJ) | 4:09 | 2024-08-16 |  |
+| [Easy](https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [Real Love](https://open.spotify.com/album/5Pm8GY1s2GRSuhxrxBvDLJ) | 4:09 | 2024-08-16 | 2025-02-22 |
 | [easy](https://open.spotify.com/track/4oSywTRBD1TCpvWehg4cxp) | [MacKenzie Bourg](https://open.spotify.com/artist/3pg4cfNfPC0ehk912YtXe9) | [easy](https://open.spotify.com/album/740ZfWRY6fQuysBFuzWDwu) | 3:25 | 2024-10-11 |  |
 | [Easy Love](https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Easy Love](https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o) | 3:23 | 2022-10-28 | 2023-01-14 |
 | [eat ur heart out](https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 2:45 | 2022-11-18 | 2023-01-28 |
@@ -338,7 +338,7 @@
 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-12-07 |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-06 | 2024-07-02 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
-| [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 | 2024-09-06 |  |
+| [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 | 2024-09-06 | 2025-02-22 |
 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-09-09 | 2022-11-13 |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 | 2022-10-31 |
 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-09 | 2023-02-16 |
@@ -376,6 +376,7 @@
 | [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 | 2024-03-08 | 2024-09-21 |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 | 2022-12-03 |
 | [If I Don’t Like You](https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [If I Don’t Like You](https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB) | 2:45 | 2024-03-15 | 2024-08-10 |
+| [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 | 2025-02-21 |  |
 | [If I Had Stayed](https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB) | 2:11 | 2022-01-14 | 2022-03-12 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-28 | 2023-08-19 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2023-08-12 |
@@ -442,7 +443,7 @@
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-05 | 2024-07-13 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 | 2023-05-06 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-04-16 |
-| [London Too](https://open.spotify.com/track/5VEEDisGMhuae3Ck8vpYHX) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:19 | 2024-09-06 |  |
+| [London Too](https://open.spotify.com/track/5VEEDisGMhuae3Ck8vpYHX) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:19 | 2024-09-06 | 2025-02-22 |
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-04-28 | 2023-08-12 |
 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 | 2024-07-12 | 2024-11-16 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 | 2024-06-08 |
@@ -505,6 +506,7 @@
 | [Move On](https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv) | [Temm](https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD) | [Move On](https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ) | 3:42 | 2024-03-22 | 2024-12-14 |
 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-27 |  |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-06-25 |
+| [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-02-21 |  |
 | [Muscle Memory](https://open.spotify.com/track/66MkUGsPCH3k12PHghVQaQ) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Muscle Memory](https://open.spotify.com/album/1pWzezVNG1OBtP62iJs6c3) | 3:28 | 2022-01-14 | 2022-05-20 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-12 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
@@ -622,6 +624,7 @@
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-10-19 |
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 | 2023-12-14 |
 | [Silence](https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Silence](https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql) | 2:57 | 2023-06-23 | 2023-11-11 |
+| [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 |  |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-18 | 2022-07-29 |
 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 | 2022-08-20 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |

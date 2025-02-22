@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-12",
-  "description": "You know em, you love em, these are indie pop hits. Cover: Lola Young",
+  "description": "You know em, you love em, these are indie pop hits. Cover: Imogen Heap",
   "name": "Indie Pop Hits",
   "tracks": [
     {
@@ -1040,6 +1040,24 @@
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
     },
     {
       "album": {

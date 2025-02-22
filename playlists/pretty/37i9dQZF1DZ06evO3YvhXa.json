@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 407813,
+  "num_followers": 407902,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAABqqtziPKEgr1WtKiL/MKKE",
+  "snapshot_id": "Z7ZwgAAAAAAbNCbjKMAPNUGw9I5P+LMq",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+      "duration_ms": 238533,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+      "duration_ms": 331800,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "Black Capricorn Day",
-      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 360013,
       "name": "High Times - Remastered 2013",
       "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "Black Capricorn Day",
+      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
     },
     {
       "added_at": null,

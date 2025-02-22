@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-303 songs - 18 hr 44 min
+304 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-16 | 2024-06-08 |
 | [Broke a Sweat](https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Broke a Sweat](https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh) | 2:50 | 2023-07-14 | 2024-03-23 |
 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 | 2022-07-29 | 2024-09-11 |
-| [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 |  |
+| [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 | 2025-02-22 |
 | [Call My Name](https://open.spotify.com/track/5l0PRf7kUchBQa9Kkdejqp) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Dawn Pemberton](https://open.spotify.com/artist/1nhMHvacUcBwhNToEU4WV7) | [Call My Name](https://open.spotify.com/album/4ZO3TyYHuLyY8ATWSCpKCG) | 3:01 | 2022-05-20 | 2022-09-24 |
 | [CALL NOW \(504\-305\-8269\) \(feat\. Michael Batiste\)](https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Batiste](https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:19 | 2023-08-18 |  |
 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 | 2022-07-01 | 2024-02-17 |
@@ -300,6 +300,7 @@
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2022-08-05 | 2023-03-25 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 | 2024-09-20 |  |
+| [Waste No Time](https://open.spotify.com/track/5FC5usNqCax1dFzRKW1aOR) | [DE SOFFER](https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz) | [Waste No Time](https://open.spotify.com/album/2bYWKUHwRwTOnnEjwE0rkv) | 3:03 | 2025-02-21 |  |
 | [We Hold the Future](https://open.spotify.com/track/0PAugWAYPor3vV3cB8euA3) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [We Hold the Future](https://open.spotify.com/album/4wZLlIABrvzjycmnHN339Y) | 3:11 | 2021-10-15 | 2022-10-22 |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 |  |
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2022-02-25 | 2024-02-24 |

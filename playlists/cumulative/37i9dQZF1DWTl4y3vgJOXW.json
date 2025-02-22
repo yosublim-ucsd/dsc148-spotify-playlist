@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Lamelo Ball",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Jalen Brunson and Donovan Mitchell",
   "name": "Locked In",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 160133,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/3T8y3z2g4KTQqtRjTY05JM"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147529,
       "name": "BBLLCDI",
       "url": "https://open.spotify.com/track/6etNPa8krT7Imudk5s9LuM"
@@ -6193,6 +6193,28 @@
     },
     {
       "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229021,
+      "name": "HBK (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk"
+    },
+    {
+      "album": {
         "name": "Headlocc (feat. Young Thug)",
         "url": "https://open.spotify.com/album/1Im2OU9CCCVNkvBk9CRcws"
       },
@@ -6881,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "How To Bip",
+        "url": "https://open.spotify.com/album/02HzsfQyBzbxWmKczDp0rI"
+      },
+      "artists": [
+        {
+          "name": "Rockout Danny",
+          "url": "https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113985,
+      "name": "How To Bip",
+      "url": "https://open.spotify.com/track/0czglnBCqYSAkwV3287aVA"
+    },
+    {
+      "album": {
         "name": "Port Of Miami",
         "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
       },
@@ -7106,7 +7146,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 128173,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU"
@@ -10992,7 +11032,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161177,
       "name": "PISSED OFF",
       "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
@@ -11998,6 +12038,28 @@
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "album": {
+        "name": "Rain Snow",
+        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191598,
+      "name": "Rain Snow",
+      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
     },
     {
       "album": {
@@ -14365,6 +14427,24 @@
     },
     {
       "album": {
+        "name": "The Biggest G",
+        "url": "https://open.spotify.com/album/5Y38W6JGNBgUfpTpMgQC8c"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "The Biggest G",
+      "url": "https://open.spotify.com/track/1AgxScwu5I2MDVshvPX5cY"
+    },
+    {
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -15105,6 +15185,24 @@
     },
     {
       "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
+    },
+    {
+      "album": {
         "name": "Tweaker (Remix)",
         "url": "https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX"
       },
@@ -15120,7 +15218,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 218457,
       "name": "Tweaker (feat. Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E"

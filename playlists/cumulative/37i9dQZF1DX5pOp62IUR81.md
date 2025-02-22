@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-206 songs - 8 hr 48 min
+208 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Hulk Theme](https://open.spotify.com/track/5DNsT9MZifnPgW0RAUSJgb) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The Incredible Hulk](https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G) | 3:59 | 2024-01-05 |  |
 | [Humans Arrive](https://open.spotify.com/track/2B9KpbnMLY75pMyFr36a6T) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Original Soundtrack\)](https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT) | 1:24 | 2024-01-05 | 2025-01-31 |
 | [I Am Vision](https://open.spotify.com/track/1ZcxP37FbhEiAdodj3CyaF) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 9 \(Original Soundtrack\)](https://open.spotify.com/album/30qYpobFEwki8Vy202a8Oi) | 3:07 | 2024-01-05 |  |
+| [I Am Who I Am](https://open.spotify.com/track/0v19Z17NOuQgmSDEQAaU3T) | [Samantha J\. Powell](https://open.spotify.com/artist/3Id8OBZnurFgLVQ743f500), [Marvel’s Moon Girl and Devil Dinosaur \- Cast](https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV) | [Marvel's Moon Girl and Devil Dinosaur: Season 2 \- Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil) | 3:20 | 2025-02-21 |  |
 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 | 2024-01-05 |  |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2024-01-05 |  |
 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 | 2024-01-05 |  |
@@ -121,6 +122,7 @@
 | [Natasha](https://open.spotify.com/track/3FJPS6N8yqWpEbXL3B17Iq) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC) | 3:20 | 2024-01-05 |  |
 | [Natasha's Lullaby](https://open.spotify.com/track/7DXVDRuzfxi6Qoo1hH0G0I) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Widow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK) | 3:24 | 2024-01-05 |  |
 | [Negative](https://open.spotify.com/track/4fFVnXExZnzxf7RMdcfYbA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dark Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12fXY8Frs87K8Rh3hkY72X) | 3:58 | 2024-01-05 |  |
+| [Neighbor Like Me](https://open.spotify.com/track/4ZZ2BNbqWA4WM8jsFE7LJf) | [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya), [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS) | [Your Friendly Neighborhood Spider\-Man \(Original Soundtrack\)](https://open.spotify.com/album/2BNWwP9D8LPxJfbB2l2DGn) | 3:32 | 2025-02-21 |  |
 | [Neighbor Like Me \- From "Your Friendly Neighborhood Spider\-Man"](https://open.spotify.com/track/2wogAW9Yxufq70Gsa4WxN7) | [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya), [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS) | [Neighbor Like Me \(From "Your Friendly Neighborhood Spider\-Man"\)](https://open.spotify.com/album/30qd0n4PQMAReSBvrFMlRh) | 3:34 | 2025-01-25 |  |
 | [New Avengers \- Avengers: Age of Ultron](https://open.spotify.com/track/1fNwvHEncsLvhwEKmzlO6S) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP) | 3:09 | 2024-01-05 |  |
 | [Nick Fury \(Main Title Theme\) \- From "Secret Invasion"](https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Nick Fury \(Main Title Theme\) \[From "Secret Invasion"\]](https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm) | 2:03 | 2024-01-05 |  |

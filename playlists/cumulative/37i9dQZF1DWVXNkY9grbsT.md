@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-457 songs - 1 day 14 hr 9 min
+458 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Kepler\-39 \- 808 State Remix](https://open.spotify.com/track/101hdgdBfT9Kqeeo5SOesm) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk), [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Kepler\-39 \(808 State Remix\)](https://open.spotify.com/album/4u3gTDyvjLppLgkAODS2S2) | 5:49 | 2022-05-06 | 2023-07-22 |
 | [kinda tropical](https://open.spotify.com/track/0PRlkQ8uBsQR5G3Oeov5n5) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [kinda tropical](https://open.spotify.com/album/3L2jSO3z1tn9Yc2bM50sgC) | 3:16 | 2025-01-31 |  |
 | [Kistvaen](https://open.spotify.com/track/6zqgYUrJL0vo2dpA7RQREm) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:30 | 2021-12-26 | 2023-08-12 |
+| [La Hormiga](https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [La Hormiga](https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb) | 2:13 | 2025-02-21 |  |
 | [La procesión](https://open.spotify.com/track/1n0op7KqijQJosc9lhuR0U) | [Ale Hop](https://open.spotify.com/artist/1Ef3JUYNrOM5JfOo9oThPV) | [The Life of Insects](https://open.spotify.com/album/0cmW9PUBl08bvqGHJtp2NT) | 5:29 | 2021-12-26 | 2023-08-12 |
 | [Lake](https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Lake](https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H) | 3:31 | 2025-01-17 |  |
 | [let all the poisons that lurk in the mud seep out \- Actress Remix](https://open.spotify.com/track/0aZIpFZPJqM1evzPGEcRxC) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [let all the poisons that lurk in the mud seep out \(Actress Remix\)](https://open.spotify.com/album/1OsykdLbXH6KL0tAebPL1X) | 5:13 | 2021-12-26 | 2023-08-12 |
@@ -414,7 +415,7 @@
 | [Tokyo Exorcist](https://open.spotify.com/track/2J2dJS1mRWalZmnlYg7KE2) | [Prurient](https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:58 | 2021-12-26 | 2023-08-12 |
 | [Torpid](https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 4:34 | 2022-01-23 | 2024-09-07 |
 | [Touches Everything](https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Overflow](https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z) | 5:04 | 2021-12-26 | 2023-08-12 |
-| [Tower of Cloud](https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 5:11 | 2025-01-14 |  |
+| [Tower of Cloud](https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 5:11 | 2025-01-14 | 2025-02-22 |
 | [Trains](https://open.spotify.com/track/4Dhm28AOQtFIh7WIJPBAve) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Trains](https://open.spotify.com/album/0g49zydHbVF2G93G9PJxv1) | 3:49 | 2022-01-07 | 2023-08-05 |
 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 | 2023-06-09 | 2025-01-10 |
 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 | 2022-04-01 |  |

@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Je Vis Pour Elle (feat. Kendji Girac)",
+        "url": "https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265053,
+      "name": "Je Vis Pour Elle (feat. Kendji Girac)",
+      "url": "https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF"
+    },
+    {
+      "album": {
         "name": "Love of My Life",
         "url": "https://open.spotify.com/album/5aa7wQB7hyWhjy4RtOvZkC"
       },

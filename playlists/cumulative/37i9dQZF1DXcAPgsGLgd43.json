@@ -245,6 +245,36 @@
     },
     {
       "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/7LY3V8BTAWVDeKp9QF3rlm"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
+        },
+        {
+          "name": "Yuliesky Gonzalez",
+          "url": "https://open.spotify.com/artist/6wwPgJrI25XI6qKu5yOGkM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192701,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj"
+    },
+    {
+      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -308,7 +338,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 229000,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/1FUUe1VbjWakX9nFfd0Qki"
@@ -1669,6 +1699,36 @@
     },
     {
       "album": {
+        "name": "Coketea (feat. Dean Walker)",
+        "url": "https://open.spotify.com/album/6vw66EvhvToEv490yZTtnT"
+      },
+      "artists": [
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Sael Quinn",
+          "url": "https://open.spotify.com/artist/1u4OxkwNI4kCwcjTeFE0bj"
+        },
+        {
+          "name": "Dean Walker",
+          "url": "https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Coketea (feat. Dean Walker)",
+      "url": "https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF"
+    },
+    {
+      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA"
       },
@@ -1982,7 +2042,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
@@ -2008,6 +2068,32 @@
       "duration_ms": 167619,
       "name": "Cuban Riddim",
       "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
+    },
+    {
+      "album": {
+        "name": "Cubierta",
+        "url": "https://open.spotify.com/album/6702AywKlhGRzUHQgLrKFw"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        },
+        {
+          "name": "Airitto",
+          "url": "https://open.spotify.com/artist/0zRlVT95JvvlpMR5ZDsAyO"
+        },
+        {
+          "name": "Giorgio Dala",
+          "url": "https://open.spotify.com/artist/2fIdQyZQ2BzF90G4zjSqUD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Cubierta",
+      "url": "https://open.spotify.com/track/1mBHBMWxQsS0D2C5tQsHkd"
     },
     {
       "album": {
@@ -2662,7 +2748,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
@@ -5074,7 +5160,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 158387,
       "name": "No Sleep (No Me Dejan Dormir)",
       "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
@@ -6004,7 +6090,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154869,
       "name": "rosa blanca",
       "url": "https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov"
@@ -6106,7 +6192,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
@@ -6154,6 +6240,28 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "album": {
+        "name": "Secreto de Amor (La Noche)",
+        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271707,
+      "name": "Secreto de Amor - La Noche",
+      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
     },
     {
       "album": {
@@ -6264,7 +6372,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 199687,
       "name": "Sin Nada",
       "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
@@ -6316,7 +6424,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147601,
       "name": "Solo Se Vive Una Vez",
       "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
@@ -6605,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "Te Qere EP",
+        "url": "https://open.spotify.com/album/6gU5f1tU6g0LZrdnNOc7GC"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Te Qere",
+      "url": "https://open.spotify.com/track/1QPLS8VGpikmvzUYacTZ9r"
+    },
+    {
+      "album": {
         "name": "Te Recorde",
         "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },
@@ -6708,6 +6834,24 @@
       "duration_ms": 332307,
       "name": "Tikitro",
       "url": "https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW"
+    },
+    {
+      "album": {
+        "name": "OBRIGADO",
+        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Toca Me Ft. Michelle Marrero",
+      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
     },
     {
       "album": {

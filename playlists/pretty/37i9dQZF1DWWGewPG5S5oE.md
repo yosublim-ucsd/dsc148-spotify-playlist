@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Piano Shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,768 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,811 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 37 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
 | 38 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 39 | [TONIGHT'S SPECIAL](https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4) | 6:18 |
-| 40 | [言葉の庭](https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [言葉の庭](https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD) | 2:31 |
+| 40 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 |
 | 41 | [All in your palms](https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [All in your palms](https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW) | 4:04 |
-| 42 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 |
+| 42 | [言葉の庭](https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [言葉の庭](https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD) | 2:31 |
 | 43 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 |
 | 44 | [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 |
 | 45 | [Dragonwa Noboru \- Live at Tokyo Opera City Concert Hall / 2024](https://open.spotify.com/track/63RFMDC0GwV64toJCsz0ld) | [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Step Into Paradise \-LIVE IN TOKYO\-](https://open.spotify.com/album/648R59fQPldVJe9v4mQ2aM) | 6:07 |
 | 46 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
 | 47 | [Deep Inside](https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Deep Inside](https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR) | 4:00 |
-| 48 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
-| 49 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
-| 50 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
+| 48 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
+| 49 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
+| 50 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
 
 Snapshot ID: `Z7fVEgAAAABWVDTXZpn7QgSTWmeHlTCE`

@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 94435,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/0db4egBurOXPCBi9X8dKNB"
@@ -4252,6 +4252,24 @@
       "duration_ms": 153882,
       "name": "BLOW UP",
       "url": "https://open.spotify.com/track/7CDH96fjwqsXE8rzeE10Fc"
+    },
+    {
+      "album": {
+        "name": "BLRRD BLRRD",
+        "url": "https://open.spotify.com/album/0J4O9Xd4lcxBZC2nEvj9Wh"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139024,
+      "name": "BLRRD BLRRD",
+      "url": "https://open.spotify.com/track/1myckSZeHzEeYqRHcrVgHm"
     },
     {
       "album": {
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 99047,
       "name": "Cheesecake",
       "url": "https://open.spotify.com/track/0qfmKEHGRhMN2C3kQvGTlD"
@@ -5858,7 +5876,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 125610,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/6fqzZqYPeKPtzrl6Fp1WT4"
@@ -5916,7 +5934,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 168387,
       "name": "Chicken Remix (feat. Real Boston Richey)",
       "url": "https://open.spotify.com/track/61EQ0QPdM5w8Bro3BJ2uDt"
@@ -6529,6 +6547,28 @@
     },
     {
       "album": {
+        "name": "PABLO",
+        "url": "https://open.spotify.com/album/5iI0srgIaQtW9YqqkOd6lh"
+      },
+      "artists": [
+        {
+          "name": "Cartel Bo",
+          "url": "https://open.spotify.com/artist/2gHDPVwwW2YrL4rLGlAj87"
+        },
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125842,
+      "name": "Craig and DooDoo (feat. Trap Dickey)",
+      "url": "https://open.spotify.com/track/1bddOKQWCXheB7c1xIl9Go"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4EuLfyccnCy7H0sF6pG6M7"
       },
@@ -6656,6 +6696,24 @@
       "duration_ms": 169811,
       "name": "Crown Me",
       "url": "https://open.spotify.com/track/5Z7PKPhCTAmLg8xhqPomZO"
+    },
+    {
+      "album": {
+        "name": "Crucifix",
+        "url": "https://open.spotify.com/album/1oX9J6uh6BV8KOsm4CvP1t"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166342,
+      "name": "Crucifix",
+      "url": "https://open.spotify.com/track/4CwSp9ZEXxO5ZXZLjRYtSF"
     },
     {
       "album": {
@@ -7206,7 +7264,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 146320,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX"
@@ -7997,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Doot Doot (6 7)",
+        "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7)",
+      "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
+    },
+    {
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -8370,7 +8446,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 138016,
       "name": "DUCKIN'",
       "url": "https://open.spotify.com/track/3RDm9iDnagNrWIoimEephO"
@@ -10615,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161572,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/1YJK6i4JxMH297TpcKfRI0"
+    },
+    {
+      "album": {
         "name": "Gangsta Art",
         "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
       },
@@ -11272,6 +11366,24 @@
       "duration_ms": 118889,
       "name": "Glitches (feat. G Herbo)",
       "url": "https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO"
+    },
+    {
+      "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126325,
+      "name": "Glitchin",
+      "url": "https://open.spotify.com/track/4Mmlk9IIsLFgKPTsWRvLu9"
     },
     {
       "album": {
@@ -12688,7 +12800,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 153031,
       "name": "Head Taps",
       "url": "https://open.spotify.com/track/20Wrmjpfo3CWld3mOhVzhA"
@@ -14358,7 +14470,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177230,
       "name": "I Was Cappin",
       "url": "https://open.spotify.com/track/1tF9GjN3XPju8uHq4hhXi5"
@@ -14955,6 +15067,24 @@
     },
     {
       "album": {
+        "name": "My Evil Thoughts",
+        "url": "https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139416,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101"
+    },
+    {
+      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er"
       },
@@ -15058,7 +15188,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 84815,
       "name": "It Aint Work Yet",
       "url": "https://open.spotify.com/track/5uKKaoQFiY2Vubpegdqjqq"
@@ -15182,6 +15312,24 @@
       "duration_ms": 129060,
       "name": "I\u2019m Him",
       "url": "https://open.spotify.com/track/7rl19AU11goQPV6bOD14Lt"
+    },
+    {
+      "album": {
+        "name": "The Purple M&M 2",
+        "url": "https://open.spotify.com/album/1Dyhf2sffhUOYe2dz1NGhu"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162220,
+      "name": "I\u2019m Knowin",
+      "url": "https://open.spotify.com/track/6V6eESLPmeixcxcYX3w8ew"
     },
     {
       "album": {
@@ -17420,7 +17568,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 152234,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2BzH6DpwCKCmdyYNc3mXq1"
@@ -19034,7 +19182,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147851,
       "name": "Money Showers",
       "url": "https://open.spotify.com/track/5Hg7tK6LmFOdkgJyPMehV5"
@@ -19514,6 +19662,24 @@
       "duration_ms": 201025,
       "name": "Mtv Traps",
       "url": "https://open.spotify.com/track/2pGq43GlL6XqHIAck7uXh7"
+    },
+    {
+      "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/0nFbj1peFRKPFy3gbem4mV"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Mud Baby",
+      "url": "https://open.spotify.com/track/2yaAYGFWsGP0IIFlTk14BD"
     },
     {
       "album": {
@@ -22476,7 +22642,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180000,
       "name": "P RUN",
       "url": "https://open.spotify.com/track/4E6A9hhYyHRG6FBDmlpWTq"
@@ -24267,6 +24433,28 @@
     },
     {
       "album": {
+        "name": "Rain Snow",
+        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191598,
+      "name": "Rain Snow",
+      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+    },
+    {
+      "album": {
         "name": "Tornado Warning 2",
         "url": "https://open.spotify.com/album/30qwGkHRr5NXDV1LNJdcQe"
       },
@@ -24798,7 +24986,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155230,
       "name": "Red Lights (feat. Hunxho)",
       "url": "https://open.spotify.com/track/2aSBDs4MWgDatdsCH5ZTyJ"
@@ -27821,6 +28009,28 @@
     },
     {
       "album": {
+        "name": "Smackers",
+        "url": "https://open.spotify.com/album/3opLhNrBFB7yUN8SsTLiPq"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "TEC",
+          "url": "https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165022,
+      "name": "Smackers",
+      "url": "https://open.spotify.com/track/2PDMK0p3rhVfnywMpXr0ML"
+    },
+    {
+      "album": {
         "name": "Youngest In Charge",
         "url": "https://open.spotify.com/album/6NDswpknmIfgeWySwkmo6u"
       },
@@ -30297,6 +30507,24 @@
     },
     {
       "album": {
+        "name": "The Biggest G",
+        "url": "https://open.spotify.com/album/5Y38W6JGNBgUfpTpMgQC8c"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "The Biggest G",
+      "url": "https://open.spotify.com/track/1AgxScwu5I2MDVshvPX5cY"
+    },
+    {
+      "album": {
         "name": "The Biggest Pt. 2",
         "url": "https://open.spotify.com/album/3eUutraxnRY36Wnmp61feO"
       },
@@ -31232,7 +31460,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182857,
       "name": "Together",
       "url": "https://open.spotify.com/track/0Bkqcc5TesMaeXybJw09Bv"
@@ -31820,7 +32048,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 127939,
       "name": "Tuck Your Chain",
       "url": "https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p"
@@ -31922,6 +32150,28 @@
       "duration_ms": 230835,
       "name": "Turn Yo Clic Up (feat. Future)",
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
+    },
+    {
+      "album": {
+        "name": "Turnt In Real Life (feat. Rio Da Yung OG)",
+        "url": "https://open.spotify.com/album/22r5doqdqJq3TIPNRvVb7A"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150550,
+      "name": "Turnt In Real Life (feat. Rio Da Yung OG)",
+      "url": "https://open.spotify.com/track/1FpdYBZ5VWMWd1qPkBFQbc"
     },
     {
       "album": {
@@ -35034,6 +35284,24 @@
       "duration_ms": 120874,
       "name": "ZOMBIE LAND",
       "url": "https://open.spotify.com/track/6vXDqGc6QJT7vbOieUpQqf"
+    },
+    {
+      "album": {
+        "name": "Zoo Life",
+        "url": "https://open.spotify.com/album/1YwhdqhLE8PlMq8Dalyn8x"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188645,
+      "name": "Zoo Life",
+      "url": "https://open.spotify.com/track/26jWu6ccHlmi3LA3KdGz3j"
     },
     {
       "album": {

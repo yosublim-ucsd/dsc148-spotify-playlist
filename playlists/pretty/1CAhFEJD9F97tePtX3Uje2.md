@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 337 likes - 243 songs - 14 hr 12 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 337 likes - 244 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,5 +251,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 241 | [Hotline Miami](https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07) | [LORDEHILL](https://open.spotify.com/artist/5yISVi5vctUp9kcCSsvccs) | [Redemption](https://open.spotify.com/album/0zqQKRQIVWsPqCF4C3s5aZ) | 3:12 |
 | 242 | [strange places](https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF) | [EMGX](https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W) | [strange places](https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf) | 2:16 |
 | 243 | [Six Speed](https://open.spotify.com/track/2OwTE82zjaKvfof9MCMj1S) | [MIRAJ](https://open.spotify.com/artist/46vHnBJYdPDQDkSjegluG4) | [Six Speed](https://open.spotify.com/album/6oKGc5saiJohI9J4v8HfK0) | 2:12 |
+| 244 | [Come Back Club](https://open.spotify.com/track/5wAzDSwXLN3tusPndmyDcE) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Come Back Club](https://open.spotify.com/album/4N2dQMTWn8aJOTEcmNQwnI) | 2:59 |
 
-Snapshot ID: `AAABAzUlze7DyZ9UfcFWY7Ss9tPKbno7`
+Snapshot ID: `AAABBD4FX5HaAqnqBZYhzV4WbWmv6aKZ`

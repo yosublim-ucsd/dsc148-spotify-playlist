@@ -4,7 +4,7 @@
 
 > Ny musikk 🎵
 
-4,431 songs - 9 day 13 hr 22 min
+4,434 songs - 9 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [Expectations](https://open.spotify.com/track/5DMRqUFiuV5CLRK4B9p7Sn) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Expectations](https://open.spotify.com/album/369Mk6u4O6PMo13VaLYH6B) | 2:45 | 2024-10-31 | 2024-11-08 |
 | [Expiration Date](https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Expiration Date](https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK) | 2:25 | 2024-11-28 | 2024-12-06 |
 | [Expired](https://open.spotify.com/track/4quQsfygttrbZIW3FyV2h7) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Rue Melo](https://open.spotify.com/artist/7mXgLOfqbhy5Y2HKHhsGxc) | [Expired](https://open.spotify.com/album/3GPXrI6jUD2ttVDBtoT0pN) | 2:25 | 2024-08-29 | 2024-09-06 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-20 |  |
 | [Extraordinary](https://open.spotify.com/track/7qXdf7biLrQrWzXipS30Vb) | [MaVe](https://open.spotify.com/artist/1Jdl2CQ7mjVPPcTjkdpWrn) | [Extraordinary](https://open.spotify.com/album/0Pr7OkKKuKBzbOjUsJYJlF) | 3:01 | 2024-06-13 | 2024-06-21 |
 | [EYES ON ME](https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [EYES ON ME](https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx) | 3:43 | 2024-11-14 | 2024-11-22 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2024-05-03 |
@@ -2497,6 +2498,7 @@
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-22 | 2024-11-29 |
 | [Luv 4 Granted](https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Luv 4 Granted](https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n) | 3:32 | 2024-11-28 | 2024-12-06 |
 | [Luv Dub](https://open.spotify.com/track/5x676hawUn9NfPpTMukjxr) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Luv Dub](https://open.spotify.com/album/68AXvmwPpTrB8rwsDqgQGg) | 3:05 | 2025-01-02 | 2025-01-10 |
+| [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-20 |  |
 | [Lyckligare](https://open.spotify.com/track/2SDbJoXltdMXhbNJV6DLmj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Lyckligare](https://open.spotify.com/album/76GeIVJrmA70LssidhFh0W) | 2:59 | 2024-08-29 | 2024-09-06 |
 | [Lyden av Rauma](https://open.spotify.com/track/5P7xdQceDO86pABFuNxitQ) | [Black Debbath](https://open.spotify.com/artist/3x63vETIzcWrlzDerW3Tbl) | [Bortkastet hardrock vol\. 1](https://open.spotify.com/album/5o3az7fljKbzAhgfI2rJPP) | 2:58 | 2024-09-12 | 2024-09-20 |
 | [Lykkelig i Stille Regn](https://open.spotify.com/track/7vsBl52oXyMDCHcVSmGfnD) | [Camilla North](https://open.spotify.com/artist/4klt36nTCNeC7K7ZkRwioz), [Mike Parda](https://open.spotify.com/artist/2PxbQ08kkKUlrLR1JuRg9s) | [Lykkelig i Stille Regn](https://open.spotify.com/album/2wn6D3jScARoLUckif83CH) | 3:00 | 2024-09-26 | 2024-10-04 |
@@ -3160,6 +3162,7 @@
 | [Raggarnissen](https://open.spotify.com/track/0OhDvsXxbZaUaPzSqLNHJq) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Raggarnissen](https://open.spotify.com/album/2AnRsXjPB3onAgrFIPfgrK) | 2:09 | 2024-11-21 | 2024-11-29 |
 | [Raggen måste gå](https://open.spotify.com/track/1TB4J3DxgPUQxdOmsUrzJn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Raggen måste gå](https://open.spotify.com/album/0U6p0tA6lGiQG3cWEhGufV) | 1:53 | 2025-01-30 | 2025-02-07 |
 | [RAGNAROK](https://open.spotify.com/track/5XRvRk66VSQVttScePTS7q) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [RAGNAROK](https://open.spotify.com/album/7roamXAUwRLnQomEK8mWqA) | 3:18 | 2024-08-01 | 2024-08-09 |
+| [Rain Snow](https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rain Snow](https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t) | 3:11 | 2025-02-20 |  |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 | 2024-05-24 |
 | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75) | 2:51 | 2024-09-12 | 2024-09-20 |
 | [Rapstar](https://open.spotify.com/track/2nAuZA07udvTg8GL9Txl12) | [SAKSA](https://open.spotify.com/artist/2XZynN5htnB5zvAda7msVY) | [Rapstar](https://open.spotify.com/album/08YrwvXXbjLr9jtfC8JFuz) | 2:23 | 2024-08-09 | 2024-08-16 |

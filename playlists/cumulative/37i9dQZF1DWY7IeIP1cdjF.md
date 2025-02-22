@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from  FloyyMenor & Gaby, Music Anitta, Bad Bunny, Neton Vega, and more\. 🔥🍑
+> Reggaeton hits from Slayter & Cris Mj, Bad Bunny, Anitta, FloyyMenor and more\. 🔥🍑
 
-580 songs - 1 day 8 hr 6 min
+581 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-20 | 2022-06-25 |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2021-12-24 | 2022-01-15 |
 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 | 2022-02-10 | 2022-03-25 |
-| [Cazador](https://open.spotify.com/track/1PIlgaskMhJAPo28IAhxAH) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Cazador](https://open.spotify.com/album/2uDrFOrk7hGNqchqNSWVP8) | 3:38 | 2024-11-08 |  |
+| [Cazador](https://open.spotify.com/track/1PIlgaskMhJAPo28IAhxAH) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Cazador](https://open.spotify.com/album/2uDrFOrk7hGNqchqNSWVP8) | 3:38 | 2024-11-08 | 2025-02-22 |
 | [CELOSA](https://open.spotify.com/track/54SxKnMV1na7LvI5xVoA5e) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CELOSA](https://open.spotify.com/album/3hxPoGmqQO9iVxthYnIhY0) | 3:15 | 2024-08-09 | 2024-10-26 |
 | [Chichi Pana](https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chichi Pana](https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK) | 3:01 | 2023-11-10 | 2023-12-09 |
 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 | 2024-11-08 | 2025-01-06 |
@@ -135,6 +135,7 @@
 | [DEJA VU](https://open.spotify.com/track/2BfkUFn2EbEKYOMkm90HuP) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DEJA VU](https://open.spotify.com/album/2yLpZqlg8VRBHbcDGIeejI) | 2:58 | 2021-12-24 | 2022-02-26 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-15 |  |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-02-18 | 2022-07-30 |
+| [DESEO](https://open.spotify.com/track/6hpbRPCxfUG5oA0o2p39Ez) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [DESEO](https://open.spotify.com/album/2BgyYC7cq0bksO5SY7xETz) | 2:21 | 2025-02-21 |  |
 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2021-12-24 | 2024-04-27 |
 | [Después De La 1](https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg) | [MJ](https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp) | 2:57 | 2024-09-13 |  |
 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 | 2023-03-24 | 2023-07-29 |

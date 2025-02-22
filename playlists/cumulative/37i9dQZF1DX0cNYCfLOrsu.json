@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
+  "description": "The best in Dancehall for the gyaldem. Cover: Shenseea",
   "name": "Dancehall Queen",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 164081,
       "name": "A Nuh My Style",
       "url": "https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155294,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
@@ -2747,6 +2747,28 @@
     },
     {
       "album": {
+        "name": "Puni Police",
+        "url": "https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164764,
+      "name": "Puni Police",
+      "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"
+    },
+    {
+      "album": {
         "name": "The Red Room Intro (Yard Gyal Inna Britain)",
         "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
       },
@@ -3346,7 +3368,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 193548,
       "name": "The Sidechick Song",
       "url": "https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo"

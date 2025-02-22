@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 55134,
+  "num_followers": 55173,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
+        }
+      ],
+      "duration_ms": 306093,
+      "name": "Meeting in My Bedroom",
+      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 380533,
       "name": "All The Things (Your Man Won't Do)",
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
-        }
-      ],
-      "duration_ms": 306093,
-      "name": "Meeting in My Bedroom",
-      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
     },
     {
       "added_at": "2022-10-02 01:51:23",

@@ -2,9 +2,9 @@
 
 ### [dreamy ](https://open.spotify.com/playlist/37i9dQZF1DXecqWg9vXl0U)
 
-> como en una nube\. Bedroom pop vibes featuring Vesica Piscis ✨
+> como en una nube\. Bedroom pop vibes featuring Ruth de las Plantas ✨
 
-355 songs - 19 hr 17 min
+358 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [420](https://open.spotify.com/track/4mafHOwCidj2OK0Nhci8k8) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [420](https://open.spotify.com/album/3hOdl05ZN3ewJ0LJkvzcAb) | 2:54 | 2022-03-25 | 2022-04-19 |
 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 | 2023-07-07 |  |
 | [A Mí](https://open.spotify.com/track/5WToapmuQ28U1LOmIt6Tdk) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [A Mí](https://open.spotify.com/album/1W4kplttrBN8pDdgv1BUz5) | 2:49 | 2022-10-31 | 2023-02-18 |
-| [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 | 2022-09-23 |  |
+| [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 | 2022-09-23 | 2025-02-22 |
 | [A Veces](https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54) | [Rayo Ultravioleta](https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB), [Velero Norte](https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI) | [A Veces](https://open.spotify.com/album/5qQHr5uOjIzDqw9WOwkXFr) | 2:13 | 2022-10-07 | 2022-11-12 |
 | [A veces caigo](https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s) | [toorai](https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd) | [A veces caigo](https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd) | 2:25 | 2023-03-17 | 2023-04-22 |
 | [Abismo](https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Abismo](https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1) | 3:39 | 2024-04-19 |  |
@@ -56,6 +56,7 @@
 | [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2022-03-25 | 2022-04-23 |
 | [Cabalgando por la Realidad](https://open.spotify.com/track/5bTbYCjh9DqA7mdA1KRw2B) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Cabalgando por la Realidad](https://open.spotify.com/album/2EbC8M83TMomiMoN5wczcd) | 4:55 | 2022-03-25 | 2022-07-26 |
 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 | 2022-04-08 | 2022-12-10 |
+| [California](https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv) | [Nunca Fuimos Listos](https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T) | [California](https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I) | 3:51 | 2025-02-21 |  |
 | [Call Katie](https://open.spotify.com/track/7mVJ0pE8JrD6uvuRdN4Re4) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:01 | 2022-03-25 | 2022-07-25 |
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-22 | 2022-07-11 |
 | [Carbon Copy](https://open.spotify.com/track/5jlXl2mA8ovplMEVRfaoMz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:24 | 2022-05-20 | 2022-07-28 |
@@ -185,7 +186,7 @@
 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 | 2024-05-10 |  |
 | [Lágrimas En Ti](https://open.spotify.com/track/2YF57m1rHbYffFdiaCw7rM) | [San Charbel](https://open.spotify.com/artist/0rJoQxx72uqZsnNZAiaJUx) | [Lágrimas En Ti](https://open.spotify.com/album/0YtEoVStzQw32uPbc2r1TX) | 1:52 | 2023-08-25 | 2024-05-11 |
 | [Ma\-Pa](https://open.spotify.com/track/1qpbCxo2Rr8mYYhEcu8bKK) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Ma\-Pa](https://open.spotify.com/album/0KDRK3l2l0KswomYYA8Fpr) | 4:28 | 2022-03-25 | 2022-05-17 |
-| [MADRE AGRIPINA](https://open.spotify.com/track/3qRcv8izICglglqtpCcaiI) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [MADRE AGRIPINA](https://open.spotify.com/album/4tNWrkyvIUOr7o9Nag5pLX) | 3:17 | 2024-10-11 |  |
+| [MADRE AGRIPINA](https://open.spotify.com/track/3qRcv8izICglglqtpCcaiI) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [MADRE AGRIPINA](https://open.spotify.com/album/4tNWrkyvIUOr7o9Nag5pLX) | 3:17 | 2024-10-11 | 2025-02-22 |
 | [Mala Suerte](https://open.spotify.com/track/33wyUuk8NNvGo9PMz2ofJz) | [Mutto](https://open.spotify.com/artist/5DmNZQTetpTNebWmB4POcz) | [El Mundo Nunca Va A Estar Bien](https://open.spotify.com/album/3rB0FbiWI5iuGuPKVEsH9U) | 3:52 | 2022-10-31 | 2022-12-03 |
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-21 | 2025-02-01 |
 | [Mandala](https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Jardín de las Almas](https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT) | 3:44 | 2023-09-25 |  |
@@ -221,7 +222,7 @@
 | [Natural](https://open.spotify.com/track/5kXAfm5Ua6ZbF5umkLVNsy) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q), [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [Natural](https://open.spotify.com/album/7J189Nq9zcZmkkb0A8BqW7) | 2:59 | 2025-02-07 |  |
 | [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 | 2022-05-20 | 2022-09-12 |
 | [Never Felt This Before](https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 1:50 | 2022-09-02 | 2023-05-06 |
-| [nevermind](https://open.spotify.com/track/5rE0juKMtowt2672Wen8L8) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [nevermind](https://open.spotify.com/album/7cyTbNsT1xANsUaIOCKRvF) | 3:00 | 2024-07-05 |  |
+| [nevermind](https://open.spotify.com/track/5rE0juKMtowt2672Wen8L8) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [nevermind](https://open.spotify.com/album/7cyTbNsT1xANsUaIOCKRvF) | 3:00 | 2024-07-05 | 2025-02-22 |
 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 | 2022-08-26 | 2022-12-31 |
 | [No drama](https://open.spotify.com/track/7GSO4ELAP08oZs3VtIJPZa) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [No drama](https://open.spotify.com/album/0YHmhz8znqPuHULSAzAS9f) | 3:30 | 2022-12-02 | 2023-06-03 |
 | [no quiero estar aquí](https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [no quiero estar aquí](https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG) | 3:05 | 2023-04-21 | 2025-02-01 |
@@ -256,6 +257,7 @@
 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 | 2024-04-27 |
 | [Perdernos de Vista](https://open.spotify.com/track/4NSRJDeHgCxpicjoBbUuMK) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Perdernos de Vista](https://open.spotify.com/album/0wOlQ0jWhdrvoXAH4CWBDi) | 2:55 | 2022-03-25 | 2022-07-29 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2022-03-25 | 2022-10-08 |
+| [Pero no](https://open.spotify.com/track/51ghxQMEuQgIhagrdXUh6x) | [Lilow<3](https://open.spotify.com/artist/0ugHroQ7me5LVdGmTj8rkx) | [Pero no](https://open.spotify.com/album/3MK44Ro7jwB6g3vZmsEkv1) | 2:20 | 2025-02-21 |  |
 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 | 2022-04-08 | 2023-02-25 |
 | [pizza](https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pizza](https://open.spotify.com/album/2i7oobLiBdNj4w4jwZKjh0) | 2:47 | 2022-03-25 | 2022-09-03 |
 | [Poder](https://open.spotify.com/track/5Et9S2tHzF6OQNVR3QyqMk) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f), [TÉPÚRPURA](https://open.spotify.com/artist/4dYCpuND1Me98DuW9U0gjl) | [Poder](https://open.spotify.com/album/0iyNfA2HmU9EmdXay16qvn) | 3:41 | 2023-04-07 | 2023-05-30 |
@@ -343,6 +345,7 @@
 | [VHS](https://open.spotify.com/track/52ZfbvmXKtfqGI7QsvGI5f) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:56 | 2023-09-26 | 2024-01-25 |
 | [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 | 2023-05-05 | 2024-01-20 |
 | [vives en mi cabeza](https://open.spotify.com/track/4hcjkvNqmihEbPVlji1PfE) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS) | [vives en mi cabeza](https://open.spotify.com/album/1ATwRmNspeU6ek37qJpVKh) | 3:44 | 2023-05-26 | 2023-06-17 |
+| [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 | 2025-02-21 |  |
 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-08-26 | 2024-07-06 |
 | [volvernos a ver](https://open.spotify.com/track/1Uq8lNL7I3y6WAuc564LBq) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [volvernos a ver](https://open.spotify.com/album/3JaWSP8b5ekmSYum2cA5gJ) | 2:38 | 2024-10-11 |  |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-04-18 | 2022-10-01 |

@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Selena Faider.
 
-520 songs - 1 day 8 hr 57 min
+521 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Femme](https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:22 | 2024-03-01 | 2024-05-03 |
 | [Fervor](https://open.spotify.com/track/6qawKh4ooiogvTTDo76Iz0) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Spectral Reverie](https://open.spotify.com/album/3oVYO1VRaPbA7qyb4WzI3N) | 5:58 | 2024-06-28 | 2024-10-01 |
 | [Find Our Way](https://open.spotify.com/track/0SyrQWyIGUNZIPDNn8WK3L) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8.2](https://open.spotify.com/album/6DxvIAN0KdiRmpKjtXvZQy) | 4:31 | 2024-03-01 | 2024-03-30 |
-| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-16 |  |
+| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-16 | 2025-02-22 |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-03-01 | 2023-11-05 |
 | [Find Your Way Home](https://open.spotify.com/track/1yYoSZ9e1zE2zZlYEytggU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 8:17 | 2023-03-07 | 2024-03-02 |
 | [Fine Day](https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fine Day](https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38) | 3:23 | 2024-03-01 | 2024-06-01 |
@@ -258,6 +258,7 @@
 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 | 2024-11-22 |  |
 | [IDK](https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [IDK](https://open.spotify.com/album/5FFOPCk5z8xNWwA2MWboEA) | 3:18 | 2024-08-16 | 2024-11-09 |
 | [If I Only Knew](https://open.spotify.com/track/0Pvi59bJkEF5oH2Nqyov4Y) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [It's So Over](https://open.spotify.com/album/0DeOF0X3WWtlY7eprCusdB) | 3:18 | 2025-01-24 |  |
+| [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 | 2025-02-21 |  |
 | [In a Minute](https://open.spotify.com/track/3ClcSCGqvkUOJCaAf8YNOs) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy) | [In a Minute](https://open.spotify.com/album/4U528FWMuBDHQhUIZPjo9G) | 2:51 | 2024-03-29 | 2024-06-08 |
 | [In My Head \- Edit](https://open.spotify.com/track/4P7P6cIXe2zNdsPZ9WhJjt) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [In My Head](https://open.spotify.com/album/2qNHsIcEYpSE0qFWVEKK9k) | 3:22 | 2025-01-17 |  |
 | [In The Night](https://open.spotify.com/track/3Xz2ZcQlQRA7rqbj7tYsL3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sad Girl](https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S) | 3:44 | 2024-09-30 | 2024-11-23 |

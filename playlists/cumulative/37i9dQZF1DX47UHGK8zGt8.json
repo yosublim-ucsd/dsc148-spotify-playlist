@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 129360,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/1aPcMCHhZKe7Q01We5t95u"
@@ -3340,6 +3340,24 @@
       "duration_ms": 133875,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5zLZhKevapgvot70CB1Gvk"
+    },
+    {
+      "album": {
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188203,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
       "album": {

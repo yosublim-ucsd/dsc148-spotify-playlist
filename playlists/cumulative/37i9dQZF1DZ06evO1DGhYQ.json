@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "LOVE IS KILLING ME",
+        "url": "https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209433,
+      "name": "LOVE IS KILLING ME",
+      "url": "https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj"
+    },
+    {
+      "album": {
         "name": "Shadowdancer",
         "url": "https://open.spotify.com/album/0HIabbhlrC7YyxOGzgVLTP"
       },

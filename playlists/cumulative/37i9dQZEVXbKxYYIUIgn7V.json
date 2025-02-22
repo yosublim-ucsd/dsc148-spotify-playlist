@@ -6067,6 +6067,24 @@
     },
     {
       "album": {
+        "name": "denkst du an mich?",
+        "url": "https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197769,
+      "name": "denkst du an mich?",
+      "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
+    },
+    {
+      "album": {
         "name": "Der allerletzte Tanz",
         "url": "https://open.spotify.com/album/042UMegvNtDX1nP7tmNw0M"
       },
@@ -12504,7 +12522,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 99844,
       "name": "Im Doing Fine",
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
@@ -19029,6 +19047,28 @@
     },
     {
       "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/28a8wlNs1yGFXoEJT3JwCg"
+      },
+      "artists": [
+        {
+          "name": "Tamash",
+          "url": "https://open.spotify.com/artist/2FeLfiGktGsFKdg9toHB9s"
+        },
+        {
+          "name": "Dino Mileta",
+          "url": "https://open.spotify.com/artist/2wxCWN0Nc1mCCC9PoKYAvB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170990,
+      "name": "Out of the Dark - Hypertechno Edit",
+      "url": "https://open.spotify.com/track/4JcnSMljYTYsMwTunCYPc1"
+    },
+    {
+      "album": {
         "name": "Outfit Check",
         "url": "https://open.spotify.com/album/7tSU9aKCTXrPUneRbk75tq"
       },
@@ -19850,7 +19890,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -26608,7 +26648,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
@@ -26880,7 +26920,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 143111,
       "name": "Walking Away (Infinity)",
       "url": "https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I"

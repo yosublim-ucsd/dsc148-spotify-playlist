@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Timmy Trumpet
 
-3,159 songs - 6 day 3 hr 47 min
+3,160 songs - 6 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3110,6 +3110,7 @@
 | [Worlds Apart](https://open.spotify.com/track/6M3D3YpYaLdEGWembNcEzj) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Worlds Apart](https://open.spotify.com/album/4bdgv0ijO9qBA2Ul4YhApJ) | 2:58 | 2024-02-22 | 2024-03-01 |
 | [Would I Lie To You](https://open.spotify.com/track/2TzmzknUmcesfodpvJ28KT) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o) | [Would I Lie To You](https://open.spotify.com/album/7F8t51dGpDj5QaGoqWXMRU) | 2:02 | 2024-03-28 | 2024-04-26 |
 | [Would You Feel Better](https://open.spotify.com/track/7BcOzAgrHVpntZVU3M58Ef) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Would You Feel Better](https://open.spotify.com/album/5xu74UQ4uHIDPTuLbNSzJ9) | 4:41 | 2025-02-06 | 2025-02-21 |
+| [Wrap Yourself Around Me](https://open.spotify.com/track/6kyNCYXDGXoDAeofcmVtgw) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/2Onbre2lWTycL3hlZXp3ZR) | 3:15 | 2025-02-21 |  |
 | [Wrecking Ball](https://open.spotify.com/track/5V54aYc3OkeNygXmRiPuSS) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Wrecking Ball](https://open.spotify.com/album/1yWsJQeD3B4KTTDm74vDKj) | 2:33 | 2023-08-31 | 2023-09-08 |
 | [Wrecking Ball](https://open.spotify.com/track/00EcRsgLbXEyCz1EKaQqxe) | [ėmma](https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Wrecking Ball](https://open.spotify.com/album/5tIPnek2278vDXVmUdcIbh) | 2:15 | 2025-01-09 | 2025-01-17 |
 | [Wrong](https://open.spotify.com/track/4otuzKmUDIdVQrYBHWKubm) | [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Wrong](https://open.spotify.com/album/2OduFi86uh7XTtN4X3Jao5) | 2:18 | 2024-02-15 | 2024-02-23 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Maya Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,528 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,571 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
-| 2 | [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 |
-| 3 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |
-| 4 | [Taxi to the Moon](https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Laundry](https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV) | 2:11 |
+| 2 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |
+| 3 | [Taxi to the Moon](https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Laundry](https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV) | 2:11 |
+| 4 | [We Do It Together](https://open.spotify.com/track/4y17IJimZ69gyuZnJC0xyy) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Aequoreus](https://open.spotify.com/album/3cQeB6HJkmYpLQHM9nQlSp) | 3:49 |
 | 5 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
 | 6 | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/track/4U7WNGITP6pP6xahNsvzaI) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [TOGETHER \(With Devon Gilfillian\)](https://open.spotify.com/album/5ucp6xSvkJMNfwRT9Sc5Uh) | 3:27 |
 | 7 | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 |
 | 100 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 
-Snapshot ID: `Z67N4wAAAADi6thZXvv5JtWY9JNWEzGO`
+Snapshot ID: `Z7gIYAAAAADV/H0M6DOAOwdxSoj/cXuI`

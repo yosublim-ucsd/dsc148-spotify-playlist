@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 218048,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
@@ -2778,6 +2778,28 @@
       "duration_ms": 163404,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
+    },
+    {
+      "album": {
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
+      },
+      "artists": [
+        {
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
     },
     {
       "album": {

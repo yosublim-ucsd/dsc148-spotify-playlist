@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
-  "num_followers": 49147,
+  "num_followers": 49154,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "CADU",
           "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
         }
       ],
       "duration_ms": 131126,
@@ -355,26 +359,6 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "Finda",
-        "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Bandeira",
-          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
-        },
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Carro (feat. Dillaz)",
-      "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -391,6 +375,26 @@
       "duration_ms": 203082,
       "name": "Contra Probabilidades",
       "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
+        "name": "Finda",
+        "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Bandeira",
+          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
+        },
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Carro (feat. Dillaz)",
+      "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -851,18 +855,18 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -887,6 +891,22 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
         "name": "Quem \u00c9s Tu?",
         "url": "https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI"
       },
@@ -903,22 +923,6 @@
       "duration_ms": 160601,
       "name": "Quem \u00c9s Tu?",
       "url": "https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -1047,22 +1051,6 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
         "name": "P\u00e9 Descal\u00e7o",
         "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
       },
@@ -1119,6 +1107,22 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -1155,22 +1159,6 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "festa bem louca",
-        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "festa bem louca",
-      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
@@ -1187,18 +1175,18 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "festa bem louca",
+        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
         }
       ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
+      "duration_ms": 188333,
+      "name": "festa bem louca",
+      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -1215,6 +1203,22 @@
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -1275,6 +1279,42 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
         "name": "Ber\u00e7o de Ouro",
         "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
@@ -1311,42 +1351,6 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2025-02-21 00:00:22",
-      "album": {
         "name": "Salto Alto",
         "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
@@ -1379,38 +1383,34 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
+        "name": "Falei",
+        "url": "https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4"
       },
       "artists": [
         {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Kelson Most Wanted",
+          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
         },
         {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+          "name": "Dj Verigal",
+          "url": "https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO"
         },
         {
-          "name": "Kibow",
-          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
         },
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Yuran",
-          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+          "name": "Kastro Songz",
+          "url": "https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Priceless",
-      "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+      "duration_ms": 177073,
+      "name": "Falei",
+      "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
     }
   ],
   "unique_name": "Seda",

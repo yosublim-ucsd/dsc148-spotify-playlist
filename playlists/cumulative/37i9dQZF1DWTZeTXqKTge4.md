@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Raccoon
+> Le meilleur du hip\-hop québécois\. Photo: FouKi
 
-780 songs - 1 day 15 hr 49 min
+782 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Elle est bonne](https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:59 | 2025-01-24 |  |
 | [Emballer](https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/5vShKF0bNg1VzgeN62B8N9) | 2:12 | 2023-10-13 | 2023-10-28 |
 | [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 | 2023-10-15 |
+| [Encore](https://open.spotify.com/track/3oYKep8bmqWwIfZ7iszfCJ) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique \(Deluxe\)](https://open.spotify.com/album/1qc9g3w4JbQysmxcPpQH9O) | 2:14 | 2025-02-21 |  |
 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 | 2023-04-14 | 2023-05-13 |
 | [Ensemble](https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 4:37 | 2023-11-03 | 2023-11-13 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-12 |
@@ -427,7 +428,7 @@
 | [Liaison toxique](https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique](https://open.spotify.com/album/3udeCmESR4MZ4F3AxRZySv) | 2:56 | 2023-12-01 | 2024-07-13 |
 | [Liens de sang](https://open.spotify.com/track/31SWi3hoe6mC7hxQ4mK8eV) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [LA TEMPÊTE](https://open.spotify.com/album/1iqSyi183oO6BxB2XMjPgj) | 2:52 | 2024-01-26 | 2024-07-19 |
 | [Like That](https://open.spotify.com/track/1Kw5YOwgBijPXOsNazPGm7) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Like That](https://open.spotify.com/album/0ATe5aLX1LMZnavETQCtRw) | 2:50 | 2022-09-16 | 2022-12-10 |
-| [Locked up](https://open.spotify.com/track/08dFKPYV0QkzFoj45A9NnI) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Locked up](https://open.spotify.com/album/1opUtD58ydqprBjhlvc8NT) | 2:59 | 2024-11-01 |  |
+| [Locked up](https://open.spotify.com/track/08dFKPYV0QkzFoj45A9NnI) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Locked up](https://open.spotify.com/album/1opUtD58ydqprBjhlvc8NT) | 2:59 | 2024-11-01 | 2025-02-22 |
 | [Locked Up](https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Locked Up](https://open.spotify.com/album/5Q57aL7ma8akgKMCbBjkzD) | 2:35 | 2024-11-29 | 2025-01-25 |
 | [London en Maybach](https://open.spotify.com/track/6mOFltMTVmyPPM6tPb3FWK) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 3:00 | 2022-01-07 | 2022-02-05 |
 | [Look at me now](https://open.spotify.com/track/0ERZkZtxcQu9yhGb5L4Zom) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Look at me now](https://open.spotify.com/album/1d7MGEbQ8eJOiMi9xBXUWh) | 2:48 | 2025-01-17 |  |
@@ -719,7 +720,7 @@
 | [Tout le monde a raison](https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Lounaire](https://open.spotify.com/artist/6S5hi1MwIrqeZ1tHW5GL6F) | [Tout le monde a raison](https://open.spotify.com/album/5XjJEfwC3ybxsdqfNuB0o3) | 3:39 | 2022-05-13 | 2022-09-10 |
 | [Tout ou rien \- De l'autre côté](https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Tout ou rien \(De l'autre côté\)](https://open.spotify.com/album/6TMqENMy33MdWMGJ3ZgApt) | 3:12 | 2023-02-24 | 2023-04-29 |
 | [Toute La Night](https://open.spotify.com/track/2akJNXtqHPa2UCYt1k20LV) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Toute La Night](https://open.spotify.com/album/1bk4syGySEg4a2nqFM5YWc) | 2:20 | 2023-02-03 | 2023-03-11 |
-| [Tower](https://open.spotify.com/track/2mlvh35Ofx1hvzVmC52ghG) | [2Z](https://open.spotify.com/artist/7xIGXYdukawgOmDI5ihOnO), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Tower](https://open.spotify.com/album/09dfqN6URH2XjpszKLy8S4) | 2:20 | 2024-06-07 |  |
+| [Tower](https://open.spotify.com/track/2mlvh35Ofx1hvzVmC52ghG) | [2Z](https://open.spotify.com/artist/7xIGXYdukawgOmDI5ihOnO), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Tower](https://open.spotify.com/album/09dfqN6URH2XjpszKLy8S4) | 2:20 | 2024-06-07 | 2025-02-22 |
 | [Trainer tard](https://open.spotify.com/track/2kieEyGYWHYXSOwyowayyU) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Trainer tard](https://open.spotify.com/album/7qgF8fV0CugusfofBOZGOq) | 2:36 | 2022-09-30 | 2022-10-22 |
 | [Trap & Winnin](https://open.spotify.com/track/6mbnhgVJXbX1qHbqqXuBk7) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Trap & Winnin](https://open.spotify.com/album/4thUBlf9InqxV9EkZ01gBt) | 3:13 | 2022-11-11 | 2023-09-09 |
 | [Travaux](https://open.spotify.com/track/1WZyQFSaWCd6EiACYdzLQI) | [Les Fourmis](https://open.spotify.com/artist/6MU6nuCI2Sw7gDhcN0Kie1), [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Catboot](https://open.spotify.com/artist/5EL9jei655rwrEn9lDuc5i), [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG), [John Ouain](https://open.spotify.com/artist/29fYyLx59Ae8hpSldZyhYz), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [VOLUME : Jour](https://open.spotify.com/album/3nkdLNpKklJav9UQOpfOeO) | 3:58 | 2023-11-03 | 2023-11-13 |
@@ -773,6 +774,7 @@
 | [Ya Delali](https://open.spotify.com/track/7EuwFP60iXRlqc0GdTGKhy) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Ya Delali](https://open.spotify.com/album/45GG4H9863zgjD1NmqMhao) | 3:24 | 2022-02-11 | 2022-03-18 |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:30 | 2022-10-14 | 2023-02-18 |
 | [ZIP](https://open.spotify.com/track/7CB0hUjOnkftS5NSNh9bgc) | [Ayman Yts](https://open.spotify.com/artist/7kkkJdoH9067MYnWOKZJTN) | [ZIP](https://open.spotify.com/album/4v25ZE1qy4WQSrTrVl2s54) | 2:34 | 2023-12-22 | 2024-07-06 |
+| [Zombie](https://open.spotify.com/track/20ksbbNMgK3j0oXac3lJBj) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [jeunesept](https://open.spotify.com/artist/4hwTBvo8ykVqflub3cKVr9) | [Zombie](https://open.spotify.com/album/2LiiNK3Mz0P0wU8OGKeh2z) | 2:55 | 2025-02-21 |  |
 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 | 2024-09-20 |  |
 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 | 2023-05-27 |
 | [À contresens](https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [À contresens](https://open.spotify.com/album/1D7JpG3f024RutOzgJEPSh) | 2:35 | 2023-06-02 | 2023-06-17 |

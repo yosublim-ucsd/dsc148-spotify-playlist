@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hannah Cohen
 
-631 songs - 1 day 12 hr 44 min
+636 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-11-19 | 2022-03-26 |
 | [Edge Of The Dark](https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5rqAxGNdzM9wZeqWjKu2w6) | 4:20 | 2021-11-19 | 2022-02-28 |
 | [eight hours](https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [eight hours](https://open.spotify.com/album/6J6Dcgg1yNyqE8BjM78lg0) | 2:47 | 2021-11-19 | 2022-07-25 |
+| [EL DORADO](https://open.spotify.com/track/7d7G1yRRWVNy87Pf8wu4Q4) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:27 | 2025-02-21 |  |
 | [Election Night](https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Election Night](https://open.spotify.com/album/1CiLPhpIdbUsrJlf3SvCNe) | 3:30 | 2021-11-19 | 2022-02-21 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2023-01-06 |
 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2024-01-12 | 2025-02-08 |
@@ -383,6 +384,7 @@
 | [Moonlight](https://open.spotify.com/track/30GvcF5Wfe6alZGKm6hPp8) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [I Go](https://open.spotify.com/album/69FbpS7n7mAwdGpYAzGdiw) | 3:56 | 2021-11-19 | 2022-04-24 |
 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 | 2021-11-19 | 2024-05-18 |
 | [Movie Star](https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Movie Star](https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt) | 3:40 | 2023-04-28 | 2024-01-13 |
+| [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-02-21 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2022-03-25 | 2024-05-18 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-11-19 | 2022-03-26 |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-11-19 | 2024-05-18 |
@@ -432,6 +434,7 @@
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-11-19 | 2022-07-09 |
 | [Poison](https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [Poison](https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2) | 3:25 | 2025-02-07 |  |
 | [Porcelain](https://open.spotify.com/track/7dj3yeU3pzcmFnGXo8cLsi) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Porcelain](https://open.spotify.com/album/0L4li5hzdRBcrRyaa5FfGL) | 3:31 | 2024-11-22 | 2024-12-07 |
+| [Praying For Your Downfall](https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Praying For Your Downfall](https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK) | 3:05 | 2025-02-21 |  |
 | [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-13 | 2022-07-29 |
 | [Prime Years](https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [The Summer I Lost My Lover](https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK) | 2:43 | 2023-07-21 | 2023-08-26 |
 | [Provider](https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [View from the Bridge](https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC) | 3:05 | 2022-01-21 | 2022-04-19 |
@@ -482,6 +485,7 @@
 | [Sheets](https://open.spotify.com/track/5XrnVelufxFVFEFvuiuQMi) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Sheets](https://open.spotify.com/album/2nbxTiFjqe6n8UmgtdRZqY) | 3:49 | 2025-02-07 |  |
 | [Shivers](https://open.spotify.com/track/6WaQeuxPhHLGxsDhRairzc) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Shivers](https://open.spotify.com/album/3B9z9VAyRz9fAGi2ItNMRH) | 3:18 | 2025-02-07 |  |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-12-07 |
+| [Simp Song \- Better with Madi](https://open.spotify.com/track/6Hvs1hEvzykmci1pWIUZvJ) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Simp Song \(Better with Madi\)](https://open.spotify.com/album/4IkZIUXyfi31clHUENXqIp) | 3:06 | 2025-02-21 |  |
 | [Situation](https://open.spotify.com/track/3bpiz3jxPzSBZQ1qw5hLuf) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Situation](https://open.spotify.com/album/3q7nwxrkrt1qG6ttTtcY8a) | 3:30 | 2021-11-19 | 2022-05-20 |
 | [Skin](https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Skin](https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry) | 3:44 | 2024-01-26 | 2025-02-08 |
 | [Skin Deep](https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Skin Deep](https://open.spotify.com/album/2VRdIYT2tZ83PlMQbEPUdu) | 4:21 | 2021-11-19 | 2022-02-07 |
@@ -579,6 +583,7 @@
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 | 2024-07-10 |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-12 | 2023-02-12 |
 | [two different parties \- acoustic](https://open.spotify.com/track/3C47Z2rokmHtZvt6zNHsOz) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [two different parties \(acoustic\)](https://open.spotify.com/album/76sNyWFclmUHKyAImS47JL) | 3:46 | 2022-07-15 | 2022-07-27 |
+| [Undercover Cops \(with Lennon Stella\)](https://open.spotify.com/track/4wFVVLsVZA8IUJqdloM8wo) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Undercover Cops \(with Lennon Stella\)](https://open.spotify.com/album/3zxmY5QVkfZoccn8uXbWM6) | 3:37 | 2025-02-21 |  |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-23 | 2023-08-21 |
 | [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2024-04-12 | 2024-05-18 |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-07-21 | 2024-04-19 |

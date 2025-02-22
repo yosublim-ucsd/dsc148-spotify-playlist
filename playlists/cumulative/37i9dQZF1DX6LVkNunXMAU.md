@@ -2,9 +2,9 @@
 
 ### [folk & verano](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> indie folk latino de estación\. Foto: J18
+> indie folk latino de estación\. Foto: Paz Carrara y Raly Barrionuevo
 
-322 songs - 17 hr 35 min
+323 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Comerte la boca \(Nos Vamos a Comer\)](https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Comerte la boca \(Nos Vamos a Comer\)](https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1) | 2:27 | 2024-10-17 |  |
 | [Comida China](https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Comida China](https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5) | 2:42 | 2024-09-26 |  |
 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 | 2022-07-15 | 2024-09-27 |
-| [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 |  |
+| [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 | 2025-02-22 |
 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-15 | 2024-04-19 |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 | 2023-10-07 |
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2022-05-20 | 2022-08-27 |
@@ -171,6 +171,7 @@
 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2022-07-15 | 2024-10-18 |
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2022-05-20 | 2022-11-12 |
 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 | 2022-11-11 | 2023-08-19 |
+| [Madre](https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Madre](https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj) | 3:07 | 2025-02-21 |  |
 | [Marcas](https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Marcas](https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r) | 3:42 | 2023-10-26 |  |
 | [Marinero](https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [CARREÑO](https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw) | [Marinero](https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd) | 3:24 | 2022-05-20 | 2023-04-15 |
 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 | 2022-05-20 |  |

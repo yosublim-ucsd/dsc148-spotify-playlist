@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Amelia Moore
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Kahitna
 
 984 songs - 2 day 11 hr 23 min
 

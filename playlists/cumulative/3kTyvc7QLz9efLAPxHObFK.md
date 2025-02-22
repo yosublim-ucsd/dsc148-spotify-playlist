@@ -4,7 +4,7 @@
 
 > 
 
-2,057 songs - 4 day 13 hr 3 min
+2,058 songs - 4 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,6 +912,7 @@
 | [I Love It](https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [I Love It](https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK) | 2:09 | 2024-04-09 |  |
 | [I Make You Shine](https://open.spotify.com/track/36mE5EAeGYh9p7z1cv0sHT) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [I Make You Shine](https://open.spotify.com/album/3n6Q6fOaOJKZp5LtwTt96S) | 2:49 | 2024-07-11 |  |
 | [I NEED U](https://open.spotify.com/track/01z52s7dMbzZAPYIjcLQUU) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [I NEED U](https://open.spotify.com/album/5DXyKXUkVNtpA1Gl9HISwQ) | 3:21 | 2024-06-21 |  |
+| [I Wanna](https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [I Wanna](https://open.spotify.com/album/4qE3DiAGExwNVDXsd8uUuv) | 2:58 | 2025-02-21 |  |
 | [I Wanna \- RAV3ART Remix](https://open.spotify.com/track/2Zhh9cjbHF23rk9Zg5Cc9U) | [Aleq Baker](https://open.spotify.com/artist/1HQZlUBZe9IiDRmtToCjKY), [RAV3ART](https://open.spotify.com/artist/5HmYVmjJ20MH8rYysXCsOf) | [I Wanna \(RAV3ART Remix\)](https://open.spotify.com/album/5xur9iS50tfWbjtC2ZShWl) | 2:27 | 2024-10-20 |  |
 | [I Wanna Live](https://open.spotify.com/track/57jMN6YemUojabtxDUm9JI) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [I Wanna Live](https://open.spotify.com/album/2uC5gLWEn11uheW0003mHm) | 2:25 | 2024-04-09 |  |
 | [I Want It](https://open.spotify.com/track/7bYZ3jV3q1PkHhzGNEinQZ) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4), [Dark Individual](https://open.spotify.com/artist/7bv5tvdTZlKCbsgMzOVC5i) | [I Want It](https://open.spotify.com/album/5ZUZXlldwhd7lVJompJOkW) | 2:55 | 2025-01-18 |  |

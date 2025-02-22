@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-59 songs - 3 hr 27 min
+60 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2025-01-30 |  |
 | [Electric](https://open.spotify.com/track/4ynhrAuFOOHy7EhhoDhLCD) | [Red Alert](https://open.spotify.com/artist/4iaK2TE8vaJqdudf4kpy1i) | [Glorious Ladies of the Eighties](https://open.spotify.com/album/1if9Mft1XwaSSLH3TBQycE) | 4:10 | 2025-02-20 |  |
 | [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 | 2025-01-30 |  |
+| [Foolish Girl](https://open.spotify.com/track/3xTFF5pFEYlM0Qg4uUCF6M) | [Marjorie](https://open.spotify.com/artist/34SBQdfwoEDNqgbNQRgBbc), [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Foolish Girl](https://open.spotify.com/album/59Y82bpZk1swutdukSKVLQ) | 2:21 | 2025-02-21 |  |
 | [Forever and More](https://open.spotify.com/track/1xhkbc481N3PiE28jj4pmN) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Forever and More](https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng) | 4:22 | 2025-02-13 |  |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2025-01-30 |  |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2025-01-30 |  |

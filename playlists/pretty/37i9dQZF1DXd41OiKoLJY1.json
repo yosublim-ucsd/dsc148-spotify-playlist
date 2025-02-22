@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Pauline Anne Artwork: Isu Kim\n",
-  "num_followers": 64263,
+  "num_followers": 64299,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7dRnwAAAABDmW+A/aLmpBC05WbmqIoX",
+  "snapshot_id": "Z7dRnwAAAAA7vr6lA3Jeqf9xunbCI0YQ",
   "tracks": [
     {
       "added_at": "2025-02-20 16:00:31",
@@ -279,6 +279,26 @@
       "duration_ms": 203871,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1aDp9bW7JKuzW0dJZhmxgk"
+    },
+    {
+      "added_at": "2025-02-20 16:00:31",
+      "album": {
+        "name": "STANK!",
+        "url": "https://open.spotify.com/album/4E5IFWU7G3NqXrBB9zFVRJ"
+      },
+      "artists": [
+        {
+          "name": "Coast Side Boiz",
+          "url": "https://open.spotify.com/artist/1ezjbQw4HxsiE56T0tovfs"
+        },
+        {
+          "name": "FDK",
+          "url": "https://open.spotify.com/artist/5OEzF3EfMnmMRLPbwMcS6h"
+        }
+      ],
+      "duration_ms": 270873,
+      "name": "STANK!",
+      "url": "https://open.spotify.com/track/3DYGhaD5KVA1O6Td45buk8"
     },
     {
       "added_at": "2025-02-20 16:00:31",

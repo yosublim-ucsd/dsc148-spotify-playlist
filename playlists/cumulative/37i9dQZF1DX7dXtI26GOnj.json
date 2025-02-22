@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Bad Bunny",
+  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Emilia, Lu\u00edsa Sonza",
   "name": "Calorcito",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -2239,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "Cuerpo",
+        "url": "https://open.spotify.com/album/01uWlBgnxtBbNTNSSqYdYV"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231450,
+      "name": "Cuerpo",
+      "url": "https://open.spotify.com/track/634NaSGxwoORD9q99SrQph"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
@@ -2272,6 +2316,24 @@
       "duration_ms": 179000,
       "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1m8FVOx2SOErpmAmq6NGZP"
+      },
+      "artists": [
+        {
+          "name": "Gabby B",
+          "url": "https://open.spotify.com/artist/1CB4dfzr8SJj2OwLjznm5s"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136708,
+      "name": "Dale Duro",
+      "url": "https://open.spotify.com/track/0j2vYkBJVLxuMM1B7iWwAp"
     },
     {
       "album": {
@@ -4117,6 +4179,28 @@
     },
     {
       "album": {
+        "name": "Infiel",
+        "url": "https://open.spotify.com/album/4xHbNLWIB8kYU7Mv4pfuq7"
+      },
+      "artists": [
+        {
+          "name": "Lucas LM",
+          "url": "https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ"
+        },
+        {
+          "name": "Jo\u00e3o Ferreira",
+          "url": "https://open.spotify.com/artist/2Po0n9GI0YXOkurg0l2giE"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153258,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/6ykDSoUsgqLPh3k7rRZcCg"
+    },
+    {
+      "album": {
         "name": "Isso \u00c9 Brasil",
         "url": "https://open.spotify.com/album/0VTFUIJ84CoTaYDkgWtoO9"
       },
@@ -4282,7 +4366,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 279130,
       "name": "La Chinita de los Ojos Caf\u00e9s - Remix",
       "url": "https://open.spotify.com/track/51evcf64CFRXKBlTN8bT80"
@@ -4671,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "La Sirena",
+        "url": "https://open.spotify.com/album/3sIc1jjen7upCX2oNnUY84"
+      },
+      "artists": [
+        {
+          "name": "SIRENA",
+          "url": "https://open.spotify.com/artist/1kl0xVfffXbqJpJhAYEh8R"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/0CuMqKdJvDibMEo5ZFnob9"
+    },
+    {
+      "album": {
         "name": "La Trinidad",
         "url": "https://open.spotify.com/album/7ncFTdVkNnDG3ZXzJo7t9x"
       },
@@ -4690,7 +4792,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 187200,
       "name": "La Trinidad",
       "url": "https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6"
@@ -4762,7 +4864,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
@@ -5664,6 +5766,36 @@
       "duration_ms": 220173,
       "name": "Mi Lova",
       "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
+    },
+    {
+      "album": {
+        "name": "Miau (feat. Uzielito Mix)",
+        "url": "https://open.spotify.com/album/0mBQmMKmet3H16WQDbGIE0"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "Miau (feat. Uzielito Mix)",
+      "url": "https://open.spotify.com/track/0spIfr7PKo381CocT4XnYN"
     },
     {
       "album": {
@@ -8134,7 +8266,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166384,
       "name": "SI O NO",
       "url": "https://open.spotify.com/track/1E5LUC8mbqtPFunZmWNnzw"
@@ -9314,7 +9446,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
@@ -10050,6 +10182,40 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+    },
+    {
+      "album": {
+        "name": "XQTECE?",
+        "url": "https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Omarcito Glock",
+          "url": "https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD"
+        },
+        {
+          "name": "Zalo La Z",
+          "url": "https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "XQTECE?",
+      "url": "https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN"
     },
     {
       "album": {

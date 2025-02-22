@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 180535,
+  "num_followers": 180559,
   "original_name": "San Valentino 2025",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 236417,
-      "name": "Pastello Bianco",
-      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 293960,
       "name": "Poetica",
       "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "Pastello Bianco",
+      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -167,18 +183,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+        "name": "Il primo amore",
+        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
       },
       "artists": [
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
         }
       ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
+      "duration_ms": 201974,
+      "name": "Il primo amore",
+      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -211,26 +231,6 @@
       "duration_ms": 169306,
       "name": "Cosa mi manchi a fare",
       "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "Il primo amore",
-        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Yanomi",
-          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "Il primo amore",
-      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "Cip!",
+        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Per due che come noi",
+      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "Buoni O Cattivi (Remastered 2017)",
         "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 203872,
       "name": "\u00c8 sempre bello",
       "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "Cip!",
-        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
-      },
-      "artists": [
-        {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Per due che come noi",
-      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 222794,
-      "name": "La musica non c'\u00e8",
-      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 222794,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Oltre",
         "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 336960,
       "name": "Mille giorni di te e di me",
       "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "This Is Elodie",
         "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205253,
       "name": "Niente Canzoni D'Amore",
       "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "La Donna Cannone",
         "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 225652,
       "name": "Due Vite",
       "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Le luci della citt\u00e0",
-      "url": "https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "Come Thelma E Louise",
+        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "Splende",
         "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Come Thelma E Louise",
-        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Le cose che non ho",
         "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Amami",
-        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
-      },
-      "artists": [
-        {
-          "name": "Arisa",
-          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
-        }
-      ],
-      "duration_ms": 235121,
-      "name": "La notte",
-      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Lucio Dalla",
         "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 221093,
       "name": "Anna E Marco",
       "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "Amami",
+        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        }
+      ],
+      "duration_ms": 235121,
+      "name": "La notte",
+      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1127,54 +1127,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Gira, il mondo gira",
         "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
       },
@@ -1195,6 +1147,38 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
       },
@@ -1207,6 +1191,38 @@
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "TANGO",
+        "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1247,38 +1263,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "TANGO",
-        "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "TANGO",
-      "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
-        "name": "DUE ALTALENE",
-        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "DUE ALTALENE",
-      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
+        "name": "DUE ALTALENE",
+        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
       },
       "artists": [
         {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
         }
       ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1371,6 +1355,22 @@
       "duration_ms": 200428,
       "name": "Ovunque Sarai",
       "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "La Descrizione Di Un Attimo",
-        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
-      },
-      "artists": [
-        {
-          "name": "Tiromancino",
-          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "La Descrizione Di Un Attimo",
-      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "Fisiognomica (2008 Remastered Edition)",
         "url": "https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 232199,
       "name": "E Ti Vengo A Cercare - Remastered 2008",
       "url": "https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "La Descrizione Di Un Attimo",
+        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
+      },
+      "artists": [
+        {
+          "name": "Tiromancino",
+          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "La Descrizione Di Un Attimo",
+      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
     },
     {
       "added_at": "2025-02-18 16:26:40",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-18 16:26:40",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2025-02-18 16:26:40",
-      "album": {
         "name": "CHIAMAMI PER NOME",
         "url": "https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
+    },
+    {
+      "added_at": "2025-02-18 16:26:40",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
     },
     {
       "added_at": "2025-02-18 16:26:40",

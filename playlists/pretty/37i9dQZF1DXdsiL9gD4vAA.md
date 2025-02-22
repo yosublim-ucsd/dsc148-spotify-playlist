@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,402 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,448 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 63 | [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 |
 | 64 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 |
 | 65 | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 |
-| 66 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
-| 67 | [Khudaayaa](https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Khudaayaa](https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ) | 4:56 |
+| 66 | [Khudaayaa](https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Khudaayaa](https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ) | 4:56 |
+| 67 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 | 68 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 |
 | 69 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 |
 | 70 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 74 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjaad Ali](https://open.spotify.com/artist/1OsGekNlTNkIHIEastVC0e) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 |
 | 75 | [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 |
 
-Snapshot ID: `Z6rhSgAAAAD6WtKgg58YvKsZ9H8JeUbi`
+Snapshot ID: `Z7f9GQAAAACHnGOpfeBTQnTUhgUYxy6z`

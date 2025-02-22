@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,284 songs - 2 day 18 hr 13 min
+1,286 songs - 2 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2023-02-17 |
 | [HARMONY](https://open.spotify.com/track/0pj4T7AzKyVOYmnSnxgdge) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [HARMONY](https://open.spotify.com/album/3EmBIgEc9m3Fm8n2UtS0aj) | 2:36 | 2021-10-09 | 2021-12-04 |
 | [harry houdini](https://open.spotify.com/track/4fMhbVCe2OXuDrlgZoZAos) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 2:34 | 2024-03-01 |  |
-| [HARRY STYLES](https://open.spotify.com/track/6esDme3Yd33T6wk6EUPXqD) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [JUST A TASTE](https://open.spotify.com/album/5YThY3qtqTDc8VMnmd1eRF) | 2:55 | 2023-07-28 |  |
+| [HARRY STYLES](https://open.spotify.com/track/6esDme3Yd33T6wk6EUPXqD) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [JUST A TASTE](https://open.spotify.com/album/5YThY3qtqTDc8VMnmd1eRF) | 2:55 | 2023-07-28 | 2025-02-22 |
 | [Hate Myself](https://open.spotify.com/track/015ROS1oTBabLaOLMzDF47) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hate Myself](https://open.spotify.com/album/78hIED00HB4E1zADJXIYUy) | 3:28 | 2021-01-16 | 2021-03-27 |
 | [Hate That You Love Me](https://open.spotify.com/track/69btEcSPQvdTiEv2Yb1nek) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Hate That You Love Me](https://open.spotify.com/album/2AoabgykPv3qn4bgyyZgTX) | 3:13 | 2021-10-23 | 2022-02-19 |
 | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry) | 2:47 | 2020-10-29\* | 2021-01-30 |
@@ -725,7 +725,7 @@
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-05-22 | 2021-12-18 |
 | [medicine](https://open.spotify.com/track/614sY8fpQKTnaPnfkseUAr) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:16 | 2020-11-07 | 2020-11-18 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-04 | 2022-01-29 |
-| [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 | 2023-08-04 |  |
+| [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 | 2023-08-04 | 2025-02-22 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-15 | 2022-10-01 |
 | [Mermaid From L.A.](https://open.spotify.com/track/5uzUMWMKG2suofVX4wUWrM) | [Bealby Point](https://open.spotify.com/artist/3RFcQWqSi7oW9hBmapQ25X) | [Mermaid From L.A.](https://open.spotify.com/album/5AD3pHTy0BcJmHu13k3j3q) | 3:16 | 2021-11-13 | 2022-04-09 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-30 | 2022-01-08 |
@@ -1133,6 +1133,7 @@
 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 | 2024-10-18 |  |
 | [the overthinker](https://open.spotify.com/track/21Pkk76qnEgB5d0iDot4Dk) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the overthinker](https://open.spotify.com/album/2dFilrvVa8lmEQ3H7ipSLv) | 3:16 | 2021-03-14 | 2021-04-10 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 | 2023-02-17 |
+| [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 |  |
 | [The Rest](https://open.spotify.com/track/2SRx7uOuHLWrUuN2dyrZ41) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [The Rest](https://open.spotify.com/album/3lGu5v2t3o5F1jRurv9Nqq) | 2:20 | 2021-03-06 | 2021-06-05 |
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-29 |  |
 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 | 2022-09-23 | 2024-03-02 |
@@ -1165,6 +1166,7 @@
 | [Toast with the Butter](https://open.spotify.com/track/34hdwAVK7oA3OswpGv5gVX) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [How Did We Get Here?](https://open.spotify.com/album/05SVSMRmcL2ESnkwQFlgyt) | 3:26 | 2021-03-06 | 2021-03-19 |
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-08-21 | 2021-10-09 |
 | [Too High To Cry](https://open.spotify.com/track/7lUIAkNykW5nQhCIBGiQ09) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Too High To Cry](https://open.spotify.com/album/5NL9W9396ky1o3QTRd8IFm) | 3:22 | 2024-06-14 | 2024-10-19 |
+| [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 | 2025-02-21 |  |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-09-28 | 2024-03-16 |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2023-02-11 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |

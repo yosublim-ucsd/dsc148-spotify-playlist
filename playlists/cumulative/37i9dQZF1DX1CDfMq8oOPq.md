@@ -4,7 +4,7 @@
 
 > big d com a senha da cena, fenomenal!
 
-278 songs - 13 hr 7 min
+279 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Afreketê](https://open.spotify.com/track/6KG9pXyveLUvV1ff5iuAAe) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 3:12 | 2022-07-01 | 2022-08-13 |
 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 | 2023-04-28 | 2023-06-24 |
 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 | 2024-08-09 | 2024-10-08 |
+| [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 | 2025-02-21 |  |
 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 | 2023-01-13 | 2023-04-01 |
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-03-11 | 2024-12-14 |
 | [As Preta Primeiro](https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [As Preta Primeiro](https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw) | 2:37 | 2024-03-08 | 2024-04-19 |
@@ -210,7 +211,7 @@
 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 | 2022-03-11 | 2024-01-27 |
 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 | 2023-10-06 | 2024-02-24 |
 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 | 2023-12-01 |  |
-| [Problemas de confiança](https://open.spotify.com/track/28uQ9dfxXEMj80G6v2T60c) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Problemas de confiança](https://open.spotify.com/album/4fo6Zihg49rvfMVwkOhLJb) | 2:17 | 2025-02-14 |  |
+| [Problemas de confiança](https://open.spotify.com/track/28uQ9dfxXEMj80G6v2T60c) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Problemas de confiança](https://open.spotify.com/album/4fo6Zihg49rvfMVwkOhLJb) | 2:17 | 2025-02-14 | 2025-02-22 |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-11 | 2022-03-26 |
 | [Pussy Gang](https://open.spotify.com/track/52npQUIsokCB0tVtLXpaA2) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Outro Lado](https://open.spotify.com/album/3sfi3GaNL0dJRDOgQSHbmr) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 | 2023-03-31 | 2023-07-15 |

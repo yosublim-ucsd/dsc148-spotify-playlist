@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn\-FQhGdTiuZtW2jdm7Ljg"> JayDon</a>\. Updates every Wednesday.
 
-2,956 songs - 6 day 5 hr 56 min
+2,957 songs - 6 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,6 +1018,7 @@
 | [Good Girls II](https://open.spotify.com/track/2Rxk1cyPOIWIKIXFV3ZQGl) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Private Suite 5](https://open.spotify.com/album/5S2uSH1FUZYlKd6MBQeNgG) | 3:21 | 2024-05-03 | 2024-07-20 |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-01 | 2022-01-13 |
 | [good grief](https://open.spotify.com/track/789MBIRK7wY1fV4M1tXUQ7) | [sky](https://open.spotify.com/artist/2CfhN5oSdaZIGfe2KTq2yB) | [good grief](https://open.spotify.com/album/57wwNqriAqsvPM6mBxpQTu) | 4:27 | 2021-12-01 | 2022-01-13 |
+| [Good Guys](https://open.spotify.com/track/5jI0ZaJ8RtgcEoeXvx0IL9) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Good Guys](https://open.spotify.com/album/6DItzWtF83luWshQjKoWV7) | 2:56 | 2025-02-21 |  |
 | [Good Love](https://open.spotify.com/track/5asJs5MuCH0OS8AXgQ7Z6n) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Good Love](https://open.spotify.com/album/0NLufHRxEaepMywHZ4QzS0) | 1:57 | 2024-06-07 | 2024-08-31 |
 | [Good Love](https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t) | [Joey XL](https://open.spotify.com/artist/0OQOwTGju6MADakqECMNoV) | [Good Love](https://open.spotify.com/album/3Idj13qAmwJNOvF9QPLxUn) | 3:01 | 2022-09-02 | 2023-02-04 |
 | [Good People, Good Vibes](https://open.spotify.com/track/1ttgLaCgoUcsgddZoJtXFL) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [Good People, Good Vibes](https://open.spotify.com/album/2wSYszfNEwNAbx8rT7D3vD) | 2:36 | 2023-06-02 | 2023-08-04 |

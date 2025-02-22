@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,283 likes - 200 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,318 likes - 200 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 199 | [Analogy](https://open.spotify.com/track/6sgQyYKizVJbZAmhHKy0E3) | [Serene Skies](https://open.spotify.com/artist/3S0qJncVtbLRcrgcVflyY9) | [Analogy](https://open.spotify.com/album/6fdzOdG9YeOwrOn8NtKZl6) | 2:52 |
 | 200 | [Blue Clouds](https://open.spotify.com/track/234NmOqsWSWo6ARUkxTnjB) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Blue Clouds](https://open.spotify.com/album/67sw1IYEP90gKWafPzNfWy) | 2:26 |
 
-Snapshot ID: `Z6nf8AAAAAB8olYZCiXL7yc4viZkpKky`
+Snapshot ID: `Z6nf8AAAAADRjz4jqEIryK+Fj6DIvJJS`

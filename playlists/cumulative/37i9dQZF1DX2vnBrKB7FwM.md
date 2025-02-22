@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Mañas Ru\-Fino
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-146 songs - 8 hr 4 min
+147 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Música de Antes](https://open.spotify.com/track/5m0f6moj6xtoTHPrMLbQ9Q) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [La Calle Sabe Mi Nombre](https://open.spotify.com/album/193Of86pX3Ni6Ud0y9bpzk) | 2:19 | 2022-02-25 | 2023-11-18 |
 | [Nada](https://open.spotify.com/track/3fF7menvXCbyRBkeA24uQ5) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [La Ley del Todo](https://open.spotify.com/album/15s8xG2vM4C5j14G3LZ8tU) | 3:42 | 2024-08-23 |  |
 | [No Era para Mí](https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [No Era para Mí](https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc) | 1:57 | 2024-08-22 |  |
+| [No Sabía Que Sabía](https://open.spotify.com/track/2gxHJJbhBCy7wrwn4QCdOV) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [No Sabía Que Sabía](https://open.spotify.com/album/5rUtUBZASA1KrfFhIGR6X9) | 2:49 | 2025-02-21 |  |
 | [Noche Luna](https://open.spotify.com/track/0CmpEhu1vaaRq8MT1wTZsl) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Pineal](https://open.spotify.com/album/4VFXxddpPw6nNfazN0m1wg) | 3:12 | 2022-02-25 |  |
 | [Noicanicula](https://open.spotify.com/track/3IalZWzPrxDvh3n2hNBSKI) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [El Ataque del Metano](https://open.spotify.com/album/6hKScNAjmff6t6l2qLCHhL) | 4:10 | 2022-02-25 |  |
 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 | 2022-02-25 |  |
@@ -126,7 +127,7 @@
 | [Sale Fácil](https://open.spotify.com/track/2sNgFAW3YmxwlDg6QuMqXE) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Sale Fácil](https://open.spotify.com/album/4wDwZb0aqX0seZahSU11Vd) | 3:16 | 2022-02-25 |  |
 | [Siempre Recuerdo](https://open.spotify.com/track/0U1sNqtTaZePegE7dfyvek) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6ChyYaAHTxyVQp4il1Qyjs), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Universos Mixtape](https://open.spotify.com/album/7MnWuyMR88boF22p1x9Eus) | 4:00 | 2022-02-25 | 2023-03-01 |
 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 | 2023-02-17 | 2023-12-02 |
-| [Signos de Vida](https://open.spotify.com/track/53gFFkpvP5wD5XoT87Dzww) | [CRHAM](https://open.spotify.com/artist/3JqiZJpVh3Y52tYDNHsG0n) | [Signos de Vida](https://open.spotify.com/album/7vhXEN1CsmXV2nHM5I6LNR) | 3:46 | 2022-02-25 |  |
+| [Signos de Vida](https://open.spotify.com/track/53gFFkpvP5wD5XoT87Dzww) | [CRHAM](https://open.spotify.com/artist/3JqiZJpVh3Y52tYDNHsG0n) | [Signos de Vida](https://open.spotify.com/album/7vhXEN1CsmXV2nHM5I6LNR) | 3:46 | 2022-02-25 | 2025-02-22 |
 | [Sin Hogar](https://open.spotify.com/track/2Ev2GsHMEuGRB6LKBWEc2e) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Bopscat](https://open.spotify.com/artist/5j8fwOSWeTEzo9n6Puma0v), [Hakim Al\-Khaliq](https://open.spotify.com/artist/1M3Z285dD2sZgSkrLlLQKD), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Medellín Jazz Panorama](https://open.spotify.com/album/20p1Oe6fvwsSX1ZHn6iJeB) | 2:02 | 2023-08-25 | 2024-08-31 |
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-04-14 |  |
 | [Solo Es Una](https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Solo Es Una](https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8) | 3:30 | 2024-12-13 |  |

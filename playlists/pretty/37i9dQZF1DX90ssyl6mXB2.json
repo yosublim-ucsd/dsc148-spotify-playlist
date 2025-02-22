@@ -1,13 +1,45 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 151640,
+  "num_followers": 151708,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z68CewAAAACdXJwfE7d6d+cqrM49/InP",
+  "snapshot_id": "Z7gTaQAAAADwBXrcGuWrjOW2+fHlC9eq",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:47:21",
+      "album": {
+        "name": "On my way!",
+        "url": "https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 120568,
+      "name": "Ufo's",
+      "url": "https://open.spotify.com/track/6M9znukXG6XByAv3UyJrf0"
+    },
+    {
+      "added_at": "2025-02-21 05:47:21",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+    },
     {
       "added_at": "2025-02-07 07:41:42",
       "album": {
@@ -27,26 +59,6 @@
       "duration_ms": 108750,
       "name": "FAIRYTALES IN MIDTOWN (with TyFontaine)",
       "url": "https://open.spotify.com/track/57h517zwkQm1dXmxEYQe3d"
-    },
-    {
-      "added_at": "2025-02-14 08:44:43",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "SPIDER-MAN SUPERMAN",
-      "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
     },
     {
       "added_at": "2025-01-24 08:04:06",
@@ -217,6 +229,54 @@
       "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
+      "added_at": "2025-01-24 08:04:06",
+      "album": {
+        "name": "tell em / time flies",
+        "url": "https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "time flies",
+      "url": "https://open.spotify.com/track/4WtclqYym0UPIzKesOHk7i"
+    },
+    {
+      "added_at": "2025-02-21 05:47:21",
+      "album": {
+        "name": "On my way!",
+        "url": "https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 127833,
+      "name": "La La La La La",
+      "url": "https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb"
+    },
+    {
+      "added_at": "2024-10-18 17:27:49",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 168453,
+      "name": "M a k e I t T o T h e M o r n i n g",
+      "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
+    },
+    {
       "added_at": "2025-01-17 04:00:17",
       "album": {
         "name": "Made Me This Way",
@@ -239,22 +299,6 @@
     {
       "added_at": "2025-01-24 08:04:06",
       "album": {
-        "name": "tell em / time flies",
-        "url": "https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4"
-      },
-      "artists": [
-        {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "time flies",
-      "url": "https://open.spotify.com/track/4WtclqYym0UPIzKesOHk7i"
-    },
-    {
-      "added_at": "2025-01-24 08:04:06",
-      "album": {
         "name": "introspect",
         "url": "https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u"
       },
@@ -267,22 +311,6 @@
       "duration_ms": 207080,
       "name": "stasis",
       "url": "https://open.spotify.com/track/2GkcJZGxfxSw0vaQnnJzdi"
-    },
-    {
-      "added_at": "2024-10-18 17:27:49",
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 168453,
-      "name": "M a k e I t T o T h e M o r n i n g",
-      "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
     },
     {
       "added_at": "2024-12-20 06:18:13",
@@ -355,6 +383,26 @@
       "duration_ms": 190948,
       "name": "roll da dice",
       "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
+    },
+    {
+      "added_at": "2025-02-14 08:44:43",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "SPIDER-MAN SUPERMAN",
+      "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
     },
     {
       "added_at": "2025-01-17 04:00:17",

@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/10PpQ78gSUR9qTJZacpqmF"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3hGZtt2x9bI55HgxdSrCam"
+    },
+    {
+      "album": {
         "name": "Bad (with DB.Boutabag)",
         "url": "https://open.spotify.com/album/7rDrWDOdODwghXZyVq0ZsK"
       },
@@ -3335,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Call My Phone",
+        "url": "https://open.spotify.com/album/5HohExZ5nVQF4zT8il6PqL"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167729,
+      "name": "Call My Phone",
+      "url": "https://open.spotify.com/track/2vS9K1g2Im8H2DdSGIeHqX"
+    },
+    {
+      "album": {
         "name": "HOFFA",
         "url": "https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi"
       },
@@ -4672,7 +4712,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166956,
       "name": "Cuttin Up (feat. Saweetie)",
       "url": "https://open.spotify.com/track/2oQQn3SO9cQ51JOhuBq3uy"
@@ -6210,7 +6250,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177600,
       "name": "EULOGY",
       "url": "https://open.spotify.com/track/5sTZgQzVg3fYduYBvbsvyK"
@@ -7090,7 +7130,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 142000,
       "name": "Flamin' Hot",
       "url": "https://open.spotify.com/track/6I2Gk65WZJAqQJgAXDMrIM"
@@ -7985,6 +8025,36 @@
     },
     {
       "album": {
+        "name": "Gangsters Get Scared (feat. Wallie the Sensei)",
+        "url": "https://open.spotify.com/album/0YDsN3iPIbv8qTV5D9FgtY"
+      },
+      "artists": [
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "YS",
+          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "Gangsters Get Scared (feat. Wallie the Sensei)",
+      "url": "https://open.spotify.com/track/3mSrOGyHnqhrD1507Q3CLf"
+    },
+    {
+      "album": {
         "name": "Gank Move (feat. HitgirlLENA)",
         "url": "https://open.spotify.com/album/24Ch49aGevPu08SeoyM7Jc"
       },
@@ -8048,7 +8118,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179533,
       "name": "Geek'd Up (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/7tiY7jftuuI4UiEhlUm8VO"
@@ -9690,7 +9760,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 190243,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/3rlHUJINS5opvbNgDTF4Y6"
@@ -10125,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/1CHqGz7jJP19SuQgEo7Ejn"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/00pZOtsTFTfnmxbDFEyIoY"
+    },
+    {
+      "album": {
         "name": "I Can't",
         "url": "https://open.spotify.com/album/381kTih0S6k1pQKBuIzf5o"
       },
@@ -10503,6 +10591,28 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/3oWd3J0NubUultfN9hO8tU"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203624,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/6LUcBVk5Bdil3gnp62Yee5"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/7HF61DOVkzpxNxu2rHqo6U"
       },
@@ -10739,6 +10849,32 @@
     },
     {
       "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/4Ka185ymjX4Yj9Oo3xXYym"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160541,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/78NcK0Pfcuj8rWud3gkrPE"
+    },
+    {
+      "album": {
         "name": "In The Air Where It's Fair",
         "url": "https://open.spotify.com/album/2IMKcPrjBSA9DDd3Iq2CMh"
       },
@@ -10842,6 +10978,24 @@
       "duration_ms": 166515,
       "name": "Internet Shooter (Remix)",
       "url": "https://open.spotify.com/track/2ZiOGHk2rjvfNUqIUPtR8B"
+    },
+    {
+      "album": {
+        "name": "My Evil Thoughts",
+        "url": "https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139416,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101"
     },
     {
       "album": {
@@ -12032,7 +12186,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 143360,
       "name": "Life Of A Hot Nigga",
       "url": "https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK"
@@ -12156,7 +12310,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 125280,
       "name": "Lights Out (feat. John Mackk & Lil Bean)",
       "url": "https://open.spotify.com/track/0VXacox6s7pB4SRFwcF42I"
@@ -12852,7 +13006,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166608,
       "name": "Love Yo Weapons",
       "url": "https://open.spotify.com/track/1xGAvLWjyg2L71Qq9ZowIP"
@@ -13282,7 +13436,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 198570,
       "name": "Midnight in Hawaii - Bonus Track",
       "url": "https://open.spotify.com/track/7DBlsJeDY4vun9PApPa8Fw"
@@ -14571,6 +14725,28 @@
     },
     {
       "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/6aLCT3WaJmZjJHTCS3MNL1"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190752,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/63q1d3JbflRFoXUL5rakS4"
+    },
+    {
+      "album": {
         "name": "No Cuffin",
         "url": "https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV"
       },
@@ -15016,7 +15192,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 110769,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT"
@@ -15805,6 +15981,28 @@
     },
     {
       "album": {
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/2hRvRs6lwVO2lABN3zpt1I"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "OTW",
+      "url": "https://open.spotify.com/track/3vUuncRy4WB8mRyKtrLb32"
+    },
+    {
+      "album": {
         "name": "Out Tha Way!",
         "url": "https://open.spotify.com/album/1XKBE1eUbatpg7g5XNFLiv"
       },
@@ -16153,6 +16351,32 @@
     },
     {
       "album": {
+        "name": "Party On The Westside",
+        "url": "https://open.spotify.com/album/6nVmBvD9jQfTILcWkFT50r"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Party On The Westside",
+      "url": "https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm"
+    },
+    {
+      "album": {
         "name": "Party Roccin",
         "url": "https://open.spotify.com/album/0fjOjmZkqlmU5vppIb9OYa"
       },
@@ -16406,7 +16630,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 116062,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/1WpvTT58LmYB0Ikc9FNlMg"
@@ -17008,7 +17232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 239345,
       "name": "Pressured Up (feat. Vince Staples & ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1pJ7WNomTQrMcZqJH6kjfR"
@@ -17348,6 +17572,24 @@
       "duration_ms": 142500,
       "name": "Real Money",
       "url": "https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd"
+    },
+    {
+      "album": {
+        "name": "Real Nigga Privileges",
+        "url": "https://open.spotify.com/album/1UOoG3HYWfLHtHlPxppnvi"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132934,
+      "name": "Real Nigga Privileges",
+      "url": "https://open.spotify.com/track/3oXg6qugKPENGpAVb2C6u3"
     },
     {
       "album": {
@@ -20786,7 +21028,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 145116,
       "name": "Temper",
       "url": "https://open.spotify.com/track/0nipB4z5fkwPSn8MH41jxe"
@@ -21046,6 +21288,24 @@
       "duration_ms": 222223,
       "name": "The Biggest",
       "url": "https://open.spotify.com/track/5TQMe9tnbMJGqJbA06E4yc"
+    },
+    {
+      "album": {
+        "name": "The Biggest G",
+        "url": "https://open.spotify.com/album/5Y38W6JGNBgUfpTpMgQC8c"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "The Biggest G",
+      "url": "https://open.spotify.com/track/1AgxScwu5I2MDVshvPX5cY"
     },
     {
       "album": {
@@ -22008,7 +22268,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 92960,
       "name": "Type Beat",
       "url": "https://open.spotify.com/track/3mo3WswbvkwJqVLMfOEsy3"
@@ -23031,6 +23291,24 @@
     },
     {
       "album": {
+        "name": "Whatx2",
+        "url": "https://open.spotify.com/album/0FryGWdXbmeUI4ZsVAN6KI"
+      },
+      "artists": [
+        {
+          "name": "Az Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Whatx2",
+      "url": "https://open.spotify.com/track/7CEdffPYhBOsNmGB5C0P86"
+    },
+    {
+      "album": {
         "name": "Wheels Fall Off (feat. Kanye West)",
         "url": "https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb"
       },
@@ -23108,7 +23386,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169566,
       "name": "WHO ELSE YOU KNOW!?",
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
@@ -23556,7 +23834,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "YOU LIKE IT, I LOVE IT",
       "url": "https://open.spotify.com/track/5QFyMSGLLCe1bsfIcKQvnT"

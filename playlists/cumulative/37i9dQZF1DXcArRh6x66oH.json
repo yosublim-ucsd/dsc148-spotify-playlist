@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "used to shine bright like gold",
+  "description": "roots run deep",
   "name": "homegrown",
   "tracks": [
     {
@@ -676,6 +676,24 @@
       "duration_ms": 233750,
       "name": "Blue Eyed Constellation",
       "url": "https://open.spotify.com/track/2qslrX6hylkvFTfQ6p8Rhm"
+    },
+    {
+      "album": {
+        "name": "Bootstraps",
+        "url": "https://open.spotify.com/album/5ibI9d8OXiWfXPz8kOcgFs"
+      },
+      "artists": [
+        {
+          "name": "Crowe Boys",
+          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211058,
+      "name": "Bootstraps",
+      "url": "https://open.spotify.com/track/5dOhsb84eymtsGPWHskyXf"
     },
     {
       "album": {
@@ -2050,6 +2068,24 @@
       "duration_ms": 191658,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/23XqRpuJoOgUokER9MeNLP"
+    },
+    {
+      "album": {
+        "name": "Franklin House",
+        "url": "https://open.spotify.com/album/7FvCQcq1nnenLdOl6xolpU"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290563,
+      "name": "Franklin House",
+      "url": "https://open.spotify.com/track/3R4he4bi1O5gQxDWRHYJHj"
     },
     {
       "album": {

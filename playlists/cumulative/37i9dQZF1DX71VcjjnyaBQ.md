@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-220 songs - 18 hr 56 min
+221 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 | 2023-09-26 | 2024-04-19 |
 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-08 |  |
 | [Bess Is My Woman Now](https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Faraò Plays the Great Jazz American Composers \- George Gershwin, Vol\. 3](https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC) | 4:28 | 2022-06-02 |  |
-| [Blowin' in the Wind](https://open.spotify.com/track/5vJJXYF4p0nAyvOBU2WHoD) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blowin' in the Wind](https://open.spotify.com/album/47jaPNFEb5Tzm6fnJjpro6) | 5:00 | 2025-01-10 |  |
+| [Blowin' in the Wind](https://open.spotify.com/track/5vJJXYF4p0nAyvOBU2WHoD) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blowin' in the Wind](https://open.spotify.com/album/47jaPNFEb5Tzm6fnJjpro6) | 5:00 | 2025-01-10 | 2025-02-22 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
@@ -213,6 +213,7 @@
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-30 | 2024-04-19 |
 | [Voor Jou Yvonne](https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6) | [Bill Weeds](https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Voor Jou Yvonne](https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt) | 7:41 | 2024-08-23 |  |
 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 | 2022-09-29 |  |
+| [Waltz for Nina](https://open.spotify.com/track/2dFu8IftrBXEh2osqUGBuB) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Waltz for Nina](https://open.spotify.com/album/3uFT32hpGlehUmkBw9sl2D) | 6:40 | 2025-02-21 |  |
 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-31 | 2024-06-12 |
 | [What the World Needs Now Is Love](https://open.spotify.com/track/4ZevPpI9yP4qaCmdx2UtBA) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [What the World Needs Now Is Love](https://open.spotify.com/album/7FhZDH5ZpvvyHZ4XmXzJeq) | 4:37 | 2025-01-17 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 |  |

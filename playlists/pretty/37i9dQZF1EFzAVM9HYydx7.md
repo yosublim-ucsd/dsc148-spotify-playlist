@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854 likes - 296 songs - 18 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853 likes - 296 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 188 | [U Said \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1bi2lHlLhjV5o6aPziHYuu) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Love Songs 4 the Streets 2](https://open.spotify.com/album/3kj9O7YYodmvzwq8ObaWU9) | 2:48 |
 | 189 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 |
 | 190 | [We Them Niggas](https://open.spotify.com/track/6tVmHikDrMfdDhSA6ibaXf) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Trials & Tribulations \(Deluxe\)](https://open.spotify.com/album/3x2arZknoNUKSnw5LjJLD3) | 4:04 |
-| 191 | [I'm Single](https://open.spotify.com/track/2PD75SFUXxkcbIL4dg0Xgu) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/7iO3PKNc5oEIdW6tirp8JW) | 2:41 |
-| 192 | [Black Man in America](https://open.spotify.com/track/5bh3nrXWsRiqBwMU3vbnYK) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:54 |
+| 191 | [Black Man in America](https://open.spotify.com/track/5bh3nrXWsRiqBwMU3vbnYK) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:54 |
+| 192 | [I'm Single](https://open.spotify.com/track/2PD75SFUXxkcbIL4dg0Xgu) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/7iO3PKNc5oEIdW6tirp8JW) | 2:41 |
 | 193 | [A LOT MORE](https://open.spotify.com/track/3BqUnohnUBmFWQxo0DT0uA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:20 |
 | 194 | [Scary Nights](https://open.spotify.com/track/0OwSIR2cx1HhPVR2eWNQu1) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 3:56 |
 | 195 | [Up In Flames](https://open.spotify.com/track/5k3LD7YYDR0VSnnnLyiweo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 5:05 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbqIPgAAAADg7ZFZoPmm6NYNXo9YTFsQ`
+Snapshot ID: `AbqN6AAAAABefg6iduVY0Aog8w4Jq454`

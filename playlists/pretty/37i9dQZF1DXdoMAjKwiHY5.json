@@ -1,13 +1,29 @@
 {
-  "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: The Fray",
-  "num_followers": 21052,
+  "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: Counting Crows",
+  "num_followers": 21089,
   "original_name": "Jupiter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZveCawAAAABu+Ag+E1vVIS45zrs88zw5",
+  "snapshot_id": "Z7gIaAAAAAAfnDyCn0It24y2gCntMsJ8",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "Spaceman In Tulsa",
+        "url": "https://open.spotify.com/album/7lupY9DPb6q2WiksUPvpqN"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Spaceman In Tulsa",
+      "url": "https://open.spotify.com/track/27rA2jwxEAh3F3HPxoNEAM"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {

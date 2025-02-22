@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marc Dupr\u00e9",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Lou-Adriane Cassidy",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 245506,
       "name": "Cours, Cora, cours",
       "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
@@ -568,6 +568,24 @@
       "duration_ms": 156653,
       "name": "Deux jours et deux nuits",
       "url": "https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8"
+    },
+    {
+      "album": {
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309760,
+      "name": "Dis-moi dis-moi dis-moi",
+      "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
     },
     {
       "album": {
@@ -716,6 +734,24 @@
       "duration_ms": 166133,
       "name": "GAGNER MA CAUSE",
       "url": "https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy"
+    },
+    {
+      "album": {
+        "name": "Garde-Malade",
+        "url": "https://open.spotify.com/album/5sVfv6lOfXSqIxHZIw8AKM"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "Garde-Malade",
+      "url": "https://open.spotify.com/track/0qB5KfAWmhEnQmxs85GJ1m"
     },
     {
       "album": {
@@ -972,6 +1008,24 @@
       "duration_ms": 170560,
       "name": "Je te dirai tout",
       "url": "https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK"
+    },
+    {
+      "album": {
+        "name": "Jouer",
+        "url": "https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "Jouer",
+      "url": "https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL"
     },
     {
       "album": {
@@ -1639,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Ne partez pas sans moi",
+        "url": "https://open.spotify.com/album/17go52ItR838U5I3fywNDA"
+      },
+      "artists": [
+        {
+          "name": "Star Acad\u00e9mie",
+          "url": "https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "Ne partez pas sans moi",
+      "url": "https://open.spotify.com/track/040pT97vMtIYgABtNjzrau"
+    },
+    {
+      "album": {
         "name": "NOIR SUR NOIR",
         "url": "https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8"
       },
@@ -1820,7 +1892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 241384,
       "name": "Quand il s'en va",
       "url": "https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo"
@@ -2254,7 +2326,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 209982,
       "name": "Tous ces doutes",
       "url": "https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y"
@@ -2308,7 +2380,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 178973,
       "name": "Tout passe",
       "url": "https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O"

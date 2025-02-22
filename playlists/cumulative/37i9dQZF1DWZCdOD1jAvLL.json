@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 285882,
       "name": "Bogeyman",
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
@@ -10534,7 +10534,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -12710,6 +12710,24 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/3DqWn5hlTArHuMukN9DP1q"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294240,
+      "name": "S.O.B. - Original Mix",
+      "url": "https://open.spotify.com/track/0T7vhRcj6KTCGVpUsXJYer"
     },
     {
       "album": {

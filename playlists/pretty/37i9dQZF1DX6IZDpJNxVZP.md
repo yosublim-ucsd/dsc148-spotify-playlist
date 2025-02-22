@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,033 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,023 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 9 | [It's Snowing](https://open.spotify.com/track/3K3GKqRPMWEZw9VDp6xh6e) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [It's the Holidays!](https://open.spotify.com/album/1LmaYUsLeq86ssX6fk3q5A) | 2:33 |
 | 10 | [Feliz Navidad](https://open.spotify.com/track/60z4MLJK9cNDCmnflocfHp) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Winter Wonderland](https://open.spotify.com/album/3pOKjUVSRq2zb5ofNthawz) | 3:03 |
 | 11 | [Holiday Sprinkles](https://open.spotify.com/track/4aF0ktSBN6PioEkmr5GLUz) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Meowy Christmas](https://open.spotify.com/album/0k7nPAfUSUnmnUss7IwoBu) | 2:59 |
-| 12 | [Frosty the Snowman](https://open.spotify.com/track/0TmWpsweTtZSty7T2GUApN) | [Merry Tunes for Kids](https://open.spotify.com/artist/0X4FAPKfMPm0khHzF9SBix) | [Christmas Tunes for Kids \(Vol\. 1\)](https://open.spotify.com/album/5yCmqdA1ePOlV2RTS3HdKj) | 1:53 |
-| 13 | [Walking in the Air](https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs) | [Peter Auty](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 3:29 |
+| 12 | [Walking in the Air](https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs) | [Peter Auty](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 3:29 |
+| 13 | [Frosty the Snowman](https://open.spotify.com/track/0TmWpsweTtZSty7T2GUApN) | [Merry Tunes for Kids](https://open.spotify.com/artist/0X4FAPKfMPm0khHzF9SBix) | [Christmas Tunes for Kids \(Vol\. 1\)](https://open.spotify.com/album/5yCmqdA1ePOlV2RTS3HdKj) | 1:53 |
 | 14 | [Family Christmas Fun](https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Let's Jump In! The Album \(Deluxe\)](https://open.spotify.com/album/2ane689azA1Q2g1RE8IEMo) | 3:36 |
 | 15 | [Go Santa Go](https://open.spotify.com/track/56tZSMuheDHQkAQkyhq3Lz) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggly, Wiggly Christmas!](https://open.spotify.com/album/5u5GMLpF7NfyumXHiNFL2Z) | 2:08 |
 | 16 | [It's The Holidays!](https://open.spotify.com/track/3J97ArvC3VUs470LYKd97Z) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [It's The Holidays!](https://open.spotify.com/album/1xUI91MtCt9EUtvTRM2orI) | 2:12 |

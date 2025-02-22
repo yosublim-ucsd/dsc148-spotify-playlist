@@ -1,13 +1,89 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Levity",
-  "num_followers": 1950927,
+  "num_followers": 1950907,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N6AAAAACZXXZF1qi72Fg4MVDtfNVU",
+  "snapshot_id": "Z7gIZwAAAAA8XqvWqsgvPyfqlB0vPnhn",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/2Rq9nSk4N178uUnTK01rv2"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/7AZogABvDjAsQeXVv0YIU2"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3"
+    },
+    {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "gImmE gImmE",
+        "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 197842,
+      "name": "gImmE gImmE",
+      "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+    },
     {
       "added_at": "2025-01-17 05:00:30",
       "album": {
@@ -29,44 +105,52 @@
       "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
-      "added_at": "2025-02-14 05:00:24",
+      "added_at": "2025-02-21 05:00:23",
       "album": {
-        "name": "Postman",
-        "url": "https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP"
+        "name": "Offbeat",
+        "url": "https://open.spotify.com/album/1fCXa4ozWDMabkrxEnQJqh"
       },
       "artists": [
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 191379,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3"
+      "duration_ms": 192517,
+      "name": "Offbeat",
+      "url": "https://open.spotify.com/track/4rGkLTgvTSnxAPy2wv3YRW"
     },
     {
-      "added_at": "2025-01-24 05:00:43",
+      "added_at": "2025-02-21 05:00:23",
       "album": {
-        "name": "Act of God",
-        "url": "https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0"
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 232558,
-      "name": "Act of God",
-      "url": "https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj"
+      "duration_ms": 205833,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
+    },
+    {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2025-02-14 05:00:24",
@@ -89,6 +173,26 @@
       "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
     },
     {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+    },
+    {
       "added_at": "2025-01-31 05:00:22",
       "album": {
         "name": "Don't Stop EP",
@@ -103,26 +207,6 @@
       "duration_ms": 201259,
       "name": "Let Em' Know",
       "url": "https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:25",
-      "album": {
-        "name": "Sunday Best",
-        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
     },
     {
       "added_at": "2025-01-17 05:00:30",
@@ -143,6 +227,26 @@
       "duration_ms": 190153,
       "name": "Wacuka",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2025-02-07 05:00:25",
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
     },
     {
       "added_at": "2025-01-17 05:00:30",
@@ -179,22 +283,6 @@
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
-    },
-    {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2025-01-17 05:00:30",
@@ -353,6 +441,26 @@
       "url": "https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi"
     },
     {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Be Together",
+        "url": "https://open.spotify.com/album/5I2jtUtvKbzAvDcnpFMXP3"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 156159,
+      "name": "Be Together",
+      "url": "https://open.spotify.com/track/7AT2oRWEvDWDsfjrSFA26n"
+    },
+    {
       "added_at": "2025-01-24 05:00:43",
       "album": {
         "name": "Dame M\u00e1s (Gasolina)",
@@ -397,6 +505,22 @@
       "url": "https://open.spotify.com/track/6R9q4xKSivpaLsXY23u99N"
     },
     {
+      "added_at": "2025-02-14 05:00:24",
+      "album": {
+        "name": "Blocked",
+        "url": "https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Blocked",
+      "url": "https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH"
+    },
+    {
       "added_at": "2025-01-31 05:00:22",
       "album": {
         "name": "Coins",
@@ -437,6 +561,50 @@
       "url": "https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd"
     },
     {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2025-01-24 05:00:43",
+      "album": {
+        "name": "Act of God",
+        "url": "https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "Act of God",
+      "url": "https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj"
+    },
+    {
       "added_at": "2025-02-14 05:00:24",
       "album": {
         "name": "Bad Boy (GENESI Remix)",
@@ -455,26 +623,6 @@
       "duration_ms": 188887,
       "name": "Bad Boy - GENESI Remix",
       "url": "https://open.spotify.com/track/4MKqROsy64whz0A1YyCXGE"
-    },
-    {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Naliya",
-          "url": "https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "shake!the!city!",
-      "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"
     },
     {
       "added_at": "2025-01-31 05:00:22",
@@ -529,38 +677,6 @@
       "url": "https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11"
     },
     {
-      "added_at": "2025-02-14 05:00:24",
-      "album": {
-        "name": "Blocked",
-        "url": "https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Blocked",
-      "url": "https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
-    },
-    {
       "added_at": "2025-01-24 05:00:43",
       "album": {
         "name": "Shaking Things Up",
@@ -607,46 +723,6 @@
       "duration_ms": 203572,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2025-01-31 05:00:22",
-      "album": {
-        "name": "Saltwater",
-        "url": "https://open.spotify.com/album/5J9Lot9XP9ylPIXXsc8Wh2"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Moya Brennan",
-          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/6mYbG65qmFebuFrKkVXGnx"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2025-01-31 05:00:22",
@@ -727,22 +803,6 @@
       "duration_ms": 186141,
       "name": "Give Me Desire",
       "url": "https://open.spotify.com/track/5zcGSMnSo1S0IOtXRJ5PxU"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Disco Tetris (Edit)",
-        "url": "https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Disco Tetris - Edit",
-      "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
     },
     {
       "added_at": "2025-01-31 05:00:22",
@@ -869,6 +929,30 @@
       "url": "https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ"
     },
     {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/7JzcPhDBznSOo5V4SZExpK"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "duration_ms": 274909,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/2bgFEoaY6r4CqDPjllvKsl"
+    },
+    {
       "added_at": "2025-01-24 05:00:43",
       "album": {
         "name": "Abomination",
@@ -907,22 +991,6 @@
       "duration_ms": 221520,
       "name": "Big Boy Tracks",
       "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1053,6 +1121,22 @@
       "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
     },
     {
+      "added_at": "2025-02-21 05:00:23",
+      "album": {
+        "name": "Don't Wanna Leave You",
+        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Don't Wanna Leave You",
+      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
+    },
+    {
       "added_at": "2025-01-31 05:00:22",
       "album": {
         "name": "Chaak",
@@ -1169,20 +1253,24 @@
       "url": "https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy"
     },
     {
-      "added_at": "2025-01-03 05:08:21",
+      "added_at": "2025-02-21 05:00:23",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+        "name": "ibiza is waiting for me",
+        "url": "https://open.spotify.com/album/1bN925mymBe394mn5MS3oX"
       },
       "artists": [
         {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        },
+        {
+          "name": "Spring Breaker",
+          "url": "https://open.spotify.com/artist/5ba5RugOUTTg6cRZQdV0bP"
         }
       ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+      "duration_ms": 327448,
+      "name": "ibiza is waiting for me",
+      "url": "https://open.spotify.com/track/5vdhqDCTGz9wOOtfNc9WAb"
     },
     {
       "added_at": "2025-01-24 05:00:43",
@@ -1243,26 +1331,6 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Kuwe",
-        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Nana Atta",
-          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Kuwe",
-      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
     },
     {
       "added_at": "2025-01-03 05:08:21",
@@ -1351,70 +1419,6 @@
       "duration_ms": 188800,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/20M8mlTMntyirnjCmJCp0M"
-    },
-    {
-      "added_at": "2025-01-24 05:00:43",
-      "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 221602,
-      "name": "Give Thanks, Give Praise",
-      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Disco Nap",
-        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Disco Nap",
-      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 139388,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E"
     }
   ],
   "unique_name": "Dance Rising",

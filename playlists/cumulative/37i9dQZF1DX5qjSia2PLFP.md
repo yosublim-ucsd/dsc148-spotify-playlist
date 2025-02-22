@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-1,121 songs - 2 day 3 hr 52 min
+1,122 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Catch Another Body](https://open.spotify.com/track/7g23Ror3VlN0Xo4wjBHTS6) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Catch Another Body](https://open.spotify.com/album/2zeMfb20Oa57Jj1ZbZ6Ccn) | 3:32 | 2022-03-04 | 2022-03-06 |
 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 | 2024-01-19 | 2024-07-19 |
 | [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-04-26 | 2024-05-25 |
-| [CDM](https://open.spotify.com/track/1X239ImiUJIzLXg3wrwL0t) | [MLizzy](https://open.spotify.com/artist/5Bqip4LZ02SIxpKq2tI5Fz) | [CDM](https://open.spotify.com/album/0oTlunXYhIZyxORjrgt6BG) | 2:38 | 2025-02-07 |  |
+| [CDM](https://open.spotify.com/track/1X239ImiUJIzLXg3wrwL0t) | [MLizzy](https://open.spotify.com/artist/5Bqip4LZ02SIxpKq2tI5Fz) | [CDM](https://open.spotify.com/album/0oTlunXYhIZyxORjrgt6BG) | 2:38 | 2025-02-07 | 2025-02-22 |
 | [Celebration](https://open.spotify.com/track/5Ykl2AuQKjLjBg2KwJR0v9) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/2PTlYF3EfRdjlpGjFOKXdc) | 2:15 | 2024-02-16 | 2024-03-30 |
 | [Cemetery Freestyle](https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Cemetery Freestyle](https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy) | 2:39 | 2022-03-04 | 2022-06-25 |
 | [Certainty Of Life](https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Certainty Of Life](https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB) | 2:39 | 2024-03-08 | 2024-03-23 |
@@ -530,6 +530,7 @@
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-19 | 2024-08-03 |
 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 | 2024-01-26 | 2024-02-17 |
 | [Just Earth with New Skin](https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Terraform: The Possibility](https://open.spotify.com/album/5D1nLOVbRT9ThDfkKeeh7Q) | 3:20 | 2023-06-24 | 2023-10-14 |
+| [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 | 2025-02-22 |  |
 | [just like you \(feat\. Toosii\)](https://open.spotify.com/track/3cUSkvFsOhJF3XZGZnDJ8n) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [SELFishly enTITLED](https://open.spotify.com/album/4WtxBSoCmS0B1kVPdZIG3y) | 3:17 | 2023-08-25 | 2024-02-17 |
 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 | 2023-04-28 | 2023-09-30 |
 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 | 2022-08-05 | 2022-12-31 |

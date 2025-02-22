@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=E54znhawR\_Kr\_3MBNc6jlA>TBabz</a>
 
-4,534 songs - 13 day 17 hr 36 min
+4,535 songs - 13 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [canvas](https://open.spotify.com/track/2gXr6B6MsjQcbnrMWqGmFg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Matevhu](https://open.spotify.com/artist/28saJT0KmewnD61XgfxEKH) | [canvas](https://open.spotify.com/album/4MG3UFZPHBCkRoXUPOwWh2) | 2:03 | 2024-08-30 | 2024-09-14 |
 | [capable](https://open.spotify.com/track/1dfgkpIQPav1Td8ufjQFav) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Adryelle](https://open.spotify.com/artist/5agvq78qLshNDL4czGerMA) | [capable](https://open.spotify.com/album/7BpqJJC20hINk1QxCCqyhy) | 2:14 | 2025-02-21 |  |
 | [Captured My Heart](https://open.spotify.com/track/3vBvqUP03J70SnR8olFtvR) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [Captured My Heart](https://open.spotify.com/album/3hq0NNrav8UNMzEMKlu0UD) | 3:39 | 2024-01-12 | 2024-01-26 |
+| [Care for Me](https://open.spotify.com/track/22mHqeNjJEQsj8cDTqY3x1) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Care for Me](https://open.spotify.com/album/2D2ZmCRbEKRTnLjxBiVzOH) | 2:57 | 2025-02-21 |  |
 | [Carry Body](https://open.spotify.com/track/0Jl76GFKBbkABwCsziUk2V) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Esther Igbekele](https://open.spotify.com/artist/41ItZdv4IEKRVWzaLyRvYP), [Adegbodu Twins](https://open.spotify.com/artist/3ngA2Mv3cC3DwZSLP3xqUm) | [Carry Body](https://open.spotify.com/album/72tH5jaqODC85eFRWSj381) | 4:33 | 2024-08-02 | 2024-08-16 |
 | [Carry Me](https://open.spotify.com/track/4HeHd1zsIXaGqCQ0Fl3gYR) | [Endy Musik](https://open.spotify.com/artist/1KXnYCLr7qSyM4ErfokXNp) | [Carry Me](https://open.spotify.com/album/45VBL0yKFEzrhO0nZLWty3) | 2:26 | 2024-01-19 | 2024-02-02 |
 | [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 | 2024-02-23 | 2024-03-08 |

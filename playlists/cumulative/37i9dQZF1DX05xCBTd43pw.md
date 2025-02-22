@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-186 songs - 9 hr 19 min
+189 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alright](https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Alright](https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM) | 3:22 | 2024-06-27 | 2024-10-04 |
 | [Another Heart](https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Another Heart](https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d) | 2:22 | 2024-06-27 | 2024-10-04 |
 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 | 2024-11-22 | 2025-01-31 |
-| [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 |  |
+| [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 | 2025-02-22 |
 | [Atrevida](https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Atrevida](https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [babyboy](https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [Milan](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE) | [babyboy](https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8) | 2:50 | 2024-06-27 | 2024-10-28 |
 | [bad in bed](https://open.spotify.com/track/5VEbufushgdxy4ABk3zLgb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [bad in bed](https://open.spotify.com/album/3rJocQaLt2DOdES15IklMl) | 3:17 | 2025-01-10 |  |
@@ -126,6 +126,7 @@
 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 | 2024-10-18 | 2024-12-11 |
 | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Adrian Stern](https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX) | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki) | 3:08 | 2024-10-03 | 2024-11-24 |
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-07-04 | 2024-08-01 |
+| [New Her](https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [New Her](https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ) | 3:00 | 2025-02-21 |  |
 | [Nightmare](https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Nightmare](https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu) | 2:57 | 2024-06-27 | 2024-10-04 |
 | [No Good For Me](https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [No Good For Me](https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W) | 3:13 | 2024-11-14 |  |
 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 | 2024-06-27 |  |
@@ -144,6 +145,7 @@
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 | 2024-07-23 |
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
+| [Roots](https://open.spotify.com/track/3BvKDfgNEGmFymfKMLpykK) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Roots](https://open.spotify.com/album/4CLjl1IBmqvO2y56O5ljYF) | 2:34 | 2025-02-21 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 | 2024-12-07 |  |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
@@ -175,7 +177,7 @@
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
-| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 |  |
+| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-02-22 |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2024-11-15 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
@@ -186,10 +188,11 @@
 | [Waiting For Love](https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Waiting For Love](https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU) | 3:14 | 2024-10-18 | 2024-10-20 |
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |
-| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 |  |
+| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 | 2025-02-22 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 |  |
+| [With Me](https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [With Me](https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub) | 3:17 | 2025-02-21 |  |
 | [Without My Love](https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Without My Love](https://open.spotify.com/album/222SoIbjNhExQMwEExMvek) | 2:56 | 2024-10-11 | 2024-10-19 |
 | [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |

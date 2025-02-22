@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-200 songs - 15 hr 55 min
+201 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 | 2024-06-14 |  |
 | [Alma de Cristo](https://open.spotify.com/track/2ihGz1qkAcxCrU8RsO3TZm) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 3:52 | 2023-11-24 | 2024-04-19 |
 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 | 2022-09-02 |  |
+| [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Ato 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 | 2025-02-21 |  |
 | [Ana e Maria](https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Ana e Maria](https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp) | 3:49 | 2023-02-25 | 2023-06-03 |
 | [Antes de nos Aproximar](https://open.spotify.com/track/1MkqiL1NFQjPlU1dmOIKhC) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi) | [Antes de nos Aproximar](https://open.spotify.com/album/6xsu0e1uhlTYbsyOGXMheI) | 2:23 | 2022-09-02 | 2022-12-10 |
 | [Ao Monte](https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Ao Monte](https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2) | 6:08 | 2022-09-02 |  |
@@ -62,7 +63,7 @@
 | [Divino Esposo](https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj) | 3:38 | 2023-11-24 | 2024-04-19 |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 | 2022-09-02 | 2023-10-21 |
-| [E Você Vem](https://open.spotify.com/track/3lWTUXrp5oMAttsBdPnrqO) | [Débora Pires](https://open.spotify.com/artist/6dOprDYs0zTGHLRk8Q3yPR), [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [O Jardim](https://open.spotify.com/album/7CvJV7H4wEpexi4WuxieZm) | 4:12 | 2024-10-25 |  |
+| [E Você Vem](https://open.spotify.com/track/3lWTUXrp5oMAttsBdPnrqO) | [Débora Pires](https://open.spotify.com/artist/6dOprDYs0zTGHLRk8Q3yPR), [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [O Jardim](https://open.spotify.com/album/7CvJV7H4wEpexi4WuxieZm) | 4:12 | 2024-10-25 | 2025-02-22 |
 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 | 2023-03-24 |  |
 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 | 2022-12-04 | 2024-07-13 |
 | [Ela Vem](https://open.spotify.com/track/4IeioUY30BoqpOsp1BWeU0) | [Flavio Venturini](https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji), [Pinduca](https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN), [Liah Soares](https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X), [Gabi Nascimento](https://open.spotify.com/artist/7HeFAl7cXS1spPJx6KbkWm), [Lucinnha Bastos](https://open.spotify.com/artist/50sdScZwBdxY4klxNi2a4a), [Thiago Arancam](https://open.spotify.com/artist/5knRSMzb9es0gdnEVorBXN) | [Ela Vem](https://open.spotify.com/album/49J2jdByHR0AErAvKq0sxL) | 3:59 | 2024-09-27 | 2024-10-05 |

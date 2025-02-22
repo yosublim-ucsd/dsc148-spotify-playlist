@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Sam Fender (pictured), Tate McRae, Pozer and more!",
-  "num_followers": 878925,
+  "num_followers": 880041,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCFgAAAABy4/V3bslu/G74iweN7etC",
+  "snapshot_id": "Z7hIEAAAAADppSGHVG71bCX/EXds5Ari",
   "tracks": [
     {
       "added_at": "2025-02-21 00:00:22",
@@ -99,6 +99,26 @@
     {
       "added_at": "2025-02-21 00:00:22",
       "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
         "name": "Body Language (feat. Sasha Keable)",
         "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
       },
@@ -169,6 +189,22 @@
       "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
     },
     {
+      "added_at": "2025-02-21 09:32:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
+    },
+    {
       "added_at": "2025-02-21 00:00:22",
       "album": {
         "name": "Malibu",
@@ -235,6 +271,34 @@
       "duration_ms": 265792,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
+    },
+    {
+      "added_at": "2025-02-21 00:00:22",
+      "album": {
+        "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+        "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 182603,
+      "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8"
     },
     {
       "added_at": "2025-02-21 00:00:22",
@@ -1083,6 +1147,26 @@
       "duration_ms": 225933,
       "name": "Hotline to Heaven",
       "url": "https://open.spotify.com/track/5hG33unSA3Adwy9HpdQYt2"
+    },
+    {
+      "added_at": "2025-02-21 09:32:00",
+      "album": {
+        "name": "End of the Road",
+        "url": "https://open.spotify.com/album/59wC4a48REr6hqDwdkAmkM"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Nathan Smoker",
+          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
+        }
+      ],
+      "duration_ms": 192665,
+      "name": "End of the Road",
+      "url": "https://open.spotify.com/track/2FaIyCxS6hteGORbVlX1fN"
     },
     {
       "added_at": "2025-02-21 00:00:22",

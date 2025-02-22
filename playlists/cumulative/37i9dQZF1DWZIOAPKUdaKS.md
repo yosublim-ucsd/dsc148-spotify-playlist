@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-794 songs - 1 day 10 hr 25 min
+796 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [One Equal Music](https://open.spotify.com/track/65wvZI844ajGF4HaQfG1WO) | [Chris Tolley](https://open.spotify.com/artist/6joahgERHur4lpRsbfj7FR) | [One Equal Music](https://open.spotify.com/album/0EZX4VcnClK2JJDQ6sxvEe) | 3:35 | 2022-10-13 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-07 | 2022-07-20 |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-27 | 2024-03-05 |
+| [Open the Windows](https://open.spotify.com/track/2Uy0au5iofFkAgTWiXDoZp) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Open the Windows](https://open.spotify.com/album/5BlAEYOinasxd9JX7259ae) | 2:32 | 2025-02-21 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-16 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-10-14 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-10-14 |
@@ -615,6 +616,7 @@
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2021-12-07 | 2022-10-14 |
 | [Silhouettes](https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Silhouettes](https://open.spotify.com/album/5qPhOA59aDQkHk8EYpECW5) | 3:32 | 2023-12-19 |  |
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-04 |  |
+| [Silver Shades](https://open.spotify.com/track/1JkDd6UTgH8N27sD1wGpNr) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Silver Shades](https://open.spotify.com/album/3xMseekTXTQN5WKy0hM6IM) | 2:41 | 2025-02-21 |  |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 | 2024-02-15 |
 | [Simple Plans](https://open.spotify.com/track/5CZDntcdKNfGLxbeCkGei5) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [Simple Plans](https://open.spotify.com/album/0PGgBVaKuVwpZVP5bI6aiN) | 3:13 | 2023-08-01 |  |
 | [Simple Pleasures](https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Simple Pleasures](https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE) | 2:51 | 2024-09-03 |  |

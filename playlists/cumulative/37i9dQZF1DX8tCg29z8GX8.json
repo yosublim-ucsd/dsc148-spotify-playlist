@@ -1433,6 +1433,32 @@
     },
     {
       "album": {
+        "name": "BANG BANG BANG",
+        "url": "https://open.spotify.com/album/6wyuQZjF2vOgkPGdBE8MuL"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216886,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0YCknECT4hjx3AiMWecAwh"
+    },
+    {
+      "album": {
         "name": "Be Who You Are (Real Magic)",
         "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
       },
@@ -2860,7 +2886,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
@@ -3884,7 +3910,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177049,
       "name": "For the Popping (Apicki)",
       "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
@@ -3936,6 +3962,24 @@
       "duration_ms": 150442,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/0O65UBzfeysEbxbHd8SGqB"
+    },
+    {
+      "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK"
     },
     {
       "album": {
@@ -5276,6 +5320,24 @@
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "album": {
+        "name": "The Return of Okomfo Anokye",
+        "url": "https://open.spotify.com/album/4vydrJ5tvy8pCVU5wQ5JMf"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "JAY BHAD - GIDIGIDI",
+      "url": "https://open.spotify.com/track/1eQGJoPkaq5Ze1M9CVbF1i"
     },
     {
       "album": {
@@ -8040,7 +8102,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 186000,
       "name": "obaa sima",
       "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
@@ -10132,10 +10194,40 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 127346,
       "name": "Shake It To The Max (FLY)",
       "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"
+    },
+    {
+      "album": {
+        "name": "Shake It To The Max (FLY) (Remix)",
+        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Shake It To The Max (FLY) - Remix",
+      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
       "album": {

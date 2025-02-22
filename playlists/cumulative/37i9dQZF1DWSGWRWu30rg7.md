@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: MAKO.
 
-4,396 songs - 11 day 5 hr 37 min
+4,397 songs - 11 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Bukan Untukmu](https://open.spotify.com/track/6B99cGhUpt77JPJsGKMpZo) | [Soraya Ghyna](https://open.spotify.com/artist/52cFdhGlbTaJd19QGf7t8m) | [Melekat](https://open.spotify.com/album/04n4gCylGp36i1TM32pCRf) | 4:43 | 2022-02-24 | 2022-03-11 |
 | [Bukanlah Untukku](https://open.spotify.com/track/3xtQotnIlvIzs7ljhzHwJk) | [Alycia Ferryana](https://open.spotify.com/artist/3yH6nkIPi93dpBO3L0K52M) | [Bukanlah Untukku](https://open.spotify.com/album/3UjXRrGpBoyN1sK5GhFb89) | 4:38 | 2024-06-14 | 2024-07-05 |
 | [Bulan](https://open.spotify.com/track/72OuDv13wBKRhuTJvVkaet) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Bulan](https://open.spotify.com/album/7ejqpeVCwVRmQb1cdq15bb) | 4:17 | 2024-09-13 | 2024-10-12 |
+| [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 |  |
 | [bulan pagi](https://open.spotify.com/track/0OkYyfbAUMjgeGBlA602iK) | [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC) | [bulan pagi](https://open.spotify.com/album/02pAqXBVcOwZQTvFV59H2n) | 3:34 | 2023-09-22 | 2023-10-13 |
 | [Bulan Penuh](https://open.spotify.com/track/3cDAJkLI6JK4rxyHKFFvFd) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Bulan Penuh](https://open.spotify.com/album/5liswBDGvk6qnuKxZ0rda3) | 3:42 | 2023-03-23 | 2023-04-07 |
 | [Bulan Suci Ramadhan](https://open.spotify.com/track/5Wm58uXAF4QVoP1eLosdvW) | [Gyan Sechan](https://open.spotify.com/artist/4bgG4xG7emn1QzJGfvlNQv) | [Bulan Suci Ramadhan](https://open.spotify.com/album/7kPTR3Qo7KsZvsRkRh0hyu) | 4:18 | 2024-03-21 | 2024-04-19 |

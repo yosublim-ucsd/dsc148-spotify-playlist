@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,502 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,497 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 6 | [WOLFMAN](https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb) | [Jan Verstraeten](https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v) | [WOLFMAN](https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr) | 4:11 |
 | 7 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 8 | [Dancing On My Feelings](https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Dancing On My Feelings](https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE) | 3:28 |
-| 9 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Christophe Verholle](https://open.spotify.com/artist/5cqOALIWK5xoaqHXwikfis) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 |
+| 9 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 |
 | 10 | [Durian](https://open.spotify.com/track/1XQEPdAvaP3VfMz9h0QXXl) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Durian](https://open.spotify.com/album/3CFWFANusIG3j8U8YW5nqb) | 3:43 |
 | 11 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 12 | [I Wasn’t Gonna](https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI) | 3:23 |

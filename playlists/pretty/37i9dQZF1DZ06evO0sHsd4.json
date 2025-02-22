@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 12246,
+  "num_followers": 12268,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAACIH8OSrBxWFiFI7rdiQv6N",
+  "snapshot_id": "Z7ZwgAAAAADB2tcgurPxii3zxJed/f8F",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos Cambian",
-        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
+        "name": "Y Lo Busque",
+        "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
       },
       "artists": [
-        {
-          "name": "Los Beltran",
-          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 186983,
-      "name": "Escuela 4 Letras",
-      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
+      "duration_ms": 225348,
+      "name": "Y Lo Busque",
+      "url": "https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Lo Busque",
-        "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
+        "name": "Los Tiempos Cambian",
+        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
       "artists": [
+        {
+          "name": "Los Beltran",
+          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 225348,
-      "name": "Y Lo Busque",
-      "url": "https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc"
+      "duration_ms": 186983,
+      "name": "Escuela 4 Letras",
+      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
     },
     {
       "added_at": null,

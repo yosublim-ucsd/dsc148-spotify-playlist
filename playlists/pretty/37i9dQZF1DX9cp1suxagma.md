@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana y Natalia Natalia
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Laura Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,061 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,073 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [YA NO SIENTO FRÍO](https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs) | 3:19 |
-| 2 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
-| 3 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
-| 4 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
-| 5 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
-| 6 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
-| 7 | [Aprender A Vivir](https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Aprender A Vivir](https://open.spotify.com/album/1x8JGQfjGG1LLPEFgyP0IL) | 2:50 |
-| 8 | [Bogotá](https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Bogotá](https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX) | 3:15 |
-| 9 | [Por Las Primeras Veces](https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Por Las Primeras Veces](https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0) | 2:29 |
-| 10 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \(Lado B\)](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
-| 11 | [Gabriela](https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Gabriela](https://open.spotify.com/album/4xrro73gRMWxStGt4khR6J) | 3:31 |
-| 12 | [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 |
-| 13 | [Lego](https://open.spotify.com/track/3IJVpV8WRXZMNqd6gJ1zhD) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Lego](https://open.spotify.com/album/5yZ7kFnXA8MCHeOmn6zsMu) | 3:34 |
-| 14 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
-| 15 | [ME QUEBRASTE](https://open.spotify.com/track/1CgEaoW0Zz2txdQiZvL610) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [ME QUEBRASTE](https://open.spotify.com/album/5V9zLGYI93HWkCzVLnyJJ1) | 2:55 |
-| 16 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 17 | [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 |
-| 18 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
-| 19 | [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 |
+| 1 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
+| 2 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [YA NO SIENTO FRÍO](https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs) | 3:19 |
+| 3 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
+| 4 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
+| 5 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
+| 6 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
+| 7 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
+| 8 | [Aprender A Vivir](https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Aprender A Vivir](https://open.spotify.com/album/1x8JGQfjGG1LLPEFgyP0IL) | 2:50 |
+| 9 | [Bogotá](https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Bogotá](https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX) | 3:15 |
+| 10 | [Por Las Primeras Veces](https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Por Las Primeras Veces](https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0) | 2:29 |
+| 11 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \(Lado B\)](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
+| 12 | [Gabriela](https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Gabriela](https://open.spotify.com/album/4xrro73gRMWxStGt4khR6J) | 3:31 |
+| 13 | [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 |
+| 14 | [Lego](https://open.spotify.com/track/3IJVpV8WRXZMNqd6gJ1zhD) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Lego](https://open.spotify.com/album/5yZ7kFnXA8MCHeOmn6zsMu) | 3:34 |
+| 15 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
+| 16 | [ME QUEBRASTE](https://open.spotify.com/track/1CgEaoW0Zz2txdQiZvL610) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [ME QUEBRASTE](https://open.spotify.com/album/5V9zLGYI93HWkCzVLnyJJ1) | 2:55 |
+| 17 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 18 | [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 |
+| 19 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
 | 20 | [Cómo Los De Antes](https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR) | [Cómo Los De Antes](https://open.spotify.com/album/2lKJXgamNCOWRx3tU7JFxd) | 3:07 |
 | 21 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 |
 | 22 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `Z1uI1wAAAAAuQOLjSkWL9KOLKTMH4bn/`
+Snapshot ID: `Z7fxrAAAAADMqNcurqotNEzzWxuBAx3g`

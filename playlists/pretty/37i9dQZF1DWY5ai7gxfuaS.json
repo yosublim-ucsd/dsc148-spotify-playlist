@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 309451,
+  "num_followers": 309502,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
+      },
+      "artists": [
+        {
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     },
     {
       "added_at": "2024-07-19 10:51:43",

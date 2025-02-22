@@ -57,6 +57,28 @@
     },
     {
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217997,
+      "name": "1 DAY 2 LATE",
+      "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
+    },
+    {
+      "album": {
         "name": "11-11",
         "url": "https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4"
       },
@@ -802,7 +824,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 221387,
       "name": "Believe In Myself",
       "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 187145,
       "name": "CAN WE DO BETTER?",
       "url": "https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 125176,
       "name": "can't get you out of my mind",
       "url": "https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f"
@@ -1654,6 +1676,28 @@
       "duration_ms": 158400,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
+    },
+    {
+      "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
+      },
+      "artists": [
+        {
+          "name": "Solanca",
+          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214695,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
     },
     {
       "album": {
@@ -2813,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Gone / So Far",
+        "url": "https://open.spotify.com/album/1cr2DDNVkBc9SGH83YXpYB"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219660,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/12U8LiMUvM61GseyRQ7Oiv"
+    },
+    {
+      "album": {
         "name": "gone for life",
         "url": "https://open.spotify.com/album/3Y8lizmTldfb0CNv3zylFQ"
       },
@@ -2978,6 +3040,24 @@
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
+    },
+    {
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/6oPaCIW8g3e9BwS4bKTh6f"
+      },
+      "artists": [
+        {
+          "name": "Mikeyy",
+          "url": "https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "heal",
+      "url": "https://open.spotify.com/track/1xfAOscxuWUaVa9D23GW3E"
     },
     {
       "album": {
@@ -7700,7 +7780,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207787,
       "name": "Surrender To The Feeling",
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"

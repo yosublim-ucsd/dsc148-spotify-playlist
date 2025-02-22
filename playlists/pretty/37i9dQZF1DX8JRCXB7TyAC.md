@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,606 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,624 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gym Flow](https://open.spotify.com/track/4PYajXxJ4lmVcuMKaev2rs) | [Najuk](https://open.spotify.com/artist/2MH0HWTkymqBj0bdVrMRIK), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Gym Flow](https://open.spotify.com/album/2odFnnbdCS2alv5Y7h9kKF) | 3:32 |
-| 2 | [Akhada \- Title Song](https://open.spotify.com/track/2AxxnomQHFFkRYwZA4HimJ) | [Bintu Pabra](https://open.spotify.com/artist/5a1OXk9wjaYPOXNoUMKg8g), [KP Kundu](https://open.spotify.com/artist/7i1tbj6cP4MKyMkNZszOdm), [Bamboo Beat](https://open.spotify.com/artist/7rgZG7aLO7ZLPZNxy08GRb) | [Akhada \- Title Song](https://open.spotify.com/album/3IeQ9FCMeM6FGkwY6PLFJW) | 2:52 |
+| 2 | [Akhada \- Title Song](https://open.spotify.com/track/2AxxnomQHFFkRYwZA4HimJ) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn), [Bamboo Beat](https://open.spotify.com/artist/7rgZG7aLO7ZLPZNxy08GRb) | [Akhada \- Title Song](https://open.spotify.com/album/3IeQ9FCMeM6FGkwY6PLFJW) | 2:52 |
 | 3 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
 | 4 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 5 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 |

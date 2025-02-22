@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,640 likes - 50 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,669 likes - 50 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Akhiyan Nu Rehne De](https://open.spotify.com/track/5WFR8zr6YCecovxEsbghOB) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Showcase Southasia, Vol\. 5](https://open.spotify.com/album/6iu9DRY8Jx66oRxfQsMgWa) | 5:51 |
-| 2 | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 |
-| 3 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
-| 4 | [Kyon Rukha Rukha Bolna](https://open.spotify.com/track/4cBkTMciTLDqKmwVLTIccP) | [Shaukat Ali](https://open.spotify.com/artist/5BPicaWEOTTLJXrUCTtSWq) | [Has Bol Ve](https://open.spotify.com/album/5R7s3zRWle2nkoeGYq6wXe) | 5:02 |
-| 5 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 |
-| 6 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
-| 7 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
-| 8 | [Pehli Wari Ehnan Akhian](https://open.spotify.com/track/1rv170ZsobLD7RP5mLGQW7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 7:53 |
-| 9 | [Tasvi De Manke](https://open.spotify.com/track/6gOwSBSuTm1nuF884LkQuy) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Tasvi De Manke](https://open.spotify.com/album/1IWalUhl4oILgaiUDH2rYp) | 4:19 |
+| 1 | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/track/4y0HMpAmZMMZYr9f44FHv6) | [Raman Kapoor](https://open.spotify.com/artist/24G6ZqD5Ia9B402pUd0ePh) | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/album/5BmWoNx2ItokOGwEmfP0ta) | 3:10 |
+| 2 | [Akhiyan Nu Rehne De](https://open.spotify.com/track/5WFR8zr6YCecovxEsbghOB) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Showcase Southasia, Vol\. 5](https://open.spotify.com/album/6iu9DRY8Jx66oRxfQsMgWa) | 5:51 |
+| 3 | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 |
+| 4 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
+| 5 | [Kyon Rukha Rukha Bolna](https://open.spotify.com/track/4cBkTMciTLDqKmwVLTIccP) | [Shaukat Ali](https://open.spotify.com/artist/5BPicaWEOTTLJXrUCTtSWq) | [Has Bol Ve](https://open.spotify.com/album/5R7s3zRWle2nkoeGYq6wXe) | 5:02 |
+| 6 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 |
+| 7 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
+| 8 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
+| 9 | [Pehli Wari Ehnan Akhian](https://open.spotify.com/track/1rv170ZsobLD7RP5mLGQW7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 7:53 |
 | 10 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 |
 | 11 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
 | 12 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Athra Ishq Ni Saon Denda](https://open.spotify.com/track/4Q9rdsluj3EWB9A41vO2K6) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Top 50 Punjabi Qawwalies](https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0) | 15:25 |
 | 50 | [Kivain Gori Chalni Ae](https://open.spotify.com/track/48qsTL4KxMPkaCJJRWQpiz) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 |
 
-Snapshot ID: `Z53GfgAAAABdL0xodo1w6n0aUfZi76dM`
+Snapshot ID: `Z7iIaQAAAADCR/ErBL9MBpIPcz1l3M6S`

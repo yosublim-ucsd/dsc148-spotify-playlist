@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Jadson Moreno
 
-323 songs - 1 day 7 hr 50 min
+324 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 | 2023-03-17 |  |
 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 | 2024-09-13 |  |
 | [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 | 2024-12-06 |  |
+| [Buscar\-Me\-Eis e Me Achareis \- Ao Vivo](https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [Buscar\-Me\-Eis e Me Achareis \(Ao Vivo\)](https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8) | 8:39 | 2025-02-21 |  |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-19 | 2024-08-17 |
 | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf) | 4:08 | 2024-08-09 |  |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-09 |  |
@@ -216,7 +217,7 @@
 | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \- Ao Vivo](https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \[Ao Vivo\]](https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66) | 6:30 | 2024-11-22 |  |
 | [Outro Na Fornalha \(Another In The Fire\) \- Ao Vivo](https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Outro Na Fornalha \(Another In The Fire\) \[Ao Vivo\]](https://open.spotify.com/album/6X6Akp6urVW7Y8hA3CGeiA) | 4:29 | 2022-09-09 | 2023-03-25 |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-14 |  |
-| [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2022-12-05 |  |
+| [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2022-12-05 | 2025-02-22 |
 | [Para Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo) | 10:01 | 2022-09-09 |  |
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-09 | 2022-11-05 |
 | [Peregrino \- Ao vivo](https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Peregrino \(Ao Vivo\)](https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp) | 5:30 | 2024-07-05 |  |

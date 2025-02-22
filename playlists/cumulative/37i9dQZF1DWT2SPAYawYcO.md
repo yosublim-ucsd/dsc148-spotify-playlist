@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Tate McRae
 
-7,476 songs - 16 day 20 hr 52 min
+7,479 songs - 16 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2090,6 +2090,7 @@
 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 | 2024-08-15 | 2024-08-23 |
 | [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-21 | 2023-09-29 |
 | [EXPRESS](https://open.spotify.com/track/4STH7a2LDMTRIJbc2nMCEW) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [EXPRESS](https://open.spotify.com/album/5Mvx2Xde7uhIXDkBFVnBUV) | 1:56 | 2024-08-29 | 2024-09-06 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-20 |  |
 | [Eye for an Eye](https://open.spotify.com/track/5APpHt4Oa0bkfxPTBly78C) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 3:45 | 2025-02-06 | 2025-02-14 |
 | [Eye of the Canyon](https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Lost Dreams](https://open.spotify.com/album/6VMaL2uxCKWWFHi1NDIcyz) | 4:11 | 2023-09-14 | 2023-09-22 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-04 | 2024-04-12 |
@@ -4094,6 +4095,7 @@
 | [Luv 4 Granted](https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Luv 4 Granted](https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n) | 3:32 | 2024-11-28 | 2024-12-06 |
 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 | 2024-06-20 | 2024-06-28 |
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2023-11-23 | 2023-12-01 |
+| [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-20 |  |
 | [LV STEPPERS](https://open.spotify.com/track/0C82lh2meFUjXV0AJxlxNZ) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [LV STEPPERS](https://open.spotify.com/album/5I0lsRpqWMTId5vpl8jRVr) | 1:54 | 2024-10-03 | 2024-10-11 |
 | [LVR GRL](https://open.spotify.com/track/2KbbCGUGYwhogWv38k18Ne) | [ALBI.](https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb) | [LVR GRL](https://open.spotify.com/album/6UuHc6dS1dpmdWjT6jOtm2) | 2:50 | 2023-06-29 | 2023-07-07 |
 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-07 | 2023-07-14 |
@@ -6800,6 +6802,7 @@
 | [Tramp](https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Tramp](https://open.spotify.com/album/194FegwGaDpCqaL42S9lbG) | 3:33 | 2023-07-07 | 2023-07-14 |
 | [trampstamp](https://open.spotify.com/track/5FfTxsV92aaVZiKLJwv1KV) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [trampstamp](https://open.spotify.com/album/2nJmSxXtAYXK7QdvhaFumE) | 3:09 | 2024-10-17 | 2024-10-25 |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-16 | 2023-11-24 |
+| [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 | 2025-02-20 |  |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-03 | 2023-08-11 |
 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 | 2024-02-08 | 2024-02-16 |
 | [Travertine](https://open.spotify.com/track/4RDuCPDc3MOl0O5mbdfD9G) | [Pipe\-eye](https://open.spotify.com/artist/0Sh9OyckiAu6tBP2yiN6wf) | [Travertine](https://open.spotify.com/album/59ThqLEn9aaIl7jwvHoq5N) | 4:33 | 2024-10-03 | 2024-10-11 |

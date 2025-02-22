@@ -1983,7 +1983,7 @@
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 137000,
+      "duration_ms": 136866,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/4BjEz7HIK0Ja4tsyNj65HV"
     },
@@ -5534,6 +5534,36 @@
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
+    },
+    {
+      "album": {
+        "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+        "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8"
     },
     {
       "album": {
@@ -9428,6 +9458,24 @@
       "duration_ms": 150275,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL"
+    },
+    {
+      "album": {
+        "name": "Trappa Rappa",
+        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Trappa Rappa",
+      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
     },
     {
       "album": {

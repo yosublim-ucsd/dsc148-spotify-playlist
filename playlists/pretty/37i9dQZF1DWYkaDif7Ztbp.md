@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,434 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,696 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 |
 | 50 | [Mfazi Wephepha \(feat\. Big Zulu & Zee Nxumalo\)](https://open.spotify.com/track/64e1w4LMyXcTLCFzR3xCRX) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Mfazi Wephepha \(feat\. Big Zulu & Zee Nxumalo\)](https://open.spotify.com/album/5Kran9NY7wMiY5yesurl9R) | 4:51 |
 
-Snapshot ID: `Z7fd+gAAAADsht6W8qZSNigy/cxWwUi1`
+Snapshot ID: `Z7fd+gAAAAC8/QR+kbVB0n9T4uRk9fBf`

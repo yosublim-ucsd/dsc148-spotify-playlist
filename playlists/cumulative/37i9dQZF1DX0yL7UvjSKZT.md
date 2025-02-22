@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-493 songs - 1 day 6 hr 32 min
+496 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Homesick for Virginia](https://open.spotify.com/track/7m8LF6U3aa7jH6f7jULYBU) | [Liam Purcell & Cane Mill Road](https://open.spotify.com/artist/3Zdda3wic9zbMrYwKDcDBV) | [Homesick for Virginia](https://open.spotify.com/album/7bKzaaGIKW0RhHMVgUlLil) | 2:14 | 2024-04-06 | 2025-02-15 |
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2022-01-21 | 2024-11-30 |
 | [Honey & Cinnamon](https://open.spotify.com/track/4RGUfZNhjyNeQI6qgtxLDE) | [George William Thomas](https://open.spotify.com/artist/4AGIlngJOEQHDALpn2VotA) | [Honey & Cinnamon](https://open.spotify.com/album/377OoOZTTTuXxkMxPpNt0f) | 3:42 | 2024-04-06 |  |
+| [Honeysuckle](https://open.spotify.com/track/7HLCNXJJdQFWF5FyTgeEu4) | [daphne ellen](https://open.spotify.com/artist/3AZJM8w3NwroIyzN99KyPI) | [Good Gold](https://open.spotify.com/album/3JRIuNSZZ9UtQha6DplYte) | 3:27 | 2025-02-21 |  |
 | [Hope](https://open.spotify.com/track/1PgzV8KUx8fwktpyiNsl1N) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Hope](https://open.spotify.com/album/1MXFBK5FvML9DRmO3PEqrb) | 3:55 | 2023-04-07 | 2024-02-24 |
 | [Hot Hands](https://open.spotify.com/track/3tSpEKEMSy45FraGEEh0W1) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:03 | 2021-10-01 | 2022-01-22 |
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-10-01 | 2025-02-15 |
@@ -249,6 +250,7 @@
 | [Love Letter](https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 3:07 | 2021-10-01 | 2023-04-09 |
 | [Love That Keeps on Trying](https://open.spotify.com/track/7znCP6GsGLYxIp9JQQGrBh) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Love That Keeps on Trying](https://open.spotify.com/album/17WDRBufDeWyDqhjB4SRzK) | 3:21 | 2022-08-11 | 2023-05-16 |
 | [Love Will Only Break Your Heart](https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW) | [The David Mayfield Parade](https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN) | [Good Man Down](https://open.spotify.com/album/5d2s0xDFNSP9DHcENh8Htz) | 2:53 | 2021-10-01 | 2022-01-22 |
+| [Lunar Window](https://open.spotify.com/track/6Ee0SELbAmrFs99SITTKdz) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Lunar Window](https://open.spotify.com/album/3wxxLcCByJjAPS0V4Qh9Po) | 2:36 | 2025-02-21 |  |
 | [Madam Plum](https://open.spotify.com/track/1KA26eRMIYAjrebZDuyIjU) | [Old Salt Union](https://open.spotify.com/artist/0WjJj680gtc92LSkeD8Q1n) | [Cut and Run](https://open.spotify.com/album/4Iz5SECz4yv02oRwFVNhSI) | 4:03 | 2021-10-01 | 2023-04-09 |
 | [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 | 2024-10-25 |  |
 | [Marianne](https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/5AYjie5QDdpryswTiI5uo6) | 3:19 | 2022-07-22 | 2024-02-24 |
@@ -371,6 +373,7 @@
 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2022-07-22 | 2022-09-30 |
 | [Sometimes it Does](https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 1:59 | 2022-07-22 | 2023-06-03 |
 | [Sometimes it Does](https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N) | 1:59 | 2021-10-01 | 2022-07-29 |
+| [Spitfire](https://open.spotify.com/track/5bo79e4Y6e5OtR2k8zpyev) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Spitfire](https://open.spotify.com/album/4O1bFb2Lg7orRCi0NjYMDu) | 3:16 | 2025-02-21 |  |
 | [Starlings](https://open.spotify.com/track/07zf1CPpOq9n29kGYSMzdk) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO) | [Imitation Fields](https://open.spotify.com/album/2xQYar4YltS6pdsRkLquwL) | 5:04 | 2023-03-17 | 2025-02-15 |
 | [Starlings](https://open.spotify.com/track/0CRN5lb66DlXGi59OFyrVf) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO) | [Imitation Fields](https://open.spotify.com/album/5rDHRr3fnb2RiFp7Ilv8SU) | 5:04 | 2023-12-15 | 2024-04-19 |
 | [Stay a While](https://open.spotify.com/track/6Sp7ioZJNeGQQYsEHUjpS6) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Stay a While](https://open.spotify.com/album/4Uyqd3HBi5Hh0MQO8cMnO0) | 2:33 | 2022-04-22 | 2022-10-08 |

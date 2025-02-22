@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,901 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,913 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 27 | [Deadly Valentine](https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 6:04 |
 | 28 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 |
 | 29 | [Odessa](https://open.spotify.com/track/305tGJy16yTTFe6Ya9nMKJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/198uSF0lTPBy7PtflbPhGT) | 5:15 |
-| 30 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
+| 30 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
 | 31 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 32 | [Blind](https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 6:16 |
 | 33 | [Future Is Your Love](https://open.spotify.com/track/1mAv52KN5MrTlLwzhd0cOG) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [David Carretta](https://open.spotify.com/artist/4z8hp2djLQN4FGiB596ZDB), [Gigi Succès](https://open.spotify.com/artist/6cw4eZjH6GRUans9yeFHCH) | [Future Is Your Love](https://open.spotify.com/album/1hd7PXRj0RF679DfpHwZ8Z) | 4:39 |

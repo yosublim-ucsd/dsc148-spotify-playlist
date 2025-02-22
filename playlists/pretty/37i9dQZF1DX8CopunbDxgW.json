@@ -1,13 +1,61 @@
 {
-  "description": "the best indie dance tracks of the moment \ud83d\udde3\ufe0f with jigitz",
-  "num_followers": 884787,
+  "description": "the best indie dance tracks of the moment \ud83d\udc40 with Avalon Emerson",
+  "num_followers": 885136,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67tCgAAAACoqVbNBBAFpBEXJIKf4Icf",
+  "snapshot_id": "Z7gIfAAAAAC5u0P0OSBtBD4sd+yPODKr",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "Don't Be Seen With Me",
+        "url": "https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 265061,
+      "name": "Don't Be Seen With Me",
+      "url": "https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+    },
+    {
+      "added_at": "2025-01-24 05:00:49",
+      "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
     {
       "added_at": "2025-02-14 05:00:42",
       "album": {
@@ -25,20 +73,40 @@
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
-      "added_at": "2025-01-24 05:00:49",
+      "added_at": "2025-02-21 05:00:44",
       "album": {
-        "name": "Shaking Things Up",
-        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+        "name": "Know You Love Me",
+        "url": "https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Shaking Things Up",
-      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+      "duration_ms": 179161,
+      "name": "Know You Love Me",
+      "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Different Time",
+        "url": "https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Different Time",
+      "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -65,36 +133,20 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
-      "added_at": "2024-12-13 05:00:16",
+      "added_at": "2025-02-21 05:00:44",
       "album": {
-        "name": "Different Time",
-        "url": "https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes"
+        "name": "MissYouSo",
+        "url": "https://open.spotify.com/album/0ywvUiMrOVZVJn1lnOWvJ8"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
         }
       ],
-      "duration_ms": 198214,
-      "name": "Different Time",
-      "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
-    },
-    {
-      "added_at": "2025-02-14 05:00:42",
-      "album": {
-        "name": "free mode",
-        "url": "https://open.spotify.com/album/3hkOFNPOZKDoyIWkGZvyEU"
-      },
-      "artists": [
-        {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
-        }
-      ],
-      "duration_ms": 160989,
-      "name": "free mode",
-      "url": "https://open.spotify.com/track/1daSFGsI7u2YIRjoSQ05iY"
+      "duration_ms": 197715,
+      "name": "MissYouSo",
+      "url": "https://open.spotify.com/track/0C4n9akaLKbDQ9ggKCn8zV"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -123,18 +175,58 @@
     {
       "added_at": "2025-02-14 05:00:42",
       "album": {
-        "name": "Not In Surrender",
-        "url": "https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO"
+        "name": "free mode",
+        "url": "https://open.spotify.com/album/3hkOFNPOZKDoyIWkGZvyEU"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
         }
       ],
-      "duration_ms": 199420,
-      "name": "Not In Surrender",
-      "url": "https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq"
+      "duration_ms": 160989,
+      "name": "free mode",
+      "url": "https://open.spotify.com/track/1daSFGsI7u2YIRjoSQ05iY"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "duration_ms": 217997,
+      "name": "1 DAY 2 LATE",
+      "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "Self Esteem",
+        "url": "https://open.spotify.com/album/6H4n9LOPNWNwxOO9FAZlJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        },
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        }
+      ],
+      "duration_ms": 203436,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/42S1WpFOHoxxijKfDuNHSu"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -157,20 +249,20 @@
       "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
     },
     {
-      "added_at": "2025-02-07 05:00:44",
+      "added_at": "2025-02-21 05:00:44",
       "album": {
-        "name": "ENTROPIA",
-        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
+        "name": "Love U Bring",
+        "url": "https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
         }
       ],
-      "duration_ms": 398000,
-      "name": "ENTROPIA",
-      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+      "duration_ms": 240413,
+      "name": "Love U Bring",
+      "url": "https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -189,6 +281,38 @@
       "url": "https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11"
     },
     {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l"
+    },
+    {
+      "added_at": "2025-02-07 05:00:44",
+      "album": {
+        "name": "ENTROPIA",
+        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "ENTROPIA",
+      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+    },
+    {
       "added_at": "2025-02-07 05:00:44",
       "album": {
         "name": "Probably",
@@ -205,20 +329,20 @@
       "url": "https://open.spotify.com/track/41wVbCiHzdFJ02oJKsKOUi"
     },
     {
-      "added_at": "2025-01-31 05:00:38",
+      "added_at": "2025-02-21 05:00:44",
       "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8"
+        "name": "Gut",
+        "url": "https://open.spotify.com/album/4gL8LEGXuVQG71wHDtaMzW"
       },
       "artists": [
         {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l"
+      "duration_ms": 305825,
+      "name": "Governed",
+      "url": "https://open.spotify.com/track/227fgTNG6wrenOkB1aIHzJ"
     },
     {
       "added_at": "2025-01-10 05:00:33",
@@ -259,6 +383,22 @@
       "duration_ms": 155000,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
+    },
+    {
+      "added_at": "2025-02-14 05:00:42",
+      "album": {
+        "name": "Not In Surrender",
+        "url": "https://open.spotify.com/album/478tECKEaP8MWWtx4BfsKO"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 199420,
+      "name": "Not In Surrender",
+      "url": "https://open.spotify.com/track/0hCmWAC2RJQUsNmpc3FKVq"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -371,6 +511,22 @@
       "duration_ms": 219570,
       "name": "Climbing - Solomun Remix",
       "url": "https://open.spotify.com/track/0IfQHSXHZWuCWK7yrz3qfl"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "SURF",
+        "url": "https://open.spotify.com/album/04cgcyb9FV8ZvLwIEhcEZW"
+      },
+      "artists": [
+        {
+          "name": "Bodysync",
+          "url": "https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -869,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4NWJ93NdSq9GGH0VyFtiGD"
     },
     {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "I NEED U",
-        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 161184,
-      "name": "I NEED U",
-      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
-    },
-    {
       "added_at": "2025-01-17 05:00:46",
       "album": {
         "name": "Nobody Like U",
@@ -953,22 +1093,6 @@
       "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
     },
     {
-      "added_at": "2025-01-24 20:19:42",
-      "album": {
-        "name": "Easy Love",
-        "url": "https://open.spotify.com/album/5H5ztxi09fh46pGcnAFG6z"
-      },
-      "artists": [
-        {
-          "name": "Alice Ivy",
-          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/7pBM0ZbhXY1fiQ05FncPbl"
-    },
-    {
       "added_at": "2025-01-17 05:00:46",
       "album": {
         "name": "FREEDOM WE'RE NEEDING",
@@ -1005,22 +1129,6 @@
       "url": "https://open.spotify.com/track/0Pvi59bJkEF5oH2Nqyov4Y"
     },
     {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "QQQQ",
-        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 203601,
-      "name": "QQQQ",
-      "url": "https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda"
-    },
-    {
       "added_at": "2025-01-31 05:00:38",
       "album": {
         "name": "Bon Bon (Andrew VanWyngarden Remix)",
@@ -1043,42 +1151,6 @@
       "duration_ms": 335168,
       "name": "Bon Bon - Andrew VanWyngarden Remix",
       "url": "https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598"
-    },
-    {
-      "added_at": "2025-01-24 05:00:49",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Childlike Things",
-      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
-    },
-    {
-      "added_at": "2025-01-17 05:00:46",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/5HpQprUoMHa1O0mHOtvlTe"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 296863,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/3KUFOb7T3a1Qxv1cVwlsSt"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1127,30 +1199,6 @@
       "duration_ms": 242918,
       "name": "Dani\u00e8le",
       "url": "https://open.spotify.com/track/5zzexOvuV0w3AYCPQKOTn7"
-    },
-    {
-      "added_at": "2025-01-10 05:00:33",
-      "album": {
-        "name": "Day Is Long (I Don't Want To Love You)",
-        "url": "https://open.spotify.com/album/61W8kAH0sVLMpWuWeKD9q2"
-      },
-      "artists": [
-        {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
-        },
-        {
-          "name": "wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        },
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Day Is Long (I Don't Want To Love You)",
-      "url": "https://open.spotify.com/track/68YA5OHbGzn9nFdQ2lgGe5"
     },
     {
       "added_at": "2025-01-17 05:00:46",
@@ -1501,30 +1549,6 @@
       "url": "https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Seafood Salad in France",
-        "url": "https://open.spotify.com/album/1E0FPuLyed1HVMLQ2zb0j1"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        },
-        {
-          "name": "ayrtn",
-          "url": "https://open.spotify.com/artist/6bI4QlfGPaqabHlHwcXLg3"
-        },
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Seafood Salad in France",
-      "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
-    },
-    {
       "added_at": "2025-01-03 15:55:05",
       "album": {
         "name": "Leave Me Slowly (Babsy. Remix)",
@@ -1543,22 +1567,6 @@
       "duration_ms": 144705,
       "name": "Leave Me Slowly - Babsy. Remix",
       "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/7pQJsqiM9DxejiY7tstWyo"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 214020,
-      "name": "All I",
-      "url": "https://open.spotify.com/track/3af7rbykvjYHKC2F99lifF"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1607,22 +1615,6 @@
       "duration_ms": 242941,
       "name": "No Ice",
       "url": "https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 212325,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"
     },
     {
       "added_at": "2024-10-25 04:00:00",

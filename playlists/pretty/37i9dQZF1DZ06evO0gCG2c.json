@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 315571,
+  "num_followers": 315619,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAAAtcsTVSnIDe+3VC4+QYZN3",
+  "snapshot_id": "Z7ZwgAAAAACYfYWq0LMDvpieZzlhsFOg",
   "tracks": [
     {
       "added_at": null,
@@ -206,19 +206,11 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        },
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 312986,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
+      "duration_ms": 231013,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/6uq9QQLcdeUbhe5T7ZUFl4"
     },
     {
       "added_at": null,
@@ -286,11 +278,19 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/6uq9QQLcdeUbhe5T7ZUFl4"
+      "duration_ms": 312986,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Saucy",
-        "url": "https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Baby, I'm Back",
-      "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Saucy",
+        "url": "https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "Baby, I'm Back",
+      "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
     },
     {
       "added_at": null,

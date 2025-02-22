@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Glitching",
+        "url": "https://open.spotify.com/album/4kQHFaXA7KTii3Dy4aTmXI"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129075,
+      "name": "Glitching",
+      "url": "https://open.spotify.com/track/7phWro6OJHsAY9erko1ZlS"
+    },
+    {
+      "album": {
         "name": "High Standards",
         "url": "https://open.spotify.com/album/5083omtlVeamn9onZu8vCM"
       },

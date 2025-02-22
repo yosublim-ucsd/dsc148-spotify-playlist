@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-117 songs - 7 hr 2 min
+120 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 | 2024-05-03 |  |
 | [Dolores Rayo](https://open.spotify.com/track/14W89BgLXCMD27ZTp9B6K3) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Dolores Rayo](https://open.spotify.com/album/5wgyt0hXCIEfcQ17RY4hpm) | 3:38 | 2025-01-31 |  |
 | [Domingo de Ceniza](https://open.spotify.com/track/4sOlPDKhf5fKPOAcWyBE1t) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:48 | 2023-03-17 | 2023-04-01 |
+| [Donde las flores crecen](https://open.spotify.com/track/1pxtho4MWaVfLYwu25rdAw) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Donde las flores crecen](https://open.spotify.com/album/48WrTpVvvH9h6yovonTIIN) | 2:49 | 2025-02-21 |  |
 | [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 | 2023-11-22 |  |
 | [El Amor Despues Del Amor](https://open.spotify.com/track/2UInWUPg1jiOkXWCBr2CKD) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Amor Despues Del Amor](https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI) | 3:00 | 2021-05-13 |  |
 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 | 2021-05-13 | 2025-02-01 |
@@ -85,6 +86,7 @@
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2021-05-13 |  |
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-26 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
+| [Nada Para Ti \(Acústico\)](https://open.spotify.com/track/1ExJH7GeqarJmpAZk1IyAF) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Nada Para Ti \(Acústico\)](https://open.spotify.com/album/43HzRMB4IFFxw6PZgy1Y6d) | 3:56 | 2025-02-21 |  |
 | [No Dudaría](https://open.spotify.com/track/7m9zoqomVDsBMQdhKTHr8g) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Dudaría](https://open.spotify.com/album/0QS4V8TKpiBtI8hJyEOkAj) | 4:08 | 2024-09-20 |  |
 | [No lo Entiendo](https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [No lo Entiendo](https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG) | 3:30 | 2024-10-25 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |
@@ -94,6 +96,7 @@
 | [Nueva Inglaterra](https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:21 | 2023-03-31 |  |
 | [nunca y después](https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [nunca y después](https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq) | 3:31 | 2024-06-27 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 | 2021-05-13 |  |
+| [Para llegar hasta aquí](https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Para llegar hasta aquí](https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV) | 3:53 | 2025-02-21 |  |
 | [Para Siempre Joven](https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Para Siempre Joven](https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7) | 3:21 | 2023-09-01 |  |
 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 | 2024-08-30 |  |
 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 | 2024-11-09 |

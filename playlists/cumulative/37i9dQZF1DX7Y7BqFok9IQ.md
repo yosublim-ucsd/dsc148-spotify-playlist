@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-355 songs - 23 hr 10 min
+356 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ancient Heart](https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ancient Heart](https://open.spotify.com/album/5SgcE7rpDVcQ5lCszvTNmg) | 4:12 | 2024-12-06 |  |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 | 2023-03-04 |
 | [Are You](https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Are You](https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s) | 3:40 | 2020-10-16 |  |
-| [Automobile](https://open.spotify.com/track/7rpAvCMra4EMOJEbB28AKV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Automobile](https://open.spotify.com/album/0KazOuPQ2bdJM7i8yAy9mr) | 3:04 | 2025-01-10 |  |
+| [Automobile](https://open.spotify.com/track/7rpAvCMra4EMOJEbB28AKV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Automobile](https://open.spotify.com/album/0KazOuPQ2bdJM7i8yAy9mr) | 3:04 | 2025-01-10 | 2025-02-22 |
 | [Autumn of Humanity](https://open.spotify.com/track/0hLKTdZxbapY70McAB3gkg) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Autumn of Humanity](https://open.spotify.com/album/3bHPoiEwneq98KkchYMcCH) | 4:12 | 2024-06-07 | 2024-07-06 |
 | [Awful Dream feat\. Iggy Pop](https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 5:32 | 2024-05-24 | 2024-07-06 |
 | [Awful Dreams](https://open.spotify.com/track/5gqVYz6YUDwK1t0zz5COz1) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Essential Recordings](https://open.spotify.com/album/3nLIyomGzJdF3unQJQFZyg) | 4:51 | 2024-05-24 | 2024-07-06 |
@@ -182,6 +182,7 @@
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 |  |
 | [Light Of The Moon](https://open.spotify.com/track/6fZqH2RSqDS0DWIi1US4BO) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 3:13 | 2021-07-30 | 2024-04-19 |
 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 | 2021-04-16 |  |
+| [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 | 2025-02-21 |  |
 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 | 2020-10-16 |  |
 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 | 2020-10-16 | 2024-04-19 |
 | [Lonely Road](https://open.spotify.com/track/38hLO27dbXiuyDoLdq2hHh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Lonely Road](https://open.spotify.com/album/5VL4wl6fXGSQoAIJTC1ISo) | 3:44 | 2023-04-21 | 2023-06-24 |

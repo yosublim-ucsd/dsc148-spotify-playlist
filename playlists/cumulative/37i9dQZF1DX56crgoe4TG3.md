@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-306 songs - 19 hr 56 min
+307 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 | 2023-07-14 |  |
 | [Centuries](https://open.spotify.com/track/42zrLbtRnhMwVN6T43fRRp) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:57 | 2021-08-20 | 2023-05-14 |
 | [Clocks](https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Fantastic Pickin' on Series Bluegrass Sampler, Vol\. 2](https://open.spotify.com/album/2ZfxUmkKvMQ6qHdBmA2sOx) | 7:35 | 2021-08-20 | 2024-01-20 |
+| [Closer You Get](https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [Closer You Get](https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI) | 5:45 | 2025-02-21 |  |
 | [Coalmine](https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB) | [Wilson Banjo Co.](https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo) | [Memory Lane](https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP) | 2:31 | 2024-07-13 |  |
 | [Coat Of Many Colors](https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Coat Of Many Colors](https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u) | 3:13 | 2023-09-22 |  |
 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 | 2021-12-10 |  |

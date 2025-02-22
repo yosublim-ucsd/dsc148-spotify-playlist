@@ -721,6 +721,28 @@
     },
     {
       "album": {
+        "name": "Notebook for Anna Magdalena Bach (1725): No. 26, Aria, BWV 988",
+        "url": "https://open.spotify.com/album/5pp9FTgtKxxU7BcdiqXUmQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alessandro Simonetto",
+          "url": "https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312534,
+      "name": "Notebook for Anna Magdalena Bach (1725): No. 26, Aria, BWV 988",
+      "url": "https://open.spotify.com/track/6GjsE609S09KEr2SbGl2DG"
+    },
+    {
+      "album": {
         "name": "Friedman: Piano Transcriptions",
         "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
       },

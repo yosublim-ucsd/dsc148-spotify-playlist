@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Joie Tan
 
-539 songs - 1 day 5 hr 25 min
+541 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [EX YOU](https://open.spotify.com/track/6EFncLJszMqRd6bOA0uOOv) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [EX YOU](https://open.spotify.com/album/5CvfmkcMNXnLDMgz6g243Y) | 2:54 | 2024-06-27 | 2024-08-16 |
 | [Fakta](https://open.spotify.com/track/4BSicW1niLZckWcAoohYW4) | [Khairi Sani](https://open.spotify.com/artist/2tnbTgjacIH3OMC940t6jh) | [Fakta](https://open.spotify.com/album/4OU35N9XAg2jJBGXCPEGP5) | 3:40 | 2024-11-21 | 2025-01-17 |
 | [fantasy](https://open.spotify.com/track/2sVira6wIbxbpYCClbNsar) | [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG), [Zam 0'DEEN](https://open.spotify.com/artist/0s6qwiEvQn7NiypEyYdexJ) | [fantasy](https://open.spotify.com/album/3WYfvcVQ0kTM7f6brD4t2p) | 3:14 | 2024-08-22 | 2024-09-27 |
+| [farewell handshake](https://open.spotify.com/track/7phUmq6hzPD6Rp17G4s30w) | [Phantom Haze](https://open.spotify.com/artist/68vrmU1aYdSG3azBjle63Q) | [farewell handshake](https://open.spotify.com/album/5oBH2o0hJ1xtU0H2tkQuHO) | 2:59 | 2025-02-20 |  |
 | [FAST \- Remix](https://open.spotify.com/track/0752MagBw9EVPcfkJgagRK) | [Kidd Kweezy](https://open.spotify.com/artist/1IEwLF7ROvTieNIFnAA2FR), [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [FAST \(Remix\)](https://open.spotify.com/album/0hk5piMIWlVUTFi526defv) | 3:45 | 2024-12-19 | 2025-01-24 |
 | [Fate](https://open.spotify.com/track/0uEhnUgbk1ObFbdjDXvKgN) | [Nipun Kapoor](https://open.spotify.com/artist/09jdEbCnXigbjZvS3KDzGW), [Aryan Nabar](https://open.spotify.com/artist/3zmiW6ahKu6wzzDIwr9MTg) | [Fate](https://open.spotify.com/album/1mjfXWkqNb5gdPHbqiEboY) | 3:02 | 2024-09-19 | 2024-11-09 |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-07-27 |
@@ -441,6 +442,7 @@
 | [Van Cleef](https://open.spotify.com/track/55DFMTzCQw8WW3W2cFzWoW) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Van Cleef](https://open.spotify.com/album/1bIFLBUXYDsPU8ujJDEv2m) | 2:24 | 2025-01-23 | 2025-02-21 |
 | [Venum](https://open.spotify.com/track/70I5Vng5MWUXOTaIICBQ9P) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Jenushan](https://open.spotify.com/artist/0KBGwJWJJf9Z3AcssHnxCL), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Venum](https://open.spotify.com/album/6KBuhV7p0VMXXFRosgVk4Y) | 3:26 | 2024-08-29 | 2024-09-13 |
 | [Venum \- Prito Afromix](https://open.spotify.com/track/2ha8kTs9TchIr3JZxGMSfH) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Prito](https://open.spotify.com/artist/15n56NwkxA24UtaNSwdwuv) | [Venum \(Prito Afromix\)](https://open.spotify.com/album/2ID7OyBJchcYsGEUZDalE6) | 3:18 | 2024-10-10 | 2024-11-09 |
+| [Wail](https://open.spotify.com/track/6QHX2ouw6wcKJyCXy1zCB7) | [Ezekiel Tok](https://open.spotify.com/artist/2i7r4upIcuvwaX5OnZrjXy) | [Wail](https://open.spotify.com/album/5TssfBAsIedUtnELotzh2v) | 5:31 | 2025-02-20 |  |
 | [wait for you](https://open.spotify.com/track/4L6WxW8cyT5hYvhsi1MqJd) | [emmarae](https://open.spotify.com/artist/1eF3L2mTZO8nLUihnoA3Lb) | [wait for you](https://open.spotify.com/album/2TypPrprJlOqGBNROF5Drr) | 3:16 | 2024-12-06 | 2025-02-07 |
 | [WALK WITH ME](https://open.spotify.com/track/7ElonvjX6hc30UcSlTd9oJ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [RUNWAY HEARTBEATS](https://open.spotify.com/album/74hSmMk72AVe1Un09Giu19) | 2:49 | 2024-10-24 | 2024-11-22 |
 | [Wanna Be Mine](https://open.spotify.com/track/2DP81jltczEw2Erz1Qx2dG) | [SKEPTYL](https://open.spotify.com/artist/2tTXTBPSkMo3UXYyxKstOY) | [Wanna Be Mine](https://open.spotify.com/album/6ryem0Okp83oZQlHPVvc1r) | 2:45 | 2025-02-06 |  |

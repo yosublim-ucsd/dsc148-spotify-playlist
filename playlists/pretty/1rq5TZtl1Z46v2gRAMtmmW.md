@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,972 likes - 40 songs - 2 hr 36 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,977 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 34 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 |
 | 35 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 36 | [Make Me \- Sofia Kourtesis Remix](https://open.spotify.com/track/01nJMJaJ6N6FrVjnsGtz52) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Make Me \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/2B6r3sO1nYQ8jsy3knHo6W) | 4:03 |
-| 37 | [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 |
-| 38 | [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 |
-| 39 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 |
-| 40 | [Stream of Consciousness](https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Stream of Consciousness](https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE) | 2:42 |
+| 37 | [In The Night \- Paul Sirrell Remix](https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [In The Night \(Paul Sirrell Remix\) / Green \(St\. David Remix\)](https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI) | 3:30 |
+| 38 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 |
+| 39 | [Stream of Consciousness](https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Stream of Consciousness](https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE) | 2:42 |
+| 40 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |
 
-Snapshot ID: `AAAP5DasOpJPkL9PfdaaR0E5DrMFY8nl`
+Snapshot ID: `AAAP5qXMO6xmKdEYatKvYDoWRKgDAckx`

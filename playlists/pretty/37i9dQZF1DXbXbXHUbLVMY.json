@@ -1,6 +1,6 @@
 {
   "description": "flusflusflus\ud83d\udea8 ",
-  "num_followers": 28384,
+  "num_followers": 28378,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "EUROSTAR",
-        "url": "https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT"
+        "name": "\u00c4nnu en dag",
+        "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
       },
       "artists": [
         {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
         },
         {
-          "name": "Deno",
-          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 156117,
-      "name": "EUROSTAR",
-      "url": "https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi"
+      "duration_ms": 146400,
+      "name": "\u00c4nnu en dag",
+      "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -387,22 +383,26 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "\u00c4nnu en dag",
-        "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
+        "name": "EUROSTAR",
+        "url": "https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT"
       },
       "artists": [
         {
-          "name": "Sickan",
-          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
         },
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 146400,
-      "name": "\u00c4nnu en dag",
-      "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
+      "duration_ms": 156117,
+      "name": "EUROSTAR",
+      "url": "https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Utested",
-        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Utested",
-      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "H\u00e4r Ute",
         "url": "https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 159010,
       "name": "H\u00e4r Ute",
       "url": "https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Utested",
+        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Utested",
+      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "BLANCO",
-        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 135004,
-      "name": "BLANCO",
-      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "H\u00f6r Dig",
         "url": "https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "BLANCO",
+        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 135004,
+      "name": "BLANCO",
+      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Sjunka",
         "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 133375,
       "name": "Sjunka",
       "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -755,22 +771,6 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165528,
-      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
-      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 123870,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "R\u00e4dda mig",
-        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        },
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "R\u00e4dda mig",
-      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Midja",
         "url": "https://open.spotify.com/album/58EvnfeGOL2bozVnzGFh2J"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 158048,
       "name": "Midja",
       "url": "https://open.spotify.com/track/3ElxPNHikg80BAC3AX3y80"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "R\u00e4dda mig",
+        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        },
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "R\u00e4dda mig",
+      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 121629,
       "name": "Hva Vil Du",
       "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Vi",
-        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        }
-      ],
-      "duration_ms": 108196,
-      "name": "Vi",
-      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Norge Elsker Rap",
         "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 110373,
       "name": "Schnogodidougudugidoubudibow",
       "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 108196,
+      "name": "Vi",
+      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2025-02-06 23:00:37",

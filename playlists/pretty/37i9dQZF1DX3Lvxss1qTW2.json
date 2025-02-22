@@ -1,12 +1,12 @@
 {
   "description": "The future hits of today. \nCover: Yarden",
-  "num_followers": 80156,
+  "num_followers": 80192,
   "original_name": "Bubblin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fmiwAAAABVOV+CI4JFKhdy7EofXUci",
+  "snapshot_id": "Z7iGbQAAAAD+JG2D5+g0E3Ie1OEBhgXf",
   "tracks": [
     {
       "added_at": "2025-02-21 02:35:55",
@@ -27,6 +27,54 @@
       "duration_ms": 139199,
       "name": "Venus",
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
+    },
+    {
+      "added_at": "2025-02-21 02:35:55",
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
+    },
+    {
+      "added_at": "2025-02-21 02:35:55",
+      "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2025-02-21 02:35:55",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -117,24 +165,36 @@
       "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
     },
     {
-      "added_at": "2025-02-21 02:35:55",
+      "added_at": "2025-02-21 13:58:05",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+        "name": "Conse (feat. May D, Fatboy E & Smada)",
+        "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Fatboy E",
+          "url": "https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/0qhfALctZENRjIITNtqWti"
+      "duration_ms": 169411,
+      "name": "Conse (feat. May D, Fatboy E & Smada)",
+      "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -193,6 +253,22 @@
       "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
     },
     {
+      "added_at": "2025-02-21 13:58:05",
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
+    },
+    {
       "added_at": "2025-02-21 02:35:55",
       "album": {
         "name": "World Best",
@@ -235,26 +311,6 @@
     {
       "added_at": "2025-02-21 02:35:55",
       "album": {
-        "name": "Where You Dey",
-        "url": "https://open.spotify.com/album/0OjiJY0YtOMsNDdQxeivYD"
-      },
-      "artists": [
-        {
-          "name": "Zilla Oaks",
-          "url": "https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU"
-        },
-        {
-          "name": "Spykida",
-          "url": "https://open.spotify.com/artist/1U5h2Q7PpusNlSlG0CRgSK"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Where You Dey",
-      "url": "https://open.spotify.com/track/3OW8TTRWkCNbwvALsZorvy"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS"
       },
@@ -267,6 +323,22 @@
       "duration_ms": 201509,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg"
+    },
+    {
+      "added_at": "2025-02-21 13:58:05",
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -287,26 +359,6 @@
     {
       "added_at": "2025-02-21 02:35:55",
       "album": {
-        "name": "what a feeling",
-        "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 159945,
-      "name": "who does that? (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
         "name": "By Any Minz",
         "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
@@ -321,20 +373,36 @@
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
     },
     {
-      "added_at": "2025-02-21 02:35:55",
+      "added_at": "2025-02-21 13:58:05",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6aw16ejuQ5mvvuvGbEMjo2"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
         }
       ],
-      "duration_ms": 135000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
+      "duration_ms": 139428,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/3bBVesR6p4ItmBsAK2A4zS"
+    },
+    {
+      "added_at": "2025-02-21 13:58:05",
+      "album": {
+        "name": "Onorato",
+        "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -391,22 +459,6 @@
       "duration_ms": 148932,
       "name": "SMH",
       "url": "https://open.spotify.com/track/0DVj9NqROYmSFoaa4MUyE4"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -479,6 +531,26 @@
       "duration_ms": 168421,
       "name": "Italia",
       "url": "https://open.spotify.com/track/4egYs7ym9uMkHiNMCUWS8R"
+    },
+    {
+      "added_at": "2025-02-21 13:58:05",
+      "album": {
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/1pvgcVZDN5JH0QpLAMOYm8"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 120681,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/1GgIn8ISz4FyY798EXNvyk"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -625,6 +697,26 @@
       "url": "https://open.spotify.com/track/0PfVaK1uYkpxOZ82Y7oeyL"
     },
     {
+      "added_at": "2025-02-21 13:58:05",
+      "album": {
+        "name": "OYO (On Your Own)",
+        "url": "https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "duration_ms": 222237,
+      "name": "OYO (Own Your Own)",
+      "url": "https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi"
+    },
+    {
       "added_at": "2025-02-21 02:35:55",
       "album": {
         "name": "Ave Maria",
@@ -679,22 +771,6 @@
       "duration_ms": 166720,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -779,22 +855,6 @@
     {
       "added_at": "2025-02-21 02:35:55",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
         "name": "Tears Of A Mad Man",
         "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
       },
@@ -807,26 +867,6 @@
       "duration_ms": 185077,
       "name": "Wahala",
       "url": "https://open.spotify.com/track/6a9DY77Rxv9yWo46qSLPxT"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
-        "name": "[I.N.I.T] In Nasboi I Trust",
-        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 137962,
-      "name": "Could This Be Love",
-      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -847,22 +887,6 @@
       "duration_ms": 117916,
       "name": "Jostimilo",
       "url": "https://open.spotify.com/track/0zKgp4hE1VnNANbMgKFWA5"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
-        "name": "Bus Stop",
-        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 182361,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
     },
     {
       "added_at": "2025-02-21 02:35:55",
@@ -971,26 +995,6 @@
       "duration_ms": 156891,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx"
-    },
-    {
-      "added_at": "2025-02-21 02:35:55",
-      "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
       "added_at": "2025-02-21 02:35:55",

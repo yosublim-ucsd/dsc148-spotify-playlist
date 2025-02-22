@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio, Elaine Martins
 
-280 songs - 1 day 1 hr 17 min
+281 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bastidores da Alma](https://open.spotify.com/track/3X5BVGQJtxOBmSILiB410V) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/15AjTurHrol8ySfQkBAxvm) | 4:03 | 2022-09-09 | 2022-09-21 |
 | [Bendirei \- Studio](https://open.spotify.com/track/1vpIi6JLGfNiOWTS9OB2j1) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Bendirei \(Studio\)](https://open.spotify.com/album/3jmp3uWCuy12Gim3154Ec0) | 4:20 | 2023-08-18 | 2023-09-02 |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-24 | 2025-02-01 |
+| [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 | 2025-02-21 |  |
 | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb) | 3:45 | 2022-10-28 | 2022-12-17 |
 | [Canção da Noiva](https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Canção da Noiva](https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO) | 6:09 | 2023-11-24 | 2024-04-20 |
 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 | 2023-02-10 | 2024-04-27 |
@@ -86,7 +87,7 @@
 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 | 2022-09-09 | 2022-10-01 |
 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 | 2022-09-09 | 2023-10-07 |
 | [Ele Vivo Está \- Ao Vivo](https://open.spotify.com/track/1rdX7BDE5okxQ3gIVbj1sy) | [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Ele Vivo Está \(Ao Vivo\)](https://open.spotify.com/album/1TfwbOSiKetVgFv3hwXmJ8) | 9:21 | 2023-04-28 | 2023-06-17 |
-| [Em Missão de Amor](https://open.spotify.com/track/6u3BXKJdGXUKyDpti4QSGL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Em Missão de Amor](https://open.spotify.com/album/6WowcZuZLUxImUkz8Lw9X7) | 4:24 | 2024-10-25 |  |
+| [Em Missão de Amor](https://open.spotify.com/track/6u3BXKJdGXUKyDpti4QSGL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Em Missão de Amor](https://open.spotify.com/album/6WowcZuZLUxImUkz8Lw9X7) | 4:24 | 2024-10-25 | 2025-02-22 |
 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 | 2024-12-06 |  |
 | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/track/5PwfEoRObqfeFYMt0gjf1j) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/album/4xR7lEe74x3j3xuxlOB5BD) | 3:23 | 2023-08-04 | 2023-08-19 |
 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 | 2023-09-01 | 2023-09-16 |

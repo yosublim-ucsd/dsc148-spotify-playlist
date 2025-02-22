@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-51 songs - 4 hr 31 min
+52 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Sensa](https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Zac Martel](https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [Sensa](https://open.spotify.com/album/2RWJTcOuzato9McKwJgzH2) | 4:25 | 2025-02-12 |  |
 | [Sensa \- Dennis Louvra Remix](https://open.spotify.com/track/6jBIwxcjRKpMZuKIIx2MF7) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Zac Martel](https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1), [Dennis Louvra](https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC) | [Sensa \(Dennis Louvra Remix\)](https://open.spotify.com/album/126n1vtflq8cba4nFTDw1f) | 3:32 | 2025-02-12 |  |
 | [Still Minus](https://open.spotify.com/track/7htrWDLJjzmwE5SPO5NlWi) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [As Their Ways Intersect](https://open.spotify.com/album/7AUKDEA6BNv3zpFHIT3NMk) | 8:02 | 2025-02-12 |  |
+| [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 | 2025-02-21 |  |
 | [The Only One](https://open.spotify.com/track/64v9obzFAgVwlNqSy1yQby) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [The Only One](https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG) | 4:49 | 2025-02-12 |  |
 | [Things We Might Have Said](https://open.spotify.com/track/4TFeWa8qjlyiRJRdb6bC2m) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Megacity Servant](https://open.spotify.com/album/3giZg1sOZTe503fZQiTgnO) | 7:55 | 2025-02-12 |  |
 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2025-02-12 |  |

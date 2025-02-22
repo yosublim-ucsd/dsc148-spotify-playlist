@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-187 songs - 12 hr 43 min
+188 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Esta Navidad](https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 4:13 | 2022-11-25 |  |
 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 | 2022-12-18 |  |
 | [Esta Parranda Te la Debía](https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:33 | 2022-12-18 |  |
+| [Estas Navidades](https://open.spotify.com/track/5qpk1hG83n2PGTzoJQRVK3) | [Darlyn y Los Herederos](https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 4:04 | 2024-12-13 |  |
 | [Faltan 5 pa’ las 12](https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Faltan 5 pa’ las 12](https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl) | 3:28 | 2023-11-24 |  |
 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 | 2022-11-25 |  |
 | [Feliz Cumbé](https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 3:13 | 2022-11-25 | 2024-04-19 |
@@ -168,7 +169,7 @@
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-11-25 | 2024-04-19 |
 | [Pescao \(Popurri Sambao\): Si Se Quema El Monte / Coje El Pandero / Pescao \(Samba\)](https://open.spotify.com/track/7JIeUzAQeuGoED1235Eje9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:39 | 2022-11-25 |  |
 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 | 2022-11-25 |  |
-| [Porque Me Gusta la Rumba](https://open.spotify.com/track/1QwC66ulIsyJhHg1kTw1ms) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 3:54 | 2023-12-19 |  |
+| [Porque Me Gusta la Rumba](https://open.spotify.com/track/1QwC66ulIsyJhHg1kTw1ms) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 3:54 | 2023-12-19 | 2025-02-22 |
 | [Prende el Arbolito](https://open.spotify.com/track/3F1OeA2CiZHJLEIREGdjWx) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:50 | 2023-12-19 | 2024-11-16 |
 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 | 2022-11-25 |  |
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2022-11-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 102528,
+  "num_followers": 102585,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -612,7 +612,7 @@
           "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
         },
         {
-          "name": "Captain Boy",
+          "name": "CAPTAIN BOY",
           "url": "https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5"
         },
         {
@@ -723,6 +723,26 @@
     {
       "added_at": "2025-02-21 00:17:23",
       "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2025-02-21 00:17:23",
+      "album": {
         "name": "GOLDEN BOY",
         "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 274212,
       "name": "Vi\u1ec7c N\u00ean L\u00e0m",
       "url": "https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc"
-    },
-    {
-      "added_at": "2025-02-21 00:17:23",
-      "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2025-02-21 00:17:23",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-02-21 00:17:23",
       "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
       "artists": [
         {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+          "name": "B\u00ecnh Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+      "duration_ms": 227555,
+      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     },
     {
       "added_at": "2025-02-21 00:17:23",
@@ -907,22 +911,18 @@
     {
       "added_at": "2025-02-21 00:17:23",
       "album": {
-        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
       },
       "artists": [
         {
-          "name": "B\u00ecnh Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
         }
       ],
-      "duration_ms": 227555,
-      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
-      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2025-02-21 00:17:23",

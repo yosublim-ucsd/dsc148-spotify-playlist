@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,275 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,335 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 2 | [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:54 |
 | 3 | [Qesm El Shakawy](https://open.spotify.com/track/0R83NDHazT9AnwN3PK2QsR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Qesm El Shakawy](https://open.spotify.com/album/6ff3vRJInbqwl041x1hau9) | 2:21 |
 | 4 | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/track/5oxvpXB7P9a5Rjnd6VLixu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/album/7BATwGP1wSNSHld20Aj0jQ) | 4:02 |
-| 5 | [قلق](https://open.spotify.com/track/0VJkCpK6wJugvM9iGKLNYP) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC), [Ahmed Gelba](https://open.spotify.com/artist/3M8shshJWVMUkaM49rsjcs) | [قلق](https://open.spotify.com/album/0zoYu353rRR4pfm2fr5Lax) | 2:53 |
+| 5 | [قلق](https://open.spotify.com/track/0VJkCpK6wJugvM9iGKLNYP) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Ahmed Gelba](https://open.spotify.com/artist/3M8shshJWVMUkaM49rsjcs) | [قلق](https://open.spotify.com/album/0zoYu353rRR4pfm2fr5Lax) | 2:53 |
 | 6 | [Ana Beki](https://open.spotify.com/track/3bNJbNyVdOiOA5oOsR7JKp) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ana Beki](https://open.spotify.com/album/06G7t5jV3oFgdTv8rKrjCp) | 3:20 |
 | 7 | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/track/3LhjGqorUE4YRxtSeiwlEA) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/album/1MLX5vDZrTLDiHgqS90Qpi) | 3:18 |
-| 8 | [مستني](https://open.spotify.com/track/5l3kU06SSWGr20N4c2PiW3) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [مستني](https://open.spotify.com/album/2IxtWZG2uvyWES8U6EfiXk) | 3:00 |
-| 9 | [Kont El Hawa](https://open.spotify.com/track/2GKRT8AAGccblD5ljN3UK5) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Kont El Hawa](https://open.spotify.com/album/2eZe3riyUMhWxkenHEcZvF) | 3:32 |
-| 10 | [Battalet Ahbek](https://open.spotify.com/track/3TG8IoXZ1Xkwra8RX8oDPu) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Battalet Ahbek](https://open.spotify.com/album/0iUzTdTjDhmar6AiBcuHV3) | 4:02 |
-| 11 | [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/2pPyRxqHb4PHqziNGNX89w) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 |
-| 12 | [Keda Ray2a](https://open.spotify.com/track/3UNWQ32OPdRYB6H5wEeWQ1) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0HlJUMmbPd9UP4QJ8EsEbJ) | 2:50 |
-| 13 | [في شرع مين ؟](https://open.spotify.com/track/3fGcWW3RKqIrmEaPYGStiy) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [في شرع مين ؟](https://open.spotify.com/album/2fHW2GQmmCQzPKKveVe9qA) | 3:23 |
+| 8 | [ZAFAH](https://open.spotify.com/track/393baeE4UoRuGWKqYTxE8D) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [ZAFAH](https://open.spotify.com/album/1JqklfXVe56yQQMlgktrXm) | 3:19 |
+| 9 | [مستني](https://open.spotify.com/track/5l3kU06SSWGr20N4c2PiW3) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [مستني](https://open.spotify.com/album/2IxtWZG2uvyWES8U6EfiXk) | 3:00 |
+| 10 | [Kont El Hawa](https://open.spotify.com/track/2GKRT8AAGccblD5ljN3UK5) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Kont El Hawa](https://open.spotify.com/album/2eZe3riyUMhWxkenHEcZvF) | 3:32 |
+| 11 | [Battalet Ahbek](https://open.spotify.com/track/3TG8IoXZ1Xkwra8RX8oDPu) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Battalet Ahbek](https://open.spotify.com/album/0iUzTdTjDhmar6AiBcuHV3) | 4:02 |
+| 12 | [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/2pPyRxqHb4PHqziNGNX89w) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 |
+| 13 | [Keda Ray2a](https://open.spotify.com/track/3UNWQ32OPdRYB6H5wEeWQ1) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0HlJUMmbPd9UP4QJ8EsEbJ) | 2:50 |
 | 14 | [Mish Ader Ansa](https://open.spotify.com/track/5G2GTdOEo3xF8RZZxibZjv) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mish Ader Ansa](https://open.spotify.com/album/1vhrqKQYvY1ztZ11HLs4BK) | 4:27 |
 | 15 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
 | 16 | [Ka2en Hay](https://open.spotify.com/track/4Uo98PUW7zojN7nVRAIHrD) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ka2en Hay](https://open.spotify.com/album/6nfbfGwsXP5uBagtFbkyHB) | 3:44 |

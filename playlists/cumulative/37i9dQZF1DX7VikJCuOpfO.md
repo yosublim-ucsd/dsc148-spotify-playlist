@@ -2,9 +2,9 @@
 
 ### [Mariachi 2025](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Camila Fernández
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alejandro Fernández
 
-434 songs - 23 hr 27 min
+436 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [7 Vidas](https://open.spotify.com/track/4ieFblgI29t6eFCxuZH6Dp) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [7 Vidas](https://open.spotify.com/album/7acoLTImpkXhfwCAUDdWbh) | 3:14 | 2024-04-19 | 2024-05-25 |
 | [A Escondidas](https://open.spotify.com/track/094KjPaocLCA5XasI5vpHq) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [A Escondidas](https://open.spotify.com/album/0eopjOoHMQwmmx1dbz3hSE) | 3:21 | 2023-02-10 | 2023-05-27 |
 | [A Lo Que Veo](https://open.spotify.com/track/4TEZTwDJqZ5hl8aQrNZC8F) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Estamos De Vuelta](https://open.spotify.com/album/6Qn1EssGgidEkf1zutCsQd) | 3:16 | 2023-01-20 | 2023-05-27 |
+| [A Mi Manera \- En Vivo Desde La Monumental Plaza De Toros México, 2024](https://open.spotify.com/track/5uHGmZtbFPrrkzY0rrQtQm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Mi Manera \(En Vivo Desde La Monumental Plaza De Toros México, 2024\)](https://open.spotify.com/album/1OqwSPoKvOuB74ABgk5soy) | 5:28 | 2025-02-21 |  |
 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 | 2023-11-10 |  |
 | [A Solas con la Botella](https://open.spotify.com/track/4eOCDe8x4K4bFIhpbtIbfZ) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [PA'L CORA EP\. 02](https://open.spotify.com/album/21oGI6V204SgNkl2iXmtjQ) | 4:13 | 2025-01-31 |  |
 | [A Veces](https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [A Veces](https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC) | 2:38 | 2024-04-19 | 2024-05-25 |
@@ -61,7 +62,7 @@
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-07-01 | 2023-01-07 |
 | [Ciega Por El](https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ciega Por El](https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5) | 3:28 | 2023-05-26 |  |
 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2022-05-13 | 2022-06-01 |
-| [Cobijas Ajenas](https://open.spotify.com/track/5DelZl3SKdPLBSA8Ovhydk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:40 | 2024-09-27 |  |
+| [Cobijas Ajenas](https://open.spotify.com/track/5DelZl3SKdPLBSA8Ovhydk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:40 | 2024-09-27 | 2025-02-22 |
 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 | 2023-05-19 | 2023-09-09 |
 | [Como Dios Manda \- En Vivo](https://open.spotify.com/track/72xRxJWbxdEnGuFZZQS8X6) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Mariachi De América De Jesús Rodríguez De Hijar](https://open.spotify.com/artist/0O844w3tUMfXQgtgH44Ilc) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT) | 3:37 | 2022-05-13 | 2022-06-01 |
 | [Como Ella](https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [¡Arránquense Muchachos!](https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE) | 3:51 | 2023-09-08 | 2024-11-26 |
@@ -211,6 +212,7 @@
 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 | 2022-05-13 | 2022-06-01 |
 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 | 2023-01-06 |  |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2023-01-06 |  |
+| [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 | 2025-02-21 |  |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2023-01-06 |  |
 | [Me Hubiera Gustado](https://open.spotify.com/track/3PUzw1rh9BEpmkULMIBrL5) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Me Hubiera Gustado](https://open.spotify.com/album/1tTP8iz786aMrlt2kWH2U1) | 3:11 | 2022-05-13 | 2022-06-01 |
 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2023-01-06 |  |
@@ -439,7 +441,7 @@
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-07-01 | 2024-04-19 |
 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 | 2022-05-13 | 2022-06-01 |
 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 | 2022-07-01 | 2023-01-07 |
-| [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:22 | 2025-01-17 |  |
+| [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:22 | 2025-01-17 | 2025-02-22 |
 | [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 | 2023-01-06 |  |
 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2023-01-06 |  |
 

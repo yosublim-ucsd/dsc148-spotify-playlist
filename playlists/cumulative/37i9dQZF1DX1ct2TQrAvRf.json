@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Ghane Gande",
+        "url": "https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Ghane Gande",
+      "url": "https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6"
+    },
+    {
+      "album": {
         "name": "Goat Dekho",
         "url": "https://open.spotify.com/album/4IvljiJx9k9Vuog309ll8r"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
@@ -2374,6 +2392,28 @@
       "duration_ms": 170847,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/4uW8CuyO9r7vOXgYf1eqCz"
+    },
+    {
+      "album": {
+        "name": "Ik Kudi",
+        "url": "https://open.spotify.com/album/57mcLnJFis2e0ei2tilEVK"
+      },
+      "artists": [
+        {
+          "name": "wolf.cryman",
+          "url": "https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Ik Kudi",
+      "url": "https://open.spotify.com/track/6xNzHSmcG5KkagzwxEBPA0"
     },
     {
       "album": {
@@ -3722,7 +3762,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206400,
       "name": "Naksha",
       "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
@@ -3894,6 +3934,28 @@
       "duration_ms": 279120,
       "name": "Pablo",
       "url": "https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo"
+    },
+    {
+      "album": {
+        "name": "Pacha Parishkari",
+        "url": "https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Pacha Parishkari",
+      "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
     },
     {
       "album": {
@@ -5168,7 +5230,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 300923,
       "name": "WARCRY",
       "url": "https://open.spotify.com/track/5jF97N0q1RL2Cn2Ss7Vz4Z"

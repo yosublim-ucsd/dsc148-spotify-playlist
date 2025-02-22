@@ -17683,6 +17683,28 @@
     },
     {
       "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX"
+    },
+    {
+      "album": {
         "name": "UMBRA",
         "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
       },

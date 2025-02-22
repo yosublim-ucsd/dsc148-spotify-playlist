@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Alkolirykoz
 
-165 songs - 9 hr 2 min
+166 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bendición o Desgracia](https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO) | 2:43 | 2023-09-08 | 2024-04-19 |
 | [Bogotá](https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Bogotá](https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH) | 3:21 | 2023-08-04 |  |
 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 | 2023-05-26 |  |
+| [Bosque](https://open.spotify.com/track/3oWrpOkUZli6IBV8ESQJiO) | [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [GXNZX](https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c) | [Bosque](https://open.spotify.com/album/0tojwpqnNQyTYhEM6ZDtxo) | 2:34 | 2025-02-21 |  |
 | [Buenos Días Vietnam](https://open.spotify.com/track/2VgeQUk0yFRZy9yksb6kES) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Indiana Jones](https://open.spotify.com/album/6hmtx7jtsC6MR1guEHolUo) | 3:58 | 2024-02-23 |  |
 | [Buenos Días Vietnam](https://open.spotify.com/track/2ieyIDwlghKt45bqH19sOg) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:58 | 2023-05-26 | 2024-04-19 |
 | [C.Funktastic](https://open.spotify.com/track/5b6CPprnxzCEVGzCJawrp0) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [C.Funktastic](https://open.spotify.com/album/7B4bUYQKNMhSwMYtEmjtXB) | 2:29 | 2023-05-26 | 2023-07-08 |
@@ -169,7 +170,7 @@
 | [Viento](https://open.spotify.com/track/38HS4ioSKj5aIj5Czr0352) | [Jay M Vee](https://open.spotify.com/artist/4jSlNjieG5Gtz82RPzUbF2), [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Viento](https://open.spotify.com/album/6ZfPNl1JCYyLpNJvSATZVl) | 1:58 | 2024-04-19 | 2024-07-13 |
 | [Volante de Creación](https://open.spotify.com/track/3plVXGSjqy9iS4gwwqo94D) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Volante de Creación](https://open.spotify.com/album/10ROnwGbK5D0xBPCRpD7nP) | 3:09 | 2023-05-26 | 2023-07-01 |
 | [Vuelve Y Juega](https://open.spotify.com/track/169Stxh6ZnHavcCrwFcE1S) | [Anyone/Cualkiera](https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Go Die](https://open.spotify.com/album/4X4f0vzyh2JQTQwh38XlQ2) | 2:28 | 2023-05-26 |  |
-| [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2023-05-26 |  |
+| [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2023-05-26 | 2025-02-22 |
 | [Zidane](https://open.spotify.com/track/08LuJTtXnSdxPXCWYMxyw7) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0) | [Zidane](https://open.spotify.com/album/494RIxej15bIVBqS2NVMXc) | 3:01 | 2023-05-26 |  |
 | [Éter](https://open.spotify.com/track/1Y7S7m70dK0sHtjT0iR18W) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [ASTRO LS](https://open.spotify.com/artist/4nMy78iAohM7ann7E8yMXA) | [Éter](https://open.spotify.com/album/6m5RzIdVSWcOndj0Ejxv77) | 3:39 | 2023-05-26 |  |
 | [⁠Twitter](https://open.spotify.com/track/4CiMqATzgykKJKZqvRbXrY) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ) | [LUZ](https://open.spotify.com/album/1SB2kEI4gLhi16NPgX3PhK) | 2:20 | 2024-10-11 | 2024-12-07 |

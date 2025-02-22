@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 815423,
+  "num_followers": 815722,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAACRfxYKUmJee83aZmIMYFVI",
+  "snapshot_id": "Z7ZwgAAAAACFDa0zuIokFLfFSHBC3tw0",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Ni Lo Intentes",
-      "url": "https://open.spotify.com/track/3WiU6ZeOD7UFjTSPraQMPl"
+      "duration_ms": 223480,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2MsHqegaJQIiulNQi9fZ3p"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2MsHqegaJQIiulNQi9fZ3p"
+      "duration_ms": 196586,
+      "name": "Ni Lo Intentes",
+      "url": "https://open.spotify.com/track/3WiU6ZeOD7UFjTSPraQMPl"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
       "duration_ms": 168333,
       "name": "Amantes De Media Noche",
       "url": "https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151787,
+      "name": "Due\u00f1a De Mis Besos",
+      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
     }
   ],
   "unique_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",

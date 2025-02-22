@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: JISOO
 
-4,460 songs - 10 day 18 hr 31 min
+4,461 songs - 10 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,6 +946,7 @@
 | [Exit A8](https://open.spotify.com/track/3pq8X8itHc4JJBoNEEGnUT) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Exit A8](https://open.spotify.com/album/7KHcAhtporLHejH0s1JMIR) | 3:35 | 2024-04-04 | 2024-04-19 |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-12 | 2023-05-01 |
 | [Expert](https://open.spotify.com/track/3rohgMC4x9jcwu2GKOgwiK) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [Expert](https://open.spotify.com/album/7KJplM4zKQkBM2aqT1TFyD) | 3:33 | 2023-09-24 | 2023-10-16 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-20 |  |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-26 | 2023-04-03 |
 | [Eye of the hurricane](https://open.spotify.com/track/6KPVwLMVSWwhxFvJDzMOlJ) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [First Contact](https://open.spotify.com/album/4oulWpNWnKMKAbXRZMtnyi) | 5:19 | 2023-09-10 | 2023-09-18 |
 | [eye see](https://open.spotify.com/track/2p4DxbMnIkVjnPLh0tyYY6) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [eye see](https://open.spotify.com/album/2JsrGBTu4QmRQz7nkNmQMc) | 2:45 | 2024-11-28 | 2025-01-17 |

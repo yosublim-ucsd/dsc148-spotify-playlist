@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-127 songs - 7 hr 31 min
+128 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 | 2025-02-03 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2024-06-27 | 2024-09-20 |
 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 | 2025-01-27 |  |
-| [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 | 2025-01-23 |  |
+| [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 | 2025-01-23 | 2025-02-22 |
 | [Body as a Meadow](https://open.spotify.com/track/4mRShssMbisESekK0l63Z3) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [Body as a meadow](https://open.spotify.com/album/5fS6k6t6Q8xF1Puwt6dlmE) | 3:39 | 2024-10-03 | 2024-10-23 |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2024-06-27 | 2024-09-20 |
 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 | 2025-01-23 |  |
@@ -82,6 +82,7 @@
 | [Lost in Some Dream](https://open.spotify.com/track/5800FfpvzRObVCdIYOrDtJ) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Lost in Some Dream](https://open.spotify.com/album/0qpe8DnGxrth4rWMeMcMs1) | 3:27 | 2024-06-27 | 2025-01-24 |
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
 | [Moonlight Child](https://open.spotify.com/track/1XS1byNGw6Ii27Z9os7RUf) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [All Under Heaven](https://open.spotify.com/album/5IXDmsbdVqJiT9UqMtpAxF) | 4:29 | 2025-01-23 | 2025-01-29 |
+| [Mount Fuji](https://open.spotify.com/track/1sY4WwCZYh3nkLnojWRk8h) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:30 | 2025-02-20 |  |
 | [Mountainsong](https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9) | [Catbug](https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj) | [Mountainsong](https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J) | 6:20 | 2024-07-18 | 2025-01-24 |
 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 | 2025-01-23 |  |
 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 | 2025-01-23 | 2025-02-18 |

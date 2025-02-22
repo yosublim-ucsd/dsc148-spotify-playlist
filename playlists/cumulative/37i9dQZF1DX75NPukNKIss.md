@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: PARTYNEXTDOOR and Drake
 
-93 songs - 4 hr 22 min
+94 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dallas](https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Dallas](https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4) | 2:56 | 2024-11-06 |  |
 | [Daylight](https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Daylight](https://open.spotify.com/album/1luRfnNDvf6dpIRDlWjk7O) | 3:49 | 2024-10-25 |  |
 | [Dip](https://open.spotify.com/track/7eSsYyu7NEbqsDhP27H5pd) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dip](https://open.spotify.com/album/6b2nQgSkNV7bdeQ2xVoPHm) | 1:39 | 2024-12-20 |  |
-| [Dirty Diana](https://open.spotify.com/track/5okSTJQJ6qWVG0WsvNGwZZ) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:36 | 2025-01-24 |  |
+| [Dirty Diana](https://open.spotify.com/track/5okSTJQJ6qWVG0WsvNGwZZ) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:36 | 2025-01-24 | 2025-02-22 |
 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/26oKe28Gqyp9uhRhWNAvqm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:22 | 2024-12-26 | 2025-01-11 |
 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 | 2024-10-25 |  |
 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 | 2024-10-25 |  |
@@ -97,6 +97,7 @@
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-10-25 |  |
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 |  |
 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 | 2024-12-20 |  |
+| [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 |  |
 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 | 2024-10-25 |  |
 | [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,256 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,269 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 19 | [Spijt](https://open.spotify.com/track/1Lod5JKUe0OhF6nY80M482) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:49 |
 | 20 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 21 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 |
-| 22 | [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 |
-| 23 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
+| 22 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
+| 23 | [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 |
 | 24 | [Het Idee](https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Inge van Calkar](https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP) | [Het Idee](https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA) | 2:54 |
 | 25 | [Wat Ik Ook Ga Doen \- Live @ Philips Stadion, Eindhoven 2024](https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Groots De Laatste \- Live In Het Philips Stadion](https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW) | 4:34 |
 | 26 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 40 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
 | 41 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 |
 | 42 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 |
-| 43 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 |
-| 44 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 |
+| 43 | [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 |
+| 44 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 |
 | 45 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 |
 | 46 | [Idool](https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Idool](https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE) | 3:02 |
 | 47 | [Nooit Meer](https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P) | [Joël Borelli](https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD) | [Nooit Meer](https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG) | 2:59 |

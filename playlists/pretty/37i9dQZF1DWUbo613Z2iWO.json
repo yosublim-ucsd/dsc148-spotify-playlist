@@ -1,28 +1,44 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Mereba",
-  "num_followers": 54063,
+  "description": "R&B of the moment by the artists of the future. Cover: Giift",
+  "num_followers": 54068,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z675CQAAAAD5NkPOOyXtGQosoPGdqsQm",
+  "snapshot_id": "Z7glBAAAAACXKGkZpFaInDwrYJwDCHTk",
   "tracks": [
     {
-      "added_at": "2025-02-14 08:04:25",
+      "added_at": "2025-02-21 05:16:16",
       "album": {
-        "name": "The Breeze Grew a Fire",
-        "url": "https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g"
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
       },
       "artists": [
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Starlight (my baby)",
-      "url": "https://open.spotify.com/track/6UqhHql1s4t1drqyDuXvRf"
+      "duration_ms": 162695,
+      "name": "All I need",
+      "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
+    },
+    {
+      "added_at": "2025-02-21 05:16:16",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -55,6 +71,126 @@
       "duration_ms": 215320,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 217283,
+      "name": "CARPINTERIA (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/70W3zEXIxCdMv8l8XfbhoG"
+    },
+    {
+      "added_at": "2025-02-21 05:16:16",
+      "album": {
+        "name": "Are U Still",
+        "url": "https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 230782,
+      "name": "Are U Still",
+      "url": "https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q"
+    },
+    {
+      "added_at": "2025-02-21 05:16:16",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 320168,
+      "name": "Overqualified",
+      "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
+    },
+    {
+      "added_at": "2025-02-21 05:16:16",
+      "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/0mSA9tgXALf6W1sVhx9CMe"
+    },
+    {
+      "added_at": "2025-02-21 07:02:28",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+        }
+      ],
+      "duration_ms": 217694,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t"
+    },
+    {
+      "added_at": "2025-02-21 05:16:16",
+      "album": {
+        "name": "On my way!",
+        "url": "https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 127833,
+      "name": "La La La La La",
+      "url": "https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb"
+    },
+    {
+      "added_at": "2025-02-14 08:04:25",
+      "album": {
+        "name": "The Breeze Grew a Fire",
+        "url": "https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Starlight (my baby)",
+      "url": "https://open.spotify.com/track/6UqhHql1s4t1drqyDuXvRf"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -211,6 +347,22 @@
       "duration_ms": 188526,
       "name": "IFY",
       "url": "https://open.spotify.com/track/4eGv1j6aUzhGXXOuGdsZ3u"
+    },
+    {
+      "added_at": "2025-02-21 07:02:28",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1u4AJ7kZkV5HlRdpHqTg75"
+      },
+      "artists": [
+        {
+          "name": "A-Lex",
+          "url": "https://open.spotify.com/artist/57d6nBX9AL4PBzXdvWohz3"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/7Dj21omhOResPePxNWpy80"
     },
     {
       "added_at": "2025-02-07 08:24:36",
@@ -1117,22 +1269,6 @@
       "url": "https://open.spotify.com/track/5xT90JPRFT1JZLCNSnpNLe"
     },
     {
-      "added_at": "2024-12-13 05:00:38",
-      "album": {
-        "name": "Londra",
-        "url": "https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 151436,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/7vd1hbwEWmPQ9feNxlDKIq"
-    },
-    {
       "added_at": "2024-11-22 06:52:39",
       "album": {
         "name": "Look What You've Done",
@@ -1773,22 +1909,6 @@
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
     },
     {
-      "added_at": "2024-10-04 07:31:04",
-      "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 191020,
-      "name": "crash & burn",
-      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "SAFE FLIGHT",
@@ -1823,22 +1943,6 @@
       "duration_ms": 190072,
       "name": "mind now (with Skilla Baby)",
       "url": "https://open.spotify.com/track/1Ilmqzog50GYbstZ8ZjYbr"
-    },
-    {
-      "added_at": "2024-08-23 05:24:21",
-      "album": {
-        "name": "Poppin Out (Mistakes)",
-        "url": "https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 154212,
-      "name": "Poppin Out (Mistakes)",
-      "url": "https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL"
     },
     {
       "added_at": "2024-09-13 09:23:31",
@@ -2139,22 +2243,6 @@
       "duration_ms": 156000,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "THIRST",
-        "url": "https://open.spotify.com/album/6yVfVz55zj2PdBxWkWHXYp"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "THIRST",
-      "url": "https://open.spotify.com/track/7d5FHMxgFBCATaIWUjpv08"
     },
     {
       "added_at": "2024-08-30 05:01:34",
@@ -2461,26 +2549,6 @@
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "CRYBABY",
-        "url": "https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 217283,
-      "name": "CARPINTERIA (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/70W3zEXIxCdMv8l8XfbhoG"
-    },
-    {
       "added_at": "2024-08-23 05:24:21",
       "album": {
         "name": "Bleeding",
@@ -2657,22 +2725,6 @@
       "url": "https://open.spotify.com/track/2EpxQyOEKiqQ7KRnN5mlnT"
     },
     {
-      "added_at": "2024-06-28 17:53:44",
-      "album": {
-        "name": "Girls Don't Cheat",
-        "url": "https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Girls Don\u2019t Cheat",
-      "url": "https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "My World",
@@ -2719,26 +2771,6 @@
       "duration_ms": 182346,
       "name": "Us",
       "url": "https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Touchin\u2019 (feat. Capella Grey)",
-        "url": "https://open.spotify.com/album/4Ihq7NlTKOSVx6CObkXDEA"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 118073,
-      "name": "Touchin\u2019 (feat. Capella Grey)",
-      "url": "https://open.spotify.com/track/1s8gUJ98VZJKuzOMO7QERt"
     },
     {
       "added_at": "2024-03-29 07:17:40",

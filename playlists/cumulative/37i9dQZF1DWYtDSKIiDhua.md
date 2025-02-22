@@ -2,9 +2,9 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: GRACE
+> The R&B and good vibe tracks for your current mood\. Cover: GRACE.
 
-1,106 songs - 2 day 11 hr 17 min
+1,107 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1011,6 +1011,7 @@
 | [Unless We Try](https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [Hyperlnk](https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1) | [Unless We Try](https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ) | 2:49 | 2024-01-18 | 2024-02-16 |
 | [Unspoken Confessions \- Slowed](https://open.spotify.com/track/6dEIJb9G0PualJpe39pkGX) | [NIVKOM](https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ) | [Unspoken Confessions](https://open.spotify.com/album/0xhCPbM5MvflBhiBMido0S) | 1:52 | 2024-11-21 | 2024-12-05 |
 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 | 2023-04-06 | 2023-04-15 |
+| [until the very end](https://open.spotify.com/track/4V9g0q9jpWj7Uey2aUJsQp) | [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Avacie](https://open.spotify.com/artist/3EouM8xBY3dHYs6cRcvmL6) | [until the very end](https://open.spotify.com/album/07CkOob6qebzs1u077annX) | 3:08 | 2025-02-20 |  |
 | [Unwind](https://open.spotify.com/track/2HLl2c043z5IuocBA8na4Z) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg) | [O, Vol\. 1](https://open.spotify.com/album/0j8IT2sEyWFY5xs9xddy0P) | 1:46 | 2024-09-05 | 2024-09-20 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-06-08 | 2022-09-30 |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-09-01 |

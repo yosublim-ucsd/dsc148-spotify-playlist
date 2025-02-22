@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110995,
+  "num_followers": 111011,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": "2025-02-07 09:57:33",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2025-02-07 09:57:33",
-      "album": {
-        "name": "Hearts Break and People Change",
-        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Hearts Break and People Change",
-      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
     },
     {
       "added_at": "2025-02-07 09:57:33",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
-        "name": "Cyrk",
-        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
+        "name": "Szybkie tempo",
+        "url": "https://open.spotify.com/album/1N6IDrFuF8B8KZ2O5Zs79P"
       },
       "artists": [
         {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+          "name": "Wiktor Dydu\u0142a",
+          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
         }
       ],
-      "duration_ms": 186581,
-      "name": "Cyrk",
-      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
+      "duration_ms": 185597,
+      "name": "Szybkie tempo",
+      "url": "https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0"
     },
     {
       "added_at": "2025-02-07 09:57:33",
@@ -935,18 +935,18 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
-        "name": "Szybkie tempo",
-        "url": "https://open.spotify.com/album/1N6IDrFuF8B8KZ2O5Zs79P"
+        "name": "Cyrk",
+        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
       },
       "artists": [
         {
-          "name": "Wiktor Dydu\u0142a",
-          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
         }
       ],
-      "duration_ms": 185597,
-      "name": "Szybkie tempo",
-      "url": "https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0"
+      "duration_ms": 186581,
+      "name": "Cyrk",
+      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
     },
     {
       "added_at": "2025-02-07 09:57:33",

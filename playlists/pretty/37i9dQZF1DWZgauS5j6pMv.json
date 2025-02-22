@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Maya Delilah",
-  "num_followers": 339528,
+  "num_followers": 339571,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N4wAAAADi6thZXvv5JtWY9JNWEzGO",
+  "snapshot_id": "Z7gIYAAAAADV/H0M6DOAOwdxSoj/cXuI",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:48",
@@ -23,30 +23,6 @@
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
-    },
-    {
-      "added_at": "2025-02-14 05:00:19",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        },
-        {
-          "name": "Tom Felton",
-          "url": "https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm"
-        },
-        {
-          "name": "Stehreo",
-          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -79,6 +55,26 @@
       "duration_ms": 131200,
       "name": "Taxi to the Moon",
       "url": "https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG"
+    },
+    {
+      "added_at": "2025-02-21 05:00:16",
+      "album": {
+        "name": "Aequoreus",
+        "url": "https://open.spotify.com/album/3cQeB6HJkmYpLQHM9nQlSp"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 229514,
+      "name": "We Do It Together",
+      "url": "https://open.spotify.com/track/4y17IJimZ69gyuZnJC0xyy"
     },
     {
       "added_at": "2025-01-10 05:00:12",

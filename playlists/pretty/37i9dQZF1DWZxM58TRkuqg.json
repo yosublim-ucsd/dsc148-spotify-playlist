@@ -1,12 +1,12 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Keisya Levronka",
-  "num_followers": 782370,
+  "num_followers": 782415,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7dk+QAAAAAu2IKw7/CzpCiJH5+TDd0q",
+  "snapshot_id": "Z7fsUQAAAAB9cDPhcMjS6nqEVTRP88D0",
   "tracks": [
     {
       "added_at": "2025-02-20 17:23:05",
@@ -91,6 +91,26 @@
       "duration_ms": 263786,
       "name": "Ingatkah?",
       "url": "https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH"
+    },
+    {
+      "added_at": "2025-02-21 03:00:33",
+      "album": {
+        "name": "The Folk: Side B",
+        "url": "https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        },
+        {
+          "name": "Videmarsha",
+          "url": "https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB"
+        }
+      ],
+      "duration_ms": 279031,
+      "name": "Di Sore Hari yang Lucu",
+      "url": "https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p"
     },
     {
       "added_at": "2025-02-20 17:23:05",

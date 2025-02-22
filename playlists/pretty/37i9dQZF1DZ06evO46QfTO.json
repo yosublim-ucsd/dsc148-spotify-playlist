@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73783,
+  "num_followers": 73788,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAACIGQUzRlSf3+ToPEp97uF4",
+  "snapshot_id": "Z7ZwgAAAAACr401aDG0NR8yu+99CJLsN",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss the Sky (from The Wild Robot)",
-        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "Kiss the Sky (from The Wild Robot)",
-      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss the Sky (from The Wild Robot)",
+        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215716,
+      "name": "Kiss the Sky (from The Wild Robot)",
+      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "this is how a woman leaves",
+      "url": "https://open.spotify.com/track/73gDqerzfaAMhJEbMHgq2E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Look At Us Now (Honeycomb)",
         "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 232706,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "this is how a woman leaves",
-      "url": "https://open.spotify.com/track/73gDqerzfaAMhJEbMHgq2E"
     },
     {
       "added_at": null,

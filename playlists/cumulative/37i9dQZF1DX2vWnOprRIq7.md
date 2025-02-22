@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Juan Baro.
 
-331 songs - 20 hr 5 min
+332 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Fingir Normalidad](https://open.spotify.com/track/4nWPaY8XaG4YvccW8iAvn9) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Fingir Normalidad](https://open.spotify.com/album/1uwQugKLt3slzgrimYG8sl) | 4:16 | 2024-10-04 |  |
 | [Flaps](https://open.spotify.com/track/1CyMbGrKkomiX8fwrDdagF) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO) | 3:45 | 2024-12-23 |  |
 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 | 2024-12-07 |
+| [Foto de una Coreografía](https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Amigas](https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0) | 3:23 | 2025-02-20 |  |
 | [Fotográfica](https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Fotográfica](https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH) | 4:11 | 2023-10-06 | 2024-10-05 |
 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 | 2023-08-18 |  |
 | [Frecuencias](https://open.spotify.com/track/5tugFkaIU3eMiFyNDXpiAY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:50 | 2024-07-26 |  |

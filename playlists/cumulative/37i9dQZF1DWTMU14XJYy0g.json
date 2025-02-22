@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Turf y Conociendo Rusia",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Eruca Sativa",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Bungalows",
+        "url": "https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Bungalows",
+          "url": "https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273878,
+      "name": "Al L\u00edmite",
+      "url": "https://open.spotify.com/track/3iG2svHzJCwv3i75sc83Vv"
+    },
+    {
+      "album": {
         "name": "Alejado de la Red",
         "url": "https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 238597,
       "name": "Anarqu\u00eda en Buenos Aires",
       "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc"
+      },
+      "artists": [
+        {
+          "name": "Los T\u00edteres",
+          "url": "https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177051,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp"
     },
     {
       "album": {
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207288,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW"
@@ -1512,6 +1548,24 @@
       "duration_ms": 194906,
       "name": "Destruida Roll (Versi\u00f3n 1989)",
       "url": "https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc"
+    },
+    {
+      "album": {
+        "name": "Detener el Tiempo",
+        "url": "https://open.spotify.com/album/4yUzltg6s8AJKrIHA1Nb8c"
+      },
+      "artists": [
+        {
+          "name": "Nacho Contreras",
+          "url": "https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "Detener el Tiempo",
+      "url": "https://open.spotify.com/track/60PZ8GsP5PzSMnvTJaGjXw"
     },
     {
       "album": {
@@ -2674,7 +2728,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 243769,
       "name": "Hay Un Tirano Que Es para Vos",
       "url": "https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG"
@@ -3557,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
+    },
+    {
+      "album": {
         "name": "Bellos A\u00f1os",
         "url": "https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au"
       },
@@ -3791,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215314,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
+    },
+    {
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -3810,6 +3904,28 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
+    },
+    {
+      "album": {
+        "name": "Los Aires de Buenos Aires",
+        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
+      },
+      "artists": [
+        {
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277882,
+      "name": "Los Aires de Buenos Aires",
+      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
     },
     {
       "album": {
@@ -4350,7 +4466,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 266147,
       "name": "Nada Nadie",
       "url": "https://open.spotify.com/track/78AuCuvElLoLxrnicGfIjT"
@@ -4506,6 +4622,24 @@
       "duration_ms": 199512,
       "name": "No Me Vengas Con Historias",
       "url": "https://open.spotify.com/track/1Ul1pjyFvRftWfmIn4vkVv"
+    },
+    {
+      "album": {
+        "name": "No Pasar\u00e1n",
+        "url": "https://open.spotify.com/album/6BH7DmrA6qENxehHba4kDv"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230491,
+      "name": "No Pasar\u00e1n",
+      "url": "https://open.spotify.com/track/4PaRbFygnnHjx9t766RRg7"
     },
     {
       "album": {
@@ -5567,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Bungalows",
+        "url": "https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Bungalows",
+          "url": "https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204070,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs"
+    },
+    {
+      "album": {
         "name": "Hola Precioso",
         "url": "https://open.spotify.com/album/57XHrKuNCRX2NEVx3RcsoX"
       },
@@ -5857,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "El Tesoro Bajo el Barro",
+        "url": "https://open.spotify.com/album/19oxtNcPRbr3P3U5IiyR3r"
+      },
+      "artists": [
+        {
+          "name": "Setas",
+          "url": "https://open.spotify.com/artist/5XvCbvb7kM4VVZMG2ovpr3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238715,
+      "name": "Te Acordas?",
+      "url": "https://open.spotify.com/track/0ITwG0VFzBEO3zKHRbL5RR"
+    },
+    {
+      "album": {
         "name": "La Revoluci\u00f3n de la Alegr\u00eda",
         "url": "https://open.spotify.com/album/32V4V7NQhMw5yMFF2tqs1c"
       },
@@ -6046,6 +6216,24 @@
       "duration_ms": 227376,
       "name": "Todos los Vientos",
       "url": "https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG"
+    },
+    {
+      "album": {
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/5WAo4Y0yMlJxiJMeUj0rvk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Bossa",
+          "url": "https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159608,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/1ZiuyoMWd7BS1Xp8nm6gGs"
     },
     {
       "album": {

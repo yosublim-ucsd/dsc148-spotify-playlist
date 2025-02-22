@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 4 hr 20 min
+94 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [KELOKE](https://open.spotify.com/track/27E9yWCpyEzLncTOuOQ3To) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KELOKE](https://open.spotify.com/album/3mgbCscaVkh34lHVAnqqjH) | 2:36 | 2024-04-05 |  |
 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 | 2024-04-05 |  |
 | [Krabby Step \(with Tyga & Lil Mosey\)](https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 3:18 | 2025-01-09 |  |
+| [La Fuerte](https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:44 | 2025-02-21 |  |
 | [La Luz](https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:02 | 2024-04-05 |  |
 | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/track/1D0Uz2anDZW9s5Y0eiKC2H) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:30 | 2024-04-05 |  |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:15 | 2024-04-05 |  |

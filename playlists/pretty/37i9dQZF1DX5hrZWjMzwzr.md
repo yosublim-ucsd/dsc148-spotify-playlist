@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,939 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,937 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 27 | [Guten Tag](https://open.spotify.com/track/6ins5at6n9LlWkOKvTGLBl) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45) | [Guten Tag](https://open.spotify.com/album/5ckBaMTmGanhuftsnLMV2R) | 2:59 |
 | 28 | [Sidehoe](https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Sidehoe](https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof) | 2:29 |
 | 29 | [BLICKY](https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8) | [Beteo](https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [BLICKY](https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL) | 2:59 |
-| 30 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
-| 31 | [Król jest nagi](https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Król jest nagi](https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT) | 3:04 |
+| 30 | [Król jest nagi](https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Król jest nagi](https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT) | 3:04 |
+| 31 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
 | 32 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu), [Eklektik](https://open.spotify.com/artist/1ArazAocOQKVEMD8VEPcnp) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |
 | 33 | [Czarne czy Czerwone](https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU) | [VHS](https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q), [E V](https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX) | [Czarne czy Czerwone](https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL) | 3:33 |
 | 34 | [Kłamczuch](https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK), [Kudel](https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim) | [KŁAMCZUCH](https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7) | 2:41 |

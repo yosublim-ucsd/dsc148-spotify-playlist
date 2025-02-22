@@ -1,13 +1,69 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Benny Blanco & Selena Gomez",
-  "num_followers": 1822972,
+  "description": "Sit back and relax to the chillest pop.  Cover: SIENNA SPIRO",
+  "num_followers": 1822987,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7Ow+AAAAADXW/EPRZ1uz4FqiZR2IMyc",
+  "snapshot_id": "Z7gIYwAAAADvWlI2p4HJ7HdqqR/zN5VA",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "SINK NOW, SWIM LATER",
+        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "ORIGAMI",
+      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
+    },
+    {
+      "added_at": "2025-02-17 21:58:16",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+    },
     {
       "added_at": "2025-02-14 05:00:39",
       "album": {
@@ -45,6 +101,22 @@
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
     },
     {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "You Killed The Music",
+        "url": "https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "You Killed The Music",
+      "url": "https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy"
+    },
+    {
       "added_at": "2025-01-31 05:00:29",
       "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
@@ -65,30 +137,6 @@
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
-      "added_at": "2025-02-17 21:58:16",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "DIE TRYING",
-      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
       "added_at": "2025-02-07 05:00:24",
       "album": {
         "name": "One More Dance",
@@ -105,20 +153,36 @@
       "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
     },
     {
-      "added_at": "2025-02-14 05:00:39",
+      "added_at": "2025-02-21 05:00:19",
       "album": {
-        "name": "valentine",
-        "url": "https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le"
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
       "artists": [
         {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 182357,
-      "name": "valentine",
-      "url": "https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2"
+      "duration_ms": 183499,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G"
+    },
+    {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3qGEtrVl6JgkZTlKh9tlPX"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 179423,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5nHRuoijGPvrgUtFmOGxRl"
     },
     {
       "added_at": "2025-01-17 05:00:35",
@@ -141,6 +205,54 @@
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/3CtIxfmh27lAY5OfGm4cKy"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 232461,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4FImnScSpSwubijPj5bUgA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
       "added_at": "2025-01-17 05:00:35",
       "album": {
         "name": "Who are you?",
@@ -155,6 +267,38 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
+    },
+    {
+      "added_at": "2025-02-21 05:00:19",
+      "album": {
+        "name": "Mountain Music (The Summit)",
+        "url": "https://open.spotify.com/album/73LgNgE8rFoEUWacJ9dFut"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 260484,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/2Sc7XBVQ1DSPEuIFDPxw7w"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "valentine",
+        "url": "https://open.spotify.com/album/0JYe4ASLKFJAqugCL783le"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 182357,
+      "name": "valentine",
+      "url": "https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2"
     },
     {
       "added_at": "2025-02-14 05:00:39",
@@ -219,38 +363,6 @@
       "duration_ms": 237609,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Think They Call This Love",
-        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "I Think They Call This Love",
-      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2025-02-07 05:00:24",
@@ -873,22 +985,6 @@
       "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
-      "added_at": "2025-01-24 05:00:42",
-      "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
-    },
-    {
       "added_at": "2025-01-17 05:00:35",
       "album": {
         "name": "HEAVEN IS A HARLEY",
@@ -951,22 +1047,6 @@
       "duration_ms": 269826,
       "name": "Can\u2019t Read Your Mind",
       "url": "https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The scientist",
-        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 267700,
-      "name": "The scientist",
-      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
       "added_at": "2025-01-03 05:00:26",
@@ -1245,26 +1325,6 @@
       "url": "https://open.spotify.com/track/1fpoxY4mEHXBkZNmpQ9Itv"
     },
     {
-      "added_at": "2024-12-20 05:00:33",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E"
-      },
-      "artists": [
-        {
-          "name": "Anthony Russo",
-          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
-        },
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR"
-    },
-    {
       "added_at": "2025-01-03 05:00:26",
       "album": {
         "name": "Wrong Side of Midnight",
@@ -1327,22 +1387,6 @@
       "duration_ms": 207000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
-    },
-    {
-      "added_at": "2024-12-13 05:00:12",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
     },
     {
       "added_at": "2024-12-20 05:00:33",
@@ -1473,22 +1517,6 @@
       "url": "https://open.spotify.com/track/6fMFzaBM65g7lfcwqYuYPJ"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The Great Magician",
-        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 183687,
-      "name": "The Great Magician",
-      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
-    },
-    {
       "added_at": "2024-12-13 05:00:12",
       "album": {
         "name": "the nostalgia tapes 1",
@@ -1519,22 +1547,6 @@
       "duration_ms": 200445,
       "name": "gas station cowboy hats",
       "url": "https://open.spotify.com/track/4GP6UNL6rfNIHHtrg4BCkb"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1603,22 +1615,6 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Senses",
-        "url": "https://open.spotify.com/album/7Hitj3Xv5AfE3DnMl3U43v"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 159887,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/1JetH4krYbWJNZenvTOC4D"
     },
     {
       "added_at": "2024-08-31 03:39:11",

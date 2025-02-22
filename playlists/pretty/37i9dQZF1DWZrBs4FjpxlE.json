@@ -1,12 +1,12 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 121099,
+  "num_followers": 121142,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N5gAAAACr8e/GuDTLtehOZ+FQanS4",
+  "snapshot_id": "Z7gIZwAAAADkNt1160IjSaD4DVHFe1Vt",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -153,20 +153,24 @@
       "url": "https://open.spotify.com/track/4crL6Uy4ghQGJiuUHNJIqK"
     },
     {
-      "added_at": "2025-01-24 05:00:30",
+      "added_at": "2025-02-21 05:00:23",
       "album": {
-        "name": "Winter & Summer",
-        "url": "https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw"
+        "name": "Oh So Sorry Pt. 2",
+        "url": "https://open.spotify.com/album/2cmHAjAYDMgfjYuelT3Pgg"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "PVLN",
+          "url": "https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 194785,
-      "name": "Winter & Summer",
-      "url": "https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt"
+      "duration_ms": 154565,
+      "name": "Oh So Sorry Pt. 2",
+      "url": "https://open.spotify.com/track/6oOnw6lWk4BAcboVGJnaLm"
     },
     {
       "added_at": "2025-01-31 05:00:28",

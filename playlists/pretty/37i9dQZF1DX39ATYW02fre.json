@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 248101,
+  "num_followers": 248137,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2025-02-20 14:26:57",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
         }
       ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+      "duration_ms": 238032,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2025-02-20 14:26:57",
@@ -215,22 +219,18 @@
     {
       "added_at": "2025-02-20 14:26:57",
       "album": {
-        "name": "Brightest Lights",
-        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 238032,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2025-02-20 14:26:57",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-02-20 14:26:57",
       "album": {
+        "name": "Sundial Avenue",
+        "url": "https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "The West Green Quartet",
+          "url": "https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "Sundial Avenue",
+      "url": "https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa"
+    },
+    {
+      "added_at": "2025-02-20 14:26:57",
+      "album": {
         "name": "If You're Here With Me",
         "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 354102,
       "name": "October",
       "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
-    },
-    {
-      "added_at": "2025-02-20 14:26:57",
-      "album": {
-        "name": "Sundial Avenue",
-        "url": "https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "The West Green Quartet",
-          "url": "https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI"
-        }
-      ],
-      "duration_ms": 144250,
-      "name": "Sundial Avenue",
-      "url": "https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa"
     },
     {
       "added_at": "2025-02-20 14:26:57",

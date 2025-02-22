@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40870,
+  "num_followers": 40867,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Venus en trance",
+        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
+      },
+      "artists": [
+        {
+          "name": "Eva Gou",
+          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Lluvia y arcoiris",
+      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1CyMbGrKkomiX8fwrDdagF"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Venus en trance",
-        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
-      },
-      "artists": [
-        {
-          "name": "Eva Gou",
-          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Lluvia y arcoiris",
-      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Venus en trance",
+        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
+      },
+      "artists": [
+        {
+          "name": "Eva Gou",
+          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
+        }
+      ],
+      "duration_ms": 174031,
+      "name": "Como extra\u00f1os",
+      "url": "https://open.spotify.com/track/2tzG0Z79H94Lp0dCH9BVtU"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 255720,
       "name": "Rota",
       "url": "https://open.spotify.com/track/0vlz20EDRMttxRuTPNZzfr"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Venus en trance",
-        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
-      },
-      "artists": [
-        {
-          "name": "Eva Gou",
-          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
-        }
-      ],
-      "duration_ms": 174031,
-      "name": "Como extra\u00f1os",
-      "url": "https://open.spotify.com/track/2tzG0Z79H94Lp0dCH9BVtU"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "No Pasa Nada",
-        "url": "https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl"
-      },
-      "artists": [
-        {
-          "name": "Jimena Roig",
-          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
-        },
-        {
-          "name": "Lucas Basualdo",
-          "url": "https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Bonito y Feroz",
         "url": "https://open.spotify.com/album/0lob4PDQiZmm59Ggvg3HtW"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 172497,
       "name": "Bonito y Feroz",
       "url": "https://open.spotify.com/track/6ZQz6twLGOSVODbRJ4YvSe"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "No Pasa Nada",
+        "url": "https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl"
+      },
+      "artists": [
+        {
+          "name": "Jimena Roig",
+          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
+        },
+        {
+          "name": "Lucas Basualdo",
+          "url": "https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU"
     },
     {
       "added_at": "2025-01-24 19:05:09",

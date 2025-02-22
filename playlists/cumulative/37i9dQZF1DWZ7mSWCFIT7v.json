@@ -2731,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "I Exist Inside This Machine",
+        "url": "https://open.spotify.com/album/73Id9hBvdlVdQnftlULeDn"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Aneek Thapar",
+          "url": "https://open.spotify.com/artist/7ib2ZAqoKc68C2Uks3aN24"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302896,
+      "name": "I Exist Inside This Machine",
+      "url": "https://open.spotify.com/track/4H3bAliffBEGwr1tKkHheR"
+    },
+    {
+      "album": {
         "name": "MP Productions - EP 1",
         "url": "https://open.spotify.com/album/33HZlIyVavCfhDn2dUGIvK"
       },
@@ -3805,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/5y47Hl3JPvTbGZDkjL4fyR"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234705,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/6PAEXXkC8QydV8MOTRv0C8"
+    },
+    {
+      "album": {
         "name": "Suddenly I Am Falling",
         "url": "https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN"
       },
@@ -4290,7 +4330,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 150000,
       "name": "Piano Improvisation No. 19",
       "url": "https://open.spotify.com/track/5yJicLB0k8YwdluDf9y0HN"
@@ -4384,6 +4424,28 @@
       "duration_ms": 564154,
       "name": "Plonk VI",
       "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
+    },
+    {
+      "album": {
+        "name": "Probably Wizards",
+        "url": "https://open.spotify.com/album/6JChYhnQ9v2tfEf1BaqguZ"
+      },
+      "artists": [
+        {
+          "name": "James Krivchenia",
+          "url": "https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291666,
+      "name": "Probably Wizards",
+      "url": "https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF"
     },
     {
       "album": {
@@ -5014,7 +5076,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177520,
       "name": "Siblings",
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
@@ -6108,7 +6170,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"

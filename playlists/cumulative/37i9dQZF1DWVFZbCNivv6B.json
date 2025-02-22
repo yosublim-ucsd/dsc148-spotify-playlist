@@ -1843,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "Bill Cosby",
+        "url": "https://open.spotify.com/album/2HR5GCggPHDImrZfV3tqTx"
+      },
+      "artists": [
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164659,
+      "name": "Bill Cosby",
+      "url": "https://open.spotify.com/track/3rmJrSfzgJo2Ty09Rf6txz"
+    },
+    {
+      "album": {
         "name": "Bombas",
         "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
       },
@@ -1902,6 +1924,24 @@
       "duration_ms": 267897,
       "name": "Broche De Oro",
       "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
+    },
+    {
+      "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/0QVCN1VLmGxVKkjVDyVse6"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243698,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/3mcrH5DyUu4mH6fZ4nkHzD"
     },
     {
       "album": {
@@ -4460,7 +4500,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174500,
       "name": "En la Troca",
       "url": "https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd"
@@ -5220,7 +5260,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169000,
       "name": "Fuck Tha Shit!",
       "url": "https://open.spotify.com/track/0CyPaIpZchod15ZymuFihY"
@@ -5672,6 +5712,36 @@
       "duration_ms": 420857,
       "name": "HeadShot",
       "url": "https://open.spotify.com/track/58iMMok6gm3xfHwcbd6pcO"
+    },
+    {
+      "album": {
+        "name": "Historia Real (feat. Neutro Shorty)",
+        "url": "https://open.spotify.com/album/1IHeYgSf41JQTFDgdDE1qy"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Humilde",
+          "url": "https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188477,
+      "name": "Historia Real (feat. Neutro Shorty)",
+      "url": "https://open.spotify.com/track/76gDvpQLqeQ2ld0iofYcwj"
     },
     {
       "album": {
@@ -6398,6 +6468,28 @@
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
+    },
+    {
+      "album": {
+        "name": "La Chota",
+        "url": "https://open.spotify.com/album/4UwibG5h3Iwr7OKwDiLd45"
+      },
+      "artists": [
+        {
+          "name": "Alan Sdr",
+          "url": "https://open.spotify.com/artist/4WHwVAuDtEVKIREviMhYOB"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "La Chota",
+      "url": "https://open.spotify.com/track/7M2biwmPqAnQPN5UvhA4DN"
     },
     {
       "album": {
@@ -7602,7 +7694,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 168000,
       "name": "L\u00e1grimas y Sonrisas",
       "url": "https://open.spotify.com/track/3FBnrQSHD8zF73AwcZfycE"
@@ -8642,7 +8734,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 255318,
       "name": "Morbo",
       "url": "https://open.spotify.com/track/1ArxUQ0jPoR8qdjsZR8qDx"
@@ -8668,6 +8760,24 @@
       "duration_ms": 236712,
       "name": "Morena 420",
       "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
+    },
+    {
+      "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "album": {
@@ -9538,7 +9648,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169232,
       "name": "Or\u00e9gano y Comino",
       "url": "https://open.spotify.com/track/62GIRHK6nvpxRBXY74ZAsC"
@@ -12102,7 +12212,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 198000,
       "name": "Sin Corona",
       "url": "https://open.spotify.com/track/2wGPtjTFvsOR6DSoGDW4oc"
@@ -14060,6 +14170,24 @@
       "duration_ms": 187600,
       "name": "Vivir Es So\u00f1ar",
       "url": "https://open.spotify.com/track/3IcM8rJFPBKF1dAIAPSBQg"
+    },
+    {
+      "album": {
+        "name": "VNDO",
+        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "VNDO",
+      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
     },
     {
       "album": {

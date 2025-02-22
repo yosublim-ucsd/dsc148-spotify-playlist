@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 114609,
       "name": "NOW IT'S GONE - ELY OAKS REMIX",
       "url": "https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob"
@@ -4273,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "album": {
         "name": "Samba De Janeiro",
         "url": "https://open.spotify.com/album/2pXVc3TNN2OZc8ECDgOdDL"
       },
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 120033,
       "name": "Uh Na Na",
       "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"

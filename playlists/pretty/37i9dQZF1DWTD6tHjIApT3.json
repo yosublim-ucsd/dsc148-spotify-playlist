@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u3042\u3044\u307f\u3087\u3093",
-  "num_followers": 119393,
+  "num_followers": 119635,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
-        "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 180233,
-      "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
-      "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "HEART BEAT",
         "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "Faster than me",
-        "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
+        "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+        "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
         }
       ],
-      "duration_ms": 158838,
-      "name": "Faster than me",
-      "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
+      "duration_ms": 180233,
+      "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
+      "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+        "name": "Faster than me",
+        "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+      "duration_ms": 158838,
+      "name": "Faster than me",
+      "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
+        "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
         "name": "\u516d\u7b49\u661f",
         "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 202816,
       "name": "\u8a00\u306e\u5203",
       "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
-        "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 314473,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
         "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
         "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+        "name": "\u50d5\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 314473,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
+      "duration_ms": 248146,
+      "name": "\u50d5\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u50d5\u3089\u3057\u3055",
-        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
+        "name": "Party!!",
+        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
       },
       "artists": [
         {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 248146,
-      "name": "\u50d5\u3089\u3057\u3055",
-      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
+      "duration_ms": 258413,
+      "name": "Party!!",
+      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "Party!!",
-        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 258413,
-      "name": "Party!!",
-      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
+      "duration_ms": 205733,
+      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "\u3056\u3089\u3081",
         "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 282464,
       "name": "\u3056\u3089\u3081",
       "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
-        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
-        "name": "Blues in the Closet",
-        "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Blues in the Closet",
-      "url": "https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/1nu3z7m3Dzc7Obgq9roONF"
       },
@@ -1471,22 +1455,6 @@
       "duration_ms": 231750,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/4OtG3BjiFfTCjgUaqFuljG"
-    },
-    {
-      "added_at": "2025-02-18 15:00:20",
-      "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 200366,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
     },
     {
       "added_at": "2025-02-18 15:00:20",
@@ -1507,6 +1475,22 @@
     {
       "added_at": "2025-02-18 15:00:20",
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 200366,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4ZOnEdTTobq12pH52otULE"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 269427,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3bKOYQ4YijJ0mPHCzgfcWi"
+    },
+    {
+      "added_at": "2025-02-18 15:00:20",
+      "album": {
+        "name": "Blues in the Closet",
+        "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Blues in the Closet",
+      "url": "https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M"
     },
     {
       "added_at": "2025-02-18 15:00:20",

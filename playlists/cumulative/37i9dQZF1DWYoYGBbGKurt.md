@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,936 songs - 3 day 2 hr 58 min
+1,937 songs - 3 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Airport Runway](https://open.spotify.com/track/3F8eG3pq0rNuGZ8KWLMnur) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Airport Runway](https://open.spotify.com/album/6QX5dNSUX2TPP7NnsYCGIZ) | 1:50 | 2022-07-22 | 2023-04-04 |
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-09-27 |  |
 | [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2021-12-07 | 2022-10-29 |
-| [ajolote](https://open.spotify.com/track/3sL8EAmZjnKcI3TVUATlMw) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ajolote](https://open.spotify.com/album/7wNq9LhdNrqcbIdU6exKcV) | 2:16 | 2024-04-12 |  |
+| [ajolote](https://open.spotify.com/track/3sL8EAmZjnKcI3TVUATlMw) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ajolote](https://open.spotify.com/album/7wNq9LhdNrqcbIdU6exKcV) | 2:16 | 2024-04-12 | 2025-02-22 |
 | [akalla](https://open.spotify.com/track/4J98BDXw9nFDF044SgAYfC) | [abel gecco](https://open.spotify.com/artist/6DvLO2WJYRMtUD9oiyFcJR) | [akalla](https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o) | 2:23 | 2022-09-09 | 2024-05-14 |
 | [Akari](https://open.spotify.com/track/6K6PBfYUAjAv0F7MyWM8SG) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Akari](https://open.spotify.com/album/5whGW6OlHoIXVbTtAiSNEk) | 2:42 | 2023-03-08 |  |
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2021-12-07 | 2022-09-03 |
@@ -893,6 +893,7 @@
 | [Key Moments](https://open.spotify.com/track/2oUl0kFSgm7x7zw9l1AdFA) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Wonder](https://open.spotify.com/album/2ihvIaMmU9hc74O0R7SKSC) | 2:29 | 2021-12-07 | 2022-05-20 |
 | [KIND](https://open.spotify.com/track/77B0g62tqdmFGQBeKJ6gpA) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [KIND](https://open.spotify.com/album/1vf4QOTdfyflqbt9riLtBu) | 2:29 | 2022-05-20 | 2023-10-27 |
 | [kinda nice](https://open.spotify.com/track/3Uuo65tSdVDAQTRITXGTWE) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [kinda nice](https://open.spotify.com/album/0WHkWpgW2oh7WL2k01sd61) | 2:20 | 2024-07-12 |  |
+| [knowing](https://open.spotify.com/track/62zfzTVCAvK7iceTH7eXBF) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Knowing](https://open.spotify.com/album/2UhoZRmJfvg9EFInZUZUhD) | 1:43 | 2025-02-21 |  |
 | [Koh Lanta](https://open.spotify.com/track/6zU9djdVlbN0eKYLr0vzhB) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Koh Lanta](https://open.spotify.com/album/1DzAFEbnXlnwD5XnjYph01) | 1:48 | 2023-04-20 | 2025-02-08 |
 | [Kolibri](https://open.spotify.com/track/1XwZCSDfSXJbrhU3IaFwgE) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [Kolibri](https://open.spotify.com/album/4sUsL0tyNZuXxKfkoOKkmG) | 1:44 | 2022-12-23 | 2024-02-23 |
 | [Kou](https://open.spotify.com/track/0cmf8tSnmOumJyfn08o2Ic) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Kou](https://open.spotify.com/album/05QKBx1In6TLL1OodPJLLr) | 2:25 | 2022-11-11 | 2023-09-02 |
@@ -1299,7 +1300,7 @@
 | [Peaceful Memories](https://open.spotify.com/track/0OUpv9yCY3bLswfTRJRG71) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Peaceful Memories](https://open.spotify.com/album/1TNid7svH4s7JHDZynrKTJ) | 2:36 | 2022-09-23 | 2022-09-30 |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2021-12-07 | 2022-09-23 |
 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2022-04-22 | 2023-10-06 |
-| [Peeter Skeeter](https://open.spotify.com/track/1diQndJIjHScnOZtBj3404) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Peeter Skeeter](https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm) | 1:45 | 2022-05-27 |  |
+| [Peeter Skeeter](https://open.spotify.com/track/1diQndJIjHScnOZtBj3404) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Peeter Skeeter](https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm) | 1:45 | 2022-05-27 | 2025-02-22 |
 | [Peninsula](https://open.spotify.com/track/3PXFeaY00P1xAFCTnxZwiD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [peaceful weibs](https://open.spotify.com/album/3MpDoKBQOIuvE1AJDD7DPP) | 2:20 | 2021-12-07 | 2022-06-25 |
 | [Perspective](https://open.spotify.com/track/4nVPW4PMjFfUKkgr4eQGBZ) | [Waves of Eden](https://open.spotify.com/artist/1uBLWZwzuDt25K4dTphqOD) | [Perspective](https://open.spotify.com/album/0dq55FNkf1R7trd8Nw45EV) | 1:55 | 2022-05-13 | 2022-11-12 |
 | [perspectives](https://open.spotify.com/track/0LmvYj2kBwhthoRghRt1RK) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [perspectives](https://open.spotify.com/album/65DlzFrL661lJGLZT9A0hJ) | 1:46 | 2022-08-19 | 2023-07-14 |
@@ -1479,7 +1480,7 @@
 | [shoe polish](https://open.spotify.com/track/4x66yQYbtaw7Gh7zh8mL2q) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [shoe polish](https://open.spotify.com/album/4ewlF631QtLWD250zgUWrg) | 2:08 | 2022-01-26 | 2024-05-14 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2021-12-07 | 2023-03-02 |
 | [Side\-splitting](https://open.spotify.com/track/3IJFd3F0A94u0TRFQ5rhFj) | [Slim & Bensley](https://open.spotify.com/artist/2XxQ0B78qk4bN3EuaSqMgp) | [Side\-splitting](https://open.spotify.com/album/3py4DorbfWfnQUok3au33W) | 2:18 | 2023-01-06 |  |
-| [Sideways Jake](https://open.spotify.com/track/0ixJMMkWmsaQUffky26nrb) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Under the Rainbow](https://open.spotify.com/album/2gGuBCwA5LI669yzQpa5hN) | 2:11 | 2023-02-17 |  |
+| [Sideways Jake](https://open.spotify.com/track/0ixJMMkWmsaQUffky26nrb) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Under the Rainbow](https://open.spotify.com/album/2gGuBCwA5LI669yzQpa5hN) | 2:11 | 2023-02-17 | 2025-02-22 |
 | [Sight](https://open.spotify.com/track/4VYbyIj0tZVlhGGNiCUw6v) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Sight](https://open.spotify.com/album/6IfwKkmDITX8ixnWdvjBw8) | 3:02 | 2022-09-23 | 2022-09-30 |
 | [Sigma](https://open.spotify.com/track/6Ll6fSsEQKikhmHOg9bCSG) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sigma](https://open.spotify.com/album/60DlCi93e7e8osNwfvnPna) | 2:54 | 2023-03-08 | 2024-06-27 |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2021-12-07 | 2022-07-22 |
@@ -1686,7 +1687,7 @@
 | [taste of coffee](https://open.spotify.com/track/7EwMbDsLmRfbX0bCil2RA6) | [disco robots](https://open.spotify.com/artist/6R3cgq9nqaTLLM2KvAijIN) | [taste of coffee](https://open.spotify.com/album/7CopUNkpzMYNdBJrWB47YN) | 2:11 | 2024-05-29 |  |
 | [tasteful](https://open.spotify.com/track/1J4h8frFhvXjDilTG2N8U9) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [tasteful](https://open.spotify.com/album/6ZlF70zihWb4PCoXzQv4XY) | 1:50 | 2023-05-19 | 2024-07-13 |
 | [tasting menu](https://open.spotify.com/track/2zztKHlFv8hKSqMTzwHsdx) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [tasting menu](https://open.spotify.com/album/1ty4QhVgTNvnya3C2PfTQa) | 1:50 | 2021-12-07 | 2023-02-18 |
-| [Tea](https://open.spotify.com/track/2a2Cu4OIJIhmlVCaSGkngS) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Tea](https://open.spotify.com/album/2v9Ft3rcbvfKsnt8N0kSsK) | 2:10 | 2024-03-01 |  |
+| [Tea](https://open.spotify.com/track/2a2Cu4OIJIhmlVCaSGkngS) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Tea](https://open.spotify.com/album/2v9Ft3rcbvfKsnt8N0kSsK) | 2:10 | 2024-03-01 | 2025-02-22 |
 | [Tea And Biscuits](https://open.spotify.com/track/65KEdlvKpXnXWawKjBXD0e) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Tea And Biscuits](https://open.spotify.com/album/2vktq1AHeKr4vsF6hng96t) | 1:58 | 2022-05-27 | 2023-08-22 |
 | [Tea Cosy](https://open.spotify.com/track/6dc1pLuUuHHttonZuLd3wf) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Tea Cosy](https://open.spotify.com/album/0Vxe4WPILqTU3XfmeI3N6Y) | 3:01 | 2022-04-08 | 2022-10-14 |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2021-12-07 | 2022-07-22 |

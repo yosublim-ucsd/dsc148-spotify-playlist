@@ -15963,6 +15963,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u6210\u90fd",
+        "url": "https://open.spotify.com/album/7KL6WNzDjAUUNWUqL34U9Q"
+      },
+      "artists": [
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157396,
+      "name": "\u592a\u6210\u90fd",
+      "url": "https://open.spotify.com/track/75tie5gBkk11sYwBVPx82J"
+    },
+    {
+      "album": {
         "name": "\u592a\u967d\u5929\u4e0b\u96e8\u5929",
         "url": "https://open.spotify.com/album/6odoZIx0gztEJAVPflJvbe"
       },
@@ -29576,8 +29594,8 @@
       },
       "artists": [
         {
-          "name": "CLSTR56",
-          "url": "https://open.spotify.com/artist/7EJh4edw4j6cT0Sh1LXEYd"
+          "name": "CLSTR 56",
+          "url": "https://open.spotify.com/artist/7fAD8qbydMvv1u9O48D8FX"
         },
         {
           "name": "Eileen Yo\u6e38\u5b87\u6f7c",
@@ -29585,7 +29603,7 @@
         },
         {
           "name": "Terry Zhong",
-          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+          "url": "https://open.spotify.com/artist/4HaPwFlGVkiu4K76MyS74V"
         }
       ],
       "date_added": "2025-02-20",

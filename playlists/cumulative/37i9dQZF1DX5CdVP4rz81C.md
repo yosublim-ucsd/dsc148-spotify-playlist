@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Joya Marleen
 
-1,758 songs - 3 day 20 hr 54 min
+1,759 songs - 3 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [after goodbye](https://open.spotify.com/track/4f0FHjayLGlFXqgwxNitQG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [after goodbye](https://open.spotify.com/album/1p64QK1N3Fm59QuR8xSfe4) | 2:17 | 2021-09-11 | 2021-10-09 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-01-12 | 2021-05-08 |
 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 | 2021-09-04 | 2022-02-05 |
-| [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-07-26 |  |
+| [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-07-26 | 2025-02-22 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-16 | 2020-11-12 |
 | [Again](https://open.spotify.com/track/2gbRN3a575oCrxMPoLNyu2) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Again](https://open.spotify.com/album/5GAeLTsSoRFgz4bQcvqd7G) | 2:24 | 2022-02-11 | 2022-02-26 |
 | [Airplane Mode](https://open.spotify.com/track/3Vj58PS5awfNHL57eq3s0U) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Airplane Mode](https://open.spotify.com/album/7lUHRYBHd7H14Sk8W2mfjj) | 3:23 | 2021-05-22 | 2021-08-07 |
@@ -1667,6 +1667,7 @@
 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 | 2020-10-30 | 2021-01-23 |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2021-03-06 | 2021-05-15 |
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-10 | 2023-09-23 |
+| [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-02-21 |  |
 | [We Used To](https://open.spotify.com/track/0OdwUAhjMCgsLXNJKRupmS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 2:50 | 2020-11-06 | 2021-02-06 |
 | [we used to laugh / 9 to 9](https://open.spotify.com/track/2M2b6AJAKhbg4NSpLOh2cI) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [we used to laugh / 9 to 9](https://open.spotify.com/album/21QU0ofxSweA26KQxhnIko) | 2:54 | 2021-08-14 | 2021-08-28 |
 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-09 | 2023-07-15 |

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/5lbi6AdBirzkA4bIclp7Ag"
+      },
+      "artists": [
+        {
+          "name": "Bricks and Mortar",
+          "url": "https://open.spotify.com/artist/2TtI5im9GUY9iPk7UNUSDF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170863,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/7ngEf3xSGP1IZka8QiXdwf"
+    },
+    {
+      "album": {
         "name": "At the top",
         "url": "https://open.spotify.com/album/0d1z0qt8dzYyaOwbbzgN1I"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185750,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4t487YqFwbxrqFziKX396O"
@@ -1050,6 +1068,24 @@
       "duration_ms": 168423,
       "name": "bubbly fun",
       "url": "https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n"
+    },
+    {
+      "album": {
+        "name": "Buon Complenno",
+        "url": "https://open.spotify.com/album/50Gn8EsOm7ByMJKTdrhBNd"
+      },
+      "artists": [
+        {
+          "name": "Robo Rat",
+          "url": "https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179931,
+      "name": "Buon Complenno",
+      "url": "https://open.spotify.com/track/7Ezwg9O6YVGrjHi77UoQcv"
     },
     {
       "album": {
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 153626,
       "name": "Feuilles",
       "url": "https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV"
@@ -3020,7 +3056,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212435,
       "name": "From the Heart",
       "url": "https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh"
@@ -3917,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "Jungle Peace",
+        "url": "https://open.spotify.com/album/5DNPowJ6Lpn8SEbNyeUCRL"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128313,
+      "name": "Jungle Peace",
+      "url": "https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC"
+    },
+    {
+      "album": {
         "name": "Just smooth",
         "url": "https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH"
       },
@@ -4238,6 +4292,24 @@
       "duration_ms": 124052,
       "name": "lazy days",
       "url": "https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz"
+    },
+    {
+      "album": {
+        "name": "Leftside",
+        "url": "https://open.spotify.com/album/3LvDHJRgfFbnKz7BylMp6D"
+      },
+      "artists": [
+        {
+          "name": "Jordan Moon",
+          "url": "https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161823,
+      "name": "Leftside",
+      "url": "https://open.spotify.com/track/5vjlMzjjYZS9WyAPUjkDFj"
     },
     {
       "album": {
@@ -5232,7 +5304,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 131613,
       "name": "Naxos Sunset",
       "url": "https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF"
@@ -6741,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "Romance De Ver\u00e3o - Edit",
+        "url": "https://open.spotify.com/album/2dcw5pPpt0aDvVObghlqKs"
+      },
+      "artists": [
+        {
+          "name": "Alex Caipirinha",
+          "url": "https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Romance De Verao - Edit",
+      "url": "https://open.spotify.com/track/1936Zbphpffs5ItrZWwCaq"
+    },
+    {
+      "album": {
         "name": "Rooftop Lunch",
         "url": "https://open.spotify.com/album/2AoWCeBrwFvHhb8qChowki"
       },
@@ -6882,6 +6972,42 @@
       "duration_ms": 228235,
       "name": "Saints & Tropez",
       "url": "https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs"
+    },
+    {
+      "album": {
+        "name": "Salt & Saffron",
+        "url": "https://open.spotify.com/album/4rYwJjWQXoD86kQstu4Pxf"
+      },
+      "artists": [
+        {
+          "name": "Baja Azul",
+          "url": "https://open.spotify.com/artist/4ONAwjrF7zzC2tKaWMrjaA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130910,
+      "name": "Salt & Saffron",
+      "url": "https://open.spotify.com/track/2THy66DUF8R63vi3FmYYeV"
+    },
+    {
+      "album": {
+        "name": "Salty Blossom",
+        "url": "https://open.spotify.com/album/6KoVCycbLzDOOPTrWHsnkI"
+      },
+      "artists": [
+        {
+          "name": "Coahira",
+          "url": "https://open.spotify.com/artist/1QEfw9jXIznhQF5JoLa3jC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133334,
+      "name": "Salty Blossom",
+      "url": "https://open.spotify.com/track/4v1o7hP3BqS2LtlcI2CSG4"
     },
     {
       "album": {
@@ -7639,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/68MdBMv34Nf1YR7oFgRufK"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/3SYVkFt9xCEivtpHlia9yT"
+    },
+    {
+      "album": {
         "name": "Spinn",
         "url": "https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd"
       },
@@ -7722,7 +7866,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
@@ -8273,6 +8417,24 @@
     },
     {
       "album": {
+        "name": "Takes Me Back",
+        "url": "https://open.spotify.com/album/06lF8J3g6VxvvrI12DuGEJ"
+      },
+      "artists": [
+        {
+          "name": "Pink Villa",
+          "url": "https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129145,
+      "name": "Takes Me Back",
+      "url": "https://open.spotify.com/track/2MFA24ZvYIVGDJWtzJQsWl"
+    },
+    {
+      "album": {
         "name": "Taking Polaris EP",
         "url": "https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP"
       },
@@ -8374,7 +8536,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188705,
       "name": "teque",
       "url": "https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj"
@@ -8810,6 +8972,24 @@
       "duration_ms": 163888,
       "name": "Vacay - Tropical Jazz Mix",
       "url": "https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2"
+    },
+    {
+      "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/0wDnG4jt8kEN6Zv7A8Mrom"
+      },
+      "artists": [
+        {
+          "name": "Sean Rivers",
+          "url": "https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174888,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/4yYY8tPbNZOYe5Qv7re683"
     },
     {
       "album": {

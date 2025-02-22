@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 90720,
+  "num_followers": 90727,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7PNgAAAAAA0fGWQjxYglwnaolp9t/Rv",
+  "snapshot_id": "Z7ZwgAAAAADpCIzRDsDfESYI3nDIa6nv",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 73933,
-      "name": "Getting High on the Down Low",
-      "url": "https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1"
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 48933,
-      "name": "Hobophobic (Scared of Bums)",
-      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
+      "duration_ms": 73933,
+      "name": "Getting High on the Down Low",
+      "url": "https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1"
     },
     {
       "added_at": null,

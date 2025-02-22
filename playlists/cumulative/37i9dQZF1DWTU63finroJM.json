@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future of music around the world. Cover: Sofie Royer.",
+  "description": "Meet the future of music around the world. Cover: Rachel Chinouriri.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Aao Bhula Dein",
       "url": "https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 158404,
       "name": "Aburridos (Arial 8)",
       "url": "https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS"
@@ -1414,6 +1414,28 @@
       "duration_ms": 179031,
       "name": "All About Me",
       "url": "https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y"
+    },
+    {
+      "album": {
+        "name": "All I Ever Asked (with sombr)",
+        "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217578,
+      "name": "All I Ever Asked (with sombr)",
+      "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
     },
     {
       "album": {
@@ -4680,7 +4702,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 296086,
       "name": "But does my love make you feel?",
       "url": "https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY"
@@ -5826,7 +5848,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 164201,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5H5j512kqhfK9dJT3Ko8an"
@@ -6072,7 +6094,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 205318,
       "name": "confused",
       "url": "https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA"
@@ -6734,7 +6756,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 208669,
       "name": "Dancing On My Feelings",
       "url": "https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT"
@@ -9724,7 +9746,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4yzWBU2W6fUWHHshQLEwdi"
@@ -11044,7 +11066,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Go Head",
       "url": "https://open.spotify.com/track/5gtoVdkR5k72kCdRNjTxq8"
@@ -18096,7 +18118,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 148689,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
@@ -18294,7 +18316,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159330,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2cFwZx2yXnzQ3pfWpEkVwd"
@@ -20346,7 +20368,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 140771,
       "name": "No Happy Ending",
       "url": "https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT"
@@ -20404,7 +20426,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
@@ -23274,7 +23296,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 186591,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
@@ -23372,7 +23394,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169328,
       "name": "pupille",
       "url": "https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3"
@@ -27502,7 +27524,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 110902,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
@@ -29856,7 +29878,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 187810,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
@@ -31012,7 +31034,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 158844,
       "name": "Woman Now",
       "url": "https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ"
@@ -31542,7 +31564,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 166720,
       "name": "You\u2019ll End Up Hating Me",
       "url": "https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe"
@@ -33698,7 +33720,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207707,
       "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"

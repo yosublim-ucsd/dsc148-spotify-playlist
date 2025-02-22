@@ -584,10 +584,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 275680,
       "name": "Forever yours",
       "url": "https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1"
+      },
+      "artists": [
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI"
     },
     {
       "album": {

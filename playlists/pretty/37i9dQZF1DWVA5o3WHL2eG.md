@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,619 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,625 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [Oh Brother](https://open.spotify.com/track/26kYvpZynI7uE1PCMUiJ90) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 3:02 |
 | 7 | [Takemeanywhere](https://open.spotify.com/track/4B780anDB9jSu1UL46uzSQ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Takemeanywhere](https://open.spotify.com/album/7xrJ4cgfzbbQW5Yb8njbdY) | 2:49 |
 | 8 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
-| 9 | [Reservetank](https://open.spotify.com/track/6iXE61bzfiLKYhm7dWQUn0) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Reservetank](https://open.spotify.com/album/2Yec3NY61hKYboTn2UtbiG) | 2:36 |
-| 10 | [Jana](https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Jana](https://open.spotify.com/album/5WPupoTApwgyWLfwf1G4Gj) | 2:41 |
+| 9 | [Jana](https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Jana](https://open.spotify.com/album/5WPupoTApwgyWLfwf1G4Gj) | 2:41 |
+| 10 | [Reservetank](https://open.spotify.com/track/6iXE61bzfiLKYhm7dWQUn0) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Reservetank](https://open.spotify.com/album/2Yec3NY61hKYboTn2UtbiG) | 2:36 |
 | 11 | [Avalanche](https://open.spotify.com/track/3BnkAfMywDoW7C12B4xpYw) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Avalanche](https://open.spotify.com/album/0L15QG9PmT6mdxAxdjeT9o) | 2:36 |
 | 12 | [Pinky Promise](https://open.spotify.com/track/530nmNKu7jq0fCTR6iyfuj) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Pinky Promise](https://open.spotify.com/album/22i0H54dXIQPYi1cTzfRXg) | 2:49 |
 | 13 | [Die falsche Alice](https://open.spotify.com/track/2pi0ozwKdDXhQNfnBencUE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Die falsche Alice](https://open.spotify.com/album/5xusGtDXRfE99prBwN5l3z) | 2:43 |

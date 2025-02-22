@@ -5210,6 +5210,24 @@
     {
       "album": {
         "name": "Luz",
+        "url": "https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125058,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh"
+    },
+    {
+      "album": {
+        "name": "Luz",
         "url": "https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd"
       },
       "artists": [
@@ -6503,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Nyugalma",
+        "url": "https://open.spotify.com/album/5Ck1a4PaH75OKPdrXpz67h"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Kraal",
+          "url": "https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Nyugalma",
+      "url": "https://open.spotify.com/track/4xoOoSUHhtuYISUeBPUaGQ"
+    },
+    {
+      "album": {
         "name": "N\u00e1dhern\u00fd de\u0148",
         "url": "https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI"
       },
@@ -6896,6 +6932,24 @@
       "duration_ms": 186500,
       "name": "Open Mind Open Heart",
       "url": "https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA"
+    },
+    {
+      "album": {
+        "name": "Open the Windows",
+        "url": "https://open.spotify.com/album/5BlAEYOinasxd9JX7259ae"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152067,
+      "name": "Open the Windows",
+      "url": "https://open.spotify.com/track/2Uy0au5iofFkAgTWiXDoZp"
     },
     {
       "album": {
@@ -8326,6 +8380,24 @@
       "duration_ms": 212000,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ"
+    },
+    {
+      "album": {
+        "name": "Silver Shades",
+        "url": "https://open.spotify.com/album/3xMseekTXTQN5WKy0hM6IM"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161150,
+      "name": "Silver Shades",
+      "url": "https://open.spotify.com/track/1JkDd6UTgH8N27sD1wGpNr"
     },
     {
       "album": {

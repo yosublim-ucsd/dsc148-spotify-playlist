@@ -1,13 +1,29 @@
 {
-  "description": "where folk flowers bloom. cover: Bo Staloch",
-  "num_followers": 131537,
+  "description": "where folk flowers bloom. cover: Sydney Rose",
+  "num_followers": 131646,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7STRQAAAACuAnd/AmY4U8dE/5vSlMQI",
+  "snapshot_id": "Z7gIeAAAAADEsndxeyRn8+Wj+Lk290LY",
   "tracks": [
+    {
+      "added_at": "2025-02-18 14:03:49",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
@@ -25,36 +41,52 @@
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
-      "added_at": "2025-02-13 23:22:28",
+      "added_at": "2025-02-21 05:00:40",
       "album": {
-        "name": "Wait It Out",
-        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
+        "name": "Let Things Go",
+        "url": "https://open.spotify.com/album/58lNKQfn5OHWQCraTu6BFC"
       },
       "artists": [
         {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 165768,
-      "name": "Wait It Out",
-      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
+      "duration_ms": 180000,
+      "name": "Let Things Go",
+      "url": "https://open.spotify.com/track/2g7TUO62UQ5rHBAKbdz0Dd"
+    },
+    {
+      "added_at": "2025-02-21 05:00:40",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
     },
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Sweetest Heart",
-        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
       "artists": [
         {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 196436,
-      "name": "Sweetest Heart",
-      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
+      "duration_ms": 286120,
+      "name": "Sweet Heat Lightning",
+      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -79,18 +111,18 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
         }
       ],
-      "duration_ms": 286120,
-      "name": "Sweet Heat Lightning",
-      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -109,20 +141,20 @@
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
-      "added_at": "2025-02-13 23:22:28",
+      "added_at": "2025-02-21 05:00:40",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -141,36 +173,36 @@
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
     },
     {
-      "added_at": "2025-02-18 14:03:49",
+      "added_at": "2025-02-14 16:17:49",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+        "name": "Silent Earth",
+        "url": "https://open.spotify.com/album/09M2M71vFgrOmDqNFY9URx"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
         }
       ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+      "duration_ms": 256422,
+      "name": "Silent Earth",
+      "url": "https://open.spotify.com/track/24Sztla2BtKBRWcLnmjRo0"
     },
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "A Kiss Dressed His Cheek",
-        "url": "https://open.spotify.com/album/4ISEjw1cFwyVH6MQWudJ4s"
+        "name": "Wait It Out",
+        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
       },
       "artists": [
         {
-          "name": "Them & I",
-          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
         }
       ],
-      "duration_ms": 123962,
-      "name": "I'm Not Them",
-      "url": "https://open.spotify.com/track/1iBZ54hEvr2EYk44MgfD7X"
+      "duration_ms": 165768,
+      "name": "Wait It Out",
+      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -253,20 +285,20 @@
       "url": "https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX"
     },
     {
-      "added_at": "2025-02-14 16:17:49",
+      "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Silent Earth",
-        "url": "https://open.spotify.com/album/09M2M71vFgrOmDqNFY9URx"
+        "name": "A Kiss Dressed His Cheek",
+        "url": "https://open.spotify.com/album/4ISEjw1cFwyVH6MQWudJ4s"
       },
       "artists": [
         {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+          "name": "Them & I",
+          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
         }
       ],
-      "duration_ms": 256422,
-      "name": "Silent Earth",
-      "url": "https://open.spotify.com/track/24Sztla2BtKBRWcLnmjRo0"
+      "duration_ms": 123962,
+      "name": "I'm Not Them",
+      "url": "https://open.spotify.com/track/1iBZ54hEvr2EYk44MgfD7X"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -439,6 +471,22 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-02-13 23:22:28",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV"
       },
@@ -499,6 +547,22 @@
       "duration_ms": 229996,
       "name": "Rascal",
       "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
+    },
+    {
+      "added_at": "2025-02-21 05:00:40",
+      "album": {
+        "name": "Call It A Draw",
+        "url": "https://open.spotify.com/album/73WJqjpUrtXfw9L7MC14F1"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 203146,
+      "name": "Call It A Draw",
+      "url": "https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -687,22 +751,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "What's In My Head",
-        "url": "https://open.spotify.com/album/5LVcjAuHykusjEr2vETHCT"
-      },
-      "artists": [
-        {
-          "name": "Jia*",
-          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
-        }
-      ],
-      "duration_ms": 167587,
-      "name": "What's In My Head",
-      "url": "https://open.spotify.com/track/3Gogu2TwHL7dO3xK0dMgjW"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "to be held",
         "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
       },
@@ -731,22 +779,6 @@
       "duration_ms": 265360,
       "name": "Looking at the Geese",
       "url": "https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -835,22 +867,6 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/4rWuYMzcwyGAxLHgmyhqL0"
-      },
-      "artists": [
-        {
-          "name": "Shallow Alcove",
-          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/7tSFr6uaox7BhhDgxViWH8"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Hours Off",
-        "url": "https://open.spotify.com/album/36d9uOlIWerIlQZYtLpFoW"
-      },
-      "artists": [
-        {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Hours Off",
-      "url": "https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "Game of Pretend",
         "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Mama It's Christmas",
-        "url": "https://open.spotify.com/album/0lHb6RiD6yEo6vRTUXoCyK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/5K4fsJlllxsXTIO3oYRwM1"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "Over Your Head",
         "url": "https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI"
       },
@@ -1175,22 +1159,6 @@
       "duration_ms": 233345,
       "name": "Yoke (with Julien Baker)",
       "url": "https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Songs of Origin",
-        "url": "https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv"
-      },
-      "artists": [
-        {
-          "name": "Yaelokre",
-          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Bird cage blue and yellow",
-      "url": "https://open.spotify.com/track/3qhyW08FypET71F65dYZZc"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -1291,22 +1259,6 @@
       "duration_ms": 196854,
       "name": "u always saw the best in me",
       "url": "https://open.spotify.com/track/2ctpZao8P1Xh1Sq52uu4jF"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Pushing It Down and Praying",
-        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 234076,
-      "name": "Pushing It Down and Praying",
-      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
     },
     {
       "added_at": "2025-02-13 23:22:28",

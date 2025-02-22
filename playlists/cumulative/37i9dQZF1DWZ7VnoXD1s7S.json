@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 59999,
       "name": "braincells",
       "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94946,
+      "name": "Hinoki Wood",
+      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
+    },
+    {
+      "album": {
         "name": "Superliminal (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r"
       },
@@ -1959,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Killswitch Lullaby",
+        "url": "https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Killswitch Lullaby",
+      "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
+    },
+    {
+      "album": {
         "name": "last promise",
         "url": "https://open.spotify.com/album/7kG4760gTaRXxzzfa2DLOB"
       },
@@ -2112,6 +2148,28 @@
       "duration_ms": 199071,
       "name": "Liquid Smooth - Lumatone Version",
       "url": "https://open.spotify.com/track/6klWFpyP5bTi76c4Cyw6n8"
+    },
+    {
+      "album": {
+        "name": "sounds",
+        "url": "https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        },
+        {
+          "name": "MAE.SUN",
+          "url": "https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356990,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu"
     },
     {
       "album": {
@@ -2654,7 +2712,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 99474,
       "name": "Old Doll",
       "url": "https://open.spotify.com/track/1ROVIglc9HtF4v9q0AowOx"
@@ -2805,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Lens Flare",
+        "url": "https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Vaan",
+          "url": "https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -2874,6 +2950,24 @@
       "duration_ms": 91000,
       "name": "repressed",
       "url": "https://open.spotify.com/track/3k9YxSVB0gosEbSnM0oD43"
+    },
+    {
+      "album": {
+        "name": "hurry up mixtape",
+        "url": "https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6"
+      },
+      "artists": [
+        {
+          "name": "Alvedon",
+          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "retire (final)",
+      "url": "https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv"
     },
     {
       "album": {
@@ -3188,6 +3282,24 @@
       "duration_ms": 94613,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/7gZbMIgWT6TWzCTlkGaiIq"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188048,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe"
     },
     {
       "album": {

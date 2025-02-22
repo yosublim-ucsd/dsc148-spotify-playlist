@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23972,
+  "num_followers": 23979,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Muchas Estrellas",
+        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Muchas Estrellas",
+      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Muchas Estrellas",
-        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Muchas Estrellas",
-      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "El tiempo de las cosas que frenan",
-        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
       },
       "artists": [
         {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
         }
       ],
-      "duration_ms": 300250,
-      "name": "El tiempo de las cosas que frenan",
-      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+        "name": "El tiempo de las cosas que frenan",
+        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
       "artists": [
         {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
+      "duration_ms": 300250,
+      "name": "El tiempo de las cosas que frenan",
+      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Se que no Vas a Volver",
-      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        }
-      ],
-      "duration_ms": 208179,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "HACIA EL MAR (Pol Nada Remix)",
         "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        }
+      ],
+      "duration_ms": 208179,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Margarita y Margarito (Remix)",
         "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 351340,
       "name": "Margarita y Margarito (Remix)",
       "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1347,6 +1331,22 @@
       "duration_ms": 243072,
       "name": "Cada Uno con Su Bandera",
       "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Que Bailen",
-        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Reverdecer (Remix)",
         "url": "https://open.spotify.com/album/6r1rUXbAI3jQiDEUGLHVrj"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 248746,
       "name": "La L\u00ednea del R\u00edo - San Ignacio & Pol Nada Remix",
       "url": "https://open.spotify.com/track/4QjDr4c2f7RMdK0h0DI091"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
     },
     {
       "added_at": "2024-10-22 19:09:15",

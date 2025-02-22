@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 488,
+  "num_followers": 498,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Waves (Acoustic)",
         "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
       },
@@ -283,8 +267,24 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 280952,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "GG",
         "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 243131,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 280952,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -411,8 +411,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "The Woods (Acoustic)",
+        "url": "https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 239954,
+      "name": "The Woods (Acoustic)",
+      "url": "https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -611,38 +627,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 239954,
-      "name": "The Woods (Acoustic)",
-      "url": "https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Moonfire",
         "url": "https://open.spotify.com/album/3UsAObHERCrshH20RiicHG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268626,
       "name": "Feeding Line",
       "url": "https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Running With The Wolves",
         "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 223712,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "After Hours, Close To Dawn",
-        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
-      },
-      "artists": [
-        {
-          "name": "Kingswood",
-          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "See The Sun",
         "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 223040,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "After Hours, Close To Dawn",
+        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 212173,
       "name": "God Forgot",
       "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",

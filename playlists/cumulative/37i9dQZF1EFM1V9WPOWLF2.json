@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164833,
+      "name": "La Fuerte",
+      "url": "https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U"
+    },
+    {
+      "album": {
         "name": "desAMORfosis",
         "url": "https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG"
       },

@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Dan Sanchez, Natanael Cano.
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Deorro, Alex Favela.
 
-503 songs - 1 day 1 hr 49 min
+504 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Flow 2000 \- Remix](https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Flow 2000 \(Remix\)](https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU) | 2:48 | 2022-03-21 | 2022-07-09 |
 | [FREAKY FREAKY](https://open.spotify.com/track/4VpTPw4gPDdhSITd3okIaZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 | 2023-12-06 | 2024-08-08 |
 | [Fresas, Polvo & Champagne](https://open.spotify.com/track/0UDlfCYwQele7wfOBmSCUX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [Fresas, Polvo & Champagne](https://open.spotify.com/album/3zTntQqyNvvTf8Ap6Gc7NS) | 2:53 | 2024-04-05 |  |
-| [Fresita](https://open.spotify.com/track/6JnspDl2u1ws3AuZCvqvec) | [Angel Gonzalez](https://open.spotify.com/artist/2srr1PcsIHC8GhZtxVOYEV) | [Fresita](https://open.spotify.com/album/473Dr6iEoleWdmcDGsdjHK) | 3:45 | 2024-02-24 |  |
+| [Fresita](https://open.spotify.com/track/6JnspDl2u1ws3AuZCvqvec) | [Angel Gonzalez](https://open.spotify.com/artist/2srr1PcsIHC8GhZtxVOYEV) | [Fresita](https://open.spotify.com/album/473Dr6iEoleWdmcDGsdjHK) | 3:45 | 2024-02-24 | 2025-02-22 |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2022-03-21 | 2023-12-07 |
 | [FUMETEO \- Remix](https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [FUMETEO \(Remix\)](https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD) | 3:34 | 2022-03-21 | 2022-07-09 |
 | [Fundota](https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Fundota](https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo) | 2:20 | 2022-12-07 | 2023-05-26 |
@@ -492,6 +492,7 @@
 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 | 2023-08-25 | 2023-12-07 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2023-05-25 | 2023-08-26 |
 | [Una Noche Loca](https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Una Noche Loca](https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1) | 3:14 | 2023-05-25 | 2023-12-07 |
+| [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 | 2025-02-21 |  |
 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2022-03-21 | 2022-07-09 |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-05-25 | 2023-12-07 |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-03-21 | 2022-04-20 |

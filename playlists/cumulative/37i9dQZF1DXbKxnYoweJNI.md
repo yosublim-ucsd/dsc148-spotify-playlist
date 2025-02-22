@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 溫室雜草 \(Easy Weeds\)
 
-1,668 songs - 4 day 1 hr 2 min
+1,669 songs - 4 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [天空之外 \- 季风吹向大海](https://open.spotify.com/track/70GJb28xh593oOoatmgSmc) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [天空之外 \(季风吹向大海\)](https://open.spotify.com/album/3xZc2FBLaQpJvuVmHhSbdu) | 4:44 | 2024-10-17 | 2024-11-08 |
 | [太多](https://open.spotify.com/track/3sOkaIbIiRhO0dy6z2JS4A) | [葵斯汀](https://open.spotify.com/artist/5dg9W3lXd81YpA5UJshZEc) | [煥羽](https://open.spotify.com/album/33mUoOXkNWx68GjGKTV5Iz) | 4:46 | 2024-08-22 | 2024-08-30 |
 | [太多話沒說](https://open.spotify.com/track/0IsS1R0fgUJJo7h23PQ5DI) | [Enoch Chen](https://open.spotify.com/artist/6lfAHyNPpwYLmDZ5O2KYjS) | [太多話沒說](https://open.spotify.com/album/1QsinLUFypk0WkZBMfCeMF) | 5:06 | 2024-12-19 | 2024-12-27 |
+| [太成都](https://open.spotify.com/track/75tie5gBkk11sYwBVPx82J) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [太成都](https://open.spotify.com/album/7KL6WNzDjAUUNWUqL34U9Q) | 2:37 | 2025-02-20 |  |
 | [太陽天下雨天](https://open.spotify.com/track/3nG5dqMIVjX6e7HcvP2EQs) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [太陽天下雨天](https://open.spotify.com/album/6odoZIx0gztEJAVPflJvbe) | 2:27 | 2024-08-01 | 2024-08-23 |
 | [失去你100種方式](https://open.spotify.com/track/7mSKOZA5gsW4wi1m7lSDu8) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [失去你100種方式](https://open.spotify.com/album/0IGUORBjDVGgKaGtRkly6A) | 4:16 | 2024-08-29 | 2024-09-20 |
 | [失去做夢能力的人們 \(feat.知更\) \[影集《死了一個娛樂女記者之後》主題曲\]](https://open.spotify.com/track/5EGr2kweIRQ85ZTqjwJJDt) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H), [知更](https://open.spotify.com/artist/5L84ifCEkzPSo2pE0FQ6KE) | [失去做夢能力的人們](https://open.spotify.com/album/3lGFv5VgutBraEzfVm2v91) | 5:32 | 2025-01-16 | 2025-02-14 |
@@ -1549,7 +1550,7 @@
 | [迎接瘋狂世界](https://open.spotify.com/track/1jPy6KeBDoCWl0eb8uLBxU) | [葡萄不憤怒](https://open.spotify.com/artist/3XieHCiB2HVN8ZRDSsfkaj), [對角巷樂隊](https://open.spotify.com/artist/3SGjppqFq8YW66qw1jecyx) | [迎接瘋狂世界](https://open.spotify.com/album/0E2DBfuKNzSVWBuJ3v7Tv7) | 3:45 | 2024-09-26 | 2024-10-11 |
 | [迎風之歌](https://open.spotify.com/track/5S6MNHvjJDqGod7wOzoCXy) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [迎風之歌](https://open.spotify.com/album/75n1wcRAYQqKFtsziuMDbv) | 4:46 | 2024-06-27 | 2024-09-27 |
 | [近距離戀愛](https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [近距離戀愛](https://open.spotify.com/album/6jZk2p03akG7v8BFcBgGKM) | 2:47 | 2025-02-06 |  |
-| [迷境 Enigma](https://open.spotify.com/track/6PgkxszDw0Sic1zTK4QqGu) | [CLSTR56](https://open.spotify.com/artist/7EJh4edw4j6cT0Sh1LXEYd), [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [迷境 Enigma](https://open.spotify.com/album/6y5lTnWTzSOpHPEch7kCm8) | 4:03 | 2025-02-20 |  |
+| [迷境 Enigma](https://open.spotify.com/track/6PgkxszDw0Sic1zTK4QqGu) | [CLSTR 56](https://open.spotify.com/artist/7fAD8qbydMvv1u9O48D8FX), [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Terry Zhong](https://open.spotify.com/artist/4HaPwFlGVkiu4K76MyS74V) | [迷境 Enigma](https://open.spotify.com/album/6y5lTnWTzSOpHPEch7kCm8) | 4:03 | 2025-02-20 |  |
 | [迷失的边界Lost Borders](https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq) | [异象音轨](https://open.spotify.com/artist/1zktKuhgJRIZJrfbTdrjBu) | [迷失的边界Lost Borders](https://open.spotify.com/album/4FsWDVMOojXlDinw1GygIM) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [迷航](https://open.spotify.com/track/4FNwRlpFSus5yPM3dYUWLb) | [EVENFALL](https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF) | [迷航](https://open.spotify.com/album/7o2B2HxBicwMsKygzPVuGb) | 3:51 | 2024-08-29 | 2024-09-06 |
 | [迷途](https://open.spotify.com/track/0F4gzBxzzooMGrQtjn14kn) | [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [迷途](https://open.spotify.com/album/7J4Tx8rLpr1Prf2LYvKeYz) | 3:33 | 2024-08-15 | 2024-09-06 |

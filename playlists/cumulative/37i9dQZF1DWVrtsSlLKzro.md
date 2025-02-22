@@ -4,11 +4,12 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-372 songs - 22 hr 2 min
+374 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \- Demo](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \[Demo\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-26 | 2024-11-16 |
+| [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 | 2025-02-21 |  |
 | [4AM \(feat\. HOLT.\)](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:14 | 2021-12-03 | 2023-06-17 |
 | [A Little More Lost](https://open.spotify.com/track/2Y9p7cLtnsUjL43uM5C0UG) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [A Little More Lost](https://open.spotify.com/album/4mAllDoY6J7ks6Gks3Vozw) | 2:42 | 2023-11-10 | 2024-04-19 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-11 |  |
@@ -145,6 +146,7 @@
 | [Gone](https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok) | 3:25 | 2022-09-30 | 2022-12-03 |
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2021-12-03 | 2022-10-13 |
 | [Gone](https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Not Since When](https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id) | 3:09 | 2023-01-06 | 2024-04-27 |
+| [Gone](https://open.spotify.com/track/12U8LiMUvM61GseyRQ7Oiv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Gone / So Far](https://open.spotify.com/album/1cr2DDNVkBc9SGH83YXpYB) | 3:39 | 2025-02-21 |  |
 | [GONNA GET THRU](https://open.spotify.com/track/3XWwNfOWrALIGDFYVPVv4o) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GONNA GET THRU](https://open.spotify.com/album/1xaU4SLIkG4xZUWw6jjNEo) | 3:20 | 2024-11-08 |  |
 | [Good Enough](https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Good Enough](https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu) | 3:30 | 2023-08-04 |  |
 | [Good Together](https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:57 | 2021-12-03 |  |

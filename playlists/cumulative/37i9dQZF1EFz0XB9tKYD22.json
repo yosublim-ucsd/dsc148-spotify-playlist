@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Dare to Fall",
+        "url": "https://open.spotify.com/album/0THJTflB4RVaEViC0NqAR2"
+      },
+      "artists": [
+        {
+          "name": "Mountain Daisies",
+          "url": "https://open.spotify.com/artist/69YENKZVqhXjdDAXL4VSHy"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185907,
+      "name": "Dare To Fall",
+      "url": "https://open.spotify.com/track/2OIm2YCX4iTF36mxNuzwQk"
+    },
+    {
+      "album": {
         "name": "Helene Fischer (Deluxe Version)",
         "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
@@ -6988,7 +7006,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 214608,
       "name": "You Ain't Know",
       "url": "https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt"

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-246 songs - 15 hr 54 min
+248 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Photograph \- Def Leppard x Armand Van Helden](https://open.spotify.com/track/5JWWzqa9Mdd3Yl3uTW14oQ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Photograph \(Def Leppard x Armand Van Helden\)](https://open.spotify.com/album/75WlyzhyeqrzGy8vMtglkc) | 2:35 | 2024-08-12 |  |
 | [Photograph \- Rough Mix Version](https://open.spotify.com/track/6TQue6H7Y2GFM83TeidoEQ) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Photograph \(Rough Mix Version\)](https://open.spotify.com/album/1C8TSH4PNIHipHH9hv4Cdk) | 4:05 | 2024-05-23 |  |
 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 | 2024-05-23 |  |
+| [POCKET DIAL](https://open.spotify.com/track/67ncoM7tI1xcsmZL6Ifrr2) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLack On BLonde+](https://open.spotify.com/album/1b3nLfYDeIL0ND1BzTzpZc) | 3:06 | 2025-02-21 |  |
 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 | 2023-10-16 | 2024-05-24 |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2023-10-16 | 2024-05-24 |
 | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/track/6g2a2Vyba3fz4T4C3xNIj0) | [Paul Heaton](https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j), [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/album/04b1OC73C5JBNZ9zI4uqAa) | 3:01 | 2024-08-30 |  |
@@ -177,6 +178,7 @@
 | [Saint Teresa](https://open.spotify.com/track/3TBcLm9UivNqbzGkYFaA5T) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Saint Teresa](https://open.spotify.com/album/3lZ1NrjKla17h583ZhDn7X) | 4:56 | 2025-02-14 |  |
 | [Same Oley!](https://open.spotify.com/track/5XvXGeZg2FHHTrSt6TrTbI) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Same Oley!](https://open.spotify.com/album/2jzRKDy29pyLWhuSvZRF0v) | 3:13 | 2024-09-20 |  |
 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 | 2023-10-16 | 2024-05-24 |
+| [Shades Of A Blue Orphanage \- Acoustic Version](https://open.spotify.com/track/2lLutmbPDPFALBZZrwbVuy) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Acoustic Version\)](https://open.spotify.com/album/6wfmN0WUcwBZjj7r7qtzW8) | 7:11 | 2025-02-21 |  |
 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 | 2023-10-16 | 2024-05-24 |
 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 | 2024-07-19 |  |
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2023-10-16 | 2024-05-24 |

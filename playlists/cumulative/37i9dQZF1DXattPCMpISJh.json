@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 170526,
       "name": "Bye Bye Blues",
       "url": "https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2"
@@ -6098,6 +6098,24 @@
       "duration_ms": 231710,
       "name": "Wanted?",
       "url": "https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5"
+    },
+    {
+      "album": {
+        "name": "Waste No Time",
+        "url": "https://open.spotify.com/album/2bYWKUHwRwTOnnEjwE0rkv"
+      },
+      "artists": [
+        {
+          "name": "DE SOFFER",
+          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Waste No Time",
+      "url": "https://open.spotify.com/track/5FC5usNqCax1dFzRKW1aOR"
     },
     {
       "album": {

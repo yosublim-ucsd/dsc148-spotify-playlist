@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 171187,
       "name": "12am",
       "url": "https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 190588,
       "name": "aggree",
       "url": "https://open.spotify.com/track/4rQgDw1uftoyO3PgLvjx4T"
@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Fiji Springs",
+        "url": "https://open.spotify.com/album/3RdGDbBStWy0QfPyiRJRb8"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143885,
+      "name": "Fiji Springs",
+      "url": "https://open.spotify.com/track/4gAcB9MAlEVp0YQkwTqA8G"
+    },
+    {
+      "album": {
         "name": "Fika",
         "url": "https://open.spotify.com/album/3URxwmB9mC3IaONUtIEhvW"
       },
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 148500,
       "name": "Future Love",
       "url": "https://open.spotify.com/track/4exS0JoS1YgAaqdINA6FGS"
@@ -3407,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Giggling",
+        "url": "https://open.spotify.com/album/1f8cKb8kRGIthJQc63ZIc1"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "Giggling",
+      "url": "https://open.spotify.com/track/0PpUsqEzQ47QM8GZpVgH8B"
+    },
+    {
+      "album": {
         "name": "Glassy Haze",
         "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
       },
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 144000,
       "name": "good morning, sunshine",
       "url": "https://open.spotify.com/track/7kQaX1eybj2Ft2QOyfpk7V"
@@ -3718,6 +3754,24 @@
       "duration_ms": 105047,
       "name": "Her Universe",
       "url": "https://open.spotify.com/track/17yHJKIZIOprUbTTD6Et0E"
+    },
+    {
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/1JJokH1M1NfvK7E5aXGOk8"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149722,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6Oi33XN0DOYAUHTu2IZd2I"
     },
     {
       "album": {
@@ -3967,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "iceberg in sight",
+        "url": "https://open.spotify.com/album/73lk3D96TVMeO0IYOjO3CR"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118752,
+      "name": "iceberg in sight",
+      "url": "https://open.spotify.com/track/3h3yKvPA3j7wIzWn3TrUce"
+    },
+    {
+      "album": {
         "name": "Idle",
         "url": "https://open.spotify.com/album/5WqJp4sumpU0cucq0iZSPl"
       },
@@ -4094,6 +4166,24 @@
       "duration_ms": 124235,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG"
+    },
+    {
+      "album": {
+        "name": "In The Valley",
+        "url": "https://open.spotify.com/album/2ux6fhCk1aJiyV9iJGa080"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176731,
+      "name": "In The Valley",
+      "url": "https://open.spotify.com/track/7GIxUTAb606x29LfoWWAjz"
     },
     {
       "album": {
@@ -4241,6 +4331,42 @@
     },
     {
       "album": {
+        "name": "Jungle Peace",
+        "url": "https://open.spotify.com/album/5DNPowJ6Lpn8SEbNyeUCRL"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128313,
+      "name": "Jungle Peace",
+      "url": "https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC"
+    },
+    {
+      "album": {
+        "name": "Just Phrases",
+        "url": "https://open.spotify.com/album/6qtFdRdKuESiFM8ze2nXsl"
+      },
+      "artists": [
+        {
+          "name": "SGT DUST",
+          "url": "https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123482,
+      "name": "Just Phrases",
+      "url": "https://open.spotify.com/track/6dA32gMQg3F2FhlSM21CPc"
+    },
+    {
+      "album": {
         "name": "kaisen trippa",
         "url": "https://open.spotify.com/album/17WfMYFB7RGc1sNocQMqbu"
       },
@@ -4360,7 +4486,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 229894,
       "name": "Kind Hearts",
       "url": "https://open.spotify.com/track/0X4iiLCUVKd3LHrxrZvkjK"
@@ -4709,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/0VK2ZN3eIZLpzuY0R2nT3U"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/060AmlKT5Y6xOKS1X4mUK1"
+    },
+    {
+      "album": {
         "name": "lighting",
         "url": "https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE"
       },
@@ -4792,7 +4936,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 173500,
       "name": "Lightweight",
       "url": "https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN"
@@ -5834,7 +5978,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147375,
       "name": "Nacho Mood",
       "url": "https://open.spotify.com/track/0B8XQw5W2ao2EBLJmMVTPv"
@@ -6536,7 +6680,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 136216,
       "name": "Pax Mundi",
       "url": "https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg"
@@ -6832,6 +6976,24 @@
       "duration_ms": 119914,
       "name": "Real space",
       "url": "https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk"
+    },
+    {
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/5PlVNnQsDRVKvBzk6Nbul5"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Reboot",
+      "url": "https://open.spotify.com/track/35Wlnt6eX5mHK5ZphndzeO"
     },
     {
       "album": {
@@ -7386,7 +7548,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 243220,
       "name": "Seclusions",
       "url": "https://open.spotify.com/track/6ybYRoTGj2rl2mOzbe3iaz"
@@ -7498,7 +7660,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 150973,
       "name": "Sensations",
       "url": "https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1"
@@ -7534,7 +7696,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236242,
       "name": "Sepia Story",
       "url": "https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby"
@@ -7624,7 +7786,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 142500,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/0UhUdLPU2Cc83Udv7BPJrg"
@@ -8206,10 +8368,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 189000,
       "name": "Sunday Adventures",
       "url": "https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2"
+    },
+    {
+      "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/5NFESTuPtNwNSLqDMucpf8"
+      },
+      "artists": [
+        {
+          "name": "Peqasus",
+          "url": "https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157195,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/5zb3ATDc6t0H7tA0F2y1l8"
     },
     {
       "album": {
@@ -8264,6 +8444,24 @@
       "duration_ms": 129457,
       "name": "Sunrise Dip",
       "url": "https://open.spotify.com/track/52kwfOzERB3t4Zmxfr0hAi"
+    },
+    {
+      "album": {
+        "name": "Sunset Expresso",
+        "url": "https://open.spotify.com/album/0eXiEC8bzzu7fH6JWx73FY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Vanity",
+          "url": "https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137863,
+      "name": "Sunset Expresso",
+      "url": "https://open.spotify.com/track/4GeYzFsZ70iDwFzAssjEIX"
     },
     {
       "album": {
@@ -9243,6 +9441,24 @@
     },
     {
       "album": {
+        "name": "Untamed Feelings",
+        "url": "https://open.spotify.com/album/5dGfvPD6Hohbiab9W9wsb8"
+      },
+      "artists": [
+        {
+          "name": "Chico Rocket",
+          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Untamed Feelings",
+      "url": "https://open.spotify.com/track/6lRqGGABvStAoVXRjT7JoH"
+    },
+    {
+      "album": {
         "name": "Up Through The Clouds",
         "url": "https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3"
       },
@@ -9658,7 +9874,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 164888,
       "name": "What Now",
       "url": "https://open.spotify.com/track/3XC4cQ8qffBghftJ7W2QKC"
@@ -9802,7 +10018,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147994,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/7zo53YenWv2I2cSRxkM24D"

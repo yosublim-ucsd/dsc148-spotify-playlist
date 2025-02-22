@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49203,
+  "num_followers": 49228,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAACQGrJjhiO4b1hve4Fj5NSC",
+  "snapshot_id": "Z7ZwgAAAAAD5KolES3cyQ3RbXEwC/mJU",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten\u00eda Due\u00f1o",
         "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+      "duration_ms": 228832,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/5PUh3KLkUK6MXX3Vrd7crz"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 174706,
       "name": "En La Misma Cama - Dueto Con El Chapo",
       "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "Tristes Recuerdos",
-      "url": "https://open.spotify.com/track/5PUh3KLkUK6MXX3Vrd7crz"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Sea Lo Que Sea",
-      "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+      "duration_ms": 198146,
+      "name": "Sea Lo Que Sea",
+      "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
     },
     {
       "added_at": null,

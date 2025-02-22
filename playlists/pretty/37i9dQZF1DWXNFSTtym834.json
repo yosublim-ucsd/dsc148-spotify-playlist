@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1290544,
+  "num_followers": 1290618,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 257813,
-      "name": "Minerva",
-      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Shadow Zone",
         "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 171106,
       "name": "The Only",
       "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 257813,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Suicide Season",
-        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "Chelsea Smile",
-      "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Brave New World (2015 Remaster)",
         "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 434293,
       "name": "Blood Brothers - 2015 Remaster",
       "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
     },
     {
       "added_at": "2024-06-13 12:59:15",

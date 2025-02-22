@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-177 songs - 8 hr 18 min
+180 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-02-02 | 2024-03-30 |
 | [Decisions](https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Decisions](https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8) | 3:21 | 2024-02-02 |  |
 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
+| [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 | 2025-02-21 |  |
 | [DEPENDS](https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 4:00 | 2024-02-02 |  |
 | [did you mean it ?](https://open.spotify.com/track/3crlsGG2XuwWIeSYYneyhg) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [did you mean it ?](https://open.spotify.com/album/1fkU262XlkuMzCBZLoneRV) | 2:28 | 2024-11-01 |  |
 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 | 2024-05-17 |  |
@@ -89,6 +90,7 @@
 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 | 2024-05-03 |  |
 | [Jodeci](https://open.spotify.com/track/0TqC5imTnHeNCZuSWn0ei1) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Enjoymenting 2](https://open.spotify.com/album/0v0whlimp895NskZy3CPuv) | 3:59 | 2024-06-07 | 2024-06-22 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-12 | 2024-04-27 |
+| [La La La La La](https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:07 | 2025-02-21 |  |
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 |  |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 |  |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
@@ -165,6 +167,7 @@
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2024-02-02 | 2024-08-03 |
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2024-02-02 |  |
 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 | 2024-02-02 |  |
+| [Ufo's](https://open.spotify.com/track/6M9znukXG6XByAv3UyJrf0) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:00 | 2025-02-21 |  |
 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2024-02-23 |  |
 | [Unsure](https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Unsure](https://open.spotify.com/album/6b4st3oruQbvzMV4Q7wWVk) | 3:10 | 2024-03-15 |  |
 | [Upperhand](https://open.spotify.com/track/6YHLJnzjbH5b5x3THQ41yq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music \- EP](https://open.spotify.com/album/3K7e3rKAB194KQbes13kgW) | 1:58 | 2024-12-06 |  |

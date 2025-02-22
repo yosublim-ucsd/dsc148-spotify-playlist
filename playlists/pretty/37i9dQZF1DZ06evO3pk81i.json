@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7309,
+  "num_followers": 7314,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAADu5yFYK/bHhcrB0pozrQ8r",
+  "snapshot_id": "Z7ZwgAAAAABamZOPejztFodQYeMGX2Sp",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 198639,
-      "name": "Baby (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 198639,
+      "name": "Baby (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8"
     },
     {
       "added_at": null,

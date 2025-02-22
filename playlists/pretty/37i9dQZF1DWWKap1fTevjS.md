@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,770 likes - 209 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,840 likes - 209 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 208 | [Respective](https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Respective](https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku) | 2:57 |
 | 209 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 |
 
-Snapshot ID: `Z66/yQAAAADk9w9HOpIlP5wbqp/nyOAT`
+Snapshot ID: `Z66/yQAAAACT0lH19/tWBvKzpiz4GSHg`

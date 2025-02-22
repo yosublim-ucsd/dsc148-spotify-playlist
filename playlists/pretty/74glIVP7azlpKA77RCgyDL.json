@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Lacuna Coil.",
-  "num_followers": 8831,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Orthodox.",
+  "num_followers": 8833,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAANkPWXV09hg9k9twOgU8Bh7v2KaPFX",
+  "snapshot_id": "AAANoeuXlCf0xstwMWKIxOcCaV1XhLJd",
   "tracks": [
+    {
+      "added_at": "2025-02-21 18:21:22",
+      "album": {
+        "name": "Lord Humungus",
+        "url": "https://open.spotify.com/album/23rrbT4rvGKi7ALXJnYEtb"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Lord Humungus",
+      "url": "https://open.spotify.com/track/365tO9p3MqbVcRZELUlArm"
+    },
+    {
+      "added_at": "2025-02-21 18:22:10",
+      "album": {
+        "name": "Commit to Consequence (feat. Andrew Neufeld)",
+        "url": "https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        },
+        {
+          "name": "Andrew Neufeld",
+          "url": "https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq"
+        }
+      ],
+      "duration_ms": 148342,
+      "name": "Commit to Consequence (feat. Andrew Neufeld)",
+      "url": "https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R"
+    },
+    {
+      "added_at": "2025-02-21 20:25:04",
+      "album": {
+        "name": "This Consequence",
+        "url": "https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 258945,
+      "name": "The Fall of Us",
+      "url": "https://open.spotify.com/track/6aDK9xX0rAV8kNY2z4s0WO"
+    },
+    {
+      "added_at": "2025-02-21 18:22:53",
+      "album": {
+        "name": "Forlorn",
+        "url": "https://open.spotify.com/album/6QEJNodzY85qNeuDUmrxKU"
+      },
+      "artists": [
+        {
+          "name": "Amenra",
+          "url": "https://open.spotify.com/artist/0N1jE1EIrhZjvQSfuLupUu"
+        }
+      ],
+      "duration_ms": 480190,
+      "name": "Forlorn",
+      "url": "https://open.spotify.com/track/7F9ZH9FyBocFd8VoJg0yRR"
+    },
+    {
+      "added_at": "2025-02-21 18:24:56",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1rhoN9xm5vh6RVWj1NulnZ"
+      },
+      "artists": [
+        {
+          "name": "Scour",
+          "url": "https://open.spotify.com/artist/6SoZi6u1HOTJ33PrXjMxlo"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Coin",
+      "url": "https://open.spotify.com/track/2YA3cfSILVByNuF5kibeyJ"
+    },
+    {
+      "added_at": "2025-02-21 18:25:29",
+      "album": {
+        "name": "Cruel Times",
+        "url": "https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 178231,
+      "name": "Cruel Times",
+      "url": "https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI"
+    },
     {
       "added_at": "2025-02-14 19:07:45",
       "album": {

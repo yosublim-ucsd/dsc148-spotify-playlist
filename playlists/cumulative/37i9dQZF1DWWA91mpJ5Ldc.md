@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-249 songs - 15 hr 5 min
+250 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 | 2022-02-04 |  |
 | [Boca Cheia](https://open.spotify.com/track/3F02D31yVHSs5OoOkSvirT) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Indee](https://open.spotify.com/artist/6F8T5BrVPsND7NOzCBLZu5) | [Boca](https://open.spotify.com/album/5W174N4vOGoC6GEsILKWZn) | 3:35 | 2022-03-22 | 2022-04-20 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 |  |
-| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 | 2023-07-04 |
+| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 |  |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-02-04 |  |
 | [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 | 2022-03-22 |  |
 | [Bédi Beat](https://open.spotify.com/track/4u1GfVTNwHmHx6DAD50ZL1) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 3:20 | 2022-04-01 | 2022-04-20 |
@@ -119,6 +119,7 @@
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-02-04 | 2022-07-25 |
 | [Fullgás](https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Qinho Canta Marina](https://open.spotify.com/album/0Dlkq4Ecn8e0UOUhDm9RFm) | 4:27 | 2022-02-04 | 2022-07-26 |
 | [Gamela](https://open.spotify.com/track/3Dj1bQdB6swcsWkQRtnevp) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK) | [Gamela](https://open.spotify.com/album/4dIM1zU22GCBCH6bzPwV6Q) | 3:42 | 2022-03-22 | 2022-04-13 |
+| [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 | 2025-02-22 |  |
 | [Gentilmente](https://open.spotify.com/track/3u9LN72UqsGVYgEJVrtVah) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Gentilmente](https://open.spotify.com/album/0XbYJg3dz9T5z1qdOmIg6d) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 | 2022-02-04 |  |
 | [Gostosin](https://open.spotify.com/track/2O9Vl5peatdy7ihvizo67c) | [Gamboa](https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL) | [Gostosin](https://open.spotify.com/album/3KpryyF0B32pXpVr1gNk69) | 3:11 | 2022-02-04 | 2022-07-29 |
@@ -165,9 +166,9 @@
 | [Negão Negra](https://open.spotify.com/track/21C2FVAKx5JqWT6ta3rEIF) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f) | [Negão Negra](https://open.spotify.com/album/7zAaQDWDo7ygq9vqoojQQc) | 3:06 | 2022-02-04 | 2022-07-19 |
 | [Nem um Pio](https://open.spotify.com/track/16F0NsbQaN13csQqlRuv8A) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Joander Cruz](https://open.spotify.com/artist/2SR3AdtfMykYGLzSlRmhKg) | [Nem Um Pio](https://open.spotify.com/album/0ZkaQjyRSEEtIFYoWRSOPE) | 3:27 | 2022-03-22 | 2022-06-21 |
 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 | 2022-02-04 |  |
-| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 |  |
+| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 | 2025-02-22 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
-| [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 | 2022-02-04 |  |
+| [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 | 2022-02-04 | 2025-02-22 |
 | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/track/07PlqC9FOWlcU3hRH71mcN) | [Brother Charlie](https://open.spotify.com/artist/0MWuoNor5gFicQlufcYvae), [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/album/0OzhhZBHBNCkjnjh2lkIqC) | 3:08 | 2022-02-04 | 2022-07-25 |
 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 | 2022-02-04 |  |
 | [O Jeito](https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:10 | 2022-02-04 | 2025-02-15 |

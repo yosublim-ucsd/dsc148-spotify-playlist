@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> jisokuryClub\(지소쿠리클럽\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,265 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,245 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Circle](https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Color](https://open.spotify.com/album/3OVO95pAzdpfBeowvaB6Qu) | 3:33 |
 | 50 | [Page](https://open.spotify.com/track/6jAMGTTWOOEHBvhpi6ZsDd) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Page](https://open.spotify.com/album/1hv5kTzCuapWPHeeFm4DfY) | 3:17 |
 
-Snapshot ID: `Z7baAQAAAADpIM5PLsHZZHAmbLSYgLTY`
+Snapshot ID: `Z7baAQAAAADlgAqYsJkzWfSCNOGP+f9U`

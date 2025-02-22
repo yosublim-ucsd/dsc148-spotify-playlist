@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,140 songs - 2 day 9 hr 11 min
+1,141 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-10 | 2024-12-15 |
 | [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 | 2022-04-29 |
 | [GEÇMİŞİ SİL](https://open.spotify.com/track/4K7lVYPJxi8RpXRe5aU31A) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [GEÇMİŞİ SİL](https://open.spotify.com/album/7CGkq5YGahSU6MIA1lWJNd) | 3:08 | 2021-11-28 | 2021-12-06 |
+| [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/track/4LmZ9i14ulI6YGe7q7ED3R) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/album/6PCEEWJ6FMcERbAbZkKxAO) | 2:25 | 2025-02-21 |  |
 | [Geççek](https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Geççek](https://open.spotify.com/album/7vbykiNDCY72e48gKcNsf4) | 3:14 | 2022-02-18 | 2023-05-17 |
 | [Ghetto](https://open.spotify.com/track/1AU0gqFQ1sWXT2c84yBDvw) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ghetto](https://open.spotify.com/album/2pERxA6Rq3GWyRkT71DEPF) | 2:42 | 2021-11-14 | 2021-12-02 |
 | [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 | 2025-01-17 |
@@ -977,7 +978,7 @@
 | [Suçlarımdan Biri](https://open.spotify.com/track/5S0Q8i6RTwekXnE2WU3vQi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/566tAtCOlz9yNPsXdXZDsr) | 2:51 | 2022-03-29 | 2022-06-05 |
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2022-06-04 | 2023-04-29 |
 | [SWIM](https://open.spotify.com/track/4P1pxOmZaCIphpT7CGkEsX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 4:26 | 2023-06-17 | 2023-06-24 |
-| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-02-01 |  |
+| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-02-01 | 2025-02-22 |
 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 |  |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-06 | 2023-05-11 |
 | [SÜR](https://open.spotify.com/track/3SLOjhcE08rzXXBMN8c6UM) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SÜR](https://open.spotify.com/album/0JMhNmkcLl9dZf9U7uDVkK) | 3:26 | 2022-08-06 | 2022-08-13 |
@@ -1030,7 +1031,7 @@
 | [Uzak Ol](https://open.spotify.com/track/3UtxLgkmTZZkPr6scOEglC) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Uzak Ol](https://open.spotify.com/album/690HvmsEBKLv5gsKdoZdVi) | 2:57 | 2021-03-27\* | 2021-07-04 |
 | [Uzaklara Savrulalım](https://open.spotify.com/track/0c4orZI2hBcd7VfkFB6FDI) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Sanrılar](https://open.spotify.com/album/3GfORRNxyhQnepv1rtRLGK) | 3:33 | 2021-03-27 | 2021-06-27 |
 | [Uzaklara Savrulalım](https://open.spotify.com/track/7LGuxwQ3PzCxtinavcMlew) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Uzaklara Savrulalım](https://open.spotify.com/album/2AtLcEL3VMjW75OSUMDUGK) | 3:33 | 2021-03-27\* | 2021-03-27 |
-| [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 | 2024-10-24 | 2025-02-19 |
+| [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 | 2024-10-24 |  |
 | [Uzun Lafın Kısası](https://open.spotify.com/track/2v14AB4uUoWMjnNnlQJRJC) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden Mutlu](https://open.spotify.com/artist/3ScdCahXjzw08np6FULdmA), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/2YS3khuycfVxtVjn43sta2) | 3:39 | 2023-10-13 | 2023-11-14 |
 | [Uzunlar \- V1](https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Uzunlar](https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo) | 4:42 | 2021-03-27\* | 2022-08-07 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-11 | 2023-03-21 |
@@ -1105,7 +1106,7 @@
 | [Yıldızların Altında](https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf) | [Kargo](https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R) | [Yıldızların Altında](https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg) | 2:57 | 2021-10-18 | 2022-02-03 |
 | [Zalim](https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Düş Bahçeleri](https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ) | 4:38 | 2023-06-13 | 2023-10-18 |
 | [Zalim \(Ellerine Sağlık\) \- Remastered](https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn) | 4:06 | 2024-02-25 | 2024-03-10 |
-| [Zamansızdık](https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Zamansızdık](https://open.spotify.com/album/6PI0ZfIq5UV3kLlpA5RkXE) | 2:49 | 2025-02-08 |  |
+| [Zamansızdık](https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Zamansızdık](https://open.spotify.com/album/6PI0ZfIq5UV3kLlpA5RkXE) | 2:49 | 2025-02-08 | 2025-02-22 |
 | [ZAR ZOR](https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [DANS](https://open.spotify.com/album/2IoW1Qu0zuMSgzUZyUUZYC) | 3:23 | 2024-05-28 | 2024-06-14 |
 | [ZEHİRLİ GÜL](https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:56 | 2024-09-14 |  |
 | [Zeki Müren](https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Zeki Müren](https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg) | 2:15 | 2022-06-11 | 2022-06-19 |

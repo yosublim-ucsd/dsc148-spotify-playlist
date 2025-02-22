@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring BossMan Dlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,142 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,132 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 39 | [Ground Control](https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Ground Control](https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk) | 3:23 |
 | 40 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 |
 
-Snapshot ID: `Z4qAzgAAAACphnQe2lTp/UTT2Ulo640b`
+Snapshot ID: `Z4qAzgAAAACHU1KhScVUMgpd+64hzkXJ`

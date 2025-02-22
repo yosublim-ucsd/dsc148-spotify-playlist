@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > DJ Dadda, SleepyThePrince entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,689 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,722 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Making Teenage Ana Proud](https://open.spotify.com/track/6APamWCI17P6DCvRbsdsNp) | [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Making Teenage Ana Proud](https://open.spotify.com/album/3tSuV8iy7X0DgZqDKvhUCp) | 3:39 |
 | 70 | [Turma do golpe](https://open.spotify.com/track/5FWFHea6utB5l3E8afL6u7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Alumiarte](https://open.spotify.com/album/6GZlLVVD9MLF7QCKBJ1bjN) | 2:52 |
 
-Snapshot ID: `Z7fCFgAAAACtLckDpFjOVkB1SXlgjUmS`
+Snapshot ID: `Z7fCFgAAAAAyTPW+SVO3xc90bYIpR0NB`

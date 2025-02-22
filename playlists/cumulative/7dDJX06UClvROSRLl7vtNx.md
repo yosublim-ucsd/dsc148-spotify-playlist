@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-724 songs - 1 day 7 hr 26 min
+726 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Karma Chameleon](https://open.spotify.com/track/00jg6xfsu8dS4BkALzSFJw) | [Tropical Tide](https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Karma Chameleon](https://open.spotify.com/album/3YT8asCpGOhvAaqBmuAppR) | 2:36 | 2025-02-09 |  |
 | [Keep Loving You](https://open.spotify.com/track/45V5YxZ4OJnUDSRDkTpYwN) | [Sooren](https://open.spotify.com/artist/2HqvRR6mYLfEDkghBJOr1V), [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Keep Loving You](https://open.spotify.com/album/5pq3NnH4Rv8JyNylIIxCQm) | 2:41 | 2023-09-22 | 2024-06-01 |
 | [Keep Me Safe](https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [CRE](https://open.spotify.com/artist/4igo8DCgQozV9rIPs4K9us), [SOULWAY](https://open.spotify.com/artist/6XVrTtDDI2YcO6qKIIt1ck) | [Keep Me Safe](https://open.spotify.com/album/5RzqItNFbTtJhHDKcKbiZY) | 2:19 | 2024-11-03 | 2024-12-09 |
+| [Keep You Around](https://open.spotify.com/track/5argQfyRM6cfFKWYv2EXk1) | [Arial Ten](https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf) | [Keep You Around](https://open.spotify.com/album/7JkuOJdTZPVFHPMHavhrpO) | 2:51 | 2025-02-21 |  |
 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 | 2024-04-18 | 2024-09-30 |
 | [King](https://open.spotify.com/track/3FLtWk8DRjMimRt84JJJOF) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [King](https://open.spotify.com/album/64OoWtI7Bp30sAW2Y3RGVi) | 2:39 | 2023-09-22 | 2024-01-28 |
 | [King \(Brendan Mills Remix\)](https://open.spotify.com/track/2aFny1zp5wqiYHvNbin2za) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [King \(Brendan Mills Remix\)](https://open.spotify.com/album/5rxbmHwAar07Ar8EBTZFwB) | 2:35 | 2024-12-15 |  |
@@ -580,6 +581,7 @@
 | [Still Standing](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Still Standing](https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY) | 2:15 | 2024-01-04 |  |
 | [Storm](https://open.spotify.com/track/6I8T9UxIkMGyJte0gfXm8Q) | [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Storm](https://open.spotify.com/album/5g4k7hDdEglrbVN46WZAhg) | 2:24 | 2024-08-30 | 2024-10-09 |
 | [Story](https://open.spotify.com/track/6pZp3Glk0bAD22Vb21ifem) | [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V) | [Story](https://open.spotify.com/album/3uMbwGHVOtAnf8KOZEsBcG) | 2:37 | 2024-06-21 | 2024-07-29 |
+| [Straight To LA](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Raïko](https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4) | [Straight To LA](https://open.spotify.com/album/20T8dKwTLSWZ9IxZAygwSy) | 2:28 | 2025-02-21 |  |
 | [Strangers](https://open.spotify.com/track/48sKbRMLrQh8DqcL2lpnjM) | [Jawmill](https://open.spotify.com/artist/78HDMi8gcE9J5Hs3v4nSfJ) | [Strangers](https://open.spotify.com/album/12MLBpikbkyDBEM2FTXhCl) | 2:21 | 2024-01-27 | 2024-06-01 |
 | [Strangers](https://open.spotify.com/track/0MP8D9PQsFcx23hEwz5ZMO) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Strangers](https://open.spotify.com/album/0lxPLmTBwOKnWQxHwih79u) | 2:22 | 2024-06-21 | 2024-07-29 |
 | [Streets Of Paris](https://open.spotify.com/track/0dBuY7FFheYCzaZZ0Vy9oS) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Streets Of Paris](https://open.spotify.com/album/5lCOk1JARXunmXP8d8HPhD) | 2:13 | 2024-08-11 |  |

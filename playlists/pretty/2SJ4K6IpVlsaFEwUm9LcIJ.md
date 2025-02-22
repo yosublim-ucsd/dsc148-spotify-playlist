@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,805 likes - 46 songs - 3 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,810 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,24 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 |
 | 32 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 |
 | 33 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 |
-| 34 | [I B Yours](https://open.spotify.com/track/6fDyAzbpFIEyE9g4LoqlDD) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 4:14 |
-| 35 | [Twenty Trees](https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 7:50 |
-| 36 | [Silly Girl](https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Scribble](https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai) | 3:43 |
-| 37 | [Shoot](https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [Shoot](https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx) | 1:36 |
-| 38 | [Hewlett](https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [The Fascinating Chimera Project](https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb) | 1:32 |
-| 39 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 |
-| 40 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 |
-| 41 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 |
-| 42 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 |
-| 43 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 |
-| 44 | [Information Content](https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 4:03 |
-| 45 | [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 |
-| 46 | [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 |
+| 34 | [Free Man in Paris](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 3:03 |
+| 35 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 |
+| 36 | [I B Yours](https://open.spotify.com/track/6fDyAzbpFIEyE9g4LoqlDD) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 4:14 |
+| 37 | [Twenty Trees](https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 7:50 |
+| 38 | [Silly Girl](https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Scribble](https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai) | 3:43 |
+| 39 | [Shoot](https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [Shoot](https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx) | 1:36 |
+| 40 | [In France They Kiss on Main Street](https://open.spotify.com/track/16e1DJIznzArBOCSomdvSn) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:19 |
+| 41 | [Don't Interrupt the Sorrow](https://open.spotify.com/track/3r0Tk9ibA2KT1KiLGIuKXA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:04 |
+| 42 | [Hewlett](https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [The Fascinating Chimera Project](https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb) | 1:32 |
+| 43 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 |
+| 44 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 |
+| 45 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 |
+| 46 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 |
+| 47 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 |
+| 48 | [Information Content](https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 4:03 |
+| 49 | [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 |
+| 50 | [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 |
+| 51 | [Car Song](https://open.spotify.com/track/2PLlDmo8ugWB0uKPxovQ6E) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 1:52 |
+| 52 | [Talking Fishing Blues](https://open.spotify.com/track/5uRZQacQqmhdRwoAMbYnlW) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 3:06 |
 
-Snapshot ID: `AAAL2zQ5eNrhRi1z883igwgfXluQfETo`
+Snapshot ID: `AAAL4tS3zs+/RbSM3gs2mDGjvWrf16/B`

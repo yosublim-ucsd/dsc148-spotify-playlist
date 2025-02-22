@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,434 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,439 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Love \- Kannada](https://open.spotify.com/track/5M6VZVB1wTwgCGqAUln2CT) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s) | [My Love \(Kannada\)](https://open.spotify.com/album/5SMHqxu7YwAGsIHCPDTn9k) | 4:30 |
 | 2 | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Vicky Sakleshpur](https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4) | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z) | 4:21 |
-| 3 | [LIFE IS SIMPLE](https://open.spotify.com/track/4roerOpvixe6aTcZNonScu) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [LIFE IS SIMPLE](https://open.spotify.com/album/4j6aGPJX3yfneX32rTKYaN) | 3:07 |
+| 3 | [LIFE IS SIMPLE](https://open.spotify.com/track/4roerOpvixe6aTcZNonScu) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [LIFE IS SIMPLE](https://open.spotify.com/album/4j6aGPJX3yfneX32rTKYaN) | 3:07 |
 | 4 | [Alochane](https://open.spotify.com/track/76b6XWSPuXZUhyxz5JShhE) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Thanusha KM](https://open.spotify.com/artist/0MCXq3V1499mItuvVRmGdl) | [Alochane](https://open.spotify.com/album/3GK6rmUrTMqsQWo4WiR1wG) | 3:43 |
 | 5 | [Sakkathagiddini](https://open.spotify.com/track/5iZhK1bnpCzb2gqEbl8u93) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Sakkathagiddini](https://open.spotify.com/album/6HbSyd9OQBydmp4mdhQ4kR) | 2:38 |
 | 6 | [Manase Relax](https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Manase Relax](https://open.spotify.com/album/2bydnauAN63633eCC1ddEM) | 2:51 |

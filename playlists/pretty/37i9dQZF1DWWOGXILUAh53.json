@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Klara Hammarstr\u00f6m",
-  "num_followers": 245298,
+  "description": "The hottest new pop with all the drops. Cover: Sophie and the Giants",
+  "num_followers": 247252,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N9wAAAAC1xNQWv25EbClQKDVTZmeF",
+  "snapshot_id": "Z7gIYgAAAADeEBXdAtGcyEP8Iw7lmXW3",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 146229,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK"
+    },
     {
       "added_at": "2025-02-07 05:00:29",
       "album": {
@@ -45,24 +61,40 @@
       "url": "https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei"
     },
     {
-      "added_at": "2025-02-14 05:00:39",
+      "added_at": "2025-02-21 05:00:18",
       "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+        "name": "My Heart Goes (feat. Oaks)",
+        "url": "https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 126508,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+      "duration_ms": 133714,
+      "name": "My Heart Goes (feat. Oaks)",
+      "url": "https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe"
+    },
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 142228,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ"
     },
     {
       "added_at": "2025-01-31 05:00:32",
@@ -89,6 +121,26 @@
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
     },
     {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Owe It All To You",
+        "url": "https://open.spotify.com/album/31D5KFyavZz9dMCF08ARJl"
+      },
+      "artists": [
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 162864,
+      "name": "Owe It All To You",
+      "url": "https://open.spotify.com/track/4rnQDR4LkCVeTN85wiPByY"
+    },
+    {
       "added_at": "2025-02-07 05:00:29",
       "album": {
         "name": "Tell Me",
@@ -109,6 +161,22 @@
       "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "ON THE MONEY",
+        "url": "https://open.spotify.com/album/7tjJBbMowzxHXnd5Xl4pRf"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "duration_ms": 144444,
+      "name": "ON THE MONEY",
+      "url": "https://open.spotify.com/track/4X4QySVLdBnOd2HoXQLs0I"
+    },
+    {
       "added_at": "2025-02-05 17:14:26",
       "album": {
         "name": "Abracadabra",
@@ -123,22 +191,6 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-02-14 05:00:39",
-      "album": {
-        "name": "Turn The Page",
-        "url": "https://open.spotify.com/album/5XWVCgy5LIq4Frp53laliZ"
-      },
-      "artists": [
-        {
-          "name": "Liv Dawson",
-          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Get Back Together",
-      "url": "https://open.spotify.com/track/09Od66ZNVW5evmkUG57xdl"
     },
     {
       "added_at": "2025-02-07 05:00:29",
@@ -161,6 +213,46 @@
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     },
     {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Wrap Yourself Around Me",
+        "url": "https://open.spotify.com/album/7FpKMOIxATCJeuODR4mFcP"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "NORTH",
+          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
+        }
+      ],
+      "duration_ms": 195477,
+      "name": "Wrap Yourself Around Me",
+      "url": "https://open.spotify.com/track/0lwLSCeMRdrekDhOJk0VvL"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 126508,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+    },
+    {
       "added_at": "2025-02-14 05:00:39",
       "album": {
         "name": "24K Gold",
@@ -175,6 +267,78 @@
       "duration_ms": 162560,
       "name": "24K Gold",
       "url": "https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c"
+    },
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
+    },
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Where My Heart Is / Time Is On Our Side",
+        "url": "https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Where My Heart Is",
+      "url": "https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE"
+    },
+    {
+      "added_at": "2025-02-14 05:00:39",
+      "album": {
+        "name": "Turn The Page",
+        "url": "https://open.spotify.com/album/5XWVCgy5LIq4Frp53laliZ"
+      },
+      "artists": [
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Get Back Together",
+      "url": "https://open.spotify.com/track/09Od66ZNVW5evmkUG57xdl"
+    },
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/2gjeoSBVBQJOcd3jFJK9DB"
+      },
+      "artists": [
+        {
+          "name": "Kyra Machida",
+          "url": "https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/32ET2nzDYhNSUSb0rpST6Y"
     },
     {
       "added_at": "2025-01-31 05:00:32",
@@ -1121,70 +1285,6 @@
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
-      "added_at": "2024-12-27 05:00:45",
-      "album": {
-        "name": "Drive Me Crazy",
-        "url": "https://open.spotify.com/album/1Cwn0AOsPN9Mxuo5z2pbmd"
-      },
-      "artists": [
-        {
-          "name": "Sean Lanigan",
-          "url": "https://open.spotify.com/artist/3jdYRCLqytCIJ1viYzCp7z"
-        },
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Drive Me Crazy",
-      "url": "https://open.spotify.com/track/6AE63OTZndR2OLhuV8Bssa"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/0CKm853TVbWWq1ZLKtjORT"
-      },
-      "artists": [
-        {
-          "name": "LUMINAE",
-          "url": "https://open.spotify.com/artist/4t0nVUXwGsNCLSgkv9dsil"
-        },
-        {
-          "name": "Feb",
-          "url": "https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa"
-        },
-        {
-          "name": "USAI",
-          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
-        }
-      ],
-      "duration_ms": 140402,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/29y04ClehuGyTYVp9wHUfC"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
@@ -1219,30 +1319,6 @@
       "duration_ms": 183056,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6C48GKPFLw0S6ThneQEDsf"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Let You Love Me",
-        "url": "https://open.spotify.com/album/5Ua81wDpLuRUfY4Yl7TEgo"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        },
-        {
-          "name": "Raphaella",
-          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
-        },
-        {
-          "name": "Manovski",
-          "url": "https://open.spotify.com/artist/4c6faOq8iBjAq5nLadxd8M"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/6m7zDZsm5DGV64PQUflzKl"
     },
     {
       "added_at": "2024-11-29 05:00:00",

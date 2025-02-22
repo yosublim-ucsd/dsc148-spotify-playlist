@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nuestra escuela es la calle. Toser One y Dharius en portada",
+  "description": "Nuestra escuela es la calle. Neton Vega y Alem\u00e1n en portada",
   "name": "HUSTLEANDO",
   "tracks": [
     {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 156097,
       "name": "ASHE",
       "url": "https://open.spotify.com/track/5WpmiPmysOmX2UsUiAiJ6l"
@@ -514,10 +514,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 100235,
       "name": "Capos de Profesi\u00f3n",
       "url": "https://open.spotify.com/track/2mJIycc7SuiuFb7VRccD8n"
+    },
+    {
+      "album": {
+        "name": "Carne Cruda",
+        "url": "https://open.spotify.com/album/1ZxhW8BM0u7XFU3JVhbPsL"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Carne Cruda",
+      "url": "https://open.spotify.com/track/5mu9obXTCyVsUgLlKCC9gK"
     },
     {
       "album": {
@@ -1133,6 +1159,32 @@
     },
     {
       "album": {
+        "name": "En la Troca",
+        "url": "https://open.spotify.com/album/39Fg4IINniXB7zQzm3yjWy"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Jarabe kidd",
+          "url": "https://open.spotify.com/artist/5absue45Q798sotcg1d0FD"
+        },
+        {
+          "name": "MNZR",
+          "url": "https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "En la Troca",
+      "url": "https://open.spotify.com/track/06NdK2H07QVMTqq6Te7Hcd"
+    },
+    {
+      "album": {
         "name": "Enemigo de las Leyes",
         "url": "https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi"
       },
@@ -1569,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "KBRON",
+        "url": "https://open.spotify.com/album/7BRhHHJQcwfZwLXcJ8NZnn"
+      },
+      "artists": [
+        {
+          "name": "Don Kalavera",
+          "url": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175059,
+      "name": "KBRON",
+      "url": "https://open.spotify.com/track/33Dmf1T6OtWDjJxku1jEHf"
+    },
+    {
+      "album": {
         "name": "KUMBIA MAKABRA",
         "url": "https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt"
       },
@@ -1736,7 +1810,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
@@ -1806,7 +1880,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236160,
       "name": "La Sombra",
       "url": "https://open.spotify.com/track/5LcFkBiHvB5BtIGdmWCAa0"
@@ -2190,7 +2264,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 217300,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/7KqsrXzjldoa9GakHd2jZf"
@@ -2212,6 +2286,32 @@
       "duration_ms": 131624,
       "name": "Matematicas",
       "url": "https://open.spotify.com/track/7mircCKS3EvrV5LjS1ZwQl"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Me Ha Costado",
+      "url": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB"
     },
     {
       "album": {
@@ -2745,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Para El Cubano",
+        "url": "https://open.spotify.com/album/1WAFlsuLiOGxR2Q5uLhXA3"
+      },
+      "artists": [
+        {
+          "name": "Diablo 868",
+          "url": "https://open.spotify.com/artist/0z5rDk0aERPmeBSyeQEzfC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309473,
+      "name": "Para El Cubano",
+      "url": "https://open.spotify.com/track/17EyMnUepAfa7tOO0cS7C0"
+    },
+    {
+      "album": {
         "name": "Para El Jesse 1 (La Escalade)",
         "url": "https://open.spotify.com/album/0S1IDWsAQ4gh6z66TFlcuG"
       },
@@ -2936,7 +3054,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 189212,
       "name": "Por clave El Cabez\u00f3n 2",
       "url": "https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv"
@@ -2992,6 +3110,32 @@
       "duration_ms": 219950,
       "name": "Puro Bandido",
       "url": "https://open.spotify.com/track/2ceLqIolrjctE7fGKU4ffA"
+    },
+    {
+      "album": {
+        "name": "Que se va a hacer?",
+        "url": "https://open.spotify.com/album/0oFiZxPaNWNarfJmZre7VB"
+      },
+      "artists": [
+        {
+          "name": "Dub G",
+          "url": "https://open.spotify.com/artist/5SVHvnw9UIDoLNC745Lt8V"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Flako420",
+          "url": "https://open.spotify.com/artist/7xg5Iq134Xva9pIh90958F"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Que se va a hacer?",
+      "url": "https://open.spotify.com/track/6hE4s5UrxUae4QKBUdj2Br"
     },
     {
       "album": {
@@ -3120,7 +3264,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 224571,
       "name": "Sangre Fr\u00eda",
       "url": "https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz"
@@ -3211,6 +3355,28 @@
     },
     {
       "album": {
+        "name": "Siempre fui un desmadre",
+        "url": "https://open.spotify.com/album/6hxg5bvMFSwxetE1BIi61m"
+      },
+      "artists": [
+        {
+          "name": "The Baby M MX",
+          "url": "https://open.spotify.com/artist/2J1xLGeUNa2wg4On9wvxVq"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Siempre fui un desmadre",
+      "url": "https://open.spotify.com/track/4TQAZIqnleHUlwFA7IP9qw"
+    },
+    {
+      "album": {
         "name": "Silencio En El Callejon",
         "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
       },
@@ -3226,6 +3392,24 @@
       "duration_ms": 180062,
       "name": "Silencio En El Callejon",
       "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+    },
+    {
+      "album": {
+        "name": "Sin Corona",
+        "url": "https://open.spotify.com/album/3lndS3S9eKtOsQhnKzrO3Y"
+      },
+      "artists": [
+        {
+          "name": "Silar Kilos De Estilo",
+          "url": "https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Sin Corona",
+      "url": "https://open.spotify.com/track/2wGPtjTFvsOR6DSoGDW4oc"
     },
     {
       "album": {
@@ -3296,6 +3480,28 @@
       "duration_ms": 206400,
       "name": "Sirenas",
       "url": "https://open.spotify.com/track/6iAubZ1PiUa3EbN19jWAq8"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2sRXHBWrijd2gNF29fip2P"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "W. Corona",
+          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336692,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4cpzWlZ5qXCH2O1qjcCo2f"
     },
     {
       "album": {
@@ -3560,7 +3766,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 215053,
       "name": "Un Round M\u00e1s",
       "url": "https://open.spotify.com/track/2fNHb6nRpKLQOSdD6Z3uJB"
@@ -3630,6 +3836,28 @@
       "duration_ms": 206883,
       "name": "Uno",
       "url": "https://open.spotify.com/track/3MECaWf2a2va4nG2wRsPkR"
+    },
+    {
+      "album": {
+        "name": "Urban Outfitters",
+        "url": "https://open.spotify.com/album/0OF9KepR7hQFfnTyChVK2I"
+      },
+      "artists": [
+        {
+          "name": "Reyan Quality",
+          "url": "https://open.spotify.com/artist/3OaJ0qNHJYCk2NQNpr2jsA"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Urban Outfitters",
+      "url": "https://open.spotify.com/track/341VvUJYRuKStiG0WEUgFQ"
     },
     {
       "album": {
@@ -3736,7 +3964,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 201680,
       "name": "Vienen y Se Van",
       "url": "https://open.spotify.com/track/0z05ilW50eCAZysnGMqvLU"
@@ -3758,7 +3986,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 238428,
       "name": "Ya Los Vi",
       "url": "https://open.spotify.com/track/3X6beXQM8BxLpZ1rYcYTa0"

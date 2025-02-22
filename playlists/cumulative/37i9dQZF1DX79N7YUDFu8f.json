@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "He went to the mountains",
+        "url": "https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zanne",
+          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250650,
+      "name": "He went to the mountains",
+      "url": "https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV"
+    },
+    {
+      "album": {
         "name": "Heart of a Mother",
         "url": "https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3"
       },
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 259240,
       "name": "Lay Here",
       "url": "https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW"
@@ -2010,7 +2028,7 @@
       },
       "artists": [
         {
-          "name": "Goodwin",
+          "name": "GOODWIN",
           "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
         }
       ],

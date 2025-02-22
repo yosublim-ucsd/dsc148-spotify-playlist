@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Broken Wings",
+        "url": "https://open.spotify.com/album/792Bau5O5lhW3swyI4pEiA"
+      },
+      "artists": [
+        {
+          "name": "Plane Curston",
+          "url": "https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149276,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/7utddC5JpZO80mzyvMDAUn"
+    },
+    {
+      "album": {
         "name": "Cador",
         "url": "https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb"
       },
@@ -3438,6 +3456,24 @@
       "duration_ms": 175279,
       "name": "sahdana",
       "url": "https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf"
+    },
+    {
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/7y608qiaLs8Pt5qUayE7s3"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158441,
+      "name": "Salida",
+      "url": "https://open.spotify.com/track/12CYjiY4YOP2M6Em8hCCk3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-158 songs - 8 hr 20 min
+159 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
 | [Als Ik Verdwaal](https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Als Ik Verdwaal](https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9) | 2:33 | 2025-01-10 | 2025-02-04 |
 | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/track/3yKjaxF1VWjzJXJ1uL8l03) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB) | 3:24 | 2024-09-12 | 2025-01-11 |
-| [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 | 2024-11-21 |  |
+| [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 | 2024-11-21 | 2025-02-22 |
 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 | 2025-01-10 |  |
 | [Amerika + Bang zullen ze leven](https://open.spotify.com/track/4EXpcNXlT7Mdakwn3F95i5) | [Roos Rebergen](https://open.spotify.com/artist/3IUUGmmR8STIAtcg7qfDkZ), [SunSunSunOrchestra](https://open.spotify.com/artist/3hthcItgH8bgHoAwlD7exZ) | [Roos Rebergen & SunSunSun Orchestra](https://open.spotify.com/album/2xSVjtVjhCrCuievPEMAsH) | 5:47 | 2024-10-22 | 2025-01-24 |
 | [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 | 2025-02-03 |  |
@@ -131,6 +131,7 @@
 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 | 2024-08-29 |  |
 | [Spijt](https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Spijt](https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE) | 3:04 | 2024-06-26 | 2024-08-30 |
 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 | 2025-01-10 |  |
+| [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 |  |
 | [Starstruck \(Celebrity\)](https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Starstruck \(Celebrity\)](https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa) | 3:51 | 2024-11-07 | 2025-01-24 |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 |  |
 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 | 2024-10-09 |  |

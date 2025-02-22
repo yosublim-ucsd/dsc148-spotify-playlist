@@ -2,12 +2,13 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Kelela
+> Stripped back vibes\. Cover: Nao
 
-266 songs - 15 hr 46 min
+270 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |
 | [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 | 2021-12-09 | 2022-06-17 |
 | [Access](https://open.spotify.com/track/5WmsnY2TeEK3nd9fw3Cn9O) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:55 | 2024-11-15 |  |
@@ -180,6 +181,7 @@
 | [Not Us \(Remastered\)](https://open.spotify.com/track/5xULnCD8MSvny4p1wpB1uc) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Not Us \(Remastered\)](https://open.spotify.com/album/17UO9NFRDG17WPCmfWJJIu) | 2:28 | 2024-02-08 | 2024-02-21 |
 | [Nothing On You \- Piano Version](https://open.spotify.com/track/1ZyKvHxpgMg7r76sjpTma0) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Nothing On You \(Piano Version\)](https://open.spotify.com/album/0BKtm5NcZZKVkYrJgbOiRn) | 4:03 | 2021-12-09 | 2023-04-09 |
 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 | 2024-12-06 |  |
+| [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 | 2025-02-21 |  |
 | [Open Letter](https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [Open Letter](https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn) | 2:58 | 2024-10-19 |  |
 | [Our Girls](https://open.spotify.com/track/4Mhq8MtZkV2x5XYmdL1dkK) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Our Girls](https://open.spotify.com/album/7dn6togtkX2z12MMWCD8EQ) | 3:00 | 2021-12-09 | 2023-09-29 |
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-25 |  |
@@ -192,6 +194,7 @@
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-12-09 | 2022-10-13 |
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-29 | 2023-04-09 |
 | [Porcelain Reimagined](https://open.spotify.com/track/3D4ZX7d16Get0TQSYhzFja) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [NGL](https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3) | 3:39 | 2025-01-31 |  |
+| [Pressure Points \(feat\. Lila Iké\) \- Live Acoustic](https://open.spotify.com/track/3pfVXNWMeGmD7tQRXirbB0) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\) \[Live Acoustic\]](https://open.spotify.com/album/3P7cVmPpAZftjLgESZ6zxy) | 3:18 | 2025-02-21 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-12-09 |  |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-12-09 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 | 2022-06-16 | 2023-04-09 |
@@ -214,6 +217,7 @@
 | [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 | 2023-09-28 |  |
 | [Seven Times \- Live](https://open.spotify.com/track/7xvnFLLcemBrNCtkmCNQlt) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 3:29 | 2021-12-09 | 2024-02-09 |
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
+| [SHIVER](https://open.spotify.com/track/4zJh7D3QxnCTJ3Uvsow5iN) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:14 | 2025-02-21 |  |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 | 2024-02-09 |
 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 | 2024-12-14 |  |

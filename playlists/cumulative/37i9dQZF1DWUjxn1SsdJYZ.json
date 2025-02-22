@@ -16889,6 +16889,28 @@
     },
     {
       "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/5QUUpOCgQL8keB4BHyDpCu"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "Slevpy808",
+          "url": "https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140075,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/2B0btQnb405HhHfx0YiGdx"
+    },
+    {
+      "album": {
         "name": "Shut The Gates",
         "url": "https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf"
       },

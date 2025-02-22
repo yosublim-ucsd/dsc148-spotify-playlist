@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: ONF
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,700 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,747 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Addiction \(Prod\. Czaer\)](https://open.spotify.com/track/7MaaYNvsQybaRhn5usk5K3) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [STAGE FIGHTER\(STF\) Original, Vol\. 5](https://open.spotify.com/album/47hFMgaVVpElZtUiTxtORs) | 2:57 |
 | 50 | [Star \(prod.LOGOS\)](https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [LOGOS](https://open.spotify.com/artist/6K4uiMkjEU95mAxbKUcd82) | [Star](https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO) | 3:14 |
 
-Snapshot ID: `Z7RTdwAAAADhrcVH2t+NQfaVuOfyIWL5`
+Snapshot ID: `Z7RTdwAAAAAlOBjEG8w4M84d48uoR7Hp`

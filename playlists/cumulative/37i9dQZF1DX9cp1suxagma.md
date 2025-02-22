@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana y Natalia Natalia
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Laura Pérez
 
-249 songs - 13 hr 10 min
+250 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Punto Y Aparte](https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Punto Y Aparte](https://open.spotify.com/album/36TBAPNsVzBMiu84mlyEPT) | 3:30 | 2023-02-17 | 2023-08-26 |
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 | 2024-12-13 |
 | [Quererte Desde Lejos](https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Quererte Desde Lejos](https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa) | 2:21 | 2024-04-26 |  |
+| [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 |  |
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-07-25 | 2023-09-09 |
 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 | 2024-04-12 | 2024-07-27 |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 |  |
@@ -238,7 +239,7 @@
 | [Una Vez Más \(feat\. Muerdo\)](https://open.spotify.com/track/4LE64C6oFzCooTAlNjuoLI) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Una Vez Más](https://open.spotify.com/album/1k4MyRE1UrSvytq0dcZibo) | 3:53 | 2023-08-25 | 2023-09-16 |
 | [Una Y Otra Vez](https://open.spotify.com/track/0jsFD6MLc7yZ2FqHvArjaW) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:49 | 2023-02-17 | 2023-07-01 |
 | [Vas A Encontrarme](https://open.spotify.com/track/3wwbgv83ZFwYlPa2zlRQJ9) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Vas A Encontrarme](https://open.spotify.com/album/78Pv0kAljrB27H31Vmpdcl) | 2:48 | 2023-02-17 |  |
-| [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 | 2024-09-27 |  |
+| [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 | 2024-09-27 | 2025-02-22 |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 |  |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-02-17 | 2023-06-24 |
 | [Vivir Bailando](https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivir Bailando](https://open.spotify.com/album/6uSCXro7r0QMTSgMLnSAbP) | 3:34 | 2023-02-17 | 2023-08-26 |

@@ -19161,6 +19161,24 @@
     },
     {
       "album": {
+        "name": "Good Guys",
+        "url": "https://open.spotify.com/album/6DItzWtF83luWshQjKoWV7"
+      },
+      "artists": [
+        {
+          "name": "JonoJono",
+          "url": "https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Good Guys",
+      "url": "https://open.spotify.com/track/5jI0ZaJ8RtgcEoeXvx0IL9"
+    },
+    {
+      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/0NLufHRxEaepMywHZ4QzS0"
       },

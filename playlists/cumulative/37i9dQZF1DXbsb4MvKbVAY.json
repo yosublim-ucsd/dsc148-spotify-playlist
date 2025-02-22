@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udd25 Kannessa Mouhous.",
+  "description": "Mielenkiintoisimmat biisit ensisoitossa. \u2764\ufe0f\u200d\ud83d\udd25 Kannessa Selena Gomez, Gracie Abrams ja Benny Blanco.",
   "name": "Ensisoitossa",
   "tracks": [
     {
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Action Man - The Greatest Hero of All",
+        "url": "https://open.spotify.com/album/4rB0PBzrYciQm8DpuVQIW5"
+      },
+      "artists": [
+        {
+          "name": "Zombit lomalla",
+          "url": "https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189345,
+      "name": "Action Man - The Greatest Hero of All",
+      "url": "https://open.spotify.com/track/6iPk4LbYViadWPRSxBo9Gv"
+    },
+    {
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182883,
       "name": "Aina",
       "url": "https://open.spotify.com/track/0uBQFamFpphOS27wIXPeiT"
@@ -772,10 +790,32 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137269,
       "name": "Ankeet tanssiaiset",
       "url": "https://open.spotify.com/track/2ZmVdWCM1jnwYFzaipAsQ2"
+    },
+    {
+      "album": {
+        "name": "Anna m\u00e4 vien (feat. Sara Bee)",
+        "url": "https://open.spotify.com/album/1sVXqoyVFkFwP88uvHnCLP"
+      },
+      "artists": [
+        {
+          "name": "Ina",
+          "url": "https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164358,
+      "name": "Anna m\u00e4 vien (feat. Sara Bee)",
+      "url": "https://open.spotify.com/track/0ERZ0M4FXlh3WAE1FQWQx1"
     },
     {
       "album": {
@@ -882,6 +922,24 @@
       "duration_ms": 193131,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG"
+    },
+    {
+      "album": {
+        "name": "Anteeks min\u00e4",
+        "url": "https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190803,
+      "name": "Anteeks min\u00e4",
+      "url": "https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU"
     },
     {
       "album": {
@@ -1892,7 +1950,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166093,
       "name": "b\u00e4ndipaita",
       "url": "https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY"
@@ -1932,6 +1990,32 @@
       "duration_ms": 151953,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk"
+    },
+    {
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "album": {
@@ -2492,6 +2576,24 @@
       "duration_ms": 201217,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak"
+    },
+    {
+      "album": {
+        "name": "Euronites",
+        "url": "https://open.spotify.com/album/21LKQ6iepRfemSlaYLYJLD"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/2FGE8g75dKHoi1sxwwh6Ed"
     },
     {
       "album": {
@@ -3355,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4AiGX40bV04dmI9Fq2a08y"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157172,
+      "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH"
+    },
+    {
+      "album": {
         "name": "Ei kenenk\u00e4\u00e4n maa",
         "url": "https://open.spotify.com/album/4ZdRFk9YIMNcxfG6MqNBsP"
       },
@@ -4164,7 +4288,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 225762,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi"
@@ -5161,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Hei sit nyt",
+        "url": "https://open.spotify.com/album/2XoUDqSV8CnCaNWGYJMv4S"
+      },
+      "artists": [
+        {
+          "name": "Senni Frid",
+          "url": "https://open.spotify.com/artist/6QxBvIFfnBph7xm6QXVBfA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184010,
+      "name": "Hei sit nyt",
+      "url": "https://open.spotify.com/track/7FqTGwXSxknvurg4bkQ1Q0"
+    },
+    {
+      "album": {
         "name": "Hellcat",
         "url": "https://open.spotify.com/album/2IE8s3W5UUk3uVk3qDbg6B"
       },
@@ -5266,7 +5408,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180217,
       "name": "Heroes - Spotify Singles",
       "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
@@ -5374,7 +5516,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 178457,
       "name": "Hitaammin hautaan",
       "url": "https://open.spotify.com/track/56gErvTUBhx82XqEauET28"
@@ -5681,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Huutaa",
+        "url": "https://open.spotify.com/album/4Wf1Vu7WbPXVzENZ7y3umi"
+      },
+      "artists": [
+        {
+          "name": "Vilma J\u00e4\u00e4",
+          "url": "https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175571,
+      "name": "Huutaa",
+      "url": "https://open.spotify.com/track/3YcA6ldAK6GZ3jna47UDpq"
+    },
+    {
+      "album": {
         "name": "Kuivaa kyyneleet",
         "url": "https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP"
       },
@@ -5916,6 +6076,28 @@
       "duration_ms": 249003,
       "name": "I Hope It Hurts",
       "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156222,
+      "name": "I know love (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
     },
     {
       "album": {
@@ -6686,7 +6868,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206315,
       "name": "Join Me",
       "url": "https://open.spotify.com/track/3nSxKLnLiGan22rurlHfRY"
@@ -7472,7 +7654,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 157863,
       "name": "Kuka Siin Netis On",
       "url": "https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw"
@@ -7541,6 +7723,24 @@
     },
     {
       "album": {
+        "name": "Taivaankappaleet",
+        "url": "https://open.spotify.com/album/5iHZa3AtOmUaBZUNBiLDi2"
+      },
+      "artists": [
+        {
+          "name": "Figaro",
+          "url": "https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Kun m\u00e4 tapasin sut",
+      "url": "https://open.spotify.com/track/68j4qM1Samyrl7ro8GB1Hc"
+    },
+    {
+      "album": {
         "name": "Kuollut liekki",
         "url": "https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV"
       },
@@ -7606,7 +7806,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 171374,
       "name": "Kuumempi ku koskaan ennen",
       "url": "https://open.spotify.com/track/2z6dFRvYLRsDOwihu12DVB"
@@ -7701,6 +7901,32 @@
     },
     {
       "album": {
+        "name": "LA EUROPA",
+        "url": "https://open.spotify.com/album/0twnLlIIYBQc4zcrI2pMyM"
+      },
+      "artists": [
+        {
+          "name": "EG",
+          "url": "https://open.spotify.com/artist/5Qier8DzR4lUSu2AtWLnAz"
+        },
+        {
+          "name": "BIGI",
+          "url": "https://open.spotify.com/artist/4TZ9ZORs6nwU4rZxeLOVHy"
+        },
+        {
+          "name": "Sicario Jr",
+          "url": "https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202206,
+      "name": "LA EUROPA",
+      "url": "https://open.spotify.com/track/0aurpKhVRKGdNJWmIpV7eh"
+    },
+    {
+      "album": {
         "name": "Lainasyd\u00e4n",
         "url": "https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U"
       },
@@ -7716,6 +7942,28 @@
       "duration_ms": 171520,
       "name": "Lainasyd\u00e4n",
       "url": "https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA"
+    },
+    {
+      "album": {
+        "name": "Lampaita",
+        "url": "https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149116,
+      "name": "Lampaita",
+      "url": "https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD"
     },
     {
       "album": {
@@ -7840,6 +8088,28 @@
       "duration_ms": 199200,
       "name": "LE LE LE",
       "url": "https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo"
+    },
+    {
+      "album": {
+        "name": "Leijonanruokaa",
+        "url": "https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Leijonanruokaa",
+      "url": "https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3"
     },
     {
       "album": {
@@ -9002,7 +9272,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 165484,
       "name": "Menestys on paras tapa kostaa",
       "url": "https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8"
@@ -9068,6 +9338,24 @@
       "duration_ms": 170041,
       "name": "Menolippu",
       "url": "https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt"
+    },
+    {
+      "album": {
+        "name": "Mercedes Benz",
+        "url": "https://open.spotify.com/album/647JR1Q5AsRzrhuEouC8ix"
+      },
+      "artists": [
+        {
+          "name": "FIBO",
+          "url": "https://open.spotify.com/artist/4akZye3PyZpeOF9MojgI8f"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/0UHjFB0pa78nklCeL4cNnd"
     },
     {
       "album": {
@@ -10363,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "Nostetaan malja",
+        "url": "https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166031,
+      "name": "Nostetaan malja",
+      "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
+    },
+    {
+      "album": {
         "name": "Okej att d\u00f6",
         "url": "https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3"
       },
@@ -11060,7 +11366,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 192947,
       "name": "Palava ote",
       "url": "https://open.spotify.com/track/6UPKsu02lhUQSZ9DFHVX3v"
@@ -11346,7 +11652,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 173230,
       "name": "Pid\u00e4 kiinni",
       "url": "https://open.spotify.com/track/2jhmRXZ5U6stq3W5IdIbQG"
@@ -11506,6 +11812,24 @@
       "duration_ms": 87454,
       "name": "Polari",
       "url": "https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7"
+    },
+    {
+      "album": {
+        "name": "POPSTARA",
+        "url": "https://open.spotify.com/album/72rihFTjiH7XRySNjr3vuQ"
+      },
+      "artists": [
+        {
+          "name": "ARTEM",
+          "url": "https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156439,
+      "name": "POPSTARA",
+      "url": "https://open.spotify.com/track/6vxdVWOrpsR2jTLrdE6ETM"
     },
     {
       "album": {
@@ -12124,7 +12448,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f"
@@ -12406,6 +12730,24 @@
       "duration_ms": 197500,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/491MxxxJTXSn8QjiGRpmk7"
+    },
+    {
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/6inab1TSoB2MoKDcBEcW2V"
+      },
+      "artists": [
+        {
+          "name": "Redrama",
+          "url": "https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/5LN391hFe9EGCwnq7GNS36"
     },
     {
       "album": {
@@ -13048,7 +13390,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 203419,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY"
@@ -13479,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "STORIES",
+        "url": "https://open.spotify.com/album/0Un73xA0BUaLgmoorkouHQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151812,
+      "name": "STORIES",
+      "url": "https://open.spotify.com/track/6Vr5DaX8leoiFUSuVs0FvO"
+    },
+    {
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
@@ -13612,6 +13972,24 @@
       "duration_ms": 123870,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
+    },
+    {
+      "album": {
+        "name": "Sumuun eksyneen\u00e4",
+        "url": "https://open.spotify.com/album/7pm2jbXaEFXRTYkgRsBfmX"
+      },
+      "artists": [
+        {
+          "name": "Anna Mikkonen",
+          "url": "https://open.spotify.com/artist/3A0QyRfivJa3qWnK7HaGAV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Sumuun eksyneen\u00e4",
+      "url": "https://open.spotify.com/track/3MYExbpIRgT9EZ6Whmnq6x"
     },
     {
       "album": {
@@ -13974,7 +14352,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154728,
       "name": "T-paita (feat. Bizi)",
       "url": "https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG"
@@ -14140,7 +14518,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154222,
       "name": "Tanssin, tanssin",
       "url": "https://open.spotify.com/track/0n9vyNbrZIcwlfQUGNhSee"
@@ -14158,7 +14536,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 168475,
       "name": "Tapetille",
       "url": "https://open.spotify.com/track/5t3hT2wGqNJJrf3klfCxYt"
@@ -14654,7 +15032,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174900,
       "name": "Toivomuskaivo (feat. Timo Pieni Huijaus)",
       "url": "https://open.spotify.com/track/6cAez5rngZi8qLEnXryODo"
@@ -16204,7 +16582,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
@@ -16266,7 +16644,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
@@ -16608,6 +16986,24 @@
       "duration_ms": 207619,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt"
+    },
+    {
+      "album": {
+        "name": "You The One",
+        "url": "https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "You The One",
+      "url": "https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq"
     },
     {
       "album": {

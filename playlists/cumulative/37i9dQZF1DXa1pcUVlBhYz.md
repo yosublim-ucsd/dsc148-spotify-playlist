@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Shygirl
 
-446 songs - 1 day 2 hr 37 min
+447 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 | 2023-08-11 | 2024-01-20 |
 | [Bruises](https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Bruises](https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj) | 3:10 | 2023-06-16 | 2024-02-03 |
 | [Bubblegum](https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bubblegum](https://open.spotify.com/album/5ufzVnDin8kGSu1nl9qeEN) | 2:43 | 2023-04-14 | 2024-02-03 |
+| [Butterflies \(with Green Velvet\)](https://open.spotify.com/track/0FzltX5P5EcptwLZh85UO1) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies \(with Green Velvet\)](https://open.spotify.com/album/2fJmzODMorOEHxq23FFtfV) | 2:49 | 2025-02-21 |  |
 | [Butterfly](https://open.spotify.com/track/77gfyLSe0JqQHZ77WFz00V) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/0RqHblTAIH8QJlNi3LapPw) | 3:48 | 2022-02-01 | 2022-06-18 |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-13 |  |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-31 |  |
@@ -183,7 +184,7 @@
 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 | 2023-03-03 | 2023-05-20 |
 | [Inside My Mind](https://open.spotify.com/track/0Hmx0QkNOUiknki09OuoC4) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Inside My Mind](https://open.spotify.com/album/13TtvPDy8LnsMFV1NBXaKC) | 3:29 | 2023-09-22 | 2023-11-18 |
 | [Inside My Mind](https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Inside My Mind](https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej) | 3:29 | 2023-02-10 | 2023-11-05 |
-| [Inter Transit](https://open.spotify.com/track/5LC0lrlC74v1onS2FoOkQ8) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Inter Transit](https://open.spotify.com/album/5heGxFe0I0vDVKR3HTtMMy) | 5:16 | 2024-08-07 |  |
+| [Inter Transit](https://open.spotify.com/track/5LC0lrlC74v1onS2FoOkQ8) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Inter Transit](https://open.spotify.com/album/5heGxFe0I0vDVKR3HTtMMy) | 5:16 | 2024-08-07 | 2025-02-22 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-02-01 | 2023-05-20 |
 | [It Ain't Right](https://open.spotify.com/track/2EQUQFcCuiLdPOjmwkklER) | [Mazzy](https://open.spotify.com/artist/6pgsD2zOatR1UReQQlNknO) | [It Ain't Right](https://open.spotify.com/album/1JorcD1dCU0tqCXW2tgRtH) | 3:08 | 2022-02-01 | 2023-01-28 |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2022-11-18 | 2024-05-18 |

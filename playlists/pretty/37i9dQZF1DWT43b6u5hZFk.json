@@ -1,15 +1,35 @@
 {
   "description": "Listen to JENNIE's greatest hits, all in one place.",
-  "num_followers": 342,
+  "num_followers": 2178,
   "original_name": "This Is JENNIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7MXggAAAABTI3IsEAD10cipqon7vGK9",
+  "snapshot_id": "Z7gX7AAAAABCGG+oA79fdJ3pusoFx8cJ",
   "tracks": [
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
+    {
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -53,7 +73,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/3bWm8ejTzkMhPSdBnpxLvl"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "BLACKPINK 2021 'THE SHOW' LIVE",
         "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
         "url": "https://open.spotify.com/album/1dH4B2bWb5Ys7aszi9KWHA"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/5S7by1wwGii36WAs4sBjzc"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/4MwT3qzF3tfMtSFr9b2nKa"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "COUP D'ETAT (Korean Version)",
         "url": "https://open.spotify.com/album/6A5g9sz5nChdBMdcATcCjB"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/44f1TNdoQUgf3PUYraCTsH"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/4oN4odRiXgTMnaAjz7kinV"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "Let's Talk about Love",
         "url": "https://open.spotify.com/album/61nJoBqpC5qaF0g0Np0Ucw"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/5MPGtk7Ni67f76w0RV79GO"
     },
     {
-      "added_at": "2025-02-17 11:03:30",
+      "added_at": "2025-02-21 06:06:36",
       "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"

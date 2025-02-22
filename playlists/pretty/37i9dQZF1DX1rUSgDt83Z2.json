@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 35256,
+  "num_followers": 35269,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Als je dat maar weet",
-        "url": "https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1"
-      },
-      "artists": [
-        {
-          "name": "Jaap Reesema",
-          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
-        }
-      ],
-      "duration_ms": 155899,
-      "name": "Als je dat maar weet",
-      "url": "https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Wat Is Dan Liefde",
         "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156813,
       "name": "Wat Is Dan Liefde - Hazes Is De Basis",
       "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "Als je dat maar weet",
+        "url": "https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        }
+      ],
+      "duration_ms": 155899,
+      "name": "Als je dat maar weet",
+      "url": "https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Ik Wil De Nacht Niet Verlaten",
-        "url": "https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz"
-      },
-      "artists": [
-        {
-          "name": "Faske",
-          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
-        }
-      ],
-      "duration_ms": 175882,
-      "name": "Nergens Heen",
-      "url": "https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Dansen In Gedachten",
         "url": "https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175495,
       "name": "Dansen In Gedachten",
       "url": "https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "Ik Wil De Nacht Niet Verlaten",
+        "url": "https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz"
+      },
+      "artists": [
+        {
+          "name": "Faske",
+          "url": "https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG"
+        }
+      ],
+      "duration_ms": 175882,
+      "name": "Nergens Heen",
+      "url": "https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS"
     },
     {
       "added_at": "2025-02-20 23:00:34",

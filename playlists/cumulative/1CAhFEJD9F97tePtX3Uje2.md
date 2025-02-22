@@ -4,7 +4,7 @@
 
 > 
 
-243 songs - 14 hr 12 min
+244 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 | 2021-06-23 |  |
 | [Closer](https://open.spotify.com/track/0FB9CE48Y8yw0mxdzmwpeb) | [Nuages](https://open.spotify.com/artist/30tUlKZ8oLo0BnN6n0GZKD) | [Closer](https://open.spotify.com/album/7b8H13HmEyiFAiD2GnPsI8) | 5:07 | 2018-12-01 |  |
 | [Cold Sun](https://open.spotify.com/track/4xCqHRvk04gOcjk7jvkLpn) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Delirium](https://open.spotify.com/album/2OiRcGOaCnf1QFqUVW1nCz) | 4:16 | 2019-04-01 |  |
+| [Come Back Club](https://open.spotify.com/track/5wAzDSwXLN3tusPndmyDcE) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Come Back Club](https://open.spotify.com/album/4N2dQMTWn8aJOTEcmNQwnI) | 2:59 | 2025-02-21 |  |
 | [Compulsory to Denounce](https://open.spotify.com/track/33L7Kq9taaw0bJepKbSaaF) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Compulsory to Denounce](https://open.spotify.com/album/5tObD3qcKd2sPRamA1MlwV) | 3:40 | 2020-07-12 |  |
 | [Contact](https://open.spotify.com/track/6LJajfVgTG4q9HrL6BHTWd) | [Noah B](https://open.spotify.com/artist/4F4w1Gkfja6wPJzuMKCLmk) | [Night's Edge](https://open.spotify.com/album/3iBo6Zw5NbDfTDzddQ4OKb) | 4:01 | 2018-11-28 |  |
 | [CONTINUUM](https://open.spotify.com/track/3whVFArKDX3XasJudGcZBy) | [ENXK](https://open.spotify.com/artist/0Iio0ktGrreO3fIaD9K8tL) | [CONTINUUM](https://open.spotify.com/album/3rEggCiu6F22p39ueuIrvM) | 3:38 | 2024-07-01 |  |

@@ -4,13 +4,14 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-364 songs - 19 hr 59 min
+367 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11th Hour](https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [11th Hour](https://open.spotify.com/album/0hZoP4o7c995gK0cEIssHK) | 2:45 | 2024-03-22 | 2025-01-19 |
 | [15%](https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [15%](https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL) | 3:28 | 2024-10-11 | 2025-01-18 |
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2023-08-15 | 2023-08-29 |
+| [21](https://open.spotify.com/track/5nHRuoijGPvrgUtFmOGxRl) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [21](https://open.spotify.com/album/3qGEtrVl6JgkZTlKh9tlPX) | 2:59 | 2025-02-21 |  |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 |  |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2024-01-19 | 2024-10-19 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-08-15 | 2023-08-29 |
@@ -50,6 +51,7 @@
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-26 | 2025-02-18 |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-14 | 2024-01-20 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-06 | 2023-08-16 |
+| [Black Rabbit](https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Black Rabbit](https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq) | 4:35 | 2025-02-21 |  |
 | [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 | 2024-04-15 | 2024-08-03 |
 | [Bloom](https://open.spotify.com/track/1vGFOOd7NzeCTelqswObyv) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Bloom](https://open.spotify.com/album/01Oe3NfT6v6KaaopGCIcE8) | 3:52 | 2021-12-06 | 2023-08-16 |
 | [Blue Boy](https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Blue Boy](https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg) | 3:00 | 2023-12-04 | 2024-12-14 |
@@ -281,6 +283,7 @@
 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 | 2025-02-07 |  |
 | [Simple Girl](https://open.spotify.com/track/7lpKJD0Zg0eOr3enxwlZTk) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Simple Girl](https://open.spotify.com/album/7KLoamm2umtzMqtIgcfln7) | 3:19 | 2025-02-07 |  |
 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 | 2024-01-26 | 2025-01-19 |
+| [Skip Ahead](https://open.spotify.com/track/4rUYfqtZas6N69XdRL3PDP) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Skip Ahead](https://open.spotify.com/album/2n1Q9ud2SVdBjy67cc7CBC) | 3:37 | 2025-02-21 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/0pP0p7X4SXzdkjugDOPt4s) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Sleepy Eyes](https://open.spotify.com/album/1wKEos4Xsx9LCyxNBX508l) | 2:46 | 2021-12-06 | 2023-08-16 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-10 | 2024-06-15 |
 | [Smile](https://open.spotify.com/track/200sUtE26yUqmjTBMKFJTW) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Smile](https://open.spotify.com/album/7uWv0dR6T2k7pooUTHo1Zk) | 2:54 | 2021-12-06 | 2023-08-16 |

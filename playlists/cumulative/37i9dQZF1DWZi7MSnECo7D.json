@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161259,
       "name": "Debochado (feat. Carlos Dias)",
       "url": "https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L"
@@ -5717,6 +5717,28 @@
     },
     {
       "album": {
+        "name": "hear a whisper",
+        "url": "https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "hear a whisper",
+      "url": "https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT"
+    },
+    {
+      "album": {
         "name": "Hiperdrama",
         "url": "https://open.spotify.com/album/1c6vK2tA3ysL1eVrp26viF"
       },
@@ -7014,6 +7036,24 @@
       "duration_ms": 217322,
       "name": "Mandando",
       "url": "https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu"
+    },
+    {
+      "album": {
+        "name": "Mandri\u00e3o (Vida e Obra) - Demo 2",
+        "url": "https://open.spotify.com/album/1PRMWQZFUBDOeDEkjqBrxI"
+      },
+      "artists": [
+        {
+          "name": "Apeles",
+          "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175776,
+      "name": "Mandri\u00e3o (Vida e Obra) - Demo 2",
+      "url": "https://open.spotify.com/track/7kHH0LYG6Rmi6qE8Jp7SGA"
     },
     {
       "album": {
@@ -13674,7 +13714,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 224000,
       "name": "um sorriso que se vai",
       "url": "https://open.spotify.com/track/5PmGhWPnuoJ4L1gxF4R09h"

@@ -1172,6 +1172,28 @@
     {
       "album": {
         "name": "Compose",
+        "url": "https://open.spotify.com/album/1pvgcVZDN5JH0QpLAMOYm8"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120681,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/1GgIn8ISz4FyY798EXNvyk"
+    },
+    {
+      "album": {
+        "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
@@ -1216,6 +1238,40 @@
       "duration_ms": 165517,
       "name": "Composure (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV"
+    },
+    {
+      "album": {
+        "name": "Conse (feat. May D, Fatboy E & Smada)",
+        "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Fatboy E",
+          "url": "https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Conse (feat. May D, Fatboy E & Smada)",
+      "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
     },
     {
       "album": {
@@ -1278,7 +1334,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
@@ -1362,7 +1418,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185739,
       "name": "Deep",
       "url": "https://open.spotify.com/track/0qhfALctZENRjIITNtqWti"
@@ -2187,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6aw16ejuQ5mvvuvGbEMjo2"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/3bBVesR6p4ItmBsAK2A4zS"
+    },
+    {
+      "album": {
         "name": "What Would You Do Without Me",
         "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
       },
@@ -2318,7 +2392,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137844,
       "name": "HAUSAPIANO - Remix",
       "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
@@ -3274,6 +3348,24 @@
       "duration_ms": 137352,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/0F98hOl7tUOTXphPzFfFX3"
+    },
+    {
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
     },
     {
       "album": {
@@ -4296,7 +4388,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 133285,
       "name": "Orobo",
       "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
@@ -4344,6 +4436,28 @@
       "duration_ms": 156029,
       "name": "Oshimiri",
       "url": "https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM"
+    },
+    {
+      "album": {
+        "name": "OYO (On Your Own)",
+        "url": "https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222237,
+      "name": "OYO (Own Your Own)",
+      "url": "https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi"
     },
     {
       "album": {
@@ -5471,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Onorato",
+        "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX"
+    },
+    {
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
       },
@@ -5490,6 +5622,24 @@
       "duration_ms": 139199,
       "name": "Venus",
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
+    },
+    {
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "album": {
@@ -5710,7 +5860,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 172000,
       "name": "Where You Dey",
       "url": "https://open.spotify.com/track/3OW8TTRWkCNbwvALsZorvy"
@@ -5732,7 +5882,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159945,
       "name": "who does that? (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
@@ -6050,7 +6200,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 135000,
       "name": "You",
       "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"

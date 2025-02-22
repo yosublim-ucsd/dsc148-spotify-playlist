@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 35540,
+  "num_followers": 35628,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Fahrenheit Fair Enough",
@@ -467,6 +451,22 @@
       "duration_ms": 400293,
       "name": "Fahrenheit Fair Enough",
       "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2025-01-30 18:29:28",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "Arpeggi",
+      "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
+    },
+    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Lost Horizons",
@@ -563,22 +579,6 @@
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Inner Song",
-        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "Arpeggi",
-      "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
     },
     {
-      "added_at": "2024-04-19 17:55:00",
-      "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Lost Horizons",
@@ -681,20 +665,20 @@
       "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2024-04-19 17:55:00",
       "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 255773,
-      "name": "Nannou",
-      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -711,6 +695,22 @@
       "duration_ms": 266640,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Why She Is Hiding in the Other Man's Eyes",
-        "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "Why She Is Hiding in the Other Man's Eyes",
-      "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Polymer",
         "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 300000,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Why She Is Hiding in the Other Man's Eyes",
+        "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "Why She Is Hiding in the Other Man's Eyes",
+      "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "CREEK",
-      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Lunatic Harness",
@@ -965,20 +949,20 @@
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+      "duration_ms": 293200,
+      "name": "CREEK",
+      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -999,6 +983,22 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Rounds",
@@ -1171,6 +1155,22 @@
       "duration_ms": 281933,
       "name": "She Moves She",
       "url": "https://open.spotify.com/track/4kenHKdPL2geBCAUrhkO5P"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1769,22 +1769,6 @@
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
-    },
-    {
       "added_at": "2024-08-14 16:50:39",
       "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
@@ -1801,6 +1785,22 @@
       "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
+    },
+    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "William Shatner Has Been",
@@ -1815,22 +1815,6 @@
       "duration_ms": 339480,
       "name": "Together",
       "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1851,6 +1835,22 @@
       "duration_ms": 195960,
       "name": "lux",
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2001,24 +2001,20 @@
       "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Krautzig",
-        "url": "https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0"
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
       },
       "artists": [
         {
           "name": "Mouse On Mars",
           "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        },
-        {
-          "name": "Drumno",
-          "url": "https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC"
         }
       ],
-      "duration_ms": 247380,
-      "name": "Krautzig",
-      "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2149,20 +2145,24 @@
       "url": "https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+        "name": "Krautzig",
+        "url": "https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0"
       },
       "artists": [
         {
           "name": "Mouse On Mars",
           "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        },
+        {
+          "name": "Drumno",
+          "url": "https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC"
         }
       ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+      "duration_ms": 247380,
+      "name": "Krautzig",
+      "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
     },
     {
       "added_at": "2023-02-17 02:19:05",

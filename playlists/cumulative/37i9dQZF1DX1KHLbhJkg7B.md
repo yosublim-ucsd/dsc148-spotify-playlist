@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-419 songs - 1 day 2 hr 11 min
+420 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 | 2021-12-10 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 | 2022-11-12 |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2022-10-03 | 2024-08-03 |
-| [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 | 2021-12-10 |  |
+| [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 | 2021-12-10 | 2025-02-22 |
 | [I Will Always Love You](https://open.spotify.com/track/3FSKVylpJtOZbD50jOJDF0) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [I Will Always Love You](https://open.spotify.com/album/4RtNwpTeMqGkYl1Vx0XFLI) | 4:01 | 2022-05-20 | 2022-07-27 |
 | [I Won't Back Down \- Live from Saturday Night Live](https://open.spotify.com/track/0bci2nasZ4bDE0EgZJ7frg) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [I Won't Back Down \(Live from Saturday Night Live\)](https://open.spotify.com/album/41AJB2q0UhFTZbkEAUDLw7) | 3:52 | 2021-12-10 | 2022-07-28 |
 | [I'll Be Seeing You](https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Be Seeing You](https://open.spotify.com/album/3aqzMqGKMIAMeDdugAwFal) | 1:28 | 2021-12-10 | 2022-07-24 |
@@ -197,6 +197,7 @@
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 | 2024-08-06 |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 | 2024-08-03 |
 | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0) | 3:58 | 2024-02-02 | 2024-06-02 |
+| [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/track/4bqPKdtJPrNmDCDRzhoB9q) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/album/6u63LyjFVu1zv6Bgsrgqkb) | 3:39 | 2025-02-21 |  |
 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 | 2021-12-10 | 2024-08-03 |
 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 | 2023-11-17 | 2024-04-07 |
 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 | 2023-11-05 |

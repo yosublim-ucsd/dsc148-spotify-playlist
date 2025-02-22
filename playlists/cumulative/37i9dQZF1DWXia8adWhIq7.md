@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Marcela Taís
 
-195 songs - 11 hr 30 min
+196 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Do Meu Lado](https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Coutinho Records](https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS) | [Do Meu Lado](https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E) | 3:21 | 2025-01-24 |  |
 | [Dono do Tempo](https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Dono do Tempo](https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD) | 3:41 | 2022-08-05 | 2023-02-25 |
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2022-08-05 | 2024-08-31 |
-| [Ele Pode Fazer](https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ele Pode Fazer](https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V) | 2:30 | 2024-08-30 |  |
+| [Ele Pode Fazer](https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ele Pode Fazer](https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V) | 2:30 | 2024-08-30 | 2025-02-22 |
 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 | 2022-08-05 | 2024-09-28 |
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-03-17 | 2023-07-15 |
 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 | 2024-06-21 |  |
@@ -95,6 +95,7 @@
 | [Hoje Eu Vivo](https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE), [Babi Garcia](https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5) | [Hoje Eu Vivo](https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b) | 2:23 | 2023-11-24 | 2023-12-23 |
 | [Hosana](https://open.spotify.com/track/1Q6Zk8VtV071NWfIyzzdHY) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Hosana](https://open.spotify.com/album/1I0VpGgH26ul84YeFjoH2r) | 4:05 | 2023-12-22 | 2024-06-22 |
 | [Infinitamente Mais](https://open.spotify.com/track/56Dnb2DiKv5NMfUdNi4cEK) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Infinitamente Mais](https://open.spotify.com/album/2fXIyecuAPscFk25k9Lawy) | 3:43 | 2022-08-05 | 2024-08-17 |
+| [Jesus](https://open.spotify.com/track/2sedWM4k480cPjlIOS8MfG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Jesus](https://open.spotify.com/album/5KZAdTdAdN0jowouk6nEro) | 5:15 | 2025-02-21 |  |
 | [Labirinto](https://open.spotify.com/track/1fniGoMPeva9A6A2xOSydX) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Labirinto](https://open.spotify.com/album/0G2WxKzqJSwNXj3emNUVja) | 2:07 | 2023-10-20 | 2023-11-25 |
 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 | 2022-08-05 |  |
 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 | 2022-08-05 | 2024-04-19 |

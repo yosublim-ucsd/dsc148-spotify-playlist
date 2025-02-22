@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 166577,
+  "num_followers": 166627,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-01-31 05:00:40",
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Simple Things - Piano Version",
-      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
-    },
-    {
-      "added_at": "2025-01-31 05:00:40",
-      "album": {
         "name": "Fall In Love (Acoustic)",
         "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 238676,
       "name": "Fall In Love - Acoustic",
       "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
+    },
+    {
+      "added_at": "2025-01-31 05:00:40",
+      "album": {
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Simple Things - Piano Version",
+      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
     },
     {
       "added_at": "2025-01-31 05:00:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-31 05:00:40",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2025-01-31 05:00:40",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-01-31 05:00:40",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2025-01-31 05:00:40",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-31 05:00:40",
       "album": {
+        "name": "Some Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Some Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2025-01-31 05:00:40",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
-    },
-    {
-      "added_at": "2025-01-31 05:00:40",
-      "album": {
-        "name": "Some Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
-      },
-      "artists": [
-        {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Some Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
     },
     {
       "added_at": "2025-01-31 05:00:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-31 05:00:40",
       "album": {
-        "name": "Save The Roses (Acoustic)",
-        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Save The Roses (Acoustic)",
-      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
-    },
-    {
-      "added_at": "2025-01-31 05:00:40",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 185847,
       "name": "Waiting For You - Acoustic",
       "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
+    },
+    {
+      "added_at": "2025-01-31 05:00:40",
+      "album": {
+        "name": "Save The Roses (Acoustic)",
+        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Save The Roses (Acoustic)",
+      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
     },
     {
       "added_at": "2025-01-31 05:00:40",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-01-31 05:00:40",
       "album": {
-        "name": "Austin (Acoustic)",
-        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 226179,
-      "name": "Austin - Acoustic",
-      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
-    },
-    {
-      "added_at": "2025-01-31 05:00:40",
-      "album": {
         "name": "God Gave Me A Girl (Acoustic)",
         "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 201020,
       "name": "God Gave Me A Girl - Acoustic",
       "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
+    },
+    {
+      "added_at": "2025-01-31 05:00:40",
+      "album": {
+        "name": "Austin (Acoustic)",
+        "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 226179,
+      "name": "Austin - Acoustic",
+      "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
     }
   ],
   "unique_name": "Nashville Stripped",

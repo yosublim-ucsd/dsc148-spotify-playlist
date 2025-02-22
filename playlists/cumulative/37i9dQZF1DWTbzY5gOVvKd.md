@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-196 songs - 13 hr 39 min
+197 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-05-02 |  |
 | [Embraceable You](https://open.spotify.com/track/4DeblNB0dvJEm2icN9mv2L) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:40 | 2022-05-02 | 2022-10-22 |
 | [Embraceable You](https://open.spotify.com/track/2TWBu8KQdlGA4SoqeFJ73A) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:42 | 2022-11-08 | 2023-08-25 |
-| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* |  |
+| [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* | 2025-02-22 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-06-22 | 2024-04-19 |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2019-05-26\* |  |
 | [First Time](https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:11 | 2022-09-13 | 2023-12-24 |
@@ -138,6 +138,7 @@
 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 | 2022-05-02 |  |
 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 | 2019-05-26\* |  |
 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 | 2022-02-14 | 2022-06-01 |
+| [Never Less Than Yesterday](https://open.spotify.com/track/7ldeu7Q6Yx0iXPoFLqZBlQ) | [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Never Less Than Yesterday](https://open.spotify.com/album/1QVtc9J5ckPLkOb32z9xcv) | 3:48 | 2025-02-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 | 2019-05-26\* |  |
 | [Never Let Me Go](https://open.spotify.com/track/4FCwx5XYXU5WQhfstq7Hdq) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Breakfast on the Morning Tram](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) | 4:38 | 2019-05-26\* | 2022-07-29 |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-06-22 | 2023-08-25 |

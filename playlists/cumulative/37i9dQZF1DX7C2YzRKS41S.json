@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Coisa Mais Bonita",
+        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169383,
+      "name": "A Coisa Mais Bonita",
+      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
+    },
+    {
+      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178644,
       "name": "A Encomenda da Minha Vida",
       "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 218613,
       "name": "A Estrada",
       "url": "https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE"
@@ -370,7 +388,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 211835,
       "name": "Blindside",
       "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 202120,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 220141,
       "name": "CACHOEIRA",
       "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 122970,
       "name": "Cafun\u00e9",
       "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162089,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 198292,
       "name": "deixa que eu j\u00e1 vou",
       "url": "https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo"
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 182890,
       "name": "Dia de Sorte",
       "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 190252,
       "name": "Don't Fade - Single Version",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177665,
       "name": "Eu Sou Sentimental",
       "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 186125,
       "name": "Good People",
       "url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 223040,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 133960,
       "name": "Just a Song Before I Go",
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240585,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9"
@@ -3796,6 +3814,24 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag"
+      },
+      "artists": [
+        {
+          "name": "Badulaque",
+          "url": "https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI"
     },
     {
       "album": {
@@ -3944,7 +3980,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187046,
       "name": "Lugar Ao Sol",
       "url": "https://open.spotify.com/track/3EY2I6zWuJjZai4G7Bcmzx"
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 194886,
       "name": "Male Fantasy",
       "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
@@ -4060,6 +4096,24 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "album": {
@@ -4229,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Mesma Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194547,
+      "name": "Mesma Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Conhe\u00e7o o Mar",
         "url": "https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk"
       },
@@ -4298,7 +4370,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 193136,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
@@ -4356,7 +4428,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 162214,
       "name": "Minha Voz",
       "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
@@ -4374,7 +4446,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 187206,
       "name": "Minto pra quem perguntar",
       "url": "https://open.spotify.com/track/1ayciaPYnEVXA0sYvOssB8"
@@ -4450,7 +4522,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -4748,7 +4820,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -4886,7 +4958,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
@@ -4908,7 +4980,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
@@ -5038,7 +5110,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262550,
       "name": "O Segundo Sol",
       "url": "https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K"
@@ -5389,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191941,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
+    },
+    {
+      "album": {
         "name": "Pela Janela",
         "url": "https://open.spotify.com/album/0VyG9Rk3cWAjpymKbj1seg"
       },
@@ -5426,7 +5516,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 202506,
       "name": "Pensando Bem",
       "url": "https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75"
@@ -5460,13 +5550,13 @@
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
+          "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
@@ -5556,7 +5646,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 182181,
       "name": "Ponto de Vista",
       "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
@@ -5574,7 +5664,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 181000,
       "name": "Pontos de Exclama\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu"
@@ -5668,7 +5758,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
@@ -6264,7 +6354,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C"
@@ -6318,7 +6408,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 207595,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
@@ -6526,7 +6616,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 219320,
       "name": "Seja Como For",
       "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
@@ -6750,7 +6840,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207115,
       "name": "Simples e Rom\u00e2ntico",
       "url": "https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC"
@@ -6869,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "album": {
         "name": "Pra Doer",
         "url": "https://open.spotify.com/album/0uLTUkUC8dpt0sRF2BZ9nt"
       },
@@ -6970,7 +7078,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 271257,
       "name": "Staring at the Wall",
       "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
@@ -7108,7 +7216,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
@@ -7226,7 +7334,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 184963,
       "name": "Telefon\u00eda",
       "url": "https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp"
@@ -7392,7 +7500,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 258373,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
@@ -7410,7 +7518,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
@@ -7598,7 +7706,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
@@ -7790,7 +7898,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217767,
       "name": "Um Tanto",
       "url": "https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x"
@@ -7826,7 +7934,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 276870,
       "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
       "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
@@ -7866,7 +7974,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
@@ -8072,7 +8180,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
@@ -8108,7 +8216,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 317560,
       "name": "We Deserve To Dream",
       "url": "https://open.spotify.com/track/4uxap3PpnxFo7BeNcXtEnq"
@@ -8126,7 +8234,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 175480,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
@@ -8148,7 +8256,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
@@ -8166,7 +8274,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
@@ -8184,7 +8292,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
@@ -8256,7 +8364,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 148188,
       "name": "\u00c1guas do Teu Mar",
       "url": "https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU"
@@ -8292,7 +8400,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210323,
       "name": "\u00cdmpar",
       "url": "https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG"
@@ -8314,7 +8422,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"

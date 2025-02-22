@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-160 songs - 7 hr 28 min
+161 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 | 2021-11-19 |  |
 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 | 2024-01-30 |  |
 | [Hope](https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP) | [Hope](https://open.spotify.com/album/6TyZrOw86JmHZu9TxHW794) | 2:40 | 2024-02-02 |  |
+| [HUMPTY DUMPTY](https://open.spotify.com/track/6RFWQ0pDewcLYULywlvP7x) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [HUMPTY DUMPTY](https://open.spotify.com/album/5xvr2cKVKt1EJFl8F5iFYr) | 2:08 | 2025-02-21 |  |
 | [I Am Love, I Am Light](https://open.spotify.com/track/4Pze9m7sM29Q4UfGrH1fox) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light](https://open.spotify.com/album/50wyClVSQJXE0MbyDmYwa2) | 3:02 | 2024-02-02 | 2024-03-09 |
 | [I Am Love, I Am Light \- Jersey Club Remix](https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light \(Jersey Club Remix\)](https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO) | 2:55 | 2024-03-08 | 2024-10-12 |
 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 | 2021-11-19 | 2024-01-31 |
@@ -123,7 +124,7 @@
 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 | 2021-11-19 | 2024-01-31 |
 | [Rise and Shine](https://open.spotify.com/track/2VDkVkx5wDtwbsT07p69so) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Kids Jams 4](https://open.spotify.com/album/76Lr20i3iEpxEGiATZPAzM) | 2:14 | 2024-01-30 | 2024-06-15 |
 | [ROAR LIKE A DINOSAUR \(RAWR!\)](https://open.spotify.com/track/3pufAzaKeXGxwviCPYSVHU) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [ROAR LIKE A DINOSAUR \(RAWR!\)](https://open.spotify.com/album/5qGVMteVBXjZLoYgrC299x) | 1:26 | 2024-02-09 | 2024-04-06 |
-| [S'MORES](https://open.spotify.com/track/7ik1w2AppMcVBQCWSQLlig) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [S'MORES](https://open.spotify.com/album/2yyqycUrLnnJwrbIEB7qky) | 1:34 | 2024-06-14 |  |
+| [S'MORES](https://open.spotify.com/track/7ik1w2AppMcVBQCWSQLlig) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [S'MORES](https://open.spotify.com/album/2yyqycUrLnnJwrbIEB7qky) | 1:34 | 2024-06-14 | 2025-02-22 |
 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 | 2021-11-19 | 2023-11-04 |
 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 | 2024-01-31 |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 | 2024-01-31 |

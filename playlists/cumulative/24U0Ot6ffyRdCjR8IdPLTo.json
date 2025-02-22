@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3qGEtrVl6JgkZTlKh9tlPX"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179423,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5nHRuoijGPvrgUtFmOGxRl"
+    },
+    {
+      "album": {
         "name": "21st Century Cool Girl",
         "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
       },
@@ -778,6 +796,24 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "album": {
+        "name": "Black Rabbit",
+        "url": "https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275368,
+      "name": "Black Rabbit",
+      "url": "https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP"
     },
     {
       "album": {
@@ -5092,6 +5128,24 @@
       "duration_ms": 269411,
       "name": "Skin Parade",
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
+    },
+    {
+      "album": {
+        "name": "Skip Ahead",
+        "url": "https://open.spotify.com/album/2n1Q9ud2SVdBjy67cc7CBC"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Skip Ahead",
+      "url": "https://open.spotify.com/track/4rUYfqtZas6N69XdRL3PDP"
     },
     {
       "album": {

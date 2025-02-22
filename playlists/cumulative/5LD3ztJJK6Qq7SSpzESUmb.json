@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1000 Friends",
+        "url": "https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "1000 Friends",
+      "url": "https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq"
+    },
+    {
+      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
       },
@@ -332,6 +350,24 @@
     {
       "album": {
         "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198961,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
         "url": "https://open.spotify.com/album/2qb1WhZJCwkjAxnjZYWrG1"
       },
       "artists": [
@@ -515,6 +551,28 @@
     },
     {
       "album": {
+        "name": "ANCIENT SORCERY",
+        "url": "https://open.spotify.com/album/5LPfbgTbzpzt4rGfqbwqKh"
+      },
+      "artists": [
+        {
+          "name": "Wallowing",
+          "url": "https://open.spotify.com/artist/5gBHLwml90ZbOelVqI9mS5"
+        },
+        {
+          "name": "Tayne",
+          "url": "https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183144,
+      "name": "ANCIENT SORCERY",
+      "url": "https://open.spotify.com/track/6voJ8B5nuXPumspfCm3z6S"
+    },
+    {
+      "album": {
         "name": "Angel of the Night",
         "url": "https://open.spotify.com/album/5ZGSB6C6Vv2keHUnJJ5AGJ"
       },
@@ -544,7 +602,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 216000,
       "name": "Angelfire",
       "url": "https://open.spotify.com/track/56IdAHbhkwMITBey8ijR37"
@@ -613,6 +671,24 @@
     },
     {
       "album": {
+        "name": "T\u00edr na n\u00d3g",
+        "url": "https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430960,
+      "name": "Aon",
+      "url": "https://open.spotify.com/track/4d6mWiixka17MTL8uGrBnh"
+    },
+    {
+      "album": {
         "name": "Apparitions",
         "url": "https://open.spotify.com/album/1vt2wu5e9Zlj1pdlWx7nCR"
       },
@@ -632,7 +708,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 245586,
       "name": "Apparitions",
       "url": "https://open.spotify.com/track/0OAxS1KlR6L8kJBRKPxyxE"
@@ -962,10 +1038,28 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 249946,
       "name": "Betrayal Of The Self",
       "url": "https://open.spotify.com/track/5ABeWfGEIWDmm1nI6Pg6aK"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/1vly1u6UyjoM7FK5ScmV8o"
+      },
+      "artists": [
+        {
+          "name": "EYES",
+          "url": "https://open.spotify.com/artist/6H3XsRIiUv0xVicrxWIHIJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60666,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/304q7IsDSAA9MJsPdfygcr"
     },
     {
       "album": {
@@ -1128,7 +1222,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 330214,
       "name": "Blau ist die Farbe der Ewigkeit",
       "url": "https://open.spotify.com/track/35ZqYRmUB4rHzXRCl8DzYe"
@@ -1290,7 +1384,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 142957,
       "name": "Box",
       "url": "https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ"
@@ -1715,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Collider",
+        "url": "https://open.spotify.com/album/4BGrVqNcM9BZr2nL064mgo"
+      },
+      "artists": [
+        {
+          "name": "Slung",
+          "url": "https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185493,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/5BwTgie5PUD5T3RkCQKsch"
+    },
+    {
+      "album": {
         "name": "Come On Outside",
         "url": "https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1"
       },
@@ -1906,10 +2018,28 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 205955,
       "name": "Cranium",
       "url": "https://open.spotify.com/track/3FaMLlBEsX1F6TsDyuJsfH"
+    },
+    {
+      "album": {
+        "name": "Crashing Into A Hillside In The Dead Of Night",
+        "url": "https://open.spotify.com/album/31XnmOTJ9MuOBaHrIv7DoL"
+      },
+      "artists": [
+        {
+          "name": "Indifferent Engine",
+          "url": "https://open.spotify.com/artist/0dltTUV2N49r1UjUTsqe3h"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198889,
+      "name": "Crashing Into A Hillside In The Dead Of Night",
+      "url": "https://open.spotify.com/track/05VFHKQKhs075N9XQRh2wa"
     },
     {
       "album": {
@@ -1989,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Cruel Times",
+        "url": "https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178231,
+      "name": "Cruel Times",
+      "url": "https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI"
+    },
+    {
+      "album": {
         "name": "Crux Ansata",
         "url": "https://open.spotify.com/album/27dwMCnxdJHl4WDP1WoqgC"
       },
@@ -2004,6 +2152,24 @@
       "duration_ms": 351258,
       "name": "Crux Ansata",
       "url": "https://open.spotify.com/track/5Qm4wAYJQ0tBueYhNdCgIA"
+    },
+    {
+      "album": {
+        "name": "crybaby",
+        "url": "https://open.spotify.com/album/6WGgWdLAAfnODOpA9gYwt7"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138307,
+      "name": "crybaby",
+      "url": "https://open.spotify.com/track/6apiNOik1DtKC818JzbRHD"
     },
     {
       "album": {
@@ -2452,6 +2618,24 @@
       "duration_ms": 386876,
       "name": "Embrace the Lie",
       "url": "https://open.spotify.com/track/1Fx6tUaQT4jlBMOzoov8Ma"
+    },
+    {
+      "album": {
+        "name": "ESTRELA",
+        "url": "https://open.spotify.com/album/6wIq5zrrIpA8l7GqFAIl5H"
+      },
+      "artists": [
+        {
+          "name": "JIVEBOMB",
+          "url": "https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75449,
+      "name": "ESTRELA",
+      "url": "https://open.spotify.com/track/5I0WouqVM3Nl1u75whxBtq"
     },
     {
       "album": {
@@ -3006,7 +3190,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 193912,
       "name": "Forgive (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
@@ -3818,7 +4002,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 208800,
       "name": "highway robbery",
       "url": "https://open.spotify.com/track/3t6PVWXiWGamqfgOCO64NQ"
@@ -3974,7 +4158,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 349360,
       "name": "House of Light",
       "url": "https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3"
@@ -4664,7 +4848,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 198453,
       "name": "Kubrick Stare",
       "url": "https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y"
@@ -4686,7 +4870,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 214274,
       "name": "Kundalini",
       "url": "https://open.spotify.com/track/0D3z7YrhFHbdahOjPbtByX"
@@ -4967,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Lord Humungus",
+        "url": "https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Lord Humungus",
+      "url": "https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX"
+    },
+    {
+      "album": {
         "name": "LOSING EVERYTHING",
         "url": "https://open.spotify.com/album/5xV5Cqiz3hDSyz4dt0vK5U"
       },
@@ -5223,6 +5425,24 @@
     },
     {
       "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188607,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
+    },
+    {
+      "album": {
         "name": "Mammoth's Hand",
         "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
       },
@@ -5238,6 +5458,24 @@
       "duration_ms": 233624,
       "name": "Mammoth's Hand",
       "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
+    },
+    {
+      "album": {
+        "name": "Man or Machine",
+        "url": "https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Man or Machine",
+      "url": "https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ"
     },
     {
       "album": {
@@ -5619,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/679h1r0DYqAYCoRPXfddsk"
+      },
+      "artists": [
+        {
+          "name": "The Warriors",
+          "url": "https://open.spotify.com/artist/0eHAMIAxiBEpQdv8UVwSxb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132447,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/1nmi4oATze7UvRbyfFRqv5"
+    },
+    {
+      "album": {
         "name": "My Blood On Your Hands",
         "url": "https://open.spotify.com/album/1II7VOGQ8g5fHv9Cqa59VD"
       },
@@ -5742,7 +5998,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 133640,
       "name": "Neanderthal",
       "url": "https://open.spotify.com/track/2H6SkRYATu83BdfigXPXIB"
@@ -5904,7 +6160,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 176466,
       "name": "No Loss, No Love",
       "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
@@ -6276,7 +6532,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236746,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
@@ -6782,6 +7038,24 @@
       "duration_ms": 160346,
       "name": "Recursion",
       "url": "https://open.spotify.com/track/7IQXJXGNuzpMi0tDQYTpMB"
+    },
+    {
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148424,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/7egbENInwPWegyktIf4rVh"
     },
     {
       "album": {
@@ -7522,7 +7796,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179360,
       "name": "Sorry X (feat. Yours Truly)",
       "url": "https://open.spotify.com/track/6TeCEz8wIqVSHmY8KeqnOM"
@@ -7562,6 +7836,24 @@
       "duration_ms": 240500,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/2MTSZBTZ5Gvj7ThzOvMW8A"
+    },
+    {
+      "album": {
+        "name": "Laughing Without Smiling / Spit",
+        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/0WQuS59De4cVdWDs2eMu7U"
     },
     {
       "album": {
@@ -7612,7 +7904,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 209835,
       "name": "Static",
       "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
@@ -7630,7 +7922,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 310266,
       "name": "Static Horizon",
       "url": "https://open.spotify.com/track/55I2t9cF4oFRcBwQXBHG70"
@@ -7959,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "Take Everything",
+        "url": "https://open.spotify.com/album/3YSlyhta930HJQ2oHuUldy"
+      },
+      "artists": [
+        {
+          "name": "Baby Said",
+          "url": "https://open.spotify.com/artist/4Nc9OZQfWhkashN6dDDgXl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187038,
+      "name": "Take Everything",
+      "url": "https://open.spotify.com/track/67CZUUIbEXWh0yTLkkcbz1"
+    },
+    {
+      "album": {
         "name": "Taste Better",
         "url": "https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ"
       },
@@ -8176,6 +8486,24 @@
       "duration_ms": 345443,
       "name": "The End Will Show Us How",
       "url": "https://open.spotify.com/track/0g5qocslCPAnbLvbUXdjWY"
+    },
+    {
+      "album": {
+        "name": "The Ending Is Always The Same",
+        "url": "https://open.spotify.com/album/3O4M38u95KIQpjJJJXDf5o"
+      },
+      "artists": [
+        {
+          "name": "Luke Spiller",
+          "url": "https://open.spotify.com/artist/5pHfUNtb7HavOPkzrhmVnh"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222195,
+      "name": "The Ending Is Always The Same",
+      "url": "https://open.spotify.com/track/3Xefyh9jSDx2XWo28Ixm7Y"
     },
     {
       "album": {
@@ -8687,6 +9015,28 @@
     },
     {
       "album": {
+        "name": "I / Throes Of Grief",
+        "url": "https://open.spotify.com/album/4omx7Z9XT9MulJkNjO7dhE"
+      },
+      "artists": [
+        {
+          "name": "URNE",
+          "url": "https://open.spotify.com/artist/1daJkdlSgLE2kmnNUjmRpU"
+        },
+        {
+          "name": "Tim \u00d6hrstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4ucByWLQejwVe2x4XFfoqI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219530,
+      "name": "Throes of Grief (feat. Tim \u00d6hrstr\u00f6m)",
+      "url": "https://open.spotify.com/track/19Dick86XxitLUW6IZmhY1"
+    },
+    {
+      "album": {
         "name": "Time To Waste",
         "url": "https://open.spotify.com/album/2992m371uW5cJc3rnjiOt7"
       },
@@ -8914,7 +9264,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 196893,
       "name": "Twin Flame - Acoustic",
       "url": "https://open.spotify.com/track/0IvnfkBlA5cqGygZhyhF59"
@@ -8998,6 +9348,24 @@
       "duration_ms": 171154,
       "name": "Ultimate Penalty",
       "url": "https://open.spotify.com/track/2IgbVGleKzMBPwEZ9yW8I1"
+    },
+    {
+      "album": {
+        "name": "UNB\u00d8UND",
+        "url": "https://open.spotify.com/album/5fa7pFzXKaGTQNJnTqvciH"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/2giZNr8LWr8ywmcbxdvqjn"
     },
     {
       "album": {
@@ -9138,7 +9506,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207797,
       "name": "W.T.F",
       "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
@@ -9304,7 +9672,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 162927,
       "name": "What's It Like",
       "url": "https://open.spotify.com/track/0sbQakBa4DM2ITECNnDlhR"

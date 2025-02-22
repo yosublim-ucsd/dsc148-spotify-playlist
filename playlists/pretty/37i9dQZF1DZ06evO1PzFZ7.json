@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152404,
+  "num_followers": 152410,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAADd4X8UMbNZublOqtmFMlST",
+  "snapshot_id": "Z7ZwgAAAAACYx4y06Ej7FilfpndNSi93",
   "tracks": [
     {
       "added_at": null,
@@ -983,26 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando a M\u00e9xico",
-        "url": "https://open.spotify.com/album/3a5j5YSrPqw9PMkW0hLGy0"
+        "name": "Bala Perdida",
+        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 257153,
-      "name": "Un Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/4Htmd52VjCywf32A3L6Gnw"
+      "duration_ms": 224000,
+      "name": "Bala Perdida",
+      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

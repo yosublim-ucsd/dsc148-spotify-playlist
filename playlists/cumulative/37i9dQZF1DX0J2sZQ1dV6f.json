@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Dan Sanchez, Natanael Cano.",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Deorro, Alex Favela.",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 225692,
       "name": "Fresita",
       "url": "https://open.spotify.com/track/6JnspDl2u1ws3AuZCvqvec"
@@ -10882,6 +10882,28 @@
       "duration_ms": 194823,
       "name": "Una Noche Loca",
       "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
+    },
+    {
+      "album": {
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "album": {

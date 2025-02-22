@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 701603,
+  "num_followers": 701695,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAABZ7fDiKfux7ZqoYGxiPQ04",
+  "snapshot_id": "Z7ZwgAAAAABF/l+vtr2JkXp1b4bhFoPB",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 273902,
-      "name": "Adam's Apple",
-      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
+      "duration_ms": 217902,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Push Play",
-        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 217902,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
+      "duration_ms": 273902,
+      "name": "Adam's Apple",
+      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 338958,
-      "name": "Seasons of Wither",
-      "url": "https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl"
+      "duration_ms": 252115,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
     }
   ],
   "unique_name": "This Is Aerosmith",

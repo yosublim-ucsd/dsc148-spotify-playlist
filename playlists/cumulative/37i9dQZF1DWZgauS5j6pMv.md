@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Maya Delilah
 
-467 songs - 1 day 3 hr 22 min
+468 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
 | [No Way Around It](https://open.spotify.com/track/65AYAfDtAXpEx3AYgdobPK) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [RoneyBoys](https://open.spotify.com/artist/6Udsi9z7n5Ucvf781MzgjY) | [No Way Around It](https://open.spotify.com/album/3K9GvH6NNuohRjrKHFfqmB) | 3:11 | 2024-03-29 |  |
 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 | 2024-01-06 |
-| [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 | 2025-02-14 |  |
+| [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 | 2025-02-14 | 2025-02-22 |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-25 | 2024-05-18 |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 | 2024-03-15 |  |
@@ -444,6 +444,7 @@
 | [We Belong](https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5) | 4:01 | 2024-03-01 | 2024-04-08 |
 | [We Belong](https://open.spotify.com/track/1vp1OohNbLLVwb3qSMq7S9) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/2Uh44AQjG7X7DixVbrDLPK) | 4:01 | 2024-03-01 |  |
 | [We Belong](https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr) | 4:01 | 2024-03-01 | 2024-04-19 |
+| [We Do It Together](https://open.spotify.com/track/4y17IJimZ69gyuZnJC0xyy) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Aequoreus](https://open.spotify.com/album/3cQeB6HJkmYpLQHM9nQlSp) | 3:49 | 2025-02-21 |  |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |
 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 | 2023-06-16 |  |
 | [What Can We Do? \(feat\. Nate Dogg\)](https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 2:56 | 2020-11-20 | 2022-01-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Natanael Cano, Grupo Maximo Grado & the hottest corridos in the U.S.",
-  "num_followers": 293549,
+  "num_followers": 293633,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -81,7 +81,7 @@
         }
       ],
       "duration_ms": 160714,
-      "name": "No Son Doritos",
+      "name": "NO SON DORITOS",
       "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
     },
     {
@@ -403,7 +403,7 @@
     {
       "added_at": "2025-02-16 22:37:03",
       "album": {
-        "name": "No Pasa Nada",
+        "name": "NO PASA NADA",
         "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
       },
       "artists": [
@@ -417,7 +417,7 @@
         }
       ],
       "duration_ms": 136000,
-      "name": "No Pasa Nada",
+      "name": "NO PASA NADA",
       "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
     },
     {
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-02-16 22:37:03",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
     },
     {
       "added_at": "2025-02-16 22:37:03",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-02-16 22:37:03",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2025-02-16 22:37:03",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-02-16 22:37:03",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
-    },
-    {
-      "added_at": "2025-02-16 22:37:03",
-      "album": {
         "name": "La Belikiza",
         "url": "https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 181331,
       "name": "La Belikiza",
       "url": "https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj"
+    },
+    {
+      "added_at": "2025-02-16 22:37:03",
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     }
   ],
   "unique_name": "La Privada",

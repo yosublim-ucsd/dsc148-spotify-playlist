@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Dead Gowns 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,316 likes - 146 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,393 likes - 146 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-318 songs - 18 hr 18 min
+319 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(I Can't Get No\) Satisfaction \- Mono Version / Remastered 2002](https://open.spotify.com/track/7fSGbZLhWlAiCC3HDPAULu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads \(Remastered\)](https://open.spotify.com/album/24V2ghp7XhGZzWKjthHq4v) | 3:42 | 2022-03-24 | 2022-04-17 |
 | [\(não\) era amor](https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [\(não\) era amor](https://open.spotify.com/album/1pX7Hry9lbEICEN2ez13K7) | 2:37 | 2022-02-04 | 2022-07-29 |
 | [\(não\) era amor](https://open.spotify.com/track/1xm6rsUXIuGVjuKJJDLjzX) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [solta](https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy) | 2:37 | 2022-10-07 | 2022-10-20 |
-| [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-03-24 |  |
+| [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-03-24 | 2025-02-22 |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2022-03-24 | 2024-04-19 |
 | [2002](https://open.spotify.com/track/6SFStUDQZNaGPKWOx9ZiJB) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/661ouXU4o4oBewWvVzQN7H) | 3:06 | 2022-03-24 | 2022-07-24 |
 | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U \(feat\. Justin Bieber\)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 | 2022-03-24 | 2024-10-05 |
@@ -178,6 +178,7 @@
 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-04-07 | 2023-05-23 |
 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 | 2022-02-04 |  |
 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 | 2022-02-04 | 2022-07-29 |
+| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 |  |
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2022-02-04 | 2022-07-29 |
 | [moneydontfixlonely](https://open.spotify.com/track/35osKSAsV8WsOb80tb3Eex) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR) | [moneydontfixlonely](https://open.spotify.com/album/2kzdkDvawndpP52GKbiLAd) | 3:26 | 2022-03-24 | 2022-04-19 |
 | [Move On](https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Move On](https://open.spotify.com/album/0gI0NIsHae9AQsu6Tmi4M4) | 2:58 | 2022-03-24 | 2022-04-18 |

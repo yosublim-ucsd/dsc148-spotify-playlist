@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
+> La scène musicale montréalaise au premier plan\. Photo: Yuki Dreams Again
 
-560 songs - 1 day 8 hr 11 min
+562 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Baleine et moi \(take 10\)](https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Baleine et moi \(take 10\) / Portrait d'une Marianne](https://open.spotify.com/album/5kx9LSIXnSrQCC8GYgxC4R) | 4:25 | 2022-11-21 | 2023-01-28 |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-25 | 2022-10-22 |
+| [Beaux yeux](https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Beaux yeux](https://open.spotify.com/album/71vGN5WKF17AZOuJA5BKpT) | 2:20 | 2025-02-21 |  |
 | [Bermudes](https://open.spotify.com/track/79lTYn64xiWpQaP3AgtFYC) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Bermudes](https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c) | 2:55 | 2024-10-04 |  |
 | [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 | 2024-07-05 | 2024-09-07 |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-01-20 | 2024-03-02 |
@@ -253,11 +254,11 @@
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-01-06 | 2023-04-15 |
 | [Jump Cut](https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Jump Cut](https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS) | 3:53 | 2024-04-26 |  |
 | [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 | 2024-09-13 |  |
-| [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-03-29 |  |
+| [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 | 2024-03-29 | 2025-02-22 |
 | [Juste amis](https://open.spotify.com/track/2SidL8c6kAfNJCSmSoTlvD) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Simon Proulx](https://open.spotify.com/artist/6bvvFMUBVyfipeElZuVysQ) | [Juste amis](https://open.spotify.com/album/1Gg71kuPnvS7BuFvfaTb2U) | 3:05 | 2024-09-27 |  |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2024-07-06 |
 | [Keep Hiding \(way back\)](https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Keep Hiding \(way back\)](https://open.spotify.com/album/68ra6iNQK40XmAW9TGh5XF) | 2:57 | 2022-10-14 | 2023-03-25 |
-| [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
+| [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 | 2025-02-22 |
 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 | 2023-11-17 | 2024-01-20 |
 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 | 2023-09-15 | 2024-03-30 |
 | [L'ordre naturel des choses](https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Tout va bien](https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2) | 3:18 | 2024-11-08 |  |
@@ -511,6 +512,7 @@
 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 | 2024-10-18 |  |
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 |  |
 | [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 | 2023-01-14 |
+| [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 | 2025-02-21 |  |
 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 | 2022-09-23 | 2023-01-21 |
 | [Toune 1](https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 1](https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof) | 4:17 | 2022-09-16 | 2022-10-29 |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-09-17 |

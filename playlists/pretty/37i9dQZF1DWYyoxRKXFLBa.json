@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10809,
+  "num_followers": 10812,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Voy en Auto",
-        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178686,
-      "name": "Voy en Auto",
-      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Cancionero del Nuevo Milenio",
         "url": "https://open.spotify.com/album/1soI4NhDklGb6M7hv31bLA"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 172000,
       "name": "Fuega",
       "url": "https://open.spotify.com/track/4xspJCCiPHDCu5lgJOXJjR"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Voy en Auto",
+        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178686,
+      "name": "Voy en Auto",
+      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1199,6 +1199,34 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Mucho Peor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "Mucho Peor - Spotify Singles",
+      "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -1267,22 +1295,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -1299,6 +1311,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Me gusto de noche",
         "url": "https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC"
       },
@@ -1311,22 +1339,6 @@
       "duration_ms": 144347,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3kQBxC4xCNGLDjI8LZXmN3"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "Algo De Verdad",
-        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Algo De Verdad",
-      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
     }
   ],
   "unique_name": "Ruidosas",

@@ -1,28 +1,68 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hannah Cohen",
-  "num_followers": 83011,
+  "num_followers": 83038,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7TvZwAAAACYdDKJvoP8S+XwdUMooI62",
+  "snapshot_id": "Z7jC/QAAAAAUfRGgvOZEh/PTCUG6sCJ5",
   "tracks": [
     {
-      "added_at": "2025-02-07 05:00:35",
+      "added_at": "2025-02-21 05:00:38",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+        "name": "Praying For Your Downfall",
+        "url": "https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+      "duration_ms": 185080,
+      "name": "Praying For Your Downfall",
+      "url": "https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
+        "name": "Undercover Cops (with Lennon Stella)",
+        "url": "https://open.spotify.com/album/3zxmY5QVkfZoccn8uXbWM6"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "Undercover Cops (with Lennon Stella)",
+      "url": "https://open.spotify.com/track/4wFVVLsVZA8IUJqdloM8wo"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
+        "name": "Simp Song (Better with Madi)",
+        "url": "https://open.spotify.com/album/4IkZIUXyfi31clHUENXqIp"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Simp Song - Better with Madi",
+      "url": "https://open.spotify.com/track/6Hvs1hEvzykmci1pWIUZvJ"
     },
     {
       "added_at": "2025-02-18 20:36:55",
@@ -41,6 +81,54 @@
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Someone Else & Jesus",
+        "url": "https://open.spotify.com/album/7n6oJNWygajwSgTrFQGGbR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Manning",
+          "url": "https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS"
+        }
+      ],
+      "duration_ms": 202187,
+      "name": "Someone Else & Jesus",
+      "url": "https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:35",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2025-02-21 18:16:29",
+      "album": {
+        "name": "Mr. Predictable",
+        "url": "https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Mr. Predictable",
+      "url": "https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG"
+    },
+    {
       "added_at": "2025-02-07 05:00:35",
       "album": {
         "name": "Anytime, Anyplace, Anyhow",
@@ -55,6 +143,38 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+    },
+    {
+      "added_at": "2025-02-14 05:00:23",
+      "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
+    },
+    {
+      "added_at": "2025-02-21 05:00:38",
+      "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 207929,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/7d7G1yRRWVNy87Pf8wu4Q4"
     },
     {
       "added_at": "2025-02-14 05:00:23",
@@ -87,22 +207,6 @@
       "duration_ms": 288465,
       "name": "forgive",
       "url": "https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu"
-    },
-    {
-      "added_at": "2025-02-14 05:00:23",
-      "album": {
-        "name": "Best Guess",
-        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 240364,
-      "name": "Best Guess",
-      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
     },
     {
       "added_at": "2025-02-07 05:00:35",
@@ -203,22 +307,6 @@
       "duration_ms": 254822,
       "name": "Heartbreakdown",
       "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
-    },
-    {
-      "added_at": "2025-02-14 05:00:23",
-      "album": {
-        "name": "Someone Else & Jesus",
-        "url": "https://open.spotify.com/album/7n6oJNWygajwSgTrFQGGbR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Manning",
-          "url": "https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS"
-        }
-      ],
-      "duration_ms": 202187,
-      "name": "Someone Else & Jesus",
-      "url": "https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh"
     },
     {
       "added_at": "2025-02-07 05:00:35",

@@ -4,7 +4,7 @@
 
 > Mahmood in cover + tutte le migliori uscite della settimana!
 
-3,682 songs - 7 day 17 hr 53 min
+3,685 songs - 7 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-02-20 |  |
 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 | 2024-08-15 | 2024-08-23 |
 | [EXTASY](https://open.spotify.com/track/5nrOXJPRfFcrZbc2E3It9h) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [EXTASY](https://open.spotify.com/album/3YaVkPXkzDkgFViCSrOFAu) | 2:25 | 2024-05-16 | 2024-05-24 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Extranjero](https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Extranjero](https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V) | 2:32 | 2025-01-30 | 2025-02-07 |
 | [Extraterrestrial](https://open.spotify.com/track/0wJxx9h0cPxJZVf9SptnlQ) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Extraterrestrial](https://open.spotify.com/album/140bN49dQRyWgyBx7MSOEL) | 2:21 | 2024-07-04 | 2024-07-12 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2024-05-03 |
@@ -1895,6 +1896,7 @@
 | [Luna elettrica](https://open.spotify.com/track/6A7Pwen2tv5m9ddiFi0D3a) | [Michelangelo Vood](https://open.spotify.com/artist/4ZWLxBFrqQpBflEZ4wBFJ7) | [Non c'è più tempo](https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT) | 3:13 | 2024-05-09 | 2024-05-17 |
 | [Luna ácida](https://open.spotify.com/track/4BEASlpIsdscCzJwUo7DbU) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Luna ácida](https://open.spotify.com/album/2fkpffdsAgTDMZXGGgmZhY) | 4:08 | 2025-01-23 | 2025-01-31 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-05-24 |
+| [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-21 |  |
 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 | 2024-10-10 | 2024-10-18 |
 | [Ma Belle \(feat\. Kassimi & Yunes LaGrintaa\)](https://open.spotify.com/track/67kspZ54hoRYtc23oQOkRk) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Ma Belle \(feat\. Kassimi & Yunes LaGrintaa\)](https://open.spotify.com/album/3sgZkF4BMzB3ttKJ35qJy8) | 3:17 | 2024-06-20 | 2024-06-28 |
 | [Ma Che Vuo'](https://open.spotify.com/track/2uuYpro7fcZRu8Fxk1iapf) | [Florinda](https://open.spotify.com/artist/4MbtMtKmurOvjSw5i4u0LU) | [Ma Che Vuo'](https://open.spotify.com/album/5VbUGXvh1qaPvp4cDFqRIP) | 3:01 | 2025-01-16 | 2025-01-24 |
@@ -3666,6 +3668,7 @@
 | [You Don't Remember Me](https://open.spotify.com/track/4XjU4hwBk4KOajDgDQX4yq) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Securely Insecure](https://open.spotify.com/album/1OetRpfHW0L7PYoo4UBnDb) | 3:52 | 2024-08-01 | 2024-08-09 |
 | [you fake your british accent](https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [you fake your british accent](https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it) | 3:08 | 2024-08-15 | 2024-08-23 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-03 | 2024-10-11 |
+| [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 |  |
 | [you know](https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [you know](https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0) | 4:11 | 2024-11-28 | 2024-12-06 |
 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-12 | 2024-09-20 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 | 2025-02-07 |

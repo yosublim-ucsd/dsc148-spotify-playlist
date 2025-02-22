@@ -1,13 +1,65 @@
 {
-  "description": "New jazz for open minds. Cover: Marshall Allen",
-  "num_followers": 947416,
+  "description": "New jazz for open minds. Cover: Ezra Collective",
+  "num_followers": 947517,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N7gAAAAC6EPUzn1ptnEwMYsdjCpcW",
+  "snapshot_id": "Z7gIagAAAABhAPs67l2U2Nz4dxf7196i",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Slipping Into Something",
+        "url": "https://open.spotify.com/album/6qbAhLDDgXYvvNSaCfbFfV"
+      },
+      "artists": [
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Slipping Into Something",
+      "url": "https://open.spotify.com/track/6PSu5LpdXZLsPZMJx1ZlEG"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Ainda Precisa do Sol",
+        "url": "https://open.spotify.com/album/4taWW1uvPeCk4WkrphI1U3"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 183173,
+      "name": "Ainda Preciso do Sol",
+      "url": "https://open.spotify.com/track/7DMbXlzujgBSkMirL6MQGj"
+    },
     {
       "added_at": "2025-02-14 05:00:30",
       "album": {
@@ -23,6 +75,82 @@
       "duration_ms": 262000,
       "name": "Angels And Demons At Play",
       "url": "https://open.spotify.com/track/1m43trU3cyPS6lQ9t72m6q"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "It\u2019s Okay (feat. Kassa Overall)",
+        "url": "https://open.spotify.com/album/2wYxgFVV30dQLXd24c5p5X"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 211473,
+      "name": "It\u2019s Okay (feat. Kassa Overall)",
+      "url": "https://open.spotify.com/track/5xGo1MzhQn0LddjOz5NfN5"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Free Hit",
+        "url": "https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "duration_ms": 289568,
+      "name": "Free Hit",
+      "url": "https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd"
+    },
+    {
+      "added_at": "2025-02-14 05:00:30",
+      "album": {
+        "name": "Best Life Now",
+        "url": "https://open.spotify.com/album/2wPbqYgwtKMxUveWdr5FPV"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        }
+      ],
+      "duration_ms": 198793,
+      "name": "Best Life Now",
+      "url": "https://open.spotify.com/track/4JkQT6JiF0TWegeSS8c8B6"
+    },
+    {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "T\u00edr na n\u00d3g",
+        "url": "https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 320120,
+      "name": "Ceathair",
+      "url": "https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS"
     },
     {
       "added_at": "2025-02-14 05:00:30",
@@ -49,6 +177,22 @@
       "url": "https://open.spotify.com/track/72nSsPHdQVZwjWKK5wM3dM"
     },
     {
+      "added_at": "2025-02-21 05:00:26",
+      "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/0a84xLdOtvPckpZmezk8TY"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/2ajf4pi4tGq5kw6tyLrEcH"
+    },
+    {
       "added_at": "2025-02-07 05:00:30",
       "album": {
         "name": "Medallion",
@@ -63,22 +207,6 @@
       "duration_ms": 269155,
       "name": "Medallion",
       "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
-    },
-    {
-      "added_at": "2025-02-14 05:00:30",
-      "album": {
-        "name": "Best Life Now",
-        "url": "https://open.spotify.com/album/2wPbqYgwtKMxUveWdr5FPV"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        }
-      ],
-      "duration_ms": 198793,
-      "name": "Best Life Now",
-      "url": "https://open.spotify.com/track/4JkQT6JiF0TWegeSS8c8B6"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -429,22 +557,6 @@
       "url": "https://open.spotify.com/track/0NOH86zJJPRShN5ShondVZ"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Shaking Body",
-      "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "RASTA PASTA (ft. Masego)",
@@ -591,22 +703,6 @@
       "duration_ms": 288339,
       "name": "Up in the air",
       "url": "https://open.spotify.com/track/3Odge8ksOoRNodtSfQHCRh"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Down Close",
-        "url": "https://open.spotify.com/album/3SRvTxcAsQZUHSeUpLweFI"
-      },
-      "artists": [
-        {
-          "name": "Nels Cline",
-          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
-        }
-      ],
-      "duration_ms": 253580,
-      "name": "Down Close",
-      "url": "https://open.spotify.com/track/2Of0pFJshznU4mPN3cge5i"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -971,22 +1067,6 @@
     {
       "added_at": "2025-01-17 05:00:30",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/0hA5fwpqTpzxfz6xuMyulX"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        }
-      ],
-      "duration_ms": 321080,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/6kCSXxieGoLrJGhEocItph"
-    },
-    {
-      "added_at": "2025-01-17 05:00:30",
-      "album": {
         "name": "Into The Night",
         "url": "https://open.spotify.com/album/3LXKWerzEPTDudnUuRvdAP"
       },
@@ -1137,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7oGxFXISaWWEOF4buQAjAZ"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/7lEMsk50nG3OD327YkDhzV"
-      },
-      "artists": [
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 454659,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/576BqSS8Hess0d1nWO6MtQ"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Little Big III",
@@ -1183,30 +1247,6 @@
       "duration_ms": 339320,
       "name": "Grid/Ocean",
       "url": "https://open.spotify.com/track/4HihX0g2heU1QUxJhhk6Xz"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Jazz Is Dead 021",
-        "url": "https://open.spotify.com/album/0ifdXpNMmpupv9CSXkt2Bo"
-      },
-      "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
-        {
-          "name": "The Midnight Hour",
-          "url": "https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ"
-        }
-      ],
-      "duration_ms": 338825,
-      "name": "Moreno",
-      "url": "https://open.spotify.com/track/7HCDVy8eIHWLEMchu9Vtha"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1459,26 +1499,6 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        },
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        }
-      ],
-      "duration_ms": 282272,
-      "name": "Mica Moon",
-      "url": "https://open.spotify.com/track/1aS55TheI2I8uKwn85Lnd0"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1811,26 +1831,6 @@
       "duration_ms": 387077,
       "name": "Libations: KwaKhangelamankengana",
       "url": "https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Black Hole (feat. Reggie Watts)",
-        "url": "https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        },
-        {
-          "name": "Reggie Watts",
-          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Black Hole (feat. Reggie Watts)",
-      "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
     },
     {
       "added_at": "2024-07-19 04:00:00",

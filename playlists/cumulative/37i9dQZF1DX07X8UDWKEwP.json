@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Ralphy Dreamz",
+  "description": "Lo nuevo del mundo tropical. Cover: Christian Alicea",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 247636,
       "name": "Ahora o nunca",
       "url": "https://open.spotify.com/track/1BxFaBpXzfSRollZPEDS8b"
@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "D\u00cdMELO",
+        "url": "https://open.spotify.com/album/1GBJQnxxCwzEZyrQzh77Xz"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172534,
+      "name": "D\u00cdMELO",
+      "url": "https://open.spotify.com/track/74FIdCJ0gLSt9k2WGEOGNV"
+    },
+    {
+      "album": {
         "name": "Echar de Menos",
         "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
       },
@@ -3206,6 +3224,24 @@
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "album": {
+        "name": "El Amor Tuvo La Culpa",
+        "url": "https://open.spotify.com/album/4TDCJ1PPgIwHCm0BXtLczG"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "El Amor Tuvo La Culpa",
+      "url": "https://open.spotify.com/track/2gPUXHRx0TPmuqKfq5fm32"
     },
     {
       "album": {
@@ -3378,7 +3414,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
@@ -3702,7 +3738,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 199092,
       "name": "Elevador",
       "url": "https://open.spotify.com/track/6TG4eYYioAxKFLsET1uNZA"
@@ -4595,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Hello,What's Up",
+        "url": "https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Hello, What's Up",
+      "url": "https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK"
+    },
+    {
+      "album": {
         "name": "Herrera",
         "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
       },
@@ -5362,6 +5416,28 @@
       "duration_ms": 225977,
       "name": "La Foto Se Me Borr\u00f3 - Bachata",
       "url": "https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk"
+    },
+    {
+      "album": {
+        "name": "La Fragancia",
+        "url": "https://open.spotify.com/album/5xH3nEpUJ0gYLLVYz6QiAF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Mayinbito",
+          "url": "https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "La Fragancia",
+      "url": "https://open.spotify.com/track/7GtsjJN40nj4adhHmnRQQg"
     },
     {
       "album": {
@@ -12042,7 +12118,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"

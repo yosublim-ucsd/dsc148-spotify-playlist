@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 466954,
+  "num_followers": 467022,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Fruto Proibido",
         "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 338933,
       "name": "Ovelha Negra",
       "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Um dos Poetas do Samba",
-        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
+        "name": "Bis (Dois CDs)",
+        "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
       },
       "artists": [
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
         }
       ],
-      "duration_ms": 201666,
-      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
-      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
+      "duration_ms": 249960,
+      "name": "Lindo Lago Do Amor",
+      "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bis (Dois CDs)",
-        "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
+        "name": "Um dos Poetas do Samba",
+        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
       },
       "artists": [
         {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 249960,
-      "name": "Lindo Lago Do Amor",
-      "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
+      "duration_ms": 201666,
+      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
+      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
     },
     {
       "added_at": "2021-11-26 03:18:52",

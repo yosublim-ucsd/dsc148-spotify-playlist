@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Whatever The Weather on cover.",
-  "name": "Ambient X",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Tim Hecker",
+  "name": "New Ambient",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 614592,
       "name": "#19",
       "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
@@ -660,6 +660,28 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "album": {
+        "name": "A Glimpse (Remix)",
+        "url": "https://open.spotify.com/album/2kUPfIaM01G0OhJ28Zs9Nx"
+      },
+      "artists": [
+        {
+          "name": "Yannick Lowack",
+          "url": "https://open.spotify.com/artist/4jKjq3qWxfwNoijxhD57fu"
+        },
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "A Glimpse - Remix",
+      "url": "https://open.spotify.com/track/4SHcNenjJdRUoiISTHv7RN"
     },
     {
       "album": {
@@ -1981,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Arpy",
+        "url": "https://open.spotify.com/album/1kZwLY8FkPysvCFSR7jd9U"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302602,
+      "name": "Arpy",
+      "url": "https://open.spotify.com/track/1wJIV4ZB7XNU3yCYvPyeeW"
+    },
+    {
+      "album": {
         "name": "Arroyo",
         "url": "https://open.spotify.com/album/7nKNV3AGdqI7eLwv71FQrB"
       },
@@ -2550,6 +2598,24 @@
       "duration_ms": 292466,
       "name": "Basic Emotion",
       "url": "https://open.spotify.com/track/7ap94GD02s1oJqfmdXHd0N"
+    },
+    {
+      "album": {
+        "name": "Bb-Arp",
+        "url": "https://open.spotify.com/album/75YrXMcSLew1J2cmKhntlt"
+      },
+      "artists": [
+        {
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243352,
+      "name": "Bb-Arp",
+      "url": "https://open.spotify.com/track/4AmOG6OhTjokkGtOZqV5YS"
     },
     {
       "album": {
@@ -4951,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247324,
+      "name": "Dance Of The Ghosts",
+      "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4Kx4oRfwzoiAeTeUF3XR5K"
       },
@@ -5082,6 +5170,24 @@
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
+    },
+    {
+      "album": {
+        "name": "Dawn Birds",
+        "url": "https://open.spotify.com/album/4WuREe2T9AyU6NdVm2cqd0"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166272,
+      "name": "Dawn Birds",
+      "url": "https://open.spotify.com/track/4lTdrXBSG7Si26QIhYzLrZ"
     },
     {
       "album": {
@@ -6872,7 +6978,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 260000,
       "name": "Even The Horizon Knows Its Bounds - excerpt II",
       "url": "https://open.spotify.com/track/7cVVoWzXKzsSkV6NShFJBt"
@@ -7624,6 +7730,32 @@
       "duration_ms": 166305,
       "name": "Florin Court",
       "url": "https://open.spotify.com/track/2fFBBzajGuHXzir81TIMyN"
+    },
+    {
+      "album": {
+        "name": "Flow (Rework)",
+        "url": "https://open.spotify.com/album/2HmnEoUWj2x7WFnXQcVcEC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        },
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Flow - Rework",
+      "url": "https://open.spotify.com/track/5FtfhKNxJGL16nWv88ut5l"
     },
     {
       "album": {
@@ -8414,7 +8546,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 467252,
       "name": "Going Home - IRCAM Version",
       "url": "https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl"
@@ -9029,6 +9161,24 @@
     },
     {
       "album": {
+        "name": "Shards",
+        "url": "https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288216,
+      "name": "Heaven Will Come",
+      "url": "https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw"
+    },
+    {
+      "album": {
         "name": "M\u00f6rkrets Narr",
         "url": "https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9"
       },
@@ -9612,6 +9762,28 @@
       "duration_ms": 292000,
       "name": "If you love solitude, you don\u2019t love freedom",
       "url": "https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV"
+    },
+    {
+      "album": {
+        "name": "Each Dream, A Melting Door",
+        "url": "https://open.spotify.com/album/6zA83xbA8CWCb0eLk266i5"
+      },
+      "artists": [
+        {
+          "name": "Rafiq Bhatia",
+          "url": "https://open.spotify.com/artist/29uBPqNiTiQxmLadKstqWP"
+        },
+        {
+          "name": "Chris Pattishall",
+          "url": "https://open.spotify.com/artist/55jx8zk6z45LjmY9odO2LX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287235,
+      "name": "Ijen",
+      "url": "https://open.spotify.com/track/2yE8bvmPPhHxwlOcvDHIsQ"
     },
     {
       "album": {
@@ -10602,6 +10774,24 @@
       "duration_ms": 338000,
       "name": "La Brume",
       "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
+    },
+    {
+      "album": {
+        "name": "La Hormiga",
+        "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133751,
+      "name": "La Hormiga",
+      "url": "https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM"
     },
     {
       "album": {
@@ -11766,7 +11956,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 657749,
       "name": "Magic - Mind Games Meditation Mix",
       "url": "https://open.spotify.com/track/7604BoTHXhdcyFknJz16Ci"
@@ -12766,7 +12956,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 331916,
       "name": "Multifolds",
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
@@ -13334,7 +13524,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 503313,
       "name": "Night Horns (edit)",
       "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
@@ -14020,7 +14210,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 407656,
       "name": "ONE WORLD",
       "url": "https://open.spotify.com/track/7HFJpnjKUS7LGl8NiyfUE3"
@@ -14064,6 +14254,24 @@
       "duration_ms": 300000,
       "name": "Only Us",
       "url": "https://open.spotify.com/track/3RAPk591P7FhcehZSMpico"
+    },
+    {
+      "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344490,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
     },
     {
       "album": {
@@ -14629,6 +14837,24 @@
     },
     {
       "album": {
+        "name": "Preston Island Soundwalk",
+        "url": "https://open.spotify.com/album/5jm6eZaOpCpYQ5bdBMyaOD"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Part 1, W. 5th Beach Access",
+      "url": "https://open.spotify.com/track/5sIpXj2Ijto10lIiHT7cok"
+    },
+    {
+      "album": {
         "name": "Posle Vsego",
         "url": "https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5"
       },
@@ -14662,7 +14888,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 283302,
       "name": "part i - altar",
       "url": "https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8"
@@ -16372,7 +16598,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 401911,
       "name": "Rhubarb Orc. 19.53 Rev",
       "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
@@ -19326,7 +19552,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
@@ -20074,7 +20300,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 480880,
       "name": "The Third Mind: First Movement",
       "url": "https://open.spotify.com/track/7cJrSGtHSkOKGuRL2Vx3XZ"
@@ -22460,7 +22686,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 343387,
       "name": "West Coast Sky Forever",
       "url": "https://open.spotify.com/track/4V3gIhT4zqKCXHVkAeuUj1"
@@ -22558,6 +22784,24 @@
       "duration_ms": 334949,
       "name": "What a day I",
       "url": "https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim"
+    },
+    {
+      "album": {
+        "name": "what if this is the real nightmare",
+        "url": "https://open.spotify.com/album/18zlcyc2Ks1RrRjO6DzCgH"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167847,
+      "name": "what if this is the real nightmare",
+      "url": "https://open.spotify.com/track/04TytKkLCqwM4VuojaOnmW"
     },
     {
       "album": {

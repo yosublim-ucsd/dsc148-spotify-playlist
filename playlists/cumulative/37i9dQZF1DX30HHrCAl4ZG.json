@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Bartees Strange",
+  "description": "Explore all things indie rock right now. Featuring music from Sam Fender",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 202475,
       "name": "A Stone Only Rolls Downhill",
       "url": "https://open.spotify.com/track/3yWzAjSDqXPeMSWVTW3F4V"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "Backup Plan - This Is Lorelei Version",
+        "url": "https://open.spotify.com/album/0NaOZWQteRtHsJ8YmLUWLJ"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        },
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189347,
+      "name": "Backup Plan - This Is Lorelei Version",
+      "url": "https://open.spotify.com/track/7gaa0sZv2XpmYcS3WQZFYn"
+    },
+    {
+      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf"
       },
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 196608,
       "name": "BAD DREAM",
       "url": "https://open.spotify.com/track/4MtX9BNNoXfeRxacZPSeUT"
@@ -6055,6 +6077,24 @@
     },
     {
       "album": {
+        "name": "Coffin Change",
+        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185361,
+      "name": "Coffin Change",
+      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
+    },
+    {
+      "album": {
         "name": "Coinstar",
         "url": "https://open.spotify.com/album/5ORhiFwRmcZHR29pmfsmMr"
       },
@@ -8362,7 +8402,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182128,
       "name": "Don't Want To Dance",
       "url": "https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI"
@@ -12135,6 +12175,24 @@
     },
     {
       "album": {
+        "name": "Gumshoe (Dracula From Arkansas)",
+        "url": "https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246793,
+      "name": "Gumshoe (Dracula From Arkansas)",
+      "url": "https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi"
+    },
+    {
+      "album": {
         "name": "cupids out tonight",
         "url": "https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3"
       },
@@ -13772,7 +13830,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 176749,
       "name": "I Got Exactly What I Wanted",
       "url": "https://open.spotify.com/track/09FLigvepMuPrheurqSp2G"
@@ -15401,6 +15459,24 @@
     },
     {
       "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
+    },
+    {
+      "album": {
         "name": "Santolina",
         "url": "https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz"
       },
@@ -15542,6 +15618,24 @@
       "duration_ms": 166690,
       "name": "I\u2019d Like You To Leave",
       "url": "https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO"
+    },
+    {
+      "album": {
+        "name": "The Machine Starts To Sing",
+        "url": "https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "I\u2019ve Got A Feeling (Stay Lucky)",
+      "url": "https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm"
     },
     {
       "album": {
@@ -16981,6 +17075,24 @@
     },
     {
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "album": {
         "name": "Demon Compass",
         "url": "https://open.spotify.com/album/61jBwWqfPNkDDHUtgKHRax"
       },
@@ -17508,7 +17620,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 231506,
       "name": "Lotus Eater",
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
@@ -19243,6 +19355,24 @@
     },
     {
       "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
+    },
+    {
+      "album": {
         "name": "More Than It Hurts You",
         "url": "https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS"
       },
@@ -20304,6 +20434,28 @@
       "duration_ms": 191786,
       "name": "No Caffeine",
       "url": "https://open.spotify.com/track/61BkoclT5UeJSLf4x3Z06V"
+    },
+    {
+      "album": {
+        "name": "No Front Teeth",
+        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286480,
+      "name": "No Front Teeth",
+      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
     },
     {
       "album": {
@@ -23001,6 +23153,24 @@
     },
     {
       "album": {
+        "name": "Real Good Swimmer",
+        "url": "https://open.spotify.com/album/5pnOGPKxLLHFdwXduv24V0"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142893,
+      "name": "Real Good Swimmer",
+      "url": "https://open.spotify.com/track/1HmyIhCGcpRZX8KiBhNOwJ"
+    },
+    {
+      "album": {
         "name": "One Night / Real I\u2019m Told",
         "url": "https://open.spotify.com/album/7377ZR37x8x2qLVk5iHGcE"
       },
@@ -23322,6 +23492,24 @@
       "duration_ms": 181176,
       "name": "Right Ones (Cecily Takes an Awkward View)",
       "url": "https://open.spotify.com/track/3SOBxGdnsGLRtFSAg5kbYa"
+    },
+    {
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/49IpmVlrsOt5Pw0whYZKhI"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225456,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2qeRnFb42RVzv2NP6s8vG9"
     },
     {
       "album": {
@@ -24230,7 +24418,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 130043,
       "name": "Seth Cohen",
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
@@ -24342,7 +24530,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
@@ -26080,7 +26268,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 209851,
       "name": "Speed Freak",
       "url": "https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U"
@@ -27102,7 +27290,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 170383,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
@@ -29751,6 +29939,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb"
+    },
+    {
+      "album": {
         "name": "Turn It On",
         "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
       },
@@ -29881,6 +30087,24 @@
     },
     {
       "album": {
+        "name": "Two Times",
+        "url": "https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Two Times",
+      "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
+    },
+    {
+      "album": {
         "name": "u come near",
         "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
       },
@@ -29968,7 +30192,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 230136,
       "name": "Under Fire",
       "url": "https://open.spotify.com/track/1cGPRJjVxwXEPsBCQIo9rO"
@@ -30688,7 +30912,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 298846,
       "name": "Wants Needs",
       "url": "https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W"

@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: ONEFOUR, Mabel
 
-1,080 songs - 2 day 2 hr 8 min
+1,081 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/album/5JOL0dZtr7PTxQx4G1oNRA) | 1:56 | 2024-04-19 | 2024-08-09 |
 | [Shoodaz](https://open.spotify.com/track/0WOZWB20pRxCBjJ4k8r241) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/7M5fm7vaTmgmT2PEz5y7xV) | 2:32 | 2022-07-07 | 2022-07-29 |
 | [Shoodaz](https://open.spotify.com/track/5KbXgp0TIX4awIBgGl8dck) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/4P9FwLWlg8XuNgm2jmJadM) | 2:32 | 2022-07-28 | 2022-08-05 |
+| [Shots](https://open.spotify.com/track/2B0btQnb405HhHfx0YiGdx) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Slevpy808](https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf) | [Shots](https://open.spotify.com/album/5QUUpOCgQL8keB4BHyDpCu) | 2:20 | 2025-02-20 |  |
 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 | 2022-12-08 | 2023-06-23 |
 | [Sick](https://open.spotify.com/track/7LnGqbsLdHKV49tSOLiQ9z) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Sick](https://open.spotify.com/album/12f0SxhgxdzXVZSGxwoX0a) | 2:06 | 2023-07-27 | 2023-11-17 |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 | 2023-10-27 |

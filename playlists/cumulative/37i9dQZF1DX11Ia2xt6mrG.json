@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. RAYBEN en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Alex Favela en portada.",
   "name": "EDM\u00e9xico",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 148275,
       "name": "123 corre!!",
       "url": "https://open.spotify.com/track/0b6GR6IPooQ1qZ2R9p6hki"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161000,
       "name": "antes q t\u00fa",
       "url": "https://open.spotify.com/track/0Yj9vPK1JIt0w2lr9T6HTD"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
@@ -2338,6 +2338,24 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "album": {
+        "name": "F1",
+        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+      },
+      "artists": [
+        {
+          "name": "VICKILICIOUS",
+          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120816,
+      "name": "F1",
+      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
     },
     {
       "album": {
@@ -3425,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "LA MALA VIDA",
+        "url": "https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw"
+      },
+      "artists": [
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        },
+        {
+          "name": "Diego Lopez",
+          "url": "https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186902,
+      "name": "LA MALA VIDA",
+      "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
+    },
+    {
+      "album": {
         "name": "Lo Que Me Haces Sentir",
         "url": "https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg"
       },
@@ -3781,6 +3821,28 @@
     },
     {
       "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "album": {
         "name": "BASADO EN HECHOS REALES (REMIXES)",
         "url": "https://open.spotify.com/album/0dD3iVh7t1gjuO1sQIZ43e"
       },
@@ -4054,7 +4116,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
@@ -5403,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Que se Joda",
+        "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
+      },
+      "artists": [
+        {
+          "name": "Ferjo",
+          "url": "https://open.spotify.com/artist/4SQ2RvEWzhWelGM4GOtwGU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149186,
+      "name": "Que se Joda",
+      "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
+    },
+    {
+      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -5536,7 +5616,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174500,
       "name": "R-15",
       "url": "https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B"
@@ -5972,6 +6052,24 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "album": {
+        "name": "Se Ve Que Va",
+        "url": "https://open.spotify.com/album/69IulybkhBjSI6cFfyKOj6"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171149,
+      "name": "Se Ve Que Va",
+      "url": "https://open.spotify.com/track/1l95Tjt9jVVPh9O8qpyvmy"
     },
     {
       "album": {
@@ -7068,7 +7166,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 141750,
       "name": "Tiene Espinas El Rosal - Original Mix",
       "url": "https://open.spotify.com/track/3zHXOedEGQGXYgZNzhZTus"
@@ -7384,6 +7482,28 @@
       "duration_ms": 142372,
       "name": "UP (Bzars Remix)",
       "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
+    },
+    {
+      "album": {
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "album": {

@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
@@ -7053,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "RIGIO (fall 4 u)",
+        "url": "https://open.spotify.com/album/31iHGzTpg9XlyaL7jZi3Uq"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178958,
+      "name": "RIGIO (fall 4 u)",
+      "url": "https://open.spotify.com/track/1IFZwCYqLH5tGfp0V9YP4L"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -7560,7 +7578,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 190270,
       "name": "she want prada",
       "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
@@ -8992,6 +9010,24 @@
       "duration_ms": 299132,
       "name": "Uzobuya",
       "url": "https://open.spotify.com/track/6JhX021sFZd6Ta29ebwjF2"
+    },
+    {
+      "album": {
+        "name": "VALENTINE",
+        "url": "https://open.spotify.com/album/7eFtQJ9kKAA1z27Tc0DYzg"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/0L7SOBsLC4jZ9X4bTs6XnL"
     },
     {
       "album": {

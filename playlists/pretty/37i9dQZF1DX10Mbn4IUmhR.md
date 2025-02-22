@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=s3EbAD8fTRy6QTyZyzSXmA">Tate McRae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,658 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

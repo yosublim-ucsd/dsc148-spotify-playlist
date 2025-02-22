@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 224169,
+  "num_followers": 224226,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Voices Carry (Expanded Edition)",
         "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
     },
     {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Living in Another World - 1997 Remaster",
-      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
-    },
-    {
       "added_at": "2024-04-16 00:45:21",
       "album": {
         "name": "The Pink Opaque",
@@ -955,6 +939,22 @@
       "duration_ms": 250800,
       "name": "Pearly-Dewdrops' Drops - 7\" Version",
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 418173,
+      "name": "Living in Another World - 1997 Remaster",
+      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
     },
     {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Sugar Hiccup",
+      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
+    },
+    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
@@ -1109,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5"
     },
     {
-      "added_at": "2024-04-16 00:45:21",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Sugar Hiccup",
-      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
-    },
-    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "90125 (Deluxe Version)",
@@ -1155,6 +1155,22 @@
       "duration_ms": 340800,
       "name": "Butterfly On A Wheel",
       "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
+    },
+    {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "Garlands",
+        "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Wax And Wane",
+      "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1211,22 +1227,6 @@
       "duration_ms": 292080,
       "name": "Twist in My Sobriety",
       "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Symphonicities",
-        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/6AyMKzLmlnAfsti79lLwth"
     }
   ],
   "unique_name": "Oscuros 80",

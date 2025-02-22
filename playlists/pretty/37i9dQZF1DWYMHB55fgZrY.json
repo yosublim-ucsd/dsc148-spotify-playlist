@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 555392,
+  "num_followers": 555488,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Ultrasonicas",
+        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
+      },
+      "artists": [
+        {
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Que Grosero",
+      "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Un Tributo",
-        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Ultrasonicas",
-        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
       },
       "artists": [
         {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Que Grosero",
-      "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
+      "duration_ms": 230026,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Brujeria",
-        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Ya Tus Amigos",
-      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Pa\u00b4Morirse De Amor",
         "url": "https://open.spotify.com/album/5Xgpjw5Gciq9armO3ov2ua"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 253866,
-      "name": "Si Senor",
-      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
+      "duration_ms": 194426,
+      "name": "Ya Tus Amigos",
+      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1155,6 +1139,22 @@
       "duration_ms": 219000,
       "name": "Afroman",
       "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Lupitolog\u00eda",
-        "url": "https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL"
+        "name": "Pop...\u00a1Por La Cara!",
+        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
       },
       "artists": [
         {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 236506,
-      "name": "Gavil\u00e1n o Paloma - Resmasterizado",
-      "url": "https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI"
+      "duration_ms": 244292,
+      "name": "Pervert Pop Song",
+      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1251,6 +1251,22 @@
       "duration_ms": 262066,
       "name": "Ojos Claros, Labios Rosas",
       "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Lupitolog\u00eda",
+        "url": "https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL"
+      },
+      "artists": [
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Gavil\u00e1n o Paloma - Resmasterizado",
+      "url": "https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1299,22 +1315,6 @@
       "duration_ms": 218866,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Pop...\u00a1Por La Cara!",
-        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244292,
-      "name": "Pervert Pop Song",
-      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
       "artists": [
         {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Me Quieres Cotorrear",
-      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
+      "duration_ms": 179973,
+      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
+      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
         }
       ],
-      "duration_ms": 179973,
-      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
-      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+      "duration_ms": 197040,
+      "name": "Me Quieres Cotorrear",
+      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
     },
     {
       "added_at": "2024-12-16 22:58:03",

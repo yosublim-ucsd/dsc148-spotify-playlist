@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 38994,
+  "num_followers": 39000,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAAD1tOlmhfF2TerrbHLud5Tv",
+  "snapshot_id": "Z7ZwgAAAAAAlxhSKr6Sw6tsphwMpPnHA",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Quit Trying",
-      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
+      "duration_ms": 168320,
+      "name": "Lightbringer",
+      "url": "https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 168320,
-      "name": "Lightbringer",
-      "url": "https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq"
+      "duration_ms": 195733,
+      "name": "Quit Trying",
+      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory Style, Vol. 5",
-        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "The Ballad Of Sal Villanueva",
-      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
     },
     {
       "added_at": null,

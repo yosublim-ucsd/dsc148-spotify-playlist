@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7535,
+  "num_followers": 7537,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7PNgAAAAAARkTeHWWeCELKqoYKb6zYX",
+  "snapshot_id": "Z7ZwgAAAAABE+1QlrEZXoSi9rc6H+22u",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Talism\u00e1n",
-        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
       },
       "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
     },
     {
       "added_at": null,
@@ -236,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 181533,
+      "name": "Me Ca\u00edste Del Cielo",
+      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Clasicas De Leyenda",
-        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
+        "name": "Mi Talism\u00e1n",
+        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
       },
       "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
+      "duration_ms": 196000,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Me Ca\u00edste Del Cielo",
-      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 145417,
+      "name": "Deseo de los Dos",
+      "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
         "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 162600,
       "name": "Una L\u00e1grima y un Recuerdo",
       "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 145417,
-      "name": "Deseo de los Dos",
-      "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Llorar por Amor",
-        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Llorar por Amor",
-      "url": "https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21 Hits, Vol. 2",
         "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 164906,
       "name": "Que Bonita Chaparrita",
       "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Llorar por Amor",
+      "url": "https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR"
     },
     {
       "added_at": null,

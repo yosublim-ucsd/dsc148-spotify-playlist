@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-240 songs - 20 hr 52 min
+241 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 | 2022-11-04 |  |
 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-06-02 |  |
 | [Eu Permiti](https://open.spotify.com/track/7gL4rQkDCuPk6rMfuwZk5I) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Eu Permiti](https://open.spotify.com/album/0QvBUoyHDslRTN4rLA0pvN) | 5:16 | 2022-09-09 | 2022-10-15 |
-| [Eu Permiti o Vento](https://open.spotify.com/track/6oJc0Rbi2CosPI7uklUoV4) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Permiti o Vento](https://open.spotify.com/album/6XaDKEzmAipRBCbXyCGEzn) | 6:13 | 2022-09-09 |  |
+| [Eu Permiti o Vento](https://open.spotify.com/track/6oJc0Rbi2CosPI7uklUoV4) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Permiti o Vento](https://open.spotify.com/album/6XaDKEzmAipRBCbXyCGEzn) | 6:13 | 2022-09-09 | 2025-02-22 |
 | [Eu Prefiro Adorar \- Ao Vivo](https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Eu Prefiro Adorar \(Ao Vivo\)](https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA) | 14:20 | 2024-11-29 |  |
 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 | 2023-09-15 |  |
 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 | 2022-09-09 |  |
@@ -114,6 +114,7 @@
 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 | 2022-09-09 | 2024-08-24 |
 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 | 2022-09-09 | 2023-10-07 |
 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/45cx88GPBhNOCBILzmaqlG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/2PNKFZgtc4rveEuXYYMIDj) | 4:56 | 2023-10-06 | 2023-11-04 |
+| [Improvável \- Acústico](https://open.spotify.com/track/4Cl4SYJFpHYLN3pByHskVo) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Improvável](https://open.spotify.com/album/4PdlxBC3NjyjF7pCqKody9) | 4:00 | 2025-02-21 |  |
 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Infinitamente Mais \(Ao Vivo\)](https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv) | 6:15 | 2024-08-09 |  |
 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 | 2023-02-25 | 2023-06-24 |
 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 | 2022-09-09 | 2023-02-25 |

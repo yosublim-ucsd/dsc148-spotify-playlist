@@ -2147,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Daisy Dreamer",
+        "url": "https://open.spotify.com/album/349EqooNYtqovNOZrgooPI"
+      },
+      "artists": [
+        {
+          "name": "Ellis Harlow",
+          "url": "https://open.spotify.com/artist/3VlWaeB4C2rs53K30272vX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126157,
+      "name": "Daisy Dreamer",
+      "url": "https://open.spotify.com/track/0MG263rnL0vcfbqdEnvigD"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/2f2hHL1MCcaQLz82Iem4gJ"
       },
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 91000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai"
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 77874,
       "name": "I Had a Little Nut Tree",
       "url": "https://open.spotify.com/track/0g71PuknW0AdHYrTHOpVsq"
@@ -6536,7 +6554,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 86124,
       "name": "Mirando por la ventana",
       "url": "https://open.spotify.com/track/4ofvOcmNYbkZcprr2WrPtQ"
@@ -6648,6 +6666,24 @@
       "duration_ms": 96636,
       "name": "Mommy Turn the Daylight On",
       "url": "https://open.spotify.com/track/4BnTacOCGVq0PLgiIR4O2C"
+    },
+    {
+      "album": {
+        "name": "Moon and Giggles",
+        "url": "https://open.spotify.com/album/0eWaDrudysz0eztluJnOxP"
+      },
+      "artists": [
+        {
+          "name": "Elov Trus",
+          "url": "https://open.spotify.com/artist/3C9En1lNXIal0tCZVbKxtv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124671,
+      "name": "Moon and Giggles",
+      "url": "https://open.spotify.com/track/5tYISO16tk1oYB8VeqvtBF"
     },
     {
       "album": {
@@ -7022,7 +7058,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 90260,
       "name": "My Favorite Pyjamas",
       "url": "https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp"
@@ -8268,6 +8304,24 @@
       "duration_ms": 89612,
       "name": "Poppy Puppy",
       "url": "https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1"
+    },
+    {
+      "album": {
+        "name": "Praise for the Fountain Opened",
+        "url": "https://open.spotify.com/album/4eiiIzz1fJp4HimwYR3RXw"
+      },
+      "artists": [
+        {
+          "name": "Richard Moore",
+          "url": "https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157312,
+      "name": "Praise for the Fountain Opened",
+      "url": "https://open.spotify.com/track/5VLlNIpwF9OPzjwtwL1MQQ"
     },
     {
       "album": {

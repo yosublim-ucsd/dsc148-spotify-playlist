@@ -4,7 +4,7 @@
 
 > A new wave of rock music\. Cover: The Pill
 
-481 songs - 1 day 2 hr 21 min
+488 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Boots](https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw) | [Pretty Happy](https://open.spotify.com/artist/55ID3BZCEsvwergEvrvd0I) | [Boots](https://open.spotify.com/album/0KUAvupvxFSmOAttRQ4nY8) | 3:39 | 2023-01-13 | 2023-07-07 |
 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 | 2024-04-12 | 2024-11-09 |
 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 | 2023-05-18 | 2024-02-09 |
+| [Brand New](https://open.spotify.com/track/5Og7LhaGMG7dx2dD9NWG7x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Brand New](https://open.spotify.com/album/0Vu7flrjyVdK8W1nGCkYJV) | 2:51 | 2025-02-21 |  |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 | 2023-11-18 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-06-15 |
 | [Buck](https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Buck](https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13) | 3:59 | 2023-02-10 | 2023-08-25 |
@@ -130,6 +131,7 @@
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-05-31 |  |
 | [Don't Ask Me](https://open.spotify.com/track/3rW6duxzq9w9EofWw09eu9) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Don't Ask Me](https://open.spotify.com/album/6ONbdWpiQNBpEdx2y8vW24) | 3:30 | 2024-08-14 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-09 | 2024-04-13 |
+| [Dreaming](https://open.spotify.com/track/6e79jODLUsPryU2eRbiNL0) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Dreaming](https://open.spotify.com/album/5L3BtUPVVxB7duCuAZDxo7) | 3:17 | 2025-02-21 |  |
 | [Drift](https://open.spotify.com/track/4SzwZsoMxuuVMX2rsd10zr) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [A Brand New Day](https://open.spotify.com/album/31tiaX3nRuGy9GxFb0gDPc) | 3:27 | 2024-11-08 |  |
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2023-11-18 |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-09 | 2024-04-13 |
@@ -154,6 +156,8 @@
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-21 | 2024-01-27 |
 | [Femme Boi](https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Femme Boi](https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9) | 3:01 | 2023-07-28 | 2024-02-09 |
 | [Fever](https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [Fever](https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa) | 3:53 | 2023-01-13 | 2023-07-14 |
+| [Figure It Out](https://open.spotify.com/track/3wf1Y5esLh48E0QOwaPp8j) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Figure It Out](https://open.spotify.com/album/12ZKL2ZNMtNyqwGBDSLony) | 2:51 | 2025-02-21 |  |
+| [floss is boss](https://open.spotify.com/track/0Dvwt8JQdb2XKvBeJixtny) | [really big really clever](https://open.spotify.com/artist/4N9XT7K7Yk6N2Ee9wZrU0T) | [floss is boss](https://open.spotify.com/album/1G0t8A4L6XokzuKmjpFE41) | 3:06 | 2025-02-21 |  |
 | [Fool Out of Me](https://open.spotify.com/track/2SlaOTHJY57D3YPuBOpDgH) | [Queen Bitch](https://open.spotify.com/artist/6s02q1DQMb0of0tBTxgeZj) | [Fool Out of Me](https://open.spotify.com/album/4YPRvjN8ECwi6e0KK3vedu) | 3:03 | 2024-12-06 |  |
 | [For The Weekend](https://open.spotify.com/track/2q7DmMeGKPyEKqR8RvRvu8) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [For The Weekend](https://open.spotify.com/album/3p9w4qM9HmdRiSQ9lEt5fl) | 2:51 | 2024-10-10 |  |
 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 | 2023-01-13 | 2023-06-09 |
@@ -291,6 +295,7 @@
 | [Mere Slaughter](https://open.spotify.com/track/24nEK3eH0VQ6Crlzs3FOY9) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Mere Slaughter](https://open.spotify.com/album/3anxp3HAUWpXwwKcUBOCBX) | 3:04 | 2023-11-18 | 2024-02-09 |
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-10 | 2023-06-09 |
 | [Mirrors](https://open.spotify.com/track/219ayLInTTsroqX1bXL1kS) | [She Drew The Gun](https://open.spotify.com/artist/47meGvCz0CZklN50dgzjmL) | [Mirrors](https://open.spotify.com/album/7Cfhjq1fNYfvm9KT41Wc2d) | 3:23 | 2024-08-14 |  |
+| [Miss Together](https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w) | [Velvetine](https://open.spotify.com/artist/6nGzm3tJwcjoa7LLtjElNa) | [Miss Together](https://open.spotify.com/album/3Z2lMasvQqJx1XjDfTWjtq) | 3:57 | 2025-02-21 |  |
 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 | 2023-10-13 | 2024-02-09 |
 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 | 2023-06-08 | 2023-07-22 |
 | [Modern Heartache](https://open.spotify.com/track/6TLetcb6bwbPLmBI7LPLl5) | [SOAP](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [Modern Heartache](https://open.spotify.com/album/5K9ft5Jgbq3ntOKjBPmnLN) | 3:13 | 2024-04-25 | 2024-05-18 |
@@ -455,6 +460,7 @@
 | [Waiting](https://open.spotify.com/track/2KMefBHwUJBmP9w2XZKnoa) | [FLOWVERS](https://open.spotify.com/artist/3XoX4Dj24vKTKVNRvlFksP) | [Waiting](https://open.spotify.com/album/2avlwtPBYNGSb08LXQrI9S) | 2:53 | 2023-01-13 | 2023-06-09 |
 | [Waiting for Something](https://open.spotify.com/track/4WiTO0yNWAmDM1IFhobDYa) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Waiting for Something](https://open.spotify.com/album/2ntLhXUBkrbVLWDegwUz98) | 4:02 | 2023-08-10 | 2023-11-18 |
 | [Wanna Be A Doll](https://open.spotify.com/track/7ET28C0jaXWkHaBVUXHbt8) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Wanna Be A Doll](https://open.spotify.com/album/5eEewGcL8AGpa7b1daD1FK) | 2:46 | 2024-12-06 | 2025-01-18 |
+| [Watch Don't Learn](https://open.spotify.com/track/39fQfbGwFnmEQh8GykzC7k) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Watch Don't Learn](https://open.spotify.com/album/23pRPvfYb7FLSknPT698Wo) | 3:34 | 2025-02-21 |  |
 | [Waves](https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Waves](https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j) | 3:14 | 2023-11-18 | 2024-04-13 |
 | [Way Out](https://open.spotify.com/track/5i1B4LLrCJmBUCz5oek861) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Way Out](https://open.spotify.com/album/0ZuEJvoBnw8STA9RoGToz7) | 3:22 | 2024-10-10 | 2024-11-09 |
 | [Way, No Way](https://open.spotify.com/track/6cYLLMcgoRzSKPLHRtbk6e) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Way, No Way](https://open.spotify.com/album/272UlvmzxL0Z6If8reDTrs) | 2:39 | 2023-06-08 | 2023-12-21 |
@@ -473,6 +479,7 @@
 | [When We Talk About Love](https://open.spotify.com/track/4uzDkD42frX8k9VqJ6PJLW) | [The Youth Play](https://open.spotify.com/artist/66HAxyy84qo8z9CNDDUpwo) | [Wildflowers](https://open.spotify.com/album/0wZo5aLuik4kaHAL1ZwFBr) | 4:00 | 2023-11-18 | 2024-03-16 |
 | [When You're Gone](https://open.spotify.com/track/1lhC9yec2WzL63yZyDlAtq) | [Rowdy Outsider](https://open.spotify.com/artist/2N7ABBg8Ot93dau1HlgL8u) | [When You're Gone](https://open.spotify.com/album/1QmljcDlFQPRCldqduYBp7) | 2:44 | 2024-05-31 | 2024-12-07 |
 | [Where Did I Go?](https://open.spotify.com/track/1OWftpO1HUTtwcSCE7DqRg) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Where Did I Go?](https://open.spotify.com/album/22Ju9JxHW5fUcxcYTAd0RM) | 2:07 | 2024-08-14 |  |
+| [whisky](https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh) | [DBA!](https://open.spotify.com/artist/63sv2157LiQM4j3aTSkayw) | [whisky](https://open.spotify.com/album/5GDenBH8gcUqvSB36i4Bpj) | 1:50 | 2025-02-21 |  |
 | [white knuckles](https://open.spotify.com/track/5cIGVczqgwq9JKB2MfgyUU) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [white knuckles](https://open.spotify.com/album/7kwRJAcFWvJ6rCSVEPP18d) | 3:41 | 2024-10-10 |  |
 | [White Rabbit](https://open.spotify.com/track/6aFiKAoUBXHmzJrq0CJllK) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [White Rabbit](https://open.spotify.com/album/0SbeIjE8AtDndPYtsva24g) | 3:04 | 2024-06-27 |  |
 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 | 2023-11-18 | 2024-02-09 |

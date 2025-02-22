@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: BLOND:ISH",
+  "description": "The best of today's dance hits. Cover: Mochakk",
   "name": "mint Canada",
   "tracks": [
     {
@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188800,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/20M8mlTMntyirnjCmJCp0M"
@@ -3778,6 +3778,28 @@
       "duration_ms": 186390,
       "name": "Burning (feat. Camden Cox)",
       "url": "https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q"
+    },
+    {
+      "album": {
+        "name": "Butterflies (with Green Velvet)",
+        "url": "https://open.spotify.com/album/2fJmzODMorOEHxq23FFtfV"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Butterflies (with Green Velvet)",
+      "url": "https://open.spotify.com/track/0FzltX5P5EcptwLZh85UO1"
     },
     {
       "album": {
@@ -6671,6 +6693,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Seen With Me",
+        "url": "https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265061,
+      "name": "Don't Be Seen With Me",
+      "url": "https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3"
+    },
+    {
+      "album": {
         "name": "Don't Forget My Love",
         "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
       },
@@ -8306,7 +8346,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 217074,
       "name": "F.U.",
       "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
@@ -10085,6 +10125,28 @@
     },
     {
       "album": {
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+    },
+    {
+      "album": {
         "name": "Front To Back (feat. DLMT)",
         "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
@@ -10342,6 +10404,32 @@
       "duration_ms": 231750,
       "name": "Getting Late (feat. Danni Carra)",
       "url": "https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb"
+    },
+    {
+      "album": {
+        "name": "gImmE gImmE",
+        "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197842,
+      "name": "gImmE gImmE",
+      "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
       "album": {
@@ -16982,7 +17070,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 156184,
       "name": "llamando",
       "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
@@ -20238,7 +20326,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
@@ -20356,7 +20444,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 156923,
       "name": "No Brake$ (feat. Roshin)",
       "url": "https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t"
@@ -22048,7 +22136,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 194327,
       "name": "Overdose Of Bass",
       "url": "https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5"
@@ -22969,6 +23057,24 @@
     },
     {
       "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191379,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3"
+    },
+    {
+      "album": {
         "name": "Potential (Lolo Zoua\u00ef Remix)",
         "url": "https://open.spotify.com/album/6R1g40C2TPZnNx1JyuTBnM"
       },
@@ -23198,7 +23304,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179142,
       "name": "PROXIMATE",
       "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
@@ -23518,6 +23624,28 @@
       "duration_ms": 177631,
       "name": "Rave Generator",
       "url": "https://open.spotify.com/track/3dOPEPRxfKiR3mHlh0nkKA"
+    },
+    {
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "album": {
@@ -28858,6 +28986,24 @@
       "duration_ms": 180750,
       "name": "Tell Them",
       "url": "https://open.spotify.com/track/75vQWFvuU8jCyQiU5dyj8t"
+    },
+    {
+      "album": {
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "album": {

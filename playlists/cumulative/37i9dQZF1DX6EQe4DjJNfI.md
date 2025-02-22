@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-263 songs - 13 hr 33 min
+264 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 | 2024-12-07 |
 | [Fora do Normal](https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB) | [DeLua](https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq), [Tory](https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy) | [Fora do Normal](https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT) | 2:53 | 2023-11-10 | 2023-12-05 |
 | [Forasteiro](https://open.spotify.com/track/2y3cSgjC0OJm18XCTAYL64) | [Matheus Telles](https://open.spotify.com/artist/3N6sxbTtkfFYeTHr8RO2qS) | [Forasteiro](https://open.spotify.com/album/4zOhy2vPHpmepLnLm8uTCA) | 2:58 | 2023-08-11 | 2023-09-02 |
-| [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 |  |
+| [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 | 2025-02-22 |
 | [Fuder e Dormir Juntin](https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN) | [Fuder e Dormir Juntin](https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA) | 3:00 | 2023-03-17 | 2023-09-02 |
 | [Future](https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Karmo](https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI) | [Under 2](https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy) | 1:57 | 2024-11-29 |  |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 | 2023-03-25 |
@@ -136,6 +136,7 @@
 | [Me Diz](https://open.spotify.com/track/5pWI8jyJ0eaQ1EuShX6eOo) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Diz](https://open.spotify.com/album/1BnN8Y7gxuohSEaanKASYt) | 2:56 | 2023-05-19 | 2023-06-24 |
 | [Me Leva](https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Me Leva](https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q) | 3:33 | 2024-02-02 | 2024-08-31 |
 | [Me liga](https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Me Liga](https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT) | 2:43 | 2023-04-07 | 2023-07-22 |
+| [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 | 2025-02-21 |  |
 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 | 2022-11-18 | 2023-04-09 |
 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-11-18 | 2023-07-08 |
 | [MENTIROSO](https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [MENTIROSO](https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV) | 2:47 | 2022-11-18 | 2024-11-23 |

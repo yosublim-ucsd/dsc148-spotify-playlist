@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Ara Johari
 
-255 songs - 14 hr 25 min
+256 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-24 | 2024-08-15 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-26 | 2024-10-24 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-29 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-26 | 2024-07-25 |
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-10 | 2024-08-22 |
@@ -117,7 +118,7 @@
 | [Jadi Ajar Aku](https://open.spotify.com/track/3dtWMtpvrQdZXpl5myGMWh) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [IMAJI AINA ABDUL DELUXE EDITION](https://open.spotify.com/album/4FtBCMuW3rChwxIphRuadt) | 4:56 | 2024-10-30 | 2024-11-28 |
 | [Jangan Biar](https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN), [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [Jangan Biar](https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz) | 4:18 | 2024-07-11 | 2024-08-01 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-26 | 2025-02-06 |
-| [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-01-29 |  |
+| [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-01-29 | 2025-02-22 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2024-06-26 | 2024-10-17 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-29 | 2024-09-26 |
 | [Kata](https://open.spotify.com/track/0r4bvid2oluEvinUncHv8P) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kata](https://open.spotify.com/album/4T7pIPC4AX0wEN78e8SpEQ) | 3:29 | 2025-01-29 | 2025-02-13 |

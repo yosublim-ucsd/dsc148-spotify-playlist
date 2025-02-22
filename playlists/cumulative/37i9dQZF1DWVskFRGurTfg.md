@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Jombriel, Ryan Castro, Alex Krack.
 
-1,018 songs - 2 day 7 hr 52 min
+1,019 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-30 | 2023-10-28 |
 | [POLOS OPUESTOS REMIX \- BLESSD VERSION](https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [POLOS OPUESTOS REMIX \(BLESSD VERSION\)](https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN) | 3:36 | 2025-02-18 |  |
 | [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-14 | 2024-08-31 |
+| [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 | 2025-02-21 |  |
 | [Por Ti](https://open.spotify.com/track/3ZuFInBcAYRuRzoresTxCW) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Por Ti](https://open.spotify.com/album/5BcsMa1EAEa2FOEHaMyRf2) | 3:03 | 2021-12-17 | 2022-02-05 |
 | [Por Ti](https://open.spotify.com/track/38aDYQkkB3DzbF2Rl8lugB) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp) | [Colapso](https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX) | 3:49 | 2022-09-28 | 2022-10-05 |
 | [Porte](https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW) | 2:36 | 2023-04-20 | 2023-06-10 |
@@ -951,7 +952,7 @@
 | [Ultra Complicado](https://open.spotify.com/track/1AQEsS3qcGze9lnFy3EDVn) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Libertinaje](https://open.spotify.com/album/1EZrakgyIe1FqpiSmdHrTB) | 2:56 | 2024-12-06 | 2025-02-19 |
 | [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 | 2025-02-18 |  |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-03-11 | 2023-02-25 |
-| [UN DESEO](https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:38 | 2024-02-15 |  |
+| [UN DESEO](https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:38 | 2024-02-15 | 2025-02-22 |
 | [Un Finde \- Remix](https://open.spotify.com/track/0MeslraQUHKIcAhnO050Z1) | [ELITE Djs](https://open.spotify.com/artist/57AsV0UOBiSePiQNMadLPh) | [Un Finde \(Remix\)](https://open.spotify.com/album/6fNV4XXBDHLrLvwyhJdd1a) | 2:17 | 2023-12-14 | 2024-01-13 |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 | 2022-09-10 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-10-06 | 2024-05-23 |

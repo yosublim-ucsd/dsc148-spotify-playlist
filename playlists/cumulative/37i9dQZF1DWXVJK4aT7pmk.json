@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover - Sidhu Moose Wala",
+  "description": "Catch the hottest Punjabi tracks. Cover - Arjan Dhillon",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 207838,
       "name": "Aam Jahe Munde",
       "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Ok Hoye Paye Haan",
+        "url": "https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129606,
+      "name": "Ok Hoye Paye Haan",
+      "url": "https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX"
+    },
+    {
+      "album": {
         "name": "Old Money",
         "url": "https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp"
       },
@@ -2277,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq"
+    },
+    {
+      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -2486,6 +2526,24 @@
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "album": {
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5"
     },
     {
       "album": {
@@ -2860,7 +2918,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"

@@ -1,12 +1,12 @@
 {
   "description": "Home is where the Hustle is. Listen to the music from Mo, now streaming on Netflix. ",
-  "num_followers": 8750,
+  "num_followers": 8788,
   "original_name": "MO Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5qbgQAAAADeQIaWSVLytQx+46HmaNho",
+  "snapshot_id": "Z5qbgQAAAABWyyvW60R6zP020lxdY5w8",
   "tracks": [
     {
       "added_at": "2025-01-29 21:20:01",
@@ -688,12 +688,12 @@
           "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
         },
         {
-          "name": "Fat Pat",
-          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
-        },
-        {
           "name": "DJ DMD",
           "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
         }
       ],
       "duration_ms": 287813,

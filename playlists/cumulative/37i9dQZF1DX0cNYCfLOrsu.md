@@ -2,9 +2,9 @@
 
 ### [Dancehall Queen](https://open.spotify.com/playlist/37i9dQZF1DX0cNYCfLOrsu)
 
-> The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
+> The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-202 songs - 10 hr 22 min
+203 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1Skillibeng](https://open.spotify.com/track/4q90DrWjw2roovdi4q1tj1) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 2:44 | 2022-08-18 | 2022-10-26 |
 | [50 Bag](https://open.spotify.com/track/0PskmWMf89REo5ndk01GL8) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/6pMXwommM2k8pL6vXqiD2B) | 3:04 | 2023-05-15 | 2024-04-19 |
 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 | 2023-05-15 | 2023-11-21 |
-| [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 | 2021-10-24 | 2024-09-23 |
+| [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 | 2021-10-24 |  |
 | [Always](https://open.spotify.com/track/0NDuu5F9yTpA0tw3gzrzOo) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/6Y3GwclvGrERqgTZ3EEXm9) | 3:14 | 2021-10-24 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 | 2022-06-20 | 2024-04-19 |
 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 | 2021-10-24 |  |
@@ -70,7 +70,7 @@
 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 | 2022-06-20 | 2024-04-19 |
 | [Execution](https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Execution](https://open.spotify.com/album/5KiowkyG0rLXDJgoR9ZEDD) | 2:55 | 2021-10-24 | 2025-01-05 |
 | [Face & Figga](https://open.spotify.com/track/2bWnWaD1QC8hC26IdWmxdl) | [Gabriellah](https://open.spotify.com/artist/4Drs7mnIEcJxU6MRFM6MxA) | [Face & Figga](https://open.spotify.com/album/7cLgws7KtyALMHXf6DP0GJ) | 2:37 | 2021-10-24 | 2024-12-02 |
-| [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 | 2023-05-15 |  |
+| [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 | 2023-05-15 | 2025-02-22 |
 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 | 2022-08-18 | 2023-05-16 |
 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 | 2023-05-15 | 2024-04-19 |
 | [Fever](https://open.spotify.com/track/4C1Smq2t3MVOPzsUPWW0oX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/5uFk69AGNnLeCyYvnCOmS2) | 3:24 | 2021-10-24 | 2022-08-19 |
@@ -145,6 +145,7 @@
 | [Proper Paper](https://open.spotify.com/track/4py6tQGaMCXcepJSWw1oBV) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Proper Paper](https://open.spotify.com/album/1or2Ipcprc2k8s9hikqryA) | 3:53 | 2021-10-24 | 2022-07-28 |
 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 | 2021-10-24 | 2022-07-22 |
 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 | 2022-06-20 | 2024-04-19 |
+| [Puni Police](https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Puni Police](https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09) | 2:44 | 2025-02-21 |  |
 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 | 2021-10-24 |  |
 | [Rapture](https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:01 | 2021-10-24 | 2024-04-21 |
 | [Rapture](https://open.spotify.com/track/6tz8hU4xMhnvC7duzGjCSX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture](https://open.spotify.com/album/2DlocpnzvkFXxV7iBy3wbZ) | 3:01 | 2023-05-15 | 2024-04-19 |
@@ -175,7 +176,7 @@
 | [Tek It To Dem](https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Tek It To Dem](https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm) | 3:19 | 2021-10-24 |  |
 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 | 2021-10-24 |  |
 | [Temptation Overdrive](https://open.spotify.com/track/5zf0CYU9MiRH6Ejc5FXWq4) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Temptation Overdrive](https://open.spotify.com/album/1i56EpwFCUPthAsOFqouzg) | 3:09 | 2021-10-24 | 2022-07-28 |
-| [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 | 2021-10-24 |  |
+| [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 | 2021-10-24 | 2025-02-22 |
 | [TIP \(The Party\)](https://open.spotify.com/track/7JN94B0MwRWK4GuX7n7dhM) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [TIP \(The Party\)](https://open.spotify.com/album/6xe51V9sFd0wq04oXxa7Gy) | 2:20 | 2021-10-24 | 2022-07-28 |
 | [Toast](https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Toast](https://open.spotify.com/album/5wrjX4P4iirfltdwKC3VOc) | 3:11 | 2021-10-24 | 2022-07-29 |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2021-10-24 | 2025-01-10 |

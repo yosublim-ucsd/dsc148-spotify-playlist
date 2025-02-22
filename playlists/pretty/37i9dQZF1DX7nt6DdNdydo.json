@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 56987,
+  "num_followers": 56997,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+      },
+      "artists": [
+        {
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
-      },
-      "artists": [
-        {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 171533,
       "name": "Sax Shack Boogie",
       "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -487,18 +471,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -515,6 +499,22 @@
       "duration_ms": 159533,
       "name": "Skeet's California Sunshine",
       "url": "https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",

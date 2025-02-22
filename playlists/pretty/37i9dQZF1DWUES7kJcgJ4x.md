@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,983 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,989 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 22 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
 | 23 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
 | 24 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
-| 25 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 |
-| 26 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
+| 25 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
+| 26 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 |
 | 27 | [Profesor](https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 1:51 |
 | 28 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
 | 29 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |

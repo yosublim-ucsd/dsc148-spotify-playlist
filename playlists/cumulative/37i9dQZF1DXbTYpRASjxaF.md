@@ -4,7 +4,7 @@
 
 > Todos pro alto, cada um com o seu\. Foto: Azevedo
 
-481 songs - 1 day 0 hr 59 min
+482 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 | 2022-07-08 | 2022-08-06 |
 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 | 2024-04-05 | 2024-12-14 |
 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 | 2023-10-20 | 2023-11-11 |
-| [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 | 2024-09-27 |  |
+| [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 | 2024-09-27 | 2025-02-22 |
 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 | 2022-03-18 | 2022-04-02 |
+| [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 | 2025-02-21 |  |
 | [Aquecimento da Xereca \(Remix\)](https://open.spotify.com/track/6Bfev8nYsY4kDjVbZk06qk) | [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0) | [Aquecimento da Xereca \(Remix\)](https://open.spotify.com/album/1zD95qhBpVJGEmlh70GECn) | 2:41 | 2023-08-25 | 2023-09-02 |
 | [Aroma de Masala](https://open.spotify.com/track/2v3yIXzkcCEQjxRiAmH3Ly) | [Gabriel Fróes](https://open.spotify.com/artist/6yUPIetpn9tCDuGyNDh3Uh), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Aroma de Masala](https://open.spotify.com/album/6BhOYvnRoi11AL1hUBksdI) | 2:23 | 2024-03-29 | 2024-04-13 |
 | [Assault \(Angra\)](https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Assault \(Angra\)](https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU) | 4:29 | 2022-03-18 | 2022-09-03 |

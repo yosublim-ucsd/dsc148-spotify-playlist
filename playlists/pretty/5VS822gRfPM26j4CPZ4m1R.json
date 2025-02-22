@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17379,
+  "num_followers": 17380,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALyAL7JXiJzZEAsAjqjvNj2ZieKM2h",
+  "snapshot_id": "AAALygK0Lz0zqasQ6iCNTyCWmtyVVkFB",
   "tracks": [
+    {
+      "added_at": "2025-02-21 09:18:09",
+      "album": {
+        "name": "Two Hearts, Come Through",
+        "url": "https://open.spotify.com/album/3r2M2R0w1L4gF5VAajvzCQ"
+      },
+      "artists": [
+        {
+          "name": "BowAsWell",
+          "url": "https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe"
+        }
+      ],
+      "duration_ms": 167123,
+      "name": "Two Hearts, Come Through",
+      "url": "https://open.spotify.com/track/2JoyN7oOvqLGWHbbzNIcjk"
+    },
     {
       "added_at": "2025-01-31 13:50:38",
       "album": {

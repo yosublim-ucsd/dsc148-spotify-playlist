@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-488 songs - 1 day 0 hr 51 min
+489 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-09-24 |
 | [Life](https://open.spotify.com/track/3DRyA8NAr5Zc8DlVIfosNx) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Life](https://open.spotify.com/album/6FL0VzDEc7b4EXy4qgidAb) | 2:31 | 2022-04-28 | 2022-07-27 |
 | [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2024-05-03 | 2024-06-28 |
-| [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-25 |  |
+| [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-25 | 2025-02-22 |
 | [Like This](https://open.spotify.com/track/6H0qr0Q2hAPagJlUfzrCS8) | [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme) | [Like This / Studio](https://open.spotify.com/album/15HGSxOJNA3bErndfHtzUJ) | 2:57 | 2022-01-27 | 2022-07-24 |
 | [Lit](https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Toopeezy](https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF) | 3:14 | 2024-05-24 | 2024-06-15 |
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-06-23 | 2023-02-11 |
@@ -393,6 +393,7 @@
 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f) | 5:31 | 2022-09-19 | 2022-09-24 |
 | [Shagara](https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Shagara](https://open.spotify.com/album/40blKlB4Hlfh19dHcoSoai) | 3:21 | 2024-09-13 | 2024-11-08 |
 | [Shake](https://open.spotify.com/track/6e5vqhKj1M5X02ocoxiPCH) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Don't Get Used To This](https://open.spotify.com/album/3v5qsWRB3qTlbd5RNXO3Be) | 3:34 | 2024-01-26 | 2024-02-09 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 |  |
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-12-14 |
 | [Shako](https://open.spotify.com/track/4UlaNm4IdWyYGwxZB56G2P) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Shako](https://open.spotify.com/album/2BjbcRSIlUI8kewCEjZ5qP) | 2:52 | 2021-09-03 | 2022-07-28 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2024-12-19 |

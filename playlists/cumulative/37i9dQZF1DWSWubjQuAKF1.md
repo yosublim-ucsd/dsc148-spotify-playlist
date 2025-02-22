@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: shama
 
-341 songs - 16 hr 24 min
+342 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 | 2025-01-16 |  |
 | [miłość ma sens](https://open.spotify.com/track/0kpr6xDUfLddVs0zMB63Ie) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [miłość ma sens](https://open.spotify.com/album/6YRvbIP5VB3XwTGHdvOrPd) | 2:24 | 2024-11-07 | 2025-01-24 |
 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 | 2025-01-23 |  |
+| [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 | 2025-02-21 |  |
 | [Mogę Latać](https://open.spotify.com/track/3hmBQsDBmCYgAYfW7gVbte) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Mogę Latać](https://open.spotify.com/album/2Y8m2NsU16PtcHzsGwbL56) | 2:11 | 2024-06-28 | 2024-08-31 |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-02-20 |  |
 | [monika](https://open.spotify.com/track/4WxETZqfG7iGCIxI21G9pE) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [monika](https://open.spotify.com/album/41ksbu4TQ61rGzDsGp3vuh) | 2:51 | 2024-06-28 | 2024-08-02 |
@@ -337,7 +338,7 @@
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 | 2024-11-08 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-10-12 |
 | [zapomniałem wydać w lipcu](https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [zapomniałem wydać w lipcu](https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64) | 2:53 | 2024-11-28 | 2025-01-24 |
-| [Zaryzykuję](https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Zaryzykuję](https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3) | 2:39 | 2025-02-20 |  |
+| [Zaryzykuję](https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Zaryzykuję](https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3) | 2:39 | 2025-02-20 | 2025-02-22 |
 | [Zawsze](https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Zawsze](https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr) | 2:29 | 2025-02-20 |  |
 | [zero dwa](https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA) | [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY), [Marianna Matyja](https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48) | [zero dwa](https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv) | 4:08 | 2024-07-18 | 2024-09-20 |
 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 | 2024-08-01 | 2025-01-24 |

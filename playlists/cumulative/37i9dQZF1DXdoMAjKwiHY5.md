@@ -2,9 +2,9 @@
 
 ### [Jupiter](https://open.spotify.com/playlist/37i9dQZF1DXdoMAjKwiHY5)
 
-> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: The Fray
+> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-84 songs - 5 hr 25 min
+85 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Shattered \(Turn The Car Around\)](https://open.spotify.com/track/6jlqDfX8TQNxcaAz5oxYJA) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [All Sides \(Deluxe Edition\)](https://open.spotify.com/album/4zIj9ork17FV1FdYWAr4TG) | 4:15 | 2023-07-06 |  |
 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 | 2023-06-08 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-07-06 |  |
+| [Spaceman In Tulsa](https://open.spotify.com/track/27rA2jwxEAh3F3HPxoNEAM) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Spaceman In Tulsa](https://open.spotify.com/album/7lupY9DPb6q2WiksUPvpqN) | 3:50 | 2025-02-21 |  |
 | [Still Fighting It](https://open.spotify.com/track/0f9fM6DdpJM79NQ1XbHcjJ) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 | 2023-06-08 |  |
 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2023-07-06 |  |
 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 | 2023-06-08 |  |

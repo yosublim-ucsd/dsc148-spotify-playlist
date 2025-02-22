@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-286 songs - 16 hr 12 min
+287 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 | 2022-07-29 |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
-| [Bahia](https://open.spotify.com/track/1aPcMCHhZKe7Q01We5t95u) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt) | [Bahia](https://open.spotify.com/album/3N0W10HmqZgRGSh7McYWCg) | 2:09 | 2025-02-07 |  |
+| [Bahia](https://open.spotify.com/track/1aPcMCHhZKe7Q01We5t95u) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt) | [Bahia](https://open.spotify.com/album/3N0W10HmqZgRGSh7McYWCg) | 2:09 | 2025-02-07 | 2025-02-22 |
 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 | 2022-04-01 |  |
 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 | 2024-09-20 | 2024-09-28 |
 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-05-08 |  |
@@ -177,6 +177,7 @@
 | [Mercenários do Amor](https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm) | [Doce Delix](https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j) | [Mercenários do Amor](https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp) | 3:07 | 2024-11-08 | 2024-11-30 |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2022-04-01 |  |
 | [Meu Bem](https://open.spotify.com/track/5zLZhKevapgvot70CB1Gvk) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Meu Bem](https://open.spotify.com/album/3Jv7ePHAl5m0DCCBqpFLdr) | 2:13 | 2022-04-01 | 2022-04-19 |
+| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 |  |
 | [Mimar Você](https://open.spotify.com/track/6YkgFcnZO2mFf8voFJujY5) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Mandinga Multiplicação \- Josyara canta Timbalada](https://open.spotify.com/album/6GAQFUj5yXIUmyhz6qIzy3) | 1:51 | 2024-11-29 | 2025-01-11 |
 | [Minha Felicidade](https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte](https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof) | 3:49 | 2022-02-18 | 2022-07-29 |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2022-02-18 | 2022-12-16 |

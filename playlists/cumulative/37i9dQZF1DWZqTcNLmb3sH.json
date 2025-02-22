@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212198,
       "name": "Babu Moshaya (From \"Zebra\") [KANNADA]",
       "url": "https://open.spotify.com/track/5ufLe6Anicn3ZIB58xcKi3"
@@ -5428,7 +5428,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 209767,
       "name": "Blood - Kannada",
       "url": "https://open.spotify.com/track/3VrpUwrImzTTXrQXTz47Em"
@@ -9654,7 +9654,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 240423,
       "name": "Ethakke Ee Mounave (From \"Navami\")",
       "url": "https://open.spotify.com/track/1atyCS9tVBzQKmzwx5Xf7r"
@@ -17925,6 +17925,32 @@
     },
     {
       "album": {
+        "name": "Kshana Kshana (From \"Vishnu Priya\")",
+        "url": "https://open.spotify.com/album/0OhltLs76Wg1ULU9uZyVqA"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Kshana Kshana - From \"Vishnu Priya\"",
+      "url": "https://open.spotify.com/track/3sxUZxqIVZ23oi8b8twlpB"
+    },
+    {
+      "album": {
         "name": "KTM (Teaser Song) [From \"KTM\"]",
         "url": "https://open.spotify.com/album/3PGMwOnECFQaeds3CVZOH7"
       },
@@ -19405,6 +19431,28 @@
     },
     {
       "album": {
+        "name": "Nodidavaru Enantare (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7BKp1leqpUARjs9wrkqCwq"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273707,
+      "name": "Malagiru Kanda Female",
+      "url": "https://open.spotify.com/track/1Lm4JcsnUmGVGXbm7PV4di"
+    },
+    {
+      "album": {
         "name": "Asuraru",
         "url": "https://open.spotify.com/album/6RorIXyDySg9wXgeXnNnu3"
       },
@@ -20284,7 +20332,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 264525,
       "name": "Manave",
       "url": "https://open.spotify.com/track/27zhc8XjnO8220qnlaAuzd"
@@ -24640,6 +24688,32 @@
       "duration_ms": 199072,
       "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
+    },
+    {
+      "album": {
+        "name": "Neenu Appata (From \"Raavana Rajyadalli Navadampathigalu\")",
+        "url": "https://open.spotify.com/album/4in6NqjQgS2gKnGx1NxcC6"
+      },
+      "artists": [
+        {
+          "name": "Muzammil Ahmed",
+          "url": "https://open.spotify.com/artist/6KoTyZtuE46VM4FJ4AJFoW"
+        },
+        {
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
+        },
+        {
+          "name": "Harish Ranga Rao",
+          "url": "https://open.spotify.com/artist/40NsSm4IKzkJDXtrW1d8JQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231433,
+      "name": "Neenu Appata - From \"Raavana Rajyadalli Navadampathigalu\"",
+      "url": "https://open.spotify.com/track/3EGkEah52JmJiPkFSGrNSX"
     },
     {
       "album": {
@@ -32860,6 +32934,28 @@
       "duration_ms": 286143,
       "name": "Summane Summane (From \"Nirmuktha\")",
       "url": "https://open.spotify.com/track/3tcztT4TZ4Q7Tmun2LEn1h"
+    },
+    {
+      "album": {
+        "name": "Nodidavaru Enantare (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7BKp1leqpUARjs9wrkqCwq"
+      },
+      "artists": [
+        {
+          "name": "Naveen Shankar",
+          "url": "https://open.spotify.com/artist/7p4i6FpNqfXKXVLXPNfBMy"
+        },
+        {
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61541,
+      "name": "Summanomme Attu Bidabaradeke",
+      "url": "https://open.spotify.com/track/0QwTnjfZPE5fM80QZgEJBE"
     },
     {
       "album": {

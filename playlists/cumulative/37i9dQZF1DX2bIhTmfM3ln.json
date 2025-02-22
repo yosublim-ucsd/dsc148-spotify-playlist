@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 146050,
       "name": "Carry for Head",
       "url": "https://open.spotify.com/track/03tU30XBVABjq0KRBJL4N3"
@@ -6638,7 +6638,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 175200,
       "name": "Kulu Kulu",
       "url": "https://open.spotify.com/track/10ZTG3QRqvcyJErfk2xKgQ"
@@ -7028,6 +7028,24 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
     },
     {
       "album": {
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 204142,
       "name": "LOVE SZN (feat. Andrae TSC & Yumbs)",
       "url": "https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V"
@@ -7872,7 +7890,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -10130,7 +10148,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 184167,
       "name": "Oyi",
       "url": "https://open.spotify.com/track/2ws9t9pIyqm0fHwczltdjd"
@@ -13478,7 +13496,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 153684,
       "name": "W",
       "url": "https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O"

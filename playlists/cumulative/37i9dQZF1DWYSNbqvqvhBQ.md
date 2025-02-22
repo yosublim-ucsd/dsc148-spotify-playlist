@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Kingfshr
 
-577 songs - 1 day 9 hr 34 min
+579 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bliss](https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Bliss](https://open.spotify.com/album/3AC9w8ZS4iERfDJ0JmG2zh) | 2:24 | 2023-02-23 | 2023-06-27 |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-10-14 |  |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-20 | 2023-05-05 |
+| [Bobby](https://open.spotify.com/track/4ZKzPzlHwhAuh5TL0Tqb7I) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Bobby](https://open.spotify.com/album/0ppS2y9KwT8g2bWJddBepm) | 2:57 | 2025-02-21 |  |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-06-01 | 2024-01-30 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-14 |  |
 | [Broken Promises](https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:02 | 2023-02-23 | 2023-03-25 |
@@ -333,13 +334,13 @@
 | [Move On](https://open.spotify.com/track/5rSlV6fa4MoMC5SW9GD7sk) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Move On](https://open.spotify.com/album/2XGnAYlQgshiMS4rUhDkHj) | 3:06 | 2023-06-26 | 2023-08-25 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-02-01 | 2024-06-25 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-06 | 2024-10-15 |
-| [Mycose](https://open.spotify.com/track/4aZtYe0lgo5T46jX31CXhj) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Mycose](https://open.spotify.com/album/21l9Sw84AOYGYfgBe3QBk5) | 3:01 | 2024-09-19 |  |
+| [Mycose](https://open.spotify.com/track/4aZtYe0lgo5T46jX31CXhj) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Mycose](https://open.spotify.com/album/21l9Sw84AOYGYfgBe3QBk5) | 3:01 | 2024-09-19 | 2025-02-22 |
 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:12 | 2024-05-30 | 2024-10-22 |
 | [needy as hell](https://open.spotify.com/track/3KJsx5RdkZEgrnLEajSDQI) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [so sick of myself](https://open.spotify.com/album/0Ug4t9Cz4LQ3yMUnNsR1RV) | 3:00 | 2023-06-08 | 2023-10-28 |
 | [Never Fall In Love](https://open.spotify.com/track/0FZ53KOISmgNtbV9EjSQdx) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Never Fall In Love](https://open.spotify.com/album/4rNcAU0WclKzznndH4G7Fh) | 2:31 | 2024-04-18 | 2024-08-30 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-02-23 | 2023-05-26 |
 | [Never Had To Know](https://open.spotify.com/track/0wVrS0Jg01HNeJcs5TyUBK) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Never Had To Know](https://open.spotify.com/album/4Zxmi8lD3dGz5OuRS5qvtU) | 3:31 | 2023-02-23 | 2023-05-19 |
-| [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2024-09-26 |  |
+| [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2024-09-26 | 2025-02-22 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 | 2023-10-13 |
 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 | 2024-12-20 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-08-01 |
@@ -394,6 +395,7 @@
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2023-02-23 | 2023-05-26 |
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-06-20 | 2024-09-25 |
 | [Quitter](https://open.spotify.com/track/7ocv79icTTz2R4K398X6wy) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/5bBwJpH95Uip1jBJORRZDf) | 2:44 | 2023-10-05 | 2024-02-03 |
+| [Rebeccula](https://open.spotify.com/track/0yOM3Pjco863VO8snO0cwa) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Rebeccula](https://open.spotify.com/album/1uvgrQwbFgJ21wXCpPJLib) | 3:34 | 2025-02-21 |  |
 | [Reliving](https://open.spotify.com/track/4PofaVZAKYv2z3tWBsunnu) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Reliving](https://open.spotify.com/album/1X7MoOcVPjptu96LYaoKNa) | 3:40 | 2023-07-20 | 2023-12-15 |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-20 | 2024-10-04 |
 | [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2024-10-10 |  |

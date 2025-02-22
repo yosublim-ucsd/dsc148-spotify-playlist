@@ -4,7 +4,7 @@
 
 > Take it easy with these laid\-back classical tunes.
 
-89 songs - 8 hr 3 min
+90 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Moonlit](https://open.spotify.com/track/061ag3GRNr3d2QgvA6xRgV) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Moonlit](https://open.spotify.com/album/0VbudUDZ0J4cqb8WvYZNei) | 3:29 | 2024-11-27 |  |
 | [Mozart: Clarinet Concerto in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/2fYOyayT80ysO3nxw9lKXn) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Sabine Meyer](https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Mozart: Clarinet Concerto/Debussy: Première Rhapsodie/Takemitsu: Fantasma/Cantos](https://open.spotify.com/album/6lu8QlTLnOsd199MZ7rHOy) | 6:34 | 2021-05-20 |  |
 | [Nocturne No\. 2 in E\-Flat Major, Op\. 9 No\. 2](https://open.spotify.com/track/1VNvsvEsUpuUCbHpVop1vo) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Chopin: Nocturnes](https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf) | 4:33 | 2021-05-20 |  |
+| [Notebook for Anna Magdalena Bach \(1725\): No\. 26, Aria, BWV 988](https://open.spotify.com/track/6GjsE609S09KEr2SbGl2DG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessandro Simonetto](https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk) | [Notebook for Anna Magdalena Bach \(1725\): No\. 26, Aria, BWV 988](https://open.spotify.com/album/5pp9FTgtKxxU7BcdiqXUmQ) | 5:12 | 2025-02-21 |  |
 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 | 2021-05-20 | 2024-04-19 |
 | [Orfeo ed Euridice, Wq\. 30: Danse des champs\-elysées "Mélodie" \(Arr\. I\. Friedman for Piano\)](https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/0nSivM2elIAkluEDaG7GWQ) | 4:11 | 2021-05-20 |  |
 | [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Eine Kleine Nachtmusik etc.](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) | 5:01 | 2021-05-20 | 2023-11-06 |

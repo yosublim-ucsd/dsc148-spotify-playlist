@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,907 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,917 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In Stride](https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf) | [Moe](https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1) | [Circle of Giants](https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg) | 4:14 |
-| 2 | [Blank Canvas](https://open.spotify.com/track/4Add8yFPCjaMGUMtotv0iU) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Blank Canvas](https://open.spotify.com/album/2goyTImq0vkhL4FEqmdsli) | 3:40 |
+| 1 | [Space Between Frames](https://open.spotify.com/track/4vOGgl1xhxvb0psCFH5DWg) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Space Between Frames](https://open.spotify.com/album/62bOBKc8CnG7xO56h79ber) | 3:53 |
+| 2 | [In Stride](https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf) | [Moe](https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1) | [Circle of Giants](https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg) | 4:14 |
 | 3 | [Mamacita](https://open.spotify.com/track/2JMaOgTxoHn8zqpBYmy7FO) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Mamacita](https://open.spotify.com/album/5ipPpwKIN4P0Pi7lEJ2rF4) | 4:08 |
 | 4 | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu) | 3:31 |
 | 5 | [Porridge](https://open.spotify.com/track/4Alr3te050rO6YrKOmkmkY) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Porridge](https://open.spotify.com/album/6eQOY5MXWUMg5vGr122m0L) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `Z6WTZQAAAAANL4NiF7IhJAVuKdZaFt1g`
+Snapshot ID: `Z7gIZwAAAAAMY89/Ox7e4e/E3DnkOJ2F`

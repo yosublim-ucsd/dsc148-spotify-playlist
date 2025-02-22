@@ -1,13 +1,69 @@
 {
   "description": "The best in blues right now. Cover: Billy F Gibbons",
-  "num_followers": 135051,
+  "num_followers": 135144,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7THYQAAAADliFW/svPYvDBlkJd9tS/t",
+  "snapshot_id": "Z7gIYQAAAADMG5r86LiMGLqM6M9YIARA",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:17",
+      "album": {
+        "name": "Hey Baby (What Are We Gonna Do)",
+        "url": "https://open.spotify.com/album/03eSdbYiHt5sLyFDa4GlL0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Hey Baby (What Are We Gonna Do)",
+      "url": "https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX"
+    },
+    {
+      "added_at": "2025-02-21 05:00:17",
+      "album": {
+        "name": "A Little Bit Of Freedom",
+        "url": "https://open.spotify.com/album/5gw3hXiaFesxfnDr4xP8k1"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "A Little Bit Of Freedom",
+      "url": "https://open.spotify.com/track/1NquwZ5Gwc99qfXRBKrojB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:17",
+      "album": {
+        "name": "Big Legged Woman",
+        "url": "https://open.spotify.com/album/2uOWCYOp5q5NHUqtn3yhQI"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 248278,
+      "name": "Big Legged Woman",
+      "url": "https://open.spotify.com/track/00TKSt0hEavnD9JnNmJ66E"
+    },
     {
       "added_at": "2025-01-31 05:00:47",
       "album": {
@@ -59,26 +115,6 @@
       "duration_ms": 211066,
       "name": "Runaway - Radio Edit",
       "url": "https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z"
-    },
-    {
-      "added_at": "2025-01-31 05:00:47",
-      "album": {
-        "name": "I\u2019m Going Down",
-        "url": "https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 330752,
-      "name": "I\u2019m Going Down",
-      "url": "https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC"
     },
     {
       "added_at": "2025-01-17 05:00:26",
@@ -1213,26 +1249,6 @@
       "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Joyful Sky",
-        "url": "https://open.spotify.com/album/082aBhB5n3cwYW7wLoudGo"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        },
-        {
-          "name": "Sari Schorr",
-          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
-        }
-      ],
-      "duration_ms": 176549,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe"
-    },
-    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "Sweet Feeling",
@@ -1715,22 +1731,6 @@
       "duration_ms": 221053,
       "name": "Down On The South Side",
       "url": "https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 230917,
-      "name": "Count Your Chickens",
-      "url": "https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz"
     },
     {
       "added_at": "2023-03-03 05:01:00",

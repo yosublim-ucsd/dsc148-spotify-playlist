@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 1909648,
+  "num_followers": 1910110,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz"
     },
     {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
-    },
-    {
       "added_at": "2024-03-18 22:21:44",
       "album": {
         "name": "Steve McQueen",
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221266,
       "name": "All Cried Out",
       "url": "https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw"
+      },
+      "artists": [
+        {
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
     },
     {
       "added_at": "2024-03-18 22:21:44",

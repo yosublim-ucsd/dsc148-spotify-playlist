@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Pauline Anne Artwork: Isu Kim
 
-3,023 songs - 7 day 9 hr 13 min
+3,024 songs - 7 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2541,6 +2541,7 @@
 | [Spinning](https://open.spotify.com/track/54M2ZaB0L3HtpM3bBrHjWl) | [Paper Satellites](https://open.spotify.com/artist/45eAWMbvTmm7HbyFlxMKub) | [Manila Meltdown](https://open.spotify.com/album/6q82AlM8ZO9bLuhR0mxzBR) | 4:41 | 2022-03-31 | 2022-04-08 |
 | [Sta\. Clara](https://open.spotify.com/track/5h2lrA7NMKNhxQXXZDwMm4) | [Guerrero Valderama](https://open.spotify.com/artist/7hfoBRRBKvOnwurt20FjV3) | [Sta\. Clara](https://open.spotify.com/album/1rgjpeeBBVH4b64bPOgr5C) | 5:52 | 2022-01-20 | 2022-02-11 |
 | [Stacks](https://open.spotify.com/track/61LHOOknjtTsnVYphn8qrX) | [Sam\-Fi](https://open.spotify.com/artist/6ZPlODLIMfK4KYmhJuQuns), [Boga](https://open.spotify.com/artist/2oMccZf58CimeVdB4oDZKq) | [Stacks](https://open.spotify.com/album/48BnoOmCUqctiAwMmmqe5J) | 4:21 | 2022-04-21 | 2022-07-29 |
+| [STANK!](https://open.spotify.com/track/3DYGhaD5KVA1O6Td45buk8) | [Coast Side Boiz](https://open.spotify.com/artist/1ezjbQw4HxsiE56T0tovfs), [FDK](https://open.spotify.com/artist/5OEzF3EfMnmMRLPbwMcS6h) | [STANK!](https://open.spotify.com/album/4E5IFWU7G3NqXrBB9zFVRJ) | 4:30 | 2025-02-20 |  |
 | [Starlight](https://open.spotify.com/track/3IMMZeDDbKlWvp5b1sctzq) | [Runaverse](https://open.spotify.com/artist/6QZGUfmQ4lc14b7KbNGFR3), [IVNFIL](https://open.spotify.com/artist/3Fy24YWLYJu5Zqd2pgt5eg) | [Starlight](https://open.spotify.com/album/2h20SSSPsqv3IBuTnPX29T) | 3:27 | 2023-08-03 | 2023-09-01 |
 | [Stars](https://open.spotify.com/track/33DVj60RWeokIn8wdPSDl9) | [The Bleaching Hour](https://open.spotify.com/artist/1tvpl4JSMPNbacYLC0HbRp) | [Something strange happened here \(Reimagined\)](https://open.spotify.com/album/4FpGykMKuJeCoPGk5dVBrP) | 2:59 | 2022-03-10 | 2022-04-01 |
 | [Stationary Bike](https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Stationary Bike](https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed) | 2:46 | 2023-05-11 | 2023-06-02 |

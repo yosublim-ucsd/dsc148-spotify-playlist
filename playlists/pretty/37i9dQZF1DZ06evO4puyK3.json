@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164228,
+  "num_followers": 164236,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAAB7Nq79QpjRV4ErMVg+RZwz",
+  "snapshot_id": "Z7ZwgAAAAAAv15D6PHs+N60cr0Ykh96N",
   "tracks": [
     {
       "added_at": null,
@@ -451,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163544,
-      "name": "Entendi Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },
@@ -495,6 +463,42 @@
       "duration_ms": 165600,
       "name": "Coisa Boa",
       "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 169084,
+      "name": "Lado Insano - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oV23GAoNGnhkYj1xOTr41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "added_at": null,
@@ -859,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 347672,
-      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrasta",
         "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
       },
@@ -895,6 +879,26 @@
       "duration_ms": 152727,
       "name": "Arrasta",
       "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 347672,
+      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
     },
     {
       "added_at": null,

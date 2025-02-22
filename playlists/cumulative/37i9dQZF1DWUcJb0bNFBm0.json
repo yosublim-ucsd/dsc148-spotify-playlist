@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "farewell handshake",
+        "url": "https://open.spotify.com/album/5oBH2o0hJ1xtU0H2tkQuHO"
+      },
+      "artists": [
+        {
+          "name": "Phantom Haze",
+          "url": "https://open.spotify.com/artist/68vrmU1aYdSG3azBjle63Q"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179667,
+      "name": "farewell handshake",
+      "url": "https://open.spotify.com/track/7phUmq6hzPD6Rp17G4s30w"
+    },
+    {
+      "album": {
         "name": "Fearful Symmetry",
         "url": "https://open.spotify.com/album/5Eq9ulbmbsqGjVCfwd7sHG"
       },

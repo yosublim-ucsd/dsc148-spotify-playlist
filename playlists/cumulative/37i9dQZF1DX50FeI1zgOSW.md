@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-471 songs - 1 day 2 hr 57 min
+473 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Kadhal Raasee](https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [OJ Da Tamil Rapper](https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Kadhal Raasee](https://open.spotify.com/album/1GSRblB74gF4QNAGzsEPsi) | 3:01 | 2023-03-21 | 2023-08-01 |
 | [Kadhal Reggae](https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po) | [Kadhal Reggae](https://open.spotify.com/album/1JbxLCEDE5N3j7iqhU9Ia8) | 3:27 | 2024-03-04 | 2024-03-18 |
 | [Kadhal Senji Kolladha](https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq) | [Narendra Prasath](https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD), [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg) | [Kadhal Senji Kolladha](https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln) | 2:04 | 2024-03-12 | 2024-10-12 |
+| [Kadhal Thantha Valigal \(Original Soundtrack\)](https://open.spotify.com/track/4mFzXpn4ijeurTaeQVD2g5) | [Raghav Prasanna](https://open.spotify.com/artist/6Ka5VM90cOci7lBECqA8YL), [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kadhal Thantha Valigal \(Original Soundtrack\)](https://open.spotify.com/album/1K2nLGU9KiWWbCBSBcdqEc) | 4:00 | 2025-02-21 |  |
 | [Kadhal Thorkum Nerame](https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF) | [Chandru M](https://open.spotify.com/artist/5jo2LPSpHPzJETBUokdECR), [Megas Raj S](https://open.spotify.com/artist/1gwDcP6TvWG64xXZe7UOlG) | [Kadhal Thorkum Nerame](https://open.spotify.com/album/6BsSeSmxL81oaNfawnekfz) | 2:36 | 2024-02-14 | 2024-08-24 |
 | [Kadhal Uh?](https://open.spotify.com/track/01BndgNpF4DsLUsWantHH5) | [Nishadhan S](https://open.spotify.com/artist/6h4KOrq9XHWXwZ4KLzViQY), [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Kadhal Uh?](https://open.spotify.com/album/4MGeosDYEeF5i3CKmgk2F4) | 4:25 | 2025-02-07 |  |
 | [Kadhal Vizhi](https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ) | [ChaaiSmokers](https://open.spotify.com/artist/61E6hWD8uFULJv5S35vytj) | [Kadhal Vizhi](https://open.spotify.com/album/2wH6h441uGVIGArtLaERQ9) | 3:06 | 2024-09-30 | 2024-12-06 |
@@ -323,6 +324,7 @@
 | [Penne Vaadi](https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu) | [Octave Rockers](https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6) | [Penne Vaadi](https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw) | 3:36 | 2024-09-02 | 2024-09-19 |
 | [Pesum Paniye](https://open.spotify.com/track/1LRV6xKvY45J83bhK2QqHP) | [Mithran](https://open.spotify.com/artist/2IkfHRXExdUpuuT7sIiyxe), [Surya](https://open.spotify.com/artist/7fkRuzZzNxqP3kUfDSqQlJ), [Gautham Mahesh](https://open.spotify.com/artist/1SfDQ3uJwZKq0MHHkadNeB), [Aathisankar Vivek](https://open.spotify.com/artist/61dz7DImoFT0x4dB7HEWYl) | [Pesum Paniye](https://open.spotify.com/album/2NHfCoGhRlKPUyycjuQs2k) | 3:06 | 2025-01-17 |  |
 | [Phonix Paravai](https://open.spotify.com/track/47Jv2i9CvjC8oWRztGgTK8) | [MG Star Boy](https://open.spotify.com/artist/3X1j6AmTU7ucvSN4p6GI4x) | [Phonix Paravai](https://open.spotify.com/album/1Gt8V62lzlCdB8uQVW7cJi) | 2:59 | 2024-12-13 |  |
+| [Piraku](https://open.spotify.com/track/76PDganyLOm7ZIIY5jlY2P) | [Albrin](https://open.spotify.com/artist/64tJZ0YwRzpBCkFDYuonzp), [Latha Krishna](https://open.spotify.com/artist/60VMWWmZZKAVkA0ttoLxB1) | [Piraku](https://open.spotify.com/album/0yBesou5z7bH81lnqSEFrs) | 3:36 | 2025-02-21 |  |
 | [Piriyaadhe](https://open.spotify.com/track/2sPa31owePFGZi8je18YkE) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Piriyaadhe](https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh) | 1:27 | 2023-09-12 | 2023-12-12 |
 | [Po Venaa](https://open.spotify.com/track/15ilxiXT5Wf5yvOScCPz0N) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA) | [Po Venaa](https://open.spotify.com/album/0oB2AQsyWSlhrymk9iPLt6) | 2:05 | 2025-01-17 |  |
 | [Podu Mike](https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Podu Mike](https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh) | 2:00 | 2024-08-28 | 2025-01-31 |

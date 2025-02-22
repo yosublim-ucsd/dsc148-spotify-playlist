@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 201023,
       "name": "168 Hours",
       "url": "https://open.spotify.com/track/5Pg00tBj3fnfVIGFQPfIkv"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 176442,
       "name": "Favorite One",
       "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163731,
       "name": "Foxxy Brown",
       "url": "https://open.spotify.com/track/0Wft9IUVpVwN7Ldftah8R4"
@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 173117,
       "name": "Keep It",
       "url": "https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ"
@@ -6943,6 +6943,24 @@
     },
     {
       "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/6aXGoSmHmnzD40uGLCOGQA"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/5xDAPu0xNFVJo299H3Tave"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -7300,7 +7318,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159574,
       "name": "MARGARET",
       "url": "https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq"
@@ -11668,7 +11686,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 157711,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/2sVa71QDpz844Yv4AWdjZo"
@@ -12594,7 +12612,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 147719,
       "name": "Watch It Fall",
       "url": "https://open.spotify.com/track/5bOpde1BZem7eZB1xJwdPe"
@@ -13818,6 +13836,24 @@
       "duration_ms": 155881,
       "name": "You know My body (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
+    },
+    {
+      "album": {
+        "name": "You The One",
+        "url": "https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "You The One",
+      "url": "https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq"
     },
     {
       "album": {

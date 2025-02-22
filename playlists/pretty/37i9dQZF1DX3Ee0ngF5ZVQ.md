@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,694 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,704 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 79 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 80 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 | 81 | [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 |
-| 82 | [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 |
+| 82 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 83 | [In Case You Didn’t Know](https://open.spotify.com/track/21u5BXmVmipPoLlBFN11FD) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [In Case You Didn’t Know](https://open.spotify.com/album/3wojk7NMMnAmedGJG5as0k) | 3:54 |
 | 84 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 85 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 |
-| 86 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 86 | [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 |
 | 87 | [Boys Growing Up](https://open.spotify.com/track/359avoGK4rssamzUomqcLU) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Boys Growing Up](https://open.spotify.com/album/4PV7QhsKFblKMyMQCFXBct) | 3:40 |
 | 88 | [Something Wrong](https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Quicksand](https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl) | 3:10 |
 | 89 | [There's A Drink For That](https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Same Ol’ Cowboy, Different Rodeo](https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11) | 2:41 |

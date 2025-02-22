@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 264000,
       "name": "All Alone on Christmas",
       "url": "https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb"
@@ -1108,10 +1108,28 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 191874,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/47dH2eXinFda9meFcxxXDh"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile (Piano Version)",
+        "url": "https://open.spotify.com/album/6XmpL7kxW6nx75tmfU5SMI"
+      },
+      "artists": [
+        {
+          "name": "The Piano Cover Guy",
+          "url": "https://open.spotify.com/artist/4Dfwa6Cp8ZPElPzHXyLQcX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Die With A Smile - Piano Version",
+      "url": "https://open.spotify.com/track/5a557zLxT968QcuKhF81T6"
     },
     {
       "album": {
@@ -1202,6 +1220,24 @@
       "duration_ms": 177600,
       "name": "Don't Wanna Know",
       "url": "https://open.spotify.com/track/7ICe7aEcO7GaVGWwUc0edv"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Look Back in Anger (Symphony Orchestra Version)",
+        "url": "https://open.spotify.com/album/373zux9SQ2TIPmYbbtjQj2"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Don\u2019t Look Back in Anger - Symphony Orchestra Version",
+      "url": "https://open.spotify.com/track/0VK3Pojsx1FlvYvwzF4EGj"
     },
     {
       "album": {
@@ -1430,6 +1466,28 @@
       "duration_ms": 180010,
       "name": "Espresso (Arr. Piano)",
       "url": "https://open.spotify.com/track/3o6oy46mTYvyGIIzX1D1RK"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f"
+      },
+      "artists": [
+        {
+          "name": "Juri Vallentin",
+          "url": "https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb"
+        },
+        {
+          "name": "Ensemble Reflektor",
+          "url": "https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255312,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD"
     },
     {
       "album": {
@@ -1709,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Glimpse Of Us (Radio Edit) [Symphony Orchestra Version]",
+        "url": "https://open.spotify.com/album/44zuDsGns1Fz5YloQPjYOs"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220727,
+      "name": "Glimpse Of Us (Radio Edit) - Symphony Orchestra Version",
+      "url": "https://open.spotify.com/track/3lKsTCKWr7qCtxqkOuxEFm"
+    },
+    {
+      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/627csj4wkox8X11EmpEhgG"
       },
@@ -1850,6 +1926,32 @@
       "duration_ms": 229826,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY"
+    },
+    {
+      "album": {
+        "name": "David Bowie: Heroes",
+        "url": "https://open.spotify.com/album/2wZjHNQDTwkD7zxksqPGlJ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Maurizio Baglini",
+          "url": "https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Heroes (Version for Piano)",
+      "url": "https://open.spotify.com/track/5fMc2MTb6pb5ehYQOl8A4s"
     },
     {
       "album": {
@@ -2108,7 +2210,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 195458,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk"
@@ -2747,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Night Changes (Arr. Piano)",
+        "url": "https://open.spotify.com/album/0Xnc06m2Lg6Vq8DU0MwLFm"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163157,
+      "name": "Night Changes (Arr. Piano)",
+      "url": "https://open.spotify.com/track/04LfvFugrSPLb8VlW2loSF"
+    },
+    {
+      "album": {
         "name": "Nightcall (From \"Drive\")",
         "url": "https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz"
       },
@@ -2982,6 +3102,24 @@
       "duration_ms": 259250,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
+    },
+    {
+      "album": {
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/4shzEb8hY7U8i9O8AOfo7q"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Pierre",
+          "url": "https://open.spotify.com/artist/5SyP8mvaxGuhQY5T4kaoOA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/5HJBcxBHrBR41fCU7sGVhK"
     },
     {
       "album": {
@@ -4035,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/11fZbxSXrL9uFxh4XRlsuz"
+      },
+      "artists": [
+        {
+          "name": "Ron Lopata",
+          "url": "https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201701,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/6eGxsN1nTPfLvc1rSNEtEk"
+    },
+    {
+      "album": {
         "name": "Unholy",
         "url": "https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5"
       },
@@ -4064,7 +4220,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155766,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA"

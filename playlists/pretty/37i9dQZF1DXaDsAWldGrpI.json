@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: HARDY",
-  "num_followers": 137525,
+  "num_followers": 137540,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Live in No Shoes Nation",
         "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 255453,
       "name": "Save It for a Rainy Day (with Old Dominion) - Live",
       "url": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Alana Springsteen: Live from the Ryman",
-        "url": "https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "you don't deserve a country song - Live from the Ryman",
-      "url": "https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "No Horse To Ride (Live From Boston)",
         "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 226523,
       "name": "No Horse To Ride - Live From Boston",
       "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "Alana Springsteen: Live from the Ryman",
+        "url": "https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "you don't deserve a country song - Live from the Ryman",
+      "url": "https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
+        "name": "Live From Telluride",
+        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 292579,
+      "name": "Woman, Amen - Live",
+      "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
         "name": "Thank God (Live from Fenway)",
         "url": "https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 222093,
       "name": "Honey, I'm Home - Live",
       "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Live From Telluride",
-        "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 292579,
-      "name": "Woman, Amen - Live",
-      "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "FISHIN' IN THE DARK (Live from the Road)",
-        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "FISHIN' IN THE DARK - Live from the Road",
-      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 248853,
       "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "FISHIN' IN THE DARK (Live from the Road)",
+        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "FISHIN' IN THE DARK - Live from the Road",
+      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "61 Days In Church Volume 1",
-        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 259758,
-      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
-      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "61 Days In Church Volume 1",
+        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 259758,
+      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
+      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
+        "name": "61 Days In Church Volume 5",
+        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 190849,
+      "name": "Drink In My Hand - Live At Staples Center, Los Angeles, CA / March 31, 2017",
+      "url": "https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
         "name": "Live at Church Street Station",
         "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 193200,
       "name": "Till I Can Make It on My Own",
       "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
-        "name": "Trouble (Live From The Opry / 2023)",
-        "url": "https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 267414,
-      "name": "Trouble - Live From The Opry / 2023",
-      "url": "https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "61 Days In Church Volume 5",
-        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
+        "name": "Trouble (Live From The Opry / 2023)",
+        "url": "https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 190849,
-      "name": "Drink In My Hand - Live At Staples Center, Los Angeles, CA / March 31, 2017",
-      "url": "https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW"
+      "duration_ms": 267414,
+      "name": "Trouble - Live From The Opry / 2023",
+      "url": "https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO"
     },
     {
       "added_at": "2025-02-07 05:00:42",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-07 05:00:42",
       "album": {
-        "name": "Live at RCA Studios 1972",
-        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
-      "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
-    },
-    {
-      "added_at": "2025-02-07 05:00:42",
-      "album": {
         "name": "Good as You (Live)",
         "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 202706,
       "name": "Good as You - Live",
       "url": "https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:42",
+      "album": {
+        "name": "Live at RCA Studios 1972",
+        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
+      "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
     },
     {
       "added_at": "2025-02-07 05:00:42",

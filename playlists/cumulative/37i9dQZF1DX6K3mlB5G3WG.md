@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Francesco Gabbani
 
-966 songs - 2 day 1 hr 50 min
+968 songs - 2 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Bend](https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:33 | 2024-11-21 | 2025-01-03 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-13 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2024-08-02 |
-| [Big Thoughts](https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:58 | 2025-02-07 |  |
+| [Big Thoughts](https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:58 | 2025-02-07 | 2025-02-22 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 |  |
 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 | 2025-01-23 | 2025-02-14 |
 | [black & white](https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [black & white](https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL) | 3:28 | 2024-09-12 | 2024-10-04 |
@@ -296,6 +296,7 @@
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-10-04 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
 | [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-12 | 2024-10-04 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Extranjero](https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Extranjero](https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V) | 2:32 | 2025-01-30 | 2025-02-21 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-25 | 2024-09-06 |
 | [Fake A Smile](https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:39 | 2025-01-16 | 2025-02-12 |
@@ -969,6 +970,7 @@
 | [Yin e Yang](https://open.spotify.com/track/1u4litNjAxzmnVnmURGSJI) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Yin e Yang](https://open.spotify.com/album/2CJbTQ4bOoFN6cNaLpx6qg) | 3:16 | 2025-01-14 | 2025-02-07 |
 | [You Don't Remember Me](https://open.spotify.com/track/4XjU4hwBk4KOajDgDQX4yq) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Securely Insecure](https://open.spotify.com/album/1OetRpfHW0L7PYoo4UBnDb) | 3:52 | 2024-08-01 | 2024-08-31 |
 | [you fake your british accent](https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [you fake your british accent](https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it) | 3:08 | 2024-08-15 | 2024-09-20 |
+| [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 |  |
 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-12 | 2024-10-11 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 | 2025-02-21 |
 | [Zenzero \(con Colapesce\)](https://open.spotify.com/track/0lK6Pn6aN9Ce1BCbNFAb7d) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Zenzero \(con Colapesce\)](https://open.spotify.com/album/5T80lWZk7nwZzFwrSSlRuT) | 2:53 | 2024-10-24 | 2024-11-22 |

@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 224466,
       "name": "Acalanto",
       "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
@@ -144,6 +144,32 @@
       "duration_ms": 197982,
       "name": "Alto Mar",
       "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
+    },
+    {
+      "album": {
+        "name": "Alucina",
+        "url": "https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8"
+      },
+      "artists": [
+        {
+          "name": "AREIATERRA",
+          "url": "https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD"
+        },
+        {
+          "name": "Tukum",
+          "url": "https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly"
+        },
+        {
+          "name": "Planeta Gru",
+          "url": "https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180110,
+      "name": "Alucina",
+      "url": "https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e"
     },
     {
       "album": {
@@ -629,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY"
+      },
+      "artists": [
+        {
+          "name": "Marilia Lopes",
+          "url": "https://open.spotify.com/artist/2DgcyIXtFKDdcYGId7Jf3U"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Coisa Mais Linda",
+      "url": "https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8"
+    },
+    {
+      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -684,7 +736,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 192371,
       "name": "Conto as Horas",
       "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
@@ -1068,7 +1120,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 213066,
       "name": "Flor de Aruanda - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO"
@@ -1378,7 +1430,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 127846,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/001B5pHMglvqiOuAVtssA7"
@@ -1400,7 +1452,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 172119,
       "name": "Maior Que N\u00f3s",
       "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
@@ -1512,10 +1564,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "album": {
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188203,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
       "album": {
@@ -1675,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Sei Lidar",
+        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "N\u00e3o Sei Lidar",
+      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
+    },
+    {
+      "album": {
         "name": "N\u00f3 de Marinheiro",
         "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
@@ -1796,6 +1888,24 @@
       "duration_ms": 164131,
       "name": "Pagodin",
       "url": "https://open.spotify.com/track/1t2sFfQqAZwxLRdDzWafNc"
+    },
+    {
+      "album": {
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13"
+      },
+      "artists": [
+        {
+          "name": "Tom Rezende",
+          "url": "https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170140,
+      "name": "Pared\u00e3o",
+      "url": "https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ"
     },
     {
       "album": {
@@ -2520,6 +2630,28 @@
       "duration_ms": 180394,
       "name": "Vem de L\u00e1",
       "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "album": {
+        "name": "Vou Me Banhar",
+        "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        },
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222307,
+      "name": "Vou Me Banhar",
+      "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
     },
     {
       "album": {

@@ -1,13 +1,181 @@
 {
-  "description": "The best new music from the wide world of punk. Cover: Scowl",
-  "num_followers": 321209,
+  "description": "The best new music from the wide world of punk. Cover: Anxious",
+  "num_followers": 321550,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z66HpgAAAABzO8luRCPTxDkPJZi3T6eX",
+  "snapshot_id": "Z7iG+gAAAABBqBaCk2RIH0vJrglSccuJ",
   "tracks": [
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Never Said",
+        "url": "https://open.spotify.com/album/5EaeD4vGZe5yH5sWAdYLaR"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/5MFsRqD8dYEGO09mDMOEYG"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Goon Show",
+        "url": "https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "duration_ms": 306146,
+      "name": "Goon Show",
+      "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "For The Plot",
+        "url": "https://open.spotify.com/album/438uLf4EXbMY4obUmurvQK"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "For The Plot",
+      "url": "https://open.spotify.com/track/5cTsAVfMDQxjL6qt7k9ijR"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/52FMewyydnYgknvRsRzEqf"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "duration_ms": 222624,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/1qlhJ0PND0HRtUXRbJyjZa"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Seen Enough",
+        "url": "https://open.spotify.com/album/6yPY2FF2I7kI9Rw1L64sqn"
+      },
+      "artists": [
+        {
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
+        }
+      ],
+      "duration_ms": 96799,
+      "name": "Quit The Act",
+      "url": "https://open.spotify.com/track/1khciDRsfPQWPIJFd377ym"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "POSTINDUSTRIAL HOMETOWN BLUES (Deluxe)",
+        "url": "https://open.spotify.com/album/7FfB109iBD1pV0tMi2CWyX"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 188654,
+      "name": "BLACK DOG / WHITE HORSE - Sleaford Mods Remix",
+      "url": "https://open.spotify.com/track/0eglbcH0XUFpU7cPiH6wVL"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/679h1r0DYqAYCoRPXfddsk"
+      },
+      "artists": [
+        {
+          "name": "The Warriors",
+          "url": "https://open.spotify.com/artist/0eHAMIAxiBEpQdv8UVwSxb"
+        }
+      ],
+      "duration_ms": 132447,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/1nmi4oATze7UvRbyfFRqv5"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Fo' Sho\u2019",
+        "url": "https://open.spotify.com/album/15Dzin78sPeQZu3W0PnUvT"
+      },
+      "artists": [
+        {
+          "name": "FUET!",
+          "url": "https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Fo' Sho'",
+      "url": "https://open.spotify.com/track/2zWUOmL3Zt5JEzzdRPl8vr"
+    },
+    {
+      "added_at": "2025-02-21 14:00:26",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3eXtkqcMsFdcKe8KwbU7ya"
+      },
+      "artists": [
+        {
+          "name": "Stinky",
+          "url": "https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp"
+        },
+        {
+          "name": "Lou Koller",
+          "url": "https://open.spotify.com/artist/00oVA7aWQ4Sd1ZT3W6UpHU"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "Grass Snakes (feat. Lou Koller)",
+      "url": "https://open.spotify.com/track/6yM5Fz1ZVp2tTQRu4nJun1"
+    },
     {
       "added_at": "2025-02-14 00:00:37",
       "album": {
@@ -1507,166 +1675,6 @@
       "duration_ms": 207386,
       "name": "47.",
       "url": "https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/75kZgDnW8R67X306ZDEfjj"
-      },
-      "artists": [
-        {
-          "name": "Saving Face",
-          "url": "https://open.spotify.com/artist/13upTRjiSvKITKBtvWkypR"
-        }
-      ],
-      "duration_ms": 229117,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/2X3BB3fO2RdZAdjymw5q0i"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "2468",
-        "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 197688,
-      "name": "2468",
-      "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Out of Depth",
-        "url": "https://open.spotify.com/album/47853E1ah5tQHDUcXL7cwS"
-      },
-      "artists": [
-        {
-          "name": "Marathon",
-          "url": "https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw"
-        }
-      ],
-      "duration_ms": 272022,
-      "name": "Out of Depth",
-      "url": "https://open.spotify.com/track/5amMdfV0sDSPH94QjmNZIk"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Stone Spit",
-        "url": "https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 191594,
-      "name": "Stone Spit",
-      "url": "https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Screw It Up",
-        "url": "https://open.spotify.com/album/43vYSjTg9rudF45rozbN0t"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 135389,
-      "name": "Screw It Up",
-      "url": "https://open.spotify.com/track/1ekfyIGrS8KtEo41I6aLIf"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Mess Like Me",
-        "url": "https://open.spotify.com/album/0IkBTyBFWhWuUnRh51K9E8"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mess Like Me",
-      "url": "https://open.spotify.com/track/1V00OUOVNYPRmgNHpRiMUA"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "SLEEP WHEN I'M DEAD",
-        "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "Under The Table",
-        "url": "https://open.spotify.com/album/6xQxmSMnt7HM7toUWaSyYz"
-      },
-      "artists": [
-        {
-          "name": "DEAR-GOD",
-          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/6B5NoqyeXRjS3tfq8MZNcy"
-    },
-    {
-      "added_at": "2025-02-14 00:00:37",
-      "album": {
-        "name": "sentimental slowdown",
-        "url": "https://open.spotify.com/album/4G1GdHTCo04M3NrYZL11oL"
-      },
-      "artists": [
-        {
-          "name": "TOWNS",
-          "url": "https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "can't blame yr dad",
-      "url": "https://open.spotify.com/track/6ciqwVllqiTPD09Dga6NIX"
     }
   ],
   "unique_name": "All New Punk",

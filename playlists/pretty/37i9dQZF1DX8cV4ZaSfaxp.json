@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 57224,
+  "num_followers": 57244,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "DOLLS",
-        "url": "https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m"
-      },
-      "artists": [
-        {
-          "name": "9MUSES",
-          "url": "https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "Perfect Velvet - The 2nd Album",
         "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 245598,
       "name": "Look",
       "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "DOLLS",
+        "url": "https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m"
+      },
+      "artists": [
+        {
+          "name": "9MUSES",
+          "url": "https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 221160,
       "name": "1/6",
       "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185217,
       "name": "Love visible",
       "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
+      },
+      "artists": [
+        {
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 253948,
       "name": "The Story Of The Year (feat. Wonwoo)",
       "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
+      },
+      "artists": [
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "duration_ms": 182188,
+      "name": "Drive Thru",
+      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
-        "name": "Drive Thru",
-        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
-      },
-      "artists": [
-        {
-          "name": "Wilcox",
-          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
-        }
-      ],
-      "duration_ms": 182188,
-      "name": "Drive Thru",
-      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
-      },
-      "artists": [
-        {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
+        "name": "My Universe - Home Recording Project #4",
+        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
+      },
+      "artists": [
+        {
+          "name": "W24",
+          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "My Universe - Home Recording Project #4",
+      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
         "name": "Kona (feat. Jennifer Choi)",
         "url": "https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7"
       },
@@ -1387,34 +1403,18 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "My Universe - Home Recording Project #4",
-        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
       "artists": [
         {
-          "name": "W24",
-          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
         }
       ],
-      "duration_ms": 200000,
-      "name": "My Universe - Home Recording Project #4",
-      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
-      },
-      "artists": [
-        {
-          "name": "\uc815\uc740\uc7ac",
-          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
-        }
-      ],
-      "duration_ms": 162709,
-      "name": "City",
-      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+        "name": "City",
+        "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
       },
       "artists": [
         {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+          "name": "\uc815\uc740\uc7ac",
+          "url": "https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+      "duration_ms": 162709,
+      "name": "City",
+      "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy"
+        "name": "play ground",
+        "url": "https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle"
       },
       "artists": [
         {
-          "name": "Kim eun young",
-          "url": "https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg"
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W"
+        },
+        {
+          "name": "Nene",
+          "url": "https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K"
         }
       ],
-      "duration_ms": 237372,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr"
+      "duration_ms": 206583,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "play ground",
-        "url": "https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle"
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy"
       },
       "artists": [
         {
-          "name": "Swing",
-          "url": "https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W"
-        },
-        {
-          "name": "Nene",
-          "url": "https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K"
+          "name": "Kim eun young",
+          "url": "https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg"
         }
       ],
-      "duration_ms": 206583,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4"
+      "duration_ms": 237372,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr"
     },
     {
       "added_at": "2025-02-14 08:13:21",

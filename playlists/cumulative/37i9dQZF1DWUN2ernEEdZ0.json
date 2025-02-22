@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-01-25",
-  "description": "Introducing the hottest new classical music of 2025\ud83d\udd25\nCover: Jeneba Kanneh-Mason.",
+  "description": "Introducing the hottest new classical music of 2025\ud83d\udd25\nCover: Bruce Liu.",
   "name": "Fresh Classical 2025",
   "tracks": [
     {
@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: 6 Pieces, Op. 51: No. 6, Valse sentimentale",
+        "url": "https://open.spotify.com/album/6GQvZbLGugS5gFS1xVLf6z"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302213,
+      "name": "6 Pieces, Op. 51: No. 6, Valse sentimentale",
+      "url": "https://open.spotify.com/track/2cNfOValxCUFQEKULgW6yj"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: 6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
         "url": "https://open.spotify.com/album/6GPuwbL2rnvnBSb52rGzmi"
       },
@@ -50,6 +72,28 @@
       "duration_ms": 150493,
       "name": "6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
       "url": "https://open.spotify.com/track/0OTFk2oQlWeNaQzOiSKDdt"
+    },
+    {
+      "album": {
+        "name": "A Song for Winter",
+        "url": "https://open.spotify.com/album/4IsboqP2yLMpOphwtYFjQI"
+      },
+      "artists": [
+        {
+          "name": "Lauri Porra",
+          "url": "https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn"
+        },
+        {
+          "name": "Mumintrollen",
+          "url": "https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218743,
+      "name": "A Song for Winter",
+      "url": "https://open.spotify.com/track/3YZknWknkGZ9JGQuJoBAIS"
     },
     {
       "album": {
@@ -124,6 +168,32 @@
       "duration_ms": 156218,
       "name": "Beau soir, CD 84 (Performed on Harp & Saxophone)",
       "url": "https://open.spotify.com/track/2CKg3VJaUVY1gQvOgksoK5"
+    },
+    {
+      "album": {
+        "name": "Cooper: Berriedale at Dawn",
+        "url": "https://open.spotify.com/album/3rvBNbZ0jGuKFBPUk7ayJQ"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Berriedale at Dawn",
+      "url": "https://open.spotify.com/track/0UQRXrGBIw6wloUYfQIu3Q"
     },
     {
       "album": {
@@ -215,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/6NQac6RUcvHDESG7MoVewZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Kozobolis",
+          "url": "https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227050,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/16M1d6DBt5G5xKcKiGNULe"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg"
       },
@@ -260,6 +348,28 @@
       "duration_ms": 159000,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/5H8J2tpffXo88nDKA9kFjl"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sophie Pacini",
+          "url": "https://open.spotify.com/artist/3ta2MB7zIScVq8qN8K4441"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146426,
+      "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/36d8yTta1liXPnFGWjRGSp"
     },
     {
       "album": {
@@ -537,6 +647,36 @@
     },
     {
       "album": {
+        "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
+        "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Stewart Goodyear",
+          "url": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Andrew Constantine",
+          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320666,
+      "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
+      "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
+    },
+    {
+      "album": {
         "name": "Liszt: Espressivo (from Piano Sonata in B Minor, S. 178)",
         "url": "https://open.spotify.com/album/7LhcRWE14SxBw1Z54rNlcn"
       },
@@ -599,6 +739,40 @@
     },
     {
       "album": {
+        "name": "Renaissance (Main Theme from \"The White Lotus, Series 2\") [Arr. Metcalfe for Guitar, String Quintet & Percussion]",
+        "url": "https://open.spotify.com/album/1z134JOpvB2nhJgQYKbqLK"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        },
+        {
+          "name": "Carducci String Quartet",
+          "url": "https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI"
+        },
+        {
+          "name": "Sam Becker",
+          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
+        },
+        {
+          "name": "Elsa Bradley",
+          "url": "https://open.spotify.com/artist/0jmzQxOsKeghTYLLLnLjt6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265002,
+      "name": "Renaissance (Main Theme from \"The White Lotus, Series 2\") [Arr. Metcalfe for Guitar, String Quintet & Percussion]",
+      "url": "https://open.spotify.com/track/0UaruzqKjIV2SKgkzDb65f"
+    },
+    {
+      "album": {
         "name": "Made in USA: Gershwin, Beach & Barber",
         "url": "https://open.spotify.com/album/3QrvbRw6k8pVVUN49vWCwF"
       },
@@ -621,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220149,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6xvYKwgflLoK9ScVi94YQb"
+    },
+    {
+      "album": {
         "name": "The Summer Portraits",
         "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
       },
@@ -636,6 +828,36 @@
       "duration_ms": 259120,
       "name": "Rose Bay",
       "url": "https://open.spotify.com/track/1EnWUJvL6apLFYFi0iFuyD"
+    },
+    {
+      "album": {
+        "name": "Paganini: 24 Caprices \u2014 Caprices by Berlioz, Cervell\u00f3, Kreisler, Ortiz, Saint-Sa\u00ebns, Sarasate, Wieniawski",
+        "url": "https://open.spotify.com/album/62fO65dt8t8rpLCULZKRKa"
+      },
+      "artists": [
+        {
+          "name": "Hector Berlioz",
+          "url": "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Mihhail Gerts",
+          "url": "https://open.spotify.com/artist/7eUtW6pegtnlIFXFDH8g9J"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509853,
+      "name": "R\u00eaverie et caprice, H. 88",
+      "url": "https://open.spotify.com/track/6Pn0dOVDcJh0LHwZydFBJM"
     },
     {
       "album": {
@@ -723,6 +945,44 @@
     },
     {
       "album": {
+        "name": "Theme of Love (From \"Final Fantasy IV\") [Arr. Lawson for Harp & String Quartet]",
+        "url": "https://open.spotify.com/album/0O0MI4TSfNiAUijlkb4anL"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        },
+        {
+          "name": "Ellie Consta",
+          "url": "https://open.spotify.com/artist/7BXRLEAJqCe6ou9He6NNfd"
+        },
+        {
+          "name": "Emma Oldfield",
+          "url": "https://open.spotify.com/artist/5jnbySBiE9fjOWZ8BoGiWW"
+        },
+        {
+          "name": "Ben Norris",
+          "url": "https://open.spotify.com/artist/0LCDBv0Ie9jApx4YsTScil"
+        },
+        {
+          "name": "Deni Teo",
+          "url": "https://open.spotify.com/artist/3eAb1yh7Caexfi7iTsWNfL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210740,
+      "name": "Theme of Love (From \"Final Fantasy IV\") [Arr. Lawson for Harp & String Quartet]",
+      "url": "https://open.spotify.com/track/0dlSVqBZ2ABR4RZvD48vw7"
+    },
+    {
+      "album": {
         "name": "Together Without You (Solo Piano Version)",
         "url": "https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8"
       },
@@ -738,6 +998,44 @@
       "duration_ms": 213688,
       "name": "Together Without You (Solo Piano Version)",
       "url": "https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT"
+    },
+    {
+      "album": {
+        "name": "Hymns of Bantu",
+        "url": "https://open.spotify.com/album/4umJVHtks4Dr63htyCQ5nq"
+      },
+      "artists": [
+        {
+          "name": "Abel Selaocoe",
+          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        },
+        {
+          "name": "Fred Thomas",
+          "url": "https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB"
+        },
+        {
+          "name": "Alan Keary",
+          "url": "https://open.spotify.com/artist/6KuGCMBdiLwGRWZE9xAmVe"
+        },
+        {
+          "name": "Sidiki Dembele",
+          "url": "https://open.spotify.com/artist/7wrsYyNdxtOj6XOUv4bx2H"
+        },
+        {
+          "name": "Dud\u00f9 Kouate",
+          "url": "https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353440,
+      "name": "Tsohle Tsohle",
+      "url": "https://open.spotify.com/track/6fPJv5AOm392XonIGAzr9C"
     },
     {
       "album": {
@@ -768,6 +1066,36 @@
       "duration_ms": 181706,
       "name": "Turandot, SC 91: Nessun dorma",
       "url": "https://open.spotify.com/track/6zagJMi6gpqVQSX8yWNe3F"
+    },
+    {
+      "album": {
+        "name": "Variations on a Rococo Theme, Op. 33/Var. 6 - Andante",
+        "url": "https://open.spotify.com/album/7rPUNWNpNKk7UsRPpjR4zL"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Variations on a Rococo Theme, Op. 33: Var. 6 - Andante",
+      "url": "https://open.spotify.com/track/5FglAPV5eLYOGfZ9oZi5ac"
     },
     {
       "album": {

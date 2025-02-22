@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "OIL MONEY - EP",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
+    },
+    {
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3s3zL0GTPCOopTqv9laBQy"
       },
@@ -2668,6 +2686,24 @@
       "duration_ms": 281280,
       "name": "Tell It to the Bottle (feat. Crucifix)",
       "url": "https://open.spotify.com/track/5fk1AIw7aq6KrFiVw9cLXP"
+    },
+    {
+      "album": {
+        "name": "Ten Sleep",
+        "url": "https://open.spotify.com/album/2AWfriEhdXaip2awdaGaS4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Charles",
+          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189238,
+      "name": "Ten Sleep",
+      "url": "https://open.spotify.com/track/0QQ0NWRSs03KP9TFoWkM8A"
     },
     {
       "album": {

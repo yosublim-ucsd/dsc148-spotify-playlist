@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Lacuna Coil.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Orthodox.
 
-915 songs - 2 day 9 hr 22 min
+921 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 | 2024-02-16 |  |
 | [Coalescence](https://open.spotify.com/track/6Q40M2CmHgZWDpCghLLhH6) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Coalescence](https://open.spotify.com/album/1yTkDFttSeUh5bKufYBGbj) | 3:13 | 2022-01-14 | 2023-07-15 |
 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-10 | 2024-02-03 |
+| [Coin](https://open.spotify.com/track/2YA3cfSILVByNuF5kibeyJ) | [Scour](https://open.spotify.com/artist/6SoZi6u1HOTJ33PrXjMxlo) | [Gold](https://open.spotify.com/album/1rhoN9xm5vh6RVWj1NulnZ) | 3:30 | 2025-02-21 |  |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2023-07-15 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-18 | 2023-07-15 |
 | [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 | 2025-01-17 |  |
@@ -153,6 +154,7 @@
 | [Collapse](https://open.spotify.com/track/18rWDMiC3wqHOaWiTg4My2) | [REZN](https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK) | [Collapse](https://open.spotify.com/album/5GVwROoQpQE8f5KwjfoNcO) | 5:33 | 2024-05-10 |  |
 | [Collider](https://open.spotify.com/track/6IlKPlDPBvx11UFTfdaxOt) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Collider](https://open.spotify.com/album/5U6toqNWDTsxJiYhn1ZUVy) | 3:41 | 2023-08-25 | 2024-02-03 |
 | [Come Hell or High Water](https://open.spotify.com/track/1GSblkbCQSZqMQ34v09fjT) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Come Hell or High Water](https://open.spotify.com/album/5LRfZzTWHyvgnEy3uPyFiS) | 3:47 | 2023-06-23 | 2024-02-03 |
+| [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-02-21 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-02 | 2023-07-15 |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 | 2023-07-15 |
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 | 2023-07-15 |
@@ -164,6 +166,7 @@
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
 | [Crazed Killer](https://open.spotify.com/track/0AcEacMQ5DjNKK6Nynh9pl) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Crazed Killer](https://open.spotify.com/album/27PfQknaNIiFDWsKxYM93n) | 1:37 | 2025-02-14 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 |  |
+| [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 |  |
@@ -298,6 +301,7 @@
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-10-21 | 2023-07-15 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2023-07-15 |
 | [Forgotten](https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Forgotten](https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1) | 2:55 | 2023-08-11 | 2024-02-03 |
+| [Forlorn](https://open.spotify.com/track/7F9ZH9FyBocFd8VoJg0yRR) | [Amenra](https://open.spotify.com/artist/0N1jE1EIrhZjvQSfuLupUu) | [Forlorn](https://open.spotify.com/album/6QEJNodzY85qNeuDUmrxKU) | 8:00 | 2025-02-21 |  |
 | [Fortress of Torture](https://open.spotify.com/track/5XHC0TN0uBzgUulFXUaSXj) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Fortress of Torture](https://open.spotify.com/album/1HAZFcWJWu9RWbND8aqkAN) | 1:28 | 2022-08-12 | 2023-07-15 |
 | [Fouled Sanctity](https://open.spotify.com/track/1yHIWvdf7X7oJdU8STMjXp) | [Volcandra](https://open.spotify.com/artist/09uP3sh4NKm3ysw9lLT9PC) | [Fouled Sanctity](https://open.spotify.com/album/1cxb9AnpDt5SNyBzCTJPxs) | 4:04 | 2024-02-02 |  |
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 | 2023-07-15 |
@@ -435,6 +439,7 @@
 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 | 2024-05-24 |  |
 | [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-15 |  |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2023-07-15 |
+| [Lord Humungus](https://open.spotify.com/track/365tO9p3MqbVcRZELUlArm) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Lord Humungus](https://open.spotify.com/album/23rrbT4rvGKi7ALXJnYEtb) | 3:34 | 2025-02-21 |  |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2023-07-15 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 | 2024-02-03 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2024-02-03 |
@@ -759,6 +764,7 @@
 | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/album/2yaFrFB0fmseL2s5maXwBO) | 2:47 | 2024-09-27 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 |  |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 | 2023-07-15 |
+| [The Fall of Us](https://open.spotify.com/track/6aDK9xX0rAV8kNY2z4s0WO) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [This Consequence](https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5) | 4:18 | 2025-02-21 |  |
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-05-31 |  |
 | [The Forever Rot](https://open.spotify.com/track/1uqOKsArhrW6RCquEJFskg) | [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [The Forever Rot](https://open.spotify.com/album/5DTA26FAILEXRnPBgwpvSi) | 6:40 | 2023-10-27 | 2024-02-03 |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 | 2023-07-15 |

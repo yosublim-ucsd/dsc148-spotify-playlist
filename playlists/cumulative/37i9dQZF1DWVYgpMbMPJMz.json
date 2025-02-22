@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Elevation Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Passion",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3373,6 +3373,28 @@
     },
     {
       "album": {
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR"
+      },
+      "artists": [
+        {
+          "name": "Noah Paul Harrison",
+          "url": "https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446196,
+      "name": "Elohim - Live",
+      "url": "https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC"
+    },
+    {
+      "album": {
         "name": "Sounds From The House (Vol. 1)",
         "url": "https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ"
       },
@@ -3738,7 +3760,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 465257,
       "name": "Fear Not (Never Stop Praying) - Live",
       "url": "https://open.spotify.com/track/2vxgT6nsitXF5J0mDXp2Ij"
@@ -5062,7 +5084,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 316843,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
@@ -6185,6 +6207,32 @@
     },
     {
       "album": {
+        "name": "I Fear No Evil (Live)",
+        "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Megan Parker",
+          "url": "https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b"
+        },
+        {
+          "name": "Whitney Wood",
+          "url": "https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361650,
+      "name": "I Fear No Evil - Live",
+      "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
+    },
+    {
+      "album": {
         "name": "I Have A Father (Live)",
         "url": "https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF"
       },
@@ -6948,7 +6996,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 268909,
       "name": "Indescribable - Live",
       "url": "https://open.spotify.com/track/3qUe5K2RfxLKU8M94bwNqQ"
@@ -10756,7 +10804,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 275769,
       "name": "Praise Belongs",
       "url": "https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V"
@@ -11288,6 +11336,32 @@
       "duration_ms": 385574,
       "name": "Remain - Live",
       "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
+    },
+    {
+      "album": {
+        "name": "Remember Christ",
+        "url": "https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ"
+      },
+      "artists": [
+        {
+          "name": "CXMMXNS",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+        },
+        {
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/6nDx8ANxjcMmTthi8yVf8o"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190257,
+      "name": "Remember Christ",
+      "url": "https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf"
     },
     {
       "album": {
@@ -12828,7 +12902,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 263466,
       "name": "Thank You Jesus - Live",
       "url": "https://open.spotify.com/track/0J6stnJiIO8QC6sCQzGZsX"
@@ -13288,7 +13362,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 231400,
       "name": "The Jesus Way - Radio Version",
       "url": "https://open.spotify.com/track/6wqH0ALMbqxqZw2JrDxeDE"
@@ -13379,6 +13453,24 @@
     },
     {
       "album": {
+        "name": "The King Is In The Room",
+        "url": "https://open.spotify.com/album/46J1pbxjhBEUgfwCWPnWfH"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/6rVN4LZjoEEGWmcEZ7QIfF"
+    },
+    {
+      "album": {
         "name": "The King Of Glory (Live)",
         "url": "https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3"
       },
@@ -13420,6 +13512,36 @@
       "duration_ms": 449474,
       "name": "The Lamb Slain - Live",
       "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
+    },
+    {
+      "album": {
+        "name": "Call On Heaven (Come, Lord Jesus) - Live",
+        "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362680,
+      "name": "The Lamb's Book of Life - Live From Passion 2025",
+      "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
     },
     {
       "album": {

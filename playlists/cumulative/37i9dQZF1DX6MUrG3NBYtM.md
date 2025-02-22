@@ -2,9 +2,9 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Indie & Alternative\. Cover: beabadoobee
+> De beste Indie & Alternative\. Cover: Hiqpy
 
-148 songs - 8 hr 52 min
+153 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-26 | 2024-11-07 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-11 | 2025-01-14 |
 | [Feeling Alright](https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Feeling Alright](https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI) | 3:37 | 2024-06-26 | 2024-09-25 |
+| [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2025-02-21 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2024-06-26 | 2024-11-07 |
 | [For a Friend](https://open.spotify.com/track/2mLdVh2Qxkf8UFBAKRHH6w) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [For a Friend](https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg) | 3:18 | 2024-11-06 |  |
 | [For My Mind](https://open.spotify.com/track/2RmHzwcC72loQo73q9pAJP) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 6:02 | 2024-06-26 | 2024-09-25 |
@@ -47,6 +48,7 @@
 | [Gold](https://open.spotify.com/track/1md0I3tdjPOYLhb6bfU5rD) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/0lzD8E6TeZpHw3hMoZEA59) | 2:54 | 2024-10-18 | 2025-01-17 |
 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 | 2025-01-06 |  |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-18 | 2024-10-25 |
+| [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-02-21 |  |
 | [Hot Love](https://open.spotify.com/track/7oVZRiYQvW2KxELvhwEJ0t) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Corner Cutter](https://open.spotify.com/album/2oVRCSn7HvXRlNN9f7nFtE) | 3:18 | 2024-06-26 | 2024-09-25 |
 | [how bad could it be](https://open.spotify.com/track/4Dj8VDoJPIYkryOKrJdI0e) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:08 | 2024-06-26 | 2024-11-07 |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-01-23 |  |
@@ -56,6 +58,7 @@
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2025-01-06 |  |
 | [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-11-06 |  |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2024-06-26 | 2024-07-12 |
+| [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-02-21 |  |
 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 | 2025-01-16 |  |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-11-06 |  |
 | [Infinity Song \(edit\)](https://open.spotify.com/track/0pH3Jhbb7PJoytsHRrEzC2) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/6WRdoVlzOf1NWEKqDh7hBL) | 3:04 | 2024-06-26 | 2025-01-24 |
@@ -94,6 +97,7 @@
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-01-23 |  |
 | [No Surprise](https://open.spotify.com/track/3CwHonJzs4dZuASYwTjEYf) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [No Surprise](https://open.spotify.com/album/2xpXAVpzwfzp1Zm4vgeTXY) | 3:44 | 2024-11-06 |  |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-11-22 | 2025-01-24 |
+| [Not All Is in Vain](https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Not All Is in Vain](https://open.spotify.com/album/14jt7XaL3XqNegGQQMN1F9) | 5:18 | 2025-02-21 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-06-26 | 2024-09-27 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-06-26 | 2024-11-23 |
 | [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2024-06-26 | 2024-07-19 |
@@ -115,6 +119,7 @@
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-02-06 |  |
 | [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 | 2025-01-06 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-26 | 2025-01-07 |
+| [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 | 2025-02-21 |  |
 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 | 2024-11-06 | 2025-01-07 |
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-06-26 | 2025-01-17 |
 | [Sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 | 2025-01-23 |  |

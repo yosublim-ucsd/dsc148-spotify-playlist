@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Ravyn Lenae
 
-461 songs - 23 hr 8 min
+462 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-12 | 2024-04-24 |
 | [Letter 2 Myself](https://open.spotify.com/track/0zvrOBR7cTCzYf7AFaw1z4) | [Chesle](https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2) | [Letter 2 Myself](https://open.spotify.com/album/0vYXfkK1E5GrQagUWiGgxc) | 2:45 | 2024-06-14 | 2024-12-07 |
 | [Lift Me Up](https://open.spotify.com/track/2ELn4AbxtbATXMsPDkEyjh) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD), [James Ian](https://open.spotify.com/artist/5oOFQ8WI7kQxsyTw2gkC8b), [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [Lift Me Up](https://open.spotify.com/album/7nNO2GemVOjoyDpji26fnz) | 3:47 | 2023-08-04 | 2024-06-01 |
-| [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 | 2024-08-23 |  |
+| [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 | 2024-08-23 | 2025-02-22 |
 | [Like This, Like That](https://open.spotify.com/track/3F2dQOabfFV8YEjgpUN5nq) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Like This, Like That](https://open.spotify.com/album/573O96cjJWdTuiSlmLDuN2) | 3:26 | 2023-02-17 | 2023-07-22 |
 | [Likkle Darling](https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Likkle Darling](https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9) | 1:54 | 2022-02-11 | 2023-01-28 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-18 | 2024-06-01 |
@@ -301,6 +301,7 @@
 | [Nothing More To Say](https://open.spotify.com/track/6AZeqOMQc0S7gpnmPJ34ao) | [N:Fostell](https://open.spotify.com/artist/4ligbK5FWMxDPjFrC6x47g), [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Nothing More To Say](https://open.spotify.com/album/4juVV3OmMLrOF4fe3gniQ0) | 3:24 | 2022-02-04 | 2023-01-28 |
 | [Oh I](https://open.spotify.com/track/6Zii2QVdPFQkccXb6xfVyp) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3EPXB5kegS61bKckB7EBkh) | 3:57 | 2024-08-30 | 2024-12-07 |
 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-05-31 | 2024-06-15 |
+| [ON THE MONEY](https://open.spotify.com/track/4X4QySVLdBnOd2HoXQLs0I) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [ON THE MONEY](https://open.spotify.com/album/7tjJBbMowzxHXnd5Xl4pRf) | 2:24 | 2025-02-21 |  |
 | [One Good Thing](https://open.spotify.com/track/62xicKmz7afi8hjv4NdtSv) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [One Good Thing](https://open.spotify.com/album/6muLxsmUD9rwyTJ0gZb43T) | 4:04 | 2025-01-10 |  |
 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 | 2022-02-04 | 2023-01-28 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-14 | 2024-12-07 |

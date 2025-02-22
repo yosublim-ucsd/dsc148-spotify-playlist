@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 219347,
+  "num_followers": 219388,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAADoNafaHh+/2uKCOdiWQQ/a",
+  "snapshot_id": "Z7ZwgAAAAABkOaWezTTz+YhfKTHCAbIZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Quiero Mas",
+        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Yo Me Quiero Mas",
+      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Quiero Mas",
-        "url": "https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Yo Me Quiero Mas",
-      "url": "https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2"
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero Con Dinero",
-        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 134208,
-      "name": "Ranchero Con Dinero",
-      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
+      "duration_ms": 195813,
+      "name": "El Regreso Del Chapo (En Vivo)",
+      "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
     }
   ],
   "unique_name": "This Is El Komander",

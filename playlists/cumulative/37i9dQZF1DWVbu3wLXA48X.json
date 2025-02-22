@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Bon Iver",
+  "description": "Current indie tunes from Asia and around the world. Cover: Saya Gray",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 235413,
       "name": "(I'm) Stung",
       "url": "https://open.spotify.com/track/6oW5zKvWlGEZjW0EX2y9Bv"
+    },
+    {
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209100,
+      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
+      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
     },
     {
       "album": {
@@ -988,6 +1006,24 @@
       "duration_ms": 260794,
       "name": "Adriene",
       "url": "https://open.spotify.com/track/41LWp11o90tOinH3V3xpky"
+    },
+    {
+      "album": {
+        "name": "Aeroplane",
+        "url": "https://open.spotify.com/album/1ktPfnZAzUcMGpuHxgs3RF"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Aeroplane - Single Edit",
+      "url": "https://open.spotify.com/track/7iWHPvGnF0JhXlV8rI7xDP"
     },
     {
       "album": {
@@ -9329,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "album": {
         "name": "Dust Bunny",
         "url": "https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro"
       },
@@ -9950,7 +10004,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 170463,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3nJbKOd5abaPWCfBlshuO7"
@@ -10286,6 +10340,28 @@
       "duration_ms": 227997,
       "name": "Every Time the Sun Comes Up - Alternate Version",
       "url": "https://open.spotify.com/track/7wF8DXM0MZL7q5Q4gLChHh"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        },
+        {
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394906,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
     },
     {
       "album": {
@@ -13448,6 +13524,24 @@
     {
       "album": {
         "name": "Green",
+        "url": "https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237489,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C"
+    },
+    {
+      "album": {
+        "name": "Green",
         "url": "https://open.spotify.com/album/3HseNECeqM5CL7GEdg2YM3"
       },
       "artists": [
@@ -13614,6 +13708,24 @@
       "duration_ms": 181333,
       "name": "Gummy",
       "url": "https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE"
+    },
+    {
+      "album": {
+        "name": "Gumshoe (Dracula From Arkansas)",
+        "url": "https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246793,
+      "name": "Gumshoe (Dracula From Arkansas)",
+      "url": "https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi"
     },
     {
       "album": {
@@ -16961,6 +17073,24 @@
     },
     {
       "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
+    },
+    {
+      "album": {
         "name": "It's Not Just Me, It's Everybody",
         "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
       },
@@ -18649,6 +18779,24 @@
     },
     {
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "album": {
         "name": "Little Bother (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
       },
@@ -19883,6 +20031,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
+    {
+      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/3iWkBhtKdPdzo7opnJRmTX"
       },
@@ -21033,6 +21199,24 @@
     },
     {
       "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/2mc8z8p5BSchhpD6wBcpEw"
       },
@@ -21146,6 +21330,24 @@
       "duration_ms": 190592,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL"
+    },
+    {
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "album": {
@@ -25731,6 +25933,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/03hsJO3aPFCbKhjTNUAlE0"
+      },
+      "artists": [
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168483,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/3d1QCZB5J4zWMMXZ8WkFBm"
+    },
+    {
+      "album": {
         "name": "punkt",
         "url": "https://open.spotify.com/album/1MZG06naKW8R00sHwVY40y"
       },
@@ -26345,6 +26565,28 @@
     },
     {
       "album": {
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228762,
+      "name": "Rearrange My World",
+      "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
+    },
+    {
+      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -26436,6 +26678,24 @@
       "duration_ms": 221909,
       "name": "Red Wine",
       "url": "https://open.spotify.com/track/5C0EJsIQXMQt97tTs3ZVh6"
+    },
+    {
+      "album": {
+        "name": "Residue",
+        "url": "https://open.spotify.com/album/25erL3lsyVhn3UhkzNs0YN"
+      },
+      "artists": [
+        {
+          "name": "Midnight Fusic",
+          "url": "https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313689,
+      "name": "Residue",
+      "url": "https://open.spotify.com/track/3FqdsybsFLPLP9z6cvgRNl"
     },
     {
       "album": {
@@ -27789,6 +28049,24 @@
     },
     {
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187996,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0OXFxh0kceGnXyzYo9HNLl"
       },
@@ -27930,6 +28208,24 @@
       "duration_ms": 174285,
       "name": "Seeking For Connection",
       "url": "https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk"
+    },
+    {
+      "album": {
+        "name": "It's Terrifying and It's a Shame",
+        "url": "https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo"
+      },
+      "artists": [
+        {
+          "name": "Milledenials",
+          "url": "https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Self Destruct & Scott Emotion (You Watched Myself Getting Destructed)",
+      "url": "https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G"
     },
     {
       "album": {

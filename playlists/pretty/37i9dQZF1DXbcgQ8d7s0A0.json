@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1333367,
+  "num_followers": 1333614,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -839,22 +823,18 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs"
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 289173,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
+      "duration_ms": 288653,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -871,6 +851,26 @@
       "duration_ms": 259666,
       "name": "Rhythm Of Life",
       "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
     },
     {
       "added_at": "2024-06-24 11:23:29",

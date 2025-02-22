@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-922 songs - 2 day 4 hr 14 min
+923 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |
 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 | 2024-01-29 | 2024-04-19 |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |
+| [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 | 2025-02-21 |  |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-24 | 2022-05-07 |
 | [Unbound](https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Unbound](https://open.spotify.com/album/65xq8ZR0EEGPJ21w4bivCI) | 3:43 | 2023-01-18 | 2023-04-05 |
 | [Unbreakable](https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Unbreakable](https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19) | 2:54 | 2022-09-30 | 2022-12-04 |

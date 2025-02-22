@@ -1,13 +1,29 @@
 {
-  "description": "next gen pop\n\nCover: Rose Gray",
-  "num_followers": 1286506,
+  "description": "next gen pop\n\nCover: Addison Rae",
+  "num_followers": 1286432,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N4QAAAAACU/blDXU+q3+qZBUjiZMd",
+  "snapshot_id": "Z7gIcwAAAADzlQsMHhBL2C1T6uM0IP8A",
   "tracks": [
+    {
+      "added_at": "2025-02-14 05:00:17",
+      "album": {
+        "name": "High Fashion",
+        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
+    },
     {
       "added_at": "2025-02-14 05:00:17",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 231821,
       "name": "Everything Changes (But I Won't)",
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:35",
+      "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
       "added_at": "2025-02-07 05:00:38",
@@ -73,6 +105,30 @@
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
     },
     {
+      "added_at": "2025-02-21 05:00:35",
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
+    },
+    {
       "added_at": "2025-01-24 05:00:52",
       "album": {
         "name": "Goals",
@@ -87,22 +143,6 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
-    },
-    {
-      "added_at": "2025-02-14 05:00:17",
-      "album": {
-        "name": "High Fashion",
-        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 198172,
-      "name": "High Fashion",
-      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -185,6 +225,22 @@
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
     },
     {
+      "added_at": "2025-02-21 05:00:35",
+      "album": {
+        "name": "You Happened",
+        "url": "https://open.spotify.com/album/0v9VXrQfb9dZ6YR2iXAOYY"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 150560,
+      "name": "You Happened",
+      "url": "https://open.spotify.com/track/7GBHv7zloFN0GujA1Q9f2C"
+    },
+    {
       "added_at": "2025-01-24 05:00:52",
       "album": {
         "name": "Traitor",
@@ -215,6 +271,22 @@
       "duration_ms": 217066,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/0KjtkLC1AVfhTh1ftQTR6M"
+    },
+    {
+      "added_at": "2025-02-21 05:00:35",
+      "album": {
+        "name": "picky",
+        "url": "https://open.spotify.com/album/7vbfvRCK066QKVJMw2Klp9"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "duration_ms": 140525,
+      "name": "picky",
+      "url": "https://open.spotify.com/track/77cH2S9PUi90bz8XPchqTT"
     },
     {
       "added_at": "2025-01-17 05:01:01",
@@ -279,6 +351,22 @@
       "duration_ms": 178743,
       "name": "blasphemy!",
       "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:35",
+      "album": {
+        "name": "STORIES",
+        "url": "https://open.spotify.com/album/0Un73xA0BUaLgmoorkouHQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 151812,
+      "name": "STORIES",
+      "url": "https://open.spotify.com/track/6Vr5DaX8leoiFUSuVs0FvO"
     },
     {
       "added_at": "2025-01-17 05:01:01",
@@ -553,42 +641,6 @@
       "url": "https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "No Genius",
-        "url": "https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5"
-      },
-      "artists": [
-        {
-          "name": "Raissa",
-          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
-        },
-        {
-          "name": "Rahim Redcar",
-          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "No Genius",
-      "url": "https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "EVERYTIME",
-        "url": "https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "EVERYTIME",
-      "url": "https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop"
-    },
-    {
       "added_at": "2025-01-24 05:00:52",
       "album": {
         "name": "AFTERCARE",
@@ -763,22 +815,6 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "generation numb",
-        "url": "https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL"
-      },
-      "artists": [
-        {
-          "name": "Kate Peytavin",
-          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "all i do",
-      "url": "https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1157,22 +1193,6 @@
       "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Back To Then",
-        "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Back To Then",
-      "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Vertigo",
@@ -1479,22 +1499,6 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 161976,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
     },
     {
       "added_at": "2024-10-04 04:00:00",

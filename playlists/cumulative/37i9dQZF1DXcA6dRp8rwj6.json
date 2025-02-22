@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Jack Harlow)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: j-hope, Don Toliver, Pharrell Williams)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 222119,
       "name": "5 Dollar Pony Rides",
       "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 248160,
       "name": "Big Racks (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/78yaF5XiIF5TA9klP3YoR0"
@@ -7290,6 +7290,32 @@
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/3W3BWijh6x3oLjBfrS3KQ7"
+    },
+    {
+      "album": {
+        "name": "body",
+        "url": "https://open.spotify.com/album/4DL4s44whuK0jdFRonfrOn"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204851,
+      "name": "body",
+      "url": "https://open.spotify.com/track/6NGbhbDCVG8KSJLlJrzLrd"
     },
     {
       "album": {
@@ -9437,6 +9463,32 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/6luzuOHCjfR1zkzjKCcY4S"
+      },
+      "artists": [
+        {
+          "name": "Fangtatis",
+          "url": "https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY"
+        },
+        {
+          "name": "Boogiemen",
+          "url": "https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2"
+        },
+        {
+          "name": "Bloodlyne",
+          "url": "https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1HRmXrpgzEgWJRGiIKHTl0"
+    },
+    {
+      "album": {
         "name": "Cell 245 - Prison Tapes",
         "url": "https://open.spotify.com/album/0e1i4sEOKsvbn4x7uUx4dY"
       },
@@ -10476,7 +10528,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 181225,
       "name": "Clear the Air",
       "url": "https://open.spotify.com/track/5eb9Hd6OnD3IYgHOUuuY7i"
@@ -12856,7 +12908,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 125142,
       "name": "Diana (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
@@ -14194,7 +14246,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 227368,
       "name": "Drank",
       "url": "https://open.spotify.com/track/1ssylCrMLzIlvMfvPGSPF6"
@@ -15466,6 +15518,28 @@
       "duration_ms": 165417,
       "name": "Extendo",
       "url": "https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh"
+    },
+    {
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
     },
     {
       "album": {
@@ -17598,7 +17672,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 156111,
       "name": "Frontiers",
       "url": "https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR"
@@ -17770,7 +17844,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 134166,
       "name": "fuh",
       "url": "https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud"
@@ -19968,7 +20042,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
@@ -23661,6 +23735,28 @@
     },
     {
       "album": {
+        "name": "ILBB2 (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
+      },
+      "artists": [
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133589,
+      "name": "ILBB2 (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
+    },
+    {
+      "album": {
         "name": "ILL WHAT I BLEED",
         "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
       },
@@ -24842,7 +24938,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163950,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/1Db1bT0WW1sexHQpuE58HY"
@@ -25635,6 +25731,24 @@
     },
     {
       "album": {
+        "name": "Khali Infamous",
+        "url": "https://open.spotify.com/album/4SboharBfnTfevR7jsSwCv"
+      },
+      "artists": [
+        {
+          "name": "Khali Infamous",
+          "url": "https://open.spotify.com/artist/3gZ9oSc9r4OODgRi2c4XHT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164038,
+      "name": "Keep the Faith",
+      "url": "https://open.spotify.com/track/1982tQA20Ly1oBjtunUTZX"
+    },
+    {
+      "album": {
         "name": "Keep Up / All Night",
         "url": "https://open.spotify.com/album/2RGLsqqp9TiFYMvZjcpcVW"
       },
@@ -26012,7 +26126,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 60923,
       "name": "KITTY",
       "url": "https://open.spotify.com/track/4QkQ7JqbrGOsu1dkVKGn2a"
@@ -26480,7 +26594,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 213608,
       "name": "Lay Down - Remix",
       "url": "https://open.spotify.com/track/4MtdVcnZZ9WjssJV4whnPQ"
@@ -28352,7 +28466,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
@@ -28378,6 +28492,36 @@
       "duration_ms": 138336,
       "name": "LUXURY LIFE (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP"
+    },
+    {
+      "album": {
+        "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+        "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8"
     },
     {
       "album": {
@@ -33391,6 +33535,24 @@
     },
     {
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "album": {
         "name": "Lovebr\u00fbl\u00e9eADVISORY",
         "url": "https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI"
       },
@@ -35110,7 +35272,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185346,
       "name": "Ooweee",
       "url": "https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG"
@@ -35941,6 +36103,24 @@
     },
     {
       "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
+    },
+    {
+      "album": {
         "name": "Paris to Tokyo",
         "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
       },
@@ -36264,6 +36444,28 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Az Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155917,
+      "name": "peekaboo (feat. azchike)",
+      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
     },
     {
       "album": {
@@ -37402,7 +37604,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 166363,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3"
@@ -38865,6 +39067,28 @@
     },
     {
       "album": {
+        "name": "Rain Snow",
+        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191598,
+      "name": "Rain Snow",
+      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+    },
+    {
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -39254,6 +39478,24 @@
       "duration_ms": 216496,
       "name": "Refresh",
       "url": "https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj"
+    },
+    {
+      "album": {
+        "name": "BIGBODYQUEST",
+        "url": "https://open.spotify.com/album/3fRxfIyOYzlTRx5sSKyxCq"
+      },
+      "artists": [
+        {
+          "name": "Quest*",
+          "url": "https://open.spotify.com/artist/1ANrMVKvNeUO7S4uHBTtLS"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143777,
+      "name": "REJECT",
+      "url": "https://open.spotify.com/track/6e0Xs7llb4JgxHKxsThOEP"
     },
     {
       "album": {
@@ -42376,7 +42618,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 165965,
       "name": "Shit Show (feat. Veeze & Lil Yachty)",
       "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
@@ -44682,7 +44924,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 113286,
       "name": "Squid Game (\uc624\uc9d5\uc5b4 \uac8c\uc784)",
       "url": "https://open.spotify.com/track/7LaXiOmyEDqjiOzhLSXnlm"
@@ -47782,7 +48024,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
@@ -48030,6 +48272,36 @@
       "duration_ms": 175894,
       "name": "The Chosen",
       "url": "https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y"
+    },
+    {
+      "album": {
+        "name": "CHAMBERED HEART",
+        "url": "https://open.spotify.com/album/1q5iH1kWDiOjC7G8cGsQOH"
+      },
+      "artists": [
+        {
+          "name": "Calix",
+          "url": "https://open.spotify.com/artist/3gEaOQBVDqW6dRJtFap8pi"
+        },
+        {
+          "name": "Yorko",
+          "url": "https://open.spotify.com/artist/5nArwxGolJARyZ6YhtCovi"
+        },
+        {
+          "name": "SHNTI",
+          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "THE CHURN",
+      "url": "https://open.spotify.com/track/4Gx1EBFpsBd5kFBuKjtS3v"
     },
     {
       "album": {
@@ -49290,7 +49562,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 92344,
       "name": "Tic Tic",
       "url": "https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq"
@@ -50417,6 +50689,24 @@
     },
     {
       "album": {
+        "name": "Trappa Rappa",
+        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Trappa Rappa",
+      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
+    },
+    {
+      "album": {
         "name": "Trapped Out",
         "url": "https://open.spotify.com/album/1svAp7AVvFhhEgYXayOgKo"
       },
@@ -50512,7 +50802,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 115683,
       "name": "Treasure Island",
       "url": "https://open.spotify.com/track/2VJjZNIizvxz8LJGmwMeHy"
@@ -51742,7 +52032,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 241040,
       "name": "Until I\u2019m Gone",
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
@@ -52528,7 +52818,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 140195,
       "name": "WANI",
       "url": "https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn"
@@ -54522,7 +54812,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 208831,
       "name": "Woah",
       "url": "https://open.spotify.com/track/37rxbUlFTtQMX2JxirVGi1"
@@ -55076,7 +55366,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 203984,
       "name": "Xmas Time (with Kehlani)",
       "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"

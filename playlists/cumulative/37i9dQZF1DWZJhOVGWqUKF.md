@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Memphis May Fire
 
-370 songs - 21 hr 9 min
+372 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 | 2024-10-17 | 2025-01-17 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-06-27 | 2024-11-15 |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-04 | 2024-08-09 |
-| [FRIENDS LIKE YOU](https://open.spotify.com/track/6zFXGZbRHKk5AXOaqViPvD) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [FRIENDS LIKE YOU](https://open.spotify.com/album/78O3ZT5SZz5NI91sfzr4Wv) | 3:12 | 2025-02-13 |  |
+| [FRIENDS LIKE YOU](https://open.spotify.com/track/6zFXGZbRHKk5AXOaqViPvD) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [FRIENDS LIKE YOU](https://open.spotify.com/album/78O3ZT5SZz5NI91sfzr4Wv) | 3:12 | 2025-02-13 | 2025-02-22 |
 | [FRONTROW](https://open.spotify.com/track/4LnuYEIU1fGiDmkWlhmI1q) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [FRONTROW](https://open.spotify.com/album/4sRpNarWu6ekrbq3caCbXF) | 3:30 | 2025-02-06 | 2025-02-14 |
 | [Full Of Emptiness](https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Full Of Emptiness](https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa) | 2:54 | 2024-08-08 | 2024-10-06 |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2025-01-24 |
@@ -213,6 +213,7 @@
 | [Lunch](https://open.spotify.com/track/0enROTsNemV6L7XFZ74oLk) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB) | [Lunch](https://open.spotify.com/album/496aKcHx3hvR1tOc3OdhWB) | 2:30 | 2024-12-12 | 2024-12-20 |
 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 | 2024-08-29 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 |  |
+| [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 | 2025-02-21 |  |
 | [Make Me Feel Alright](https://open.spotify.com/track/5MutMUzBiao3LC3JYJQTmR) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Jules Mitch](https://open.spotify.com/artist/4HY3x6qkNiRgsiBcpfrDrU) | [Make Me Feel Alright](https://open.spotify.com/album/4ngSbRrhcWDXpD9ou6KAvM) | 3:23 | 2024-11-07 | 2024-11-15 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 |  |
 | [Man or Machine](https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Man or Machine](https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo) | 2:54 | 2025-02-20 |  |
@@ -276,7 +277,7 @@
 | [Pretend](https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Pretend](https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6) | 3:05 | 2024-09-26 |  |
 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 | 2024-06-27 | 2024-08-02 |
 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-06-27 | 2024-09-21 |
-| [Pull The Tooth](https://open.spotify.com/track/7gL1toQ5PgxJ3vltTkuuEt) | [LEAVE.](https://open.spotify.com/artist/2rkUSY6802n0uDKGe9z4kI) | [Pull The Tooth](https://open.spotify.com/album/6DH7Be6W7vwTIdf8pIxiS6) | 3:01 | 2025-02-20 |  |
+| [Pull The Tooth](https://open.spotify.com/track/7gL1toQ5PgxJ3vltTkuuEt) | [LEAVE.](https://open.spotify.com/artist/2rkUSY6802n0uDKGe9z4kI) | [Pull The Tooth](https://open.spotify.com/album/6DH7Be6W7vwTIdf8pIxiS6) | 3:01 | 2025-02-20 | 2025-02-22 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-07-04 | 2024-07-06 |
 | [Rain](https://open.spotify.com/track/1Fu20YZ9zjaqyrGczvY8g6) | [SENNA](https://open.spotify.com/artist/5qq0OWzsawAVBlf63FPU22) | [Rain](https://open.spotify.com/album/6wPOHmr0fTOR1uOzPhE37Z) | 3:43 | 2024-10-31 | 2024-11-08 |
 | [Rays of Light](https://open.spotify.com/track/2DXX1Lc4GZzpT24UtdKvdE) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Distortion](https://open.spotify.com/album/33UKM7bqokrSxxX14MO9Jp) | 3:38 | 2024-09-05 | 2024-09-13 |
@@ -326,6 +327,7 @@
 | [Sweet Machine](https://open.spotify.com/track/2d4E9PWXoxCZ0JDXyqKmdq) | [Bloomer](https://open.spotify.com/artist/2SLlBWxyIRlpAMsiggj9OH) | [Hollow](https://open.spotify.com/album/1upkG96CIg4wuxGnGWGKNA) | 3:07 | 2024-09-12 | 2024-09-20 |
 | [Take Me Away When You Go](https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5), [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Take Me Away When You Go](https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4) | 2:24 | 2024-11-07 | 2024-11-15 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-05 |  |
+| [TAKE THE PAIN AWAY](https://open.spotify.com/track/5r9KGyFznWkWjId1O9YPNP) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [TAKE THE PAIN AWAY](https://open.spotify.com/album/6an2qJiyJUKayY6jd0lCfV) | 2:53 | 2025-02-21 |  |
 | [Take the Power](https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dirty & Divine](https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr) | 2:58 | 2025-02-06 | 2025-02-14 |
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-02 | 2025-02-18 |
 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 | 2024-06-27 | 2024-07-27 |

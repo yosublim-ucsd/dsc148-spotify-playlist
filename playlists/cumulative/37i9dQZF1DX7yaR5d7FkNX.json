@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers en compa\u00f1\u00eda de Yamie Safdie, Lasso y Carin Leon ",
+  "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers en compa\u00f1\u00eda de Javiera Mena y Santiago Motorizado",
   "name": "Brillas",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 200799,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174399,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/1Jc27ZqE4Fw46Og9Xv8kTn"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 150974,
       "name": "En Otra Vida - Con Carin Leon",
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
@@ -2459,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/0DjXHEfgVw6DiuijCazaOc"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204847,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/2pDDEqLEVfJIuVqbLtuWEB"
+    },
+    {
+      "album": {
         "name": "Imit\u00e1ndote",
         "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
       },
@@ -2510,7 +2532,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 287613,
       "name": "Incendio de Amor/Carmelita",
       "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
@@ -2730,6 +2752,32 @@
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp"
+    },
+    {
+      "album": {
+        "name": "Lagrimas derramadas",
+        "url": "https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "HAT",
+          "url": "https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI"
+        },
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200512,
+      "name": "Lagrimas derramadas",
+      "url": "https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr"
     },
     {
       "album": {
@@ -3026,6 +3074,28 @@
       "duration_ms": 228000,
       "name": "Manto",
       "url": "https://open.spotify.com/track/0gk7X9k5hXZnpy32IHoU6H"
+    },
+    {
+      "album": {
+        "name": "Mar de Coral",
+        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235044,
+      "name": "Mar de Coral",
+      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
     },
     {
       "album": {
@@ -4615,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "Te Hago Un Resumen",
+        "url": "https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186888,
+      "name": "Te Hago Un Resumen",
+      "url": "https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh"
+    },
+    {
+      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -5100,6 +5188,28 @@
       "duration_ms": 189141,
       "name": "Ya me fui",
       "url": "https://open.spotify.com/track/6mMSv0UE5AEvHD9DadkI26"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+        "url": "https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+      "url": "https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi"
     },
     {
       "album": {

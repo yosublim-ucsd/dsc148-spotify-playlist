@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-272 songs - 11 hr 59 min
+274 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 | 2022-05-27 | 2024-04-10 |
 | [Breathe](https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Breathe](https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI) | 2:12 | 2024-04-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 |  |
+| [Broken Wings](https://open.spotify.com/track/7utddC5JpZO80mzyvMDAUn) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Broken Wings](https://open.spotify.com/album/792Bau5O5lhW3swyI4pEiA) | 2:29 | 2025-02-21 |  |
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2022-05-27 | 2024-04-10 |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-05-27 | 2025-01-23 |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-18 |  |
@@ -198,6 +199,7 @@
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-05-27 | 2022-07-28 |
 | [Sage](https://open.spotify.com/track/1sCQoXgqRoLpOxyEJm33CF) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Sage](https://open.spotify.com/album/4Acn8dG40Z2vNpXBtQ3El5) | 1:58 | 2024-08-16 |  |
 | [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2022-05-27 | 2024-07-30 |
+| [Salida](https://open.spotify.com/track/12CYjiY4YOP2M6Em8hCCk3) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Salida](https://open.spotify.com/album/7y608qiaLs8Pt5qUayE7s3) | 2:38 | 2025-02-21 |  |
 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-28 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 | 2022-05-27 | 2024-04-10 |

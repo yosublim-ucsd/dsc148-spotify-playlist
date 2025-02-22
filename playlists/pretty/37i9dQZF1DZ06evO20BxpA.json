@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7UfAAAAAADDVutSEZSuRxLFykowy8ch",
+  "snapshot_id": "Z7ZwgAAAAAAZlhDReTliug7yEj7GK8bp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This Mercy?",
-      "url": "https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 160400,
-      "name": "The Importance Of This River - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq"
+      "duration_ms": 291000,
+      "name": "Baby Blue - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
     },
     {
       "added_at": null,
@@ -196,15 +180,15 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Baby Blue - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
+      "duration_ms": 160400,
+      "name": "The Importance Of This River - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103186,
-      "name": "Aurora Borealis",
-      "url": "https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx"
+      "duration_ms": 197240,
+      "name": "A Game of Strategy",
+      "url": "https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W"
     },
     {
       "added_at": null,
@@ -267,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 197240,
-      "name": "A Game of Strategy",
-      "url": "https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W"
+      "duration_ms": 103186,
+      "name": "Aurora Borealis",
+      "url": "https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx"
     },
     {
       "added_at": null,
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 371200,
-      "name": "Shenzou",
-      "url": "https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy"
+      "duration_ms": 141386,
+      "name": "Dear Mr. Killian",
+      "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
     },
     {
       "added_at": null,
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 141386,
-      "name": "Dear Mr. Killian",
-      "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
+      "duration_ms": 371200,
+      "name": "Shenzou",
+      "url": "https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy"
     },
     {
       "added_at": null,
@@ -359,6 +343,38 @@
       "duration_ms": 225733,
       "name": "I'm Scared Too",
       "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 84733,
+      "name": "First Of Many",
+      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "They Work As A Team - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/7JNLPRTdBrABPZuQwFKufZ"
     },
     {
       "added_at": null,
@@ -383,38 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Planet (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "They Work As A Team - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/7JNLPRTdBrABPZuQwFKufZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 84733,
-      "name": "First Of Many",
-      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Aeronauts (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
@@ -427,22 +411,6 @@
       "duration_ms": 289320,
       "name": "We Took To The Skies",
       "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 137266,
-      "name": "If We Have To Fight",
-      "url": "https://open.spotify.com/track/0ZntpFsH5hbvaYDT4Pni94"
     },
     {
       "added_at": null,
@@ -463,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
       "artists": [
         {
@@ -472,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 73253,
-      "name": "If You Choose This Over Me",
-      "url": "https://open.spotify.com/track/2mavOEFRldoW9JosK9Q7hp"
+      "duration_ms": 214093,
+      "name": "Is This Mercy?",
+      "url": "https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ"
     },
     {
       "added_at": null,
@@ -519,6 +487,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 73253,
+      "name": "If You Choose This Over Me",
+      "url": "https://open.spotify.com/track/2mavOEFRldoW9JosK9Q7hp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 137266,
+      "name": "If We Have To Fight",
+      "url": "https://open.spotify.com/track/0ZntpFsH5hbvaYDT4Pni94"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 229733,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 100066,
-      "name": "Imagining the Future - Instrumental",
-      "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
     },
     {
       "added_at": null,
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
@@ -576,25 +560,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 78866,
-      "name": "There Is No Justice In Law",
-      "url": "https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "Fueled Up and Headed South",
-      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+      "duration_ms": 100066,
+      "name": "Imagining the Future - Instrumental",
+      "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
     },
     {
       "added_at": null,
@@ -615,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
       "artists": [
         {
@@ -624,25 +592,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 81145,
-      "name": "How Much Longer",
-      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 105346,
-      "name": "Here I Am Nothing",
-      "url": "https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB"
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
     },
     {
       "added_at": null,
@@ -663,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
       "artists": [
         {
@@ -672,15 +624,15 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103546,
-      "name": "A Good Choice",
-      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
+      "duration_ms": 78866,
+      "name": "There Is No Justice In Law",
+      "url": "https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
       },
       "artists": [
         {
@@ -688,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+      "duration_ms": 81145,
+      "name": "How Much Longer",
+      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
     },
     {
       "added_at": null,
@@ -711,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "William Tell (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
@@ -720,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 67133,
-      "name": "Your Beauty Conquered Me",
-      "url": "https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T"
+      "duration_ms": 105346,
+      "name": "Here I Am Nothing",
+      "url": "https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB"
     },
     {
       "added_at": null,
@@ -736,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 59800,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/6fG5oXUVHyg8xq7yGznSPH"
+      "duration_ms": 103546,
+      "name": "A Good Choice",
+      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
     },
     {
       "added_at": null,
@@ -775,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Wolfblood",
-      "url": "https://open.spotify.com/track/4MMNVs1Xg1pQ9mdDBNNV4V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "67481 Lesley Brown",
-      "url": "https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Eternal Sky",
         "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
       },
@@ -823,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -832,9 +768,57 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 145760,
-      "name": "You Cannot Imagine His Anguish",
-      "url": "https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT"
+      "duration_ms": 59800,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/6fG5oXUVHyg8xq7yGznSPH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 67133,
+      "name": "Your Beauty Conquered Me",
+      "url": "https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Eternal Sky",
+        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Magdelana Bay",
+      "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
     }
   ],
   "unique_name": "This Is Steven Price",

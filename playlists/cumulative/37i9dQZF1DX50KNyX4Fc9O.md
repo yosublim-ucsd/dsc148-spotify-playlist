@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Gordi
 
-1,655 songs - 3 day 13 hr 21 min
+1,656 songs - 3 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-16 | 2024-01-21 |
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-18 | 2024-02-02 |
 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL) | 4:23 | 2024-08-30 | 2024-09-13 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-20 |  |
 | [Eyes Closed](https://open.spotify.com/track/4YcJmD2RreKlpH78rTDmlH) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Eyes Closed](https://open.spotify.com/album/6ZOiOKrzOjXO6LP3LhPdRR) | 2:58 | 2023-07-27 | 2023-09-22 |
 | [Eyes On You](https://open.spotify.com/track/35OlFESa4OUrPTbVb1sYSa) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [Eyes On You](https://open.spotify.com/album/3rapAYXSUpYkQLN68J75iV) | 2:15 | 2023-09-28 | 2023-10-20 |
 | [F U](https://open.spotify.com/track/3vfwoAAkvqlEQU9xmMgvVb) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [F U](https://open.spotify.com/album/58nhRIbbVOEcE93fMpZEzP) | 2:11 | 2024-05-02 | 2024-05-24 |

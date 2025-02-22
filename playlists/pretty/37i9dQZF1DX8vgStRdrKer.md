@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez?si=Zz19hc39QaO9Ux9niVs8yA>Wole Awolola</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,475 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,486 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 41 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
 | 42 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 |
 | 43 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 |
-| 44 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 |
+| 44 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
 | 45 | [Amazing Grace](https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Amazing Grace](https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5) | 2:13 |
-| 46 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 47 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 |
-| 48 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 |
-| 49 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 |
-| 50 | [AHA GI](https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [AHA GI](https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko) | 3:50 |
+| 46 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 |
+| 47 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 |
+| 48 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 |
+| 49 | [Ever Present Help](https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Archbishop Benson Idahosa](https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9) | [Ever Present Help](https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u) | 5:29 |
+| 50 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 |
 
 Snapshot ID: `Z7fCWAAAAADfFv/HVtCDvFP1tU2HMNIv`

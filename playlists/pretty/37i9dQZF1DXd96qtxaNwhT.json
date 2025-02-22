@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 300935,
+  "num_followers": 300988,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Left In Your Love",
-        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Left In Your Love",
-      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 202800,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
+        "name": "Left In Your Love",
+        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Left In Your Love",
+      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 287567,
+      "name": "Kissing In Swimming Pools",
+      "url": "https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
         "name": "Maria (with Lola Amour)",
         "url": "https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 191625,
       "name": "Maria (with Lola Amour)",
       "url": "https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 287567,
-      "name": "Kissing In Swimming Pools",
-      "url": "https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB"
+      },
+      "artists": [
+        {
+          "name": "Jack Robertson",
+          "url": "https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T"
+        },
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+        }
+      ],
+      "duration_ms": 224056,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
         "name": "Small Things",
         "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
       },
@@ -855,22 +875,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT"
       },
       "artists": [
         {
-          "name": "Jack Robertson",
-          "url": "https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T"
-        },
-        {
-          "name": "Anderson Rocio",
-          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+          "name": "David McCredie",
+          "url": "https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY"
         }
       ],
-      "duration_ms": 224056,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs"
+      "duration_ms": 177000,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -887,22 +903,6 @@
       "duration_ms": 171088,
       "name": "Hate That You Hurt",
       "url": "https://open.spotify.com/track/3Xm6fysXfjFtabHYe4cifr"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT"
-      },
-      "artists": [
-        {
-          "name": "David McCredie",
-          "url": "https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF"
+    },
+    {
+      "added_at": "2025-02-04 03:00:08",
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 191929,
       "name": "Wait",
       "url": "https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI"
-    },
-    {
-      "added_at": "2025-02-04 03:00:08",
-      "album": {
-        "name": "Madly In Love",
-        "url": "https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3"
-      },
-      "artists": [
-        {
-          "name": "Tobias Floor",
-          "url": "https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB"
-        }
-      ],
-      "duration_ms": 223288,
-      "name": "Madly In Love",
-      "url": "https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy"
     },
     {
       "added_at": "2025-02-04 03:00:08",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-02-04 03:00:08",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF"
+        "name": "Madly In Love",
+        "url": "https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3"
       },
       "artists": [
         {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+          "name": "Tobias Floor",
+          "url": "https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF"
+      "duration_ms": 223288,
+      "name": "Madly In Love",
+      "url": "https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy"
     },
     {
       "added_at": "2025-02-04 03:00:08",

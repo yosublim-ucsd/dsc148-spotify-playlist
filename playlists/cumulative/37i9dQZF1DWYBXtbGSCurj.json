@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Brocasito",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: tchelo rodrigues, Massaru, Danzo\n",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -602,6 +602,36 @@
       "duration_ms": 150610,
       "name": "212",
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+    },
+    {
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "nobuddy",
+          "url": "https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v"
+        },
+        {
+          "name": "Goldgrain",
+          "url": "https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "22 Meu Vulgo",
+      "url": "https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3"
     },
     {
       "album": {
@@ -1542,7 +1572,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 162000,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/7mGVnKLayAAlpYyoNpzJyx"
@@ -1598,6 +1628,32 @@
       "duration_ms": 151318,
       "name": "AGIOTA",
       "url": "https://open.spotify.com/track/0CnVn6ujo9knn8uAzmXlmc"
+    },
+    {
+      "album": {
+        "name": "Agora \u00c9 Onda",
+        "url": "https://open.spotify.com/album/4djDGYyVLO7yepJ0rE65LQ"
+      },
+      "artists": [
+        {
+          "name": "Gabri",
+          "url": "https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB"
+        },
+        {
+          "name": "Dudda D'Cria",
+          "url": "https://open.spotify.com/artist/17ggYU9oz8jfMZMVWHoJ4z"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Agora \u00c9 Onda",
+      "url": "https://open.spotify.com/track/2K3AOPsp47vqnWjic3YJEt"
     },
     {
       "album": {
@@ -4284,6 +4340,32 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "album": {
+        "name": "Ber\u00e7o",
+        "url": "https://open.spotify.com/album/1K5ObArAvrR9fJ2tiJGi5w"
+      },
+      "artists": [
+        {
+          "name": "neneka",
+          "url": "https://open.spotify.com/artist/4wiuq3MtKk8hrUpDz6JrQW"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "hashi tzz",
+          "url": "https://open.spotify.com/artist/5MxfUqsyj9YXeY07EKrouq"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136072,
+      "name": "Ber\u00e7o",
+      "url": "https://open.spotify.com/track/29LmVzGcL71wSI64HLcpU6"
     },
     {
       "album": {
@@ -6979,6 +7061,28 @@
     },
     {
       "album": {
+        "name": "Chuck Freestyle",
+        "url": "https://open.spotify.com/album/3AFGFD0qly7SfwqPlK4gbo"
+      },
+      "artists": [
+        {
+          "name": "Richard Mille",
+          "url": "https://open.spotify.com/artist/2ZPSDSqk1cbv3yMlifkccd"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156011,
+      "name": "Chuck Freestyle",
+      "url": "https://open.spotify.com/track/2M836HhPnz7oOFs3gr9POm"
+    },
+    {
+      "album": {
         "name": "Chuva",
         "url": "https://open.spotify.com/album/5Bb0ykSrmpZR4y0X4arg89"
       },
@@ -7482,7 +7586,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 218029,
       "name": "COMO PUDE",
       "url": "https://open.spotify.com/track/7ByJSibimCzArvSSxfnbtE"
@@ -7630,6 +7734,24 @@
       "duration_ms": 221538,
       "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
+    },
+    {
+      "album": {
+        "name": "Confia: Sonho de Cria - Trilha Sonora",
+        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "Confia",
+      "url": "https://open.spotify.com/track/2NdjrTe9LlyXTsD7EPtdGB"
     },
     {
       "album": {
@@ -8122,6 +8244,32 @@
       "duration_ms": 97631,
       "name": "Corpo e Alma",
       "url": "https://open.spotify.com/track/1R8Wm3HSs4KalIgSz7dqRE"
+    },
+    {
+      "album": {
+        "name": "Corra",
+        "url": "https://open.spotify.com/album/7hMQiBb589wu2WwgokXFs1"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Cloudsnobeat",
+          "url": "https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150985,
+      "name": "Corra",
+      "url": "https://open.spotify.com/track/1iBK9AaEa252pysWzvlN81"
     },
     {
       "album": {
@@ -9280,6 +9428,32 @@
       "duration_ms": 161372,
       "name": "Delinquente",
       "url": "https://open.spotify.com/track/5PsY4l1ncsqUIM8EqN8lDG"
+    },
+    {
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Delulu (with Nenny & MC PH)",
+      "url": "https://open.spotify.com/track/0dimwLCNAWr0iPUOJOW3vF"
     },
     {
       "album": {
@@ -10690,7 +10864,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 123131,
       "name": "Dobro a Aposta",
       "url": "https://open.spotify.com/track/38ehIvDnfJ6GdkPiu4FGgk"
@@ -12435,6 +12609,24 @@
     },
     {
       "album": {
+        "name": "Espinafre",
+        "url": "https://open.spotify.com/album/5KPaukm9Azb2UdjdIAPf9O"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152115,
+      "name": "Espinafre",
+      "url": "https://open.spotify.com/track/7K9j6LICm02OlSjEu026qN"
+    },
+    {
+      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -13858,7 +14050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 135228,
       "name": "Fa\u00e7a Sua Pr\u00f3pria Grana",
       "url": "https://open.spotify.com/track/6dpQGd0IZsUmcGCkbkLe8y"
@@ -14234,7 +14426,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 132415,
       "name": "Figura P\u00fablica",
       "url": "https://open.spotify.com/track/23J0wflr0iQIRjmZjdJNZ2"
@@ -14696,7 +14888,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 253884,
       "name": "Fodo Com As Modelo",
       "url": "https://open.spotify.com/track/5x7uB5325nUffxqi8sFbTe"
@@ -14854,7 +15046,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 196363,
       "name": "FORMA\u00c7\u00c3O T\u00c1TICA",
       "url": "https://open.spotify.com/track/0q5GOSSzht4EXTA9ycyP3Q"
@@ -16196,7 +16388,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 120000,
       "name": "Grife",
       "url": "https://open.spotify.com/track/3o9H8leCXhrRsfgdZJpNfz"
@@ -18582,7 +18774,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 209395,
       "name": "LEAN NO SEU VESTIDO",
       "url": "https://open.spotify.com/track/4HSDHMB2CPH8w0Uglmzt4w"
@@ -22549,6 +22741,36 @@
     },
     {
       "album": {
+        "name": "ELA \u00c9 RIO",
+        "url": "https://open.spotify.com/album/5jkeTUtKTpSgM7B5XRK9U1"
+      },
+      "artists": [
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/5qxLT4qC7xkWttnBYgT4xL"
+    },
+    {
+      "album": {
         "name": "Money Rain",
         "url": "https://open.spotify.com/album/6cb2m77B5E8Q3oEdEfQn4a"
       },
@@ -24724,7 +24946,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 172800,
       "name": "Notas no Plastico",
       "url": "https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC"
@@ -26076,6 +26298,32 @@
       "duration_ms": 168000,
       "name": "Oh M\u00e3e",
       "url": "https://open.spotify.com/track/1wJ1pRqkbtwdFKjH87t6FD"
+    },
+    {
+      "album": {
+        "name": "TRINCA",
+        "url": "https://open.spotify.com/album/1ZZVf6Ynbeq1B8Ooh1im6j"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Oi Tudo Bem?",
+      "url": "https://open.spotify.com/track/0GAUWpbb5tY4rUUAk51lWE"
     },
     {
       "album": {
@@ -27848,7 +28096,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 133000,
       "name": "Perto De Mim",
       "url": "https://open.spotify.com/track/1dz2lxzCehhakwJOfgbI9h"
@@ -28358,7 +28606,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 202926,
       "name": "PLACO",
       "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
@@ -29572,7 +29820,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137221,
       "name": "Problemas de confian\u00e7a",
       "url": "https://open.spotify.com/track/28uQ9dfxXEMj80G6v2T60c"
@@ -35375,6 +35623,28 @@
     },
     {
       "album": {
+        "name": "Talvez N\u00e3o Seja",
+        "url": "https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "Talvez N\u00e3o Seja",
+      "url": "https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu"
+    },
+    {
+      "album": {
         "name": "Tamandu\u00e1",
         "url": "https://open.spotify.com/album/69Xba6DeaGwp4cPwXyoucX"
       },
@@ -38761,6 +39031,40 @@
     },
     {
       "album": {
+        "name": "Pool Party - Viv\u00eancias",
+        "url": "https://open.spotify.com/album/56nX0RDYQFsBxNBmqeY7rY"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "D Santana",
+          "url": "https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m"
+        },
+        {
+          "name": "Trxntin",
+          "url": "https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172768,
+      "name": "Viv\u00eancias",
+      "url": "https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd"
+    },
+    {
+      "album": {
         "name": "Trap The Fato Deluxe",
         "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
@@ -39574,6 +39878,28 @@
       "duration_ms": 150000,
       "name": "zumzumzum",
       "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
+    },
+    {
+      "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Al Beats",
+          "url": "https://open.spotify.com/artist/5plHsgRKrAPDQ4YdOQJDHo"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
     },
     {
       "album": {

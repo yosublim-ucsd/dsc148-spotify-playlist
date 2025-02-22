@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Quilombagem",
+      "url": "https://open.spotify.com/track/6F75rxfue833JfwpokjVkz"
+    },
+    {
+      "album": {
         "name": "R\u00fastico",
         "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
       },

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125441,
+  "num_followers": 125440,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATtHtYeMctRPdbbP/9EFtzKLgR7udx",
+  "snapshot_id": "AAATtfbCLsEhLC1ByGfgRc5UQ/PC3e01",
   "tracks": [
+    {
+      "added_at": "2025-02-21 15:32:04",
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX"
+    },
     {
       "added_at": "2025-02-20 15:52:36",
       "album": {

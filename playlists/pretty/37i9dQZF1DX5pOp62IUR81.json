@@ -1,13 +1,57 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180380,
+  "num_followers": 180365,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N+AAAAAAONdn6yEd24GP5rmbkNFxh",
+  "snapshot_id": "Z7kOsAAAAAAyfxV6HueI7RSVQpY8DmCE",
   "tracks": [
+    {
+      "added_at": "2025-02-21 23:39:28",
+      "album": {
+        "name": "Your Friendly Neighborhood Spider-Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2BNWwP9D8LPxJfbB2l2DGn"
+      },
+      "artists": [
+        {
+          "name": "The Math Club",
+          "url": "https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN"
+        },
+        {
+          "name": "Relaye",
+          "url": "https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya"
+        },
+        {
+          "name": "Melo Makes Music",
+          "url": "https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS"
+        }
+      ],
+      "duration_ms": 212971,
+      "name": "Neighbor Like Me",
+      "url": "https://open.spotify.com/track/4ZZ2BNbqWA4WM8jsFE7LJf"
+    },
+    {
+      "added_at": "2025-02-21 23:37:38",
+      "album": {
+        "name": "Marvel's Moon Girl and Devil Dinosaur: Season 2 - Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil"
+      },
+      "artists": [
+        {
+          "name": "Samantha J. Powell",
+          "url": "https://open.spotify.com/artist/3Id8OBZnurFgLVQ743f500"
+        },
+        {
+          "name": "Marvel\u2019s Moon Girl and Devil Dinosaur - Cast",
+          "url": "https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV"
+        }
+      ],
+      "duration_ms": 200969,
+      "name": "I Am Who I Am",
+      "url": "https://open.spotify.com/track/0v19Z17NOuQgmSDEQAaU3T"
+    },
     {
       "added_at": "2025-02-14 05:00:39",
       "album": {

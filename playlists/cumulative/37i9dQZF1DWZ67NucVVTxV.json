@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 211280,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/0yHnMci6HNtbL85kv2zuL1"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 172800,
       "name": "Derico",
       "url": "https://open.spotify.com/track/5DKRGfUKN2MMqiPNZLjlaV"
@@ -4325,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK"
+    },
+    {
+      "album": {
         "name": "A Lifetime Is Not Enough",
         "url": "https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH"
       },
@@ -4612,6 +4630,24 @@
       "duration_ms": 232986,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6aw16ejuQ5mvvuvGbEMjo2"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/3bBVesR6p4ItmBsAK2A4zS"
     },
     {
       "album": {
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
@@ -9272,7 +9308,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 171486,
       "name": "Orin Halle",
       "url": "https://open.spotify.com/track/4aBZUK1sPmF8fNwvTyN6HI"
@@ -10304,6 +10340,24 @@
       "duration_ms": 175255,
       "name": "Realize",
       "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
+    },
+    {
+      "album": {
+        "name": "FIRM AFTER ALL - EP (WAVEZ II)",
+        "url": "https://open.spotify.com/album/11HeIdt7H48dJJIGAQGZo6"
+      },
+      "artists": [
+        {
+          "name": "J.Derobie",
+          "url": "https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149975,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/6vYF8gPxbJ3ocRoo7hF5zA"
     },
     {
       "album": {
@@ -12378,6 +12432,24 @@
       "duration_ms": 132039,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
+    },
+    {
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "album": {

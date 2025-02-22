@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,409 songs - 3 day 9 hr 22 min
+1,410 songs - 3 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 | 2025-01-18 |
 | [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-29 |  |
 | [Here](https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Here](https://open.spotify.com/album/4hQ3OP8m5ZIV7IlqfSiwmC) | 3:14 | 2021-09-25 | 2022-05-14 |
-| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 |  |
+| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 | 2025-02-22 |
 | [Here For You \(feat\. sad alex\)](https://open.spotify.com/track/3PIjrbCjKKNmR84vPf172R) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 2:47 | 2019-08-09\* | 2020-03-29 |
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-08-20 | 2020-10-30 |
 | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/track/14BmGOdWFMkxiyQ7f4s03L) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/album/4cBVizWVamVwH4v5g6zTto) | 3:25 | 2020-02-21 | 2021-09-25 |
@@ -872,6 +872,7 @@
 | [Next To Me](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Next To Me](https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM) | 3:05 | 2024-12-13 |  |
 | [Next to Me](https://open.spotify.com/track/6ZixfeFT8V0Nle1rMZAekY) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Next To Me](https://open.spotify.com/album/4I46tkai1n6ZlPUw8YCp5h) | 3:22 | 2019-08-09\* | 2019-08-27 |
 | [Next To You](https://open.spotify.com/track/2GjLrloU97ugzCVbEByDeC) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Next To You](https://open.spotify.com/album/2M11iMLWBdLo26RaVoFx2z) | 3:20 | 2020-09-07 | 2021-09-11 |
+| [Next To You](https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Next To You](https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub) | 3:23 | 2025-02-21 |  |
 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-02-24 | 2024-04-19 |
 | [Nights With You](https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nights With You](https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq) | 2:29 | 2020-10-30 | 2023-06-17 |
 | [Nite Time \- Radio Edit](https://open.spotify.com/track/1vOMr4AcXQF8a6PWGHnTbu) | [George Acosta](https://open.spotify.com/artist/5HQ7CCzNIm8g1nysh4gDM7), [Kate Walsh](https://open.spotify.com/artist/2SUlbSybJvhWQuzjgaI6FJ) | [Nite Time](https://open.spotify.com/album/6NLI7i3sWDDe9huVh49lsJ) | 3:48 | 2020-04-16 | 2020-10-30 |

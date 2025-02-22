@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-575 songs - 1 day 23 hr 58 min
+576 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |
 | [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2023-11-16 |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2023-01-06 |  |
+| [Maria](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:37 | 2025-02-21 |  |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 |  |
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 | 2023-12-23 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-12-08 | 2022-11-20 |
@@ -571,7 +572,7 @@
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-12-08 | 2023-08-12 |
 | [Wonder](https://open.spotify.com/track/5fnoZCg3VQjKYgx0J0uWA6) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Wonder](https://open.spotify.com/album/4pAPLq8ge3ifacEFJigqug) | 3:40 | 2023-12-15 |  |
 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 | 2021-12-08 | 2022-11-17 |
-| [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 |  |
+| [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 | 2025-02-22 |
 | [You & I](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/6igefRN2lXM6pLTbtyFzAO) | 3:32 | 2023-10-28 | 2024-04-19 |
 | [You & I](https://open.spotify.com/track/2fStBWiB5mbqKa3mFS0khi) | [Kliran.B](https://open.spotify.com/artist/0o7MKyRdZRZcU8Bx5m3Ymk) | [You & I](https://open.spotify.com/album/5Op3xxGBSead8Ut3uCGbP1) | 4:18 | 2024-04-12 |  |
 | [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 | 2022-05-03 | 2023-05-21 |

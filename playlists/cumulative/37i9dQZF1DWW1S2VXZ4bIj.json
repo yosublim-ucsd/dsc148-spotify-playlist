@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Whal & Dolph",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: fellow fellow",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -654,6 +654,46 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
+    {
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/6lNNDdVS4PxHKF6AUNIyc2"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/0B8qRHYzge3cngxYMtBwPB"
     },
     {
       "album": {
@@ -1055,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
       },
@@ -1178,7 +1240,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -1550,7 +1612,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169189,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv"
@@ -2494,7 +2556,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 258351,
       "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e17\u0e35\u0e48\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/1EPvxPb6ToC6LHzmHik4ZJ"
@@ -2642,6 +2704,24 @@
       "duration_ms": 281933,
       "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
       "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e25\u0e49\u0e32\u0e22\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\u200b (close to heaven)",
+        "url": "https://open.spotify.com/album/6ma4cXM7rSS0qcPPcSxmth"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "\u0e04\u0e25\u0e49\u0e32\u0e22\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\u200b (close to heaven)",
+      "url": "https://open.spotify.com/track/76RK8f6XK2r34jvWU6YDac"
     },
     {
       "album": {
@@ -3011,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e32\u0e15\u0e34\u0e2b\u0e19\u0e49\u0e32\u0e0a\u0e49\u0e32\u0e44\u0e1b (K.O.)",
+        "url": "https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231473,
+      "name": "\u0e0a\u0e32\u0e15\u0e34\u0e2b\u0e19\u0e49\u0e32\u0e0a\u0e49\u0e32\u0e44\u0e1b (K.O.)",
+      "url": "https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33",
         "url": "https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk"
       },
@@ -3066,6 +3164,42 @@
       "duration_ms": 248926,
       "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32 [Ghost] [Live Session]",
       "url": "https://open.spotify.com/track/7q7UNswedtyvo70ZacG3mZ"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
+        "url": "https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316333,
+      "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
+      "url": "https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e27\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI"
+      },
+      "artists": [
+        {
+          "name": "Newery",
+          "url": "https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248250,
+      "name": "\u0e14\u0e27\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN"
     },
     {
       "album": {
@@ -3388,7 +3522,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 234705,
       "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e21\u0e31\u0e19\u0e08\u0e30\u0e40\u0e08\u0e47\u0e1a (ALT. ENDING)",
       "url": "https://open.spotify.com/track/05OkPDrO17g0cU4gXjGR0H"
@@ -3994,7 +4128,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 195547,
       "name": "\u0e22\u0e2d\u0e21 (Surrender)",
       "url": "https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3"
@@ -5364,7 +5498,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212112,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (Devoted)",
       "url": "https://open.spotify.com/track/1Mad9GFYbl6Hy8ZuhmLObt"

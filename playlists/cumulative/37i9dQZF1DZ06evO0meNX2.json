@@ -349,6 +349,32 @@
     },
     {
       "album": {
+        "name": "El R2",
+        "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152351,
+      "name": "EL R2",
+      "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
+    },
+    {
+      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },

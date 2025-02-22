@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "Boulevard",
       "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 173621,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3WEbhtkGe986Nuw6hnq4VR"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 200930,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 153250,
       "name": "i'm a mess (stripped version)",
       "url": "https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 152988,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/1r2LiQFJMQWRGA6WXoH94D"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 164472,
       "name": "lon3ly",
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
@@ -3868,6 +3868,24 @@
       "duration_ms": 202763,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT"
+    },
+    {
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
     },
     {
       "album": {
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 168000,
       "name": "Yaba Left",
       "url": "https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover:  Jon Pardi",
+  "description": "The biggest hits in country music. Cover:  Nate Smith & HARDY",
   "name": "All About Country",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
+        "name": "3,2,1",
+        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "3,2,1",
+      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
     },
     {
       "album": {
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 184586,
       "name": "Can A Heart Take",
       "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 218946,
       "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
       "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
@@ -4324,6 +4342,24 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "Game I Can't Win",
+        "url": "https://open.spotify.com/album/1jOP8GYgypMo7my87TeygA"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201531,
+      "name": "Game I Can\u2019t Win",
+      "url": "https://open.spotify.com/track/6S54LiJPmBRfm877hXbOX0"
     },
     {
       "album": {
@@ -4639,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "GOD & GUNS N\u2019 ROSES",
+        "url": "https://open.spotify.com/album/5bnproodqEP0tHybDjDF72"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216684,
+      "name": "GOD & GUNS N\u2019 ROSES",
+      "url": "https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR"
       },
@@ -4950,6 +5004,28 @@
       "duration_ms": 189786,
       "name": "Hang Tight Honey",
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
+    },
+    {
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/4a0CYxnsOI2dinAXSMcImB"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198341,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/6KdfGp8WKhXEOuF9AOOdnP"
     },
     {
       "album": {
@@ -5736,7 +5812,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 197493,
       "name": "How's the Leaving Going",
       "url": "https://open.spotify.com/track/4VtCuaaSedTbRnAhCjFCxU"
@@ -6255,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "I'd Be Delighted",
+        "url": "https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "I'd Be Delighted",
+      "url": "https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF"
+    },
+    {
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PIxo7yWDMIxpVwxlBxhWS"
       },
@@ -6613,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Sad Songs for the Soul",
+        "url": "https://open.spotify.com/album/4VU4XCA8IwDF9JVXEbIeQi"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254440,
+      "name": "If You Stay",
+      "url": "https://open.spotify.com/track/2MMh5pEpyfoUXrJwRihdEW"
+    },
+    {
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -6860,7 +6972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 193532,
       "name": "Jailbreak",
       "url": "https://open.spotify.com/track/0fRi9tPnhwwQsJg5iFFnIa"
@@ -7006,6 +7118,24 @@
       "duration_ms": 196800,
       "name": "Kinda Bar",
       "url": "https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo"
+    },
+    {
+      "album": {
+        "name": "Kissing Cowboys",
+        "url": "https://open.spotify.com/album/4XbhjN4j33SE3TJLS6fz6l"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "Kissing Cowboys",
+      "url": "https://open.spotify.com/track/3kNRE7mxnc7GzpnlWvKThu"
     },
     {
       "album": {
@@ -8284,7 +8414,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 185290,
       "name": "Molly's Song",
       "url": "https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc"
@@ -9049,6 +9179,24 @@
     },
     {
       "album": {
+        "name": "no rain",
+        "url": "https://open.spotify.com/album/5xLs6KYupvd41s6hrsoMoT"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "no rain",
+      "url": "https://open.spotify.com/track/5N2LbYvPXJfJJednSuhlpm"
+    },
+    {
+      "album": {
         "name": "Diamonds in the Desert",
         "url": "https://open.spotify.com/album/3GwsN7jQgsANKT8bRaKDuy"
       },
@@ -9064,6 +9212,28 @@
       "duration_ms": 328060,
       "name": "Nobody Knows You",
       "url": "https://open.spotify.com/track/4w2LAqLhIoWzophDSbT3G3"
+    },
+    {
+      "album": {
+        "name": "Nobody Likes Your Girlfriend",
+        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181870,
+      "name": "Nobody Likes Your Girlfriend",
+      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
     },
     {
       "album": {
@@ -9114,7 +9284,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174346,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/14IVonahcPCk7750AJ0gfJ"
@@ -9632,7 +9802,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 165000,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/5GJD4k0pnqR82k6wTyZip1"
@@ -10056,6 +10226,28 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "album": {
+        "name": "Prodigal Daughter",
+        "url": "https://open.spotify.com/album/1voXBL0YbqcFfskir9BoUp"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206613,
+      "name": "Prodigal Daughter (feat. Molly Tuttle)",
+      "url": "https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX"
     },
     {
       "album": {
@@ -11098,7 +11290,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 183880,
       "name": "Silverado Blue",
       "url": "https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70"
@@ -13108,7 +13300,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163242,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
@@ -13398,7 +13590,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212682,
       "name": "Tree Birds",
       "url": "https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz"
@@ -14790,6 +14982,24 @@
       "duration_ms": 167375,
       "name": "With A Woman You Love",
       "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0a9rfPjwP0DtsqED3c1oBc"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180123,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7w2Aggk0McaSFn0qyJDmEz"
     },
     {
       "album": {

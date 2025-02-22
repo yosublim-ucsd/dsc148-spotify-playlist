@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Chris Lake and Abel Balder.",
+  "description": "House music lives here. United under one roof, featuring Westend.",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1919,6 +1919,28 @@
     },
     {
       "album": {
+        "name": "Be Together",
+        "url": "https://open.spotify.com/album/5I2jtUtvKbzAvDcnpFMXP3"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156159,
+      "name": "Be Together",
+      "url": "https://open.spotify.com/track/7AT2oRWEvDWDsfjrSFA26n"
+    },
+    {
+      "album": {
         "name": "Beat Freak (ft. lau.ra)",
         "url": "https://open.spotify.com/album/0P4SStuw8AYCIx2CTp80jF"
       },
@@ -3196,6 +3218,28 @@
       "duration_ms": 214500,
       "name": "Butterflies (feat. Tristan Henry) - Biscits Remix",
       "url": "https://open.spotify.com/track/7qY1QnjNuxThxtTz9wMuRo"
+    },
+    {
+      "album": {
+        "name": "Butterflies (with Green Velvet)",
+        "url": "https://open.spotify.com/album/2fJmzODMorOEHxq23FFtfV"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Butterflies (with Green Velvet)",
+      "url": "https://open.spotify.com/track/0FzltX5P5EcptwLZh85UO1"
     },
     {
       "album": {
@@ -5766,6 +5810,28 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4"
+    },
+    {
+      "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
     },
     {
       "album": {
@@ -8994,7 +9060,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 258515,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
@@ -12230,7 +12296,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219261,
       "name": "Lola's Theme - Tripolism Remix",
       "url": "https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD"
@@ -14259,6 +14325,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9nage \u00c0 Trois",
+        "url": "https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "M\u00e9nage \u00c0 Trois",
+      "url": "https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3"
+    },
+    {
+      "album": {
         "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
@@ -16208,7 +16296,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159069,
       "name": "Ready 2 Go",
       "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
@@ -20672,7 +20760,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 202380,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"

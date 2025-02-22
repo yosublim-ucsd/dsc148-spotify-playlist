@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 128337,
+  "num_followers": 128342,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
-    },
-    {
-      "added_at": "2025-02-20 16:00:27",
-      "album": {
         "name": "\u904b\u6c23\u4f86\u5f97\u82e5\u6709\u4f3c\u7121",
         "url": "https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 270760,
       "name": "\u552f\u4e00 (\u4e09\u7acb/\u53f0\u8996\u6232\u5287\u300a\u6200\u611b\u662f\u79d1\u5b78\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb"
+    },
+    {
+      "added_at": "2025-02-20 16:00:27",
+      "album": {
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2025-02-20 16:00:27",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
-        "name": "\u90a3\u6642\u6709\u4f60",
-        "url": "https://open.spotify.com/album/1GpsjR2f2tPIoONzuoGfPP"
-      },
-      "artists": [
-        {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "\u90a3\u6642\u6709\u4f60",
-      "url": "https://open.spotify.com/track/4HqboFElGvFjJKb7C3AZ9D"
-    },
-    {
-      "added_at": "2025-02-20 16:00:27",
-      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+    },
+    {
+      "added_at": "2025-02-20 16:00:27",
+      "album": {
+        "name": "\u90a3\u6642\u6709\u4f60",
+        "url": "https://open.spotify.com/album/1GpsjR2f2tPIoONzuoGfPP"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "\u90a3\u6642\u6709\u4f60",
+      "url": "https://open.spotify.com/track/4HqboFElGvFjJKb7C3AZ9D"
     },
     {
       "added_at": "2025-02-20 16:00:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
-        "name": "\u5ee2\u68c4\u6e05\u7406",
-        "url": "https://open.spotify.com/album/1hg6wNzp3DpzLVSHMTuc4m"
-      },
-      "artists": [
-        {
-          "name": "Theseus \u5fd2\u4fee\u65af",
-          "url": "https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "\u5ee2\u68c4\u6e05\u7406",
-      "url": "https://open.spotify.com/track/5VRtvKBkpZIxKqtZIvK4Tp"
-    },
-    {
-      "added_at": "2025-02-20 16:00:27",
-      "album": {
         "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
         "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
-        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
-        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+        "name": "\u5ee2\u68c4\u6e05\u7406",
+        "url": "https://open.spotify.com/album/1hg6wNzp3DpzLVSHMTuc4m"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "Theseus \u5fd2\u4fee\u65af",
+          "url": "https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9"
         }
       ],
-      "duration_ms": 176673,
-      "name": "\u5b89",
-      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
+      "duration_ms": 181000,
+      "name": "\u5ee2\u68c4\u6e05\u7406",
+      "url": "https://open.spotify.com/track/5VRtvKBkpZIxKqtZIvK4Tp"
     },
     {
       "added_at": "2025-02-20 16:00:27",
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ong",
+          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "\u6d77\u67af\u77f3\u721b",
+      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
+    },
+    {
+      "added_at": "2025-02-20 16:00:27",
+      "album": {
         "name": "\u96d9\u751f\u706b\u7130",
         "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-02-20 16:00:27",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
       },
       "artists": [
         {
-          "name": "Olivia Ong",
-          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
         }
       ],
-      "duration_ms": 232693,
-      "name": "\u6d77\u67af\u77f3\u721b",
-      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
+      "duration_ms": 176673,
+      "name": "\u5b89",
+      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
     },
     {
       "added_at": "2025-02-20 16:00:27",

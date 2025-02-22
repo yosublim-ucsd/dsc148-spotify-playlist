@@ -34445,6 +34445,32 @@
     },
     {
       "album": {
+        "name": "Vay Em Da Co Nguoi Nao?",
+        "url": "https://open.spotify.com/album/0hKlH85f4T5n73iTmSRwss"
+      },
+      "artists": [
+        {
+          "name": "NK",
+          "url": "https://open.spotify.com/artist/5kkMq1nrn49WTKTxUTqCpJ"
+        },
+        {
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/1xBmajyIaIl9fMde48bhSa"
+        },
+        {
+          "name": "TiHi",
+          "url": "https://open.spotify.com/artist/1yFYZte32EDLcXlRX6DV3L"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Vay Em Da Co Nguoi Nao?",
+      "url": "https://open.spotify.com/track/3lSo803MPsQrQtMtkbAhzh"
+    },
+    {
+      "album": {
         "name": "Venesa (feat. Hani)",
         "url": "https://open.spotify.com/album/2iRjJ632gwjPymWeRgiFKN"
       },

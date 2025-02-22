@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-261 songs - 15 hr 29 min
+262 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Grow with you](https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Grow with you](https://open.spotify.com/album/15U2ElSOsryI2XNIkxAQv9) | 3:17 | 2021-11-24 | 2024-06-04 |
 | [Guilty](https://open.spotify.com/track/2uw1eNEYcIF8s24ufIaWUF) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Guilty](https://open.spotify.com/album/0MzsJE3oxiwk8RCYGlHC2M) | 2:22 | 2023-06-14 |  |
 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 | 2024-11-22 |  |
+| [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 | 2025-02-21 |  |
 | [Heart of a Mother](https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Heart of a Mother](https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3) | 4:32 | 2024-03-14 |  |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2021-11-24 |  |
 | [Hell Or High Water](https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Runaway \(Deluxe\)](https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6) | 3:40 | 2022-06-03 | 2024-04-19 |
@@ -109,14 +110,14 @@
 | [Just Come Home](https://open.spotify.com/track/1k35C50wOx6bpMMFfQFv9O) | [The Starlings](https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8) | [Just Come Home](https://open.spotify.com/album/26hzd1T6i4e6zvxaTyy9yp) | 3:23 | 2022-02-11 |  |
 | [Just Tell Him It's Over \- Acoustic](https://open.spotify.com/track/1WV6hBQhyC6PAE7ey7YjXc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Brooklyn Sessions](https://open.spotify.com/album/1GNZp65P7xWcRfzRfbP1Mj) | 3:01 | 2021-11-24 |  |
 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 | 2023-02-09 | 2024-10-23 |
-| [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 | 2021-11-24 |  |
+| [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 | 2021-11-24 | 2025-02-22 |
 | [Lay In The Sun](https://open.spotify.com/track/0BBB3QcVfHHY7w5lXT8ig6) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Lay In The Sun](https://open.spotify.com/album/3qTp8ABtfxzoxb70pUy015) | 2:15 | 2025-02-03 |  |
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2021-11-24 | 2023-04-07 |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2022-06-03 | 2024-04-19 |
 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 | 2021-11-24 | 2025-02-04 |
 | [Let It Go](https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Crying Sad Songs](https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9) | 4:21 | 2022-11-03 | 2022-11-13 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-11-24 | 2024-06-04 |
-| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [Goodwin](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-17 |  |
+| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-17 |  |
 | [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 | 2022-04-29 |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 | 2024-04-19 |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 | 2024-11-23 |

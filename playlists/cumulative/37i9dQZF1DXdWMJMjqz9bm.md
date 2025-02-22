@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-673 songs - 1 day 6 hr 42 min
+675 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-16 | 2024-02-03 |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2022-01-05 | 2022-07-16 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2022-04-04 | 2022-05-20 |
+| [after\(h\)ours \(with Chri$tian Gate$\)](https://open.spotify.com/track/3ThqvALYw128g6J7PIzsfv) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [after\(h\)ours \(with Chri$tian Gate$\)](https://open.spotify.com/album/3BjT9M1jlDXYyR5y6oK08b) | 2:49 | 2025-02-21 |  |
 | [Ain't Gon' Stop](https://open.spotify.com/track/0QqMkiJWTcOqm7nxD222Ik) | [Sol](https://open.spotify.com/artist/5mYS4mPFCpxvQwGU8rT43a) | [The Headspace Traveler](https://open.spotify.com/album/3lE8dur2FjdhLDllxKGzqH) | 3:36 | 2021-11-16 | 2022-02-26 |
 | [Ain't Nobody Else Like You](https://open.spotify.com/track/2wfiZ35GsTnxiJDEV15Evl) | [30](https://open.spotify.com/artist/3F0k8llOe3j1qhSEA6yeoe), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Ain't Nobody Else Like You](https://open.spotify.com/album/0nr4oY0rTiRMVtRM1bQXWR) | 2:36 | 2021-11-16 | 2022-02-26 |
 | [All I Never Wanted](https://open.spotify.com/track/202yaLntC4WM5V7odMhg9z) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [All I Never Wanted](https://open.spotify.com/album/71BkhJrPstzBgz6So9c2sj) | 2:05 | 2022-11-11 | 2023-01-07 |
@@ -69,6 +70,7 @@
 | [best friends](https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [best friends](https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG) | 2:22 | 2021-12-17 | 2022-02-26 |
 | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/track/4SF7B5YO80iewARxhdBW5t) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/album/7bodl1LiY4085jq4L2Dfxx) | 3:37 | 2022-01-28 | 2022-03-26 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-12-03 | 2022-05-20 |
+| [Bigger Picture](https://open.spotify.com/track/0hPcUhIAiauzL0kLsGcNUt) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Bigger Picture](https://open.spotify.com/album/2EdV3cfxMPcglyF9KzfDBN) | 2:07 | 2025-02-21 |  |
 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 | 2022-08-12 | 2022-10-15 |
 | [Black & Blue](https://open.spotify.com/track/0YAxwCrvS203to4rX3wlz8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Black & Blue](https://open.spotify.com/album/5veZ0Z8W3HDqXiYrQvCWWl) | 2:22 | 2023-04-04 | 2023-04-18 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 | 2022-07-13 |
@@ -392,7 +394,7 @@
 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 | 2024-05-24 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 | 2023-04-09 |
 | [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 | 2022-11-11 | 2023-04-15 |
-| [Murderer](https://open.spotify.com/track/6aZbAWmCQilinWprgzashl) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Murderer](https://open.spotify.com/album/4YxP15mdZTuyPmPv0Oinzr) | 3:30 | 2023-08-18 |  |
+| [Murderer](https://open.spotify.com/track/6aZbAWmCQilinWprgzashl) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Murderer](https://open.spotify.com/album/4YxP15mdZTuyPmPv0Oinzr) | 3:30 | 2023-08-18 | 2025-02-22 |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 | 2022-10-01 |
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 | 2022-07-02 |
 | [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-12-13 |  |

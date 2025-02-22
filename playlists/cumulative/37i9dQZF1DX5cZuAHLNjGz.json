@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 213333,
       "name": "Born to Shine",
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 160200,
       "name": "Gall Khaas",
       "url": "https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6"
@@ -5097,6 +5097,28 @@
     },
     {
       "album": {
+        "name": "Main Hi Kyon",
+        "url": "https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Basant Kur",
+          "url": "https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153144,
+      "name": "Main Hi Kyon",
+      "url": "https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS"
+    },
+    {
+      "album": {
         "name": "Majha Block",
         "url": "https://open.spotify.com/album/284tuekFOZ6066Schm1gE7"
       },
@@ -5464,7 +5486,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174056,
       "name": "Moon Rise",
       "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
@@ -5987,6 +6009,28 @@
     },
     {
       "album": {
+        "name": "Not Sure",
+        "url": "https://open.spotify.com/album/0qTcKgsHzSmnFRYjtf0DUF"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Not Sure",
+      "url": "https://open.spotify.com/track/3W7LZdsp9KhFS3j98wSooG"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf"
       },
@@ -6126,6 +6170,24 @@
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
+    },
+    {
+      "album": {
+        "name": "Ok Hoye Paye Haan",
+        "url": "https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129606,
+      "name": "Ok Hoye Paye Haan",
+      "url": "https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX"
     },
     {
       "album": {
@@ -6835,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
+    },
+    {
+      "album": {
         "name": "Jordan Sandhu Hits",
         "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
       },
@@ -7082,7 +7162,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
@@ -7665,6 +7745,32 @@
     },
     {
       "album": {
+        "name": "Smooth (From \"Badnaam\")",
+        "url": "https://open.spotify.com/album/1stVawIaTwnlBa2iQT3GO1"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "Smooth (From \"Badnaam\")",
+      "url": "https://open.spotify.com/track/6P1t6KqIpTyDRc5ZxsLDn1"
+    },
+    {
+      "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip"
       },
@@ -7980,7 +8086,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
@@ -9223,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
+    },
+    {
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
       },
@@ -9314,7 +9438,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 138500,
       "name": "Wealth",
       "url": "https://open.spotify.com/track/4l8WHDKXzN22fSIq7Vw4Wq"

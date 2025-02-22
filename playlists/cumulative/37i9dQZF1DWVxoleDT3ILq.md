@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: El Mala Hierba
+> Todo el sonido indie de Chile\. Foto: Javiera Mena y Santiago Motorizado
 
-526 songs - 1 day 7 hr 30 min
+528 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [CHINO, CA](https://open.spotify.com/track/7dUQaXIU2OdcaVA7IyEZl7) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p) | [CHINO, CA](https://open.spotify.com/album/0NEcQdfUb37tFV99So5jRd) | 3:02 | 2022-04-15 | 2022-07-12 |
 | [Cicatrices](https://open.spotify.com/track/4Ty34JI8IKzV9L3YpCIDNe) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Cicatrices](https://open.spotify.com/album/6aKF7NiH2Yrknr3gaXcX6y) | 3:34 | 2024-08-16 | 2024-12-07 |
 | [Ciego](https://open.spotify.com/track/3BMSBX4qC3jNUf208X2F0Q) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [BB: Ciego](https://open.spotify.com/album/6eXgSXkf1f2lF4y0wIP5t7) | 3:07 | 2022-04-15 | 2022-07-29 |
-| [CIELO](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [CIELO](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-10 |  |
+| [CIELO](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [CIELO](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-10 | 2025-02-22 |
 | [Cinta Blanca](https://open.spotify.com/track/3rZI0PDP3Rb7ud22xnTtEk) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Cinta Blanca](https://open.spotify.com/album/4pqwbzTTW3BaZ8mJCy2mNq) | 4:47 | 2023-03-10 | 2023-05-20 |
 | [Clara](https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Clara](https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq) | 3:52 | 2022-05-20 | 2023-01-28 |
 | [Claroscuro](https://open.spotify.com/track/6ZKc3Mr0kZZMze2sU19GDd) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Claroscuro](https://open.spotify.com/album/7HIHBqZ2ruO6eF9eRIMS9M) | 3:29 | 2022-05-13 | 2022-07-25 |
@@ -274,6 +274,7 @@
 | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU) | 3:06 | 2022-04-15 | 2022-12-22 |
 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 | 2022-04-15 | 2022-12-10 |
 | [Manso visto](https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Manso visto](https://open.spotify.com/album/5meY39uO4BMufhk0S3e9E9) | 2:48 | 2024-01-12 | 2024-05-18 |
+| [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-02-21 |  |
 | [Maricoteca](https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Maricoteca](https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu) | 3:42 | 2022-11-11 | 2024-06-08 |
 | [Me Derretí](https://open.spotify.com/track/0eGzggbKVakRzwysJ9jSzT) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR) | [Me Derretí](https://open.spotify.com/album/7kGWmW0hpfvVMEmAgzgX5H) | 3:41 | 2025-02-14 |  |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-04-15 | 2022-07-28 |
@@ -328,7 +329,7 @@
 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 | 2024-05-17 |  |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 | 2023-01-28 |
 | [Palpitar](https://open.spotify.com/track/6s5dZcWKi81oGSRgxii14a) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Palpitar](https://open.spotify.com/album/5B6QXKGSHcLCvz870d0xCp) | 3:19 | 2024-04-26 |  |
-| [Pangal](https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Pangal](https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp) | 2:54 | 2024-05-17 |  |
+| [Pangal](https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Pangal](https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp) | 2:54 | 2024-05-17 | 2025-02-22 |
 | [Pantallas y Desiertos](https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Pantallas y Desiertos](https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb) | 3:32 | 2023-10-27 | 2024-06-08 |
 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 | 2022-04-15 | 2023-01-28 |
 | [Para la Patada y el Combo](https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Palabritas y Palabrotas](https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM) | 3:06 | 2022-10-07 | 2024-06-08 |
@@ -394,6 +395,7 @@
 | [Rapapapaum](https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT) | [Mouzeh](https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy), [Blazer](https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA) | [Rapapapaum](https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw) | 2:50 | 2024-02-23 | 2024-12-07 |
 | [RAYEN](https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [RAYEN](https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN) | 3:07 | 2023-03-31 | 2023-09-07 |
 | [Reclame](https://open.spotify.com/track/28otbmrZCYNiRcoKnzesac) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Reclame](https://open.spotify.com/album/36Yzr88w2cyYr4dVP0DQNN) | 3:27 | 2022-04-15 | 2022-07-28 |
+| [Redentor](https://open.spotify.com/track/2Sn6WKMrCNDz3bmpz1OM0u) | [L!mbus](https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Redentor](https://open.spotify.com/album/5O6O0mqH3IqFIi4YakCTJR) | 2:59 | 2025-02-21 |  |
 | [Reflejo](https://open.spotify.com/track/2kfrb4M209Ud28jurnN4gw) | [Los Mil Jinetes](https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn) | [Reflejo](https://open.spotify.com/album/7Gb9r7PpsscJcAldi2EwAk) | 4:54 | 2023-05-12 | 2023-06-22 |
 | [REMEMBER](https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [REMEMBER](https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3) | 3:27 | 2023-01-20 | 2023-06-29 |
 | [Remolinos de papel](https://open.spotify.com/track/3SkZw3OF4JEqSG8Oth7Pxc) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Remolinos de papel](https://open.spotify.com/album/1VBLkzQljr8UeXqGpEYxR1) | 3:32 | 2023-08-04 | 2023-09-06 |

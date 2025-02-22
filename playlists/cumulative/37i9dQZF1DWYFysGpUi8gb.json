@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from black country, new road.",
+  "description": "welcome to the underground. greetings from maria somerville.",
   "name": "melomania",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 158306,
       "name": "A Bit Like James Bond",
       "url": "https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b"
+    },
+    {
+      "album": {
+        "name": "A Few More Years",
+        "url": "https://open.spotify.com/album/7oTFJgWY34zpmDhnivBtID"
+      },
+      "artists": [
+        {
+          "name": "Wings of Desire",
+          "url": "https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251888,
+      "name": "A Few More Years",
+      "url": "https://open.spotify.com/track/6qGNXKIfaeRRrS0XaWZof2"
     },
     {
       "album": {
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 173583,
       "name": "Back2bed",
       "url": "https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D"
@@ -459,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Black Rabbit",
+        "url": "https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275368,
+      "name": "Black Rabbit",
+      "url": "https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP"
+    },
+    {
+      "album": {
         "name": "Blanket (Dan Carey Remix)",
         "url": "https://open.spotify.com/album/7fNGZksnLZi3ZHkzQd2VfP"
       },
@@ -604,6 +640,24 @@
       "duration_ms": 179025,
       "name": "Bullet of Dignity",
       "url": "https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI"
+    },
+    {
+      "album": {
+        "name": "T\u00edr na n\u00d3g",
+        "url": "https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320120,
+      "name": "Ceathair",
+      "url": "https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS"
     },
     {
       "album": {
@@ -1040,7 +1094,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 182128,
       "name": "Don't Want To Dance",
       "url": "https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI"
@@ -1443,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/6GaapvopMyzQ4jCAMcDAGR"
       },
@@ -1677,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "I Wake Up Slowly",
+        "url": "https://open.spotify.com/album/7349Bk9PpVxJSUwMDSzk5X"
+      },
+      "artists": [
+        {
+          "name": "Oslo Twins",
+          "url": "https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "I Wake Up Slowly",
+      "url": "https://open.spotify.com/track/22CUrCtZeg4jR7d7BO34oa"
+    },
+    {
+      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1767,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "The Machine Starts To Sing",
+        "url": "https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "I\u2019ve Got A Feeling (Stay Lucky)",
+      "url": "https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm"
+    },
+    {
+      "album": {
         "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
         "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
       },
@@ -1832,7 +1940,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 214507,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
@@ -1890,6 +1998,60 @@
       "duration_ms": 286860,
       "name": "King Cnut",
       "url": "https://open.spotify.com/track/4m0cUQ0fKhdHA0iBx9XCuk"
+    },
+    {
+      "album": {
+        "name": "Lake Disappointment",
+        "url": "https://open.spotify.com/album/3fT6acThuTSmb6TxY5l186"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209853,
+      "name": "Lake Disappointment",
+      "url": "https://open.spotify.com/track/1KZNceZYoC3vJDODcDvtyA"
+    },
+    {
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/7ixgUDVWX1nNha4emipIJF"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/5CtmHJfIbCsYIm6vzJxuZ3"
+    },
+    {
+      "album": {
+        "name": "Earth-Sized Worlds",
+        "url": "https://open.spotify.com/album/4cLeoigCgulrTWiYszW61K"
+      },
+      "artists": [
+        {
+          "name": "Mandrake Handshake",
+          "url": "https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Lorenzo's Desk",
+      "url": "https://open.spotify.com/track/57WaTZlCh63N34L5lauoRO"
     },
     {
       "album": {
@@ -1980,6 +2142,24 @@
       "duration_ms": 195452,
       "name": "Micro",
       "url": "https://open.spotify.com/track/0IJv2c4MsV3RQDBTFrnKtD"
+    },
+    {
+      "album": {
+        "name": "Miss Together",
+        "url": "https://open.spotify.com/album/3Z2lMasvQqJx1XjDfTWjtq"
+      },
+      "artists": [
+        {
+          "name": "Velvetine",
+          "url": "https://open.spotify.com/artist/6nGzm3tJwcjoa7LLtjElNa"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237997,
+      "name": "Miss Together",
+      "url": "https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w"
     },
     {
       "album": {
@@ -2138,7 +2318,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 149741,
       "name": "Nail in a Wooden Trunk",
       "url": "https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN"
@@ -2271,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Pay The Rent",
+        "url": "https://open.spotify.com/album/2ya1sQMlrSpp11ZGLa1oCd"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320986,
+      "name": "Pay The Rent",
+      "url": "https://open.spotify.com/track/3ahP5Gp5HASvudye0Ngbqx"
+    },
+    {
+      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -2286,6 +2484,24 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "album": {
+        "name": "Conditions III",
+        "url": "https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298687,
+      "name": "Pool Scene",
+      "url": "https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r"
     },
     {
       "album": {
@@ -3388,6 +3604,24 @@
       "duration_ms": 213441,
       "name": "Trying",
       "url": "https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz"
+    },
+    {
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb"
     },
     {
       "album": {

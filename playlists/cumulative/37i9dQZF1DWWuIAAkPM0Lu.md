@@ -4,7 +4,7 @@
 
 > 🪷 <a href="spotify:album:4qkMWKIhCOWFtkVVsRsf0w">Vågner</a> 🪷 af <a href="spotify:artist:1WLr84Nec3Bb8xuxgQZGb9">Mille's</a> nye EP 🥰
 
-4,237 songs - 9 day 3 hr 32 min
+4,239 songs - 9 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Ambulance](https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Ambulance](https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4) | 3:03 | 2024-09-12 | 2024-09-20 |
 | [America](https://open.spotify.com/track/5EEXJSdJ44elMRdKf4Qi7j) | [Dissing & Las](https://open.spotify.com/artist/4oGfTtwZ5lBrfa6D0SSiiD), [Billy Cross](https://open.spotify.com/artist/1qbNqOWBmjfCXdJxERlvGe) | [America](https://open.spotify.com/album/1BsHOEZ3ag82Wgy0ENwpFR) | 3:54 | 2024-10-10 | 2024-10-18 |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-06 | 2025-02-14 |
-| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:43 | 2025-02-20 |  |
+| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-02-20 |  |
 | [Amor Criminal](https://open.spotify.com/track/70VKe2la96bP5mCcR3C7q7) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Amor Criminal](https://open.spotify.com/album/2oUIW9LzryBrnFVu6VsA14) | 2:26 | 2024-09-05 | 2024-09-13 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2024-12-06 |
 | [Andre Øjne](https://open.spotify.com/track/5x8uuKmxtDmwGejX8dLBNc) | [Laura Ziani](https://open.spotify.com/artist/5obJCBYDzkO1xEmm6P3MSo) | [Andre Øjne](https://open.spotify.com/album/7kAIFDZzkCCGIRzo2mAmvU) | 3:08 | 2025-01-02 | 2025-01-10 |
@@ -1172,6 +1172,7 @@
 | [Expired](https://open.spotify.com/track/4quQsfygttrbZIW3FyV2h7) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Rue Melo](https://open.spotify.com/artist/7mXgLOfqbhy5Y2HKHhsGxc) | [Expired](https://open.spotify.com/album/3GPXrI6jUD2ttVDBtoT0pN) | 2:25 | 2024-08-29 | 2024-09-06 |
 | [EXT\. KØBENHAVN \(KONTRA\)](https://open.spotify.com/track/0pe98OwJmnDuDKWYn9IWk7) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [KONTRA \(SOUNDTRACK\)](https://open.spotify.com/album/36dSf3FzyvV1va2ygoT1Z9) | 2:41 | 2024-09-19 | 2024-09-27 |
 | [Extra Spicy Noodles](https://open.spotify.com/track/1jn47bO0NgHQ9dXQUBEjWo) | [IAMJJ](https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ) | [Extra Spicy Noodles](https://open.spotify.com/album/3h8iFim3VKuXAxx4QLNdgk) | 3:22 | 2024-06-20 | 2024-06-28 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [EYES ON ME](https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [EYES ON ME](https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx) | 3:43 | 2024-11-14 | 2024-11-22 |
 | [EYES ON ME](https://open.spotify.com/track/310Nn9tFyZz9w2UbdBUxUX) | [Dwonji](https://open.spotify.com/artist/3LPN9SczhFaeLnDmGEYW9F) | [EYES ON ME](https://open.spotify.com/album/7vZcwbfpxJoSlWvcrtGmBB) | 2:38 | 2024-08-01 | 2024-08-09 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2024-05-03 |
@@ -1389,6 +1390,7 @@
 | [Friday Night](https://open.spotify.com/track/7BHLM4D8AsiElCoHeeosdL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Friday Night](https://open.spotify.com/album/6fmWSAh3Gcdz5oAkrryJ5p) | 2:20 | 2025-01-23 | 2025-01-31 |
 | [Friends](https://open.spotify.com/track/3jeMZy2L5wMpn97cHFM9xx) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Aura Dione](https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj) | [Friends](https://open.spotify.com/album/6qrhSBLcNB6ZRybbeNpOaT) | 2:54 | 2025-02-06 | 2025-02-14 |
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-08-16 | 2024-08-23 |
+| [Frit Fald](https://open.spotify.com/track/4YXM0rDoC79MCW93Q1ti3V) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a) | [Frit Fald](https://open.spotify.com/album/4mnjyR7jamCVKZiexM5gFd) | 2:53 | 2025-02-21 |  |
 | [Frossenpind](https://open.spotify.com/track/79b8imsvjMii3aMbkaK1PS) | [Frida Brygmann](https://open.spotify.com/artist/6ohx0Iujh5kRkt5BibHlXj) | [Byen ved siden af](https://open.spotify.com/album/6vnTdLgLvgfJRkJhytSDSf) | 1:56 | 2024-11-07 | 2024-11-15 |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-02 | 2024-05-10 |
 | [Fuck Dig](https://open.spotify.com/track/1wYT9x3kMp7QfRMxjRaX2R) | [Gulddreng](https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf) | [Fuck Dig](https://open.spotify.com/album/6p0QAh4jciY7efzPorkzPU) | 2:58 | 2024-06-27 | 2024-07-05 |

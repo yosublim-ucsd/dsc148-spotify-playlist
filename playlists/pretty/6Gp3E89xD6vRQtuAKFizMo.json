@@ -6,8 +6,48 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ39RkqZ17X4yMvAFLKn9xVVXDEA9w",
+  "snapshot_id": "AAAZ4QFFffuAdpEhdYVJFzk+fz8lWvs/",
   "tracks": [
+    {
+      "added_at": "2025-02-21 15:26:04",
+      "album": {
+        "name": "I Think I Like You (feat. CHYL)",
+        "url": "https://open.spotify.com/album/363ZIyafmc3TxEhPuZfoJZ"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "DJ Mii",
+          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "I Think I Like You (feat. CHYL)",
+      "url": "https://open.spotify.com/track/5g25NbR1XTe48Wmz17rh7R"
+    },
+    {
+      "added_at": "2025-02-21 17:36:02",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk"
+    },
     {
       "added_at": "2025-02-14 15:36:35",
       "album": {

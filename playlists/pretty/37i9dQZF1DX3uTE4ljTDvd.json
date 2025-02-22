@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Alexsander Lucio",
-  "num_followers": 126361,
+  "num_followers": 126399,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Aviva-nos",
+        "url": "https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        },
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        }
+      ],
+      "duration_ms": 324923,
+      "name": "Aviva-nos",
+      "url": "https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 323506,
       "name": "Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Aviva-nos",
-        "url": "https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        },
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        }
-      ],
-      "duration_ms": 324923,
-      "name": "Aviva-nos",
-      "url": "https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+      },
+      "artists": [
+        {
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+        }
+      ],
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Minha can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
-      },
-      "artists": [
-        {
-          "name": "ThreeSis",
-          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
-        }
-      ],
-      "duration_ms": 273514,
-      "name": "Minha can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
     },
     {
       "added_at": "2025-01-10 03:01:06",

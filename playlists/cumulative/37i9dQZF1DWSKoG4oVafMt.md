@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,001 songs - 2 day 5 hr 56 min
+1,002 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 | 2023-10-10 |
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |
-| [Still](https://open.spotify.com/track/5WnE7JNO0HYILXMCl0OOO2) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Still](https://open.spotify.com/album/0JZE0Bs194zOX4iwYeiDkX) | 3:36 | 2023-06-23 |  |
+| [Still](https://open.spotify.com/track/5WnE7JNO0HYILXMCl0OOO2) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Still](https://open.spotify.com/album/0JZE0Bs194zOX4iwYeiDkX) | 3:36 | 2023-06-23 | 2025-02-22 |
 | [Storiyan](https://open.spotify.com/track/5AnYiIOxQVCweiykN7KqES) | [Sunny Mehra](https://open.spotify.com/artist/6jCryAgpEelVCGHCbxRoTS), [Robby Beats](https://open.spotify.com/artist/2BVRxobqe5PI7QCpK7CzH7) | [Storiyan](https://open.spotify.com/album/2AYyhkWWKryC0s06tvhzwR) | 3:18 | 2022-12-23 | 2023-02-02 |
 | [Straight Forward](https://open.spotify.com/track/12PQrHIHBYHz6CqDzRS6Ot) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/3O0QPqMcrOw7SalZBuBIjQ) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |
@@ -1000,6 +1000,7 @@
 | [Yay Or Nay](https://open.spotify.com/track/3ctfyUvJgMmuxwlHJQxdA4) | [Varinder Gill](https://open.spotify.com/artist/3YECaqAXk2jxLRHR3LIoox) | [Take Off](https://open.spotify.com/album/27FTYd6vApimMHrrHo31WN) | 2:20 | 2022-05-20 | 2022-07-06 |
 | [Yenkan](https://open.spotify.com/track/3pGQnLxiD0m7ZoQXGf6FG3) | [Karaj Randhawa](https://open.spotify.com/artist/39HFvmMOlyMJAsfDgaN8y0) | [Shikari](https://open.spotify.com/album/6xo8xhZJuEzeXhNbCCEEzH) | 3:00 | 2022-05-09 | 2022-05-20 |
 | [You & I](https://open.spotify.com/track/0XvrEW2EB4O82c0DRUCpQj) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Echoes of Love](https://open.spotify.com/album/73dYP89FVYriVPvX7WWcq3) | 2:35 | 2025-02-06 |  |
+| [You & I](https://open.spotify.com/track/20xEtcpN5E3CvI0zBlk40v) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Unscripted](https://open.spotify.com/album/4XWBNxahhQIhS4jJ8gWipH) | 2:32 | 2025-02-21 |  |
 | [You N’ I](https://open.spotify.com/track/4hg7dDYEK3Mc1fLVBPbzpl) | [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [You N’ I](https://open.spotify.com/album/4oppIoX5vEptnhXE3VcU3x) | 2:48 | 2022-04-11 | 2022-04-29 |
 | [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 | 2022-01-08 | 2022-04-06 |
 | [Zara Faasley Te](https://open.spotify.com/track/4C88RSd7XYdOnqKUi1IZfc) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Zara Faasley Te \- Single](https://open.spotify.com/album/6x752sdmpSQagdtzUMv31Q) | 4:24 | 2022-11-07 | 2023-02-04 |

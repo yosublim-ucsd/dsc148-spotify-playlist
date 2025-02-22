@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > Home is where the Hustle is\. Listen to the music from Mo, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,750 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,788 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 35 | [Hommage À La Vielle Garde \(Pour Lafarge Et Rinaldi\)](https://open.spotify.com/track/6V107UaAxQkw6JJb7qy8n8) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Pardon My French](https://open.spotify.com/album/0Oei3ZeGpEyq73E5PnPmvZ) | 4:48 |
 | 36 | [Rudeboi \(feat\. Lil Wayne\)](https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Return of the Trill](https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17) | 4:04 |
 | 37 | [Hamdulillah \- Music From The Netflix Series Mo](https://open.spotify.com/track/6X1aG6YCoSqsLPI7t56n4D) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [Hamdulillah \(Music From The Netflix Series Mo\)](https://open.spotify.com/album/0YnkmJkudVhAnOvHEHcBC0) | 3:55 |
-| 38 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
+| 38 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
 | 39 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 |
 | 40 | [What It Do](https://open.spotify.com/track/6gvatEc0FeHHg7lyFQNkQk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:53 |
 | 41 | [La Tejanita](https://open.spotify.com/track/3iMH2LtYYm5A04bXnf4JYs) | [Ale Y Aleks](https://open.spotify.com/artist/79C5zzXeoLeB0HjgemCmd1) | [La Tejanita](https://open.spotify.com/album/0UWFEUBRSrPJSts2DCpoOC) | 3:02 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 97 | [It's Called Initiative](https://open.spotify.com/track/7C4mNcwk0mIJUhCsvsRXPN) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 0:58 |
 | 98 | [Schoolyard Fight](https://open.spotify.com/track/0MvqZuX5ZkMstdAvmNSwCj) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 0:43 |
 
-Snapshot ID: `Z5qbgQAAAADeQIaWSVLytQx+46HmaNho`
+Snapshot ID: `Z5qbgQAAAABWyyvW60R6zP020lxdY5w8`

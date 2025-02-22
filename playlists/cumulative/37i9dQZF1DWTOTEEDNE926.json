@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 176040,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
@@ -320,7 +342,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 201993,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/1DBXfbLYNqIlPwxjUxDxaR"
@@ -609,6 +631,24 @@
     },
     {
       "album": {
+        "name": "F1",
+        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+      },
+      "artists": [
+        {
+          "name": "VICKILICIOUS",
+          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120816,
+      "name": "F1",
+      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
+    },
+    {
+      "album": {
         "name": "BAD BITCHES",
         "url": "https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt"
       },
@@ -744,7 +784,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 155601,
       "name": "inmortal",
       "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
@@ -1458,6 +1498,24 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+    },
+    {
+      "album": {
+        "name": "Que se Joda",
+        "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
+      },
+      "artists": [
+        {
+          "name": "Ferjo",
+          "url": "https://open.spotify.com/artist/4SQ2RvEWzhWelGM4GOtwGU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149186,
+      "name": "Que se Joda",
+      "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
     },
     {
       "album": {

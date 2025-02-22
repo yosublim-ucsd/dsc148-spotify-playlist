@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-135 songs - 6 hr 52 min
+136 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Love Is an Open Door](https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Love Is an Open Door](https://open.spotify.com/album/6slcWjDG8l1CKq02C8u2gQ) | 2:05 | 2022-03-16 |  |
 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 | 2022-03-16 |  |
 | [Love Power \(End Credit Version\)](https://open.spotify.com/track/0EnS2KLYG9ig26yYltoXJf) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Disenchanted \(Original Soundtrack\)](https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH) | 2:57 | 2023-01-31 |  |
+| [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 | 2025-02-21 |  |
 | [Love You Like A Love Song](https://open.spotify.com/track/7lAoovVf67mECK18oOpJbc) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [For You](https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH) | 3:08 | 2024-12-05 | 2025-02-14 |
 | [Ma Belle Evangeline](https://open.spotify.com/track/5d22scOOfbrK7GHy3ZTT3s) | [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 1:55 | 2022-07-07 |  |
 | [Ma Belle Evangeline \- From "The Princess and the Frog"/Soundtrack Version](https://open.spotify.com/track/2P8QqrZ42YNP8Ao5uRMLO0) | [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Princess and the Frog](https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P) | 1:55 | 2022-03-16 | 2022-07-29 |

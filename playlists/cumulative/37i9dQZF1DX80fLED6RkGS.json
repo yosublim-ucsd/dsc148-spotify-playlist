@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Cheza Na Topa",
+        "url": "https://open.spotify.com/album/6v8glt0x5nXy4pRJxJ1AjP"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213623,
+      "name": "Cheza Na Topa",
+      "url": "https://open.spotify.com/track/397fL80iPmZjus6jDn2xFJ"
+    },
+    {
+      "album": {
         "name": "Chingri",
         "url": "https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD"
       },
@@ -1972,6 +1990,24 @@
       "duration_ms": 162821,
       "name": "Dem Mauru",
       "url": "https://open.spotify.com/track/60wD5VNwJuJo4osZ2JLPlM"
+    },
+    {
+      "album": {
+        "name": "Denda",
+        "url": "https://open.spotify.com/album/4uxjTwgBRl3wZ3O6vHT6qs"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Denda",
+      "url": "https://open.spotify.com/track/6S7JsMpwiTEdO1RWA1uISr"
     },
     {
       "album": {
@@ -3687,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Khartoum",
+        "url": "https://open.spotify.com/album/6GFcYdy32ZmkNf8fQ1vPzL"
+      },
+      "artists": [
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184798,
+      "name": "Khartoum",
+      "url": "https://open.spotify.com/track/6HExKbPw3TLaw6DYzH3oY5"
+    },
+    {
+      "album": {
         "name": "Jungle Fever",
         "url": "https://open.spotify.com/album/7m1id3TS0HMpagZ9pdXutI"
       },
@@ -4464,7 +4518,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 204000,
       "name": "Laptop",
       "url": "https://open.spotify.com/track/1PrVaagY1pWFwB6M2sOQ0N"
@@ -5270,7 +5324,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 137652,
       "name": "Mjanja",
       "url": "https://open.spotify.com/track/77rRECZDTrfToroYgQ3L3B"
@@ -8277,6 +8331,40 @@
     },
     {
       "album": {
+        "name": "Starehe",
+        "url": "https://open.spotify.com/album/3mPMiyH7IQGk32zsHRtBtM"
+      },
+      "artists": [
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "OnlyOneDelo",
+          "url": "https://open.spotify.com/artist/3LYeloSKoUiWFWoeYweFrx"
+        },
+        {
+          "name": "Diaso",
+          "url": "https://open.spotify.com/artist/76XRlCBxoH6gTqXsv4teRC"
+        },
+        {
+          "name": "Mluo",
+          "url": "https://open.spotify.com/artist/43WVp1Esjal1pMeRzHlAph"
+        },
+        {
+          "name": "Rahmu",
+          "url": "https://open.spotify.com/artist/5JW7qbsc3CkcDTeWkamgQ6"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197665,
+      "name": "Starehe",
+      "url": "https://open.spotify.com/track/6cLsLWSLwKjMmTVaJ2aCxp"
+    },
+    {
+      "album": {
         "name": "Statue (feat. Ssaru & Motif)",
         "url": "https://open.spotify.com/album/4ARauunzSv8sHdu2L4rLZV"
       },
@@ -8896,7 +8984,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 148468,
       "name": "Tuna Fix",
       "url": "https://open.spotify.com/track/42GGpMvdFZgLMK4D9GL4SO"
@@ -9650,7 +9738,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 154577,
       "name": "Weather for Two",
       "url": "https://open.spotify.com/track/5C5tBOd9KzSRXNQmZjDkwi"

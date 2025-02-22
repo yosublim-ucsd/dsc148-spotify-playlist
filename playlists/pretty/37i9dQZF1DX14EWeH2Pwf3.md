@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Capo Plaza in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,935 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,158 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 |
 | 50 | [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 |
 
-Snapshot ID: `Z7e0OgAAAAAREUWC0DLwWC5ZA7pNxU2L`
+Snapshot ID: `Z7e0OgAAAABk+Px6f+9EDtpb4yHIb3Tj`

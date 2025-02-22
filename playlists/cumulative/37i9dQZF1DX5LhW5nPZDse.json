@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Foolish Girl",
+        "url": "https://open.spotify.com/album/59Y82bpZk1swutdukSKVLQ"
+      },
+      "artists": [
+        {
+          "name": "Marjorie",
+          "url": "https://open.spotify.com/artist/34SBQdfwoEDNqgbNQRgBbc"
+        },
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141431,
+      "name": "Foolish Girl",
+      "url": "https://open.spotify.com/track/3xTFF5pFEYlM0Qg4uUCF6M"
+    },
+    {
+      "album": {
         "name": "Forever and More",
         "url": "https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng"
       },

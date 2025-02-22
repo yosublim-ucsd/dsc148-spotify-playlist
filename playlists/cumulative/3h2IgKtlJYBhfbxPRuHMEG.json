@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
+    },
+    {
+      "album": {
         "name": "I Admit It (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
       },

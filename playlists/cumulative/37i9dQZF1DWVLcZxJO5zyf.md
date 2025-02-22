@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Ebony
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rael, LUDMILLA
 
-371 songs - 17 hr 38 min
+372 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Vem com tudo](https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8) | 3:14 | 2023-11-03 | 2024-03-02 |
 | [Verdadeira Brasileira](https://open.spotify.com/track/4xl8d5clE0KYIzd0IiRcgF) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Verdadeira Brasileira](https://open.spotify.com/album/32Ez4Ve0SYE8OX3QBmIurC) | 2:28 | 2022-12-02 | 2022-12-24 |
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-02-11 | 2024-11-09 |
+| [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 | 2025-02-21 |  |
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2022-01-14 | 2022-12-24 |
 | [Vira E Mexe](https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Vira E Mexe](https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh) | 3:10 | 2024-06-21 | 2024-08-17 |
 | [Vixe \(Ao Vivo na Prainha da Claudinha\)](https://open.spotify.com/track/6QIsQQa0iOiHXsT507DsXk) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Prainha da Claudinha \(Ao Vivo\)](https://open.spotify.com/album/5L7cyBdm7XIXby9rdJk025) | 3:17 | 2022-08-19 | 2022-09-21 |
@@ -378,6 +379,6 @@
 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 | 2023-10-14 |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2022-01-14 | 2022-02-05 |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-12 | 2024-01-23 |
-| [Águas passadas \(Netuno\)](https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Águas passadas \(Netuno\)](https://open.spotify.com/album/4clWwMvqmNZ4nkm00VOJA4) | 4:05 | 2024-12-13 |  |
+| [Águas passadas \(Netuno\)](https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Águas passadas \(Netuno\)](https://open.spotify.com/album/4clWwMvqmNZ4nkm00VOJA4) | 4:05 | 2024-12-13 | 2025-02-22 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

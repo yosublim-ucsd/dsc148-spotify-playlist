@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Amigas",
+        "url": "https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0"
+      },
+      "artists": [
+        {
+          "name": "Amor Elefante",
+          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203848,
+      "name": "Foto de una Coreograf\u00eda",
+      "url": "https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h"
+    },
+    {
+      "album": {
         "name": "Fotogr\u00e1fica",
         "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
       },

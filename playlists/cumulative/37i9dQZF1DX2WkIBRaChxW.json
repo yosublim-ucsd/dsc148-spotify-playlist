@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring GIV\u0112ON.",
+  "description": "What's happening in r&b, right now \u2013 featuring Coco Jones.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210975,
+      "name": "30 Something",
+      "url": "https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq"
     },
     {
       "album": {
@@ -1142,6 +1160,24 @@
       "duration_ms": 194066,
       "name": "Apply Pressure",
       "url": "https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9"
+    },
+    {
+      "album": {
+        "name": "Are U Still",
+        "url": "https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230782,
+      "name": "Are U Still",
+      "url": "https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q"
     },
     {
       "album": {
@@ -2452,7 +2488,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 163561,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
@@ -3080,6 +3116,24 @@
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "album": {
+        "name": "Chimiy\u00e9",
+        "url": "https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151033,
+      "name": "Chimiy\u00e9",
+      "url": "https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ"
     },
     {
       "album": {
@@ -5318,7 +5372,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159432,
       "name": "Feeling Alright",
       "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
@@ -6096,7 +6150,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 252381,
       "name": "Fry Plantain (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE"
@@ -8192,7 +8246,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
@@ -8864,6 +8918,24 @@
       "duration_ms": 206335,
       "name": "JUMP (feat. Coast Contra)",
       "url": "https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169212,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
     },
     {
       "album": {
@@ -17543,6 +17615,24 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164645,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
+    },
+    {
+      "album": {
         "name": "tears in the club (feat. the weeknd)",
         "url": "https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA"
       },
@@ -20190,7 +20280,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179594,
       "name": "WHY",
       "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
@@ -20644,10 +20734,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 228047,
       "name": "YES IT IS",
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
+    },
+    {
+      "album": {
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
       "album": {

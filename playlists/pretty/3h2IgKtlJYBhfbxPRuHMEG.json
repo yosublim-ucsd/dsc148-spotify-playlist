@@ -6,8 +6,28 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEVhsQ/tg+h9l4qf4Nmgm/rbltmxrX",
+  "snapshot_id": "AAAEWMzACn23Q1wL9XxZo15hzohRQWtJ",
   "tracks": [
+    {
+      "added_at": "2025-02-21 13:19:39",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
+    },
     {
       "added_at": "2025-02-06 20:56:43",
       "album": {

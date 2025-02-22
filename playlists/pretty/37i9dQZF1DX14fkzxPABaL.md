@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Ricardo Arjona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,995 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,207 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [Mi buen corazón](https://open.spotify.com/track/0el1KkRH1ltn8gEHSkGpPn) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Mi buen corazón](https://open.spotify.com/album/10QRkHKOmAEeOyYm9AH1Ub) | 2:52 |
 | 100 | [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 |
 
-Snapshot ID: `Z4nHuAAAAAC1NIqqczSvEaRXk7SfQkrF`
+Snapshot ID: `Z4nHuAAAAAB3z0IQ+WAUEUywmvLogk3/`

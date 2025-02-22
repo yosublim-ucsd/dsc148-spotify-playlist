@@ -2,9 +2,9 @@
 
 ### [Naija Drill ](https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE)
 
-> Drilling through Naij\. Cover: King Perryy
+> Drilling through Naij\. Cover: Pretty Boy D\-O
 
-84 songs - 3 hr 48 min
+85 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 | 2024-06-28 |  |
 | [On God Oh Boss](https://open.spotify.com/track/1qfE3ZIV3lkzXYUdZsXBtW) | [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Brown Roofs](https://open.spotify.com/album/0oqFYMzBIZbaymc5fYAvma) | 2:10 | 2024-08-30 | 2024-11-09 |
 | [Oppress](https://open.spotify.com/track/4WEhcjvsgEUGdfR3Jjv9uJ) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [UGLY \(U Gatts Love Yourself\)](https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On) | 3:42 | 2024-06-28 |  |
+| [OYO \(Own Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 | 2025-02-21 |  |
 | [PARA](https://open.spotify.com/track/26xlOtYwps4ooJ3UAmrSPq) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [PARA](https://open.spotify.com/album/1jwDZ3zWdPzSLewL0jh1fA) | 2:44 | 2024-06-28 |  |
 | [Perfect Timing](https://open.spotify.com/track/7xgcrkdoh6EObUoMq7hvvh) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:28 | 2024-06-28 |  |
-| [Popping Tonight](https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Before The Feast](https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI) | 2:04 | 2024-06-28 |  |
+| [Popping Tonight](https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Before The Feast](https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI) | 2:04 | 2024-06-28 | 2025-02-22 |
 | [Puff Puff Pass](https://open.spotify.com/track/4IUJeJoEnzeVbBHQybYqMS) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Puff Puff Pass](https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo) | 2:31 | 2024-06-28 |  |
 | [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 | 2024-09-20 | 2024-09-28 |
 | [Receipts](https://open.spotify.com/track/1pfvwzTRFBlnzL882eqcVu) | [Nuell June](https://open.spotify.com/artist/6yUIhBmG4Ve72lyfAAwcrc) | [Abuja's Very Own II](https://open.spotify.com/album/3tDZYCT0WPvIHWNImuPxy5) | 1:56 | 2024-06-28 |  |

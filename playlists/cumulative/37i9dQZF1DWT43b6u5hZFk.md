@@ -4,11 +4,12 @@
 
 > Listen to JENNIE's greatest hits, all in one place.
 
-17 songs - 57 min 13 sec
+18 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Black \(Feat\. JENNIE of BLACKPINK\)](https://open.spotify.com/track/44f1TNdoQUgf3PUYraCTsH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [COUP D'ETAT \(Korean Version\)](https://open.spotify.com/album/6A5g9sz5nChdBMdcATcCjB) | 3:23 | 2025-02-17 |  |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [GG Be](https://open.spotify.com/track/5MPGtk7Ni67f76w0RV79GO) | [SEUNGRI](https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Let's Talk about Love](https://open.spotify.com/album/61nJoBqpC5qaF0g0Np0Ucw) | 3:37 | 2025-02-17 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-17 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2025-02-17 |  |

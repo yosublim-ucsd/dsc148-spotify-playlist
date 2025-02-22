@@ -4,7 +4,7 @@
 
 > 
 
-373 songs - 1 day 0 hr 57 min
+374 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,13 +133,14 @@
 | [Forgive Me \(Live\) \(ODESZA VIP Remix\)](https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Forgive Me \(Live\) / A Moment Apart \(Live\)](https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV) | 4:03 | 2024-04-16 | 2024-07-11 |
 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 | 2022-11-11 | 2023-07-15 |
 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 | 2022-08-10 | 2023-05-19 |
+| [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 | 2025-02-21 |  |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-03 | 2022-07-09 |
 | [Futbol](https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Futbol](https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe) | 3:32 | 2023-05-03 | 2023-05-16 |
 | [Gentle Heart](https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 5:45 | 2023-04-28 | 2023-08-12 |
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-12 | 2023-04-21 |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-09 | 2023-09-16 |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-18 | 2024-09-12 |
-| [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 | 2025-02-06 |  |
+| [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 | 2025-02-06 | 2025-02-22 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
 | [go! \- George Daniel Remix](https://open.spotify.com/track/0wtbc9t9qvEX5ELtUHJNJX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [go! \(George Daniel Remixes\)](https://open.spotify.com/album/7ItBR9lQlb3LNXeiSy25IG) | 3:41 | 2024-09-19 | 2025-01-25 |

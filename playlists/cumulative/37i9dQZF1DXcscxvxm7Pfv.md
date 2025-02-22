@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-290 songs - 13 hr 34 min
+291 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Faithfully Sleeps](https://open.spotify.com/track/5v56B7XYlnGzEPwY4c8I8R) | [Dreaq Lost](https://open.spotify.com/artist/0LBBqvLzvcIeKvUY6CaBPv) | [Faithfully Sleeps](https://open.spotify.com/album/3CtbDpc3uEK8fwsPgtE2v2) | 1:27 | 2022-08-26 | 2023-06-30 |
 | [Falling Asleep](https://open.spotify.com/track/5N8KsYJ8IEMQVw33JvytW8) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Restful White Noise](https://open.spotify.com/album/78gezcFabVfTrlIigNbB6p) | 1:47 | 2022-08-26 | 2023-06-30 |
 | [Feathery White Noise](https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Feathery White Noise](https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1) | 2:53 | 2022-10-27 |  |
+| [Field Spectrum](https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Field Spectrum](https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s) | 2:42 | 2025-01-30 |  |
 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 | 2022-08-26 |  |
 | [Flawless White Noise](https://open.spotify.com/track/7AD1YZluQtRJjgLvUnFuXP) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [White Noise](https://open.spotify.com/album/7G15eMhffdtpyrm2CrtAp2) | 2:20 | 2022-08-26 | 2022-10-07 |
 | [Focus Waves](https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL) | [Jaded Birds](https://open.spotify.com/artist/6SbeFWzBZaVOHOmteyX5Cm) | [Focus Waves](https://open.spotify.com/album/3phP2ItswTCo5Zc1NV07rw) | 2:24 | 2022-08-26 |  |
@@ -240,7 +241,7 @@
 | [White Noise for the Dreamers](https://open.spotify.com/track/1mCMRPk1BSqTAAq4mLn5Qx) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [White Noise for Dreaming](https://open.spotify.com/album/0hvo0Wp3DXUVVwHcSx1iSg) | 2:54 | 2022-08-26 |  |
 | [White Noise for Tranquility](https://open.spotify.com/track/2Kw1Ri1K3eItC6QTMRt84d) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [White Noise for Tranquility](https://open.spotify.com/album/6NFMR5Xo0auZjp4SAtfWS7) | 3:58 | 2022-08-26 | 2023-09-02 |
 | [white noise hall](https://open.spotify.com/track/040R2K1gn128MwftR0bdyJ) | [tenuous](https://open.spotify.com/artist/2c0w3O1CdURTp36ZzxPPFO) | [lamentation](https://open.spotify.com/album/6wOx6IDIrIDJ30g68UoPWQ) | 2:41 | 2022-08-26 |  |
-| [White Noise Hypnosis](https://open.spotify.com/track/2aLuDr1424kf07uw3zOPFE) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 | 2022-08-26 |  |
+| [White Noise Hypnosis](https://open.spotify.com/track/2aLuDr1424kf07uw3zOPFE) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 | 2022-08-26 | 2025-02-22 |
 | [White Noise Hz](https://open.spotify.com/track/0mG42zKN4SCbohCNM0dMqc) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:26 | 2022-08-26 |  |
 | [White Noise in a Pyramid](https://open.spotify.com/track/2yCjvG2nq0NoyvCKMycnRS) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Around The World](https://open.spotify.com/album/4tItATXwhbCxeOVlANR6BE) | 3:35 | 2022-08-26 |  |
 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 | 2022-08-26 |  |

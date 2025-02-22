@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1170176,
+  "num_followers": 1170356,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-02-11 11:08:52",
       "album": {
-        "name": "Flying Solo",
-        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 344571,
-      "name": "To the Bone",
-      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
-    },
-    {
-      "added_at": "2025-02-11 11:08:52",
-      "album": {
         "name": "SIDES",
         "url": "https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 268946,
       "name": "Ku Dengannya Kau Dengan Dia",
       "url": "https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U"
+    },
+    {
+      "added_at": "2025-02-11 11:08:52",
+      "album": {
+        "name": "Flying Solo",
+        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 344571,
+      "name": "To the Bone",
+      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
     },
     {
       "added_at": "2025-02-11 11:08:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-11 11:08:52",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 211483,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
-    },
-    {
-      "added_at": "2025-02-11 11:08:52",
-      "album": {
         "name": "Isyarat Hati",
         "url": "https://open.spotify.com/album/1muxhaxJ0RScTQiWp7cpBJ"
       },
@@ -827,18 +811,38 @@
     {
       "added_at": "2025-02-11 11:08:52",
       "album": {
-        "name": "Saat Kau Telah Mengerti",
-        "url": "https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
       },
       "artists": [
         {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 290751,
-      "name": "Saat Kau Telah Mengerti",
-      "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
+      "duration_ms": 211483,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+    },
+    {
+      "added_at": "2025-02-11 11:08:52",
+      "album": {
+        "name": "when it all ends HERE",
+        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
+      },
+      "artists": [
+        {
+          "name": "Umay Shahab",
+          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
+        },
+        {
+          "name": "Natania Karin",
+          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
+        }
+      ],
+      "duration_ms": 285810,
+      "name": "perayaan mati rasa",
+      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
     }
   ],
   "unique_name": "Generasi Galau",

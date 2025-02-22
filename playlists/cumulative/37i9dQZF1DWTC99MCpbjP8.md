@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-627 songs - 1 day 3 hr 12 min
+631 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 | 2024-04-15 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-22 | 2024-04-16 |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-04-22 | 2023-04-19 |
+| [Luz](https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Luz](https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO) | 2:05 | 2025-02-21 |  |
 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 | 2022-04-22 | 2024-04-16 |
 | [Lyon](https://open.spotify.com/track/5ma2pRU2IrZ29Tca6tdHpS) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [Lyon](https://open.spotify.com/album/4zD3Vo5cUhyduQYYr0CGyF) | 3:05 | 2024-08-23 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-04-22 | 2022-09-16 |
@@ -367,6 +368,7 @@
 | [Now The Leaves Are Falling](https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Now The Leaves Are Falling](https://open.spotify.com/album/2LTIXjHfpEQ5qTjGFrv9Mk) | 2:12 | 2023-11-13 |  |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-04-22 | 2023-08-15 |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-04-22 | 2024-05-23 |
+| [Nyugalma](https://open.spotify.com/track/4xoOoSUHhtuYISUeBPUaGQ) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Nyugalma](https://open.spotify.com/album/5Ck1a4PaH75OKPdrXpz67h) | 2:23 | 2025-02-21 |  |
 | [Nádherný deň](https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Nádherný deň](https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI) | 1:59 | 2022-09-15 | 2023-08-15 |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-04-22 | 2023-08-15 |
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2022-04-22 | 2023-05-04 |
@@ -389,6 +391,7 @@
 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 | 2023-12-22 | 2024-04-19 |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-31 |  |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-22 | 2023-03-29 |
+| [Open the Windows](https://open.spotify.com/track/2Uy0au5iofFkAgTWiXDoZp) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Open the Windows](https://open.spotify.com/album/5BlAEYOinasxd9JX7259ae) | 2:32 | 2025-02-21 |  |
 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 | 2024-12-10 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-22 | 2023-08-08 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-22 | 2024-02-14 |
@@ -468,6 +471,7 @@
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-22 | 2023-05-04 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-22 | 2024-10-02 |
 | [Silhouettes](https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Silhouettes](https://open.spotify.com/album/5qPhOA59aDQkHk8EYpECW5) | 3:32 | 2023-12-18 |  |
+| [Silver Shades](https://open.spotify.com/track/1JkDd6UTgH8N27sD1wGpNr) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Silver Shades](https://open.spotify.com/album/3xMseekTXTQN5WKy0hM6IM) | 2:41 | 2025-02-21 |  |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-04-22 | 2022-07-28 |
 | [Simply Beautiful](https://open.spotify.com/track/4Q2qLYFIOpN6sHRjzZ0TPC) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Simply Beautiful](https://open.spotify.com/album/1jSD1nmV3dMEdCZYRilod5) | 3:16 | 2022-04-22 | 2022-07-28 |
 | [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-04-22 | 2023-05-04 |

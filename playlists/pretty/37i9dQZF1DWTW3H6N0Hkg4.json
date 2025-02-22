@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 279485,
+  "num_followers": 279583,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "\u00c9xitos los Corraleros de Majagual",
         "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 316004,
       "name": "Las Palmitas del Ecuador",
       "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt"
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
       "artists": [
         {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 247920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv"
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt"
       },
       "artists": [
         {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
         }
       ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
+      "duration_ms": 247920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "21 Black Jack (Nueva Edici\u00f3n Remasterizada)",
+        "url": "https://open.spotify.com/album/0rKlN9fAqM0pRc3h0P4txO"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "21 Black Jack (Nueva Edici\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/0rKlN9fAqM0pRc3h0P4txO"
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI"
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
     },
     {
       "added_at": "2024-07-11 00:09:39",

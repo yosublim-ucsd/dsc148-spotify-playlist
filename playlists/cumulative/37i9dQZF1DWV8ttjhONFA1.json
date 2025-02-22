@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Diosque",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Andry Bett",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 251853,
       "name": "Agua Marfil",
       "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 148421,
       "name": "Cargo P\u00fablico",
       "url": "https://open.spotify.com/track/2TvxfdNmcqQGeUzFbGYQgc"
@@ -3741,6 +3741,32 @@
     },
     {
       "album": {
+        "name": "MALAMADOS",
+        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
+      },
+      "artists": [
+        {
+          "name": "MALAMADOS",
+          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
+        },
+        {
+          "name": "Joaquinx Merino",
+          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141011,
+      "name": "MALAMADOS",
+      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
+    },
+    {
+      "album": {
         "name": "malas decisiones",
         "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
       },
@@ -3926,7 +3952,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 170526,
       "name": "me pasa que",
       "url": "https://open.spotify.com/track/4x6X3O5dVKliJbxG2VLUgJ"
@@ -4238,7 +4264,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 159000,
       "name": "No Atino",
       "url": "https://open.spotify.com/track/5td8jX3DtJQUGN02ivNBEL"
@@ -4318,6 +4344,24 @@
       "duration_ms": 204614,
       "name": "No Me Quiero Ir Lejos",
       "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
+    },
+    {
+      "album": {
+        "name": "No me quiero ver",
+        "url": "https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "No me quiero ver",
+      "url": "https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u"
     },
     {
       "album": {
@@ -4492,7 +4536,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 170848,
       "name": "Nuestro Vuelo",
       "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
@@ -4916,6 +4960,24 @@
       "duration_ms": 125391,
       "name": "pienso todo el d\u00eda en vos",
       "url": "https://open.spotify.com/track/4eYmv4PUR80zVIYIywHt5O"
+    },
+    {
+      "album": {
+        "name": "PINTASTE MIS MA\u00d1ANAS",
+        "url": "https://open.spotify.com/album/5kUFeOd5pATVzOtcIx3HP1"
+      },
+      "artists": [
+        {
+          "name": "TADU",
+          "url": "https://open.spotify.com/artist/6kBt4i0RTsYjC5uILQ8Kr2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "PINTASTE MIS MA\u00d1ANAS",
+      "url": "https://open.spotify.com/track/6L1kKaJkBMwNvoJvb0URK8"
     },
     {
       "album": {
@@ -6231,6 +6293,28 @@
     },
     {
       "album": {
+        "name": "Un Rato M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kg7boJK6PpHrg6N53s4aL"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "Un Rato M\u00e1s",
+      "url": "https://open.spotify.com/track/5Sps2GFDVRR4AARMFT5Psx"
+    },
+    {
+      "album": {
         "name": "Un \u00c1ngel Para Tu Soledad",
         "url": "https://open.spotify.com/album/5FrGWO6KCgBT6P0VCigAmo"
       },
@@ -6405,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Vinilo",
+        "url": "https://open.spotify.com/album/0YIHNFOIrb1gvculvHw6kT"
+      },
+      "artists": [
+        {
+          "name": "Maniqui",
+          "url": "https://open.spotify.com/artist/7gq8mqhV9MrSfSKAsbYFae"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319466,
+      "name": "Vinilo",
+      "url": "https://open.spotify.com/track/4g6HfLY2szYexZc74nobkz"
+    },
+    {
+      "album": {
         "name": "Visa Gold Miami",
         "url": "https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw"
       },
@@ -6442,7 +6544,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 193270,
       "name": "Vos y Yo :3",
       "url": "https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g"
@@ -6544,6 +6646,28 @@
       "duration_ms": 187147,
       "name": "Ya no hay vuelta atr\u00e1s",
       "url": "https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d"
+    },
+    {
+      "album": {
+        "name": "Yanina",
+        "url": "https://open.spotify.com/album/0qdCj5u3smxdwDTMVUUhGZ"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Yanina",
+      "url": "https://open.spotify.com/track/3ERN9saVeg8WeMe8m48Spd"
     },
     {
       "album": {

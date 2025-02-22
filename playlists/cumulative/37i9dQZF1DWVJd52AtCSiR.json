@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/5XyIT5QzqCKcXCVhjUKxSF"
+      },
+      "artists": [
+        {
+          "name": "Mr & Mrs Cello",
+          "url": "https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272183,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/04EsYVwU9nPltV3A3rxCgJ"
+    },
+    {
+      "album": {
         "name": "The Disney Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/54Hs4q30gaGKCznUPPRI0I"
       },
@@ -541,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Chim Chim Cher-ee (From \"Mary Poppins\")",
+        "url": "https://open.spotify.com/album/1Afw9tnZWgqG2H5N7zcBza"
+      },
+      "artists": [
+        {
+          "name": "Mr & Mrs Cello",
+          "url": "https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79317,
+      "name": "Chim Chim Cher-ee - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/7sG5TrsSTPPen2xuOrjtTU"
+    },
+    {
+      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -754,6 +790,24 @@
       "duration_ms": 463895,
       "name": "Disenchanted Score Suite",
       "url": "https://open.spotify.com/track/5EcXlMdTdzl9Cf2CzVtvG8"
+    },
+    {
+      "album": {
+        "name": "Do You Want to Build a Snowman (Arr. Piano) [from \"Frozen\"]",
+        "url": "https://open.spotify.com/album/0sVATJ6dmXIOb6XbegqlBB"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108629,
+      "name": "Do You Want to Build a Snowman (Arr. Piano) - from \"Frozen\"",
+      "url": "https://open.spotify.com/track/5S4SikI2cp0qxacj7vtAo0"
     },
     {
       "album": {
@@ -1570,6 +1624,24 @@
       "duration_ms": 165440,
       "name": "Lightyear",
       "url": "https://open.spotify.com/track/1geYunsE8iz03nNwWJPszT"
+    },
+    {
+      "album": {
+        "name": "Love is an Open Door (Arr. Piano) [from \"Frozen\"]",
+        "url": "https://open.spotify.com/album/2islHr1dpgrojLVlP58BC1"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121856,
+      "name": "Love is an Open Door (Arr. Piano) - from \"Frozen\"",
+      "url": "https://open.spotify.com/track/25g6M5dezKgSwnLHs7jzku"
     },
     {
       "album": {

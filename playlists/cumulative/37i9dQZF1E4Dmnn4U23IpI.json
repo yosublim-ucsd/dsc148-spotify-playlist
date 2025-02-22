@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Arcade Summer",
       "url": "https://open.spotify.com/track/6Vy3rIRe1ANhRLm6vL1nGB"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 292186,
       "name": "Art3mis & Parzival",
       "url": "https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 287811,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 316250,
       "name": "Bend & Break",
       "url": "https://open.spotify.com/track/4IoCXKpR6xIZWAIU1o4Utp"
@@ -3696,7 +3696,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 290153,
       "name": "California Winter",
       "url": "https://open.spotify.com/track/10pk49gpQEkG9jjkAnbfzY"
@@ -4054,6 +4054,24 @@
       "duration_ms": 143000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3JpkRIinthxGQLn7pY6dK1"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "Chasing Yesterday",
+      "url": "https://open.spotify.com/track/1znnwRl4cNhCNCfz7NjtAO"
     },
     {
       "album": {
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Crystal Ships",
       "url": "https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5"
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 257893,
       "name": "Dance With Somebody",
       "url": "https://open.spotify.com/track/5KTPybHCIBg51n52WpPAOn"
@@ -6580,7 +6598,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 267625,
       "name": "Don't Want to Change Your Mind",
       "url": "https://open.spotify.com/track/7ucGNqzzbSh6wEpfOxTyaZ"
@@ -11676,7 +11694,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 311029,
       "name": "I'm a Believer",
       "url": "https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs"
@@ -12994,7 +13012,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 251329,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
@@ -15322,7 +15340,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 215526,
       "name": "Maverick",
       "url": "https://open.spotify.com/track/2G5jb5KDMJ5sZX1q6RX9Y8"
@@ -17092,7 +17110,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 234345,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
@@ -17168,7 +17186,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 286040,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/2U9xilwDVbl5upU99insIn"
@@ -17208,7 +17226,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "New Cydonia (Alternate Version)",
       "url": "https://open.spotify.com/track/4quEnq53y9XiUjyfsTscS0"
@@ -21318,7 +21336,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 270000,
       "name": "Running in the Night",
       "url": "https://open.spotify.com/track/0E3HnGJSMplqBSYGsh2exH"
@@ -21552,7 +21570,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 210461,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/145mgZm5S8B4zWbwZNqcyq"
@@ -22650,7 +22668,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 243033,
       "name": "Silence (feat. The Midnight)",
       "url": "https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3"
@@ -24110,7 +24128,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 349043,
       "name": "Stranger Love",
       "url": "https://open.spotify.com/track/5TwUyeC78le23W2PM13B8c"
@@ -25296,7 +25314,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 335000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/46CjJuu0mQ6nRhdAeLNjeA"
@@ -25410,7 +25428,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 325573,
       "name": "Tech Noir 2 (feat. John Carpenter, Charlie Simpson)",
       "url": "https://open.spotify.com/track/6sm8udxa0SvDUMJ2jchWe7"
@@ -25670,7 +25688,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 321916,
       "name": "The Comeback Kid",
       "url": "https://open.spotify.com/track/58COsyYbJwWlKmVM5eAYlB"
@@ -26204,7 +26222,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 264410,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/5TxotO7jpRFwG1dR1suT7G"
@@ -27688,7 +27706,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 311647,
       "name": "Unspoken, Unbroken",
       "url": "https://open.spotify.com/track/5elYwssHipVt3uinBvixWw"
@@ -29040,7 +29058,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 268536,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW"
@@ -29364,7 +29382,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 274905,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2OVUeLRtxnuyl8whgj840X"

@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "LUAN AO VIVO NA LUA",
+        "url": "https://open.spotify.com/album/0U69VPPPmw2VGsQW37Iy57"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "ALUGA-SE - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"
       },
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -7318,7 +7336,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 142098,
       "name": "Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/344LzkpddPjSAkEtJK83QL"
@@ -7716,7 +7734,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
@@ -8100,7 +8118,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 461538,
       "name": "Toma Que Toma",
       "url": "https://open.spotify.com/track/0rqn9g0GZtn5y4ogm5U3NF"
@@ -8468,7 +8486,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 164466,
       "name": "Uma e Quinze da Manh\u00e3",
       "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"

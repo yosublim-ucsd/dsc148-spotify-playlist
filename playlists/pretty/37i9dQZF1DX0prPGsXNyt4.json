@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 84479,
+  "num_followers": 84481,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Google da Minha Vida",
+        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Google da Minha Vida",
+      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Amor e Amor",
         "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 261333,
       "name": "Amor e Amor",
       "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Google da Minha Vida",
-        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Google da Minha Vida",
-      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
     },
     {
       "added_at": "2024-12-13 16:53:30",

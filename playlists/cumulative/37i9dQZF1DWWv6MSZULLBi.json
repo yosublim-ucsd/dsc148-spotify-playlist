@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 268898,
       "name": "calico",
       "url": "https://open.spotify.com/track/6UsmfLq4GHjdNEsL1KUBhe"
@@ -4309,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "stolen serenades",
+        "url": "https://open.spotify.com/album/4VQd4EGNgistcqwBcx7yTo"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285520,
+      "name": "don't think twice, it's all right",
+      "url": "https://open.spotify.com/track/25vZnGdv7idDqLEK0gghVa"
+    },
+    {
+      "album": {
         "name": "Don't Listen to Me",
         "url": "https://open.spotify.com/album/06dXUUq97AhxSoKp5x5rgt"
       },
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
@@ -5616,7 +5634,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 263933,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 144351,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0ToyAHtZbK1kjdXcMynsPP"
@@ -9945,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "Let Things Go",
+        "url": "https://open.spotify.com/album/58lNKQfn5OHWQCraTu6BFC"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Let Things Go",
+      "url": "https://open.spotify.com/track/2g7TUO62UQ5rHBAKbdz0Dd"
+    },
+    {
+      "album": {
         "name": "GLDMTH",
         "url": "https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo"
       },
@@ -10725,6 +10761,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/6Y85Tlf0EPPOmHdfJYcLQX"
       },
@@ -11262,6 +11316,24 @@
       "duration_ms": 149946,
       "name": "More Change",
       "url": "https://open.spotify.com/track/6T8jm94wSS3fbgM4VAEITF"
+    },
+    {
+      "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "album": {
@@ -14286,7 +14358,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
@@ -16202,7 +16274,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 149891,
       "name": "Surf",
       "url": "https://open.spotify.com/track/2JCnq2ehglXJklyxd7zVCp"
@@ -18090,6 +18162,28 @@
       "duration_ms": 201326,
       "name": "Under Weather (feat. Eleni Drake)",
       "url": "https://open.spotify.com/track/2s65rf7h5o4Wo0sIaU4BfU"
+    },
+    {
+      "album": {
+        "name": "Undercover Cops (with Lennon Stella)",
+        "url": "https://open.spotify.com/album/3zxmY5QVkfZoccn8uXbWM6"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "Undercover Cops (with Lennon Stella)",
+      "url": "https://open.spotify.com/track/4wFVVLsVZA8IUJqdloM8wo"
     },
     {
       "album": {

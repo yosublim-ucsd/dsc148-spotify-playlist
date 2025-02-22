@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14441,
+  "num_followers": 14463,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7a6ngAAAADAYjUMHaEUsu7fgP8Yq3Z+",
+  "snapshot_id": "Z7gIhAAAAADVgIoKDHORBMPwCpUdUiuK",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -161,6 +161,26 @@
       "url": "https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj"
     },
     {
+      "added_at": "2025-02-21 04:55:36",
+      "album": {
+        "name": "Kadhal Thantha Valigal (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1K2nLGU9KiWWbCBSBcdqEc"
+      },
+      "artists": [
+        {
+          "name": "Raghav Prasanna",
+          "url": "https://open.spotify.com/artist/6Ka5VM90cOci7lBECqA8YL"
+        },
+        {
+          "name": "Dhilip Varman",
+          "url": "https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Kadhal Thantha Valigal (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4mFzXpn4ijeurTaeQVD2g5"
+    },
+    {
       "added_at": "2025-01-29 14:54:54",
       "album": {
         "name": "Mudinjiriche Love-uh",
@@ -303,6 +323,26 @@
       "duration_ms": 190960,
       "name": "Neeyadi",
       "url": "https://open.spotify.com/track/18o2DHkLUJzYM3DcLuSwMR"
+    },
+    {
+      "added_at": "2025-02-21 05:00:52",
+      "album": {
+        "name": "Piraku",
+        "url": "https://open.spotify.com/album/0yBesou5z7bH81lnqSEFrs"
+      },
+      "artists": [
+        {
+          "name": "Albrin",
+          "url": "https://open.spotify.com/artist/64tJZ0YwRzpBCkFDYuonzp"
+        },
+        {
+          "name": "Latha Krishna",
+          "url": "https://open.spotify.com/artist/60VMWWmZZKAVkA0ttoLxB1"
+        }
+      ],
+      "duration_ms": 216235,
+      "name": "Piraku",
+      "url": "https://open.spotify.com/track/76PDganyLOm7ZIIY5jlY2P"
     },
     {
       "added_at": "2025-01-16 09:42:00",

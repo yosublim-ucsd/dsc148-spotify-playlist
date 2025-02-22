@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best Fresh Finds tracks around the world this year. Cover: Cash Cobain",
-  "num_followers": 10473,
+  "num_followers": 10480,
   "original_name": "Fresh Finds: Class of 2024",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Panorama Olivia",
+        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 160291,
+      "name": "Non ci penso",
+      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "internet girl",
         "url": "https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 159519,
       "name": "internet girl",
       "url": "https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Panorama Olivia",
-        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 160291,
-      "name": "Non ci penso",
-      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "HYPNOTIC",
-        "url": "https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT"
-      },
-      "artists": [
-        {
-          "name": "REHMA",
-          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
-        }
-      ],
-      "duration_ms": 134260,
-      "name": "HYPNOTIC",
-      "url": "https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Bring The Witches Back",
         "url": "https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 254973,
       "name": "Bring The Witches Back",
       "url": "https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "HYPNOTIC",
+        "url": "https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT"
+      },
+      "artists": [
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "duration_ms": 134260,
+      "name": "HYPNOTIC",
+      "url": "https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Why Is It Light Out?",
-        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
+        "name": "C\u00f3mo duele si es tan bonito",
+        "url": "https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18"
       },
       "artists": [
         {
-          "name": "The Kilans",
-          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
         }
       ],
-      "duration_ms": 242438,
-      "name": "Why Is It Light Out?",
-      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
+      "duration_ms": 143029,
+      "name": "HELLO PITI",
+      "url": "https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "C\u00f3mo duele si es tan bonito",
-        "url": "https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18"
+        "name": "Why Is It Light Out?",
+        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
       },
       "artists": [
         {
-          "name": "Korashe",
-          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
-        },
-        {
-          "name": "Kf\u00e9",
-          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
         }
       ],
-      "duration_ms": 143029,
-      "name": "HELLO PITI",
-      "url": "https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv"
+      "duration_ms": 242438,
+      "name": "Why Is It Light Out?",
+      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Blue Blood",
-        "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
-      },
-      "artists": [
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
-        }
-      ],
-      "duration_ms": 154748,
-      "name": "Blue Blood",
-      "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Stillness in Motion",
         "url": "https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 221569,
       "name": "Stillness in Motion",
       "url": "https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Blue Blood",
+        "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 154748,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
     },
     {
       "added_at": "2024-12-04 12:15:00",

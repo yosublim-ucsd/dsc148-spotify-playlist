@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Isaia Huron",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Bren Joy",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1058,6 +1058,24 @@
       "duration_ms": 196586,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI"
+    },
+    {
+      "album": {
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162695,
+      "name": "All I need",
+      "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
     },
     {
       "album": {
@@ -3017,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137019,
+      "name": "BLOODONTHETIMBS",
+      "url": "https://open.spotify.com/track/4cA30OBHJT83CkoZmdUQzv"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd"
       },
@@ -4412,6 +4448,24 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
+    },
+    {
+      "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183349,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/4NEUAgKaqEx2O9zsw7f1JF"
     },
     {
       "album": {
@@ -14005,6 +14059,24 @@
     },
     {
       "album": {
+        "name": "LUSTER",
+        "url": "https://open.spotify.com/album/04ZzefredPlk50sph2nju1"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "LUSTER",
+      "url": "https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od"
+    },
+    {
+      "album": {
         "name": "LUV (I KNOW I WANT THIS FOR REAL)",
         "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
       },
@@ -17782,7 +17854,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 258431,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/25CGypPtmNVOFl6v7GnalL"
@@ -21880,7 +21952,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 174266,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
@@ -22828,7 +22900,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 140933,
       "name": "The Boy and The Swan",
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
@@ -25024,7 +25096,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 129091,
       "name": "war",
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"

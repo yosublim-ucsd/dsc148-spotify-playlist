@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Adam Lambert in Cabaret",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Darren Criss and Helen J Shen in Maybe Happy Ending",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
+      },
+      "artists": [
+        {
+          "name": "Operation Mincemeat",
+          "url": "https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132617,
+      "name": "All the Ladies",
+      "url": "https://open.spotify.com/track/19GpYDzW77W8HBMGOwwcO5"
+    },
+    {
+      "album": {
         "name": "Bye Bye Birdie (Original Broadway Cast)",
         "url": "https://open.spotify.com/album/1ptKCzFT9TClH4UtxGAl5R"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 275360,
       "name": "Astonishing",
       "url": "https://open.spotify.com/track/6tRtygw4gCDSlAEQ6aqpOH"
@@ -418,7 +436,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 254407,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 191467,
       "name": "Evanesce",
       "url": "https://open.spotify.com/track/7c6PSBltQJ4UNMGwNPxAp5"
@@ -720,6 +738,28 @@
       "duration_ms": 254160,
       "name": "For the First Time in Forever - From \"Frozen: The Broadway Musical\"",
       "url": "https://open.spotify.com/track/0Q5yE7tSWIivttXFd9cMxR"
+    },
+    {
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256444,
+      "name": "For The Gaze",
+      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
     },
     {
       "album": {
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 161360,
       "name": "Risen",
       "url": "https://open.spotify.com/track/51kR1dYXVfmfBLARCotaVK"
@@ -2848,6 +2888,28 @@
       "duration_ms": 204200,
       "name": "The March (We Demand Equality) [from the Broadway musical \u201cSuffs\u201d]",
       "url": "https://open.spotify.com/track/1ODYl4yWYox1r2UsHFjIpD"
+    },
+    {
+      "album": {
+        "name": "The Rainy Day We Met (from Maybe Happy Ending) [Original Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/7CUQFjaOOaDSbKjyV9zw0u"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        },
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226031,
+      "name": "The Rainy Day We Met (from Maybe Happy Ending) - Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/6iwyYSX3qWEWTi3AJ78QNO"
     },
     {
       "album": {

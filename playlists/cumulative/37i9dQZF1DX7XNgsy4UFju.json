@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Daniel Caesar, Rex Orange County",
+  "description": "The best indie tracks of the moment. Cover: Saya Gray",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 164114,
       "name": "*69",
       "url": "https://open.spotify.com/track/25y8mFqpFmhHTma6f0LEW1"
+    },
+    {
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209100,
+      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
+      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
     },
     {
       "album": {
@@ -304,7 +322,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 196343,
       "name": "2DK",
       "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 232290,
       "name": "Better",
       "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 226860,
       "name": "Biblical Love",
       "url": "https://open.spotify.com/track/4WlGgwoZdNI96WPwsW6Nz5"
@@ -8011,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "Basia's Palace",
+        "url": "https://open.spotify.com/album/3NHxM1SUg8BRHLmcV1Nw9n"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261002,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/52N8iLIlX5uGwmoJQjXJ7y"
+    },
+    {
+      "album": {
         "name": "Days Like Lost Dogs",
         "url": "https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP"
       },
@@ -8816,7 +8852,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 274151,
       "name": "Disco Polo",
       "url": "https://open.spotify.com/track/0ByNi6Ce32LutInpZxq2UX"
@@ -9582,6 +9618,24 @@
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "album": {
+        "name": "Dream Woman",
+        "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248601,
+      "name": "Dream Woman",
+      "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
     },
     {
       "album": {
@@ -13799,6 +13853,24 @@
     },
     {
       "album": {
+        "name": "Gumshoe (Dracula From Arkansas)",
+        "url": "https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246793,
+      "name": "Gumshoe (Dracula From Arkansas)",
+      "url": "https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi"
+    },
+    {
+      "album": {
         "name": "Lac Noir",
         "url": "https://open.spotify.com/album/5238epYq7DXQ1pWJSdUPIT"
       },
@@ -13900,7 +13972,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 179081,
       "name": "Hacker",
       "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
@@ -15388,6 +15460,24 @@
       "duration_ms": 234066,
       "name": "Hotel Valet",
       "url": "https://open.spotify.com/track/3PG8Cjr1Bp8zUZ5xnhkLo5"
+    },
+    {
+      "album": {
+        "name": "hotliner",
+        "url": "https://open.spotify.com/album/4SsnfgjosTisziHiAPstru"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "hotliner",
+      "url": "https://open.spotify.com/track/6RGo7Hj9VltrmvEtLsPK9A"
     },
     {
       "album": {
@@ -17732,7 +17822,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212320,
       "name": "It's a Mirror",
       "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
@@ -19864,7 +19954,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 309381,
       "name": "LIE DOWN..",
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
@@ -20163,6 +20253,24 @@
     },
     {
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+    },
+    {
+      "album": {
         "name": "Seventeen Going Under (Live Deluxe)",
         "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
       },
@@ -20286,6 +20394,24 @@
       "duration_ms": 234560,
       "name": "Living in the Grey",
       "url": "https://open.spotify.com/track/1KUnVcYDSrX4VrBrEsFGYp"
+    },
+    {
+      "album": {
+        "name": "Lizard",
+        "url": "https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200845,
+      "name": "Lizard",
+      "url": "https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS"
     },
     {
       "album": {
@@ -22150,7 +22276,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 212530,
       "name": "Model, Actress, Whatever",
       "url": "https://open.spotify.com/track/4wjE62bHELzlZvE52cxMfL"
@@ -23798,6 +23924,28 @@
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
+    },
+    {
+      "album": {
+        "name": "No Front Teeth",
+        "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286480,
+      "name": "No Front Teeth",
+      "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
     },
     {
       "album": {
@@ -35596,6 +35744,24 @@
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "album": {
+        "name": "Star People",
+        "url": "https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx"
+      },
+      "artists": [
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166783,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs"
     },
     {
       "album": {

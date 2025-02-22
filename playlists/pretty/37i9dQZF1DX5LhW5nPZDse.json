@@ -1,13 +1,33 @@
 {
   "description": "Death is just the beginning. Listen to the music from School Spirits, new season now streaming on Paramount+. ",
-  "num_followers": 10513,
+  "num_followers": 10619,
   "original_name": "School Spirits Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7bhAQAAAABJkaN29hyavWHqTfZBqNMk",
+  "snapshot_id": "Z7kEWwAAAACnOIFWN/f4n9abP7TZjO8i",
   "tracks": [
+    {
+      "added_at": "2025-02-21 22:55:23",
+      "album": {
+        "name": "Foolish Girl",
+        "url": "https://open.spotify.com/album/59Y82bpZk1swutdukSKVLQ"
+      },
+      "artists": [
+        {
+          "name": "Marjorie",
+          "url": "https://open.spotify.com/artist/34SBQdfwoEDNqgbNQRgBbc"
+        },
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        }
+      ],
+      "duration_ms": 141431,
+      "name": "Foolish Girl",
+      "url": "https://open.spotify.com/track/3xTFF5pFEYlM0Qg4uUCF6M"
+    },
     {
       "added_at": "2025-02-20 08:00:01",
       "album": {

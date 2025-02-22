@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-398 songs - 22 hr 2 min
+399 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-16 |  |
 | [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-06 | 2024-02-03 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-27 |
-| [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 |  |
+| [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 | 2025-02-22 |
 | [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 | 2023-10-13 |  |
 | [Shaky Bridges](https://open.spotify.com/track/2iDu5rmcBZwd70LBGbKWUm) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:28 | 2021-08-05 | 2022-01-20 |
 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 | 2022-10-14 | 2024-07-13 |
@@ -369,6 +369,7 @@
 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2022-01-21 | 2023-04-22 |
 | [Through It All](https://open.spotify.com/track/6kOdcd2ZcO5xbeondKttG0) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:24 | 2022-01-19 | 2022-04-21 |
 | [Thunder](https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Thunder](https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK) | 2:51 | 2023-02-10 | 2023-09-23 |
+| [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 | 2025-02-21 |  |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-19 |  |
 | [Try](https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Try](https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp) | 2:16 | 2024-02-23 |  |
 | [Try](https://open.spotify.com/track/2jhi1hcGF3EUaXM5AIXtzC) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 4:02 | 2021-08-05 | 2021-12-26 |

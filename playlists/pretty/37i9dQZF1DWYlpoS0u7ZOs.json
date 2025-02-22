@@ -1,12 +1,12 @@
 {
   "description": "A new wave of rock music. Cover: The Pill",
-  "num_followers": 9693,
+  "num_followers": 9699,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6XwuAAAAABq++BNMbF7L53u0P/CF0Rv",
+  "snapshot_id": "Z7iNAAAAAADKtsHJ/jRtI8t7BFEcPFil",
   "tracks": [
     {
       "added_at": "2025-02-07 11:38:32",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/2iA98QdD65hF7hL34A91rr"
     },
     {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/5L3BtUPVVxB7duCuAZDxo7"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "duration_ms": 197435,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6e79jODLUsPryU2eRbiNL0"
+    },
+    {
       "added_at": "2025-02-07 11:38:32",
       "album": {
         "name": "For The Weekend",
@@ -167,6 +183,22 @@
       "duration_ms": 194005,
       "name": "Corner Couch",
       "url": "https://open.spotify.com/track/3XV8HbAJko3A4LSg473WGT"
+    },
+    {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "Miss Together",
+        "url": "https://open.spotify.com/album/3Z2lMasvQqJx1XjDfTWjtq"
+      },
+      "artists": [
+        {
+          "name": "Velvetine",
+          "url": "https://open.spotify.com/artist/6nGzm3tJwcjoa7LLtjElNa"
+        }
+      ],
+      "duration_ms": 237997,
+      "name": "Miss Together",
+      "url": "https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w"
     },
     {
       "added_at": "2025-02-07 11:38:32",
@@ -217,6 +249,22 @@
       "url": "https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07"
     },
     {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0Vu7flrjyVdK8W1nGCkYJV"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5Og7LhaGMG7dx2dD9NWG7x"
+    },
+    {
       "added_at": "2025-02-07 11:38:32",
       "album": {
         "name": "Pale Blue Dot",
@@ -265,6 +313,22 @@
       "url": "https://open.spotify.com/track/5TayIUnecRZXMad9O7dCaI"
     },
     {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "floss is boss",
+        "url": "https://open.spotify.com/album/1G0t8A4L6XokzuKmjpFE41"
+      },
+      "artists": [
+        {
+          "name": "really big really clever",
+          "url": "https://open.spotify.com/artist/4N9XT7K7Yk6N2Ee9wZrU0T"
+        }
+      ],
+      "duration_ms": 186070,
+      "name": "floss is boss",
+      "url": "https://open.spotify.com/track/0Dvwt8JQdb2XKvBeJixtny"
+    },
+    {
       "added_at": "2025-02-07 11:38:32",
       "album": {
         "name": "Eazy Peazy",
@@ -297,6 +361,22 @@
       "url": "https://open.spotify.com/track/6s55DkhxntRC9G4CXfSzgK"
     },
     {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "whisky",
+        "url": "https://open.spotify.com/album/5GDenBH8gcUqvSB36i4Bpj"
+      },
+      "artists": [
+        {
+          "name": "DBA!",
+          "url": "https://open.spotify.com/artist/63sv2157LiQM4j3aTSkayw"
+        }
+      ],
+      "duration_ms": 110680,
+      "name": "whisky",
+      "url": "https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh"
+    },
+    {
       "added_at": "2025-02-07 11:38:32",
       "album": {
         "name": "Running Outside With Heather",
@@ -311,6 +391,22 @@
       "duration_ms": 190000,
       "name": "Running Outside With Heather",
       "url": "https://open.spotify.com/track/78138DPQKocexQHWWaVoWO"
+    },
+    {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "Watch Don't Learn",
+        "url": "https://open.spotify.com/album/23pRPvfYb7FLSknPT698Wo"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Watch Don't Learn",
+      "url": "https://open.spotify.com/track/39fQfbGwFnmEQh8GykzC7k"
     },
     {
       "added_at": "2025-02-07 11:38:32",
@@ -343,6 +439,22 @@
       "duration_ms": 171690,
       "name": "The Gun",
       "url": "https://open.spotify.com/track/03KPK2BgVVUXcjP7y4veKO"
+    },
+    {
+      "added_at": "2025-02-21 14:26:08",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/12ZKL2ZNMtNyqwGBDSLony"
+      },
+      "artists": [
+        {
+          "name": "Queen Cult",
+          "url": "https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/3wf1Y5esLh48E0QOwaPp8j"
     },
     {
       "added_at": "2025-02-07 11:38:32",

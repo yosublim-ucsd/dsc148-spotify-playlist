@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185121,
+  "num_followers": 185163,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -457,20 +457,20 @@
       "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
-      "added_at": "2025-01-15 18:16:36",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 413408,
-      "name": "PLEASE COME TO ME",
-      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
       "added_at": "2024-10-02 18:17:59",
       "album": {
         "name": "Aprender a Ser: Extended",
@@ -591,6 +575,22 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "O Bicho Anda Por A\u00ed",
+        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 152218,
+      "name": "O Bicho Anda Por A\u00ed",
+      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "O Bicho Anda Por A\u00ed",
-        "url": "https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya"
+        "name": "Hounds",
+        "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
       },
       "artists": [
         {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
         }
       ],
-      "duration_ms": 152218,
-      "name": "O Bicho Anda Por A\u00ed",
-      "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
+      "duration_ms": 301445,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -967,22 +983,6 @@
       "duration_ms": 203955,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6SfxRLlE2hfTxJjG4Y5vrq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Hounds",
-        "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 301445,
-      "name": "Hounds",
-      "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
       "added_at": "2024-08-14 16:44:33",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1047,38 +1047,6 @@
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "LA Silhouettes",
-        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
-      },
-      "artists": [
-        {
-          "name": "Kanako Yamamoto",
-          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "In Your Orbit",
-      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        }
-      ],
-      "duration_ms": 228990,
-      "name": "Everything Is Going To Make Sense In The End",
-      "url": "https://open.spotify.com/track/5dqSqdrceOCtjHjx2OFOqg"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1101,6 +1069,22 @@
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
     },
     {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "LA Silhouettes",
+        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
+      },
+      "artists": [
+        {
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "In Your Orbit",
+      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "lavender's love",
@@ -1117,6 +1101,22 @@
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "duration_ms": 228990,
+      "name": "Everything Is Going To Make Sense In The End",
+      "url": "https://open.spotify.com/track/5dqSqdrceOCtjHjx2OFOqg"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Worm",
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06"
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
-      "added_at": "2025-01-29 04:37:38",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "6\u00b0C",
-      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
-    },
-    {
       "added_at": "2024-10-23 05:18:13",
       "album": {
         "name": "Oxido En El Espejo",
@@ -1213,6 +1197,22 @@
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
+      "added_at": "2025-01-29 04:37:38",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "6\u00b0C",
+      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -1227,22 +1227,6 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5XUC3IZZsH3qDNXhDoZ0xL"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        }
-      ],
-      "duration_ms": 438499,
-      "name": "Free Soul",
-      "url": "https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1265,22 +1249,6 @@
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
-      "added_at": "2024-06-19 16:42:50",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Noche",
@@ -1297,6 +1265,22 @@
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5XUC3IZZsH3qDNXhDoZ0xL"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "duration_ms": 438499,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "humanus",
@@ -1311,6 +1295,22 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1391,22 +1391,6 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
-      "added_at": "2024-06-19 16:42:50",
-      "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 389266,
       "name": "EVER",
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2025-01-15 18:16:36",

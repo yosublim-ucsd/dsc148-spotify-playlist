@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-703 songs - 1 day 15 hr 17 min
+708 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Acrobatics](https://open.spotify.com/track/60o8hG5Y3wDYQuxRJFarqQ) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Peach](https://open.spotify.com/album/5WIID0lQrxRT5xsXrOd0E5) | 3:48 | 2023-03-06 | 2023-03-15 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-11-08 |  |
 | [Adore You \- Acoustic](https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Adore You \(Acoustic\)](https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo) | 3:01 | 2023-10-09 | 2023-10-18 |
+| [Aeroplane](https://open.spotify.com/track/6NP20YblWLZMnG5YSoL1Tm) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Aeroplane](https://open.spotify.com/album/1ktPfnZAzUcMGpuHxgs3RF) | 4:20 | 2025-02-21 |  |
 | [All Dogs Go To Heaven](https://open.spotify.com/track/2bnsdRSIKnbsn8cuv88sSr) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [All Dogs Go To Heaven](https://open.spotify.com/album/4MWgzKggGePOjpjRhlcdHF) | 2:47 | 2023-05-08 | 2023-05-16 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-06-06 | 2023-02-01 |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2022-11-07 | 2022-11-15 |
@@ -49,6 +50,7 @@
 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-07-03 | 2023-10-10 |
 | [Any Love](https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:13 | 2022-11-21 | 2023-09-26 |
 | [Are You Awake?](https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Are You Awake?](https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4) | 3:44 | 2023-09-04 | 2023-09-26 |
+| [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-02-21 |  |
 | [artifact 22](https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [artifact 22](https://open.spotify.com/album/2PFM9dsU68zeAWCA1dbAHb) | 1:44 | 2023-07-09 | 2023-07-17 |
 | [artifact 37](https://open.spotify.com/track/4VwN7ukpw2CvoEvX3MtEKK) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [artifacts 01](https://open.spotify.com/album/0w9GY37KgBG59zla77FBwq) | 1:43 | 2023-07-24 | 2023-08-08 |
 | [Ascension](https://open.spotify.com/track/4WCEBiPW3xoC0T4wYMXW9U) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 2:56 | 2023-06-12 | 2023-11-09 |
@@ -251,6 +253,7 @@
 | [Harvest Moon](https://open.spotify.com/track/3UhAHhSvqc2oDW6ojrYXQi) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Harvest Moon](https://open.spotify.com/album/1VMRHXjGPHWKEmAoiJA8MY) | 4:12 | 2022-10-20 | 2023-02-23 |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-22 | 2023-11-09 |
 | [headache](https://open.spotify.com/track/0XMzmBV70i3WQLz0yVNgg7) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [headache](https://open.spotify.com/album/7DAuOVwDtp3KsyxUuV1PoG) | 2:16 | 2022-09-01 | 2022-09-07 |
+| [Headlock](https://open.spotify.com/track/0tAX3EBK7aZpvmv0tb7qbE) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/4Is0raRF9P6wWFZjXO6P9K) | 3:35 | 2025-02-21 |  |
 | [Headrush \- Alternate Version](https://open.spotify.com/track/628l2R31iScV1It1wrkY4O) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Headrush / Homes \(Alternate Version\)](https://open.spotify.com/album/3DZG9ovNTYFJZDBKkcBPp0) | 4:03 | 2022-12-05 | 2022-12-13 |
 | [Heaven](https://open.spotify.com/track/2yZSsN495ulgwWIfMNNCak) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Before The Dawn](https://open.spotify.com/album/6yMI7s5b5WtbO16ke4QJjm) | 3:46 | 2023-09-25 | 2023-10-03 |
 | [Heaving Chest](https://open.spotify.com/track/4RzCh43qCMYOtNR52qCXvj) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Heaving Chest](https://open.spotify.com/album/3PxbSXr2DwK8TdFJVXZCH2) | 3:53 | 2023-07-16 | 2023-08-08 |
@@ -458,6 +461,7 @@
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2025-02-04 |  |
 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 | 2023-09-18 | 2023-09-26 |
 | [overgrown](https://open.spotify.com/track/0Ejb4a7d4jygDPVZof1Mw9) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [overgrown](https://open.spotify.com/album/2AkYKYeMcRIET0B4hqZtwj) | 2:55 | 2022-11-07 | 2022-11-15 |
+| [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2025-02-21 |  |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-16 | 2023-07-25 |
 | [parachute \(plan b\)](https://open.spotify.com/track/0e7NDaxEHdmaqIkIrh4H4K) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [parachute \(plan b\)](https://open.spotify.com/album/4theDWWeWmshurXJSYtmPJ) | 2:47 | 2022-06-06 | 2022-06-14 |
 | [Parcel](https://open.spotify.com/track/7mMuc0fI5zlcQ6YXsQfVBk) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Parcel](https://open.spotify.com/album/3vEi8Qdnh87rcbPWe65wE8) | 5:06 | 2023-02-20 | 2023-03-07 |
@@ -681,6 +685,7 @@
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-16 | 2023-02-21 |
 | [Which Witch](https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 4:19 | 2022-06-10 | 2023-02-23 |
 | [White Light](https://open.spotify.com/track/5ZcOxwQlVwUYhWZHqjjIMR) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Puff Piece](https://open.spotify.com/album/7kmtAF4DN4Rfde2mv5e1r3) | 3:12 | 2022-10-10 | 2022-10-18 |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-02-21 |  |
 | [Willow](https://open.spotify.com/track/2XAkMpygJilfoQBV9dx0rH) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:41 | 2023-08-21 | 2023-11-09 |
 | [Winter](https://open.spotify.com/track/5jj0M4O9yzoFjXSTpEG01C) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [running out of things to say, running out of things to do](https://open.spotify.com/album/0cpcl7S8hhptUtaitER9Pi) | 3:02 | 2022-11-28 | 2022-12-06 |
 | [Wish I Could](https://open.spotify.com/track/4nr9rrHtpX6ByTMqwythbc) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Wish I Could](https://open.spotify.com/album/4xiRtottUCVwm8cCrrXD1P) | 2:40 | 2023-04-24 | 2023-05-09 |

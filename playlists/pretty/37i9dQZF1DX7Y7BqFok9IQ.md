@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,995 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,123 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 |
 | 2 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 |
-| 3 | [Hell Of A Good Time](https://open.spotify.com/track/2RqZuqdOJ0FzEQ6Y3a6yJ1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Of A Good Time](https://open.spotify.com/album/1LoEvdKPBmDoDDKv8ot4G3) | 4:07 |
-| 4 | [Let's Get Together](https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Let's Get Together](https://open.spotify.com/album/79G3AEpniTseURdIS645ww) | 2:36 |
-| 5 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 |
-| 6 | [Easy Love Part 1](https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk) | 4:07 |
-| 7 | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/track/2svoL21ZppcmXbeOjqus6z) | [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/album/2m0rIzXNuuARhhzdRkvnFp) | 4:11 |
-| 8 | [If Not Soon](https://open.spotify.com/track/0V108MMvdjkutZMDt7TGbj) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [If Not Soon](https://open.spotify.com/album/3xetKUExQqAkDgfNiCp2Bp) | 3:07 |
-| 9 | [Automobile](https://open.spotify.com/track/7rpAvCMra4EMOJEbB28AKV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Automobile](https://open.spotify.com/album/0KazOuPQ2bdJM7i8yAy9mr) | 3:04 |
+| 3 | [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 |
+| 4 | [Hell Of A Good Time](https://open.spotify.com/track/2RqZuqdOJ0FzEQ6Y3a6yJ1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Of A Good Time](https://open.spotify.com/album/1LoEvdKPBmDoDDKv8ot4G3) | 4:07 |
+| 5 | [Let's Get Together](https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Let's Get Together](https://open.spotify.com/album/79G3AEpniTseURdIS645ww) | 2:36 |
+| 6 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 |
+| 7 | [Easy Love Part 1](https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk) | 4:07 |
+| 8 | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/track/2svoL21ZppcmXbeOjqus6z) | [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/album/2m0rIzXNuuARhhzdRkvnFp) | 4:11 |
+| 9 | [If Not Soon](https://open.spotify.com/track/0V108MMvdjkutZMDt7TGbj) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [If Not Soon](https://open.spotify.com/album/3xetKUExQqAkDgfNiCp2Bp) | 3:07 |
 | 10 | [Ancient Heart](https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ancient Heart](https://open.spotify.com/album/5SgcE7rpDVcQ5lCszvTNmg) | 4:12 |
 | 11 | [Make It \- Live To Tape Session](https://open.spotify.com/track/5nAT9cIj9PbqM3F7A0iKYv) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA), [Rhett Shull](https://open.spotify.com/artist/5llKYgJlzPpMaDPmuATus5) | [Make It \(Live To Tape Session\)](https://open.spotify.com/album/3pgUURlyqRdc13C5DnBQ8A) | 10:30 |
 | 12 | [Mockingbird](https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS) | 4:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 150 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 
-Snapshot ID: `Z67N3gAAAAASxnJ+iAt7ilrcJvVT/0f7`
+Snapshot ID: `Z7gIYQAAAABs1mOWMm3NzHBzh1/eUSmM`

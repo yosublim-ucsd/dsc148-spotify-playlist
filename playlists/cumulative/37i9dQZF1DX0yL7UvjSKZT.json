@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Good Gold",
+        "url": "https://open.spotify.com/album/3JRIuNSZZ9UtQha6DplYte"
+      },
+      "artists": [
+        {
+          "name": "daphne ellen",
+          "url": "https://open.spotify.com/artist/3AZJM8w3NwroIyzN99KyPI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "Honeysuckle",
+      "url": "https://open.spotify.com/track/7HLCNXJJdQFWF5FyTgeEu4"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1MXFBK5FvML9DRmO3PEqrb"
       },
@@ -4612,6 +4630,24 @@
       "duration_ms": 173773,
       "name": "Love Will Only Break Your Heart",
       "url": "https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW"
+    },
+    {
+      "album": {
+        "name": "Lunar Window",
+        "url": "https://open.spotify.com/album/3wxxLcCByJjAPS0V4Qh9Po"
+      },
+      "artists": [
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156089,
+      "name": "Lunar Window",
+      "url": "https://open.spotify.com/track/6Ee0SELbAmrFs99SITTKdz"
     },
     {
       "album": {
@@ -6972,6 +7008,24 @@
       "duration_ms": 119460,
       "name": "Sometimes it Does",
       "url": "https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z"
+    },
+    {
+      "album": {
+        "name": "Spitfire",
+        "url": "https://open.spotify.com/album/4O1bFb2Lg7orRCi0NjYMDu"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/5bo79e4Y6e5OtR2k8zpyev"
     },
     {
       "album": {

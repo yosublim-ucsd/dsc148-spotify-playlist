@@ -1,12 +1,12 @@
 {
   "description": "New Music from Burna Boy and more ",
-  "num_followers": 103604,
+  "num_followers": 104613,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fcyAAAAAB52AMZ0WL5hM+Te7xfcbaf",
+  "snapshot_id": "Z7hWfAAAAABT9xJrPGDyHWDQPVV97e1t",
   "tracks": [
     {
       "added_at": "2025-02-21 01:54:04",
@@ -291,6 +291,26 @@
     {
       "added_at": "2025-02-21 01:54:04",
       "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
+    },
+    {
+      "added_at": "2025-02-21 01:54:04",
+      "album": {
         "name": "Oja",
         "url": "https://open.spotify.com/album/0qgauXakqO2nh7LHKGMdB0"
       },
@@ -307,6 +327,22 @@
       "duration_ms": 132000,
       "name": "Oja",
       "url": "https://open.spotify.com/track/4ElTeRSxqjfiWyu0JdPpAR"
+    },
+    {
+      "added_at": "2025-02-21 01:54:04",
+      "album": {
+        "name": "AKWABA",
+        "url": "https://open.spotify.com/album/3GbUmI3RMF9ga2BNVpn6h2"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "AKWABA",
+      "url": "https://open.spotify.com/track/1TXhhBqqMee96dIGUT7mtr"
     },
     {
       "added_at": "2025-02-21 01:54:04",
@@ -411,6 +447,26 @@
     {
       "added_at": "2025-02-21 01:54:04",
       "album": {
+        "name": "Rain Snow",
+        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 191598,
+      "name": "Rain Snow",
+      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+    },
+    {
+      "added_at": "2025-02-21 01:54:04",
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -495,6 +551,30 @@
       "duration_ms": 456272,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/0J5IOje5ynVFel0hRz03zN"
+    },
+    {
+      "added_at": "2025-02-21 10:33:32",
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "added_at": "2025-02-21 01:54:04",
@@ -891,6 +971,34 @@
       "duration_ms": 205096,
       "name": "FIE NIPA",
       "url": "https://open.spotify.com/track/7tylh3NIGSBKwgSEjZ3NfC"
+    },
+    {
+      "added_at": "2025-02-21 01:54:04",
+      "album": {
+        "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+        "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 182603,
+      "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8"
     },
     {
       "added_at": "2025-02-21 01:54:04",

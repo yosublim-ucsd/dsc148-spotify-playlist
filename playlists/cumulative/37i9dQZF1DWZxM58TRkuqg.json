@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "The Folk: Side B",
+        "url": "https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        },
+        {
+          "name": "Videmarsha",
+          "url": "https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279031,
+      "name": "Di Sore Hari yang Lucu",
+      "url": "https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p"
+    },
+    {
+      "album": {
         "name": "Dia Masa Lalumu, Aku Masa Depanmu",
         "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
       },

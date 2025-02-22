@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> used to shine bright like gold
+> roots run deep
 
-358 songs - 21 hr 28 min
+360 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 | 2024-02-03 |  |
 | [Blue](https://open.spotify.com/track/0FJqXBo7ZHrskhH4owaL9S) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:38 | 2023-11-21 |  |
 | [Blue Eyed Constellation](https://open.spotify.com/track/2qslrX6hylkvFTfQ6p8Rhm) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Blue Eyed Constellation](https://open.spotify.com/album/6y45mq9RVJVkAiZiOmUvpw) | 3:53 | 2023-07-27 | 2023-10-01 |
+| [Bootstraps](https://open.spotify.com/track/5dOhsb84eymtsGPWHskyXf) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Bootstraps](https://open.spotify.com/album/5ibI9d8OXiWfXPz8kOcgFs) | 3:31 | 2025-02-21 |  |
 | [Boys Back Home](https://open.spotify.com/track/6aMCyqX0t9BZGF4VCRJvud) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 3:16 | 2023-02-24 | 2023-10-01 |
 | [Bring on the Neon](https://open.spotify.com/track/5NaxaWrHLoeJjx8WVJMO8b) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Bring on the Neon](https://open.spotify.com/album/2UTxlKf1ow8TylD4KeLz1v) | 4:21 | 2023-03-24 | 2023-06-17 |
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2023-02-24 |  |
@@ -120,6 +121,7 @@
 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 | 2023-11-10 | 2023-11-18 |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-05-19 | 2023-11-11 |
 | [Four Leaf Clover](https://open.spotify.com/track/23XqRpuJoOgUokER9MeNLP) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Four Leaf Clover](https://open.spotify.com/album/5LSirFXyzjH9d0xJcjKvId) | 3:11 | 2024-01-26 |  |
+| [Franklin House](https://open.spotify.com/track/3R4he4bi1O5gQxDWRHYJHj) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Franklin House](https://open.spotify.com/album/7FvCQcq1nnenLdOl6xolpU) | 4:50 | 2025-02-21 |  |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2023-02-24 | 2023-12-09 |
 | [Frostbite](https://open.spotify.com/track/0tW7pjrVgWcu0yUr0OJVsC) | [Jake Kohn](https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw) | [Frostbite](https://open.spotify.com/album/1PdfeND2jB3u8fvQ2G243x) | 3:40 | 2023-11-17 | 2024-04-27 |
 | [Gas Station Flowers](https://open.spotify.com/track/7q5DhpYZrHZxxG3UNMxFQN) | [Zandi Holup](https://open.spotify.com/artist/4nDqdCi31TxVG3j6cyMQtR) | [Gas Station Flowers](https://open.spotify.com/album/5f8yEW4g6YneSpxqbri2Pi) | 4:04 | 2023-10-14 |  |

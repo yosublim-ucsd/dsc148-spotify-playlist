@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,544 songs - 2 day 10 hr 6 min
+1,545 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Coral Sea](https://open.spotify.com/track/2H2bIL9FXy9uWAP5xsrbtY) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/1GLXiFRUUL39B3YDH50sza) | 1:41 | 2022-10-28 | 2023-06-06 |
 | [Coral Sea](https://open.spotify.com/track/2oFYTpXSwprSjZUflMnOZn) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/3PIyYWe2rAaqEVruPOCewu) | 1:41 | 2022-09-09 | 2022-11-06 |
 | [Corazon](https://open.spotify.com/track/0BkzlSXlxzwzTxQavTToIh) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07) | [Corazon](https://open.spotify.com/album/3mtVBJH7Zx4HWByGVTObsJ) | 2:02 | 2022-08-05 | 2022-12-17 |
-| [Cortado](https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cortado](https://open.spotify.com/album/3srIiBTKqMYAjA0bL9dtu4) | 1:39 | 2022-11-25 |  |
+| [Cortado](https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cortado](https://open.spotify.com/album/3srIiBTKqMYAjA0bL9dtu4) | 1:39 | 2022-11-25 | 2025-02-22 |
 | [cotton candy sky](https://open.spotify.com/track/3sHUzXGVj6FaKXbNm5m6OV) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [cotton candy sky](https://open.spotify.com/album/0VqBTRlBnLv1eDJIjACto2) | 1:48 | 2023-04-11 | 2023-09-29 |
 | [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-16 | 2023-10-20 |
 | [Crab Cake](https://open.spotify.com/track/0AoHfH1gDhbpqVaVRQnnu4) | [Moon Boi Beats](https://open.spotify.com/artist/7kZ195AkdNG4enyC5QQ5E1) | [Sunrise](https://open.spotify.com/album/7IegiQLGEaX6v1ICmYtZGg) | 1:57 | 2022-04-22 | 2022-11-26 |
@@ -339,7 +339,7 @@
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 | 2024-05-25 |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 | 2023-09-16 |
-| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 | 2025-02-10 |
+| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 |  |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-01-27 | 2022-09-09 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-01-27 | 2022-09-17 |
@@ -1139,7 +1139,7 @@
 | [Sailing](https://open.spotify.com/track/6TwQwNXuUqMoGma4iyDkNW) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Sailing](https://open.spotify.com/album/4txjb7Ss3tZeBZF9Hd763R) | 2:28 | 2023-11-17 | 2024-10-10 |
 | [Sake Dab](https://open.spotify.com/track/3WSalxGbHnV3wIW5qP0OFi) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Sake Dab](https://open.spotify.com/album/53SUXmywMUEMqbu16rbNYq) | 2:12 | 2024-08-23 |  |
 | [Sakura Times](https://open.spotify.com/track/3Mllg4YSoLMDo6tTUk574p) | [Ai Tanaka](https://open.spotify.com/artist/5Z9iSyZ7QTof3b1aDQhU3c) | [Sakura Times](https://open.spotify.com/album/6yrknkl1qhtHRxxxux7OVQ) | 1:49 | 2024-05-13 | 2024-07-27 |
-| [Salmon Benedict](https://open.spotify.com/track/3I6fpot5ZS5H5T5YDB67rQ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Weekend in São Paulo](https://open.spotify.com/album/4gDMta5XF2SLoqBj2FjrQ9) | 1:57 | 2022-08-19 |  |
+| [Salmon Benedict](https://open.spotify.com/track/3I6fpot5ZS5H5T5YDB67rQ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Weekend in São Paulo](https://open.spotify.com/album/4gDMta5XF2SLoqBj2FjrQ9) | 1:57 | 2022-08-19 | 2025-02-22 |
 | [Same Cycle Different Day](https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Same Cycle Different Day](https://open.spotify.com/album/0g3qUzGW7J7VioeqxPbYek) | 2:14 | 2022-01-27 | 2022-05-20 |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-01-27 | 2022-11-12 |
 | [Sand](https://open.spotify.com/track/7CaKbsnd7yeMcyhiSoKykQ) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Sand](https://open.spotify.com/album/3cSbY1otNhJbWMJ2Km6tXr) | 1:52 | 2022-07-08 | 2022-12-10 |
@@ -1506,6 +1506,7 @@
 | [While You Were Sleeping](https://open.spotify.com/track/3trpLuyg5wzHSOFT5O2lGH) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [While You Were Sleeping](https://open.spotify.com/album/4y6DDvaN7A2hR6al90Fzo3) | 3:16 | 2022-09-16 | 2023-03-25 |
 | [whirlpool](https://open.spotify.com/track/56KQf0D60pEUQVEbw5JBnl) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [whirlpool](https://open.spotify.com/album/4YCyHBHlsXwvBdT4xEGT99) | 2:06 | 2022-09-09 | 2024-11-11 |
 | [Whirlwind](https://open.spotify.com/track/29lWG4FauP8jHQH6txlLya) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [Whirlwind](https://open.spotify.com/album/19iO3fxxIlWuCAmHeUIHYy) | 1:50 | 2023-01-20 | 2025-02-12 |
+| [whiskey sour](https://open.spotify.com/track/4Flb0BjSaIgIpG9v9qFRJ2) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [whiskey sour](https://open.spotify.com/album/5iNblezJbZFKxe8rlRl6ap) | 2:01 | 2025-02-21 |  |
 | [Who Cares](https://open.spotify.com/track/2npkxiRVZU7DAtp98RpVsD) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Who Cares](https://open.spotify.com/album/6Z8uEmXtfYxEDi95tm1auz) | 1:52 | 2022-10-28 | 2023-02-25 |
 | [Who told you](https://open.spotify.com/track/0nBHbBLVlH6UswrHGI8ekG) | [Jooha.](https://open.spotify.com/artist/5IPuOAyV2XFgkaAKQZ2aIi) | [Warm Feeling II](https://open.spotify.com/album/6WehKh3OJeU2vcyGeufAjA) | 1:50 | 2022-07-22 | 2022-12-10 |
 | [Who Would Have Thought](https://open.spotify.com/track/27jvsfhkGIMB9xZw8PLBat) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Temple](https://open.spotify.com/artist/6UNs36YZYRZ22WGU2KhMrV), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 09](https://open.spotify.com/album/2txV34NwxnslE7c9I4RyNK) | 2:26 | 2022-04-15 | 2022-11-12 |

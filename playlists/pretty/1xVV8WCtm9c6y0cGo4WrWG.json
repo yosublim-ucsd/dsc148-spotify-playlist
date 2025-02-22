@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Doechii, Lil Baby, Kendrick Lamar, GloRilla, Drake and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more! ",
-  "num_followers": 23280,
+  "num_followers": 23275,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAiHALLE6o5N/PeK9VbXNCMJV9ODCGX",
+  "snapshot_id": "AAAiHumgD1FKRv8OII/zZExj3uJqKHiD",
   "tracks": [
     {
       "added_at": "2025-02-14 14:24:54",
@@ -1763,6 +1763,42 @@
       "duration_ms": 126465,
       "name": "Twisting Fingers (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
+    },
+    {
+      "added_at": "2025-02-21 13:39:49",
+      "album": {
+        "name": "Trappa Rappa",
+        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 137653,
+      "name": "Trappa Rappa",
+      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
+    },
+    {
+      "added_at": "2025-02-21 13:40:43",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/3ZJKWDw3shJznUsdy2e6Rk"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "duration_ms": 110896,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/1iRfgBWkQSufXiEv57WQhD"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

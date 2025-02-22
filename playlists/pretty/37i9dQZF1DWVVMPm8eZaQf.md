@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 
 > Fresh takes and unexpected covers of songs originally written by Post Malone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,024 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,025 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 | 44 | [Goodbyes](https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Goodbyes](https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik) | 2:05 |
 | 45 | [White Iverson](https://open.spotify.com/track/7yLhaXmKHjvByg3cxgAAYi) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ) | [Covers](https://open.spotify.com/album/2q0GoRzK1475fMK2VBLAFp) | 2:49 |
 | 46 | [Take What You Want](https://open.spotify.com/track/5BL2NvPO62vD01BK691dGU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [Seeing Red](https://open.spotify.com/album/2aK2ORLyiIcXOIuBNyuQSR) | 3:35 |
-| 47 | [Rockstar](https://open.spotify.com/track/0uMxEdJH1indcaymfSZGSk) | [Blvck Cobrv](https://open.spotify.com/artist/0rtGrxBjqA2R63ETZQywEW), [Benni Hunnit](https://open.spotify.com/artist/4gSdUrMhfwo9K45YAOPBub) | [Rockstar](https://open.spotify.com/album/775m5Sw5B9YkkCSjFZaE0A) | 2:33 |
+| 47 | [Rockstar](https://open.spotify.com/track/0uMxEdJH1indcaymfSZGSk) | [Blvck Cobrv](https://open.spotify.com/artist/0rtGrxBjqA2R63ETZQywEW), [Benni Hunnit](https://open.spotify.com/artist/4gSdUrMhfwo9K45YAOPBub), [G King](https://open.spotify.com/artist/760sqxqEKbtfXK46BxrtkL) | [Rockstar](https://open.spotify.com/album/775m5Sw5B9YkkCSjFZaE0A) | 2:33 |
 
 Snapshot ID: `Zf3loQAAAAAU5x228AqHDuC4ugiUzG7S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: <br/>Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,282 likes - 70 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,379 likes - 70 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 69 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH) | 5:05 |
 | 70 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 
-Snapshot ID: `Z68XSgAAAADXQSYzm3nUOvcLwTohqajh`
+Snapshot ID: `Z68XSgAAAAAD+Yap+M8tOaPMDagKZ8f4`

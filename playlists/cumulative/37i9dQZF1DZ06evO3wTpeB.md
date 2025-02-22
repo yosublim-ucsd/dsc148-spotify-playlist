@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 36 min
+64 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Mestizo](https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:28 | 2023-12-30 |  |
 | [Mi Castigo](https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:01 | 2023-12-30 |  |
 | [Mi Ciudad Es Fresca](https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:07 | 2023-12-30 |  |
+| [Mi Melancolía](https://open.spotify.com/track/4Nby9uhYYrPRJf0WDaca7t) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 2:52 | 2025-02-22 |  |
 | [Mi Raíz](https://open.spotify.com/track/6ertoHwFOU1AYQv4Kkq0aD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 | 2023-12-30 |  |
 | [Mi Vida Es Una Fiesta](https://open.spotify.com/track/65jCjbIlEsbqGGYmmOFQbE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mi Vida Es Una Fiesta](https://open.spotify.com/album/39nAnPVhQweMSKiqraPSpl) | 3:37 | 2023-12-30 | 2024-12-16 |
 | [Mientras](https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Mientras](https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su) | 3:10 | 2024-01-01 |  |
@@ -54,7 +55,7 @@
 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:44 | 2024-06-22 |  |
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 | 2023-12-30 |  |
 | [Ou Nena](https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Oww Nena](https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq) | 2:27 | 2025-02-16 |  |
-| [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 | 2023-12-30 |  |
+| [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 | 2023-12-30 | 2025-02-22 |
 | [Paraíso Fiscal](https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Paraíso Fiscal](https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8) | 3:00 | 2023-12-30 |  |
 | [Pasaporte Colombiano](https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:46 | 2023-12-30 |  |
 | [Qué Mentira Tan Perfecta](https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Qué Mentira Tan Perfecta](https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y) | 2:49 | 2024-10-05 |  |

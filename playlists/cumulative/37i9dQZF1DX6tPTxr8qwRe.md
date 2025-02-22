@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Cil
+> Dark, hard hitting pop\. Cover: Cloudy June
 
-850 songs - 1 day 15 hr 13 min
+853 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 | 2024-11-11 |  |
 | [BLURRY](https://open.spotify.com/track/1bMUGYJ8N8ftjoaLL9FOBM) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BLURRY](https://open.spotify.com/album/7lZdWg70vTWn6sbohZGzQF) | 2:34 | 2023-07-07 | 2023-12-09 |
 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 | 2024-01-12 | 2024-03-23 |
-| [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 |  |
+| [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 | 2025-02-22 |
 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 | 2022-02-25 | 2022-07-02 |
 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 | 2023-02-10 | 2023-07-15 |
 | [Bougie Bitch](https://open.spotify.com/track/3vwMUcxR0V664IvIt3HhfG) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Bougie Bitch](https://open.spotify.com/album/13qIfIFasLtP1VkcbKCM1g) | 2:38 | 2024-06-21 | 2024-10-12 |
@@ -234,7 +234,7 @@
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-03-31 | 2023-06-10 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
-| [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 | 2025-01-10 |  |
+| [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 | 2025-01-10 | 2025-02-22 |
 | [Dunes](https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz) | [Nomé Naku](https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI) | [Naku](https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS) | 3:56 | 2025-01-10 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
 | [Dynasty](https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Dynasty](https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX) | 2:24 | 2024-08-02 | 2024-09-07 |
@@ -289,7 +289,9 @@
 | [Fuck Friday](https://open.spotify.com/track/42S8a0eCTdw2qYuK8oXB4Z) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/7f3vjO34MfUj4o0WPuIpz1) | 3:08 | 2022-07-08 | 2022-07-16 |
 | [FUCK MY EXES](https://open.spotify.com/track/03xqIbvagvjf3K75qqL0fC) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [FUCK MY EXES](https://open.spotify.com/album/0HkYxUI2kqixf8MgY8fUhi) | 2:50 | 2022-03-11 | 2022-08-06 |
 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 | 2022-01-14 | 2022-03-18 |
+| [FUN!](https://open.spotify.com/track/1DVLGLhhXSm1MPZiigTNiG) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [FUN!](https://open.spotify.com/album/2ImyXJhAD3HhSa94s4j9bA) | 3:22 | 2025-02-21 |  |
 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 | 2023-05-19 | 2023-08-19 |
+| [furr](https://open.spotify.com/track/6uolpfkjKzZsqtbNrwprTY) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [furr](https://open.spotify.com/album/0dSp75sPALNDn3NnWIixvY) | 3:06 | 2025-02-21 |  |
 | [Galina](https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Galina](https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx) | 4:30 | 2024-08-30 | 2024-10-05 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-02-25 | 2022-05-14 |
 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 | 2022-05-13 | 2022-07-16 |
@@ -404,6 +406,7 @@
 | [IDK Her](https://open.spotify.com/track/2qPrqTrbIldabTPUxJjEHJ) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [IDK Her](https://open.spotify.com/album/10TQ4wvoqfXlpmJRSkNRMJ) | 2:13 | 2023-12-01 | 2024-03-30 |
 | [IDK How To Talk To Girls](https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [IDK How To Talk To Girls](https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR) | 2:40 | 2024-01-05 | 2024-06-29 |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-10-06 | 2023-11-11 |
+| [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-21 |  |
 | [if u wanna](https://open.spotify.com/track/6mEK3cHEpff9eFfdoWMzns) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [if u wanna](https://open.spotify.com/album/3WUiDmWbTdzTqHTzS0u0Q9) | 2:23 | 2022-01-14 | 2022-03-18 |
 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 | 2023-07-14 | 2023-08-05 |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |

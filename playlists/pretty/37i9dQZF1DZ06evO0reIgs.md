@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,772 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,774 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 45 | [Coisas Que Eu Aprendi](https://open.spotify.com/track/4pR2Jy5fPdMKt2ACIX1Int) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:16 |
 | 46 | [Alaska, Pt\. 2](https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 3:52 |
 | 47 | [No Cais](https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:28 |
-| 48 | [Vila dos Lençóis](https://open.spotify.com/track/4ullabmaElUh1kqSkH7JrK) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Cereja Hollywood](https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu) | 3:27 |
+| 48 | [O Corre](https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [O Corre](https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx) | 3:03 |
 | 49 | [Te Adoro](https://open.spotify.com/track/1QTGb30ZhoXhoWGbD2TpTE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 |
-| 50 | [O Corre](https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [O Corre](https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx) | 3:03 |
+| 50 | [Vila dos Lençóis](https://open.spotify.com/track/4ullabmaElUh1kqSkH7JrK) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Cereja Hollywood](https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu) | 3:27 |
 
-Snapshot ID: `Z7UfAAAAAAAzIiS5DlKdE644IKVv3c8V`
+Snapshot ID: `Z7ZwgAAAAAA9B7DVaG01/1D2Ieaqwuzb`

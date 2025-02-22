@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-493 songs - 1 day 3 hr 39 min
+494 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-10-07 |
 | [Jaaney Do](https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Azazul Haque](https://open.spotify.com/artist/6ciL4UaOFyMJPFcBUUSkhK) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:51 | 2024-04-15 | 2024-05-14 |
 | [Jaani Pehchani Si](https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB) | [Sanjay Das](https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE), [Karshni Nair](https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1), [Sankalp Kapur](https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq) | [Rainbow Rishta \(Original Series Soundtrack\)](https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1) | 2:02 | 2023-11-15 | 2024-02-07 |
+| [Jaaniya Mil Zara](https://open.spotify.com/track/0q6pNrVLkKuvRb0Ay9FHZg) | [Koushik Kar](https://open.spotify.com/artist/3shasL3X6zz3PqPFivDy0h) | [Jaaniya Mil Zara](https://open.spotify.com/album/4oL94Y2FNcHUZj6JQuK1d9) | 3:30 | 2025-02-21 |  |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 | 2023-11-18 |
 | [Jahaan](https://open.spotify.com/track/314WYPRxkUBdHhXPr9JRoF) | [Kanwar Aditya](https://open.spotify.com/artist/6qef5YT5ROaGFl93Utk36k), [Ira Mahajan](https://open.spotify.com/artist/3Yzt08KVu1j0Wx4p8Kn52C) | [Jahaan](https://open.spotify.com/album/1Ijev4uDju3xjEA77uKgxY) | 3:57 | 2024-01-19 | 2024-06-01 |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
@@ -203,7 +204,7 @@
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
 | [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 | 2023-05-23 |
 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-05 | 2024-05-18 |
-| [Kahan Woh Din Gaye \- Revisit](https://open.spotify.com/track/0NeistykuenLMZFVIwA7Ko) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahan Woh Din Gaye \(Revisit\)](https://open.spotify.com/album/2Dsd3nEkuc3eopbSvOI9Gy) | 3:46 | 2024-07-19 |  |
+| [Kahan Woh Din Gaye \- Revisit](https://open.spotify.com/track/0NeistykuenLMZFVIwA7Ko) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahan Woh Din Gaye \(Revisit\)](https://open.spotify.com/album/2Dsd3nEkuc3eopbSvOI9Gy) | 3:46 | 2024-07-19 | 2025-02-22 |
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-03-14 | 2024-08-09 |
 | [Kaheen Dur](https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Kaheen Dur](https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD) | 3:20 | 2023-07-12 | 2023-09-16 |
 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 | 2024-03-11 | 2024-05-07 |

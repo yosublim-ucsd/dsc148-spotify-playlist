@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 9 min
+58 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Black Limousine](https://open.spotify.com/track/3mme63UbfIFkTTX9g4nxXp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:17 | 2024-06-24 | 2024-07-03 |
 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 | 2022-09-16 |  |
 | [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 | 2022-09-16 |  |
+| [Cross My Heart \- Bonus Track](https://open.spotify.com/track/59Ba8nUKaZBeXobDgvQ5Wh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:01 | 2025-02-22 |  |
 | [Derail](https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 | 2022-11-18 |  |
 | [Derail](https://open.spotify.com/track/6p75sMjfA2IjayOO1DJ0hY) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:31 | 2022-09-16 | 2022-11-19 |
 | [Draw a Line](https://open.spotify.com/track/4327YDU3y1FbdZYRSds3wN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:55 | 2022-09-22 | 2022-11-19 |
@@ -29,7 +30,7 @@
 | [Draw a Line](https://open.spotify.com/track/6xdVonW6VUcQsqsQrr5voE) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:55 | 2022-11-18 |  |
 | [Friend of Mine](https://open.spotify.com/track/6m9erDNRC0oxTESUE13wzJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 2:19 | 2022-09-16 | 2022-11-17 |
 | [Friend of Mine](https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:19 | 2022-11-16 |  |
-| [Gimme Something](https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 1:38 | 2022-11-14 |  |
+| [Gimme Something](https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 1:38 | 2022-11-14 | 2025-02-22 |
 | [Gimme Something](https://open.spotify.com/track/3FL68SOwNkA0InUiFOY4GG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 1:38 | 2022-09-20 | 2022-11-15 |
 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 | 2022-11-16 |  |
 | [Grim Valentine](https://open.spotify.com/track/0TyyOLzfywqEvrdgkN1f3e) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:04 | 2022-09-16 | 2022-11-17 |

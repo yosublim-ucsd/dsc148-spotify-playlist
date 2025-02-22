@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Historias que hacen historia. Los Tucanes de Tijuana en portada. ",
+  "description": "Historias que hacen historia. Miguel y Miguel en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -304,6 +304,24 @@
       "duration_ms": 162560,
       "name": "Borracho Y Escandaloso",
       "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
+    },
+    {
+      "album": {
+        "name": "Brindemos",
+        "url": "https://open.spotify.com/album/0aKXVgTuCRIWNUVRppzmxi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146386,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/1cWJpLvMTZMRUqMcARboPa"
     },
     {
       "album": {
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 226283,
       "name": "Jose Rocha Avenda\u00f1o",
       "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
@@ -2950,6 +2968,24 @@
       "duration_ms": 174693,
       "name": "La Botella (Dos Botellas De Mescal)",
       "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+    },
+    {
+      "album": {
+        "name": "La Bronco Raptor",
+        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218295,
+      "name": "La Bronco Raptor",
+      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
     },
     {
       "album": {
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
@@ -4658,10 +4694,28 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 177386,
       "name": "Sonora Y Sus Ojos Negros",
       "url": "https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Culiacan",
+        "url": "https://open.spotify.com/album/7Kuy8DstwrkVstHHgUC9Oq"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187324,
+      "name": "Sonora Y Sus Ojos Negros (En Vivo)",
+      "url": "https://open.spotify.com/track/3CwvZLb3ooz1q1kv3D7WN5"
     },
     {
       "album": {
@@ -4770,6 +4824,28 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "album": {
+        "name": "Unas Heladas",
+        "url": "https://open.spotify.com/album/1WVGaP4lBIPZZkj1AoZU0K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143123,
+      "name": "Unas Heladas",
+      "url": "https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx"
     },
     {
       "album": {

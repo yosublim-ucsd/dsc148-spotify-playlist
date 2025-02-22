@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-236 songs - 14 hr 27 min
+237 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2024-05-03 |
 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 |  |
 | [Devil Bent](https://open.spotify.com/track/5RmdFziXzizy6O7ErWKrVP) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Devil Bent](https://open.spotify.com/album/7MID2OeMPD86rIC77bU33K) | 2:33 | 2024-11-22 |  |
+| [Dogfight](https://open.spotify.com/track/0T0bIg86lkmNdMcm4IAYub) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Dogfight](https://open.spotify.com/album/4dcPMjUhsGl9ql203upjwI) | 3:10 | 2025-02-21 |  |
 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 | 2023-03-24 |  |
 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 | 2023-01-13 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 | 2023-06-17 |

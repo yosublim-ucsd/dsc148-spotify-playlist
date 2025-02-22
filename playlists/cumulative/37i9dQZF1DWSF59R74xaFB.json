@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 232073,
       "name": "Amor a la Antigua",
       "url": "https://open.spotify.com/track/49uhcCBeHGJDcoaX9VZqKf"
@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Cuarto De Hotel (Canci\u00f3n Original de El Secreto Del Orfebre)",
+        "url": "https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177188,
+      "name": "Cuarto De Hotel - Canci\u00f3n Original de El Secreto Del Orfebre",
+      "url": "https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY"
       },
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 184655,
       "name": "Examen de Tristeza",
       "url": "https://open.spotify.com/track/2SocElbfCrZro6TBLdfGpp"
@@ -5554,7 +5572,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 164565,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
@@ -5684,6 +5702,24 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "album": {
+        "name": "Mientes",
+        "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160736,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
     },
     {
       "album": {
@@ -6522,6 +6558,32 @@
       "duration_ms": 208180,
       "name": "Ojos Que No Ven",
       "url": "https://open.spotify.com/track/0qHlYaXuvSdp4vtXQGszYR"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187467,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 194502,
+  "num_followers": 194555,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Time Will Die and Love Will Bury It",
         "url": "https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 232493,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "I Hate My Village",
-        "url": "https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Tony Hawk of Ghana",
-      "url": "https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 175057,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "I Hate My Village",
+        "url": "https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Tony Hawk of Ghana",
+      "url": "https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Floaty Boaty",
-        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
-      },
-      "artists": [
-        {
-          "name": "House Tours",
-          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Floaty Boaty",
-      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226173,
       "name": "Crucemos los Puentes...",
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Floaty Boaty",
+        "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
+      },
+      "artists": [
+        {
+          "name": "House Tours",
+          "url": "https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Floaty Boaty",
+      "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Naufragio",
-        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
+        "name": "ARUKAS",
+        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
       },
       "artists": [
         {
-          "name": "Wanderlust",
-          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Baile Amargo",
-      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -907,34 +907,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "ARUKAS",
-        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
+        "name": "Naufragio",
+        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "Wanderlust",
+          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
         }
       ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Nevermind The Tempo",
-        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 148116,
-      "name": "Italiapaura",
-      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
+      "duration_ms": 174000,
+      "name": "Baile Amargo",
+      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 188129,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Nevermind The Tempo",
+        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 148116,
+      "name": "Italiapaura",
+      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Migraciones",
-        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
-        }
-      ],
-      "duration_ms": 249991,
-      "name": "El Exilio de Godomar",
-      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
-      },
-      "artists": [
-        {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Kiev",
         "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
       },
@@ -1307,6 +1275,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Migraciones",
+        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
+        }
+      ],
+      "duration_ms": 249991,
+      "name": "El Exilio de Godomar",
+      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Gagarin",
         "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188485,
       "name": "Gagarin",
       "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
+      },
+      "artists": [
+        {
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2024-09-20 00:01:00",

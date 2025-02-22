@@ -4,7 +4,7 @@
 
 > มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: ZEE PRUK, NuNew
 
-196 songs - 12 hr 7 min
+197 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 | 2023-02-10 |  |
 | [ตั้งใจรัก](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 | 2023-02-10 |  |
 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-02-12 |  |
+| [ติดเธอ \(Tidtidid\)](https://open.spotify.com/track/6SPQLRBjL8dLdG0UDyPSkD) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ติดเธอ \(Tidtidid\)](https://open.spotify.com/album/6l64xJp7WXGElm7e5DRSIl) | 2:42 | 2025-02-17 |  |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/2qKJrcfRkh7ZgvyhsrPkZL) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 4:14 | 2023-06-09 | 2024-04-19 |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 | 2023-02-10 | 2023-04-30 |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/5hbuqvZW59OiDHRfRyRyVP) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/5xgyLJ6aEFRC1ccdquTEq0) | 4:14 | 2023-02-21 | 2023-09-19 |
@@ -196,7 +197,7 @@
 | [โรแมนติก \(Romantic\)](https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [โรแมนติก \(Romantic\)](https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84) | 4:00 | 2023-04-03 | 2023-05-16 |
 | [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 | 2023-06-09 | 2024-04-19 |
 | [โลกอีกใบ](https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [โอ๊ต ปราโมทย์](https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw) | [LA LUNE](https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg) | 3:14 | 2023-02-21 | 2023-05-01 |
-| [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 | 2023-06-09 |  |
+| [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 | 2023-06-09 | 2025-02-22 |
 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 | 2023-02-10 |  |
 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 | 2024-03-16 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2023-02-10 | 2024-08-24 |

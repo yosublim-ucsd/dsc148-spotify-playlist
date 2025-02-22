@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: King Perryy",
+  "description": "Drilling through Naij. Cover: Pretty Boy D-O",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "OYO (On Your Own)",
+        "url": "https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222237,
+      "name": "OYO (Own Your Own)",
+      "url": "https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi"
+    },
+    {
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/1jwDZ3zWdPzSLewL0jh1fA"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 124556,
       "name": "Popping Tonight",
       "url": "https://open.spotify.com/track/4veszAy3oVExaFiLZxrskN"

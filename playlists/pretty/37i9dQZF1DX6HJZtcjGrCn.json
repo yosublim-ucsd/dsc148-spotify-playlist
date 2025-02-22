@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Valter Lobo",
-  "num_followers": 33919,
+  "num_followers": 33971,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
         "name": "Wild Long Lie",
         "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "SABLE,",
-        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200589,
-      "name": "THINGS BEHIND THINGS BEHIND THINGS",
-      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -1051,18 +1035,38 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Orlando in Love",
-        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Orlando in Love",
-      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+        "name": "Orlando in Love",
+        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+      "duration_ms": 145093,
+      "name": "Orlando in Love",
+      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
       "added_at": "2025-02-21 00:00:23",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-02-21 00:00:23",
       "album": {
+        "name": "Amor De Ganga",
+        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
+      },
+      "artists": [
+        {
+          "name": "Miguel Luz",
+          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
+        }
+      ],
+      "duration_ms": 206908,
+      "name": "Amor De Ganga",
+      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
+    },
+    {
+      "added_at": "2025-02-21 00:00:23",
+      "album": {
         "name": "Sylvia",
         "url": "https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 140193,
       "name": "Sylvia",
       "url": "https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx"
-    },
-    {
-      "added_at": "2025-02-21 00:00:23",
-      "album": {
-        "name": "Amor De Ganga",
-        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
-      },
-      "artists": [
-        {
-          "name": "Miguel Luz",
-          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Amor De Ganga",
-      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
     },
     {
       "added_at": "2025-02-21 00:00:23",

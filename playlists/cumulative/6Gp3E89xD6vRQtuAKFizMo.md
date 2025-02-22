@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-405 songs - 19 hr 31 min
+407 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [I Don't Miss U](https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:43 | 2022-09-23 | 2022-12-10 |
 | [I Don't Need](https://open.spotify.com/track/4tprhjwyw50wkDHk2uEmyT) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Rock It](https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq) | 3:25 | 2024-07-19 |  |
 | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/track/6UqFkScHnQt2nOBXqUKEHp) | [KULTIVATE](https://open.spotify.com/artist/6ZeCz9p9x3KPpHTGD16vlL), [BLASE](https://open.spotify.com/artist/7EABimSw8VPqaOEfQHMMj0) | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/album/3EyhxTmX8kx4C6RNfWbdIp) | 3:29 | 2023-05-26 |  |
+| [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/track/5g25NbR1XTe48Wmz17rh7R) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/album/363ZIyafmc3TxEhPuZfoJZ) | 2:57 | 2025-02-21 |  |
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 | 2022-10-29 |
 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 | 2025-02-14 |  |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
@@ -308,6 +309,7 @@
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-04 | 2023-12-14 |
 | [Pump It Up](https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Pump It Up](https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T) | 2:24 | 2023-07-14 |  |
 | [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 | 2023-12-14 |
+| [Push Me](https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Push Me](https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt) | 2:51 | 2025-02-21 |  |
 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shotgun Knights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 | 2024-11-22 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-11-22 |  |

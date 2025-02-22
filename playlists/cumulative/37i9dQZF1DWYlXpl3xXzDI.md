@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-314 songs - 18 hr 40 min
+315 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Grow](https://open.spotify.com/track/0rdyfMLheQMaWUbuFwAQhA) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [2:22 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r6DIa6edUwUMk6RhDnQLa) | 4:01 | 2017-12-03 | 2022-11-13 |
 | [Guilty](https://open.spotify.com/track/2uw1eNEYcIF8s24ufIaWUF) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Guilty](https://open.spotify.com/album/0MzsJE3oxiwk8RCYGlHC2M) | 2:22 | 2025-02-03 |  |
 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 | 2024-11-22 |  |
+| [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 | 2025-02-21 |  |
 | [Heart of a Mother](https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Heart of a Mother](https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3) | 4:32 | 2025-02-03 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-10 | 2024-11-23 |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2025-02-03 |  |
@@ -140,14 +141,14 @@
 | [Lately](https://open.spotify.com/track/0gRey1LR9HEtWuiB1lceyR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In The Feels](https://open.spotify.com/album/4ShOWs1MfvogYuSfhGa0dH) | 4:05 | 2017-12-03 | 2022-11-13 |
 | [Lately](https://open.spotify.com/track/3tFxrWeJcm0Z5mIwQJPeyZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July \(Digipak\)](https://open.spotify.com/album/0qdxOwxupH4fh5aWi02s76) | 4:05 | 2017-12-03 | 2025-02-04 |
 | [Lately](https://open.spotify.com/track/5rlgpm7n5f9mWc5LQU42bI) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 4:05 | 2017-12-03 | 2024-04-19 |
-| [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 | 2017-12-03 |  |
+| [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 | 2017-12-03 | 2025-02-22 |
 | [Lay In The Sun](https://open.spotify.com/track/0BBB3QcVfHHY7w5lXT8ig6) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Lay In The Sun](https://open.spotify.com/album/3qTp8ABtfxzoxb70pUy015) | 2:15 | 2025-02-03 |  |
 | [Lean On Me](https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Lean On Me](https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5) | 3:32 | 2021-11-18 | 2025-02-04 |
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2017-12-03 | 2025-02-04 |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2017-12-03 | 2024-04-19 |
 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 | 2017-12-03 | 2025-02-04 |
 | [Let It Go](https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Crying Sad Songs](https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9) | 4:21 | 2017-12-03 | 2022-11-13 |
-| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [Goodwin](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-17 |  |
+| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-17 |  |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2017-12-03 | 2024-04-19 |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2017-12-03 | 2025-02-04 |
 | [Lights Down Low](https://open.spotify.com/track/4FO19heaoF2X1IecIfPURV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [NOW That's What I Call Music, Vol\. 65](https://open.spotify.com/album/161uSmI2QrypiAIdlOLYJW) | 3:43 | 2017-12-03 | 2022-11-14 |

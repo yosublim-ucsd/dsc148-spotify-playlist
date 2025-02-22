@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Leanna Crawford",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: CeCe Winans",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
@@ -12760,7 +12760,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
@@ -14551,6 +14551,24 @@
     },
     {
       "album": {
+        "name": "Runs Deep",
+        "url": "https://open.spotify.com/album/4smwHvbi6U0NAV4QhTwmiD"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181625,
+      "name": "Runs Deep",
+      "url": "https://open.spotify.com/track/5LMPzktMwPp1cslz5Cnxqp"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -15412,7 +15430,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 200986,
       "name": "Sound Of Heaven",
       "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
@@ -16794,7 +16812,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 489875,
       "name": "The Blessing - Live From Europe",
       "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
@@ -17077,6 +17095,36 @@
     },
     {
       "album": {
+        "name": "Call On Heaven (Come, Lord Jesus) - Live",
+        "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362680,
+      "name": "The Lamb's Book of Life - Live From Passion 2025",
+      "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
+    },
+    {
+      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -17294,6 +17342,24 @@
       "duration_ms": 260021,
       "name": "The Table",
       "url": "https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI"
+    },
+    {
+      "album": {
+        "name": "The World's Better 'Cause You're In It",
+        "url": "https://open.spotify.com/album/5ZoawZizrsSua9rUyE23Pn"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "The World's Better 'Cause You're In It",
+      "url": "https://open.spotify.com/track/3je4rbNm3C1zRkmEO7kgim"
     },
     {
       "album": {
@@ -18548,6 +18614,28 @@
       "duration_ms": 254706,
       "name": "We're Here Because You're Here",
       "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"
+    },
+    {
+      "album": {
+        "name": "Just Jesus",
+        "url": "https://open.spotify.com/album/67tFX9x2MXrqdF6W9N1Ncv"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "We've Got History (feat. Cecily)",
+      "url": "https://open.spotify.com/track/5IefKFzhn9J9R16ppWvEki"
     },
     {
       "album": {
@@ -20094,7 +20182,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206332,
       "name": "\u00c1ngeles",
       "url": "https://open.spotify.com/track/2SNA4NiAcqq6W3vcrK0skc"

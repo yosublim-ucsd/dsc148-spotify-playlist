@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-804 songs - 2 day 8 hr 1 min
+805 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Beautiful Friendship](https://open.spotify.com/track/6if2WRZeszHp2LWeKasFJc) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [To Miss Shirley Horn with Love](https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis) | 5:02 | 2022-03-11 | 2022-07-29 |
 | [A Certain Continuum](https://open.spotify.com/track/32X0aqmUHyMQYgcLsLqDIL) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E) | [A Certain Continuum](https://open.spotify.com/album/5UZeAJ71uYBOZqcWWfS2dE) | 5:07 | 2020-10-09 | 2022-02-14 |
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-02-18 | 2023-02-25 |
+| [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/2DsJEmesdUlHMqaY4nPDrC) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/album/2a0bgUmBrurbHyyPUe1sej) | 3:19 | 2025-02-21 |  |
 | [A Fine Romance](https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 4:13 | 2023-07-21 | 2024-02-03 |
 | [A Foggy Day](https://open.spotify.com/track/7tuyPJp1LzwkMPFGf34v7m) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [A Foggy Day](https://open.spotify.com/album/6yDhELTl2NEXTRqqT7i1q3) | 1:52 | 2024-09-13 | 2024-10-26 |
 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 | 2020-10-09 | 2022-02-04 |
@@ -787,7 +788,7 @@
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |
 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 | 2024-02-16 |  |
 | [Wonderful Words](https://open.spotify.com/track/53GtzwyXwm4ucKVJ5KZu4X) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Jesse Rivest](https://open.spotify.com/artist/1AaY7NYQidTReRR6t1l9OF), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Wonderful Words](https://open.spotify.com/album/7ivBZYLmSa4YnlFJVElIWr) | 4:11 | 2022-04-04 | 2022-06-23 |
-| [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 |  |
+| [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 | 2025-02-22 |
 | [Wuthering Heights](https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 2:43 | 2022-03-04 | 2023-02-25 |
 | [Yellow Rose](https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [Yellow Rose](https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn) | 5:07 | 2022-07-18 | 2023-07-29 |
 | [Yes, I'm Ready](https://open.spotify.com/track/5XlhFiWDin9FrGrwIrmDtp) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Memphis ...Yes, I'm Ready](https://open.spotify.com/album/6TrRBe7HiJgwarc3NxRRuh) | 4:57 | 2020-10-09 | 2022-02-19 |

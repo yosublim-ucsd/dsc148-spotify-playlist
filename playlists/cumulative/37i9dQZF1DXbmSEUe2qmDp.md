@@ -2,9 +2,9 @@
 
 ### [Geração Sertaneja](https://open.spotify.com/playlist/37i9dQZF1DXbmSEUe2qmDp)
 
-> Conheça as novas vozes da música sertaneja! Foto: Leo e Matheus
+> Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-221 songs - 10 hr 45 min
+224 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 | 2024-06-28 | 2024-10-26 |
 | [Aquela Boca](https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Aquela Boca](https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd) | 2:44 | 2024-08-02 | 2024-12-13 |
 | [Balde de Choro \- Ao Vivo](https://open.spotify.com/track/1tli2rmcy8woZTohS6rNG3) | [Rafaela Neves](https://open.spotify.com/artist/5EWJWbli7fXID4HLSTkSSe) | [Rafaela Neves, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5QbWzMW9A9uQxmEOBr419m) | 2:36 | 2024-06-28 | 2024-07-27 |
+| [Beba \- Ao Vivo](https://open.spotify.com/track/4Ar06eAn82Zv6dTufgtOt3) | [Rafael Quadros](https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Bebendo e Moendo \(Ao Vivo\)](https://open.spotify.com/album/31e35w1Yg6P8230zdGTz5K) | 3:14 | 2025-02-21 |  |
 | [Beijando 30](https://open.spotify.com/track/3FWI4L8sU6lIPonfnvPCLz) | [Bruna Manenti](https://open.spotify.com/artist/0EV5yE2WYUfACE0xDRHADZ), [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Beijando 30](https://open.spotify.com/album/6J65W8ynMIM2aGG8jRZHCJ) | 2:30 | 2024-12-13 |  |
 | [Beijo Culposo \- Ao Vivo](https://open.spotify.com/track/6Qfg9vWDOSFb1iVWzRxe2M) | [Kaik & Alessandro](https://open.spotify.com/artist/17sMphO0GKc9mhyTvi0CSz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Beijo Culposo \(Ao Vivo\)](https://open.spotify.com/album/4ypkKH1NoHP2kCkenKU9y1) | 3:06 | 2024-06-28 | 2024-10-04 |
 | [Beijo De Algema](https://open.spotify.com/track/2XnFC5rOm9AwqJEtR0iGIN) | [Pedro Vitor e Mariana](https://open.spotify.com/artist/0BwOq5L9lhr5zKwayZFYqG), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Beijo De Algema](https://open.spotify.com/album/7yZRtv00yZxGd0AMLVlaGp) | 3:02 | 2024-06-28 | 2024-10-26 |
@@ -36,6 +37,7 @@
 | [Boca Solta](https://open.spotify.com/track/7HwFEByDQS8Xg9z7FW9Gh2) | [Douglas & Diego](https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY) | [Boca Solta](https://open.spotify.com/album/6gr9xMrDvKDtNH1xXAWnzK) | 2:36 | 2024-08-02 | 2024-12-07 |
 | [BRIGA DE LÍNGUA \- Live](https://open.spotify.com/track/7cHqirYyuwSpftLcdBldMD) | [Lucas Gratão e Cristian](https://open.spotify.com/artist/4zFDPZARU1F1aNUs6urXL1) | [5 Anos , Vol\. 1 \(Live\)](https://open.spotify.com/album/18zQYtq2O3BbCKkNMpVmIp) | 2:47 | 2025-01-31 | 2025-02-07 |
 | [Caco de Vidro](https://open.spotify.com/track/718jo7g3Nf7SEX0uTuBCud) | [Matheus e Lorenzo](https://open.spotify.com/artist/5rqO9153JGgFSJJzHXbKdt) | [Caco de Vidro](https://open.spotify.com/album/16reN9ouarIwOAMavSxS2i) | 3:10 | 2024-12-06 |  |
+| [Caipira Perdeu](https://open.spotify.com/track/2KB3I3fraQfikmyqfGu85L) | [João Pedro e André](https://open.spotify.com/artist/2xERhY1tR2Bvc557b1LPI1), [Augusto & Atílio](https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ) | [Caipira Perdeu](https://open.spotify.com/album/7D8mfc4HZVN6PSafP3Dr7r) | 2:35 | 2025-02-21 |  |
 | [Canseira](https://open.spotify.com/track/3FJBLmThtT7Kp9GFYTJrjB) | [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Canseira](https://open.spotify.com/album/5iJOs1zzOwHGgdGYilFaxS) | 2:38 | 2024-10-25 |  |
 | [Casinha](https://open.spotify.com/track/7pi1FjqCvv3wVr55MsDPqP) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5) | [Casinha](https://open.spotify.com/album/5skYgk4NPduWPjiDNuuLQ6) | 3:00 | 2024-08-23 | 2024-09-06 |
 | [Cassino \- Ao Vivo](https://open.spotify.com/track/2hkazdT8weSdbJa3YLbJxY) | [Fábio Dunk](https://open.spotify.com/artist/2qTYb9Mq5ggCG4XZdQaKDz), [Breno & Caio Cesar](https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt) | [Cassino \(Ao Vivo\)](https://open.spotify.com/album/2gNt8BSgJg4bZT14oCDQ9v) | 2:41 | 2024-07-12 | 2024-07-19 |
@@ -85,6 +87,7 @@
 | [Festa dos Solteiros \- Ao Vivo](https://open.spotify.com/track/6yeblJB7KkfXfYWXWlvjms) | [Renan e Leandro](https://open.spotify.com/artist/1k4tgN6H2IDieE4HQec9lE) | [Festa dos Solteiros \(Ao Vivo\)](https://open.spotify.com/album/60El7Nq2nF4qRUxAtzhP50) | 3:26 | 2024-06-28 | 2024-10-12 |
 | [Fi Da Bagaceira \- Ao Vivo](https://open.spotify.com/track/6RGlyzgMA3kRh0dXf3P3kN) | [Cesinha e Matheus](https://open.spotify.com/artist/6GY5MqIO1G53zbx4fhlXuf), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Fi Da Bagaceira \(Ao Vivo\)](https://open.spotify.com/album/6avTmDXNN5MFaeHDV5zuFv) | 2:02 | 2024-06-28 | 2024-07-06 |
 | [Fica Comigo](https://open.spotify.com/track/19viiEWnbpqtsY03htIsA9) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil \(Fica Comigo/Silêncio\)](https://open.spotify.com/album/0XHZZ4rPqj5ygReBnQrgJT) | 2:23 | 2024-10-25 |  |
+| [Filé e Picanha + Bebo Pra Carai + Chamada à Cobrar](https://open.spotify.com/track/5GEWqoYaSwBe6E9pJK47wK) | [Dom Marcos e Davi](https://open.spotify.com/artist/7tx9ylrfhriRDpQicRV7gm) | [Filé e Picanha + Bebo Pra Carai + Chamada à Cobrar](https://open.spotify.com/album/14vUKcNmXm5V5siXSwuZZx) | 4:07 | 2025-02-21 |  |
 | [Fim De Carreira](https://open.spotify.com/track/4bsEJ0hpKgqyGUth2Dh4IB) | [Erick Lins](https://open.spotify.com/artist/6p0PsWjDD41Oxp8CXTMt3R), [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t) | [Fim De Carreira](https://open.spotify.com/album/5T5JeRpyZYEok7fPn5JP3w) | 2:58 | 2024-10-11 |  |
 | [Fiz Pra Você](https://open.spotify.com/track/1MRvO7PfW4NuLtyrPktdcY) | [RAFA LISBÔA](https://open.spotify.com/artist/1ey4lNNgzj5f2V8gStWWN3) | [Fiz Pra Você](https://open.spotify.com/album/0E2dIPYAqUL2TmDd0hQQ3v) | 3:04 | 2024-12-20 |  |
 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/1MP9p73U0GH5fLGsKo2irF) | [Carreiro & Capataz](https://open.spotify.com/artist/3JWhgnuhV4ew6C7cGJ8Khf) | [Essência Bruta \(Ao Vivo\)](https://open.spotify.com/album/5fFBzjmIcKh0zyW9gn1FL1) | 2:18 | 2024-10-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Feb 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Feb 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 124062,
       "name": "2 Rich",
       "url": "https://open.spotify.com/track/17pVnCsKY27lq2TZWsN8cu"
@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Aeroplane",
+        "url": "https://open.spotify.com/album/1ktPfnZAzUcMGpuHxgs3RF"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Aeroplane - Single Edit",
+      "url": "https://open.spotify.com/track/7iWHPvGnF0JhXlV8rI7xDP"
+    },
+    {
+      "album": {
         "name": "aeropuerto",
         "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
       },
@@ -2894,6 +2912,32 @@
       "duration_ms": 250023,
       "name": "All 2 of Us",
       "url": "https://open.spotify.com/track/6Qzh9H5JQhM2t8ReA0Bs3J"
+    },
+    {
+      "album": {
+        "name": "all 4 the best",
+        "url": "https://open.spotify.com/album/5PDhNUxFEv6FA8QEYdCyHb"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/6fmhVXwUMitRwDRCJVIxmA"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/2u96w3T0EikMkttEFzKBxb"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "all 4 the best (with Jadagrace & SWIM)",
+      "url": "https://open.spotify.com/track/2olVNROQiUxSadQQACeHEx"
     },
     {
       "album": {
@@ -3568,7 +3612,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 201760,
       "name": "Almond Chocolate",
       "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
@@ -5872,7 +5916,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 281100,
       "name": "Back in the Game",
       "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
@@ -6684,7 +6728,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
@@ -11231,6 +11275,24 @@
     },
     {
       "album": {
+        "name": "BUTTERFLY",
+        "url": "https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265792,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/184TqCB5vQl2giqvkIseXi"
       },
@@ -14232,6 +14294,24 @@
       "duration_ms": 406249,
       "name": "Codex",
       "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
+    },
+    {
+      "album": {
+        "name": "Coffin Change",
+        "url": "https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185361,
+      "name": "Coffin Change",
+      "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
     },
     {
       "album": {
@@ -20157,6 +20237,24 @@
     },
     {
       "album": {
+        "name": "Dream Woman",
+        "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248601,
+      "name": "Dream Woman",
+      "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
+    },
+    {
+      "album": {
         "name": "Dreamin'",
         "url": "https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po"
       },
@@ -25576,6 +25674,24 @@
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
+      "album": {
+        "name": "Forever Yung",
+        "url": "https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200370,
+      "name": "Forever Yung",
+      "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
     },
     {
       "album": {
@@ -34203,6 +34319,24 @@
     },
     {
       "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
+    },
+    {
+      "album": {
         "name": "I Wish That I Could Fall",
         "url": "https://open.spotify.com/album/1oncPFOhxO6u3MrdS8UDkv"
       },
@@ -35128,7 +35262,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 192421,
       "name": "il ritmo delle cose.",
       "url": "https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy"
@@ -35934,7 +36068,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 204811,
       "name": "Incoscienti Giovani",
       "url": "https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD"
@@ -39776,7 +39910,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 206002,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5"
@@ -43841,6 +43975,24 @@
     },
     {
       "album": {
+        "name": "MARiO COINS",
+        "url": "https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126393,
+      "name": "MARiO COINS",
+      "url": "https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ"
+    },
+    {
+      "album": {
         "name": "Maroon 5",
         "url": "https://open.spotify.com/album/5fCscgFrLTfmDmo9l82AZI"
       },
@@ -44206,7 +44358,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 184933,
       "name": "Mega Circuit",
       "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
@@ -44736,7 +44888,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 192712,
       "name": "MILLE VOTE ANCORA",
       "url": "https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ"
@@ -53112,7 +53264,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219000,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
@@ -61940,7 +62092,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
@@ -64512,7 +64664,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 216000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6RfuzUZuVBkv4N6KResPJf"
@@ -67433,6 +67585,24 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164645,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
+    },
+    {
+      "album": {
         "name": "TASTE",
         "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
       },
@@ -68252,7 +68422,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-22",
       "duration_ms": 204325,
       "name": "That's Not Gangsta",
       "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
@@ -71855,6 +72025,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
+    },
+    {
+      "album": {
         "name": "Too Much Of A Good Thing",
         "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
       },
@@ -72346,6 +72534,24 @@
       "duration_ms": 209296,
       "name": "Transcendental Cha Cha Cha",
       "url": "https://open.spotify.com/track/1gaa0N2DGSLKcW7aIQu9xF"
+    },
+    {
+      "album": {
+        "name": "Trappa Rappa",
+        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Trappa Rappa",
+      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
     },
     {
       "album": {
@@ -73204,6 +73410,24 @@
       "duration_ms": 215746,
       "name": "Two Things",
       "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
+    },
+    {
+      "album": {
+        "name": "Two Times",
+        "url": "https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Two Times",
+      "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
     },
     {
       "album": {
@@ -76666,6 +76890,24 @@
       "duration_ms": 148240,
       "name": "Whatsapp (Wassam)",
       "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
+    },
+    {
+      "album": {
+        "name": "Whatx2",
+        "url": "https://open.spotify.com/album/0FryGWdXbmeUI4ZsVAN6KI"
+      },
+      "artists": [
+        {
+          "name": "Az Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Whatx2",
+      "url": "https://open.spotify.com/track/7CEdffPYhBOsNmGB5C0P86"
     },
     {
       "album": {

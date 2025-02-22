@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [hug me](https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91), [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [hug me](https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu) | 2:00 |
 | 50 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 |
 
-Snapshot ID: `Z7e0AQAAAADiRz0ALxExH/PaTOpZqSiL`
+Snapshot ID: `Z7e0AQAAAADq9FRvh+hioBsHcVzfzget`

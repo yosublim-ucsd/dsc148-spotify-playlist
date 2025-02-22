@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151787,
+      "name": "Due\u00f1a De Mis Besos",
+      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },

@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Thể Thiên
 
-1,971 songs - 4 day 19 hr 27 min
+1,972 songs - 4 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1686,6 +1686,7 @@
 | [V\-Nus](https://open.spotify.com/track/74Wt4dcnk6CeajFI29D1Va) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [LARRIA](https://open.spotify.com/artist/4EmlvsxRbtY1fvKlsJNtbZ) | [V\-Nus](https://open.spotify.com/album/57HcJocb0VzwSVWlL3htKY) | 2:12 | 2022-03-22 | 2022-03-30 |
 | [Va roi em block...](https://open.spotify.com/track/4ZPgCISc9Nbt4ToEISUKH3) | [SMVL](https://open.spotify.com/artist/4aLpXZYh98tPHtzQiUbqHr) | [Va roi em block...](https://open.spotify.com/album/1O17eJ5uaCCeqROLgoZe3l) | 3:08 | 2022-02-23 | 2022-04-29 |
 | [Va Vào Tình Yêu](https://open.spotify.com/track/32bf7GlG2K6I3QcXd2Azdr) | [SASSY](https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i), [Nhật Hoàng](https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX) | [Va Vào Tình Yêu](https://open.spotify.com/album/5MxCyMCcsBip2L0bYBPjUp) | 3:25 | 2022-11-02 | 2022-11-16 |
+| [Vay Em Da Co Nguoi Nao?](https://open.spotify.com/track/3lSo803MPsQrQtMtkbAhzh) | [NK](https://open.spotify.com/artist/5kkMq1nrn49WTKTxUTqCpJ), [Franky](https://open.spotify.com/artist/1xBmajyIaIl9fMde48bhSa), [TiHi](https://open.spotify.com/artist/1yFYZte32EDLcXlRX6DV3L) | [Vay Em Da Co Nguoi Nao?](https://open.spotify.com/album/0hKlH85f4T5n73iTmSRwss) | 3:38 | 2025-02-21 |  |
 | [Venesa \(feat\. Hani\)](https://open.spotify.com/track/0uswAWA02m6qsoD0UpQJHA) | [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [Venesa \(feat\. Hani\)](https://open.spotify.com/album/2iRjJ632gwjPymWeRgiFKN) | 4:09 | 2023-01-12 | 2023-03-28 |
 | [Versace Girl](https://open.spotify.com/track/3u9ToBmpg69G5jKwaP2azm) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Versace Girl](https://open.spotify.com/album/1sHqbSEs1Pd0X8d0ybKGHI) | 3:55 | 2022-05-22 | 2022-06-03 |
 | [VI ROI](https://open.spotify.com/track/0ivEKoexXMg7JfM5WjHiVr) | [Cobra](https://open.spotify.com/artist/6tk9DGbdcXCXPxxWEb31vd), [Hải Yến](https://open.spotify.com/artist/09L9kJidtIVW7ME09oK4tA) | [VI ROI](https://open.spotify.com/album/4lNUG5eAOAmsGNbNCXQuSt) | 3:36 | 2022-05-24 | 2022-06-08 |

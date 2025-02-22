@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-89 songs - 5 hr 50 min
+90 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 | 2023-07-21 |  |
 | [Music for the Royal Fireworks: Suite HWV 351: 4\. La réjouissance](https://open.spotify.com/track/5yyXW6znha7BHouXfXwJbE) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf), [Christopher Hogwood](https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL) | [Händel: Feuerwerksmusik \- Wassermusik](https://open.spotify.com/album/5SkqTEzaxzwvdR0bamnROz) | 2:15 | 2021-07-02 | 2022-01-06 |
 | [My Neighbour TOTORO](https://open.spotify.com/track/7iqFh7Vftu6YfwZCSekgtU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Dream Songs: The Essential Joe Hisaishi](https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T) | 4:07 | 2021-07-02 |  |
+| [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 | 2025-02-21 |  |
 | [Nonet in E\-Flat Major, Op\. 38: III\. Scherzo\. Vivace](https://open.spotify.com/track/2z7iDr3N4NbW4VmwpQWbTS) | [Louise Farrenc](https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2), [Consortium Classicum](https://open.spotify.com/artist/5pXc3hdnVW50TkAvUZ3IhJ) | [Farrenc: Nonet \- Clarinet Trio](https://open.spotify.com/album/4oJtR0XATs2ZskA2RNcaHT) | 5:07 | 2021-07-02 |  |
 | [Nutcracker Suite, Op\. 71a, TH\. 35: IIc\. Danse russe Trépak \(Tempo di Trépak, molto vivace\)](https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Discoveries](https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP) | 1:07 | 2024-11-15 |  |
 | [Oboe Concerto in C Major, K\. 314: III\. Rondo \(Allegretto\) \- Cadenza: Randall Wolfgang](https://open.spotify.com/track/63kHt9dnIKiCobKqMsgahS) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Randall Wolfgang](https://open.spotify.com/artist/4Eza9dR8TKN4EBDFjCcArr), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti](https://open.spotify.com/album/4fYVRN0xLtr6dJBk61ls5T) | 5:38 | 2021-07-02 |  |

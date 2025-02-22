@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ILLIT
 
-1,354 songs - 3 day 0 hr 25 min
+1,356 songs - 3 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [EVERGREEN](https://open.spotify.com/track/2RT20Sn716uLt2xVIcZp42) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Bump Up Business～恋するバックステージ～ オリジナル・サウンドトラック](https://open.spotify.com/album/6qZYN19km6VvtmgfBXc8YU) | 3:36 | 2024-05-23 | 2024-06-01 |
 | [EXCEL](https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [UNCHARTED DRIFT](https://open.spotify.com/album/61W392PxSk764yUZnI8eyR) | 2:50 | 2023-06-27 | 2023-08-01 |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-10 | 2023-07-26 |
+| [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 |  |
 | [Extraordinary day](https://open.spotify.com/track/4yKvdFbKn2W1lKKMwHQswp) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Extraordinary day](https://open.spotify.com/album/25nQUx8eJNhjD4SCFo3jtW) | 3:20 | 2025-02-03 |  |
 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-15 | 2022-04-06 |
 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2023-10-06 | 2024-08-30 |
@@ -427,7 +428,7 @@
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-10-31 | 2023-02-01 |
 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-29 |  |
 | [Get Goin'](https://open.spotify.com/track/5nv5aUcSKCogR7xMX3q0od) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Fraggle Rock: Back To The Rock \- Season 2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7ADS5WrhmIaFv9r1671yNh) | 2:00 | 2024-04-02 | 2024-05-24 |
-| [Get Loud](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:49 | 2024-10-15 |  |
+| [Get Loud](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:49 | 2024-10-15 | 2025-02-22 |
 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 | 2023-03-30 | 2023-06-16 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-19 | 2024-12-25 |
 | [Ghostin'](https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:06 | 2022-03-08 | 2022-05-11 |
@@ -687,6 +688,7 @@
 | [LUMINOUS](https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e) | 3:58 | 2022-09-27 | 2022-11-23 |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 | 2022-10-14 |
 | [LUV LUV LUV \(Korean Version\)](https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.1 DESTINY](https://open.spotify.com/album/3TDpMWzZ1xDZwYGS42bEnp) | 2:47 | 2023-06-20 | 2023-07-26 |
+| [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-21 |  |
 | [MACARONI CHEESE](https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [MACARONI CHEESE EP](https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e) | 2:25 | 2023-10-17 | 2023-11-29 |
 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 | 2024-05-01 | 2024-09-04 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-25 | 2024-08-30 |
@@ -1319,7 +1321,7 @@
 | [そのままで](https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii) | [KIM SUNGJE](https://open.spotify.com/artist/6A3d5kFeyRjzOk74cwJVHX) | [RESTART](https://open.spotify.com/album/33NzoMoBwLN8rxCchuklJs) | 4:23 | 2023-04-11 | 2023-05-10 |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-02 | 2024-10-02 |
 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq) | 3:04 | 2024-03-07 | 2024-07-31 |
-| [アンタイトル](https://open.spotify.com/track/6pnP83aFWJbzFfFYN7LyYJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [tripleS ∞! <アンタイトル>](https://open.spotify.com/album/0ZLnGYGxMnAVRGAdOBtHf2) | 2:41 | 2024-11-18 |  |
+| [アンタイトル](https://open.spotify.com/track/6pnP83aFWJbzFfFYN7LyYJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [tripleS ∞! <アンタイトル>](https://open.spotify.com/album/0ZLnGYGxMnAVRGAdOBtHf2) | 2:41 | 2024-11-18 | 2025-02-22 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |
 | [シャッター閉めろ](https://open.spotify.com/track/5Uyi5O6Hb2PKZdleSJrK6m) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [シャッター閉めろ](https://open.spotify.com/album/3Iy8i2OJDYYOzYFJS4NnrC) | 2:28 | 2023-07-04 | 2023-07-19 |

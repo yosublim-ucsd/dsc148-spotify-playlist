@@ -18609,6 +18609,28 @@
     },
     {
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4qE3DiAGExwNVDXsd8uUuv"
+      },
+      "artists": [
+        {
+          "name": "Jim Jonathan",
+          "url": "https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY"
+        },
+        {
+          "name": "Centre Court",
+          "url": "https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt"
+    },
+    {
+      "album": {
         "name": "I Wanna (RAV3ART Remix)",
         "url": "https://open.spotify.com/album/5xur9iS50tfWbjtC2ZShWl"
       },

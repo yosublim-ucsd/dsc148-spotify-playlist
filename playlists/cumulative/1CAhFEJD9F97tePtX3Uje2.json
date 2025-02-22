@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Come Back Club",
+        "url": "https://open.spotify.com/album/4N2dQMTWn8aJOTEcmNQwnI"
+      },
+      "artists": [
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179254,
+      "name": "Come Back Club",
+      "url": "https://open.spotify.com/track/5wAzDSwXLN3tusPndmyDcE"
+    },
+    {
+      "album": {
         "name": "Compulsory to Denounce",
         "url": "https://open.spotify.com/album/5tObD3qcKd2sPRamA1MlwV"
       },

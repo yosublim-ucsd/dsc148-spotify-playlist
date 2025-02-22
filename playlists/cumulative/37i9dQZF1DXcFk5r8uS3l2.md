@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-416 songs - 1 day 2 hr 5 min
+418 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2022-04-22 | 2024-04-19 |
 | [Go Poseidon!](https://open.spotify.com/track/2PNFIfnnavc5BbrwwtfR6l) | [Andy McCutcheon](https://open.spotify.com/artist/1HNLfaKJEfCJHYrgWN3MRQ) | [Go Poseidon!](https://open.spotify.com/album/6rZknVym4R0eJhIVApU0GB) | 7:03 | 2023-04-07 | 2023-07-08 |
 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 | 2021-12-17 | 2023-02-25 |
+| [Good Love Die](https://open.spotify.com/track/1U0nCqVolsvRmTianW7H8w) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Good Love Die](https://open.spotify.com/album/3G0ExGf9uPg10OOL2VBHUD) | 3:27 | 2025-02-21 |  |
 | [Good Thing](https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [Good Thing](https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI) | 4:04 | 2022-09-02 | 2023-07-08 |
 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 | 2021-12-17 | 2024-09-07 |
 | [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 | 2023-05-26 |  |
@@ -157,7 +158,7 @@
 | [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 | 2024-05-24 | 2024-07-19 |
 | [Holy River](https://open.spotify.com/track/6SedHpk26DGo0uvpL0gyYL) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN) | [Trinity, Vol.2](https://open.spotify.com/album/6Ud7zLdNrSmHIyXX2pyT4V) | 3:07 | 2022-09-09 | 2022-09-17 |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-01-28 | 2024-04-19 |
-| [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 |  |
+| [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2025-02-22 |
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-12-17 | 2024-03-23 |
 | [Hot Red](https://open.spotify.com/track/6usaOOBDR1ybEyyKT5GkGK) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Hot Red](https://open.spotify.com/album/31lcZTz1FTI2pUwe8uViJv) | 3:03 | 2022-11-04 | 2022-11-12 |
 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 | 2022-01-28 | 2024-04-19 |
@@ -235,7 +236,7 @@
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 | 2022-12-03 |
 | [Maybe Someday](https://open.spotify.com/track/5hPQhhwqgJfPDUJIwYAzql) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Maybe Someday](https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19) | 2:55 | 2023-03-24 | 2023-05-20 |
 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 | 2024-08-23 |  |
-| [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
+| [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 | 2025-02-22 |
 | [Monsoon Lightning](https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3), [Tom Walbank](https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw) | [Monsoon Lightning](https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN) | 4:23 | 2024-07-05 |  |
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 |  |
 | [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-09 | 2024-04-08 |
@@ -295,6 +296,7 @@
 | [Roll With Me](https://open.spotify.com/track/0GQS7JTrnUCstlUQNPJYzl) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Black Gospel, Vol\. 1](https://open.spotify.com/album/1uRbfjXXq4IPqMbvITn66V) | 4:20 | 2021-12-17 | 2022-06-12 |
 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 | 2022-01-28 | 2024-03-30 |
 | [Room for Us All](https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Room for Us All](https://open.spotify.com/album/14bLaJ0fePGoHcwwwoxZ9g) | 3:27 | 2022-06-10 | 2022-06-18 |
+| [Room On The Porch \[Feat\. Ruby Amanfu\]](https://open.spotify.com/track/7pP1IYTzfviqtXtXEjy4ae) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Room On The Porch \[Feat\. Ruby Amanfu\]](https://open.spotify.com/album/0JfWoPk879EM5WZDjlbpCH) | 4:05 | 2025-02-21 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-12-17 | 2022-06-12 |
 | [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 | 2022-05-06 | 2022-06-11 |
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 | 2022-09-24 |

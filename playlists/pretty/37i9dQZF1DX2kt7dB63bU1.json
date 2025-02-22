@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 154147,
+  "num_followers": 154173,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z67N9gAAAAAkZtGQ6xavacFnySq1CNSb",
+  "snapshot_id": "Z7gIYQAAAAD89+H7A2Z8U2CK7iNVkjSV",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:38",
@@ -57,24 +57,20 @@
       "url": "https://open.spotify.com/track/59Y0HlcCevMDvNN04V5kSQ"
     },
     {
-      "added_at": "2025-02-07 05:00:21",
+      "added_at": "2025-02-21 05:00:17",
       "album": {
-        "name": "Meet Me in Paris",
-        "url": "https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB"
+        "name": "A Dream Is a Wish Your Heart Makes",
+        "url": "https://open.spotify.com/album/2a0bgUmBrurbHyyPUe1sej"
       },
       "artists": [
         {
           "name": "Emmaline",
           "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        },
-        {
-          "name": "Scott Mulvahill",
-          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
         }
       ],
-      "duration_ms": 224802,
-      "name": "Meet Me in Paris",
-      "url": "https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK"
+      "duration_ms": 199712,
+      "name": "A Dream Is a Wish Your Heart Makes",
+      "url": "https://open.spotify.com/track/2DsJEmesdUlHMqaY4nPDrC"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -181,20 +177,24 @@
       "url": "https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1"
     },
     {
-      "added_at": "2025-01-03 05:00:22",
+      "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Wrong Side of Midnight",
-        "url": "https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK"
+        "name": "Meet Me in Paris",
+        "url": "https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB"
       },
       "artists": [
         {
           "name": "Emmaline",
           "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        },
+        {
+          "name": "Scott Mulvahill",
+          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
         }
       ],
-      "duration_ms": 220561,
-      "name": "Wrong Side of Midnight",
-      "url": "https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA"
+      "duration_ms": 224802,
+      "name": "Meet Me in Paris",
+      "url": "https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK"
     },
     {
       "added_at": "2024-10-25 04:00:00",
