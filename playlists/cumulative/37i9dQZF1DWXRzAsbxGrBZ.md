@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-205 songs - 23 hr 43 min
+206 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Little Me \- Extended Mix](https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn) | 7:17 | 2024-01-25 | 2025-02-19 |
 | [Little Me \- Kaidi Tatham Remix](https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Little Me \(Kaidi Tatham Remix\)](https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U) | 5:32 | 2024-05-31 | 2025-02-13 |
 | [Lo'Mthwalo \- Original Mix](https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9) | [Mandaba](https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8), [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ) | [Lomthwalo](https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a) | 6:06 | 2024-04-25 | 2025-02-22 |
-| [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 | 2024-05-10 |  |
+| [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 | 2024-05-10 | 2025-02-23 |
 | [Love](https://open.spotify.com/track/7jBU9DANVe8TSXkb9VQV0U) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Love](https://open.spotify.com/album/36jnEWiq6AOIwll7X4bwGc) | 6:04 | 2025-02-21 |  |
 | [Love I Know](https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P) | [Dearson](https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [Necessary](https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj) | 6:35 | 2022-11-10 | 2024-07-19 |
 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 | 2022-09-29 | 2023-03-11 |
@@ -113,6 +113,7 @@
 | [Make My Heart Sing](https://open.spotify.com/track/4KTui0DbAetpOjMVRQqnhl) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips \(Part 2\)](https://open.spotify.com/album/1wk5bggiYMXwtzo1h23D1V) | 7:19 | 2024-05-16 | 2024-05-23 |
 | [Makhenikha](https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm) | [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Another Mile EP](https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh) | 7:14 | 2022-09-14 | 2023-03-18 |
 | [Many Faces](https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [A Million Dreams](https://open.spotify.com/album/5v0usD8Am87oCQjETKzirI) | 7:22 | 2025-02-21 |  |
+| [Mawelele](https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Nyuku EP](https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx) | 5:05 | 2025-02-21 |  |
 | [Mend It \- Stimming Remix](https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Mend It / Your Eyes Remixes](https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL) | 8:38 | 2023-03-23 | 2024-04-26 |
 | [Middle of Dezemba](https://open.spotify.com/track/0AGJGvE5EIpEdStPqSrg2F) | [Lebo Lukewarm](https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB) | [Middle of Dezemba](https://open.spotify.com/album/6UIa4mWQEvnjKrykESROn4) | 7:19 | 2024-10-31 | 2024-12-15 |
 | [Middle Of The Garden](https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ) | [SONIDO](https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw) | [Middle Of The Garden](https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld) | 6:10 | 2023-03-17 | 2023-03-25 |

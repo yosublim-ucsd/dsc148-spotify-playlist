@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: JAE5
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,838 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,841 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Sugar](https://open.spotify.com/track/0EFOT4wLwR4AZBGMTg3Ne3) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Sugar](https://open.spotify.com/album/6ewzGgAnMYgU7RmE3XWw0T) | 2:18 |
 | 50 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 |
 
-Snapshot ID: `Z7el8AAAAAAGP1/G2F6J3PYVE37EF4Zn`
+Snapshot ID: `Z7el8AAAAABVzt+v5wzA9hsaVf1Zr/n3`

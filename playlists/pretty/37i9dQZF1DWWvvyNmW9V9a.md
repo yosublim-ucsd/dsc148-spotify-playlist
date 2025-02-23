@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > tatiana x laroi <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131,433 likes - 97 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131,343 likes - 97 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

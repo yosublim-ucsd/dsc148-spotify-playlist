@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 179166,
       "name": "Cansao de to",
       "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
@@ -4880,6 +4880,28 @@
       "duration_ms": 170531,
       "name": "Libre Robot",
       "url": "https://open.spotify.com/track/6LHqGkrxlRTDEQDE6xRMHg"
+    },
+    {
+      "album": {
+        "name": "LiKE A",
+        "url": "https://open.spotify.com/album/3A6nBAmn3tMZsaP71TFXr8"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109870,
+      "name": "LiKE A",
+      "url": "https://open.spotify.com/track/3HLpdUbdkuApzseADV9oX5"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
-  "description": "All new Worship songs on the rise! Cover: Sons Of Sunday",
-  "num_followers": 137623,
+  "description": "All new Worship songs on the rise! Cover: Phil Wickham",
+  "num_followers": 137711,
   "original_name": "Worship Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6XEKAAAAACC4xue5TDcvNum+K7hg1Ao",
+  "snapshot_id": "Z7lr8QAAAADEi6aYaxKSiloXMK4am1ri",
   "tracks": [
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "The King Is In The Room",
+        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "GOD DID! / Runnin With Angels",
         "url": "https://open.spotify.com/album/55PaBZWs8KfXkbNGMZJoY7"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1q8tZJcuBNxsrfDRyYObcg"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "You Can (Live)",
         "url": "https://open.spotify.com/album/1Z6FZyk5n0ZKmkMtlxUprl"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/15EwhHEpjlL5HfUdp44LFi"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "With Everything / Rest On Us",
         "url": "https://open.spotify.com/album/4Ony8XdH45g3FB87isBwFg"
@@ -61,271 +77,47 @@
       "url": "https://open.spotify.com/track/6P9Vd0YtlaQHbIsSRoVrk0"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Miracle Worker (Live)",
-        "url": "https://open.spotify.com/album/5KCKJqJbOk50ZvEuhh3DAN"
+        "name": "The Wonderful Blood",
+        "url": "https://open.spotify.com/album/0XkK1kWVV9xRVWgcCB1cIB"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 389647,
-      "name": "Miracle Worker - Live",
-      "url": "https://open.spotify.com/track/30wjheQzye2Jwtiy0pOT8D"
+      "duration_ms": 525389,
+      "name": "The Wonderful Blood",
+      "url": "https://open.spotify.com/track/4o5NDuOZEosSywp6kiWZ4D"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "RESURRECTION HERE",
-        "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
+        "name": "The Image",
+        "url": "https://open.spotify.com/album/5lpuaMKwpRs2PvBsUcYUXf"
       },
       "artists": [
         {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 256892,
-      "name": "RESURRECTION HERE",
-      "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/7psjjAFyfKCI3ZJDMxI4Yw"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 307919,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/38eG7CWY62HKPQkjiSSWoD"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Split The Sky",
-        "url": "https://open.spotify.com/album/2fILRCr4sMQjeZAk7oYulp"
-      },
-      "artists": [
-        {
-          "name": "Celebration Music",
-          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
+          "name": "Gather Worship",
+          "url": "https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L"
         },
         {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        }
-      ],
-      "duration_ms": 431654,
-      "name": "For The Love Of God",
-      "url": "https://open.spotify.com/track/0nW7Jcusb90hDt5GIR6G22"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4U3K4V4XWLXE5AuTNdywmD"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/58MMGOrJnmgqqLlAL8PG96"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "We Choose Praise (Live)",
-        "url": "https://open.spotify.com/album/5Xi732fHAJZapcrvoVI4Vt"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 300063,
-      "name": "We Choose Praise - Live",
-      "url": "https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Praise Be",
-        "url": "https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV"
-      },
-      "artists": [
-        {
-          "name": "Simply Worship",
-          "url": "https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         },
         {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 251298,
-      "name": "Praise Be",
-      "url": "https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq"
+      "duration_ms": 310000,
+      "name": "THE IMAGE",
+      "url": "https://open.spotify.com/track/3DzFfyOOZ1CWoV0sL2TKWW"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "None Like You (Live)",
-        "url": "https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Marie Welch",
-          "url": "https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE"
-        }
-      ],
-      "duration_ms": 480789,
-      "name": "None Like You - Live",
-      "url": "https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Thank You For The Cross",
-        "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 270994,
-      "name": "Thank You For The Cross",
-      "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Faithful Still (Live)",
-        "url": "https://open.spotify.com/album/7HA8l0P9GWqfDU52Bii5hy"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 293628,
-      "name": "Faithful Still - Live",
-      "url": "https://open.spotify.com/track/1lKTNUloG8NivfCVzqyMKG"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "City On A Hill",
-        "url": "https://open.spotify.com/album/4obZ6Ei6fTlGAwQWcQbXhl"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 378518,
-      "name": "City On A Hill",
-      "url": "https://open.spotify.com/track/6vfNrWcbC5OB8ExG8eRXPY"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Where The Power Is",
-        "url": "https://open.spotify.com/album/2njYFk7yB34LFH0mdEJKG6"
-      },
-      "artists": [
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 246244,
-      "name": "Where The Power Is",
-      "url": "https://open.spotify.com/track/6j9qZn2PyyrneCk0gxhXeR"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/2UYnOGOl7s5nT0YKERdDE6"
-      },
-      "artists": [
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 240810,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/3uZQfqXabi3aXpKx3wff4D"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "No Famine",
-        "url": "https://open.spotify.com/album/12XBgWJkQ12QjcgJeHDnKP"
-      },
-      "artists": [
-        {
-          "name": "Oceans Music",
-          "url": "https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 456662,
-      "name": "No Famine",
-      "url": "https://open.spotify.com/track/5FBdmidq7E9Dxj5hHLXtOq"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "One Desire / Eyes On You",
-        "url": "https://open.spotify.com/album/1EGPfq1Xv2ciMxKO3xStKo"
-      },
-      "artists": [
-        {
-          "name": "Sound Chapel",
-          "url": "https://open.spotify.com/artist/4yAyAH2xJ5HMDCqdlS2VGP"
-        },
-        {
-          "name": "Kendall Schmidt",
-          "url": "https://open.spotify.com/artist/5soX951GediIpOZ49PafO1"
-        }
-      ],
-      "duration_ms": 267095,
-      "name": "One Desire",
-      "url": "https://open.spotify.com/track/2eXrDKn9YkUrhg4stYM8yD"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "Love of God (Live)",
         "url": "https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K"
@@ -345,239 +137,131 @@
       "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Build an Altar (Live)",
-        "url": "https://open.spotify.com/album/0dFJw4kqxUEMByQ76JPeAy"
+        "name": "Split The Sky",
+        "url": "https://open.spotify.com/album/2fILRCr4sMQjeZAk7oYulp"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 303449,
-      "name": "Build an Altar (Live)",
-      "url": "https://open.spotify.com/track/6WAuc401nzSQn4p8JlB0Td"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Words We'll Sing Forever",
-        "url": "https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Words We'll Sing Forever",
-      "url": "https://open.spotify.com/track/52nHwiyey8yFvn9Wo4SXTt"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Celebration Music",
+          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        }
+      ],
+      "duration_ms": 431654,
+      "name": "For The Love Of God",
+      "url": "https://open.spotify.com/track/0nW7Jcusb90hDt5GIR6G22"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/5KCKJqJbOk50ZvEuhh3DAN"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 389647,
+      "name": "Miracle Worker - Live",
+      "url": "https://open.spotify.com/track/30wjheQzye2Jwtiy0pOT8D"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Hijos Live (Deluxe Version) [Live From San Juan PR]",
+        "url": "https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "duration_ms": 513466,
+      "name": "Yahweh Will Manifest - Live From San Juan PR",
+      "url": "https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/2UYnOGOl7s5nT0YKERdDE6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 316843,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
+      "duration_ms": 240810,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/3uZQfqXabi3aXpKx3wff4D"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Jesus Forever",
-        "url": "https://open.spotify.com/album/6vV9EKzlokLdGkIqv8nX42"
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/7psjjAFyfKCI3ZJDMxI4Yw"
       },
       "artists": [
         {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 425302,
-      "name": "Jesus Forever",
-      "url": "https://open.spotify.com/track/2JZFsgScNn2SBFxRaVhdQ0"
+      "duration_ms": 307919,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/38eG7CWY62HKPQkjiSSWoD"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/2x5OoUZs9OaT6aKxQMAFNQ"
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4VklB3CRyzDHx2FAB7MYE2"
       },
       "artists": [
         {
-          "name": "Community Music",
-          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
-        }
-      ],
-      "duration_ms": 240210,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "World Of Wonder",
-        "url": "https://open.spotify.com/album/67Y8B8uv1UTJaZp64LuAWQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamers",
-          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
-        }
-      ],
-      "duration_ms": 293270,
-      "name": "World Of Wonder - Live",
-      "url": "https://open.spotify.com/track/5lXhBRhkmdmE7CwnjDJA1S"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 450000,
-      "name": "Holy Spirit - Live from Pretoria",
-      "url": "https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Blessing Me (Acoustic version)",
-        "url": "https://open.spotify.com/album/1J3b5ZJ51nzqVhqHjUedLC"
-      },
-      "artists": [
-        {
-          "name": "I-fee Sound",
-          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Blessing Me - Acoustic version",
-      "url": "https://open.spotify.com/track/1rBmwlXdV67N7Qqc2Ie4pJ"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Be Enthroned",
-        "url": "https://open.spotify.com/album/4SQ6Rf3Zw0jh2fnokm4wFt"
-      },
-      "artists": [
-        {
-          "name": "Melody Adorno",
-          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+          "name": "Oceans Music",
+          "url": "https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 585070,
-      "name": "Be Enthroned",
-      "url": "https://open.spotify.com/track/5ts3OOaqhinmz867jVm95J"
+      "duration_ms": 547010,
+      "name": "Never Gets Old",
+      "url": "https://open.spotify.com/track/3RIhalkeNsWuidM3dyEFRq"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "I Know That I Know (Live)",
-        "url": "https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5"
+        "name": "RESURRECTION HERE",
+        "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "David Dennis",
-          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
         }
       ],
-      "duration_ms": 313708,
-      "name": "I Know That I Know - Live",
-      "url": "https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy"
+      "duration_ms": 256892,
+      "name": "RESURRECTION HERE",
+      "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Never Going Back (Live)",
-        "url": "https://open.spotify.com/album/1ZHxKdDcoQPkLBHLRwllMn"
-      },
-      "artists": [
-        {
-          "name": "Fellowship Creative",
-          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Never Going Back - Live",
-      "url": "https://open.spotify.com/track/08XlToHeC3bO8KfrVOJoW6"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Slower I Go (Studio)",
-        "url": "https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Slower I Go - Studio",
-      "url": "https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H"
-      },
-      "artists": [
-        {
-          "name": "Church of the City",
-          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "God Is Not Against Me (Radio Version)",
         "url": "https://open.spotify.com/album/0CeLII36k8Gl5r1JNyFp61"
@@ -593,27 +277,323 @@
       "url": "https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Just Jesus (Live)",
-        "url": "https://open.spotify.com/album/5ldsXczfVph2WSGWkWueMJ"
+        "name": "None Like You (Live)",
+        "url": "https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Seacoast",
-          "url": "https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv"
+          "name": "Marie Welch",
+          "url": "https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE"
         }
       ],
-      "duration_ms": 332506,
-      "name": "Just Jesus (Live)",
-      "url": "https://open.spotify.com/track/5Efo5tCdMX80zvxuJSwiY2"
+      "duration_ms": 480789,
+      "name": "None Like You - Live",
+      "url": "https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "I Fear No Evil (Live)",
+        "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Megan Parker",
+          "url": "https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b"
+        },
+        {
+          "name": "Whitney Wood",
+          "url": "https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl"
+        }
+      ],
+      "duration_ms": 361650,
+      "name": "I Fear No Evil - Live",
+      "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/29k7xThF3cibCSHQVnfw1z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 219881,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/2xmZPwnnfwRY1dRtLALMSx"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/2YZPVcjs8ViSJu10fTs3UL"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 241544,
+      "name": "Yield",
+      "url": "https://open.spotify.com/track/4W7PAKB9E09thAedKXcPyd"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Never Going Back (Live)",
+        "url": "https://open.spotify.com/album/1ZHxKdDcoQPkLBHLRwllMn"
+      },
+      "artists": [
+        {
+          "name": "Fellowship Creative",
+          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Never Going Back - Live",
+      "url": "https://open.spotify.com/track/08XlToHeC3bO8KfrVOJoW6"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 450000,
+      "name": "Holy Spirit - Live from Pretoria",
+      "url": "https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Words We'll Sing Forever",
+        "url": "https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Words We'll Sing Forever",
+      "url": "https://open.spotify.com/track/52nHwiyey8yFvn9Wo4SXTt"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Where The Power Is",
+        "url": "https://open.spotify.com/album/2njYFk7yB34LFH0mdEJKG6"
+      },
+      "artists": [
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 246244,
+      "name": "Where The Power Is",
+      "url": "https://open.spotify.com/track/6j9qZn2PyyrneCk0gxhXeR"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Faithful Still (Live)",
+        "url": "https://open.spotify.com/album/7HA8l0P9GWqfDU52Bii5hy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 293628,
+      "name": "Faithful Still - Live",
+      "url": "https://open.spotify.com/track/1lKTNUloG8NivfCVzqyMKG"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Thank You For The Cross",
+        "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 270994,
+      "name": "Thank You For The Cross",
+      "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Search",
+        "url": "https://open.spotify.com/album/2NdBtQt8GMhmy4oAaA9l2q"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Search",
+      "url": "https://open.spotify.com/track/52FR4RlJITeumzNTh1BRA0"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Praise Be",
+        "url": "https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV"
+      },
+      "artists": [
+        {
+          "name": "Simply Worship",
+          "url": "https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM"
+        },
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 251298,
+      "name": "Praise Be",
+      "url": "https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4U3K4V4XWLXE5AuTNdywmD"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/58MMGOrJnmgqqLlAL8PG96"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Goodness of God (Acapella)",
+        "url": "https://open.spotify.com/album/5iKCGvqzdPm9ivOFhTeUs1"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 135952,
+      "name": "Goodness of God (Acapella)",
+      "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "As For Me And My House",
+        "url": "https://open.spotify.com/album/2ZTI4YFIoKGoWPHcTLGBoT"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        },
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 215074,
+      "name": "As For Me And My House",
+      "url": "https://open.spotify.com/track/7h5gGePVD30yqhh7WIu3lC"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Whiter Than Snow",
+        "url": "https://open.spotify.com/album/2WpDT1UYcOSxiJwUWrvwDd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "duration_ms": 204424,
+      "name": "Whiter Than Snow",
+      "url": "https://open.spotify.com/track/29LsFj8wqhsD6wHsGqN1ik"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Clean Heart",
+        "url": "https://open.spotify.com/album/1N9mn75d2RWisjhJ7qzIcM"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 314427,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/5qwztsDLBLKRqcd3pgWeGb"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Freedom chant (Live)",
+        "url": "https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        },
+        {
+          "name": "Chinedu Ndubueze",
+          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
+        }
+      ],
+      "duration_ms": 397878,
+      "name": "Freedom chant - Live",
+      "url": "https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "Chapel Sessions (Vol. 1)",
         "url": "https://open.spotify.com/album/3N9X0XqmjcwlNO3ma61Ufc"
@@ -637,535 +617,351 @@
       "url": "https://open.spotify.com/track/6XtE7xTr9ME1EMw5aqcPzu"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Outnumbered (Studio)",
-        "url": "https://open.spotify.com/album/71IeWeul1I35DFWZhoJMUb"
+        "name": "Like The World Has Never Seen (Live)",
+        "url": "https://open.spotify.com/album/5Vg2Ka4cp6RUDRVH36xQTP"
       },
       "artists": [
         {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
         },
         {
-          "name": "Jenna Barrientes",
-          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
+          "name": "Elevation Youth",
+          "url": "https://open.spotify.com/artist/2lmkAeBbKuATAqV9Zq81j4"
+        }
+      ],
+      "duration_ms": 290765,
+      "name": "He Is The Lord - Live",
+      "url": "https://open.spotify.com/track/22bdqLLV9WHFRAr0zUQZAY"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "I Know That I Know (Live)",
+        "url": "https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Jonsal Barrientes",
-          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Outnumbered - Studio",
-      "url": "https://open.spotify.com/track/0yyXIW5994kdLcDu8fx9uV"
+      "duration_ms": 313708,
+      "name": "I Know That I Know - Live",
+      "url": "https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Freedom chant (Live)",
-        "url": "https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm"
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/1YiNjTUCWiLHxJaXVf5NKT"
       },
       "artists": [
         {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
         },
         {
-          "name": "Chinedu Ndubueze",
-          "url": "https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr"
+          "name": "Karly McMillan",
+          "url": "https://open.spotify.com/artist/3kc3Ckw9fucf93r2uwIPql"
         }
       ],
-      "duration_ms": 397878,
-      "name": "Freedom chant - Live",
-      "url": "https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG"
+      "duration_ms": 316388,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/5iisV7FJi4ovShaB8rUGKO"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "If it wasn't for Jesus (from the studio)",
-        "url": "https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo"
+        "name": "King On The Throne (Live)",
+        "url": "https://open.spotify.com/album/6UXRmfkCJmy75aLrvoY0XE"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 242343,
-      "name": "If it wasn't for Jesus - from the studio",
-      "url": "https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Hijos Live (Deluxe Version) [Live From San Juan PR]",
-        "url": "https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 513466,
-      "name": "Yahweh Will Manifest - Live From San Juan PR",
-      "url": "https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Even At My Worst (You Love Me) (feat. Vanessa Marquez)",
-        "url": "https://open.spotify.com/album/42PXDpkzPDENI5liaSgfVy"
-      },
-      "artists": [
-        {
-          "name": "Harvest Worship",
-          "url": "https://open.spotify.com/artist/5PdCcthDCLVddaLPWVKSPU"
+          "name": "Covenant Worship",
+          "url": "https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj"
         },
         {
-          "name": "Vanessa Marquez",
-          "url": "https://open.spotify.com/artist/1sHeeklNkT43hN0gcuunOB"
-        }
-      ],
-      "duration_ms": 305466,
-      "name": "Even At My Worst (You Love Me) (feat. Vanessa Marquez)",
-      "url": "https://open.spotify.com/track/6YLeYYpBzcWBbqPwHqItkg"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Nikki Moltz",
+          "url": "https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz"
         }
       ],
-      "duration_ms": 420019,
-      "name": "The Church - Live",
-      "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
+      "duration_ms": 395655,
+      "name": "King On The Throne - Live",
+      "url": "https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "The Wonderful Blood",
-        "url": "https://open.spotify.com/album/0XkK1kWVV9xRVWgcCB1cIB"
+        "name": "Be Enthroned",
+        "url": "https://open.spotify.com/album/4SQ6Rf3Zw0jh2fnokm4wFt"
       },
       "artists": [
         {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 525389,
-      "name": "The Wonderful Blood",
-      "url": "https://open.spotify.com/track/4o5NDuOZEosSywp6kiWZ4D"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Sing Together - Now Until Forever",
-        "url": "https://open.spotify.com/album/1MzrXaD9qJxOl9j6lpOXHH"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
         },
         {
-          "name": "Kyle Howard",
-          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 585070,
+      "name": "Be Enthroned",
+      "url": "https://open.spotify.com/track/5ts3OOaqhinmz867jVm95J"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Bridegroom King (Live)",
+        "url": "https://open.spotify.com/album/7j8aBCs8BBO6QuFAqQufYF"
+      },
+      "artists": [
+        {
+          "name": "RIVERS",
+          "url": "https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW"
         },
         {
-          "name": "Kyrie Varieur",
-          "url": "https://open.spotify.com/artist/1t2fAzXPJXcejQmDD7pgEq"
-        }
-      ],
-      "duration_ms": 367914,
-      "name": "Now Until Forever",
-      "url": "https://open.spotify.com/track/3EA4msZn5hJ0RTpUsRBRTl"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Jonathan Lee McElhenny",
-        "url": "https://open.spotify.com/album/4yBWpV3WfeTT70zQlidoga"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Lee McElhenny",
-          "url": "https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2"
+          "name": "Katie Rios",
+          "url": "https://open.spotify.com/artist/0hLRTUumZ11OLGBqL2PP3R"
         },
         {
-          "name": "People & Songs",
-          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+          "name": "Julio Rivera",
+          "url": "https://open.spotify.com/artist/6m38uee2lyf3lIemkao0ax"
         }
       ],
-      "duration_ms": 204706,
-      "name": "All My Hope",
-      "url": "https://open.spotify.com/track/1qRi3izUu1fs4uJSF9QBhs"
+      "duration_ms": 376083,
+      "name": "Bridegroom King - Live",
+      "url": "https://open.spotify.com/track/37lXuRjzld7Wo4fuhfliq1"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "That's Why I Rejoice (feat. Dwan Hill) (Live)",
-        "url": "https://open.spotify.com/album/7GDi2nH5pBvJOxHdctMQ28"
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
       },
       "artists": [
         {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "That's Why I Rejoice (feat. Dwan Hill) - Live",
-      "url": "https://open.spotify.com/track/5I4JW7A5bN21ULJKjMIDzB"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/2YZPVcjs8ViSJu10fTs3UL"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 241544,
-      "name": "Yield",
-      "url": "https://open.spotify.com/track/4W7PAKB9E09thAedKXcPyd"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Revival Generation",
-        "url": "https://open.spotify.com/album/0YkqZZgySScdHHzEOXdR5m"
-      },
-      "artists": [
-        {
-          "name": "Gather Worship",
-          "url": "https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         },
         {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 316843,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "City On A Hill",
+        "url": "https://open.spotify.com/album/4obZ6Ei6fTlGAwQWcQbXhl"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 378518,
+      "name": "City On A Hill",
+      "url": "https://open.spotify.com/track/6vfNrWcbC5OB8ExG8eRXPY"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "New Thing",
+        "url": "https://open.spotify.com/album/7Jj9nUtQ0kY0ya0rh2hpYN"
+      },
+      "artists": [
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 242189,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/2p4jg0QWNpIyXK0xJHviro"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Covered By The Blood (Live)",
+        "url": "https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
         },
-        {
-          "name": "Josh Aaron",
-          "url": "https://open.spotify.com/artist/0OUhJ3j9QAcwF8ntqJ6bZG"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "REVIVAL GENERATION",
-      "url": "https://open.spotify.com/track/1evlqx86VEjtiY2EaHk5jE"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Beyond Us (Deluxe)",
-        "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
-      },
-      "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Hallelujah (If Not For Your Love)",
-      "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "New Heights",
-        "url": "https://open.spotify.com/album/4OgRaG9mZ6OVbsEUCowY22"
-      },
-      "artists": [
-        {
-          "name": "ICF Worship",
-          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
-        },
-        {
-          "name": "Dave Kull",
-          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
-        }
-      ],
-      "duration_ms": 368181,
-      "name": "New Heights",
-      "url": "https://open.spotify.com/track/36pCwBEbkovlmJnB8psrNP"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Lord, Come Quickly (Live)",
-        "url": "https://open.spotify.com/album/66eIEVMBOQpTCAqBSedqhF"
-      },
-      "artists": [
-        {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        }
-      ],
-      "duration_ms": 298597,
-      "name": "Lord, Come Quickly - Live",
-      "url": "https://open.spotify.com/track/6adOkD6WioYuOGu8qoavNg"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Yahweh Holy (Church Version)",
-        "url": "https://open.spotify.com/album/6J1M9NzFnelE6HM4cdKYyq"
-      },
-      "artists": [
-        {
-          "name": "Homecoming",
-          "url": "https://open.spotify.com/artist/3j75QaSe0OJNGFMY6J0CfX"
-        },
-        {
-          "name": "May Angeles",
-          "url": "https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh"
-        },
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 311001,
-      "name": "Yahweh Holy - Church Version",
-      "url": "https://open.spotify.com/track/4Wmh6RbHEhx2q7VjMPP5q7"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Wedding of the Lamb",
-        "url": "https://open.spotify.com/album/7LXReoZqUPtuIOUFKZaNjF"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        },
-        {
-          "name": "Holly Halliwell",
-          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
-        }
-      ],
-      "duration_ms": 296104,
-      "name": "Wedding of the Lamb",
-      "url": "https://open.spotify.com/track/21fEcu9jRL7Zv4rmGdYZ05"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Clean Heart",
-        "url": "https://open.spotify.com/album/1N9mn75d2RWisjhJ7qzIcM"
-      },
-      "artists": [
         {
           "name": "Bryan & Katie Torwalt",
           "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 314427,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/5qwztsDLBLKRqcd3pgWeGb"
+      "duration_ms": 432793,
+      "name": "Covered By The Blood - Live",
+      "url": "https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "A Million Times (Live)",
-        "url": "https://open.spotify.com/album/1DMZC9U1KttFQTTvQ6aeRz"
+        "name": "Rise My Soul (Live)",
+        "url": "https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
         }
       ],
-      "duration_ms": 302628,
-      "name": "A Million Times - Live",
-      "url": "https://open.spotify.com/track/4WYPM8WwzHFUXSPYjLNLEF"
+      "duration_ms": 309999,
+      "name": "The Battle And The Blessing - Live",
+      "url": "https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "SURVEY: Part 2, Live at St. John at Hackney",
-        "url": "https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD"
+        "name": "He's My God",
+        "url": "https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        },
+        {
+          "name": "Joy Wharton",
+          "url": "https://open.spotify.com/artist/5IJlUFsS8bZ8fTzHyB2SCd"
+        },
+        {
+          "name": "Aaron Baxter",
+          "url": "https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9"
         }
       ],
-      "duration_ms": 394323,
-      "name": "SURVEY - Live",
-      "url": "https://open.spotify.com/track/4UmhmRdXbw6orHXWocpPQH"
+      "duration_ms": 325000,
+      "name": "He's My God",
+      "url": "https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Doorkeeper",
-        "url": "https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN"
+        "name": "Anything Can Happen (Live)",
+        "url": "https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz"
       },
       "artists": [
         {
-          "name": "CXMMXNS",
-          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
         },
         {
-          "name": "Kory Miller",
-          "url": "https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h"
-        },
-        {
-          "name": "Ben Fielding",
-          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
+          "name": "Mayra Alvarez",
+          "url": "https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg"
         }
       ],
-      "duration_ms": 368285,
-      "name": "Doorkeeper",
-      "url": "https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP"
+      "duration_ms": 241571,
+      "name": "Anything Can Happen - Live",
+      "url": "https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Desirable",
-        "url": "https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb"
+        "name": "You Won't Take Your Love",
+        "url": "https://open.spotify.com/album/7GhIzYJWsfR4i05KiE1lDj"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
         }
       ],
-      "duration_ms": 731465,
-      "name": "Desirable",
-      "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
+      "duration_ms": 217285,
+      "name": "You Won't Take Your Love",
+      "url": "https://open.spotify.com/track/30bKsvM1Rn6wloVbdlkNuo"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Can't Help But Praise (Live)",
-        "url": "https://open.spotify.com/album/5ee1yzrCU71q3nzkGgxhqk"
+        "name": "Left The 99",
+        "url": "https://open.spotify.com/album/6rKDEHitz7eDdN9FnNAlL5"
       },
       "artists": [
         {
-          "name": "Jordan Colle",
-          "url": "https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1"
+          "name": "Youth Alive",
+          "url": "https://open.spotify.com/artist/657V2VJiShpC8NQYWvzcbV"
+        },
+        {
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
         }
       ],
-      "duration_ms": 266958,
-      "name": "Can't Help But Praise (Live)",
-      "url": "https://open.spotify.com/track/0fjwtWPuU8mlvuizYQDH0p"
+      "duration_ms": 222956,
+      "name": "Left The 99 - Live",
+      "url": "https://open.spotify.com/track/2oCPPRKYpfJ5OIQfaRqB1c"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Give It Back (Live)",
-        "url": "https://open.spotify.com/album/5DdZGxbxVLycVkBiMCW523"
+        "name": "We Pull On Heaven",
+        "url": "https://open.spotify.com/album/7e4Ub3iqfXl59eoqGQAAaE"
       },
       "artists": [
         {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Jonathan Stamper",
+          "url": "https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 268525,
-      "name": "Give It Back - Live",
-      "url": "https://open.spotify.com/track/4hwJuB52ViJ3GlujFIjk6V"
+      "duration_ms": 467125,
+      "name": "We Pull On Heaven",
+      "url": "https://open.spotify.com/track/3mrqldfyhQndPOFaHDcooW"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Jesus Name Above All Names",
-        "url": "https://open.spotify.com/album/1AorYGtFrnqrtLaFIs9BJ5"
+        "name": "Worship Works (Live)",
+        "url": "https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE"
       },
       "artists": [
         {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         },
         {
-          "name": "Tom Eccleshall",
-          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+          "name": "Ryan Horton",
+          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Jesus Name Above All Names",
-      "url": "https://open.spotify.com/track/79tuKYXjZlM1G1b7nnHV1F"
+      "duration_ms": 334597,
+      "name": "Worship Works - Live From VOUSCon",
+      "url": "https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Jordan Merritt: Part II",
-        "url": "https://open.spotify.com/album/0dA4bGw9cIoeE9yB4MnBK1"
-      },
-      "artists": [
-        {
-          "name": "Jordan Merritt",
-          "url": "https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE"
-        },
-        {
-          "name": "People & Songs",
-          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
-        },
-        {
-          "name": "Rachel Tuttle",
-          "url": "https://open.spotify.com/artist/2SvhGL7DHqoq2IIYsjybiD"
-        }
-      ],
-      "duration_ms": 302200,
-      "name": "The Response (Holy) [feat. Rachel Tuttle]",
-      "url": "https://open.spotify.com/track/3fOF9h5UdQl26aMDr2Hq8k"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Dream (Live)",
-        "url": "https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Joel Figueroa",
-          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "duration_ms": 581280,
-      "name": "Dream - Live",
-      "url": "https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "Where Can I Go That My Maker Won't Be?",
         "url": "https://open.spotify.com/album/7wotx4RjfDYMsn2dgrjAHs"
@@ -1193,147 +989,411 @@
       "url": "https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/3tZysyEG3wYqjmoODi9RvD"
+        "name": "Dream (Live)",
+        "url": "https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q"
       },
       "artists": [
         {
-          "name": "ZOE Worship",
-          "url": "https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
         }
       ],
-      "duration_ms": 278583,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5zYo398KMawCo7KhQjBGSr"
+      "duration_ms": 581280,
+      "name": "Dream - Live",
+      "url": "https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Worship Works (Live)",
-        "url": "https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE"
+        "name": "Can't Help But Praise (Live)",
+        "url": "https://open.spotify.com/album/5ee1yzrCU71q3nzkGgxhqk"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
-          "name": "Ryan Horton",
-          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
+          "name": "Jordan Colle",
+          "url": "https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1"
         }
       ],
-      "duration_ms": 334597,
-      "name": "Worship Works - Live From VOUSCon",
-      "url": "https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5"
+      "duration_ms": 266958,
+      "name": "Can't Help But Praise (Live)",
+      "url": "https://open.spotify.com/track/0fjwtWPuU8mlvuizYQDH0p"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Whiter Than Snow",
-        "url": "https://open.spotify.com/album/2WpDT1UYcOSxiJwUWrvwDd"
+        "name": "SURVEY: Part 2, Live at St. John at Hackney",
+        "url": "https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD"
       },
       "artists": [
         {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        },
-        {
-          "name": "Haddon",
-          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 204424,
-      "name": "Whiter Than Snow",
-      "url": "https://open.spotify.com/track/29LsFj8wqhsD6wHsGqN1ik"
+      "duration_ms": 394323,
+      "name": "SURVEY - Live",
+      "url": "https://open.spotify.com/track/4UmhmRdXbw6orHXWocpPQH"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "As For Me And My House",
-        "url": "https://open.spotify.com/album/2ZTI4YFIoKGoWPHcTLGBoT"
+        "name": "A Million Times (Live)",
+        "url": "https://open.spotify.com/album/1DMZC9U1KttFQTTvQ6aeRz"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
         },
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 215074,
-      "name": "As For Me And My House",
-      "url": "https://open.spotify.com/track/7h5gGePVD30yqhh7WIu3lC"
+      "duration_ms": 302628,
+      "name": "A Million Times - Live",
+      "url": "https://open.spotify.com/track/4WYPM8WwzHFUXSPYjLNLEF"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Resurrection Hope",
-        "url": "https://open.spotify.com/album/7szb9DEznbGDMucgrWqAR1"
+        "name": "Wedding of the Lamb",
+        "url": "https://open.spotify.com/album/7LXReoZqUPtuIOUFKZaNjF"
       },
       "artists": [
         {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        },
+        {
+          "name": "Holly Halliwell",
+          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
         }
       ],
-      "duration_ms": 279993,
-      "name": "Resurrection Hope",
-      "url": "https://open.spotify.com/track/5QLPTodrdkH8sqn78ajTEp"
+      "duration_ms": 296104,
+      "name": "Wedding of the Lamb",
+      "url": "https://open.spotify.com/track/21fEcu9jRL7Zv4rmGdYZ05"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "We Pull On Heaven",
-        "url": "https://open.spotify.com/album/7e4Ub3iqfXl59eoqGQAAaE"
+        "name": "Lord, Come Quickly (Live)",
+        "url": "https://open.spotify.com/album/66eIEVMBOQpTCAqBSedqhF"
       },
       "artists": [
         {
-          "name": "Red Worship",
-          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
-        },
-        {
-          "name": "Jonathan Stamper",
-          "url": "https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
         }
       ],
-      "duration_ms": 467125,
-      "name": "We Pull On Heaven",
-      "url": "https://open.spotify.com/track/3mrqldfyhQndPOFaHDcooW"
+      "duration_ms": 298597,
+      "name": "Lord, Come Quickly - Live",
+      "url": "https://open.spotify.com/track/6adOkD6WioYuOGu8qoavNg"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Take Us Home",
-        "url": "https://open.spotify.com/album/1qpqeE6bBcjhBRHYRXnUxX"
+        "name": "Beyond Us (Deluxe)",
+        "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
       },
       "artists": [
         {
-          "name": "James Wilson",
-          "url": "https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk"
-        },
-        {
-          "name": "Glory MSC",
-          "url": "https://open.spotify.com/artist/32khG4YnpYkgZ8u4J4pYKJ"
-        },
-        {
-          "name": "Jaaken Jackson",
-          "url": "https://open.spotify.com/artist/60FPY9V3PfnqjCJKTwmqne"
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 386478,
-      "name": "Take Us Home",
-      "url": "https://open.spotify.com/track/2bSrqWLBpPbQvXxw1QLF3b"
+      "duration_ms": 191600,
+      "name": "Hallelujah (If Not For Your Love)",
+      "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Sing Together - Now Until Forever",
+        "url": "https://open.spotify.com/album/1MzrXaD9qJxOl9j6lpOXHH"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Kyle Howard",
+          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
+        },
+        {
+          "name": "Kyrie Varieur",
+          "url": "https://open.spotify.com/artist/1t2fAzXPJXcejQmDD7pgEq"
+        }
+      ],
+      "duration_ms": 367914,
+      "name": "Now Until Forever",
+      "url": "https://open.spotify.com/track/3EA4msZn5hJ0RTpUsRBRTl"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 420019,
+      "name": "The Church - Live",
+      "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "If it wasn't for Jesus (from the studio)",
+        "url": "https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 242343,
+      "name": "If it wasn't for Jesus - from the studio",
+      "url": "https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Outnumbered (Studio)",
+        "url": "https://open.spotify.com/album/71IeWeul1I35DFWZhoJMUb"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Jenna Barrientes",
+          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Outnumbered - Studio",
+      "url": "https://open.spotify.com/track/0yyXIW5994kdLcDu8fx9uV"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Just Jesus (Live)",
+        "url": "https://open.spotify.com/album/5ldsXczfVph2WSGWkWueMJ"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Seacoast",
+          "url": "https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv"
+        }
+      ],
+      "duration_ms": 332506,
+      "name": "Just Jesus (Live)",
+      "url": "https://open.spotify.com/track/5Efo5tCdMX80zvxuJSwiY2"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Slower I Go (Studio)",
+        "url": "https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Slower I Go - Studio",
+      "url": "https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Blessing Me (Acoustic version)",
+        "url": "https://open.spotify.com/album/1J3b5ZJ51nzqVhqHjUedLC"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Blessing Me - Acoustic version",
+      "url": "https://open.spotify.com/track/1rBmwlXdV67N7Qqc2Ie4pJ"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "World Of Wonder",
+        "url": "https://open.spotify.com/album/67Y8B8uv1UTJaZp64LuAWQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
+        }
+      ],
+      "duration_ms": 293270,
+      "name": "World Of Wonder - Live",
+      "url": "https://open.spotify.com/track/5lXhBRhkmdmE7CwnjDJA1S"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/2x5OoUZs9OaT6aKxQMAFNQ"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "duration_ms": 240210,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Jesus Forever",
+        "url": "https://open.spotify.com/album/6vV9EKzlokLdGkIqv8nX42"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 425302,
+      "name": "Jesus Forever",
+      "url": "https://open.spotify.com/track/2JZFsgScNn2SBFxRaVhdQ0"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/3TCtS0bhpoxH4ZXsFqjN5b"
+      },
+      "artists": [
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+        }
+      ],
+      "duration_ms": 354560,
+      "name": "Royal Blood",
+      "url": "https://open.spotify.com/track/6U6olBmQGSG6RZD1AN6SkR"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Son of Man (Live)",
+        "url": "https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "duration_ms": 545750,
+      "name": "Son of Man - Live",
+      "url": "https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Not Going Anywhere",
+        "url": "https://open.spotify.com/album/7BLdYH5E5IHH0Kxknemsj4"
+      },
+      "artists": [
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "duration_ms": 326153,
+      "name": "Not Going Anywhere",
+      "url": "https://open.spotify.com/track/1e3nBaX2ixFCBxNjozOVqR"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 220376,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2mttMnvIhccSExY7qsC2Fg"
@@ -1357,272 +1417,200 @@
       "url": "https://open.spotify.com/track/5egr0YZazg7e17gCxFsVbA"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Keep Me",
-        "url": "https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5"
+        "name": "Take Us Home",
+        "url": "https://open.spotify.com/album/1qpqeE6bBcjhBRHYRXnUxX"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 220376,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Goodness of God (Acapella)",
-        "url": "https://open.spotify.com/album/5iKCGvqzdPm9ivOFhTeUs1"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 135952,
-      "name": "Goodness of God (Acapella)",
-      "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Left The 99",
-        "url": "https://open.spotify.com/album/6rKDEHitz7eDdN9FnNAlL5"
-      },
-      "artists": [
-        {
-          "name": "Youth Alive",
-          "url": "https://open.spotify.com/artist/657V2VJiShpC8NQYWvzcbV"
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk"
         },
         {
-          "name": "Ethan Beer",
-          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "Left The 99 - Live",
-      "url": "https://open.spotify.com/track/2oCPPRKYpfJ5OIQfaRqB1c"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/5JGAg34L5cYJO4NyHLnpj1"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+          "name": "Glory MSC",
+          "url": "https://open.spotify.com/artist/32khG4YnpYkgZ8u4J4pYKJ"
         },
         {
-          "name": "Sadie Robertson Huff",
-          "url": "https://open.spotify.com/artist/0nUAd06FDt2FuANL4m8LtI"
+          "name": "Jaaken Jackson",
+          "url": "https://open.spotify.com/artist/60FPY9V3PfnqjCJKTwmqne"
+        }
+      ],
+      "duration_ms": 386478,
+      "name": "Take Us Home",
+      "url": "https://open.spotify.com/track/2bSrqWLBpPbQvXxw1QLF3b"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Resurrection Hope",
+        "url": "https://open.spotify.com/album/7szb9DEznbGDMucgrWqAR1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279993,
+      "name": "Resurrection Hope",
+      "url": "https://open.spotify.com/track/5QLPTodrdkH8sqn78ajTEp"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/3tZysyEG3wYqjmoODi9RvD"
+      },
+      "artists": [
+        {
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo"
+        }
+      ],
+      "duration_ms": 278583,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5zYo398KMawCo7KhQjBGSr"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "Jesus Name Above All Names",
+        "url": "https://open.spotify.com/album/1AorYGtFrnqrtLaFIs9BJ5"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
         },
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Tom Eccleshall",
+          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
         }
       ],
-      "duration_ms": 305509,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4MwrKy2fv48CkqbHvmddbb"
+      "duration_ms": 252000,
+      "name": "Jesus Name Above All Names",
+      "url": "https://open.spotify.com/track/79tuKYXjZlM1G1b7nnHV1F"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Not Going Anywhere",
-        "url": "https://open.spotify.com/album/7BLdYH5E5IHH0Kxknemsj4"
+        "name": "Give It Back (Live)",
+        "url": "https://open.spotify.com/album/5DdZGxbxVLycVkBiMCW523"
       },
       "artists": [
         {
-          "name": "Michael Monroe",
-          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 326153,
-      "name": "Not Going Anywhere",
-      "url": "https://open.spotify.com/track/1e3nBaX2ixFCBxNjozOVqR"
+      "duration_ms": 268525,
+      "name": "Give It Back - Live",
+      "url": "https://open.spotify.com/track/4hwJuB52ViJ3GlujFIjk6V"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Anything Can Happen (Live)",
-        "url": "https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz"
+        "name": "Desirable",
+        "url": "https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb"
       },
       "artists": [
         {
-          "name": "Ke'Erron",
-          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         },
         {
-          "name": "Mayra Alvarez",
-          "url": "https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg"
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
         }
       ],
-      "duration_ms": 241571,
-      "name": "Anything Can Happen - Live",
-      "url": "https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9"
+      "duration_ms": 731465,
+      "name": "Desirable",
+      "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Son of Man (Live)",
-        "url": "https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ"
+        "name": "Doorkeeper",
+        "url": "https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "CXMMXNS",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
         },
         {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 545750,
-      "name": "Son of Man - Live",
-      "url": "https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "He's My God",
-        "url": "https://open.spotify.com/album/5ye1ToBlXkXdhinRVKDQG4"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+          "name": "Kory Miller",
+          "url": "https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h"
         },
         {
-          "name": "Joy Wharton",
-          "url": "https://open.spotify.com/artist/5IJlUFsS8bZ8fTzHyB2SCd"
+          "name": "Ben Fielding",
+          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
+        }
+      ],
+      "duration_ms": 368285,
+      "name": "Doorkeeper",
+      "url": "https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP"
+    },
+    {
+      "added_at": "2025-02-22 06:17:21",
+      "album": {
+        "name": "New Heights",
+        "url": "https://open.spotify.com/album/4OgRaG9mZ6OVbsEUCowY22"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
         },
         {
-          "name": "Aaron Baxter",
-          "url": "https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9"
+          "name": "Dave Kull",
+          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
         }
       ],
-      "duration_ms": 325000,
-      "name": "He's My God",
-      "url": "https://open.spotify.com/track/0jzssFel0Sr4RZ77QatDgp"
+      "duration_ms": 368181,
+      "name": "New Heights",
+      "url": "https://open.spotify.com/track/36pCwBEbkovlmJnB8psrNP"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/3TCtS0bhpoxH4ZXsFqjN5b"
+        "name": "That's Why I Rejoice (feat. Dwan Hill) (Live)",
+        "url": "https://open.spotify.com/album/7GDi2nH5pBvJOxHdctMQ28"
       },
       "artists": [
         {
-          "name": "Meredith Mauldin",
-          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Royal Blood",
-      "url": "https://open.spotify.com/track/6U6olBmQGSG6RZD1AN6SkR"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Rise My Soul (Live)",
-        "url": "https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 309999,
-      "name": "The Battle And The Blessing - Live",
-      "url": "https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Family Nights, Vol. 2: Day For Singing (Live)",
-        "url": "https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
         },
         {
-          "name": "Abby Siler",
-          "url": "https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG"
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
         }
       ],
-      "duration_ms": 361500,
-      "name": "There Is Only One Name - Live",
-      "url": "https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB"
+      "duration_ms": 236120,
+      "name": "That's Why I Rejoice (feat. Dwan Hill) - Live",
+      "url": "https://open.spotify.com/track/5I4JW7A5bN21ULJKjMIDzB"
     },
     {
-      "added_at": "2025-02-07 08:19:50",
+      "added_at": "2025-02-22 06:17:21",
       "album": {
-        "name": "Fear Not (Never Stop Praying) [Live]",
-        "url": "https://open.spotify.com/album/3dv0A0jjeJSb5zsxKT1TdA"
+        "name": "Jonathan Lee McElhenny",
+        "url": "https://open.spotify.com/album/4yBWpV3WfeTT70zQlidoga"
       },
       "artists": [
         {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+          "name": "Jonathan Lee McElhenny",
+          "url": "https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2"
         },
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Kyle McHargh",
-          "url": "https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3"
+          "name": "People & Songs",
+          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
         }
       ],
-      "duration_ms": 465257,
-      "name": "Fear Not (Never Stop Praying) - Live",
-      "url": "https://open.spotify.com/track/2vxgT6nsitXF5J0mDXp2Ij"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "Covered By The Blood (Live)",
-        "url": "https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 432793,
-      "name": "Covered By The Blood - Live",
-      "url": "https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN"
-    },
-    {
-      "added_at": "2025-02-07 08:19:50",
-      "album": {
-        "name": "New Thing",
-        "url": "https://open.spotify.com/album/7Jj9nUtQ0kY0ya0rh2hpYN"
-      },
-      "artists": [
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 242189,
-      "name": "New Thing",
-      "url": "https://open.spotify.com/track/2p4jg0QWNpIyXK0xJHviro"
+      "duration_ms": 204706,
+      "name": "All My Hope",
+      "url": "https://open.spotify.com/track/1qRi3izUu1fs4uJSF9QBhs"
     }
   ],
   "unique_name": "Worship Rising",

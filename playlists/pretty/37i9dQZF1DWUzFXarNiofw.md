@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Coco Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,902 likes - 200 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,082 likes - 200 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 11 | [Would You](https://open.spotify.com/track/7mWvEVLWW3VbEZHr9DOanz) | [Tiffany Evans](https://open.spotify.com/artist/3CoW2DhcuWKs93YEjEY5Eq) | [Would You](https://open.spotify.com/album/76qjd1OUHtqZnpJlTb2KVB) | 3:15 |
 | 12 | [La La La La La](https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:07 |
 | 13 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
-| 14 | [Reckless Soul \- Alt Version](https://open.spotify.com/track/6kB19XpWz11PnnNt6lx0Ji) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear \(+3\)](https://open.spotify.com/album/2CCsvg0zZDaeXJsq6alu4P) | 3:33 |
+| 14 | [Reckless Soul \- alt version](https://open.spotify.com/track/6kB19XpWz11PnnNt6lx0Ji) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear \(+3\)](https://open.spotify.com/album/2CCsvg0zZDaeXJsq6alu4P) | 3:33 |
 | 15 | [28 Degrees In Houston](https://open.spotify.com/track/6xNwB1O15nesj41anI1Fsb) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [28 Degrees In Houston](https://open.spotify.com/album/0dcBSXtSrfznbZrqrsydUM) | 2:18 |
 | 16 | [Tell Me Why](https://open.spotify.com/track/2yaU4uPcMvf0l3GjeoJP9A) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [Tell Me Why](https://open.spotify.com/album/4eC6kO9VfMEZHm0PgAiUR0) | 2:04 |
 | 17 | [Peace In The Dark](https://open.spotify.com/track/0M19QAbec6PjqSgxGnthqH) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Social Commentary](https://open.spotify.com/album/4CDA6a2Q1kUSSOlEXcX0nW) | 4:45 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 199 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 200 | [FALLING \(IN PLACE\)](https://open.spotify.com/track/0tCd1wfXWkZsWB8mRop3B2) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [IT MUST BE LOVE](https://open.spotify.com/album/3JOGpP6VA7wEPiWcsDKEss) | 2:11 |
 
-Snapshot ID: `Z7gIfAAAAAAkB+tRx3L9e+yGctOsFqeL`
+Snapshot ID: `Z7gIfAAAAABDIugSh1XbZMoasVPnaiCZ`

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 591586,
+  "num_followers": 591656,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+        "name": "krypt. vol2",
+        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
       "artists": [
         {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+      "duration_ms": 208570,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -335,18 +331,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "krypt. vol2",
-        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
       "artists": [
         {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 208570,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
+      "duration_ms": 204820,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -395,18 +391,22 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 204820,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "u can get it",
         "url": "https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 174545,
       "name": "u can get it",
       "url": "https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
         "name": "If You Need Me",
         "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+        "name": "Cortados (Edit)",
+        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
       },
       "artists": [
         {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
         }
       ],
-      "duration_ms": 219810,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
+      "duration_ms": 165000,
+      "name": "Our Way - Edit",
+      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1075,38 +1091,22 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Cortados (Edit)",
-        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
+        "name": "Fighting Love",
+        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Our Way - Edit",
-      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         },
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Mark Dedross",
+          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
         }
       ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+      "duration_ms": 188640,
+      "name": "Fighting Love",
+      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1127,6 +1127,26 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1155,26 +1175,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
-        "name": "Fighting Love",
-        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Mark Dedross",
-          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Fighting Love",
-      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1271,18 +1251,22 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
         }
       ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1323,6 +1307,38 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 281780,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 281780,
-      "name": "Vesuvio",
-      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -1599,6 +1599,30 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
@@ -1711,6 +1735,26 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -1731,26 +1775,6 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -2139,22 +2163,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "Ol\u00e9 Maca",
         "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
       },
@@ -2167,6 +2175,22 @@
       "duration_ms": 279036,
       "name": "Letras",
       "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
+    },
+    {
+      "added_at": "2025-02-21 17:27:31",
+      "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -2235,18 +2259,22 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
+        "name": "Bounce In Peace",
+        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
       },
       "artists": [
         {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Fawna",
+          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
         }
       ],
-      "duration_ms": 189193,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
+      "duration_ms": 218454,
+      "name": "More Than It Seems",
+      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -2271,22 +2299,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Bounce In Peace",
-        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
-        },
-        {
-          "name": "Fawna",
-          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 218454,
-      "name": "More Than It Seems",
-      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
+      "duration_ms": 219933,
+      "name": "Please - Single Edit",
+      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -2307,18 +2331,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Please - Single Edit",
-      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+      "duration_ms": 189193,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
     },
     {
       "added_at": "2025-02-21 17:27:31",
@@ -2367,22 +2391,6 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "Oh I",
-        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 237289,
-      "name": "Oh I",
-      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
-    },
-    {
-      "added_at": "2025-02-21 17:27:31",
-      "album": {
         "name": "Look How Far We've Come",
         "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
       },
@@ -2399,18 +2407,18 @@
     {
       "added_at": "2025-02-21 17:27:31",
       "album": {
-        "name": "My General",
-        "url": "https://open.spotify.com/album/2Ct37AYoKgP9tcjHLsdK33"
+        "name": "Oh I",
+        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
       },
       "artists": [
         {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
-      "duration_ms": 228118,
-      "name": "My General",
-      "url": "https://open.spotify.com/track/705T4qya7JTqU47oJaipeZ"
+      "duration_ms": 237289,
+      "name": "Oh I",
+      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
     }
   ],
   "unique_name": "Poolside Disco",

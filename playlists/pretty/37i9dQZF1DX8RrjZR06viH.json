@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f\n",
-  "num_followers": 92361,
+  "num_followers": 92355,
   "original_name": "V\u00e5rstemning",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 264731,
       "name": "Sover du",
       "url": "https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -275,30 +275,18 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Piya Piya Calling (feat. The Quick Style)",
-        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+        "name": "Mona Lisa, Mona Lisa",
+        "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
       "artists": [
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        },
-        {
-          "name": "Kaifi Khalil",
-          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
-        },
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        },
-        {
-          "name": "The Quick Style",
-          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 286122,
-      "name": "Piya Piya Calling (feat. The Quick Style)",
-      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
+      "duration_ms": 172111,
+      "name": "Mona Lisa, Mona Lisa",
+      "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -323,18 +311,30 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Mona Lisa, Mona Lisa",
-        "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
+        "name": "Piya Piya Calling (feat. The Quick Style)",
+        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
         }
       ],
-      "duration_ms": 172111,
-      "name": "Mona Lisa, Mona Lisa",
-      "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+      "duration_ms": 286122,
+      "name": "Piya Piya Calling (feat. The Quick Style)",
+      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -443,6 +443,26 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
+        "name": "Spor i sn\u00f8",
+        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Spor i sn\u00f8",
+      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
         "name": "Trenger deg n\u00e5",
         "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
       },
@@ -459,22 +479,6 @@
       "duration_ms": 166474,
       "name": "Trenger deg n\u00e5",
       "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
-        "name": "Ta med deg d\u00f8ra",
-        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 211810,
-      "name": "Ta med deg d\u00f8ra",
-      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -499,22 +503,18 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Spor i sn\u00f8",
-        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
+        "name": "Ta med deg d\u00f8ra",
+        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
       "artists": [
         {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
         }
       ],
-      "duration_ms": 230680,
-      "name": "Spor i sn\u00f8",
-      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
+      "duration_ms": 211810,
+      "name": "Ta med deg d\u00f8ra",
+      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -579,22 +579,6 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
-        "name": "Ole Lukk\u00f8ye",
-        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Ole Lukk\u00f8ye",
-      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -671,6 +655,22 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Ole Lukk\u00f8ye",
+        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Ole Lukk\u00f8ye",
+      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 219672,
       "name": "Hellig",
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 144706,
       "name": "HJERTET MITT ER HELT OK",
       "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "Kor e du?",
         "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 200798,
       "name": "Kor e du?",
       "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 175392,
       "name": "December (honey, honey)",
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "added_at": "2025-02-06 23:00:38",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-02-06 23:00:38",
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+    },
+    {
+      "added_at": "2025-02-06 23:00:38",
+      "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 198156,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe"
-    },
-    {
-      "added_at": "2025-02-06 23:00:38",
-      "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     }
   ],
   "unique_name": "V\u00e5rstemning",

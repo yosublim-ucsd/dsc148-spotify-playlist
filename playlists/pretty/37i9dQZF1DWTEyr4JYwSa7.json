@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 61837,
+  "num_followers": 61826,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "You Make It Feel Like Christmas",
-        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
+        "name": "Robert Charlebois",
+        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
         }
       ],
-      "duration_ms": 201586,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
+      "duration_ms": 149133,
+      "name": "Marie-No\u00ebl",
+      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Robert Charlebois",
-        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
       "artists": [
         {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 149133,
-      "name": "Marie-No\u00ebl",
-      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
+      "duration_ms": 201586,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "J'ai vu maman",
-      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Baby It\u2019s Not Christmas Without You",
         "url": "https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 167133,
       "name": "Baby It\u2019s Not Christmas Without You",
       "url": "https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "J'ai vu maman",
+      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "Joie dans le monde",
-      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "No\u00ebl brille encore",
         "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 206666,
       "name": "No\u00ebl brille encore",
       "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Joie dans le monde",
+      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
     },
     {
       "added_at": "2024-12-13 16:40:18",

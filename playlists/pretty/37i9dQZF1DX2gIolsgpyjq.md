@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ¡BangBang Watergun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,540 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,548 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 6 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
 | 7 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 | 8 | [ARI](https://open.spotify.com/track/4xZALaMQNhvses6epSwBD5) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [ARI](https://open.spotify.com/album/3c2W7IyMg1x9im3Hhz9WLo) | 2:19 |
-| 9 | [Jade \- Original Mix](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
+| 9 | [Jade](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
 | 10 | [Eaten by Worms](https://open.spotify.com/track/6BP7AAUtI2GU9wUVFBMWB6) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I), [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [Eaten by Worms](https://open.spotify.com/album/2B10ChD0Pr0MW5ljca4jIS) | 3:49 |
 | 11 | [Nora Helmer](https://open.spotify.com/track/73xF8SpOzfvJG1Spf9rNiY) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [YOUNG GIRL DISAPPEARED VOL\. 1](https://open.spotify.com/album/57BkENCzmNoJHWuD3iPxRF) | 3:35 |
 | 12 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |

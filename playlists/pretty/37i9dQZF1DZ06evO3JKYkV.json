@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 72063,
+  "num_followers": 72088,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAADVdHiZZ6HBMu0NnAqApFW+",
+  "snapshot_id": "Z7fCAAAAAAAO1dCVGkuq7kfJuG5iGSNJ",
   "tracks": [
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Yellow Calx",
-      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
     }
   ],
   "unique_name": "This Is Aphex Twin",

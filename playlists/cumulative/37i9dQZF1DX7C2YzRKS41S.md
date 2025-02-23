@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-446 songs - 1 day 2 hr 20 min
+447 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Minto pra quem perguntar](https://open.spotify.com/track/1ayciaPYnEVXA0sYvOssB8) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:07 | 2025-02-07 | 2025-02-22 |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2021-12-24 |  |
 | [mistério](https://open.spotify.com/track/7iZ1uXYxz7QAxRRDTGmHE2) | [Junin](https://open.spotify.com/artist/4OjzycPL3gEqQjJYZu4Azn) | [músicas para a janela](https://open.spotify.com/album/7cc7t6pfgG3KT7A6ZDOnrf) | 3:12 | 2021-12-24 | 2022-04-21 |
+| [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-22 |  |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-25 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-09 | 2025-02-22 |
 | [Na Curva Desse Rio](https://open.spotify.com/track/4lG6rUcs88C13OUWYnzW9o) | [Valtinho Jota](https://open.spotify.com/artist/0WO3dyC7ZgCxPKHm8SJ28H), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Na Curva Desse Rio](https://open.spotify.com/album/2RSD7S8gaJOzitT081KzRp) | 4:02 | 2021-12-24 | 2022-07-20 |
@@ -425,7 +426,7 @@
 | [Um Par Ímpar](https://open.spotify.com/track/1LqK404kKMMN7jJAo8pJ7v) | [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Um Par Ímpar](https://open.spotify.com/album/0n4JzgfSlW2fXR7STLm2SW) | 3:48 | 2022-06-03 | 2022-06-17 |
 | [Um Pescador](https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Um Pescador](https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn) | 3:49 | 2023-10-13 | 2023-10-21 |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2021-12-24 | 2022-06-08 |
-| [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 |  |
+| [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 | 2025-02-23 |
 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2022-03-25 | 2024-06-01 |
 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 | 2021-12-24 |  |
 | [Vapor](https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8) | [Victor Mus](https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw) | [Vapor](https://open.spotify.com/album/2DnIPRQ4tOhHOoPDFbE3PQ) | 3:53 | 2021-12-24 | 2022-07-25 |

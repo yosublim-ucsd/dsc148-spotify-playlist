@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,853 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,021 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 | 49 | [Tell Me Something I Don't Know](https://open.spotify.com/track/08kCck8nAJJEmxg0gXaJot) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Tell Me Something I Don't Know](https://open.spotify.com/album/6fWrq66qKnmTA2p6HplXge) | 3:21 |
 | 50 | [Only You](https://open.spotify.com/track/1hCowBAyytVNFhdZeQWU9M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/6PZD4RSi2hlcg5YV86luib) | 3:04 |
 
-Snapshot ID: `Z7inTQAAAAAt7eq7aIaOunFMZ/vY9P1p`
+Snapshot ID: `Z7inTQAAAAAPUHQrzMD8UOnf0RhMHzb/`

@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60934,
+  "num_followers": 60952,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+      },
+      "artists": [
+        {
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -511,42 +527,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
-      },
-      "artists": [
-        {
-          "name": "OVN",
-          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
-        },
-        {
-          "name": "chrln",
-          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
-        }
-      ],
-      "duration_ms": 121385,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 248906,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/79z93nZe6GxczLOvhrnObn"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
+      },
+      "artists": [
+        {
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
+        }
+      ],
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "A Wonderful World",
         "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 203893,
       "name": "A Kiss to Build a Dream On",
       "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
-      },
-      "artists": [
-        {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "I Want To Talk About You",
         "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 273266,
       "name": "I Want To Talk About You",
       "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
-      },
-      "artists": [
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2025-02-03 02:26:01",

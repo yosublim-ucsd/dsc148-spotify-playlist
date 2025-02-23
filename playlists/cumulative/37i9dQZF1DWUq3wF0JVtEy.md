@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-507 songs - 1 day 0 hr 44 min
+508 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 | 2023-01-27 | 2024-11-09 |
 | [Eyes Closed](https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Eyes Closed](https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ) | 3:16 | 2021-10-29 | 2022-07-30 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-10-29 | 2022-12-17 |
+| [F\*CK THAT](https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [F\*CK THAT](https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9) | 3:11 | 2025-02-21 |  |
 | [Face Off](https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Face Off](https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG) | 2:54 | 2024-11-08 | 2024-11-19 |
 | [Facts](https://open.spotify.com/track/6b4EhRvtqusT59vERjGCNX) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Facts](https://open.spotify.com/album/2uTVtbWnUotT9QXN8vek0l) | 2:16 | 2022-04-01 | 2022-07-27 |
 | [Fake Fake Fake](https://open.spotify.com/track/7wf4U3ElL3a1KY9qSRViuP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Fake Fake Fake](https://open.spotify.com/album/6l5iDnGhRGmDRCPyopzfLf) | 3:07 | 2021-10-29 | 2022-07-27 |
@@ -226,7 +227,7 @@
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 |  |
 | [I Wanna Talk](https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [I Wanna Talk](https://open.spotify.com/album/5Xd5xwTvOltxDikPLTEcw5) | 2:57 | 2024-10-04 | 2025-01-13 |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
-| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 |  |
+| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 | 2025-02-23 |
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [ILY](https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [BASS RELATED VOL\. 1](https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN) | 2:48 | 2024-11-08 |  |

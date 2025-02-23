@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 151146,
       "name": "Finale",
       "url": "https://open.spotify.com/track/3Z0QYWxOndrwwtiUyybjSl"
@@ -506,6 +506,24 @@
       "duration_ms": 150623,
       "name": "Jenny of Oldstones",
       "url": "https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm"
+    },
+    {
+      "album": {
+        "name": "Win or Lose (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7"
+      },
+      "artists": [
+        {
+          "name": "Campfire",
+          "url": "https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143910,
+      "name": "Key To Life",
+      "url": "https://open.spotify.com/track/0CYSUcMcGBsMsxA6pEPT0V"
     },
     {
       "album": {
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 96306,
       "name": "Victory Does Not Make Us Conquerors",
       "url": "https://open.spotify.com/track/2gJobE6MTzx3OZmZCdJ4RY"

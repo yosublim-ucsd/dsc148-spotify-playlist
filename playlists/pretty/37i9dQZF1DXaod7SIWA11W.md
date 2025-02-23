@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,711 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,759 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 74 | [OTW](https://open.spotify.com/track/2PZkK67mC3swcJvi2LZpc7) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [OTW](https://open.spotify.com/album/3li83VYqApNrcrT5Bj1E7C) | 3:08 |
 
-Snapshot ID: `Z5yaIwAAAADzX/9L0BcKRasVpJ+cCkPN`
+Snapshot ID: `Z5yaIwAAAACcZayseFG5nSlV1QWgyB8Z`

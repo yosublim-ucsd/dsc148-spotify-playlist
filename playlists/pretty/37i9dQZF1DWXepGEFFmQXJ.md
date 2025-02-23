@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,209 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,225 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 54 | [No Sad Song](https://open.spotify.com/track/72ecewEnJMkq1G2wN7LGdA) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [No Sad Song](https://open.spotify.com/album/2OauTa7johaqwMxDG9Qwrm) | 3:14 |
 | 55 | [DOWN SOUTH](https://open.spotify.com/track/6dEGsCMZxCL4KYOLjxnrOR) | [Bella Mackenzie](https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL) | [WILD THING](https://open.spotify.com/album/4uHYSDUkXJmgsodaGV8hCb) | 3:36 |
 
-Snapshot ID: `Z7cnkAAAAAAaQBOUymUbhE5u82pn1qWI`
+Snapshot ID: `Z7cnkAAAAACF/bRlys6GN4lUVTRLKUjQ`

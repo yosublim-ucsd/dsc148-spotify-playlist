@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from Classical New Releases in 2024\. Cover: Mao Fujita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,949 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,967 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 | 12 | [Truman Sleeps \(Arr\. Cousins for Guitar\)](https://open.spotify.com/track/2bsW5W0pMepoiWuxVnFNea) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Grieg: Lyric Pieces, Book 1, Op\. 12: No\. 1, Arietta \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/058uS2CCQuyq1hepia3i2x) | 2:28 |
 | 13 | [The Way It Was](https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:20 |
 | 14 | [Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/track/3as75756VNBEvwJPSVfvBR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Joe Hisaishi: Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/album/09i2t03rwbtM3LbxjQNxZl) | 5:04 |
-| 15 | [12 Études, Op\. 10: No\. 6 in E\-Flat Minor "Lament"](https://open.spotify.com/track/0iiKUd0auI7AuEMUbLtWFL) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Chopin: Études, Opp\. 10 & 25](https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S) | 3:32 |
+| 15 | [12 Etudes, Op\. 10: No\. 6 in E\-Flat Minor "Lament"](https://open.spotify.com/track/0iiKUd0auI7AuEMUbLtWFL) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Chopin: Études, Opp\. 10 & 25](https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S) | 3:32 |
 | 16 | [Étude No\. 2: Breathless](https://open.spotify.com/track/4FC5dxtyBWRvvsh2OH9m1R) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Études Mélodiques](https://open.spotify.com/album/4KKe8rGFDtCL8Jy4tA7Dl5) | 4:04 |
 | 17 | [Variations concertantes, Op\. 17/MWV Q 19: I\. Thema](https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [I\. Thema](https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG) | 1:05 |
 | 18 | [Thème de l’absence \(From "Joyeux Noël"\)](https://open.spotify.com/track/3JxkQA8TYk3eUy2aGeuiHb) | [Philippe Rombi](https://open.spotify.com/artist/6MiHGe7QESOe1tQrWPP0Po), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [Duncan Ward](https://open.spotify.com/artist/39WxITwf1epxevcYQ4DbF1) | [Les choses de la vie \- Cinema 2](https://open.spotify.com/album/2nbqi7TfGQMX3uXg6bTglU) | 3:51 |

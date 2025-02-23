@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: PANTERA BLUE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,363 likes - 74 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,365 likes - 74 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 11 | [Nap01](https://open.spotify.com/track/7IYinRhKfXNAVt45BAk79p) | [Rosell](https://open.spotify.com/artist/3ciWAlmk02JyvqagAuDeUS) | [Nap01](https://open.spotify.com/album/29gykOe54Koprf9W3enFrp) | 3:30 |
 | 12 | [¿Cómo Te Explico?](https://open.spotify.com/track/4Di8n9BFT4uiItCRMoAlSh) | [Naurange](https://open.spotify.com/artist/6KCsWhm7or9Ak5hN1TgUtw), [Marina Sen](https://open.spotify.com/artist/3GTwLbV6aefBgwvPEGH04U) | [¿Cómo Te Explico?](https://open.spotify.com/album/6hoJh6BYjDrmERcppb3xGk) | 3:04 |
 | 13 | [AoB](https://open.spotify.com/track/2GggG688lmV0XIo9B6K7GV) | [Mariodmir](https://open.spotify.com/artist/1BvLKtzZEtzElhtDyqScOt) | [AoB](https://open.spotify.com/album/1OKYU5lrITCVmx93PVJcFz) | 2:05 |
-| 14 | [BRILLITO](https://open.spotify.com/track/5VrvdFBKthRkVSE5Fzdaa6) | [Cecilia Zango](https://open.spotify.com/artist/23RDiEFiV2gMYADEUX40db), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [BRILLITO](https://open.spotify.com/album/77wHoIpgysxn8nXJl3HpGL) | 2:09 |
+| 14 | [BRILLITO](https://open.spotify.com/track/5VrvdFBKthRkVSE5Fzdaa6) | [Cecilia Zango](https://open.spotify.com/artist/23RDiEFiV2gMYADEUX40db), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [BRILLITO](https://open.spotify.com/album/77wHoIpgysxn8nXJl3HpGL) | 2:06 |
 | 15 | [CULPABLE](https://open.spotify.com/track/1hgpKMAGKQu2XhjKInVERF) | [Angie Corine](https://open.spotify.com/artist/27k7NeHOYy0FK9mNDdlySI) | [CULPABLE](https://open.spotify.com/album/5195MkNm8ayCQbazuSJTWZ) | 2:25 |
 | 16 | [Helados, Libros y Souvenirs](https://open.spotify.com/track/3xlsi3WDyxEAxWmjfzYDNc) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Helados, Libros y Souvenirs](https://open.spotify.com/album/23fAkhF7oh8O12fCibn62e) | 3:25 |
 | 17 | [Qué Hubiera Pasado](https://open.spotify.com/track/4qDqwszlIRHBrxKPH3735g) | [Sandra Groove](https://open.spotify.com/artist/5whb3prUMVkGYbE67pvPAs) | [Qué Hubiera Pasado](https://open.spotify.com/album/5LyhhnbDBTRAqEz3RRTIQ3) | 2:51 |

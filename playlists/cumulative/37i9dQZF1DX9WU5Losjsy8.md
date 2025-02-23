@@ -4,7 +4,7 @@
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-162 songs - 8 hr 14 min
+163 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 |  |
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2023-07-14 | 2023-11-04 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 | 2023-10-20 | 2024-04-19 |
+| [Bruttosozialprodukt 2025](https://open.spotify.com/track/5UVm9WJ5KgqahUKjpjP5pU) | [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Bruttosozialprodukt 2025](https://open.spotify.com/album/4OfgkEeX7vsDOyajJeMS7T) | 2:03 | 2025-02-21 |  |
 | [Bumsbar](https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/4EnA5a6Tq3l6tVCM7hLPgP) | 2:30 | 2023-11-14 | 2024-01-01 |
 | [Bumsbar](https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Nummer Eins](https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J) | 2:30 | 2023-12-19 | 2024-04-19 |
 | [Bumsbar](https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny) | 2:30 | 2023-07-14 | 2023-12-08 |
@@ -78,7 +79,7 @@
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 | 2025-01-20 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
-| [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
+| [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 | 2025-02-23 |
 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2025-01-01 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |

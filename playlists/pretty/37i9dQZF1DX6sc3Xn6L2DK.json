@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 39073,
+  "num_followers": 39083,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
         "url": "https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
       "artists": [
         {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
         }
       ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+      "duration_ms": 232693,
+      "name": "Hearts on Fire - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Hearts on Fire - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
-      },
-      "artists": [
-        {
-          "name": "Jim Sullivan",
-          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Love Can Find You Anywhere",
         "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219182,
       "name": "Love Can Find You Anywhere",
       "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
+      },
+      "artists": [
+        {
+          "name": "Jim Sullivan",
+          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
     },
     {
       "added_at": "2024-08-23 04:00:00",

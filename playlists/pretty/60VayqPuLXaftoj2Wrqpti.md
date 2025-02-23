@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,820 likes - 73 songs - 4 hr 27 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,822 likes - 73 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Habibi](https://open.spotify.com/track/7EGrgTG9KZ10wFOEVSZiUZ) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Seasons of the Road](https://open.spotify.com/album/7Bx8BxGlIG8qZPXOye69nt) | 3:43 |
 | 2 | [Challengers](https://open.spotify.com/track/708tPPd7rOuEgGEJpggvnQ) | [Anand Wilder](https://open.spotify.com/artist/5pMCcLhPil65XVA7x0rRO1), [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Challengers](https://open.spotify.com/album/11lIFoNGtUguGZjGmrFObH) | 2:39 |
 | 3 | [The Traveller](https://open.spotify.com/track/7f6601Ox79GE9OXPcX96DM) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:28 |
-| 4 | [Auf Log](https://open.spotify.com/track/1z4eM1wlM0LvE3jeWumTRy) | [bambinodj](https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7) | [Silent Dispatch](https://open.spotify.com/album/70djeA4dMLjKrrhFkjEO4D) | 5:46 |
+| 4 | [Auf Log](https://open.spotify.com/track/1z4eM1wlM0LvE3jeWumTRy) | [bambinodj](https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7), [Phillip Jondo](https://open.spotify.com/artist/0fvha5wkidFmGI7jOajwGt) | [Silent Dispatch](https://open.spotify.com/album/70djeA4dMLjKrrhFkjEO4D) | 5:46 |
 | 5 | [Lie 95](https://open.spotify.com/track/6VGW6dJG6394stFcB5WBZb) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 2:41 |
 | 6 | [Guericke's Unicorn](https://open.spotify.com/track/30P4n3zltqpxxCbeSijIcc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Guericke's Unicorn](https://open.spotify.com/album/248iXt2D1OnUyn5rbRNyGV) | 4:24 |
 | 7 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |

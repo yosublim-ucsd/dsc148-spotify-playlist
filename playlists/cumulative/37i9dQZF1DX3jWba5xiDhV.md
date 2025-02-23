@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-186 songs - 15 hr 42 min
+187 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [E mò e mò \- Mixed By Erry Remix \(Radio Edit\)](https://open.spotify.com/track/0NOhqNiNfdtAWZdCYcu7K0) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Mixed By Erry](https://open.spotify.com/artist/7vdZ66oXssJ9V5kNRE37UN) | [E mò e mò \(Mixed By Erry Remix\)](https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA) | 3:12 | 2023-12-01 |  |
 | [Easy Lady](https://open.spotify.com/track/2ZMYFhiMAh41d01lB0KB6z) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Spagna & Spagna Greatest Hits](https://open.spotify.com/album/0k09ZVEEo2Kx1vusc1KB8b) | 4:51 | 2022-02-11 | 2022-03-22 |
 | [Electric Baile \- Enzo Elia Vocal Edit](https://open.spotify.com/track/1GCzhYzCo1FI08ixz1zVSn) | [Master Plan](https://open.spotify.com/artist/1jkQG6DsvVpiqACsIrPDKl), [Pepper Gomez](https://open.spotify.com/artist/3yw76fAoSQa5UNu4HXdZmF), [Enzo Elia](https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1) | [Electric Baile / Pushin' Too Hard \(Gerd Janson & Enzo Elia Edits\)](https://open.spotify.com/album/1xyEt7Vp57IFy1xrsyI2eV) | 5:22 | 2022-02-11 | 2022-08-19 |
+| [Emanuela \(Giu Le Mani\) \- Protopapa Remix](https://open.spotify.com/track/7CrM3VsvrSPTqUzXfZRban) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Emanuela \(Giu Le Mani\) \[Protopapa Remix\]](https://open.spotify.com/album/3HQn5Q1RsHAWtJ7pzp91sn) | 4:44 | 2025-02-20 |  |
 | [Enough! \- The Juan MacLean Remix](https://open.spotify.com/track/3EaXSUO5riDiAMLn7E3nu5) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD), [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 6:39 | 2022-02-11 | 2022-07-29 |
 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 | 2023-11-09 |  |
 | [Excessive Dance](https://open.spotify.com/track/3FlK2PJ6yvEEUkR1uv3J7c) | [Luca dell’Orso](https://open.spotify.com/artist/1xKCNR4tilKz0Dq4Gtxg6t) | [Excessive Dance](https://open.spotify.com/album/3vCS7rauBIW27PrXrUXsNG) | 6:08 | 2022-02-11 | 2022-07-29 |
@@ -73,7 +74,7 @@
 | [Forever Lovers \- Vocal](https://open.spotify.com/track/1OpQlPuUHPBXRAZzROt4Sk) | [Italian Boys](https://open.spotify.com/artist/6wht0K3kwqK0Qus7MkVW9p) | [Forever Lovers](https://open.spotify.com/album/71DSYNoCpltfS5F4aFdBc4) | 6:09 | 2022-02-11 | 2022-03-18 |
 | [From Here to Eternity \- Bonus Track \- Single Version \- Remastered](https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [From Here to Eternity \(Remastered\)](https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv) | 3:53 | 2022-02-11 | 2024-10-08 |
 | [Futura](https://open.spotify.com/track/3I8I5xOy34pz3dbvfM3I9u) | [David Keno](https://open.spotify.com/artist/0cWqRMk3D45eG7PpILb4OL) | [Miami](https://open.spotify.com/album/29JJmQtng4Hd3HUQo4o12S) | 6:06 | 2022-02-11 | 2022-07-02 |
-| [Give me a Break](https://open.spotify.com/track/21ebxv3xeNEJbmdwBhfwQ5) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Give me a Break \(Original\) \- Single](https://open.spotify.com/album/2RElM88tFDv38lDi1nUcA6) | 8:51 | 2022-02-11 |  |
+| [Give me a Break](https://open.spotify.com/track/21ebxv3xeNEJbmdwBhfwQ5) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Give me a Break \(Original\) \- Single](https://open.spotify.com/album/2RElM88tFDv38lDi1nUcA6) | 8:51 | 2022-02-11 | 2025-02-23 |
 | [Give Me Love](https://open.spotify.com/track/30EaKbkhCzCAxVccAaYzGA) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Cerrone I, II, III](https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9) | 7:42 | 2022-02-11 | 2022-07-29 |
 | [Give Me Love \- 1977](https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [3 \- Supernature](https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR) | 7:42 | 2022-07-01 | 2024-04-19 |
 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 | 2022-02-11 |  |

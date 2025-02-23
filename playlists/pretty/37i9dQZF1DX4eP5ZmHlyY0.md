@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: PSYCHIC FEVER from EXILE TRIB
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,625 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,617 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 4 | [BREATH \- TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE](https://open.spotify.com/track/5dc4VseT1mmnukwMKVv9nn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BREATH \(TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE\)](https://open.spotify.com/album/1ofoHM5P1fgclfkTriG9V1) | 2:34 |
 | 5 | [J.O.K.E.R.](https://open.spotify.com/track/4daDy382VP0ShemgIM1At2) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [J.O.K.E.R.](https://open.spotify.com/album/7waGeeW8O4N8lpFeQ1Fuj0) | 3:46 |
 | 6 | [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 |
-| 7 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 |
+| 7 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
 | 8 | [SYNERGY](https://open.spotify.com/track/4xLrgPmQyaXmV6SN9xodl2) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Dimensional Bridge](https://open.spotify.com/album/41CivMiTP0KfVcXZ6kWzdy) | 3:03 |
 | 9 | [Make It Count](https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Make It Count](https://open.spotify.com/album/2xZTCdsoeOjHuLfKt5cZM1) | 3:30 |
 | 10 | [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 17 | [Cinderella](https://open.spotify.com/track/6JwtjfXL7HWpdTOZPdDrMW) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [PHENOMENON](https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB) | 3:30 |
 | 18 | [Our Magic](https://open.spotify.com/track/0ELdPfYZH0fEWBfQXXFrjH) | [WILD BLUE](https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm) | [Our Magic](https://open.spotify.com/album/54AYLnK5rsWv23R5TJRynz) | 3:59 |
 | 19 | [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 |
-| 20 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
+| 20 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 |
 | 21 | [Deer Hunter](https://open.spotify.com/track/5b2q0YAMyqk0JD0rHZZzQB) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16) | 3:06 |
 | 22 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 |
 | 23 | [Silhouette](https://open.spotify.com/track/08p4TJG7E1TtabAdPQ5uCg) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/4wpxSGDKIfjqmJcYW39le3) | 3:21 |

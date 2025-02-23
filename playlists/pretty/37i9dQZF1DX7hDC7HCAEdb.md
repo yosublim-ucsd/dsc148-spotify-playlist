@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,889 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,893 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MISTY ECSTASY](https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MISTY ECSTASY](https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ) | 3:27 |
 | 2 | [Punches](https://open.spotify.com/track/7d6Yk9SaGI8TiguJxXANrk) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Surface Tension](https://open.spotify.com/album/1rYKWV6Co3fC3896Ptwjeq) | 2:57 |
 | 3 | [This Is Love](https://open.spotify.com/track/5dwJ1aEoLyqQhgvnXPBiri) | [Georgia Cécile](https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa) | [This Is Love](https://open.spotify.com/album/4oGywwQGz3KNcuJDCCLlPB) | 4:35 |
-| 4 | [Depressed Beyond Tablets](https://open.spotify.com/track/5Ea9saMuvY5Q4CIus3R2XN) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Depressed Beyond Tablets](https://open.spotify.com/album/0MajIB2PIw5rvLTJqLtqfL) | 2:31 |
+| 4 | [Depressed Beyond Tablets](https://open.spotify.com/track/5Ea9saMuvY5Q4CIus3R2XN) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Depressed Beyond Tablets](https://open.spotify.com/album/0MajIB2PIw5rvLTJqLtqfL) | 2:30 |
 | 5 | [Polaroid](https://open.spotify.com/track/6xOCOb2R79tpNZB5OMQSoA) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0tBJ4l7XEt3q5qYhBEug6H) | 3:47 |
 | 6 | [This Town](https://open.spotify.com/track/5zW2rxb3tMV5DftAyDICNW) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [This Town](https://open.spotify.com/album/0CFkIsJJ9gKASix0yvfKmq) | 3:03 |
 | 7 | [Do It Like You Do It](https://open.spotify.com/track/67rzjGuiCCtgzy86j7gLU3) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Do It Like You Do It](https://open.spotify.com/album/0rGtnj7m7FKThfBAHep5st) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Duquesa e mais mulheres incríveis no volume máximo! co\-curada por Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,015 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,001 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [\#SV 10 \- Maru2D / Profecia](https://open.spotify.com/track/7DYDemv1zIU6dja3iU1MD1) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [\#SV 10 \- Maru2D / Profecia](https://open.spotify.com/album/3dehLdQ2GoUMoLiUhP8ywZ) | 2:34 |
 | 27 | [Negra Tipo A](https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:34 |
 | 28 | [P.P.R.T](https://open.spotify.com/track/0Jd6gf9RsWvlhp90mT6BxI) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:56 |
-| 29 | [Je suis](https://open.spotify.com/track/1ShtGXVKTdaeAnA0w8Qjn3) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [LEYS](https://open.spotify.com/album/7plnU8Zk6snisYnjsALZjV) | 2:14 |
+| 29 | [Deixa Disso](https://open.spotify.com/track/6Z138aKnjrqylVqSjZnKvk) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Deixa Disso](https://open.spotify.com/album/0BPfHK9eVOn9QixVu6CjQn) | 3:05 |
 | 30 | [Macetinho Lento \- Bônus](https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:31 |
 | 31 | [Às Vezes](https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:28 |
-| 32 | [Deixa Disso](https://open.spotify.com/track/6Z138aKnjrqylVqSjZnKvk) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Deixa Disso](https://open.spotify.com/album/0BPfHK9eVOn9QixVu6CjQn) | 3:05 |
+| 32 | [Je suis](https://open.spotify.com/track/1ShtGXVKTdaeAnA0w8Qjn3) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [LEYS](https://open.spotify.com/album/7plnU8Zk6snisYnjsALZjV) | 2:14 |
 | 33 | [Bosses's Marmita](https://open.spotify.com/track/4tpA0cnmErlJAmr5orjvtk) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:15 |
 | 34 | [Pra Viajar](https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 4:09 |
 | 35 | [Gostosa Mermo](https://open.spotify.com/track/1C2Z0mWoK0wjbLpxAKvRCb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [DjCasDaGrock](https://open.spotify.com/artist/6O6AQeTjX1HkLl4blhLFjP) | [Gostosa Mermo](https://open.spotify.com/album/2HGJopmy8KCxT9VY68OKVl) | 2:01 |

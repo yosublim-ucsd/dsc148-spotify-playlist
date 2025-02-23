@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 192984,
       "name": "As Day Fades Into Night",
       "url": "https://open.spotify.com/track/5nxgnk2YmJRZUr1k0QvEIK"
@@ -7058,7 +7058,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 179170,
       "name": "Nama",
       "url": "https://open.spotify.com/track/1ZIf3ofUdgbREs5ll2f8OI"
@@ -10453,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Suavidade",
+        "url": "https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Eden",
+          "url": "https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205020,
+      "name": "Suavidade",
+      "url": "https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V"
+    },
+    {
+      "album": {
         "name": "Subharmonium",
         "url": "https://open.spotify.com/album/1f45EViHpZSNXwkOCMpNH0"
       },
@@ -10720,6 +10738,24 @@
       "duration_ms": 164673,
       "name": "Terra Nova",
       "url": "https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd"
+    },
+    {
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rembrandt",
+          "url": "https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw"
     },
     {
       "album": {

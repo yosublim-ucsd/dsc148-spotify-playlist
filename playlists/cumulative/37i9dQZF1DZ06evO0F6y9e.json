@@ -1519,6 +1519,32 @@
     },
     {
       "album": {
+        "name": "Me Recordaras",
+        "url": "https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208900,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l"
+    },
+    {
+      "album": {
         "name": "Mil Gracias Por Existir",
         "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },

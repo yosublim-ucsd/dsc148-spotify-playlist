@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: MAKO.
 
-4,397 songs - 11 day 5 hr 40 min
+4,398 songs - 11 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4087,6 +4087,7 @@
 | [Trapped \(feat\. Azel Dinangga\)](https://open.spotify.com/track/2T8Jqx7wKSn2SLXUrxgGCr) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP), [Azel Dinangga](https://open.spotify.com/artist/3pfzBv20OB44e6T3rgRvUE) | [Trapped](https://open.spotify.com/album/1h3lKYGx9jxXieOHZtSlS1) | 3:49 | 2022-06-09 | 2022-07-01 |
 | [Treasure](https://open.spotify.com/track/3dx3nDvoEOJNBDPp3a9qX2) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [Treasure](https://open.spotify.com/album/4KyKNlMN009fmiilJm43yZ) | 3:43 | 2023-02-23 | 2023-03-10 |
 | [TRIED](https://open.spotify.com/track/09FKyJJFWNHqad0IQXkhgJ) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [TRIED](https://open.spotify.com/album/63ebz4qed9J8LkGYqFtaR7) | 3:43 | 2022-08-19 | 2022-09-02 |
+| [Tried MY Best](https://open.spotify.com/track/55Jmb48GbHtz96hooGWXv3) | [KiLLMYPRiDE](https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK) | [Tried MY Best](https://open.spotify.com/album/2P6nGkRHN3LYcUpxGqDEFe) | 3:00 | 2025-02-20 |  |
 | [True Love](https://open.spotify.com/track/4WQCnRhdop0LLQZwqealh1) | [Meindra](https://open.spotify.com/artist/31Y6XaxBKeCnZ39vIZv66y) | [True Love](https://open.spotify.com/album/5yxviTqQB2aoXaHtFkOIg7) | 4:58 | 2023-06-15 | 2023-06-30 |
 | [True North](https://open.spotify.com/track/4fZq8ygOzC4LkjfZEHp1fn) | [Devina Jo](https://open.spotify.com/artist/1Mc0evEUq2R9qt73DQwmUF) | [True North](https://open.spotify.com/album/4WfxN5YbSmR7KZQ7BIMkgy) | 5:10 | 2022-01-06 | 2022-01-21 |
 | [Truman's Saleen](https://open.spotify.com/track/5g1fEYWB6EvwSLDUoi1L48) | [Gozal](https://open.spotify.com/artist/24YrN50vtGSOWb9kAUVwDW) | [Pursuing Rap Career](https://open.spotify.com/album/51XTC9iHTIbmozEH07pDFA) | 2:16 | 2024-12-19 | 2025-02-07 |

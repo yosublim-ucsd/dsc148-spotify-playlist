@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 11538,
+  "num_followers": 11541,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAD6UXLxTKNTQWrXNvhH4txp",
+  "snapshot_id": "Z7fCAAAAAAD6meOBpOrnlMzP09wGNqCx",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+        "name": "KAWASAKI (with Felip & th\u1ee7y)",
+        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
         },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 171951,
-      "name": "Criminal (Over You)",
-      "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
+      "duration_ms": 130666,
+      "name": "KAWASAKI (with Felip & th\u1ee7y)",
+      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
     },
     {
       "added_at": null,
@@ -431,26 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAWASAKI (with Felip & th\u1ee7y)",
-        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
       },
       "artists": [
         {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Felip",
-          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 130666,
-      "name": "KAWASAKI (with Felip & th\u1ee7y)",
-      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+      "duration_ms": 171951,
+      "name": "Criminal (Over You)",
+      "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "snowing in LA",
-        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "snowing in LA",
-      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "snowing in LA",
+        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "snowing in LA",
+      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+      "duration_ms": 177049,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 210909,
       "name": "day dream",
       "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,

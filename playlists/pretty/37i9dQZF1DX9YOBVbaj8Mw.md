@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,861 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,867 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
 | 58 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 59 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
-| 60 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
-| 61 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
+| 60 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
+| 61 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
 | 62 | [Wonderland In Alice \- Big Band Live](https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Big Band Live](https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy) | 3:34 |
 | 63 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 64 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 71 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 72 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
 | 73 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
-| 74 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
-| 75 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
+| 74 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
+| 75 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
 | 76 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |
 | 77 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 78 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |

@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "De Sobremanera",
+        "url": "https://open.spotify.com/album/5sjihtd6cTAsVJlHNhGRI4"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3cVKbHNzwHOqsqJB70H63R"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,453 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,563 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 36 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
 | 37 | [Machines](https://open.spotify.com/track/2fnDzzhiAGUNZ26eGLSm7z) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Machines](https://open.spotify.com/album/0wan6H2mRB9SHDEO0joLxz) | 2:53 |
 | 38 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 |
-| 39 | [Wow](https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Wow](https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5) | 3:19 |
+| 39 | [Wow](https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Wow](https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5) | 3:20 |
 | 40 | [TAGADA](https://open.spotify.com/track/6MO6jOYSBio7diMCMrqmyg) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [TAGADA](https://open.spotify.com/album/1HPzalVQ9WIaSz1eQ6NAOV) | 2:14 |
 | 41 | [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 |
 | 42 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 96 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 | 97 | [i.think](https://open.spotify.com/track/7HhyXsosh9kJeeFnABqkrB) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [Hopital](https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn) | [LA FIEV](https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe) | 2:51 |
 
-Snapshot ID: `Z7e0EQAAAACqaFdNqNLIdRfYfKludoBD`
+Snapshot ID: `Z7e0EQAAAABcss0GE8zXEf8CbsGv+55/`

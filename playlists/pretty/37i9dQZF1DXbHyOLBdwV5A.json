@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 126670,
+  "num_followers": 126692,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -471,34 +471,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Encontrei o Meu Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        }
-      ],
-      "duration_ms": 165967,
-      "name": "Encontrei o Meu Lugar - Remix",
-      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Queima de Novo (Remix)",
         "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
       },
@@ -543,6 +515,34 @@
       "duration_ms": 217968,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Encontrei o Meu Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        }
+      ],
+      "duration_ms": 165967,
+      "name": "Encontrei o Meu Lugar - Remix",
+      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -611,22 +611,22 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         }
       ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+      "duration_ms": 133548,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -651,22 +651,22 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
       "artists": [
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         },
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
         }
       ],
-      "duration_ms": 133548,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Voc\u00ea Me Amou",
-        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9bora Ulhoa",
-          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Voc\u00ea Me Amou",
-      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 204761,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Voc\u00ea Me Amou",
+        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9bora Ulhoa",
+          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Voc\u00ea Me Amou",
+      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "N\u00e3o Sou Merecedor (Remix)",
-        "url": "https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8"
+        "name": "A Vida \u00c9 Boa (Remix)",
+        "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
       },
       "artists": [
         {
@@ -1032,21 +1032,17 @@
           "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+          "name": "Ana Julia",
+          "url": "https://open.spotify.com/artist/5euHvW9JgxVPk1l849F4vh"
         }
       ],
-      "duration_ms": 175312,
-      "name": "N\u00e3o Sou Merecedor - Remix",
-      "url": "https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h"
+      "duration_ms": 129836,
+      "name": "A Vida \u00c9 Boa - Remix",
+      "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1311,30 +1307,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "O C\u00e9u \u00c9 O Meu Lugar",
         "url": "https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP"
       },
@@ -1355,6 +1327,30 @@
       "duration_ms": 235840,
       "name": "O C\u00e9u \u00c9 O Meu Lugar",
       "url": "https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1587,8 +1583,8 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "A Vida \u00c9 Boa (Remix)",
-        "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
+        "name": "N\u00e3o Sou Merecedor (Remix)",
+        "url": "https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8"
       },
       "artists": [
         {
@@ -1596,17 +1592,21 @@
           "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         },
         {
-          "name": "Ana Julia",
-          "url": "https://open.spotify.com/artist/5euHvW9JgxVPk1l849F4vh"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
         }
       ],
-      "duration_ms": 129836,
-      "name": "A Vida \u00c9 Boa - Remix",
-      "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
+      "duration_ms": 175312,
+      "name": "N\u00e3o Sou Merecedor - Remix",
+      "url": "https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h"
     },
     {
       "added_at": "2025-02-14 03:01:21",

@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 358526,
+  "num_followers": 358674,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "In Every Way",
         "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 263213,
       "name": "In Every Way",
       "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -883,22 +863,6 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
-        }
-      ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -919,6 +883,42 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+        }
+      ],
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
       "artists": [
         {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
         }
       ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
@@ -1147,26 +1131,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "I See It Now",
         "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
@@ -1179,22 +1143,6 @@
       "duration_ms": 189292,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "25th floor of a reservation casino",
-        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
-      },
-      "artists": [
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "how great thou art",
-      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1219,6 +1167,42 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
       },
@@ -1231,22 +1215,6 @@
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1267,6 +1235,22 @@
       "duration_ms": 299368,
       "name": "Foolish & Ruined",
       "url": "https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "25th floor of a reservation casino",
+        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "how great thou art",
+      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Who May Ascend",
         "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 265566,
       "name": "Go With Me",
       "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1399,6 +1383,22 @@
       "duration_ms": 238152,
       "name": "Better Plan",
       "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-08-03 00:38:12",

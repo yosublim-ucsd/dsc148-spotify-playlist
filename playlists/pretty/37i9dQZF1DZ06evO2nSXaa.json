@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 246022,
+  "num_followers": 246546,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAC1btTjd2ljOhmy3XMAsHyo",
+  "snapshot_id": "Z7fCAAAAAADqQn0UghTVwCJjU+R4ZjAm",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
     },
     {
       "added_at": null,
@@ -155,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 171014,
+      "name": "Dear god",
+      "url": "https://open.spotify.com/track/2ETQsbiuGm2WLOSOr2I19A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -191,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -223,6 +239,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 156222,
+      "name": "I know love (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -235,6 +287,38 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 180392,
+      "name": "we're not alike",
+      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 139098,
+      "name": "Miss possessive",
+      "url": "https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs"
     },
     {
       "added_at": null,
@@ -288,9 +372,25 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 180392,
-      "name": "we're not alike",
-      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
+      "duration_ms": 152049,
+      "name": "guilty conscience",
+      "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Purple lace bra",
+      "url": "https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2"
     },
     {
       "added_at": null,
@@ -327,6 +427,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 133562,
+      "name": "think later",
+      "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 173765,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6DDEfqOoLlasIbPdzboOu4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -339,22 +471,6 @@
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 152049,
-      "name": "guilty conscience",
-      "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
     },
     {
       "added_at": null,
@@ -391,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "bloodonmyhands (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "greedy (remixes)",
         "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
@@ -403,22 +539,6 @@
       "duration_ms": 142363,
       "name": "greedy acoustic",
       "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 133562,
-      "name": "think later",
-      "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
     },
     {
       "added_at": null,
@@ -635,130 +755,6 @@
       "duration_ms": 119871,
       "name": "greedy sped up",
       "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
-        "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 181442,
-      "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulder to Shoulder",
-        "url": "https://open.spotify.com/album/6uJoPnlKPUYsiSHsgl48Rr"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 230181,
-      "name": "Shoulder to Shoulder",
-      "url": "https://open.spotify.com/track/4XWhsNPaqAbZR7hIhx2bSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "u love u (with Tate McRae)",
-        "url": "https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 189062,
-      "name": "u love u (with Tate McRae)",
-      "url": "https://open.spotify.com/track/4RCpHnkhMmm67EKbI4aEO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/7jSZ6v4skvnBDh2ezEjPk3"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 216854,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7zmGroa83F8IqoGdN36Anr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hung up on You",
-        "url": "https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 201256,
-      "name": "Hung up on You",
-      "url": "https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "don't be sad",
-        "url": "https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 143672,
-      "name": "don't be sad",
-      "url": "https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "happy face",
-      "url": "https://open.spotify.com/track/28QGhVCx80IcpEb1Gswdk0"
     }
   ],
   "unique_name": "This Is Tate McRae",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Marshmello, Trueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,888 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,893 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 53 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
 | 54 | [ESA NO SOY YO](https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [ESA NO SOY YO](https://open.spotify.com/album/3SCF4bXbTnnVmkgfMrPUtA) | 2:52 |
 | 55 | [Ya Fuiste](https://open.spotify.com/track/6NI5jDkDTkMZHJgFRoF5DD) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [Ya Fuiste](https://open.spotify.com/album/6RH1LRQKJArOpe08FXhUol) | 2:17 |
-| 56 | [BAILANDO EL DEMBOW](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [BAILANDO EL DEMBOW](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
+| 56 | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
 | 57 | [¿Era esto la vida?](https://open.spotify.com/track/1vchMkNKya6dWlgCoTwYQG) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lento Ternura](https://open.spotify.com/album/2IMZvwh6XpUpKhyfYGAo6Q) | 3:17 |
 | 58 | [La Suerte](https://open.spotify.com/track/7HVf7mf1uJ624TGwY5qSMH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Suerte](https://open.spotify.com/album/0k9p4Bwqv7DSm28rD6EXn0) | 3:39 |
 | 59 | [Cae la noche](https://open.spotify.com/track/4PfRtpjvp28ETWDBFc5CER) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3), [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Cae la noche](https://open.spotify.com/album/6W7DcTe6t7F5eujEyWFlof) | 3:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,115 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,217 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 17 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
 | 18 | [Real](https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:26 |
 | 19 | [Regras da Loja](https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR) | 3:50 |
-| 20 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
-| 21 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
+| 20 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
+| 21 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
 | 22 | [Da Madrugada](https://open.spotify.com/track/2KtidsJE7J9iIm4Xc48Am1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:27 |
 | 23 | [Em nome do que sinto](https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:26 |
 | 24 | [Universo](https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 4:16 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 50 | [Estou Pronto](https://open.spotify.com/track/1K1FiMlJcF8MLatTtb5I6q) | [Goribeatzz](https://open.spotify.com/artist/49HDbqanAupBgdzDaHPGk9), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Estou Pronto](https://open.spotify.com/album/1u3wi9Erf344qelp0Df6MS) | 2:42 |
 | 51 | [Vivência](https://open.spotify.com/track/7n94CCZ7C8xN9seKuBsFVX) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Arteiro](https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM) | 3:50 |
 
-Snapshot ID: `Z7ZwgAAAAAB+Vb0KveCI1PTD9PVytxRM`
+Snapshot ID: `Z7fCAAAAAABNB/UWCJXQ5yEC9LSnVexF`

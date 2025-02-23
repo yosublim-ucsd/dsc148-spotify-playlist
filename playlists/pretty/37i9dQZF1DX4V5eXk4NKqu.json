@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bandalos Chinos.",
-  "num_followers": 167280,
+  "num_followers": 167278,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 194523,
       "name": "Hora Dorada",
       "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
         "name": "Destrucci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 200842,
       "name": "Destrucci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
-        "name": "Life Is A Movie",
-        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Life Is A Movie",
-      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "added_at": "2025-02-14 05:00:45",

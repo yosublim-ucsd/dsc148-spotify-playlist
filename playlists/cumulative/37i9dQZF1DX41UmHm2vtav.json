@@ -1033,6 +1033,32 @@
     },
     {
       "album": {
+        "name": "CDXOTA",
+        "url": "https://open.spotify.com/album/2SLt1gsqotPapZiEmaBNhu"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Locked Club",
+          "url": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "name": "Me Jesmay",
+          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178203,
+      "name": "CDXOTA",
+      "url": "https://open.spotify.com/track/0hBDFlAo2GIRnTGb5m5OmK"
+    },
+    {
+      "album": {
         "name": "Certeza - Zabot Remix",
         "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
       },
@@ -2334,7 +2360,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
@@ -3631,6 +3657,32 @@
     },
     {
       "album": {
+        "name": "Purple Hat (Adam Sellouk & Doriann Remix)",
+        "url": "https://open.spotify.com/album/6IQ5cZ5HzasMrfmyYPCN6A"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Doriann",
+          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Purple Hat - Adam Sellouk & Doriann Remix",
+      "url": "https://open.spotify.com/track/22cKiNgK6V3nenOrBxRhr6"
+    },
+    {
+      "album": {
         "name": "P\u00e9tala de Flor (DropDown Remix)",
         "url": "https://open.spotify.com/album/4T129vS8wKleczOPU0SE3u"
       },
@@ -4436,7 +4488,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"

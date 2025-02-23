@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 76,242 likes - 215 songs - 9 hr 18 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 76,257 likes - 215 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 139 | [Wicked Game](https://open.spotify.com/track/0MipOE6RTEx3WZL3580AIF) | [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Youkii](https://open.spotify.com/artist/03hW2M1ECvJTjoa8EXVfsn) | [Wicked Game](https://open.spotify.com/album/4VAoXA4Hed91lZYmXHkw2Q) | 2:22 |
 | 140 | [Memories](https://open.spotify.com/track/4XJTH3xjvYUmAtfMr3D0wm) | [Seasider](https://open.spotify.com/artist/3bIeHe3ftDnbJMSyorcPSz) | [Memories](https://open.spotify.com/album/0X7x42PstWExMRmZbbTKsc) | 2:25 |
 | 141 | [A World For Two](https://open.spotify.com/track/7jRG5RxnRs3drnTk9AZsHa) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK), [veranda life](https://open.spotify.com/artist/4TuhUuVGlN2W79M1OKJnfr) | [A World For Two](https://open.spotify.com/album/3wMjKEpqqZU3S49h04V2Kr) | 2:42 |
-| 142 | [Parachute](https://open.spotify.com/track/1FTv0RrB7cMhfmGBE6gXGQ) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [masafi](https://open.spotify.com/artist/3vCicyLsjEgDLqhScIpRHe) | [Parachute](https://open.spotify.com/album/4NH6mzxpnfzQGgLVmU2Vrw) | 2:53 |
+| 142 | [Parachute](https://open.spotify.com/track/1FTv0RrB7cMhfmGBE6gXGQ) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [masafy](https://open.spotify.com/artist/2ywy9kaa561by9Vrw6bRvV) | [Parachute](https://open.spotify.com/album/4NH6mzxpnfzQGgLVmU2Vrw) | 2:53 |
 | 143 | [California Dreamin'](https://open.spotify.com/track/4y0wgwic6vFqUBN6Y1mkDR) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [California Dreamin'](https://open.spotify.com/album/6axSDPUcBzLMuOtg7kwxK4) | 4:05 |
 | 144 | [We Are Golden](https://open.spotify.com/track/4S690LNdbskSS5tMZy9wU7) | [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [We Are Golden](https://open.spotify.com/album/2rQLwo5HWNHm7biC8sgZ2Q) | 3:32 |
 | 145 | [Me & U](https://open.spotify.com/track/0E7U13bmvEccq4CtC3q0Pw) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Me & U](https://open.spotify.com/album/0avo8bUJqaJ4qHf0KmdoPR) | 2:54 |

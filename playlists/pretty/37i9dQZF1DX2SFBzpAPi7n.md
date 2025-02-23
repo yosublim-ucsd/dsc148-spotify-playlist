@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: OWALLOIL\(오월오일\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,111 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,095 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [White Seoul](https://open.spotify.com/track/2QB8bTfK7eOfaiTqL37SxP) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [White Seoul](https://open.spotify.com/album/30kR7wI3eWvdgmpHHhZnnj) | 3:58 |
 | 50 | [STAR IN THE DARK](https://open.spotify.com/track/3nLY9ffJCxF5d06Cw6Sy3r) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Bloom \#2](https://open.spotify.com/album/03AgU7Tf0ttLOCKpLD7npM) | 3:18 |
 
-Snapshot ID: `Z7Q4swAAAADezp+2j6C7H6Q/YhVts0o3`
+Snapshot ID: `Z7Q4swAAAAAmdAZkZuckAEZrhKeXV9Ql`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 94 songs - 4 hr 51 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 92 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
 | 93 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 94 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
+| 95 | [Trónfosztó](https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Trónfosztó](https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6) | 2:48 |
 
-Snapshot ID: `AAAAtabBAKN7sSyrSNY0DPYHSqGrIscq`
+Snapshot ID: `AAAAtk2kdHNO7DWl3+WUcwatHyB+kkkY`

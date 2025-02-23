@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: GRACE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,602 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,613 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fraction of You](https://open.spotify.com/track/7E8hyH2bDckedeRcKrIEzM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Fraction of You](https://open.spotify.com/album/129cZUF3VPuqbD5Z6BR1Z9) | 3:42 |
 | 2 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
-| 3 | [SWEETEST LOVE](https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM) | [LANG](https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [SWEETEST/LOVE](https://open.spotify.com/album/4uXqBbD5RSfNWJ4cb0bgkG) | 2:29 |
+| 3 | [SWEETEST/LOVE](https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM) | [LANG](https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [SWEETEST/LOVE](https://open.spotify.com/album/4uXqBbD5RSfNWJ4cb0bgkG) | 2:29 |
 | 4 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 |
 | 5 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 |
 | 6 | [I’m \(Back To Love\)](https://open.spotify.com/track/7oOmbJTVzSVsZBjrSC9KF0) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [I’m \(Back To Love\)](https://open.spotify.com/album/6osGdMY77iw5ZbFDiV2Bz6) | 3:37 |

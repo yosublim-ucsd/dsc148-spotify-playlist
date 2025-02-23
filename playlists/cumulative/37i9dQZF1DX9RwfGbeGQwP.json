@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 148085,
       "name": "chim",
       "url": "https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3"
@@ -20442,6 +20442,24 @@
       "duration_ms": 128000,
       "name": "Rainbower",
       "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
+    },
+    {
+      "album": {
+        "name": "Raindrops on Loops",
+        "url": "https://open.spotify.com/album/28eXQS0MuALkaDVvtM4MVd"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127142,
+      "name": "Raindrops on Loops",
+      "url": "https://open.spotify.com/track/3ELOos1ox4ZvVM5YOqJcT8"
     },
     {
       "album": {

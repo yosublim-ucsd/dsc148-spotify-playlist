@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-271 songs - 15 hr 48 min
+272 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 | 2023-06-08 |  |
 | [Melodies Of Life ～Final Fantasy](https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 7:36 | 2021-05-21 |  |
 | [Melodies Of Life\~Final Fantasy](https://open.spotify.com/track/7AAgAhebg3jI3kY5Fh4gEL) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/3aMjbkNLCvOi1gr7uRxNJx) | 7:35 | 2021-05-21 | 2022-07-29 |
-| [Mog House](https://open.spotify.com/track/5kernXhkgp8dBKrbTkzX36) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 3:29 | 2024-09-18 |  |
+| [Mog House](https://open.spotify.com/track/5kernXhkgp8dBKrbTkzX36) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 3:29 | 2024-09-18 | 2025-02-23 |
 | [Moment of Recall](https://open.spotify.com/track/3WpisYlhAtVgorb1ZQnBpm) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:47 | 2023-06-08 |  |
 | [My Lady](https://open.spotify.com/track/276sedtnIqaj5LM92cJkLf) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 1:52 | 2023-07-06 | 2024-04-19 |
 | [My Lady](https://open.spotify.com/track/6mYQDwYLuFpMZn0DXkizgH) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/1rwbr1bWfiK00Q12bLhhRi) | 1:52 | 2024-04-02 | 2024-09-18 |
@@ -190,6 +190,7 @@
 | [The Extreme](https://open.spotify.com/track/575HenEhvSLhjbBLYFDp3D) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 6:44 | 2021-05-21 | 2023-06-09 |
 | [The Final Battle](https://open.spotify.com/track/59JShbQbDMfDTVWsLEj7HX) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IV Original Soundtrack](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) | 1:55 | 2021-05-21 | 2023-06-09 |
 | [The Fire Within](https://open.spotify.com/track/08Hkeo2DqsmYWuY9QOg3e9) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 4:56 | 2023-06-08 | 2023-06-11 |
+| [The Last Hunter](https://open.spotify.com/track/6YzCZVtNNSvy4o53RIMVj6) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:38 | 2024-09-18 |  |
 | [The Lion and the Hare \- The Nysa Defile](https://open.spotify.com/track/5eaZc7Q8u8RaP9G1IyFTcC) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 3:07 | 2023-07-06 | 2024-03-20 |
 | [The Man with the Machine Gun](https://open.spotify.com/track/4dDWXG1U5MA0DEvrcnNirN) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 2:49 | 2021-05-21 | 2022-07-29 |
 | [The Man with the Machine Gun](https://open.spotify.com/track/7uCHzRE4pUtRQMCxHXNGm5) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 2:49 | 2021-05-21 | 2023-06-09 |

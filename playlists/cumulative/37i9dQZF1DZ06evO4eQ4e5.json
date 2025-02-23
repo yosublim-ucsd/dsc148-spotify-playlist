@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+    },
+    {
+      "album": {
         "name": "Mi Ciudad",
         "url": "https://open.spotify.com/album/15Yk0xqTaQ6wI5DX2xpRn3"
       },

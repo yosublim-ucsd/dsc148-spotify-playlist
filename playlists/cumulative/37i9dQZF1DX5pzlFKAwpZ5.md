@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-290 songs - 21 hr 24 min
+291 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-30 |  |
 | [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 |  |
 | [FOSSIL OF FLAME／火の化石～FIFTY BELL\-TREES／五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-12-30 |  |
-| [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 |  |
+| [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 | 2025-02-23 |
 | [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2022-12-30 |  |
@@ -289,6 +289,7 @@
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 | 2025-01-14 |
 | [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |
+| [内観](https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI) | [GOMA](https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg) | [ひかりの世界](https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN) | 20:12 | 2025-02-21 |  |
 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-30 | 2024-12-15 |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 |  |
 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 |  |

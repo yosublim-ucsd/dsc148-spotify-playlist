@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "American Effigy",
+        "url": "https://open.spotify.com/album/7B5wtkP5PB8XRp587VG9PS"
+      },
+      "artists": [
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        },
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239692,
+      "name": "American Effigy",
+      "url": "https://open.spotify.com/track/0Xosw25D73TlyO9JSzpnpo"
+    },
+    {
+      "album": {
         "name": "American Elegy",
         "url": "https://open.spotify.com/album/64PRNlplBvOh9X4bELGO4h"
       },
@@ -136,7 +158,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
@@ -154,10 +176,28 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 154813,
       "name": "And the Cat Came Back",
       "url": "https://open.spotify.com/track/1zo7s7yyaIPgJspg7RPRw2"
+    },
+    {
+      "album": {
+        "name": "Annie Moved On",
+        "url": "https://open.spotify.com/album/19mLxms7msUbWwwwSmursp"
+      },
+      "artists": [
+        {
+          "name": "Full Cord",
+          "url": "https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219269,
+      "name": "Annie Moved On",
+      "url": "https://open.spotify.com/track/0PI01kUDFXITjLh0tLNqqh"
     },
     {
       "album": {
@@ -190,7 +230,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 170560,
       "name": "Artful Dodger",
       "url": "https://open.spotify.com/track/4b3m7hWnv9xwvufLdE5nJ8"
@@ -1118,7 +1158,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 345058,
       "name": "Closer You Get",
       "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
@@ -1369,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Red Camel Collective",
+        "url": "https://open.spotify.com/album/7JImgQzXELMO1nhuICImNt"
+      },
+      "artists": [
+        {
+          "name": "Red Camel Collective",
+          "url": "https://open.spotify.com/artist/6zSOsHJSP3VmbnP2l5WIC9"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Dare To Dream",
+      "url": "https://open.spotify.com/track/05JqysQfJUw1KT9ZSkm3Ze"
+    },
+    {
+      "album": {
         "name": "Darlin Corey",
         "url": "https://open.spotify.com/album/2LEdx7U8a3sSzSJmKOuf1u"
       },
@@ -1548,6 +1606,24 @@
       "duration_ms": 210000,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/5LwExaTO3MLphpD6SsFxFK"
+    },
+    {
+      "album": {
+        "name": "Do What You Want",
+        "url": "https://open.spotify.com/album/5TVVf4L4zbcsswDaN7WMee"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Do What You Want",
+      "url": "https://open.spotify.com/track/0FKD6aGxY5xN9TUGTIg12h"
     },
     {
       "album": {
@@ -1813,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Carried Along",
+        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
+      },
+      "artists": [
+        {
+          "name": "Upstream Drifters",
+          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216388,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
+    },
+    {
+      "album": {
         "name": "Election Day",
         "url": "https://open.spotify.com/album/0baYL8idAUg34z6PKiM2N3"
       },
@@ -2073,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/5iovh98VjGmabfbr11qcjo"
+      },
+      "artists": [
+        {
+          "name": "Mason Via",
+          "url": "https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6f78Gdh2iVI2YU4PLbNYUm"
+    },
+    {
+      "album": {
         "name": "First Snow (Live from Powell River Sessions)",
         "url": "https://open.spotify.com/album/6anXcJnOwI3c2gI6Cg6g67"
       },
@@ -2208,7 +2320,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 157247,
       "name": "Frog Eyed Puddin'",
       "url": "https://open.spotify.com/track/5Kir8WXu4I6LHN00UiXjkK"
@@ -2399,6 +2511,28 @@
     },
     {
       "album": {
+        "name": "DAGGOMIT!",
+        "url": "https://open.spotify.com/album/1NAdCKsjSyePIUcs8FjqNm"
+      },
+      "artists": [
+        {
+          "name": "Max Wareham",
+          "url": "https://open.spotify.com/artist/30LXom98tWrl14BKI1xNUI"
+        },
+        {
+          "name": "Peter Rowan",
+          "url": "https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Gone, Baby, Gone",
+      "url": "https://open.spotify.com/track/2hHO4NjtBhriKCtP8thPqr"
+    },
+    {
+      "album": {
         "name": "Good at Gone",
         "url": "https://open.spotify.com/album/5xlkRTTUbpY7iCPaoIxYFI"
       },
@@ -2552,6 +2686,46 @@
       "duration_ms": 188541,
       "name": "He Would've Wrote Em' All",
       "url": "https://open.spotify.com/track/3l3w4s8oMWXD2kGCpV2k8q"
+    },
+    {
+      "album": {
+        "name": "Heading For the Mountains",
+        "url": "https://open.spotify.com/album/2i2SGkmin82ywvsJN2LVZB"
+      },
+      "artists": [
+        {
+          "name": "Big Country Bluegrass",
+          "url": "https://open.spotify.com/artist/0zAZS77fyK4sqjsEOGUERM"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205180,
+      "name": "Heading For the Mountains",
+      "url": "https://open.spotify.com/track/1EvuCqS9c1IetUeIPrbiTv"
+    },
+    {
+      "album": {
+        "name": "Hear My Call",
+        "url": "https://open.spotify.com/album/3rgPeIntPdXX1t3KYY27NH"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256042,
+      "name": "Hear My Call",
+      "url": "https://open.spotify.com/track/6uxA4ufK4rA2zhJxhnbtwc"
     },
     {
       "album": {
@@ -3104,6 +3278,24 @@
       "duration_ms": 197093,
       "name": "I Wish I Had One More",
       "url": "https://open.spotify.com/track/5b1kQfCpFbTfc2qQpQx58D"
+    },
+    {
+      "album": {
+        "name": "I'll Be Long Gone (Live)",
+        "url": "https://open.spotify.com/album/3uvClNc5Heec8IXnA0HrmG"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185248,
+      "name": "I'll Be Long Gone - Live",
+      "url": "https://open.spotify.com/track/4PpouxaUEKw7vfL0VmMYzG"
     },
     {
       "album": {
@@ -3738,7 +3930,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 159500,
       "name": "Life On The Road",
       "url": "https://open.spotify.com/track/4JszQxT7eV52QPT7AoAbMb"
@@ -3976,7 +4168,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 237905,
       "name": "Looking Past the Pain (The Cowboy Song)",
       "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
@@ -4024,6 +4216,24 @@
       "duration_ms": 225133,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
+    },
+    {
+      "album": {
+        "name": "Lunar Window",
+        "url": "https://open.spotify.com/album/3wxxLcCByJjAPS0V4Qh9Po"
+      },
+      "artists": [
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156089,
+      "name": "Lunar Window",
+      "url": "https://open.spotify.com/track/6Ee0SELbAmrFs99SITTKdz"
     },
     {
       "album": {
@@ -4435,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Nothing Like Trouble",
+        "url": "https://open.spotify.com/album/3kHe876Wk1Uev2C4Po0ek4"
+      },
+      "artists": [
+        {
+          "name": "Liam Purcell",
+          "url": "https://open.spotify.com/artist/4Rs5D1tRATVLQ2MIOjunrI"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Nothing Like Trouble",
+      "url": "https://open.spotify.com/track/60hAoBiqQmtabX2GrZdC5a"
+    },
+    {
+      "album": {
         "name": "Nowhere, Tennessee",
         "url": "https://open.spotify.com/album/00ZHRxFrPeaP9KJ1681p6W"
       },
@@ -4606,7 +4834,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 226666,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/1UwSf49HmEVwB1wdiKPXzf"
@@ -5524,7 +5752,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 234500,
       "name": "Saturday Night Special",
       "url": "https://open.spotify.com/track/5NbcmXKwpu0J1IMftT0t2X"
@@ -5847,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "Song For A Lonely Road",
+        "url": "https://open.spotify.com/album/3Z4Kr4Sgh4wajfjQjVUJht"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Preschel",
+          "url": "https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Song For A Lonely Road",
+      "url": "https://open.spotify.com/track/17z9dL5Wu45f9lgMDbgF7l"
+    },
+    {
+      "album": {
         "name": "Southern Pines",
         "url": "https://open.spotify.com/album/6IOGv7EQfWVEZ4BNsjzPKx"
       },
@@ -6108,7 +6354,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 216000,
       "name": "Talk About Suffering",
       "url": "https://open.spotify.com/track/4MYATqnonbWWLMzx2QBfen"
@@ -6660,7 +6906,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 198786,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/4JY8ZVWeIozQidZVP9L2a3"
@@ -6718,7 +6964,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 373546,
       "name": "Touch of Grey",
       "url": "https://open.spotify.com/track/3wLdZ1BIC6x0yrvGCDqTtk"
@@ -6976,7 +7222,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 199026,
       "name": "Wall Guitar (Since You Said Goodbye)",
       "url": "https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz"

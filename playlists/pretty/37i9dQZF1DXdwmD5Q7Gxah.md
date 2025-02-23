@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,540 likes - 109 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,555 likes - 109 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 108 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 |
 | 109 | [Let Me Go!](https://open.spotify.com/track/72vbQiZdPWaLMXaHjRUpiJ) | [Leila Lamb](https://open.spotify.com/artist/2n3aUuffTp4GLAVEcqILwp) | [Let Me Go!](https://open.spotify.com/album/4z21RHl8jWa0ohHXpO37wD) | 2:04 |
 
-Snapshot ID: `Z7keqwAAAACfAypNIxHiFFhUPMO2NuaZ`
+Snapshot ID: `Z7keqwAAAACEBvbAnSf9Ox/CHaP/OTcu`

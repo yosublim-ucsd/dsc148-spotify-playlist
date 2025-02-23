@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: AKASAKI \*👉 <a href="https://spice.eplus.jp/articles/335713">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,365 likes - 87 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,382 likes - 87 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

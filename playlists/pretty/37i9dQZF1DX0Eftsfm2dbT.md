@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LANA, Medusa Aria, E.V.P, IFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,505 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,529 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 43 | [武道館](https://open.spotify.com/track/7i3W7Z8Tc3VCJ6NzP7JVIt) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [武道館](https://open.spotify.com/album/2w5S8LyebM1PDvK5b1Y4Gu) | 2:34 |
 | 44 | [CHA CHA 愛](https://open.spotify.com/track/0xUlzv4pnxwaecooxhIhHJ) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [CHA CHA 愛](https://open.spotify.com/album/5fbcRlQBjheUPCLfbK0FXk) | 4:06 |
 | 45 | [better \(feat\. Authority & KVGGLV\)](https://open.spotify.com/track/1iIEOAADsM5xyaCX77VWOX) | [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI), [Authority](https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [better \(feat\. Authority & KVGGLV\)](https://open.spotify.com/album/2a6fruOE3awpm3Ry52RiC1) | 2:31 |
-| 46 | [Girls Don't Cry](https://open.spotify.com/track/0ElITOt1EJo4yc6bZvS0PI) | [SENA](https://open.spotify.com/artist/594nTuyRvGYcEoCWNGGfhc), [Aroma\-T](https://open.spotify.com/artist/0HTlt2kXPrnBEdj40BqhQ2), [Awkisonic](https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn) | [Girls Don't Cry](https://open.spotify.com/album/2dbpqsXvODf3vqrz1ld1zB) | 2:15 |
+| 46 | [Girls Don't Cry](https://open.spotify.com/track/0ElITOt1EJo4yc6bZvS0PI) | [SENA](https://open.spotify.com/artist/594nTuyRvGYcEoCWNGGfhc), [Aroma\-T](https://open.spotify.com/artist/45WPZ8R8tmuMGv2PIj8m9k), [Awkisonic](https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn) | [Girls Don't Cry](https://open.spotify.com/album/2dbpqsXvODf3vqrz1ld1zB) | 2:15 |
 | 47 | [She Left Me \- Holiday Passport](https://open.spotify.com/track/7ez5okk3h61X3M4VHlDwKB) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [She Left Me \(Holiday Passport\)](https://open.spotify.com/album/7CKLJLvTXxSv5lzQiGuTl3) | 2:37 |
 | 48 | [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 |
 | 49 | [No Limit](https://open.spotify.com/track/5hZRf0r5YPblxu2dySMh3X) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [No Limit](https://open.spotify.com/album/4wWi3TtGLUsfz75z1ogGUP) | 1:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música chida 🤝 el fin de semana ✨ con Gabito Ballesteros en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,528 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,553 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 |
 | 55 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 
-Snapshot ID: `Z7gWZgAAAADPx62DodIrvbhLzGaw+Vkz`
+Snapshot ID: `Z7gWZgAAAADMPyHs6GE6Pzs2QPa3Dhaj`

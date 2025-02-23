@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169472,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/2Tb9OIosEStb1zkItETEgf"
+    },
+    {
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 228989,
       "name": "Ella Qu\u00e9 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
@@ -1280,6 +1302,24 @@
       "duration_ms": 178934,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/293y4eczsVhfT5dbjvhUNz"
+    },
+    {
+      "album": {
+        "name": "Corridos Antonio Aguilar",
+        "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Juan Charrasqueado",
+      "url": "https://open.spotify.com/track/7i1qfU3QQu1ls53CA8Lrvc"
     },
     {
       "album": {
@@ -2338,7 +2378,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 167738,
       "name": "Por una Mujer Casada",
       "url": "https://open.spotify.com/track/2vKVjAResslERGdwOxK4iW"
@@ -2920,7 +2960,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/3A7APEc3HegGLMI5VSGMSc"

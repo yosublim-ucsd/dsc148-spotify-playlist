@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54892,
+  "num_followers": 54909,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
+        "name": "Nicole C. Mullen",
+        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
       },
       "artists": [
         {
-          "name": "All Nations Music",
-          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
-        },
-        {
-          "name": "Matthew Stevenson",
-          "url": "https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Nicole C. Mullen",
+          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
         }
       ],
-      "duration_ms": 570629,
-      "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
-      "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
+      "duration_ms": 294533,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -155,18 +147,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Nicole C. Mullen",
-        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
       "artists": [
         {
-          "name": "Nicole C. Mullen",
-          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+          "name": "All Nations Music",
+          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
+        },
+        {
+          "name": "Matthew Stevenson",
+          "url": "https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
+      "duration_ms": 570629,
+      "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
+      "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
-      },
-      "artists": [
-        {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mary Don't You Weep",
-      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mary Don't You Weep",
+      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Risen Powerful Gospel Resurrection Songs",
+        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 417160,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Unproduced",
         "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 290432,
       "name": "Heaven's Here - Live",
       "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Risen Powerful Gospel Resurrection Songs",
-        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 417160,
-      "name": "Now Behold the Lamb - Live",
-      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
     },
     {
       "added_at": "2024-07-02 01:22:00",

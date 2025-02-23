@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > o rio que transborda, AULAS do bom menino bk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,747 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,712 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [DVD](https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 3:01 |
 | 50 | [DESMISTIFICAR](https://open.spotify.com/track/2hvP3KHqGFEzPeySCZ4g2X) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [OLÍMPICO / DESMISTIFICAR](https://open.spotify.com/album/6giyzGKGfLFC269yFZAdbz) | 2:06 |
 
-Snapshot ID: `Z7jaNwAAAADdfPhRMyFis+FqGXKEvPsE`
+Snapshot ID: `Z7jaNwAAAAAcQ/Rh37VBeBYxwMXapRRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Sophie and the Giants
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,252 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,627 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 69 | [If I Could Turn Back Time](https://open.spotify.com/track/6C48GKPFLw0S6ThneQEDsf) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb) | [If I Could Turn Back Time](https://open.spotify.com/album/7xErTNUoS9M6t1MfXVyRQw) | 3:03 |
 | 70 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 |
 
-Snapshot ID: `Z7gIYgAAAADeEBXdAtGcyEP8Iw7lmXW3`
+Snapshot ID: `Z7gIYgAAAADm7FCvOFTNAL8HYaO6DsEI`

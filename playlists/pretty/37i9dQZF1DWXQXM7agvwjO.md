@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: Yokin \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,945 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,116 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 40 | [Dial Tone](https://open.spotify.com/track/227u5UMtxhLQGWqDbkE0Oc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Dial Tone](https://open.spotify.com/album/7z9APiQaFzWNPP8uECGPgv) | 2:41 |
 | 41 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
 | 42 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 |
-| 43 | [Tapi](https://open.spotify.com/track/5WT6STiQCyEJZrLFJvte3N) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Tapi](https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA) | 3:42 |
+| 43 | [Stephanie](https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn) | 2:06 |
 | 44 | [CAT IS LOVE](https://open.spotify.com/track/4CvS9dLrcfBF0E855gPLGT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [CAT IS LOVE](https://open.spotify.com/album/3XxOVfqOvdss6NRaHNhf5R) | 4:29 |
 | 45 | [我無醉 \(feat.卓韻芝\)](https://open.spotify.com/track/4NlxGFg2IkRUThTX3CxMFo) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY), [卓韻芝](https://open.spotify.com/artist/5YuqzI1rTdwca3e638EUHM) | [我無醉 \(feat.卓韻芝\)](https://open.spotify.com/album/5XkL9mvhbJBSRLjbmmzLQi) | 2:33 |
 | 46 | [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 |
@@ -60,19 +60,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 50 | [Cherry Eyes](https://open.spotify.com/track/3KhC5loijHV7Rh94GbN6Gg) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Cherry Eyes](https://open.spotify.com/album/1O2pjPRYY9V1ogt9YcTiXJ) | 2:33 |
 | 51 | [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 |
 | 52 | [ASO](https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [ASO](https://open.spotify.com/album/38vTZxMGSYepLzdqn7uPDa) | 2:48 |
-| 53 | [Nirmala](https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Nirmala](https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs) | 3:10 |
+| 53 | [Tapi](https://open.spotify.com/track/5WT6STiQCyEJZrLFJvte3N) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Tapi](https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA) | 3:42 |
 | 54 | [GLOW](https://open.spotify.com/track/1MRhw4HEvW91cQjI8RJY4I) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [GLOW](https://open.spotify.com/album/0Ve0dsgwKoAZy5lRdIhpha) | 3:49 |
 | 55 | [Be My Bee](https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Be My Bee](https://open.spotify.com/album/4LRTgGRSpf8sFtwLpzPLYl) | 3:16 |
 | 56 | [Sendiri](https://open.spotify.com/track/0rny1DwAxNE4RGdt5taChr) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Modern Pastiche](https://open.spotify.com/album/4seZUm3oqgEiOhdgzISZOa) | 3:52 |
-| 57 | [Stephanie](https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn) | 2:06 |
+| 57 | [Nirmala](https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Nirmala](https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs) | 3:10 |
 | 58 | [look at us now](https://open.spotify.com/track/6uvABSp6ebLTZkrvL5LpjR) | [leon geldard](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [look at us now](https://open.spotify.com/album/2yzaZLz4YWv0NoefImkZ06) | 3:30 |
 | 59 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 | 60 | [Cake](https://open.spotify.com/track/2wWyKWvw01HXfFTl0aAanb) | [Nitsara](https://open.spotify.com/artist/18eSZhnYJXRbDXnsYjsVMv) | [Cake](https://open.spotify.com/album/5KljABUuVimkw6R9BrFpF4) | 3:16 |
 | 61 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 62 | [ON](https://open.spotify.com/track/0VyK2oBDqDuZXKRn3vUkT6) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Orbit](https://open.spotify.com/album/5Y95h3smPs2ihUnfe06Mi5) | 3:18 |
 | 63 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 |
-| 64 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
-| 65 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
+| 64 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
+| 65 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
 | 66 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J) | 3:53 |
 | 67 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
 | 68 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 96 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
 | 97 | [midnight train](https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [we've been here before](https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz) | 3:05 |
 | 98 | [happy endings do exist](https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [happy endings do exist](https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL) | 3:17 |
-| 99 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
-| 100 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
+| 99 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
+| 100 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 
 Snapshot ID: `Z7dRoAAAAAAfXS6ekYjZ5D6FtkiOuV6e`

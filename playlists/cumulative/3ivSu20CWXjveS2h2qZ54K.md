@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,186 songs - 7 day 7 hr 19 min
+3,187 songs - 7 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Always On My Mind](https://open.spotify.com/track/3QpSEKSEM7kXQc6RUC8St8) | [Alpaca Sports](https://open.spotify.com/artist/2FfiPi1Ia6W1EWM1QcajDN) | [Always On My Mind](https://open.spotify.com/album/1FQqYE6ggo7DQlzfi8Ph0d) | 4:08 | 2025-01-08 | 2025-01-18 |
 | [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 | 2024-11-30 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-12 | 2024-07-19 |
+| [Am I Really Dreaming?](https://open.spotify.com/track/19edU8oaCF734Sk1nuNFud) | [Iboreh](https://open.spotify.com/artist/3Vj7g6D88wjgEE38ScyjA7) | [Am I Really Dreaming?](https://open.spotify.com/album/3eVEgtKnU9svsVIGC9jKgl) | 4:00 | 2025-02-22 |  |
 | [Amantes de la noche](https://open.spotify.com/track/12ByeW4Zrk21JMAKAT0w2M) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Amantes de la noche](https://open.spotify.com/album/3OY9eUyvhV8Qvdj0LACQnU) | 3:11 | 2024-12-06 | 2024-12-14 |
 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 | 2024-11-01 | 2024-11-09 |
 | [Amigos tengo](https://open.spotify.com/track/1FT0JcORoaEzOrkOiHlYXv) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Vicente Calderón](https://open.spotify.com/album/0HXfaUDrSTv8r9incvbKhD) | 2:42 | 2025-01-31 | 2025-02-08 |
@@ -2982,7 +2983,7 @@
 | [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 | 2024-11-22 | 2024-11-30 |
 | [Vaya Liada](https://open.spotify.com/track/2OL5S46cBDRfkz2O7SYFUF) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [aka luigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [Vaya Liada](https://open.spotify.com/album/4Da9WECh3CDpuzT3ehO8JC) | 2:59 | 2024-08-16 | 2024-08-24 |
 | [Veneno](https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Veneno](https://open.spotify.com/album/17rC9nsqSsJkHeT04DPi8E) | 3:48 | 2025-01-10 | 2025-01-18 |
-| [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Mónica Naranjo](https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 | 2025-02-21 |  |
+| [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 | 2025-02-21 |  |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-11 | 2024-10-19 |
 | [Verde](https://open.spotify.com/track/2hcFy9wTUJEAOX3QELnWdA) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Besta](https://open.spotify.com/album/4hvPGVrNkjtCkoynfzek1z) | 2:39 | 2024-04-26 | 2024-05-10 |
 | [VERDE](https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [VERDE](https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er) | 2:05 | 2025-02-14 | 2025-02-22 |

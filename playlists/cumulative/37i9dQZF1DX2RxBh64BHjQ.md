@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">GELO</a>
 
-2,185 songs - 4 day 1 hr 19 min
+2,186 songs - 4 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,6 +888,7 @@
 | [Humble](https://open.spotify.com/track/1Xlt2TE4O0lERfDaEk3gHY) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Humble](https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF) | 2:51 | 2022-10-21 | 2022-12-03 |
 | [Huncho Fishscale \(ft\. Quavo\)](https://open.spotify.com/track/5GzmaXXXJYVOKRQyaLZuJM) | [Bobby Fishscale](https://open.spotify.com/artist/11gyaEELeFdWVRaxWJm8b0), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Evolution](https://open.spotify.com/album/4BMnMdQxaN0yj0jh2XSuTQ) | 3:14 | 2021-11-05 | 2022-01-29 |
 | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/track/2jqebWPNRxKiLyMKxKyOhU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/album/6gGj7WtC3PxstpTn9VkdDm) | 2:50 | 2022-06-03 | 2022-08-13 |
+| [HYPOCRITE](https://open.spotify.com/track/3ingEZQJcRPm956usULf2j) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [HYPOCRITE](https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS) | 2:14 | 2025-02-22 |  |
 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 | 2023-09-09 |
 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 | 2022-03-04 | 2022-05-07 |
 | [I Am Him!](https://open.spotify.com/track/0juj2urvaPsFG5ufNcT1yC) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [I'm Back \(Deluxe\)](https://open.spotify.com/album/3tOznNvSuUmITjqGwR9Lj3) | 1:33 | 2024-01-26 | 2024-03-09 |
@@ -1951,7 +1952,7 @@
 | [Ton1ght \(Bonus\)](https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f) | [Exøtix](https://open.spotify.com/artist/558RX1PVNFmCYmOhveATIb) | [Mÿ Türn](https://open.spotify.com/album/2QqvTgBwhrV3NSI0CvfwfV) | 2:30 | 2022-11-11 | 2023-01-06 |
 | [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 | 2024-11-13 |
 | [Took A While \(Be Us\)](https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Took A While \(Be Us\)](https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP) | 2:36 | 2024-08-02 | 2024-10-19 |
-| [Toot It Up](https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Toot It Up](https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO) | 2:09 | 2025-02-07 |  |
+| [Toot It Up](https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Toot It Up](https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO) | 2:09 | 2025-02-07 | 2025-02-23 |
 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 | 2022-03-25 | 2022-04-29 |
 | [Top 5](https://open.spotify.com/track/2GVfGPj0USjI7zLgoZCsoU) | [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Top 5](https://open.spotify.com/album/4OJOkiJruc9KRJczjoiZ8c) | 2:51 | 2022-03-18 | 2022-04-02 |
 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 | 2023-05-19 | 2023-07-29 |

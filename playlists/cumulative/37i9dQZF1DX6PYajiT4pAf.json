@@ -2441,7 +2441,7 @@
     },
     {
       "album": {
-        "name": "BAILANDO EL DEMBOW",
+        "name": "BAILANDO EL DEMBOW (feat. Rico Rosa)",
         "url": "https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo"
       },
       "artists": [
@@ -2452,13 +2452,21 @@
         {
           "name": "Yung Beef",
           "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
         }
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159955,
-      "name": "BAILANDO EL DEMBOW",
+      "name": "BAILANDO EL DEMBOW (feat. Rico Rosa)",
       "url": "https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y"
     },
     {
@@ -23328,8 +23336,8 @@
           "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
         },
         {
-          "name": "M\u00f3nica Naranjo",
-          "url": "https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw"
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
         }
       ],
       "date_added": "2025-02-20",

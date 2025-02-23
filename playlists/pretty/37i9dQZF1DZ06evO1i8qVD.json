@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 34929,
+  "num_followers": 34934,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAD/1oq3/1B7Rue00nZ3sxVn",
+  "snapshot_id": "Z7fCAAAAAACkNWdoVZ+3jE4Ibap6Nlgc",
   "tracks": [
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "I Can't Quit The Blues",
-      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
         "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 240693,
       "name": "Sweet Home Chicago - Mono Rough Mix",
       "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "I Can't Quit The Blues",
+      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
       "added_at": null,

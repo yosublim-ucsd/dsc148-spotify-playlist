@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 59 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
 | 60 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
 | 61 | [21](https://open.spotify.com/track/6XnBxunhT15siJYMdXwcIm) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [21](https://open.spotify.com/album/3UngvNb7RYdv9OlQCqChLM) | 3:57 |
-| 62 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
-| 63 | [Medicine](https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 2:50 |
+| 62 | [Medicine](https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 2:50 |
+| 63 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
 | 64 | [Feels \(feat\. Bow Anderson\)](https://open.spotify.com/track/5uo8RId6BnZxNaqXqXPu6H) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Feels \(feat\. Bow Anderson\)](https://open.spotify.com/album/1VMYbbaGKKwGSz5DMEL4oV) | 2:13 |
 | 65 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
 | 66 | [On & On](https://open.spotify.com/track/5MWbzT1ulVmjn3f3sRImRs) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [On & On](https://open.spotify.com/album/1mlVABq7eBOHJ2zu8qyt4L) | 2:25 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 125 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 126 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbqN6AAAAAB6AxK7LSahZABAVpgQ0H7Q`
+Snapshot ID: `AbqTiAAAAAAVQuebV9gj1oC65v68g7RB`

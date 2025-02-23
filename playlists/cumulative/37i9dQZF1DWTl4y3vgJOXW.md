@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Donovan Mitchell
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Luka Dončić and Jamal Murray
 
 785 songs - 1 day 16 hr 29 min
 

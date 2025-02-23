@@ -4,7 +4,7 @@
 
 > Péricles, Seu Jorge e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-581 songs - 1 day 9 hr 51 min
+582 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Líquido Roxo](https://open.spotify.com/track/1W0sYOma39HqEh4UO8Aq3i) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 2:03 | 2022-09-12 | 2022-09-24 |
 | [Macallan](https://open.spotify.com/track/0cCPxd3XMkCXM8nTd2HxAD) | [Teagá](https://open.spotify.com/artist/2YvJJuRIiBl7nkpbNadJmN) | [Macallan](https://open.spotify.com/album/09LB2hShWM6x1Z48LNDqri) | 2:48 | 2022-05-23 | 2022-07-27 |
 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 | 2022-11-18 | 2022-12-13 |
+| [Maior Barato](https://open.spotify.com/track/5xrOwoxaAKovm3FcbbMQ0s) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp), [Mania do Brasil](https://open.spotify.com/artist/7qX0K6BkuG9e9Hio2tWcE8) | [Mania Especial: Milthinho, Vol\. 2](https://open.spotify.com/album/2rsRFJB28YPlvYm1LDZmtF) | 3:44 | 2025-02-21 |  |
 | [Malandrex](https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [Malandrex](https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw) | 4:16 | 2023-05-19 | 2023-05-30 |
 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 | 2022-11-22 | 2023-07-01 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-03-18 | 2022-08-13 |
@@ -481,7 +482,7 @@
 | [Romance de Novela](https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:08 | 2023-09-08 | 2023-09-28 |
 | [Romântico 2](https://open.spotify.com/track/6OPqR2PJZpPlWVZ4IOyljf) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 2:30 | 2022-08-08 | 2022-09-13 |
 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 | 2022-09-23 | 2023-03-11 |
-| [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 | 2024-11-29 |  |
+| [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 | 2024-11-29 | 2025-02-23 |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2024-01-06 |
 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 | 2023-12-22 | 2024-02-05 |
 | [Royal Salute](https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Royal Salute](https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH) | 4:39 | 2022-03-18 | 2022-06-25 |

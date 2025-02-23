@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 46953,
+  "num_followers": 46999,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,22 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "C'mon Look! (feat. Asake)",
-        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 174062,
-      "name": "C'mon Look! (feat. Asake)",
-      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
+        "name": "C'mon Look! (feat. Asake)",
+        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "C'mon Look! (feat. Asake)",
+      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
         "name": "Pullover",
         "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
       },
@@ -479,30 +499,6 @@
       "duration_ms": 143187,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -543,22 +539,26 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Management",
-        "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "BIGKHALID",
-          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 155669,
-      "name": "Management",
-      "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -579,18 +579,22 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+        "name": "Management",
+        "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
         }
       ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -607,6 +611,22 @@
       "duration_ms": 151282,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -683,26 +703,6 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 185068,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -727,18 +727,62 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
+      "duration_ms": 185068,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -767,22 +811,18 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Stubborn (with Asake)",
-        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+        "name": "Orobo",
+        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Stubborn (with Asake)",
-      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+      "duration_ms": 133285,
+      "name": "Orobo",
+      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -827,22 +867,18 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+        "name": "Finish Me (AEIOU)",
+        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         }
       ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+      "duration_ms": 91428,
+      "name": "Finish Me (AEIOU)",
+      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -871,42 +907,6 @@
       "duration_ms": 203893,
       "name": "4x4 (feat.Tyler ICU)",
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
-        "name": "Finish Me (AEIOU)",
-        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 91428,
-      "name": "Finish Me (AEIOU)",
-      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -947,6 +947,26 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -1159,22 +1179,6 @@
     {
       "added_at": "2025-02-21 14:01:33",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -1187,6 +1191,22 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "added_at": "2025-02-21 14:01:33",
+      "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2025-02-21 14:01:33",
@@ -1207,26 +1227,6 @@
       "duration_ms": 163790,
       "name": "wande's bop (feat. SPINALL)",
       "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"
-    },
-    {
-      "added_at": "2025-02-21 14:01:33",
-      "album": {
-        "name": "CHISOM (We Dem Boyz)",
-        "url": "https://open.spotify.com/album/7554y1U2CikUTRafTXj29N"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181565,
-      "name": "CHISOM (We Dem Boyz)",
-      "url": "https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a"
     }
   ],
   "unique_name": "Keep Fit Club ",

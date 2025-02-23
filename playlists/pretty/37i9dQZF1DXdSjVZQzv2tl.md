@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme, Wesley Safadão
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,869,138 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,870,184 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

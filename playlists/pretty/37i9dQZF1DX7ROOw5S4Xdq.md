@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,126 likes - 53 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,176 likes - 53 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:56 |
-| 2 | [Santo de Israel \- Ao vivo](https://open.spotify.com/track/6oNg7lKTBAiHqR1Bc0xUfQ) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Santo de Israel \(Ao vivo\)](https://open.spotify.com/album/4iN3fN1HyETiwdnOgUoKhn) | 9:46 |
+| 2 | [Santo de Israel \- Ao Vivo](https://open.spotify.com/track/6oNg7lKTBAiHqR1Bc0xUfQ) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Santo de Israel \(Ao vivo\)](https://open.spotify.com/album/4iN3fN1HyETiwdnOgUoKhn) | 9:46 |
 | 3 | [Poder do Alto](https://open.spotify.com/track/1JC6RaoaRu0VtRMpVALEE2) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Cantai a Deus Com Alegria 2025](https://open.spotify.com/album/43RKYpKf0YkEBNnx1u5B75) | 4:42 |
 | 4 | [Este É o Som da Tua Noiva \- Ao Vivo](https://open.spotify.com/track/1uREVwTiUEd4S9gPQaReAO) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Este É o Som da Tua Noiva \(Ao Vivo\)](https://open.spotify.com/album/3JHxYjbWXFhtYooaZ9rLCJ) | 14:26 |
 | 5 | [Minha Escolha Diária \- Ao Vivo](https://open.spotify.com/track/5tS3HUNg6c28z4PJxPksK4) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI) | [Minha Escolha Diária \(Ao Vivo\)](https://open.spotify.com/album/16TiHpSqtqC4EFAv1CUU6h) | 6:45 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 52 | [O Decreto](https://open.spotify.com/track/2AOsg2joSzjAiiTMDcS52d) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [O Decreto](https://open.spotify.com/album/78KTltCJf8S15422VosBrA) | 4:26 |
 | 53 | [O Céu](https://open.spotify.com/track/5fhdpABhotbKlLEQt1a83k) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [O Céu](https://open.spotify.com/album/2xU0Gb1VqmFjaEWtIMy28t) | 4:35 |
 
-Snapshot ID: `Z7j4SwAAAABlGEB/uvZWvnQMZOTDu3bH`
+Snapshot ID: `Z7j4SwAAAAAShp680XmD5Q5YEbwx6Vov`

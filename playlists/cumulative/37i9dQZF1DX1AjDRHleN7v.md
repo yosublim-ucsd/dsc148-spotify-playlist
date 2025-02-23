@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-136 songs - 7 hr 43 min
+137 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Sonhei Com Você](https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr) | 3:28 | 2023-11-10 | 2024-02-24 |
 | [Sonhei Com Você](https://open.spotify.com/track/287VCse3MOuvKUyyC3xhSh) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/0Ihx0FWz6rTdqqAwn4fGNb) | 3:28 | 2023-07-03 | 2023-11-03 |
 | [Sou Tão Eu](https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Sou Tão Eu](https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x) | 3:23 | 2024-04-12 | 2024-08-03 |
+| [Sunshine](https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM) | [Alexandre Carlo](https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2) | [Sunshine](https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk) | 3:23 | 2025-02-21 |  |
 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 | 2024-12-27 |  |
 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 | 2023-07-03 | 2024-04-19 |
 | [Telegrama](https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Telegrama](https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ) | 3:39 | 2024-06-14 |  |
@@ -133,7 +134,7 @@
 | [Tô Falando Sério](https://open.spotify.com/track/6z2uY9gMkM0L5tLhUqRf9K) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Tô Falando Sério](https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG) | 2:26 | 2023-07-03 | 2024-02-24 |
 | [Tô Te Esperando pra Dançar](https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7) | [Gu Andersen](https://open.spotify.com/artist/66b5vc5HnjIcG0cwWg5ITA), [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN) | [Tô Te Esperando pra Dançar](https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h) | 3:18 | 2024-08-30 | 2024-11-16 |
 | [Um Anjo do Céu](https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Já](https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM) | 3:19 | 2023-07-03 |  |
-| [Um Sinal](https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq) | [André Rios](https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8), [Lira](https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM) | [Um Sinal](https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09) | 3:58 | 2024-09-30 |  |
+| [Um Sinal](https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq) | [André Rios](https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8), [Lira](https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM) | [Um Sinal](https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09) | 3:58 | 2024-09-30 | 2025-02-23 |
 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 | 2023-07-03 |  |
 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 | 2023-07-03 |  |
 | [Vestido De Seda](https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Origem](https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE) | 2:33 | 2024-09-30 |  |

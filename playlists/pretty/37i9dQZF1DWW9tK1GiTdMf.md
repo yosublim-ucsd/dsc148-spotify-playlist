@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ centomilacarie in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,985 likes - 110 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,990 likes - 110 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 65 | [STUPiDO](https://open.spotify.com/track/6WF6q9BW8OwjqIVEnQX2Vx) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS) | [STUPiDO](https://open.spotify.com/album/02y3vKC998r1DTEsSirxaG) | 2:07 |
 | 66 | [NON MI VA](https://open.spotify.com/track/3RD9HtzEbgmH86nIfr2SXp) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [NON MI VA](https://open.spotify.com/album/0VNsYTn8YMlxYPbwI3iobz) | 2:07 |
 | 67 | [NON CI SEI](https://open.spotify.com/track/1bXeU6ZUjpjhB6j5TgU6DW) | [Keiden](https://open.spotify.com/artist/7vDYluyeES43WBk8Jk29Ib) | [NON CI SEI](https://open.spotify.com/album/5fPMnFONs18mBDGhT7G1uV) | 2:47 |
-| 68 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 |
+| 68 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 |
 | 69 | [ESAGERO](https://open.spotify.com/track/5uP9TdpCEiIpZ4261XlO5q) | [Comeilmiele](https://open.spotify.com/artist/4OcuLUpqOjSYlrZN8W87Qn) | [ESAGERO](https://open.spotify.com/album/375MwsxnQPSvACUN0N2SDi) | 2:47 |
 | 70 | [Azoto](https://open.spotify.com/track/0a8TdkAF4BXx0KO8e2KxLx) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ), [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [Azoto](https://open.spotify.com/album/1bVF193hdBqpIU0TKxaHxg) | 2:20 |
 | 71 | [colpAmiA](https://open.spotify.com/track/5Iv2tvlXXeQTbbCdvSKRQd) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC) | [colpAmiA](https://open.spotify.com/album/4jPDkJGOVHz1ITIsfUwTl7) | 2:51 |

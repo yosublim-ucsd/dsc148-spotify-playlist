@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "All new Contemporary Christian songs on the rise! Cover: Jon Reddick",
+  "description": "All new Contemporary Christian songs on the rise! Cover: Leanna Crawford",
   "name": "Christian Rising",
   "tracks": [
     {
@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Still Waters (Deluxe)",
+        "url": "https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Better Yet",
+      "url": "https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE"
+    },
+    {
+      "album": {
         "name": "Big Tent Revival",
         "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
       },
@@ -1022,6 +1040,24 @@
       "duration_ms": 223399,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
+    },
+    {
+      "album": {
+        "name": "Closer Than I Know",
+        "url": "https://open.spotify.com/album/6IhN2gQpNPhbQBh0S441VT"
+      },
+      "artists": [
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243123,
+      "name": "Closer Than I Know",
+      "url": "https://open.spotify.com/track/4SUfAC9hSsGv5oIgJcaJj5"
     },
     {
       "album": {
@@ -1815,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Forever Communion",
+        "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206479,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
+    },
+    {
+      "album": {
         "name": "Friend in Jesus",
         "url": "https://open.spotify.com/album/3smvzHUzniTbMpH9xW8YNK"
       },
@@ -2578,7 +2632,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 218578,
       "name": "Heartbreak Feels Like Home",
       "url": "https://open.spotify.com/track/3YjAnfmtN1B6yAJDc107wj"
@@ -2650,7 +2704,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 235125,
       "name": "Hell Shakes",
       "url": "https://open.spotify.com/track/0scBHifr0L7FtMHrVuhjXl"
@@ -3342,6 +3396,24 @@
       "duration_ms": 233301,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "album": {
+        "name": "I Still Need Jesus (Radio Version)",
+        "url": "https://open.spotify.com/album/2WwrXrKFY6XWwTtrRTGr2P"
+      },
+      "artists": [
+        {
+          "name": "After Grace",
+          "url": "https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195940,
+      "name": "I Still Need Jesus - Radio Version",
+      "url": "https://open.spotify.com/track/5fy2QC8H7oOe078hin7nNv"
     },
     {
       "album": {
@@ -4441,6 +4513,24 @@
     },
     {
       "album": {
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
+    },
+    {
+      "album": {
         "name": "Live Out Loud",
         "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
       },
@@ -5075,6 +5165,28 @@
     },
     {
       "album": {
+        "name": "My Life Is What You Make It",
+        "url": "https://open.spotify.com/album/0WLVEFPAIT3Gu4p7vLcrlF"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Samantha McCabe",
+          "url": "https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293711,
+      "name": "My Life Is What You Make It",
+      "url": "https://open.spotify.com/track/6EO5hozAVGH4jzzHKoywfz"
+    },
+    {
+      "album": {
         "name": "My Lord Provided (Radio Version)",
         "url": "https://open.spotify.com/album/2pk8eHUcJ1LmUpX4GLSp9a"
       },
@@ -5361,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/1TTimdnFT1R0wtRi9Pb95C"
+      },
+      "artists": [
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151276,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/1UBgJ4krMOhlMwtUv8P6JB"
+    },
+    {
+      "album": {
         "name": "Nothin' Sweeter",
         "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
       },
@@ -5470,6 +5600,24 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "album": {
+        "name": "only Idol",
+        "url": "https://open.spotify.com/album/1AMMkAWHCz5JAyLFB3VSi2"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "only Idol",
+      "url": "https://open.spotify.com/track/10wmU2qw1y71eZr67HewqF"
     },
     {
       "album": {
@@ -5676,7 +5824,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 262936,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/1NF2lAe40Qvc7VQafWeR4z"
@@ -5760,7 +5908,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 237260,
       "name": "PRAISE",
       "url": "https://open.spotify.com/track/6jNuhiIQYVfCjekWtSUpCg"
@@ -5996,7 +6144,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 346750,
       "name": "Revival Town - 2024",
       "url": "https://open.spotify.com/track/3tOGFRsyEyivySLPAaMMbH"
@@ -6141,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Runs Deep",
+        "url": "https://open.spotify.com/album/4smwHvbi6U0NAV4QhTwmiD"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181625,
+      "name": "Runs Deep",
+      "url": "https://open.spotify.com/track/5LMPzktMwPp1cslz5Cnxqp"
+    },
+    {
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp"
       },
@@ -6272,6 +6438,32 @@
       "duration_ms": 216610,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
+    },
+    {
+      "album": {
+        "name": "SAY SO",
+        "url": "https://open.spotify.com/album/5vXHeXTNMP1JyUwruNMkm3"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        },
+        {
+          "name": "Brook Abella",
+          "url": "https://open.spotify.com/artist/6KKMqashNdRSICeztUJkAJ"
+        },
+        {
+          "name": "Mitch Langley",
+          "url": "https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216705,
+      "name": "SAY SO",
+      "url": "https://open.spotify.com/track/0hrCGUn5v6p5qINjVR84Je"
     },
     {
       "album": {
@@ -6661,6 +6853,46 @@
     },
     {
       "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
+    },
+    {
+      "album": {
+        "name": "Take Care of Me",
+        "url": "https://open.spotify.com/album/10NoCod7WbsamE1GkAdFk8"
+      },
+      "artists": [
+        {
+          "name": "Tondi Rams",
+          "url": "https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Take Care of Me",
+      "url": "https://open.spotify.com/track/6lrFxFgwf9ePXlQhJS7tcI"
+    },
+    {
+      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
@@ -6991,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "The Fence",
+        "url": "https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP"
+      },
+      "artists": [
+        {
+          "name": "Luke Bower",
+          "url": "https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202664,
+      "name": "The Fence",
+      "url": "https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl"
+    },
+    {
+      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -7111,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "All Joy",
+        "url": "https://open.spotify.com/album/3ywgh170jsSnhUGKqiQzNX"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232297,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5YfH2ofmhBD8U0ndVAId6n"
+    },
+    {
+      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
@@ -7180,6 +7448,24 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+    },
+    {
+      "album": {
+        "name": "The World's Better 'Cause You're In It",
+        "url": "https://open.spotify.com/album/5ZoawZizrsSua9rUyE23Pn"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "The World's Better 'Cause You're In It",
+      "url": "https://open.spotify.com/track/3je4rbNm3C1zRkmEO7kgim"
     },
     {
       "album": {
@@ -7443,6 +7729,28 @@
     },
     {
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/37C8CqGiLPZ1gBD7tZjyQU"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe"
+    },
+    {
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
       },
@@ -7678,7 +7986,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 239663,
       "name": "What It's Like Believing",
       "url": "https://open.spotify.com/track/3tQYBQzTG88z5zEJTnFeoP"

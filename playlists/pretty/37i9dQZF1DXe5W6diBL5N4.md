@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JISOO\(지수\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,372 likes - 171 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,492 likes - 171 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 12 | [Someone I Know](https://open.spotify.com/track/5GTKsVRJZFxIqVzU9dCojJ) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Someone I Know](https://open.spotify.com/album/2lvXJqGEVay3Cou1kv0On4) | 3:35 |
 | 13 | [Alone in the garden](https://open.spotify.com/track/0UsTi9F7ajW5Snu9MZGK6j) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Alone in the garden 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/1Yyfolk8RmHpbYWkWK0dOp) | 3:32 |
 | 14 | [I Miss U](https://open.spotify.com/track/0yZf3jtKO5kR1025UyNT1n) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [The Scandal of Chun Hwa \(TVING Original Soundtrack\), Pt\. 3](https://open.spotify.com/album/6bX1pWQuXpPOAmsQxAfyBg) | 4:20 |
-| 15 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
+| 15 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
 | 16 | [Hated, Loved, and Bloomed](https://open.spotify.com/track/3nYMCRJSpmYLeFpfAkaWZt) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Hated, Loved, and Bloomed](https://open.spotify.com/album/6iGRqKh6X8cLbDU6mSbFJT) | 4:10 |
 | 17 | [bath mumble.](https://open.spotify.com/track/0ion9RyEnpjh7s69lNpm9n) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [bath mumble.](https://open.spotify.com/album/2gtnE6PCZv3q6K6Z11n8Dg) | 2:55 |
 | 18 | [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 22 | [love me too](https://open.spotify.com/track/1ZUUgiKKkmYJzgGdN8ZGaY) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [KickKickKickKick \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5IO4gJkW5ag2sEbpPMWQX1) | 3:06 |
 | 23 | [Butterfly](https://open.spotify.com/track/6EX2u3rBDR606W9N37iglB) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Butterfly](https://open.spotify.com/album/4yi5BI3qDbbMKo4hbaEwv7) | 3:00 |
 | 24 | [Take It All Away](https://open.spotify.com/track/1yyhf0d975rw9OkMTif20U) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [Take It All Away](https://open.spotify.com/album/7mpI6DVRmvsHIFoxm8Jvg6) | 4:17 |
-| 25 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun \(0WAVE\)](https://open.spotify.com/artist/6Sz2tD6LEK9ViKwW4BYU4t) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 |
+| 25 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 |
 | 26 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 |
 | 27 | [Sideways](https://open.spotify.com/track/3C1RXABEwAoH9Dnnx21UYt) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Unmasked \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7jZ8IeruG5vaEFfkJnx1gR) | 2:45 |
 | 28 | [The Stranger](https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY IDENTITY](https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK) | 3:03 |

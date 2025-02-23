@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: SKIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,774 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,875 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Down The Street](https://open.spotify.com/track/2KY7PvxPgKn442isLDDbCa) | [Valerio Vaudano](https://open.spotify.com/artist/6BG2aTO00pc5PyrGQMj0x1) | [Lose My Mind](https://open.spotify.com/album/6LdnIhNxBfC4z5u85JYI8T) | 4:52 |
 | 90 | [Emotion Overload](https://open.spotify.com/track/7EqFx2b0yW3WTlzcwtW557) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [You Are The Sun, I Am The Sky](https://open.spotify.com/album/0JaZ85yJFrNJAsUNzkJeNl) | 3:42 |
 
-Snapshot ID: `Z7g8CAAAAAClcx3UPXEZrgZoK5epoRuf`
+Snapshot ID: `Z7g8CAAAAAAE8Gr/kjpmw7otNGSVP61Z`

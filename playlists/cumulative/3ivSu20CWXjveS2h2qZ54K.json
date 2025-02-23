@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Am I Really Dreaming?",
+        "url": "https://open.spotify.com/album/3eVEgtKnU9svsVIGC9jKgl"
+      },
+      "artists": [
+        {
+          "name": "Iboreh",
+          "url": "https://open.spotify.com/artist/3Vj7g6D88wjgEE38ScyjA7"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Am I Really Dreaming?",
+      "url": "https://open.spotify.com/track/19edU8oaCF734Sk1nuNFud"
+    },
+    {
+      "album": {
         "name": "Amantes de la noche",
         "url": "https://open.spotify.com/album/3OY9eUyvhV8Qvdj0LACQnU"
       },
@@ -57258,8 +57276,8 @@
           "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
         },
         {
-          "name": "M\u00f3nica Naranjo",
-          "url": "https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw"
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
         }
       ],
       "date_added": "2025-02-21",

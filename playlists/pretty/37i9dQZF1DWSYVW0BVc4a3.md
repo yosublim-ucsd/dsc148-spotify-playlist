@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > IC & Virji <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,266 likes - 378 songs - 1 day 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,396 likes - 378 songs - 1 day 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 10 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 |
 | 11 | [Analog Ascent](https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 3:17 |
 | 12 | [Coolin](https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Coolin](https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp) | 2:35 |
-| 13 | [Jade \- Original Mix](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
+| 13 | [Jade](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
 | 14 | [Bring It Back](https://open.spotify.com/track/2H7BfJp5ojXhCdOMt161CR) | [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Bring It Back](https://open.spotify.com/album/1cGeLMbKgiahLK6fiIswg5) | 3:23 |
 | 15 | [Maria](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:37 |
-| 16 | [Prochamara \- Original Mix](https://open.spotify.com/track/5O0CneQDIDwZQwwm6SwxHQ) | [Baime](https://open.spotify.com/artist/1BhpnaiATjhNtIjTjSHLz4), [Jepe](https://open.spotify.com/artist/5ejwp8bnIfkstS6zPBSrzO) | [Florilegia II](https://open.spotify.com/album/6FQ8ecQkbCT1BJnSDzE1tH) | 5:59 |
+| 16 | [Prochamara](https://open.spotify.com/track/5O0CneQDIDwZQwwm6SwxHQ) | [Baime](https://open.spotify.com/artist/1BhpnaiATjhNtIjTjSHLz4), [Jepe](https://open.spotify.com/artist/5ejwp8bnIfkstS6zPBSrzO) | [Florilegia II](https://open.spotify.com/album/6FQ8ecQkbCT1BJnSDzE1tH) | 5:59 |
 | 17 | [Coins](https://open.spotify.com/track/3WcWmhHyMM04VYU6o8xKle) | [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Coins](https://open.spotify.com/album/5K8VSxSzP9U8SVpCYxWiHy) | 4:06 |
 | 18 | [Hot & Mysterious](https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hot & Mysterious](https://open.spotify.com/album/2WUZrYy8Edtl3xmrWWDEAq) | 2:35 |
 | 19 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 377 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 378 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `Z7e0CAAAAABmeKAIOtB4Uxu5oQeOc+Z9`
+Snapshot ID: `Z7e0CAAAAACxKOv3xSdMOAsy2bE4Na3Q`

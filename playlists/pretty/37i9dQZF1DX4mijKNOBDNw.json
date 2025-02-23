@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Paracas Cavernas",
         "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 268011,
       "name": "Paracas Cavernas",
       "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -491,22 +491,18 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
+        "name": "Alma Mestiza",
+        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
       },
       "artists": [
         {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        },
-        {
-          "name": "MULAMBA",
-          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
         }
       ],
-      "duration_ms": 189778,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+      "duration_ms": 173874,
+      "name": "Ni Encerradas Ni Con Miedos",
+      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -531,18 +527,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Alma Mestiza",
-        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
       "artists": [
         {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        },
+        {
+          "name": "MULAMBA",
+          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
         }
       ],
-      "duration_ms": 173874,
-      "name": "Ni Encerradas Ni Con Miedos",
-      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
+      "duration_ms": 189778,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "D\u00e9jame de Matar",
-        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "D\u00e9jame de Matar",
-      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "La Manada",
         "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Marta",
-        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
-      },
-      "artists": [
-        {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
-        }
-      ],
-      "duration_ms": 207452,
-      "name": "Otra Humanidad",
-      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Femrevoluci\u00f3n",
         "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 194181,
       "name": "Femrevoluci\u00f3n",
       "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Marta",
+        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
+      },
+      "artists": [
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
+        }
+      ],
+      "duration_ms": 207452,
+      "name": "Otra Humanidad",
+      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
     },
     {
       "added_at": "2024-07-23 21:39:12",

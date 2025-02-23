@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-297 songs - 19 hr 9 min
+298 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 | 2024-03-28 |  |
 | [Shiny Toys](https://open.spotify.com/track/1T0VhB8dbtqrQthghKbeFR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:27 | 2024-03-21 |  |
 | [Sisotowbell Lane](https://open.spotify.com/track/7hIlyd77ArhdaHcKA5SNGw) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 4:04 | 2024-03-22 |  |
-| [Slouching Towards Bethlehem](https://open.spotify.com/track/0KiHk0bt20OAARhXkfTn00) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 7:09 | 2024-03-21 |  |
+| [Slouching Towards Bethlehem](https://open.spotify.com/track/5SNXhqBr6rVhJ7y1JNIBDi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 6:54 | 2025-02-22 |  |
+| [Slouching Towards Bethlehem](https://open.spotify.com/track/0KiHk0bt20OAARhXkfTn00) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 7:09 | 2024-03-21 | 2025-02-23 |
 | [Smokin' \(Empty, Try Another\)](https://open.spotify.com/track/6Gri6TvTy7vCNQLqQCO8vA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 1:43 | 2024-03-21 |  |
 | [Snakes And Ladders](https://open.spotify.com/track/07wiC8crUT7gMSVTbUREsv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:40 | 2024-03-21 |  |
 | [Solid Love](https://open.spotify.com/track/0x5oQIxpWcBFVTcWL4Ulxk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:05 | 2024-03-21 |  |

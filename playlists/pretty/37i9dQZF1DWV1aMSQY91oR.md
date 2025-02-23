@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,761 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
 | 29 | [Party On The Westside](https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Party On The Westside](https://open.spotify.com/album/6nVmBvD9jQfTILcWkFT50r) | 3:29 |
 | 30 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
-| 31 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:06 |
+| 31 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
 | 32 | [Toot It Up](https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Toot It Up](https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO) | 2:09 |
 | 33 | [Baby Mama](https://open.spotify.com/track/50Q4plE4fNaaHpGN5SsD5a) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh), [DTBeats](https://open.spotify.com/artist/26h7E33a2OfXSfYWlhw4K2) | [Baby Mama](https://open.spotify.com/album/6xueRdctJu8Yv1btXhcJ97) | 2:27 |
 | 34 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |

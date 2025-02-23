@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Chloe Moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,182 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,040 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Rebellion](https://open.spotify.com/track/5XlZ6Z7MqWajjms2m2Qu7s) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Rebellion](https://open.spotify.com/album/1jGQWXD3ZArXI6SenJ6TS9) | 2:25 |
 | 99 | [Goodie Bag](https://open.spotify.com/track/7KLdvaoeoiFvAeHID4ZZvZ) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Goodie Bag](https://open.spotify.com/album/2gCocbDgxUmqC33OZJAnNh) | 2:24 |
 
-Snapshot ID: `Z7gIaQAAAAAO8zCnQ6kMbZ6Fm4EwvFs0`
+Snapshot ID: `Z7gIaQAAAABvzq+DLj33iNRmuXsBuRmY`

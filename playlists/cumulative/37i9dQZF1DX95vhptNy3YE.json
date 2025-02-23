@@ -7727,6 +7727,28 @@
     },
     {
       "album": {
+        "name": "Mania Especial: Milthinho, Vol. 2",
+        "url": "https://open.spotify.com/album/2rsRFJB28YPlvYm1LDZmtF"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        },
+        {
+          "name": "Mania do Brasil",
+          "url": "https://open.spotify.com/artist/7qX0K6BkuG9e9Hio2tWcE8"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224722,
+      "name": "Maior Barato",
+      "url": "https://open.spotify.com/track/5xrOwoxaAKovm3FcbbMQ0s"
+    },
+    {
+      "album": {
         "name": "Malandrex",
         "url": "https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw"
       },
@@ -12490,7 +12512,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 127500,
       "name": "Rotina 2",
       "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"

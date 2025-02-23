@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-680 songs - 2 day 5 hr 3 min
+681 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Fine Day](https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Fine Day](https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV) | 3:34 | 2024-07-02 | 2025-01-17 |
 | [Fine Day](https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fine Day](https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38) | 3:23 | 2024-02-29 |  |
 | [Fired Up](https://open.spotify.com/track/4ym9Ti3UWOduBs7eh2KaCG) | [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Fired Up](https://open.spotify.com/album/5ABKjOsLVghJRSyB7jguFo) | 3:17 | 2024-09-12 | 2024-11-01 |
-| [Flame](https://open.spotify.com/track/2U1pAsmISPGuRUZAfSLNFF) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Dean Fraiser](https://open.spotify.com/artist/4q1NW0f0ApUEcPDiIrnsHI) | [Flame](https://open.spotify.com/album/56zyADMd3QWQAl1CTVLR1y) | 3:08 | 2024-11-07 |  |
+| [Flame](https://open.spotify.com/track/2U1pAsmISPGuRUZAfSLNFF) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Dean Fraiser](https://open.spotify.com/artist/4q1NW0f0ApUEcPDiIrnsHI) | [Flame](https://open.spotify.com/album/56zyADMd3QWQAl1CTVLR1y) | 3:08 | 2024-11-07 | 2025-02-23 |
 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [JV](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 | 2025-02-20 |  |
 | [Flickering Screens](https://open.spotify.com/track/3O5t6QwfVb1pfG8b9cravm) | [PARI](https://open.spotify.com/artist/3US9YU4DOMD9TfCNehM1Ux), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Flickering Screens](https://open.spotify.com/album/2BgcSrFSQQ7Dj99GCIXFU0) | 3:10 | 2023-05-05 | 2023-05-07 |
 | [Floating](https://open.spotify.com/track/2nIn3nbuTc1hraOplc0aOS) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Floating](https://open.spotify.com/album/0tkX7wLgWKsrKfGWFZhA1e) | 4:32 | 2023-05-23 | 2023-06-06 |
@@ -420,6 +420,7 @@
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-12-28 | 2023-01-06 |
 | [One](https://open.spotify.com/track/7iOicmTfgUU7nx05MdwjNc) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Reverse Affection](https://open.spotify.com/album/1qEHygPuXMc1JsjXWHGo1F) | 7:29 | 2023-04-07 | 2023-04-29 |
 | [One More Fluorescent Rush](https://open.spotify.com/track/0oHp0oW3RhkwBuNSDFY1Jq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 013](https://open.spotify.com/album/34ARyooCzTJw3YydlcqBiW) | 6:27 | 2022-11-23 | 2023-02-04 |
+| [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 | 2025-02-20 |  |
 | [Onyx \- Radio Edit](https://open.spotify.com/track/6Vwgdgx220zQqVbinyFX4G) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Onyx \(Radio Edit\)](https://open.spotify.com/album/72BtSioS5oDhdOIJpOcgjR) | 3:55 | 2023-08-18 | 2023-09-02 |
 | [Optical](https://open.spotify.com/track/6Y5EdBwTFQM8clidhhzjGt) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [Optical](https://open.spotify.com/album/5Sc6zAek1TEUL1h2cCXJjG) | 8:05 | 2022-11-24 | 2022-11-28 |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-11-23 | 2023-04-29 |

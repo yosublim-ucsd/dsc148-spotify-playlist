@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: KISS OF LIFE)",
-  "num_followers": 238457,
+  "num_followers": 238452,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,38 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Hugs & Kisses",
+      "url": "https://open.spotify.com/track/5nQVbMv0XEGLGB39wpneQI"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -163,50 +195,18 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
       "artists": [
         {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 162880,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Hugs & Kisses",
-      "url": "https://open.spotify.com/track/5nQVbMv0XEGLGB39wpneQI"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 140021,
-      "name": "Lucky Girl Syndrome",
-      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -227,18 +227,18 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+      "duration_ms": 140021,
+      "name": "Lucky Girl Syndrome",
+      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "CINEMA PARADISE",
-        "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "GOOD SO BAD",
-      "url": "https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 189858,
       "name": "Let Me In (20 CUBE)",
       "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "CINEMA PARADISE",
+        "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "GOOD SO BAD",
+      "url": "https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "See You in My 19th Life, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 206064,
-      "name": "DOWN (Juicy Juicy)",
-      "url": "https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "HANN (Alone)",
         "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "See You in My 19th Life, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 206064,
+      "name": "DOWN (Juicy Juicy)",
+      "url": "https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "Offset",
         "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 212136,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "Band Aid",
-        "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 165587,
-      "name": "Melt Down",
-      "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -803,6 +787,22 @@
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "Band Aid",
+        "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 165587,
+      "name": "Melt Down",
+      "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
-        "name": "SABOTAGE",
-        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "SABOTAGE",
-      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
         "name": "Balloon in Love",
         "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 194093,
       "name": "Balloon in Love",
       "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "SABOTAGE",
+      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2025-02-19 04:54:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-02-19 04:54:12",
       "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "added_at": "2025-02-19 04:54:12",
+      "album": {
         "name": "SELF",
         "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
       },
@@ -1655,26 +1671,6 @@
       "duration_ms": 175053,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd"
-    },
-    {
-      "added_at": "2025-02-19 04:54:12",
-      "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Love & hate (Feat. BIBI)",
-      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

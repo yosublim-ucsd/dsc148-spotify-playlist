@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Sabino y C\u00f3digo FN en portada.",
-  "num_followers": 286116,
+  "num_followers": 286113,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
-        "name": "LA MALA",
-        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 144602,
-      "name": "LA MALA",
-      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
+        "name": "El Jefe Lexus (Grupo Rangers)",
+        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 150489,
+      "name": "El Jefe Lexus (Grupo Rangers)",
+      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
         "name": "2pa2 (Remix)",
         "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 214218,
       "name": "2pa2 (Remix)",
       "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
-        "name": "El Jefe Lexus (Grupo Rangers)",
-        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 150489,
-      "name": "El Jefe Lexus (Grupo Rangers)",
-      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
     },
     {
       "added_at": "2025-02-07 06:00:18",

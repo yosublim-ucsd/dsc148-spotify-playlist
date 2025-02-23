@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Sydney Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,646 likes - 139 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,707 likes - 139 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

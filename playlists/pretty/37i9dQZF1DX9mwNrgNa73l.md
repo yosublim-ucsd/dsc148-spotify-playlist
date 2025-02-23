@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,954 likes - 75 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,014 likes - 75 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 36 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 |
 | 37 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 |
 | 38 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 |
-| 39 | [Piya Milenge](https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [KMMC Sufi Ensemble](https://open.spotify.com/artist/5J3dqhxLAVxMeDRSza2M7U) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 5:55 |
+| 39 | [Piya Milenge \(From "Raanjhanaa"\)](https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [KMMC Sufi Ensemble](https://open.spotify.com/artist/5J3dqhxLAVxMeDRSza2M7U) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 5:55 |
 | 40 | [Aik Alif](https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV) | [Saieen Zahoor & Noori](https://open.spotify.com/artist/6jVprp3uYRJ6Cr8jTn8lkV), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:09 |
 | 41 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
 | 42 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 |

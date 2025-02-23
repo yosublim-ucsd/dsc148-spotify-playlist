@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,048 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,075 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 60 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
 | 61 | [Photograph](https://open.spotify.com/track/4xoSwqIs0sNjt4QvU4uArL) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Photograph](https://open.spotify.com/album/3uNEaCgPdiqEGsMBjZ9Moq) | 3:57 |
 | 62 | [Feessie](https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H) | 3:08 |
-| 63 | [Like A Fool](https://open.spotify.com/track/4oSmBuXrPT1FOtDw4zguok) | [Vice Vrsa](https://open.spotify.com/artist/2VVDoHqHLMwc1uG2dznzr5), [Maurice Rozen](https://open.spotify.com/artist/5UHUHjYlezzdK602tXEcKu) | [Like A Fool](https://open.spotify.com/album/2dsyRWq24sftA8ETCrEwbr) | 2:49 |
+| 63 | [Like A Fool](https://open.spotify.com/track/4oSmBuXrPT1FOtDw4zguok) | [Vice Vrsa](https://open.spotify.com/artist/2VVDoHqHLMwc1uG2dznzr5), [Maurice Rozen](https://open.spotify.com/artist/5UHUHjYlezzdK602tXEcKu), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [Like A Fool](https://open.spotify.com/album/2dsyRWq24sftA8ETCrEwbr) | 2:49 |
 | 64 | [Bounce Back](https://open.spotify.com/track/0V7nWbqa7jGfBA9dPEs4j9) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Peter Somuah](https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU) | [Bounce Back](https://open.spotify.com/album/2MpXVIZRztQR6XSkCXAbt3) | 3:18 |
 | 65 | [Weekend](https://open.spotify.com/track/5SBoHnZ0j3296tXHaKJs8R) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Weekend](https://open.spotify.com/album/71ZoUX1iozJo0CFtKZukFZ) | 3:26 |
 | 66 | [No One Said](https://open.spotify.com/track/65vPvXMPdG9Plfytj6T0r5) | [Áslaug](https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz) | [No One Said](https://open.spotify.com/album/2vMkCaxGJL81X3BlQPpRqQ) | 3:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Ik Sta Niet Meer Droog](https://open.spotify.com/track/445x60Jpapp5OS7wtLqKe2) | [Gullie](https://open.spotify.com/artist/73qkoyU06a6hJGCH8MInEW) | [Ik Sta Niet Meer Droog](https://open.spotify.com/album/74Y9H3HP4XhBYrS5HS7X1A) | 3:10 |
 | 99 | [Band Met Jou Beginnen](https://open.spotify.com/track/2JVGtvdtpVTmDFK8K1VVgB) | [C.V\. De GiErBoYs](https://open.spotify.com/artist/6ae2uDrp401Mvw0jIXGKfm) | [Band Met Jou Beginnen](https://open.spotify.com/album/0TSChyswqysUnRrd3jIzXH) | 2:39 |
 
-Snapshot ID: `Z7fCEgAAAAAqXTtVaO+nnT6HTeh3vL9o`
+Snapshot ID: `Z7fCEgAAAAAJhQZcb2NLs3LAuc/KJTo0`

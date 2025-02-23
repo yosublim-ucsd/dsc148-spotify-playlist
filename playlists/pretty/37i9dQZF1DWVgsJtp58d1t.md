@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > <a href="https://www.instagram.com/spotify/p/DGVl\_jhpGGV/?img\_index=1">Meet the collectives</a> who are shaping the future of culture\. Cover: <a href="spotify:artist:2sflbTtCirog5VxD6jPAfb">Monaleo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,097 likes - 260 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,277 likes - 260 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

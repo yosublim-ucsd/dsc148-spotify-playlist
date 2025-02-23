@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 211618,
       "name": "Burn it (feat. DEAN)",
       "url": "https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 221680,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
@@ -5468,8 +5468,8 @@
       },
       "artists": [
         {
-          "name": "wooseojun (0WAVE)",
-          "url": "https://open.spotify.com/artist/6Sz2tD6LEK9ViKwW4BYU4t"
+          "name": "wooseojun",
+          "url": "https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b"
         }
       ],
       "date_added": "2025-02-20",

@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Yeat
 
-130 songs - 5 hr 32 min
+134 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-13 |  |
 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2023-12-01 |  |
 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 | 2024-02-20 | 2024-10-26 |
+| [Aye Rage](https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [YourRAGE](https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk) | [Aye Rage](https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC) | 1:53 | 2025-02-22 |  |
 | [Bad Man](https://open.spotify.com/track/2IurP1tbU3cozJx5U849zp) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:49 | 2023-12-01 | 2024-04-13 |
 | [BE RIGHT BACK](https://open.spotify.com/track/57cLYltn1gF5Dbp0a6te5p) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:47 | 2023-12-01 | 2024-03-16 |
 | [bleh](https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 | 2023-12-01 | 2024-02-03 |
+| [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 | 2025-02-22 |  |
 | [BLV Anthem](https://open.spotify.com/track/1myCuKyaEQDpuBe8DnpFQN) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Da Real Oso](https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1) | 2:19 | 2024-10-25 | 2024-12-07 |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-16 |  |
 | [buku \(feat\. SoFaygo\)](https://open.spotify.com/track/7wiTIiyRb0dtjCCIm4RMSJ) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:17 | 2023-12-01 | 2024-03-16 |
@@ -31,6 +33,7 @@
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 |  |
 | [E30](https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E30](https://open.spotify.com/album/4SOOhAjyehmv7FRKgdBOix) | 2:08 | 2024-06-14 |  |
+| [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 | 2025-02-22 |  |
 | [Excuse My French](https://open.spotify.com/track/5VgsVypakdkvcVkbIoXsap) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [CONGLOMERATE \(DELUXE\)](https://open.spotify.com/album/1OmkbDmyYrqfSLPwefZ8W3) | 1:27 | 2024-12-06 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-12-01 | 2024-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-12-01 |  |
@@ -56,6 +59,7 @@
 | [IDK IT DEPENDS](https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [2012](https://open.spotify.com/album/6ndv4g7482HJZ2pLAbpzrY) | 2:14 | 2024-07-31 |  |
 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 | 2023-12-01 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2023-12-01 | 2024-03-16 |
+| [inthej](https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [WE LOVE D\. SAVAGE](https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn) | 1:49 | 2025-02-22 |  |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-12-01 | 2024-08-01 |
 | [just score it](https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [just score it](https://open.spotify.com/album/73cibirs94ZVsObZcEdyny) | 1:47 | 2024-12-06 |  |
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-09-10 |  |

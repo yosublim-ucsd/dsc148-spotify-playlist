@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 122846,
+  "num_followers": 122873,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Pink Friday ... Roman Reloaded",
         "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 205640,
       "name": "Pound The Alarm",
       "url": "https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "G.R.L.",
-        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
-      },
-      "artists": [
-        {
-          "name": "G.R.L.",
-          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Ugly Heart",
-      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "G.R.L.",
+        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
+      },
+      "artists": [
+        {
+          "name": "G.R.L.",
+          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Ugly Heart",
+      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 159013,
       "name": "Mine",
       "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+        "name": "Froot",
+        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
+      "duration_ms": 331324,
+      "name": "Froot",
+      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1327,22 +1343,6 @@
       "duration_ms": 161332,
       "name": "Lgbt",
       "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Froot",
-        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 331324,
-      "name": "Froot",
-      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 212043,
       "name": "Here Comes The Night",
       "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "A Public Affair",
-        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "A Public Affair",
-      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Playlist: The Very Best Of Kelly Rowland",
-        "url": "https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz"
+        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
+        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Work - Freemasons Radio Edit",
-      "url": "https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P"
+      "duration_ms": 182333,
+      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
+      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
     }
   ],
   "unique_name": "Deserved",

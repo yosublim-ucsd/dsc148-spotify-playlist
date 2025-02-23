@@ -1,13 +1,33 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 32940,
+  "num_followers": 32998,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAABEEd1JxTKAV86DH0b6Nw/m",
+  "snapshot_id": "Z7fCAAAAAAAcvgfnyeS/ug1n7E5y4ZV3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "ILBB2 (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
+      },
+      "artists": [
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 133589,
+      "name": "ILBB2 (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
+    },
     {
       "added_at": null,
       "album": {
@@ -339,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
       "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 137386,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
       "added_at": null,
@@ -375,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
       },
       "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+      "duration_ms": 137386,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
     },
     {
       "added_at": null,

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "All My Life (Supreme Edition)",
+        "url": "https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "All My Life - Live",
+      "url": "https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj"
+    },
+    {
+      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
       },
@@ -1020,6 +1038,28 @@
       "duration_ms": 217652,
       "name": "Epic",
       "url": "https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp"
+    },
+    {
+      "album": {
+        "name": "eternally",
+        "url": "https://open.spotify.com/album/090yo1E1iQOAVBuZZwi6tI"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        },
+        {
+          "name": "Maddie Moon",
+          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275834,
+      "name": "eternally",
+      "url": "https://open.spotify.com/track/4OzYi906q4KWKRjK4MyIFk"
     },
     {
       "album": {
@@ -2200,7 +2240,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 140654,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7znhYJ3efuOx1P3vpoIxIe"
@@ -3002,7 +3042,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 210075,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/3wMXq46Ik6pq4hwTHl0ngz"
@@ -3677,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "The Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/1DlrJBXeNCWEQqZ3EFPW0T"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182158,
+      "name": "SOLO - Live",
+      "url": "https://open.spotify.com/track/0uLep0SLKZQsQBJRsxFBwH"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
       },
@@ -3714,6 +3772,24 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+    },
+    {
+      "album": {
+        "name": "War Cry",
+        "url": "https://open.spotify.com/album/3bfUa5skv4g2TZ7Ro2Slks"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189527,
+      "name": "STAND STRONG",
+      "url": "https://open.spotify.com/track/5CIWMOtUlrW9XWddgClI4U"
     },
     {
       "album": {
@@ -4418,7 +4494,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 232680,
       "name": "wolves - sir sly remix",
       "url": "https://open.spotify.com/track/1spKgegxm3UdFer2QiwmaS"
@@ -4616,7 +4692,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 235954,
       "name": "Your Cross Is Everything",
       "url": "https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3"

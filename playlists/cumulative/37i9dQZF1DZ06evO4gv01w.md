@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-170 songs - 9 hr 49 min
+171 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 |  |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/5S8UxDwf7l053EkJvCK9jn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love Pt\. 1](https://open.spotify.com/album/5Cnb7R1qKioeMdNH0gPSGH) | 4:07 | 2025-01-24 | 2025-01-27 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 | 2025-01-31 |  |
-| [Easy Love Pt\. 2](https://open.spotify.com/track/3Q4sXBBu9V3V46dk5YDZ9q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:27 | 2025-01-27 |  |
+| [Easy Love Pt\. 2](https://open.spotify.com/track/3Q4sXBBu9V3V46dk5YDZ9q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:27 | 2025-01-27 | 2025-02-23 |
 | [Easy Love, Pt\. 1](https://open.spotify.com/track/5Dk9fnCqZZkNpRMtczWB7t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love, Pt\. 1](https://open.spotify.com/album/4ieeFJtdxEkHtM5DxbSyyb) | 4:07 | 2025-01-27 | 2025-01-31 |
 | [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2022-08-05 | 2023-03-28 |
 | [Easy Street](https://open.spotify.com/track/5guqdCxSoMWo22zBn13ybb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:17 | 2023-06-02 | 2024-09-01 |
@@ -120,6 +120,7 @@
 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 | 2023-06-17 | 2025-01-29 |
 | [Mockingbird](https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS) | 4:06 | 2024-10-27 | 2024-11-24 |
 | [Mockingbird](https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM) | 4:06 | 2024-10-26 | 2025-02-01 |
+| [Mockingbird](https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 | 2025-02-23 |  |
 | [Nights In White Satin](https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:40 | 2023-03-19 |  |
 | [Nights In White Satin](https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:40 | 2022-08-05 | 2023-03-20 |
 | [Nowhere Fast](https://open.spotify.com/track/4O65OTIE0r8ak5klJoJUe5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:00 | 2025-01-27 |  |

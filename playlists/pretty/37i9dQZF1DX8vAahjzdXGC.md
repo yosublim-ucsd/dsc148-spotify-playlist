@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Noah, Ramengvrl
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,803 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,855 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 37 | [Residue](https://open.spotify.com/track/3FqdsybsFLPLP9z6cvgRNl) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL) | [Residue](https://open.spotify.com/album/25erL3lsyVhn3UhkzNs0YN) | 5:13 |
 | 38 | [My Baby](https://open.spotify.com/track/1pNPH4azbjxxfGvBiDq6W9) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Baby](https://open.spotify.com/album/7vAY2GYdCPYFWE5h1QJD4k) | 2:48 |
 | 39 | [Feeling](https://open.spotify.com/track/3F56BRaiq37HjdJWg6YUpj) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Cika Amalia](https://open.spotify.com/artist/2M4JBNdO2DPJBSJSutcgas) | [Feeling](https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf) | 3:34 |
-| 40 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
+| 40 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
 | 41 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 |
 | 42 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
 | 43 | [Sakit Terlalu Sakit](https://open.spotify.com/track/23FCECJRFxEW6U9euJLBKJ) | [Rio Febrian](https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9) | [Sakit Terlalu Sakit](https://open.spotify.com/album/7xuxKQon7kUNtuYiom06l2) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 93193,
+  "num_followers": 93220,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+      },
+      "artists": [
+        {
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+        }
+      ],
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -711,18 +727,26 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+        "name": "American Apparel Ad Girls",
+        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
       },
       "artists": [
         {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
+        },
+        {
+          "name": "Willam",
+          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
         }
       ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+      "duration_ms": 228271,
+      "name": "American Apparel Ad Girls",
+      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -751,30 +775,6 @@
       "duration_ms": 216506,
       "name": "We Werk Together",
       "url": "https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "American Apparel Ad Girls",
-        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
-      },
-      "artists": [
-        {
-          "name": "Courtney",
-          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
-        },
-        {
-          "name": "Willam",
-          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
-        }
-      ],
-      "duration_ms": 228271,
-      "name": "American Apparel Ad Girls",
-      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        }
-      ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        }
+      ],
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",

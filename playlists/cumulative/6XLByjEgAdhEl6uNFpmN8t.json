@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00f3nfoszt\u00f3",
+        "url": "https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tr\u00f3nfoszt\u00f3",
+      "url": "https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },

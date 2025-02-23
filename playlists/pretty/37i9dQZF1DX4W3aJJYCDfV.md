@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sam Fender \(pictured\), Tate McRae, Pozer and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,041 likes - 121 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,115 likes - 121 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 120 | [Let Me Down](https://open.spotify.com/track/4C8CpPK9C1HBGj92ecSawD) | [Ashaine White](https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05) | [Let Me Down](https://open.spotify.com/album/4yCFl5Tol0tHcjfO32UVKz) | 3:36 |
 | 121 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 
-Snapshot ID: `Z7hIEAAAAADppSGHVG71bCX/EXds5Ari`
+Snapshot ID: `Z7hIEAAAAADl1TEpxBRp4stN82bDZkRI`

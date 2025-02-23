@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 183328,
+  "num_followers": 183401,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
-      },
-      "artists": [
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Falle F\u00fcr Dich",
         "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 150465,
       "name": "Falle F\u00fcr Dich",
       "url": "https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "becks",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "\u00dcbermorgen",
         "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163275,
       "name": "\u00dcbermorgen",
       "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "UDOPIUM - Das Beste (Special Edition)",
-        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
-      },
-      "artists": [
-        {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 204291,
-      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
-      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "UDOPIUM - Das Beste (Special Edition)",
+        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
+      },
+      "artists": [
+        {
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 204291,
+      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
+      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
         }
       ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -819,22 +835,6 @@
       "duration_ms": 210693,
       "name": "Liebe ist alles",
       "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "dass liebe sch\u00f6n sein kann",
         "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 159015,
       "name": "dass liebe sch\u00f6n sein kann",
       "url": "https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-11-09 06:24:53",

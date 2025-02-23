@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Selena Gomez, Gracie Abrams, Benny Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,315 likes - 86 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,433 likes - 86 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 85 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 |
 | 86 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 |
 
-Snapshot ID: `Z7g9vgAAAADGrvKU9io71DzLhxMGZfwd`
+Snapshot ID: `Z7g9vgAAAADlE3pqr2fYPIcYzojyOVbg`

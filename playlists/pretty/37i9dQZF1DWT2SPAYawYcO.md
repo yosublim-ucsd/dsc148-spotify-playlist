@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,671 likes - 82 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,708 likes - 82 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 60 | [Dirty Money Aroma](https://open.spotify.com/track/1nWPzkSN4LjJsAsUVTA65A) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Dirty Money Aroma](https://open.spotify.com/album/7k4J4JCrDQpk43voxV7rKH) | 3:11 |
 | 61 | [Green](https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Green](https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3) | 3:57 |
 | 62 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
-| 63 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:06 |
+| 63 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
 | 64 | [Mr\. Brew](https://open.spotify.com/track/7zB5BiZszdrM2uvdVFMnz5) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Mr\. Brew](https://open.spotify.com/album/4NsiIatZKlnxl4u4HMy8l8) | 2:47 |
 | 65 | [Freestyle](https://open.spotify.com/track/59tSlzMyLojsaLVYR0QRX7) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Freestyle](https://open.spotify.com/album/58UE9yrLxaQb1NGSbqim1O) | 2:02 |
 | 66 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 81 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 |
 | 82 | [Pale Blue Dot](https://open.spotify.com/track/5MnwaOwJu9sYSd15Rokscw) | [Julia Why?](https://open.spotify.com/artist/7KRQv44ecmEYiqrP1UDiiD) | [Pale Blue Dot](https://open.spotify.com/album/4E0VmR3xhn07I4OaJyigll) | 4:14 |
 
-Snapshot ID: `Z7cnkQAAAAAIIZhFNIBDtkKckCkQE9u4`
+Snapshot ID: `Z7cnkQAAAABGDdm2viTlkGZQe4Wnv3ks`

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-458 songs - 1 day 14 hr 11 min
+459 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-01-23 | 2025-01-15 |
 | [Frames](https://open.spotify.com/track/78Njj9j4LsV2aMvJnka8FG) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 4:27 | 2025-01-24 |  |
 | [Frekm, Pt\. 1](https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Meaning's Edge](https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh) | 6:45 | 2025-01-24 |  |
+| [Fuggire](https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Lirica Ucraina](https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb) | 3:21 | 2025-02-21 |  |
 | [Full Moon](https://open.spotify.com/track/5ktpSEIJoMmz5AtfzVeqBb) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Ekizikiza Mubwengula](https://open.spotify.com/album/05f58iMP9KoPbeiGAzaz4i) | 2:22 | 2021-12-26 | 2022-01-14 |
 | [Gamla Drömmars Stad](https://open.spotify.com/track/5KmxT1EsPt2E01PTHlROb3) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Dag Rosenqvist](https://open.spotify.com/artist/48wweWXKBVt3B0FdyYNprj), [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui) | [Stadsbilder](https://open.spotify.com/album/32dQ6VGcKlWLwD0tJwhM2d) | 4:18 | 2022-01-07 | 2023-05-10 |
 | [Geist](https://open.spotify.com/track/7nrNnm2eb1cv14RoLz2E9r) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:13 | 2025-01-14 |  |
@@ -292,7 +293,7 @@
 | [Organism](https://open.spotify.com/track/1TAPoVwcJArEIsFUor3vbJ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 5:14 | 2023-06-23 | 2025-01-10 |
 | [Orgias de Bordados](https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje) | [Evamuss](https://open.spotify.com/artist/3RFdmvqOyjqP4DDGhdTkX1) | [Despierta, Remedio, Cuenta](https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb) | 7:49 | 2021-12-26 | 2023-08-12 |
 | [Orphangene \- Soundtrack from the motion picture "Mondocane"](https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P) | [Federico Bisozzi](https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU), [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Orphangene \(Soundtrack from the motion picture "Mondocane"\)](https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe) | 3:11 | 2022-02-25 | 2023-12-08 |
-| [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 | 2024-09-06 |  |
+| [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 | 2024-09-06 | 2025-02-23 |
 | [Outline of a Distant Memory](https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Music for kō](https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm) | 6:36 | 2022-04-01 | 2025-01-15 |
 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 | 2023-12-01 |  |
 | [Pain Tolerance \- Kyle McEvoy & wowflower Remix](https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9) | [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Cast Remixes Part III](https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t) | 2:12 | 2022-01-23 | 2025-02-15 |

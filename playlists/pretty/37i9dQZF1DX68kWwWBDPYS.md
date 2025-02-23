@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. PJAMA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,375 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,359 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 25 | [Mine](https://open.spotify.com/track/1vnPr1MR83Jjgq5gnKBQ9a) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K), [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV) | [Mine](https://open.spotify.com/album/4iECgJLBu9vHlvrv6k23oK) | 2:30 |
 | 26 | [Misión S\*\*\*\*\*\*](https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Misión S\*\*\*\*\*\*](https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR) | 1:47 |
 | 27 | [Ni Modo](https://open.spotify.com/track/4z4imNOpMtd523XNkMyw9v) | [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Ni Modo](https://open.spotify.com/album/3p9HqZzt8p89zZouSekCJn) | 3:45 |
-| 28 | [Alegre](https://open.spotify.com/track/78T5gdRW1yCcoguWGpDVBh) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Alegre](https://open.spotify.com/album/1xeMGarE3yEvlzbyXysFJo) | 3:23 |
+| 28 | [alegre](https://open.spotify.com/track/78T5gdRW1yCcoguWGpDVBh) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [alegre](https://open.spotify.com/album/1xeMGarE3yEvlzbyXysFJo) | 3:23 |
 | 29 | [SAMPLE](https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SAMPLE](https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh) | 2:39 |
 | 30 | [MEDIO LLENO: medio vacío](https://open.spotify.com/track/38uBvlxu8rchby9QF2mqbo) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [MEDIO LLENO: medio vacío](https://open.spotify.com/album/3B3jVJecGNaL1gaEvkHbwT) | 3:07 |
 | 31 | [DE NUEVO](https://open.spotify.com/track/2rZilRO9QcpDmLYjPPmyga) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [DE NUEVO](https://open.spotify.com/album/4FIzUwE5KHpj1EwOcWiC1G) | 3:03 |

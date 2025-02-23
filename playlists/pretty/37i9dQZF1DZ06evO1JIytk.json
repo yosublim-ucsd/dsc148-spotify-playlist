@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAACg0dudpeeWtu7eWuOe/EWH",
+  "snapshot_id": "Z7fCAAAAAABEb2d+jrdSJRLYsU65pDze",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 219773,
       "name": "Die for the Government",
       "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 172840,
       "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
       "url": "https://open.spotify.com/track/2XbPlYHLrT4Pjn7J7nKs4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "The Economy is Suffering...Let It Die",
-      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Got the Numbers",
-      "url": "https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The People Or the Gun",
         "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
       },
@@ -387,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complete Control Sessions",
-        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 163946,
-      "name": "Should I Stay or Should I Go - Live Version",
-      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
+      "duration_ms": 194351,
+      "name": "Got the Numbers",
+      "url": "https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh"
     },
     {
       "added_at": null,
@@ -419,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+        "name": "Complete Control Sessions",
+        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
       "artists": [
         {
           "name": "Anti-Flag",
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
         }
       ],
-      "duration_ms": 210306,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
+      "duration_ms": 163946,
+      "name": "Should I Stay or Should I Go - Live Version",
+      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 170400,
       "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
       "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
     },
     {
       "added_at": null,

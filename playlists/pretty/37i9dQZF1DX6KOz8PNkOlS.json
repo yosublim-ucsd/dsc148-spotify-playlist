@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 495722,
+  "num_followers": 495786,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -217,24 +217,28 @@
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
-      "added_at": "2024-06-28 19:01:45",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+        "name": "What Kinda Music",
+        "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+      "duration_ms": 300990,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
     },
     {
       "added_at": "2025-01-09 03:29:42",
@@ -289,28 +293,24 @@
       "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2024-06-28 19:01:45",
       "album": {
-        "name": "What Kinda Music",
-        "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 300990,
-      "name": "Nightrider",
-      "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2025-01-31 06:00:20",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
     },
     {
-      "added_at": "2024-06-27 18:37:57",
-      "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
-    },
-    {
       "added_at": "2024-05-02 22:57:54",
       "album": {
         "name": "Love from the Other Side",
@@ -735,6 +719,22 @@
       "duration_ms": 249405,
       "name": "Love from the Other Side",
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "added_at": "2024-06-27 18:37:57",
+      "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2023-12-20 03:34:06",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
-      "added_at": "2024-07-11 23:32:17",
-      "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "Counting Sheep",
-      "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
-    },
-    {
       "added_at": "2024-07-09 04:54:48",
       "album": {
         "name": "Pulsar",
@@ -879,6 +863,22 @@
       "duration_ms": 253733,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
+    },
+    {
+      "added_at": "2024-07-11 23:32:17",
+      "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
-      "added_at": "2022-12-07 04:04:10",
-      "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
-    },
-    {
       "added_at": "2024-04-18 18:10:45",
       "album": {
         "name": "PHASOR",
@@ -975,6 +959,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2022-12-07 04:04:10",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
-      "added_at": "2023-05-24 02:01:11",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Hold On",
@@ -1231,6 +1215,22 @@
       "duration_ms": 210922,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2023-05-24 02:01:11",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2022-08-13 01:09:13",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
       "added_at": "2023-04-11 00:45:41",
       "album": {
         "name": "Sundown",
@@ -1329,38 +1345,6 @@
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
-      "added_at": "2023-11-23 03:41:20",
-      "album": {
-        "name": "say your way",
-        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
-      },
-      "artists": [
-        {
-          "name": "Mohsin Zaman",
-          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "say your way",
-      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
-    },
-    {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
-    },
-    {
       "added_at": "2022-01-26 18:13:44",
       "album": {
         "name": "Saturday Yawning",
@@ -1377,20 +1361,20 @@
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
+      "added_at": "2023-11-23 03:41:20",
       "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+        "name": "say your way",
+        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
       },
       "artists": [
         {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+          "name": "Mohsin Zaman",
+          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
         }
       ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+      "duration_ms": 170500,
+      "name": "say your way",
+      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1407,6 +1391,22 @@
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+    },
+    {
+      "added_at": "2024-01-03 18:42:32",
+      "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
     },
     {
-      "added_at": "2024-10-16 01:56:16",
-      "album": {
-        "name": "Jumpstart",
-        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Jumpstart",
-      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
-    },
-    {
       "added_at": "2023-12-20 03:28:07",
       "album": {
         "name": "If You Could See Me Now",
@@ -1611,6 +1595,22 @@
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+    },
+    {
+      "added_at": "2024-10-16 01:56:16",
+      "album": {
+        "name": "Jumpstart",
+        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Jumpstart",
+      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
       "added_at": "2024-06-26 18:41:25",

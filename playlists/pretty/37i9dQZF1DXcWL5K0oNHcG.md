@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Miki Ikhifa\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,383 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,382 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Faith](https://open.spotify.com/track/7k2Lv6pwqiEPd2GChkwW26) | [deathbypeanuts](https://open.spotify.com/artist/6pjfJNMFkR1wqEymE0IMxx), [Amina](https://open.spotify.com/artist/1DaQRgRsXvsUUhSuNMGPbI), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [Noah Fürbringer](https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F) | [Faith](https://open.spotify.com/album/6Rb99L1o09UsVkmR8edK8t) | 2:51 |
 | 50 | [Alone](https://open.spotify.com/track/0PSF6VyKJCCGWWb8wF4i72) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Alone](https://open.spotify.com/album/4ucbW3lPaRUVUewPWB3Ig2) | 2:46 |
 
-Snapshot ID: `Z7YehQAAAAAUoaPb8hWHJhbYC3z0zN8d`
+Snapshot ID: `Z7YehQAAAADWXmRzhrq2+A/upItdEhhc`

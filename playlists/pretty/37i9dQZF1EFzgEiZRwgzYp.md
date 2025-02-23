@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 14 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
 | 15 | [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 |
 | 16 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
-| 17 | [24 Hours Ago](https://open.spotify.com/track/1MjmlH4aGru07F98ChJwEd) | [Jen Jis](https://open.spotify.com/artist/347ZYa3M1wIhZ3j8Awnd19), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [24 Hours Ago Remix EP](https://open.spotify.com/album/5mUhzTy2fOVHyhCDAw0AKW) | 3:12 |
-| 18 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
+| 17 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
+| 18 | [24 Hours Ago](https://open.spotify.com/track/1MjmlH4aGru07F98ChJwEd) | [Jen Jis](https://open.spotify.com/artist/347ZYa3M1wIhZ3j8Awnd19), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [24 Hours Ago Remix EP](https://open.spotify.com/album/5mUhzTy2fOVHyhCDAw0AKW) | 3:12 |
 | 19 | [101 REGRETS](https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:21 |
 | 20 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |
 | 21 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 27 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 | 28 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
 
-Snapshot ID: `AbqN3gAAAAAquOxw6pqoWmjhdo8apMS+`
+Snapshot ID: `AbqTfgAAAAAC+Ok418iE9accWyzpo7vI`

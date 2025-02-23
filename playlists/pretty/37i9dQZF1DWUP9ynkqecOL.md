@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,979 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,984 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 41 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 42 | [Cañaveral](https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cañaveral](https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB) | 2:58 |
 | 43 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
-| 44 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
-| 45 | [Gurisito Cosmico](https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:12 |
+| 44 | [Gurisito Cosmico](https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:12 |
+| 45 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
 | 46 | [La Línea Del Rio \- Remix](https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY), [Rumbo Tumba](https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ) | [La Línea Del Rio \(Remix\)](https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN) | 9:06 |
 | 47 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |
 | 48 | [Huayno and Pacha Mama](https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29) | [Oscar Irustia](https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt) | [Patagonia Nature](https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt) | 3:02 |

@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "AUJ",
+        "url": "https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx"
+      },
+      "artists": [
+        {
+          "name": "Aujiss",
+          "url": "https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167216,
+      "name": "Tou7chtk",
+      "url": "https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },

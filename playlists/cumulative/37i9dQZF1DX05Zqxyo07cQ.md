@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-667 songs - 1 day 8 hr 39 min
+669 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2023-03-23 | 2024-03-21 |
 | [Arkham Nights](https://open.spotify.com/track/7u5roXUTEuxzdPf5zQH3xH) | [Sanguinus](https://open.spotify.com/artist/0qf4Rq4omzrxX03ZttRH3P) | [Arkham Nights](https://open.spotify.com/album/7E30qOJyGId9Js3MK3pGDk) | 3:01 | 2024-05-04 |  |
 | [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2023-03-23 | 2024-02-09 |
-| [As Day Fades Into Night](https://open.spotify.com/track/5nxgnk2YmJRZUr1k0QvEIK) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [As Day Fades Into Night](https://open.spotify.com/album/2McYGVYPvWLpzWcJZIbupc) | 3:12 | 2024-01-17 |  |
+| [As Day Fades Into Night](https://open.spotify.com/track/5nxgnk2YmJRZUr1k0QvEIK) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [As Day Fades Into Night](https://open.spotify.com/album/2McYGVYPvWLpzWcJZIbupc) | 3:12 | 2024-01-17 | 2025-02-23 |
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2023-03-23 | 2024-02-09 |
 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2023-03-23 | 2024-03-21 |
 | [Ashton Lane](https://open.spotify.com/track/3Wt5w2KnJ5oTFtpsbGd2YJ) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Ashton Lane](https://open.spotify.com/album/1glI1A9oX8RQZxdbF1Q7bc) | 3:36 | 2023-03-23 | 2024-01-18 |
@@ -399,7 +399,7 @@
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [Myriad](https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Quietude](https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w) | 3:05 | 2023-07-14 | 2024-06-21 |
 | [Mångata](https://open.spotify.com/track/4TPp6xOTaRNv7AmDQG9oc8) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Mångata](https://open.spotify.com/album/30Vq6qtcwda6feJPc2FFEe) | 2:26 | 2023-03-23 | 2023-05-06 |
-| [Nama](https://open.spotify.com/track/1ZIf3ofUdgbREs5ll2f8OI) | [Fjordyn](https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w) | [Nama](https://open.spotify.com/album/1l2Fw3pQEqhvhrIwTClehd) | 2:59 | 2024-03-06 |  |
+| [Nama](https://open.spotify.com/track/1ZIf3ofUdgbREs5ll2f8OI) | [Fjordyn](https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w) | [Nama](https://open.spotify.com/album/1l2Fw3pQEqhvhrIwTClehd) | 2:59 | 2024-03-06 | 2025-02-23 |
 | [Naten e mire](https://open.spotify.com/track/6uTgcVdZs17V0Fy5PX2O54) | [Leala Samuel](https://open.spotify.com/artist/0dGuCZr0FuXukEBvHY5rXO) | [Naten e mire](https://open.spotify.com/album/43K1omqGhTg3N2T2mBarty) | 3:26 | 2023-03-23 | 2024-02-09 |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2023-03-23 | 2024-02-09 |
 | [Natural Connection](https://open.spotify.com/track/79xizJgR2yV6BfP7Y4q40k) | [Certificate 16](https://open.spotify.com/artist/6RJ9f6LmApkHiTkaAfghlA) | [Vigilance](https://open.spotify.com/album/3KWwjvH1tXPkrKFOhfhTgQ) | 3:28 | 2023-07-14 | 2024-07-10 |
@@ -588,6 +588,7 @@
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2023-03-23 | 2024-03-21 |
 | [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 |  |
 | [Stuck In A Dream](https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [Stuck In A Dream](https://open.spotify.com/album/1aUbffKm9QcEYO7ZTOplKQ) | 2:48 | 2023-03-23 | 2024-01-18 |
+| [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 | 2025-02-14 |  |
 | [Subharmonium](https://open.spotify.com/track/3JQiARKat2vsCYG0rTthgz) | [Aryana Jackson](https://open.spotify.com/artist/6unKypmWVba7Waesy7ITdX) | [Subharmonium](https://open.spotify.com/album/1f45EViHpZSNXwkOCMpNH0) | 2:43 | 2023-03-23 | 2024-03-21 |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2023-03-23 | 2024-02-09 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
@@ -603,6 +604,7 @@
 | [Tantric Life](https://open.spotify.com/track/6TMCj9pbXE0PmopzQdhiZw) | [Neotantra](https://open.spotify.com/artist/1VlwdDnFdsyCA3fLc9D6Gi) | [Tantric Life](https://open.spotify.com/album/0UCujJiEfJKAJ78EUaUEwt) | 3:12 | 2023-03-23 | 2023-05-06 |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2023-03-23 | 2024-02-09 |
 | [Terra Nova](https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Terra Nova](https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX) | 2:44 | 2024-03-06 | 2025-02-13 |
+| [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 |  |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2023-03-23 | 2024-02-09 |
 | [The Free Air](https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [The Free Air](https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW) | 3:22 | 2024-02-08 | 2024-03-07 |
 | [The Morning Star](https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [The Morning Star](https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf) | 2:34 | 2024-05-20 |  |

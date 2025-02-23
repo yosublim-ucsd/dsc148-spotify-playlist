@@ -1,6 +1,6 @@
 {
   "description": "JC Reyes y el resto de novedades m\u00e1s importantes de la semana.",
-  "num_followers": 344621,
+  "num_followers": 344642,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -79,7 +79,7 @@
     {
       "added_at": "2025-02-20 23:00:32",
       "album": {
-        "name": "BAILANDO EL DEMBOW",
+        "name": "BAILANDO EL DEMBOW (feat. Rico Rosa)",
         "url": "https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo"
       },
       "artists": [
@@ -90,10 +90,18 @@
         {
           "name": "Yung Beef",
           "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
         }
       ],
       "duration_ms": 159955,
-      "name": "BAILANDO EL DEMBOW",
+      "name": "BAILANDO EL DEMBOW (feat. Rico Rosa)",
       "url": "https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y"
     },
     {
@@ -680,8 +688,8 @@
           "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
         },
         {
-          "name": "M\u00f3nica Naranjo",
-          "url": "https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw"
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
         }
       ],
       "duration_ms": 201600,

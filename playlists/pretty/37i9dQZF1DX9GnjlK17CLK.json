@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 1764,
+  "num_followers": 488,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7THEQAAAADwMPH5dyLsKRaNf6SpG9aF",
+  "snapshot_id": "Z7ncFQAAAABhq8yrGrGwl9LjFT7iYvRp",
   "tracks": [
     {
       "added_at": "2024-06-02 16:41:51",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+      "duration_ms": 163933,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "All Your Love (I Miss Loving)",
-      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Fernwood Rhythm 'N' Blues From Memphis",
         "url": "https://open.spotify.com/album/6qqJGRcDQjmfiIxNcyvEsh"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156626,
       "name": "You Don't Love Me",
       "url": "https://open.spotify.com/track/5VGPp0EyyQqUKbtEDxMmUe"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
     },
     {
       "added_at": "2024-06-02 16:41:51",

@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3143,
+  "num_followers": 3146,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAACTmUt3jUW+3Ol3u+uRVXcr",
+  "snapshot_id": "Z7fCAAAAAAAUFyKmXqiO+pm+TqPG1E0V",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143960,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+      "duration_ms": 137640,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 137640,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
+      "duration_ms": 143960,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up In Smoke",
         "url": "https://open.spotify.com/album/0lUJNmaeTCl9aFrkJhUfzC"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 108479,
       "name": "Woah",
       "url": "https://open.spotify.com/track/77dMaxGB1fCfpkB08w7Gtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
     },
     {
       "added_at": null,

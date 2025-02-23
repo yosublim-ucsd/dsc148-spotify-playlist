@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87566,
+  "num_followers": 87564,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "LVRBOY",
-        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "LVRBOY",
-      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Mar de Hiladas",
         "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212666,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 263449,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 299116,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 263449,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
+        "name": "Rocal",
+        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
       },
       "artists": [
         {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
         }
       ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+      "duration_ms": 230237,
+      "name": "Rocal",
+      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Rocal",
-        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
       "artists": [
         {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
         }
       ],
-      "duration_ms": 230237,
-      "name": "Rocal",
-      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Eres T\u00fa",
-        "url": "https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx"
+        "name": "Estallados",
+        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
       "artists": [
         {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        },
-        {
-          "name": "Marty Friedman",
-          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
         }
       ],
-      "duration_ms": 207529,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x"
+      "duration_ms": 270000,
+      "name": "Estallados",
+      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
     },
     {
       "added_at": "2024-09-20 08:27:00",

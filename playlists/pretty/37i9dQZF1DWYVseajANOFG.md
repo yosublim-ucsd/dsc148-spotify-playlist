@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,458 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,490 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 37 | [Expresiones](https://open.spotify.com/track/1o1eZ16zX8t1e9hUmwB5EV) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [THE MOYS](https://open.spotify.com/artist/5l6phzN17bmavplTQAWvoI) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:39 |
 | 38 | [La Maco](https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB) | [Anyuri](https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE), [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [La Maco](https://open.spotify.com/album/3BcxG2jDu6hQ4lUPvwxP0d) | 3:18 |
 | 39 | [Rayito de Sol](https://open.spotify.com/track/64TFVyPOGaCWHOZyTEIqJv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Rayito de Sol](https://open.spotify.com/album/4TWdudiLF0Idxns9eATxYM) | 3:49 |
-| 40 | [Vivos y Muertos](https://open.spotify.com/track/2aQlM9FqFZtrgcXT9X2mwt) | [El Roby](https://open.spotify.com/artist/6UdoT0UxmU4tGi0KngONm3), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Elty](https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf), [Jose Luis Lopez](https://open.spotify.com/artist/26aU2bXt7LaWabik6luOLb) | [Vivos y Muertos](https://open.spotify.com/album/0vVScg3fL5aCHjuEZfczlc) | 4:53 |
+| 40 | [Vivos y Muertos \(E\)](https://open.spotify.com/track/2aQlM9FqFZtrgcXT9X2mwt) | [El Roby](https://open.spotify.com/artist/6UdoT0UxmU4tGi0KngONm3), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Elty](https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf), [Jose Luis Lopez](https://open.spotify.com/artist/26aU2bXt7LaWabik6luOLb) | [Vivos y Muertos \(E\)](https://open.spotify.com/album/0vVScg3fL5aCHjuEZfczlc) | 4:53 |
 | 41 | [Ya Ni Se](https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2) | [DJ Ledezz](https://open.spotify.com/artist/2C4pKlrYpSurcTknihyLhN), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Ya Ni Se](https://open.spotify.com/album/2D9M8jbjcqjeovyTzDBPt9) | 3:19 |
 | 42 | [Háblame de Ti](https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Háblame de Ti](https://open.spotify.com/album/7bwsis1VLOwTBOOqYkmnGI) | 3:43 |
 | 43 | [LA MAS VIRAL](https://open.spotify.com/track/59Cx3h4AP4APP7YH9LMJGm) | [El Yeyo PP](https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [LA MAS VIRAL](https://open.spotify.com/album/0TDZuxKX5de9zjxUfZ74eA) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 59 | [TUSIKETA](https://open.spotify.com/track/3l3GgwsBmUS6JKAK8apSmB) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [TUSIKETA](https://open.spotify.com/album/0wQ6eI81zDQeMGp0KGYgzo) | 3:08 |
 | 60 | [Blindao](https://open.spotify.com/track/5M9Yff4LvO1YzpuXJVCppm) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [Blindao](https://open.spotify.com/album/7tiRbsC8wnVkrNh5Bn4EZx) | 4:02 |
 
-Snapshot ID: `Z7gIYgAAAAA3GxEOXZFur99udz7YhQcw`
+Snapshot ID: `Z7gIYgAAAABXre2r6ObgM1gw+I0nuzIG`

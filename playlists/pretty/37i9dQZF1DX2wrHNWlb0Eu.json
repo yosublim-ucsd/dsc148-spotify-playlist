@@ -1,6 +1,6 @@
 {
   "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZEE PRUK, NuNew",
-  "num_followers": 116735,
+  "num_followers": 116801,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-17 14:16:14",
       "album": {
-        "name": "Sunkissed",
-        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
-      },
-      "artists": [
-        {
-          "name": "Urworld",
-          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
-        }
-      ],
-      "duration_ms": 242154,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
-    },
-    {
-      "added_at": "2025-02-17 14:16:14",
-      "album": {
         "name": "clean",
         "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 258401,
       "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
+    },
+    {
+      "added_at": "2025-02-17 14:16:14",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
+      },
+      "artists": [
+        {
+          "name": "Urworld",
+          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
+        }
+      ],
+      "duration_ms": 242154,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
     },
     {
       "added_at": "2025-02-17 14:16:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-17 14:16:14",
       "album": {
-        "name": "nerd eye view",
-        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
-      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
-    },
-    {
-      "added_at": "2025-02-17 14:16:14",
-      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
+    },
+    {
+      "added_at": "2025-02-17 14:16:14",
+      "album": {
+        "name": "nerd eye view",
+        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
     },
     {
       "added_at": "2025-02-17 14:16:14",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-02-17 14:16:14",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
-        "url": "https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7"
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
       },
       "artists": [
         {
-          "name": "BENT",
-          "url": "https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki"
+          "name": "Catchy",
+          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
         }
       ],
-      "duration_ms": 154965,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
-      "url": "https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z"
+      "duration_ms": 229166,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
     },
     {
       "added_at": "2025-02-17 14:16:14",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-02-17 14:16:14",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+        "url": "https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7"
       },
       "artists": [
         {
-          "name": "Catchy",
-          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
+          "name": "BENT",
+          "url": "https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki"
         }
       ],
-      "duration_ms": 229166,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
+      "duration_ms": 154965,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z"
     },
     {
       "added_at": "2025-02-17 14:16:14",

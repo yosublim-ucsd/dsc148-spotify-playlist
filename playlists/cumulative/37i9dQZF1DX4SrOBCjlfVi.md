@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Nardo Wick, Don Toliver, Joey Bada$$ and more!
 
-6,931 songs - 13 day 8 hr 31 min
+6,932 songs - 13 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2846,6 +2846,7 @@
 | [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 | 2023-08-04 | 2023-08-19 |
 | [Hypnotized \(with Karri\)](https://open.spotify.com/track/20QF5yHq39ryN9VbOKVmOE) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [oasis](https://open.spotify.com/album/5ueTXpFHv1JMccPEa6lMpN) | 1:48 | 2024-02-23 | 2024-03-02 |
 | [Hypocrite](https://open.spotify.com/track/2PB32e8ny9osjbVql6aALO) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Hypocrite](https://open.spotify.com/album/3q3VbXaaam9as2iI8t7yUV) | 1:39 | 2024-11-15 | 2024-11-23 |
+| [HYPOCRITE](https://open.spotify.com/track/3ingEZQJcRPm956usULf2j) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [HYPOCRITE](https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS) | 2:14 | 2025-02-22 |  |
 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 | 2023-08-26 |
 | [I Admit \(feat\. Nicki Minaj\)](https://open.spotify.com/track/7d60THs9nBNnlDg1hksDnJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 3:27 | 2022-10-21 | 2022-10-29 |
 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 | 2022-03-04 | 2022-03-18 |
@@ -3706,7 +3707,7 @@
 | [MARGARET](https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [MARGARET](https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz) | 2:39 | 2025-02-14 | 2025-02-22 |
 | [Margiela](https://open.spotify.com/track/2onj21qZJ9BNHwCz0nuEC1) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Margiela](https://open.spotify.com/album/4BB9MAUjbtbX7FTF2N9gOh) | 2:16 | 2024-07-27 | 2024-08-03 |
 | [Marie](https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Marie](https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA) | 3:02 | 2022-11-04 | 2022-11-12 |
-| [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:06 | 2025-02-21 |  |
+| [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 | 2025-02-21 |  |
 | [Married with Millions](https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married with Millions](https://open.spotify.com/album/1axgP2oTkXQDzQkwxx6dQ1) | 3:19 | 2023-07-21 | 2023-07-29 |
 | [Marvelous Motion](https://open.spotify.com/track/0uv0wyA3LS9zApZJbBwH87) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [ANKHLEJOHN](https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M) | [Marvelous Motion](https://open.spotify.com/album/7pfH8Ma8wRSltHFo1McnlB) | 3:10 | 2024-12-06 | 2024-12-14 |
 | [Mary Jane](https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Mary Jane](https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O) | 3:40 | 2023-02-03 | 2023-02-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,642 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,635 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 77 | [Focus](https://open.spotify.com/track/3gvYQtB3CygqRQWjjTWkhs) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Focus](https://open.spotify.com/album/7kSy6ombCbIFSNam2gHQCN) | 3:30 |
 | 78 | [Geen Sprint](https://open.spotify.com/track/23iugKLPU1PRu1kA5MGsYD) | [Fabiow](https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH) | [Geen Sprint](https://open.spotify.com/album/1W88yCXpDkoCyUouAqJDBU) | 3:00 |
 | 79 | [Jong](https://open.spotify.com/track/3sYNKAVUJmrzUIXSsqNc8k) | [\#LikeMe Cast](https://open.spotify.com/artist/1VGBAmirdZGTCGioTAzHYA) | [Jong](https://open.spotify.com/album/0JUWtud6LdDHRWlKeEOqxK) | 3:40 |
-| 80 | [Like A Fool](https://open.spotify.com/track/4oSmBuXrPT1FOtDw4zguok) | [Vice Vrsa](https://open.spotify.com/artist/2VVDoHqHLMwc1uG2dznzr5), [Maurice Rozen](https://open.spotify.com/artist/5UHUHjYlezzdK602tXEcKu) | [Like A Fool](https://open.spotify.com/album/2dsyRWq24sftA8ETCrEwbr) | 2:49 |
+| 80 | [Like A Fool](https://open.spotify.com/track/4oSmBuXrPT1FOtDw4zguok) | [Vice Vrsa](https://open.spotify.com/artist/2VVDoHqHLMwc1uG2dznzr5), [Maurice Rozen](https://open.spotify.com/artist/5UHUHjYlezzdK602tXEcKu), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [Like A Fool](https://open.spotify.com/album/2dsyRWq24sftA8ETCrEwbr) | 2:49 |
 | 81 | [bad](https://open.spotify.com/track/51mCedmIiJ3PUBGksOW8np) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [bad](https://open.spotify.com/album/1Bqe3ggwb9ElvgpsUBRegQ) | 2:25 |
 | 82 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 |
 | 83 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |

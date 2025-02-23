@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,316 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,338 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 9 | [Falling](https://open.spotify.com/track/02unSmqXrjpAAhPN2Cja3H) | [Hannah May](https://open.spotify.com/artist/15TaMSGPdMaVz8D5fm78ux) | [Falling](https://open.spotify.com/album/2D4mYOT1Vlyc4WMTiMFqnu) | 3:34 |
 | 10 | [Fumbled Me](https://open.spotify.com/track/2Pv1eAd96WKGV1H2DSYntI) | [GIGI](https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h) | [Fumbled Me](https://open.spotify.com/album/3fw5NhxkFm7Lz11rNOUgA6) | 2:59 |
 | 11 | [SKIN](https://open.spotify.com/track/0mSA9tgXALf6W1sVhx9CMe) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:33 |
-| 12 | [Reckless Soul \- Alt Version](https://open.spotify.com/track/6kB19XpWz11PnnNt6lx0Ji) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear \(+3\)](https://open.spotify.com/album/2CCsvg0zZDaeXJsq6alu4P) | 3:33 |
+| 12 | [Reckless Soul \- alt version](https://open.spotify.com/track/6kB19XpWz11PnnNt6lx0Ji) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear \(+3\)](https://open.spotify.com/album/2CCsvg0zZDaeXJsq6alu4P) | 3:33 |
 | 13 | [Back to Heaven](https://open.spotify.com/track/6apGRpEikdFrFB3q9N19UU) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Back to Heaven](https://open.spotify.com/album/2hPFEV3hqWKiVq8tJ8VaDC) | 2:15 |
 | 14 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 |
 | 15 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 |

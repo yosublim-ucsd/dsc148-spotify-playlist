@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,882 likes - 77 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,912 likes - 77 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 76 | [Mentiras Confortáveis \- Vê Se Pod, Ao Vivo](https://open.spotify.com/track/5yfM9EEyT4O78O9bV2Ot1g) | [Tales e Conrado](https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN) | [Mentiras Confortáveis \(Vê Se Pod\)](https://open.spotify.com/album/6kI6b1oWkk9yP6eTQLYZPU) | 4:26 |
 | 77 | [Vida Bagunçada](https://open.spotify.com/track/29RWcQ5sabWjNimHtf7gY7) | [Beto & Breno](https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS) | [Vida Bagunçada](https://open.spotify.com/album/6gZlEmLWvXmp2le0EbOTmN) | 2:20 |
 
-Snapshot ID: `Z7h0kwAAAABLgN7M+FHLmv5RfpOOJOij`
+Snapshot ID: `Z7h0kwAAAAB5XfEVqLIBouVfCG2zW4oO`

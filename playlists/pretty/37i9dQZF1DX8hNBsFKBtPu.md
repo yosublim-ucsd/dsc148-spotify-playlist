@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💚 Katinka
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,768 likes - 115 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,765 likes - 115 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

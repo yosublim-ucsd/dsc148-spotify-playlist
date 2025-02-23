@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 466070,
+  "num_followers": 466167,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/5S1qWBPGQoktlmFd6bj3JY"
     },
     {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "25 Blarney Roses",
-        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
-      },
-      "artists": [
-        {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Victor and His Demons",
-      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
-    },
-    {
       "added_at": "2024-02-06 19:54:12",
       "album": {
         "name": "Gaelic Storm",
@@ -343,6 +327,22 @@
       "duration_ms": 300173,
       "name": "Johnny Jump Up/Morrison's Jig",
       "url": "https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "25 Blarney Roses",
+        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Victor and His Demons",
+      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
     },
     {
       "added_at": "2024-02-06 19:54:12",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
-        "name": "The Parting Glass (The Very Best of Liam Clancy)",
-        "url": "https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn"
-      },
-      "artists": [
-        {
-          "name": "Liam Clancy",
-          "url": "https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "The Streets of London",
-      "url": "https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 118080,
       "name": "Waxies Dargle",
       "url": "https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Parting Glass (The Very Best of Liam Clancy)",
+        "url": "https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn"
+      },
+      "artists": [
+        {
+          "name": "Liam Clancy",
+          "url": "https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "The Streets of London",
+      "url": "https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo"
     },
     {
       "added_at": "2024-02-06 19:54:12",

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 大比良瑞希 \(Mizuki Ohira\)
 
-2,183 songs - 5 day 16 hr 25 min
+2,184 songs - 5 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,7 +1572,7 @@
 | [アンコール](https://open.spotify.com/track/1aS1dMvoCZVt0IPUSVVg2u) | [こがれ](https://open.spotify.com/artist/4hpoOuqcdqKGiQ8f7HUKlr) | [聴こえる](https://open.spotify.com/album/2hl5A9DhzrizbpUywoHvZo) | 3:43 | 2025-01-23 | 2025-01-29 |
 | [アンダーザサン](https://open.spotify.com/track/2DvpmT2AdkIYMzjLJtDE5N) | [鉄火](https://open.spotify.com/artist/22p4GZWnJAirONhy0SupZI) | [アンダーザサン](https://open.spotify.com/album/7a32W586FUM4q07jkJFM0V) | 2:26 | 2024-01-09 | 2024-01-17 |
 | [アンチクライマックス](https://open.spotify.com/track/1D845uRxF3MzpEGt7Ke40p) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [アンチクライマックス](https://open.spotify.com/album/6LAq9neMHi5Fo00hWmjhqx) | 3:47 | 2024-01-16 | 2024-01-24 |
-| [アンブレイラ](https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [S'more](https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ) | 3:57 | 2025-02-05 |  |
+| [アンブレイラ](https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [S'more](https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ) | 3:57 | 2025-02-05 | 2025-02-23 |
 | [アーケード](https://open.spotify.com/track/6KYeNuXLUNIkctc8BHMpCB) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [LEAP](https://open.spotify.com/artist/4M9ZeqGRkEbvzhejyiDJjp), [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien) | [アーケード](https://open.spotify.com/album/7MzdppjZVQ8DQ303USurYR) | 3:36 | 2024-03-19 | 2024-03-27 |
 | [アーリーデイジー](https://open.spotify.com/track/3WgFhWsRcOUn3jE6ifdmHV) | [Ellipsick](https://open.spotify.com/artist/1jtFbKwxW3ZKJV5zvhWmiW) | [アーリーデイジー](https://open.spotify.com/album/5vG81LgUBNAzRdhlOfOQhI) | 3:29 | 2024-05-28 | 2024-06-05 |
 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 | 2024-01-04 | 2024-01-13 |
@@ -1729,6 +1729,7 @@
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 | 2024-03-18 |
 | [ユメミルヒツジ](https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu) | [武田理沙](https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697) | [ユメミルヒツジ](https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z) | 4:17 | 2024-06-25 | 2024-07-17 |
 | [ライリーストーン](https://open.spotify.com/track/3zi93hKpuQFoTpEAdLOSks) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ライリーストーン](https://open.spotify.com/album/6mforR7QQONEUKHNtTqPWb) | 2:50 | 2024-03-07 | 2024-03-20 |
+| [ラジオ](https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ラジオ](https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8) | 2:34 | 2025-02-18 |  |
 | [ラストシーン](https://open.spotify.com/track/0grJ6rU6nlczbq7Q1Hp90o) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 4:22 | 2023-11-07 | 2023-11-09 |
 | [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 | 2023-07-06 |
 | [ラッキー](https://open.spotify.com/track/56JwLFPIor1uzTZCMrkLWj) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [ラッキー/さびしくない](https://open.spotify.com/album/0l2nlCoKeohFcI3vnF23Sq) | 3:04 | 2024-04-16 | 2024-09-18 |

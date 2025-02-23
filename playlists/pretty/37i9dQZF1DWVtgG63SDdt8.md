@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Alexander Pappas
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,912 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,921 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |
 | 16 | [The King Is In The Room](https://open.spotify.com/track/6rVN4LZjoEEGWmcEZ7QIfF) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is In The Room](https://open.spotify.com/album/46J1pbxjhBEUgfwCWPnWfH) | 4:02 |
 | 17 | [Elohim \- Live](https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC) | [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Elohim \(Live\)](https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR) | 7:26 |
-| 18 | [Remember Christ](https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [David Ware](https://open.spotify.com/artist/6nDx8ANxjcMmTthi8yVf8o), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Remember Christ](https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ) | 3:10 |
+| 18 | [Remember Christ](https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Remember Christ](https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ) | 3:10 |
 | 19 | [More Like You](https://open.spotify.com/track/7yiX9g0hhh4rOxCGwfEi5P) | [James Wilson](https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk), [Glory MSC](https://open.spotify.com/artist/32khG4YnpYkgZ8u4J4pYKJ), [Jessica Browne\-Rodriguez](https://open.spotify.com/artist/5kRvd8uEKWdb8CwRWLSRAR) | [More Like You](https://open.spotify.com/album/506LVoK0CMludUPvVFmgeH) | 6:58 |
 | 20 | [Moth To A Flame](https://open.spotify.com/track/4e7qPkQbG2yG7Cu8ffTdkS) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Bekah Sarah](https://open.spotify.com/artist/74sCtwDFX5dPbnzoydCdxS) | [Moth To A Flame](https://open.spotify.com/album/0bv3AnOlF6nBUsFk6EW2ba) | 4:20 |
 | 21 | [Never Gets Old](https://open.spotify.com/track/3RIhalkeNsWuidM3dyEFRq) | [Oceans Music](https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Never Gets Old](https://open.spotify.com/album/4VklB3CRyzDHx2FAB7MYE2) | 9:07 |

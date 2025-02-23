@@ -2,7 +2,7 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Mercy Chinwo
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Fred Hammond
 
 635 songs - 2 day 6 hr 25 min
 

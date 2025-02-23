@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: JISOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,286,493 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,286,777 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
 | 50 | [You are the one](https://open.spotify.com/track/2qqtkPJ72Zjg7ljZxIa8Ju) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2), [Jan Francis](https://open.spotify.com/artist/4tRXsZnum44aJr0iu1I6RC) | [You are the one](https://open.spotify.com/album/6cZ9wTqvKCx9Ff5uWbKypF) | 2:26 |
 
-Snapshot ID: `Z7K4fwAAAACBDjMDRJfoAnElgUxEr2I0`
+Snapshot ID: `Z7K4fwAAAACdrmqEEA798w7CSZToIS/m`

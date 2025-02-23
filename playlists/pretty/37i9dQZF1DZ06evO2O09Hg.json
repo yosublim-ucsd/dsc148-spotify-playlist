@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1633325,
+  "num_followers": 1633470,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAABRIwgKAaP3UnB2GpTZTM02",
+  "snapshot_id": "Z7fCAAAAAAAxfawupNWBYnDuXCHgPq3T",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know (I Wonder Why Freestyle)",
-        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 215380,
-      "name": "Let Me Know (I Wonder Why Freestyle)",
-      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+        "name": "Let Me Know (I Wonder Why Freestyle)",
+        "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
+      "duration_ms": 215380,
+      "name": "Let Me Know (I Wonder Why Freestyle)",
+      "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
     },
     {
       "added_at": null,

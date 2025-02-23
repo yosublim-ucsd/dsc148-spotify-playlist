@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Medalla.",
-  "num_followers": 24683,
+  "num_followers": 24688,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
+        "name": "Entre Amores y Errores",
+        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 165197,
+      "name": "Amores y Errores",
+      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
         "name": "Dientes rotos",
         "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 151573,
       "name": "Dientes rotos",
       "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
-        "name": "Entre Amores y Errores",
-        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 165197,
-      "name": "Amores y Errores",
-      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "DIRECTOS AL INFIERNO",
-        "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 122115,
-      "name": "Historia Triste",
-      "url": "https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
         "name": "Gran Hostal",
         "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 238964,
       "name": "Combusti\u00f3n",
       "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
+        "name": "DIRECTOS AL INFIERNO",
+        "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "duration_ms": 122115,
+      "name": "Historia Triste",
+      "url": "https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "m\u00fasica infinita",
-        "url": "https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz"
-      },
-      "artists": [
-        {
-          "name": "La Plata",
-          "url": "https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS"
-        }
-      ],
-      "duration_ms": 176650,
-      "name": "m\u00fasica infinita",
-      "url": "https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
         "name": "MENTIRA",
         "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156213,
       "name": "MENTIRA",
       "url": "https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
+        "name": "m\u00fasica infinita",
+        "url": "https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz"
+      },
+      "artists": [
+        {
+          "name": "La Plata",
+          "url": "https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS"
+        }
+      ],
+      "duration_ms": 176650,
+      "name": "m\u00fasica infinita",
+      "url": "https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
         "name": "Vivo En Las Nubes",
         "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "La gran renuncia",
-        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 146132,
-      "name": "La gran renuncia",
-      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
         "name": "Ni un paso atr\u00e1s",
         "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
       },
@@ -1347,6 +1347,38 @@
       "duration_ms": 163405,
       "name": "En tu portal",
       "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -1371,50 +1403,18 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+        "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
+        "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
         }
       ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
-        "name": "Eres Un Regalo",
-        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Eres Un Regalo",
-      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
+      "duration_ms": 188682,
+      "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
+      "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
-        "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
         }
       ],
-      "duration_ms": 188682,
-      "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
-      "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
+        "name": "Torreznos y Larios",
+        "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
+      },
+      "artists": [
+        {
+          "name": "Ashleys",
+          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
+        }
+      ],
+      "duration_ms": 163694,
+      "name": "Torreznos y Larios",
+      "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
         "name": "La batalla final",
         "url": "https://open.spotify.com/album/3mWHJ42U15jnObX3pCDNJN"
       },
@@ -1503,34 +1519,18 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
-        "name": "baila este cabreo",
-        "url": "https://open.spotify.com/album/63B0lyrJlDKCoqq9A4Ro3W"
+        "name": "COMERTE",
+        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
         }
       ],
-      "duration_ms": 162437,
-      "name": "baila este cabreo",
-      "url": "https://open.spotify.com/track/7Bjsax28IfVL2dbBbA6yXP"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
-        "name": "Torreznos y Larios",
-        "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
-      },
-      "artists": [
-        {
-          "name": "Ashleys",
-          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
-        }
-      ],
-      "duration_ms": 163694,
-      "name": "Torreznos y Larios",
-      "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
+      "duration_ms": 158400,
+      "name": "COMERTE",
+      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
     },
     {
       "added_at": "2025-02-20 23:00:20",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-02-20 23:00:20",
       "album": {
+        "name": "baila este cabreo",
+        "url": "https://open.spotify.com/album/63B0lyrJlDKCoqq9A4Ro3W"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 162437,
+      "name": "baila este cabreo",
+      "url": "https://open.spotify.com/track/7Bjsax28IfVL2dbBbA6yXP"
+    },
+    {
+      "added_at": "2025-02-20 23:00:20",
+      "album": {
         "name": "4 Impulsos M\u00e1s",
         "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
-    },
-    {
-      "added_at": "2025-02-20 23:00:20",
-      "album": {
-        "name": "COMERTE",
-        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "COMERTE",
-      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
     },
     {
       "added_at": "2025-02-20 23:00:20",

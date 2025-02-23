@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-462 songs - 1 day 1 hr 57 min
+465 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Goodbye](https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 4:44 | 2024-12-12 | 2025-01-12 |
 | [Goodnight Jade](https://open.spotify.com/track/7g8Y5pf5It0GrxpjsVScqZ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR) | 2:45 | 2025-01-11 |  |
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
+| [Green Is the Colour of Evil](https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:46 | 2025-02-22 |  |
 | [Grey Today](https://open.spotify.com/track/29iOKTPFn88YR889dSMrrH) | [Woody Simmons](https://open.spotify.com/artist/4umiRBYyqrPdYiyuHeYhDy) | [Oregon Mountains](https://open.spotify.com/album/2yKLdPLXBQKuEHqmxNJ78m) | 5:02 | 2024-07-29 | 2024-09-08 |
 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 | 2024-08-07 | 2024-09-08 |
 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 | 2024-09-08 | 2024-11-14 |
@@ -245,6 +246,7 @@
 | [Like Fire Like Ice](https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 1:58 | 2024-03-26 | 2024-05-16 |
 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 | 2024-06-08 | 2024-07-12 |
 | [Lip Reader](https://open.spotify.com/track/7ooMmZLFTrbHW0jZK97DsB) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 2:31 | 2024-09-08 | 2024-11-14 |
+| [Little Eyes](https://open.spotify.com/track/5pHNCZCt3daiBXs1lWopBS) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 4:22 | 2025-02-22 |  |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-09-07 | 2024-11-14 |
 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 | 2025-01-14 |  |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
@@ -318,6 +320,7 @@
 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 | 2025-02-21 |  |
 | [Pesce Rosso](https://open.spotify.com/track/6QmQiw7NQG4KPaSYjvgsdJ) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Hamra / Red \(Habibi Funk Limited 002\)](https://open.spotify.com/album/3DGLQlAxBPDtsFfb1112NI) | 2:39 | 2024-07-26 | 2024-09-08 |
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 | 2024-07-12 |
+| [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 | 2025-02-22 |  |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
 | [Pre\-munitions](https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Light Brigade](https://open.spotify.com/album/6yT4qGlJQE3Nvxf6MukGIZ) | 2:24 | 2024-07-29 | 2024-09-08 |

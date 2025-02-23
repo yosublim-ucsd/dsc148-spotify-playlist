@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 14 min
+55 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 | 2023-12-30 |  |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2024-01-24 | 2024-04-30 |
 | [N.I.N.A](https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 3:44 | 2024-04-30 |  |
+| [O Jogo Virou](https://open.spotify.com/track/187pijczzR58jQMhlyQbH8) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [O Jogo Virou](https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN) | 2:52 | 2025-02-23 |  |
 | [Oi, Sumido](https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Zarashi](https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 4:06 | 2024-04-28 |  |
 | [Oi, Sumido](https://open.spotify.com/track/0tw3r4VPs3DqhoRvqUUw4k) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Zarashi](https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 4:06 | 2023-12-30 | 2024-04-28 |
 | [Paz Terrível](https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Thamiris](https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Trono de Vidro](https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7) | 2:41 | 2024-03-03 |  |

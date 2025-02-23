@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,571 likes - 227 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,822 likes - 227 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 226 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 |
 | 227 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
 
-Snapshot ID: `Z7YJKwAAAAC67BwoHdgOh2E//Nu1Wt2d`
+Snapshot ID: `Z7YJKwAAAADUn2HnMLux5O5AzTQBDnJt`

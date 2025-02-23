@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 溫室雜草 \(Easy Weeds\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,400 likes - 124 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,402 likes - 124 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 5 | [Echo \(回音\)](https://open.spotify.com/track/70drKrUTVs4uaT4RW0Aprj) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth), [RAYGUN](https://open.spotify.com/artist/12LPVgxiqKD3Lk14Mu5G6k) | [Echo \(回音\)](https://open.spotify.com/album/7eDoqF86lWh9l3pIK2k9Cg) | 2:59 |
 | 6 | [很抱歉傷了你](https://open.spotify.com/track/2w5iSTy7rWuEW0oBZWa9yi) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [很抱歉傷了你](https://open.spotify.com/album/7yONEslXBRbsaJXIWRHluL) | 2:53 |
 | 7 | [Press Play](https://open.spotify.com/track/6pkVjmIv4n4KlVce7WHVV2) | [DripO](https://open.spotify.com/artist/4UDaKqA1HCtrgZBlzcTAIk), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe) | [Press Play](https://open.spotify.com/album/4XTRE4zkAqxva1CljPuWZI) | 3:03 |
-| 8 | [迷境 Enigma](https://open.spotify.com/track/6PgkxszDw0Sic1zTK4QqGu) | [CLSTR 56](https://open.spotify.com/artist/7fAD8qbydMvv1u9O48D8FX), [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Terry Zhong](https://open.spotify.com/artist/4HaPwFlGVkiu4K76MyS74V) | [迷境 Enigma](https://open.spotify.com/album/6y5lTnWTzSOpHPEch7kCm8) | 4:03 |
+| 8 | [迷境 Enigma](https://open.spotify.com/track/6PgkxszDw0Sic1zTK4QqGu) | [CLSTR 56](https://open.spotify.com/artist/7fAD8qbydMvv1u9O48D8FX), [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [迷境 Enigma](https://open.spotify.com/album/6y5lTnWTzSOpHPEch7kCm8) | 4:03 |
 | 9 | [笨情話](https://open.spotify.com/track/15Aki3HhwDGu6VysQ4kiS1) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [笨情話](https://open.spotify.com/album/54r4ZYdWyuyeE6p1pDq1cT) | 2:28 |
 | 10 | [如果我現在就放棄](https://open.spotify.com/track/5XU8lrcYXQQ5W8Et1Ri1UG) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [如果我現在就放棄](https://open.spotify.com/album/5vU4ZHFpO3Nzcty3yNp5gd) | 3:28 |
 | 11 | [Romi'ami'ad](https://open.spotify.com/track/35eXQlJJFAbWrSCQGqMwzr) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27) | [Romi'ami'ad](https://open.spotify.com/album/1OXdXuWgTbMemOw7DSRJsF) | 5:32 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 18 | [看不見、聽不見](https://open.spotify.com/track/0vIKgO3oDuDat5BC57P4ks) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [看不見、聽不見](https://open.spotify.com/album/7lSvss6pDgDiy8OLXpkr2M) | 3:16 |
 | 19 | [I Still Care For You](https://open.spotify.com/track/3GO4VTsMrIMEE01gLCkMgj) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [I Still Care For You](https://open.spotify.com/album/6dpt3Yp5ZuqWGUpbnDwRwl) | 3:05 |
 | 20 | [星海](https://open.spotify.com/track/0hONQPF8fNreULYsImN4ih) | [ICE杨长青](https://open.spotify.com/artist/1CYOMrOfyYgZjJ9n6KIpQO), [Gibb\-Z](https://open.spotify.com/artist/3DxAtAOevevw0O3daK6D1t), [TrickYzb](https://open.spotify.com/artist/5XZcG14DWl6eAhhWyit9sI) | [Ansuz](https://open.spotify.com/album/7jmnlE7lE5fNZPOpPHSaNT) | 3:36 |
-| 21 | [自願自愛](https://open.spotify.com/track/3LhsbWkhdpg2MWgRNeVsRi) | [羅莎莎](https://open.spotify.com/artist/5v3aEi8ZoVyOvmjRQIpp6h) | [自願自愛](https://open.spotify.com/album/5EEqv8F5WoIKTJRxHDRYIJ) | 2:56 |
+| 21 | [自願自愛](https://open.spotify.com/track/3LhsbWkhdpg2MWgRNeVsRi) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF) | [自願自愛](https://open.spotify.com/album/5EEqv8F5WoIKTJRxHDRYIJ) | 2:56 |
 | 22 | [time to let you go](https://open.spotify.com/track/2yd0z9GBHskvErML8eFv11) | [Lena\-J](https://open.spotify.com/artist/5ORM7O0WPOpCDCA1gMVrRl) | [time to let you go](https://open.spotify.com/album/04J3villj0sSiehOdtErNL) | 3:00 |
 | 23 | [Broken GPS 羅盤](https://open.spotify.com/track/44mbqSwQd0kBZwAJHGAaVV) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Jimmy H.](https://open.spotify.com/artist/7t1OEceEW5WhtnUNsiljhr) | [Broken GPS 羅盤](https://open.spotify.com/album/1nGwtOlcSGJacvAC44cjDX) | 2:28 |
 | 24 | [\#買可樂](https://open.spotify.com/track/2VRis8WizEAmJmG22OPKjm) | [Nick Qiu](https://open.spotify.com/artist/5mRfWaNLgqUMlqBxA9cf31), [Donut](https://open.spotify.com/artist/2Ha2ULJDuLRhKgk8ELzahG), [MUII 木易](https://open.spotify.com/artist/6hOgCSvG8TeP0VnHg4IfsD), [幽浮YoFu](https://open.spotify.com/artist/2jgNBKCFhvNK826QZOI1iC) | [\#買可樂](https://open.spotify.com/album/3MtCcx1Xi7M1sBoHbeg3aq) | 3:58 |

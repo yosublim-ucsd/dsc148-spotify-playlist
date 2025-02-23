@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Ismail Izzani, Gabriella Ekaputri
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,051 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,065 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 14 | [Same For Me](https://open.spotify.com/track/37WRCo2FUb3N1eZpGLnfpG) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Same For Me](https://open.spotify.com/album/7vY41987SfQE1HXH9COaf2) | 2:57 |
 | 15 | [Indah Pada Waktunya](https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Indah Pada Waktunya](https://open.spotify.com/album/0tpiMc5UyAepTh01ut8lkA) | 4:00 |
 | 16 | [Lelaki Terakhir](https://open.spotify.com/track/1lAwADGrSaHWK3e3Su3QXG) | [Fattah Amin](https://open.spotify.com/artist/4yJ33lTnKh4Kiwrk2e64HH) | [Lelaki Terakhir](https://open.spotify.com/album/4Ebw5WhnYpEHlicRiUgrgH) | 3:09 |
-| 17 | [SWEETEST LOVE](https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM) | [LANG](https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [SWEETEST/LOVE](https://open.spotify.com/album/4uXqBbD5RSfNWJ4cb0bgkG) | 2:29 |
+| 17 | [SWEETEST/LOVE](https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM) | [LANG](https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [SWEETEST/LOVE](https://open.spotify.com/album/4uXqBbD5RSfNWJ4cb0bgkG) | 2:29 |
 | 18 | [Aku Dan Kamu](https://open.spotify.com/track/2bkQQGc30rR1UhlL2cOOj7) | [Sunny Club](https://open.spotify.com/artist/2icsxbw3kwhkULIg1C4FC6) | [Aku Dan Kamu](https://open.spotify.com/album/0H31lhi87aomf38tJQKO5W) | 3:02 |
 | 19 | [Pilih Sunyi](https://open.spotify.com/track/5t52pOuzcOYb2ODi0CthB0) | [Adeep Nahar](https://open.spotify.com/artist/3qHfyEPUWDeHD60Uuh6pZs), [Amzar Sabri](https://open.spotify.com/artist/7b20s5AwvHQ3C7OlOcp3bC), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Pilih Sunyi](https://open.spotify.com/album/0QlU9AGdO20zUC4WjmOdvY) | 4:48 |
 | 20 | [Apa Itu Konsep Bahagia?](https://open.spotify.com/track/2lJW88pg9jJSCjlhC7DCF7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Apa Itu Konsep Bahagia?](https://open.spotify.com/album/7fZz26PcaW4LcELEPPnxpM) | 3:36 |
-| 21 | [Cita\-Cita Asmara](https://open.spotify.com/track/4zCj2PrAn9X2SRDmHg9O1K) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN) | [Cita\-Cita Asmara](https://open.spotify.com/album/4XeBe0fR1eTK1bQh6Oh3Kx) | 4:23 |
+| 21 | [Cita Cita Asmara](https://open.spotify.com/track/4zCj2PrAn9X2SRDmHg9O1K) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN) | [Cita Cita Asmara](https://open.spotify.com/album/4XeBe0fR1eTK1bQh6Oh3Kx) | 4:23 |
 | 22 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 23 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 24 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 41 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
 | 42 | [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 |
 | 43 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |
-| 44 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
-| 45 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 |
+| 44 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 |
+| 45 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
 | 46 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 47 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
 | 48 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,002 songs - 2 day 5 hr 59 min
+1,003 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bachcha](https://open.spotify.com/track/05gtSxG3Zpm0Hw3C0Eha0l) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Bachcha](https://open.spotify.com/album/6tyBcZsCCVccS62USi3rSO) | 4:07 | 2022-04-28 | 2022-05-11 |
 | [Badaami Rangya](https://open.spotify.com/track/68KAdTIz16DT1rWrqODBh7) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Coz Of God](https://open.spotify.com/album/6d7e4beGEuqCCyCc7sU7ni) | 3:28 | 2022-07-27 | 2022-09-01 |
 | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 | 2024-09-03 | 2024-09-28 |
+| [Bae](https://open.spotify.com/track/6w4OGyITwsctUVy1lpo3rX) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [Bae](https://open.spotify.com/album/1Ugqw9M5thJorCZNixZPKh) | 2:27 | 2025-02-22 |  |
 | [BAIJA BAIJA](https://open.spotify.com/track/5ldQU1s9WKdCljXcg8BSTD) | [Aaman Trikha](https://open.spotify.com/artist/2MMPzBpMeCZVPRnV5mddc3) | [BAIJA BAIJA](https://open.spotify.com/album/0k3Ewft7xjE0DOAOKYJkiK) | 3:03 | 2024-09-09 | 2024-09-21 |
 | [Baith Kol](https://open.spotify.com/track/1k7rYDge3QkW428fFhXTKK) | [Pooja M Suresh](https://open.spotify.com/artist/2kyyWFCwV1iTPxo69lZXid), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Namyoho Studios](https://open.spotify.com/artist/4s3S5ufnXrulmx1a4xIftH) | [Baith Kol](https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ) | 3:40 | 2022-10-25 | 2022-12-16 |
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 | 2022-07-06 |
@@ -558,7 +559,7 @@
 | [Meri Zuban \(From "MOH"\)](https://open.spotify.com/track/5h0ths4OtpJMDkJpZrycQZ) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Meri Zuban \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2t9AwGoCQlroUmuTjXYehD) | 3:47 | 2022-09-06 | 2023-02-04 |
 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 | 2023-07-12 | 2024-09-06 |
 | [Midnight](https://open.spotify.com/track/19bAA9kNKdMEh3xqFPqJT4) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [Midnight](https://open.spotify.com/album/0fRXvOvU3BTzPs5zaccym1) | 2:51 | 2022-04-04 | 2022-04-29 |
-| [Mil Tan Jaave \(feat\. Himanshi Khurana\)](https://open.spotify.com/track/4LHoltLce0ebkkOuGqcj9S) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Mil Tan Jaave \(feat\. Himanshi Khurana\)](https://open.spotify.com/album/6Jb0Lx0eVTcxhTOUUlhOhz) | 3:31 | 2025-02-06 |  |
+| [Mil Tan Jaave \(feat\. Himanshi Khurana\)](https://open.spotify.com/track/4LHoltLce0ebkkOuGqcj9S) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Mil Tan Jaave \(feat\. Himanshi Khurana\)](https://open.spotify.com/album/6Jb0Lx0eVTcxhTOUUlhOhz) | 3:31 | 2025-02-06 | 2025-02-23 |
 | [Milky Way](https://open.spotify.com/track/2QfUhWY2m7X7aURqUPfxEp) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Milky Way](https://open.spotify.com/album/66rBRTEYWfFkYqmtIj9M9W) | 2:19 | 2024-09-05 |  |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-07-28 | 2023-02-04 |
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |

@@ -3738,7 +3738,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
@@ -13390,7 +13390,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 217074,
       "name": "F.U.",
       "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
@@ -20508,6 +20508,24 @@
       "duration_ms": 264764,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/7kmvG897NnuVUfNuWL1dKr"
+    },
+    {
+      "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
     },
     {
       "album": {
@@ -38388,7 +38406,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 243281,
       "name": "Speech Impediment",
       "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"

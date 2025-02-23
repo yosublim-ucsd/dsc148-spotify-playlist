@@ -9919,6 +9919,28 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/7rXmf1x0SN4QwOuEiVzo09"
+      },
+      "artists": [
+        {
+          "name": "Ben Nguyen",
+          "url": "https://open.spotify.com/artist/1LCiB7OknwvpfY5SCtRxbH"
+        },
+        {
+          "name": "JimmyG",
+          "url": "https://open.spotify.com/artist/61vtXCRL5m8vtoXIWthE46"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/4HUdJdXjicbgnK3QhXbzrF"
+    },
+    {
+      "album": {
         "name": "daybyday",
         "url": "https://open.spotify.com/album/3L3XlPYtzEGyT1MGPY2okb"
       },

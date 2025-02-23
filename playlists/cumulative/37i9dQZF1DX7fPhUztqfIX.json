@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "All new Worship songs on the rise! Cover: Sons Of Sunday",
+  "description": "All new Worship songs on the rise! Cover: Phil Wickham",
   "name": "Worship Rising",
   "tracks": [
     {
@@ -162,6 +162,28 @@
       "duration_ms": 275955,
       "name": "Adoration Song",
       "url": "https://open.spotify.com/track/4g4PYXN1KQVE4NMFuZuPZa"
+    },
+    {
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/1YiNjTUCWiLHxJaXVf5NKT"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Karly McMillan",
+          "url": "https://open.spotify.com/artist/3kc3Ckw9fucf93r2uwIPql"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316388,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/5iisV7FJi4ovShaB8rUGKO"
     },
     {
       "album": {
@@ -627,6 +649,32 @@
     },
     {
       "album": {
+        "name": "Bridegroom King (Live)",
+        "url": "https://open.spotify.com/album/7j8aBCs8BBO6QuFAqQufYF"
+      },
+      "artists": [
+        {
+          "name": "RIVERS",
+          "url": "https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW"
+        },
+        {
+          "name": "Katie Rios",
+          "url": "https://open.spotify.com/artist/0hLRTUumZ11OLGBqL2PP3R"
+        },
+        {
+          "name": "Julio Rivera",
+          "url": "https://open.spotify.com/artist/6m38uee2lyf3lIemkao0ax"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376083,
+      "name": "Bridegroom King - Live",
+      "url": "https://open.spotify.com/track/37lXuRjzld7Wo4fuhfliq1"
+    },
+    {
+      "album": {
         "name": "Build an Altar (Live)",
         "url": "https://open.spotify.com/album/0dFJw4kqxUEMByQ76JPeAy"
       },
@@ -638,7 +686,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 303449,
       "name": "Build an Altar (Live)",
       "url": "https://open.spotify.com/track/6WAuc401nzSQn4p8JlB0Td"
@@ -1438,7 +1486,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 305466,
       "name": "Even At My Worst (You Love Me) (feat. Vanessa Marquez)",
       "url": "https://open.spotify.com/track/6YLeYYpBzcWBbqPwHqItkg"
@@ -1654,7 +1702,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 465257,
       "name": "Fear Not (Never Stop Praying) - Live",
       "url": "https://open.spotify.com/track/2vxgT6nsitXF5J0mDXp2Ij"
@@ -2300,6 +2348,28 @@
       "duration_ms": 248018,
       "name": "He Holds Us",
       "url": "https://open.spotify.com/track/3Mmpvfd6Lg9KStonR46UdC"
+    },
+    {
+      "album": {
+        "name": "Like The World Has Never Seen (Live)",
+        "url": "https://open.spotify.com/album/5Vg2Ka4cp6RUDRVH36xQTP"
+      },
+      "artists": [
+        {
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
+        },
+        {
+          "name": "Elevation Youth",
+          "url": "https://open.spotify.com/artist/2lmkAeBbKuATAqV9Zq81j4"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290765,
+      "name": "He Is The Lord - Live",
+      "url": "https://open.spotify.com/track/22bdqLLV9WHFRAr0zUQZAY"
     },
     {
       "album": {
@@ -3099,6 +3169,32 @@
     },
     {
       "album": {
+        "name": "I Fear No Evil (Live)",
+        "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Megan Parker",
+          "url": "https://open.spotify.com/artist/2gAY6ZJtCTFhRtkO5v0f8b"
+        },
+        {
+          "name": "Whitney Wood",
+          "url": "https://open.spotify.com/artist/1eWi8ImuZLYpsxfG2iWXSl"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361650,
+      "name": "I Fear No Evil - Live",
+      "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
+    },
+    {
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -3673,6 +3769,32 @@
     },
     {
       "album": {
+        "name": "King On The Throne (Live)",
+        "url": "https://open.spotify.com/album/6UXRmfkCJmy75aLrvoY0XE"
+      },
+      "artists": [
+        {
+          "name": "Covenant Worship",
+          "url": "https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj"
+        },
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        },
+        {
+          "name": "Nikki Moltz",
+          "url": "https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395655,
+      "name": "King On The Throne - Live",
+      "url": "https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro"
+    },
+    {
+      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -4228,7 +4350,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 305509,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4MwrKy2fv48CkqbHvmddbb"
@@ -4401,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4VklB3CRyzDHx2FAB7MYE2"
+      },
+      "artists": [
+        {
+          "name": "Oceans Music",
+          "url": "https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547010,
+      "name": "Never Gets Old",
+      "url": "https://open.spotify.com/track/3RIhalkeNsWuidM3dyEFRq"
+    },
+    {
+      "album": {
         "name": "Never Going Back (Live)",
         "url": "https://open.spotify.com/album/1ZHxKdDcoQPkLBHLRwllMn"
       },
@@ -4536,7 +4680,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 456662,
       "name": "No Famine",
       "url": "https://open.spotify.com/track/5FBdmidq7E9Dxj5hHLXtOq"
@@ -5078,7 +5222,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 267095,
       "name": "One Desire",
       "url": "https://open.spotify.com/track/2eXrDKn9YkUrhg4stYM8yD"
@@ -5170,6 +5314,24 @@
       "duration_ms": 264333,
       "name": "Outnumbered - Studio",
       "url": "https://open.spotify.com/track/0yyXIW5994kdLcDu8fx9uV"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/29k7xThF3cibCSHQVnfw1z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219881,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/2xmZPwnnfwRY1dRtLALMSx"
     },
     {
       "album": {
@@ -5812,7 +5974,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 261133,
       "name": "REVIVAL GENERATION",
       "url": "https://open.spotify.com/track/1evlqx86VEjtiY2EaHk5jE"
@@ -5972,6 +6134,24 @@
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "album": {
+        "name": "Search",
+        "url": "https://open.spotify.com/album/2NdBtQt8GMhmy4oAaA9l2q"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "Search",
+      "url": "https://open.spotify.com/track/52FR4RlJITeumzNTh1BRA0"
     },
     {
       "album": {
@@ -6587,6 +6767,32 @@
     },
     {
       "album": {
+        "name": "The Image",
+        "url": "https://open.spotify.com/album/5lpuaMKwpRs2PvBsUcYUXf"
+      },
+      "artists": [
+        {
+          "name": "Gather Worship",
+          "url": "https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "THE IMAGE",
+      "url": "https://open.spotify.com/track/3DzFfyOOZ1CWoV0sL2TKWW"
+    },
+    {
+      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -6606,6 +6812,24 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "album": {
+        "name": "The King Is In The Room",
+        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
     },
     {
       "album": {
@@ -6646,7 +6870,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 302200,
       "name": "The Response (Holy) [feat. Rachel Tuttle]",
       "url": "https://open.spotify.com/track/3fOF9h5UdQl26aMDr2Hq8k"
@@ -6752,7 +6976,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 361500,
       "name": "There Is Only One Name - Live",
       "url": "https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB"
@@ -7204,7 +7428,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 300063,
       "name": "We Choose Praise - Live",
       "url": "https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ"
@@ -7764,7 +7988,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 311001,
       "name": "Yahweh Holy - Church Version",
       "url": "https://open.spotify.com/track/4Wmh6RbHEhx2q7VjMPP5q7"
@@ -7942,6 +8166,24 @@
       "duration_ms": 390800,
       "name": "You Reign - Live",
       "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "album": {
+        "name": "You Won't Take Your Love",
+        "url": "https://open.spotify.com/album/7GhIzYJWsfR4i05KiE1lDj"
+      },
+      "artists": [
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217285,
+      "name": "You Won't Take Your Love",
+      "url": "https://open.spotify.com/track/30bKsvM1Rn6wloVbdlkNuo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 90727,
+  "num_followers": 90743,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAADpCIzRDsDfESYI3nDIa6nv",
+  "snapshot_id": "Z7fCAAAAAABkvmS68LNjlM/KEW1ElzcC",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Seeing Double at the Triple Rock",
-      "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 92106,
-      "name": "Six Years on Dope",
-      "url": "https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 201493,
       "name": "Idiots Are Taking Over",
       "url": "https://open.spotify.com/track/7DtwSlXsEy9mrsxxQW9Mm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 92106,
+      "name": "Six Years on Dope",
+      "url": "https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 104466,
-      "name": "Green Corn",
-      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 133933,
       "name": "Usa-Holes",
       "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 104466,
+      "name": "Green Corn",
+      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "The Moron Brothers",
-      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 166333,
       "name": "Soul Doubt",
       "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
     },
     {
       "added_at": null,

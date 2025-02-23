@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,279 likes - 122 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,308 likes - 122 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 13 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
 | 14 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 |
 | 15 | [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 |
-| 16 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
+| 16 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
 | 17 | [Retrograde](https://open.spotify.com/track/1NUfGlP1RJ5APCN0yKgYwO) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 2:15 |
 | 18 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 |
 | 19 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |

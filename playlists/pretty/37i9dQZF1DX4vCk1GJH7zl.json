@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 144141,
+  "num_followers": 144180,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,30 @@
     {
       "added_at": "2025-02-14 03:01:18",
       "album": {
+        "name": "Sex on the Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Hear Me Now - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "added_at": "2025-02-14 03:01:18",
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
@@ -295,30 +319,6 @@
       "duration_ms": 207145,
       "name": "Eu Vi Tudo",
       "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
-    },
-    {
-      "added_at": "2025-02-14 03:01:18",
-      "album": {
-        "name": "Sex on the Beach (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ricardo",
-          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Milton Guedes",
-          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Hear Me Now - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
     },
     {
       "added_at": "2025-02-14 03:01:18",

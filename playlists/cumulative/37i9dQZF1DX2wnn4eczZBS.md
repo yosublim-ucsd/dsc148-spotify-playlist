@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-159 songs - 8 hr 23 min
+160 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [liefde is lang](https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [liefde is lang](https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx) | 3:24 | 2024-09-12 | 2024-11-22 |
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 | 2025-01-11 |
+| [Marlboro Rood](https://open.spotify.com/track/4AkQUl0cEU858gwomf7PNg) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Marlboro Rood](https://open.spotify.com/album/5wgh4F5UvFecOsjLGXXuxd) | 3:11 | 2025-02-20 |  |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-26 | 2024-09-14 |
 | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG) | [Blue Flamingo](https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8) | 4:05 | 2024-08-29 | 2025-02-14 |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-07-05 | 2024-10-25 |
@@ -131,7 +132,7 @@
 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 | 2024-08-29 |  |
 | [Spijt](https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Spijt](https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE) | 3:04 | 2024-06-26 | 2024-08-30 |
 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 | 2025-01-10 |  |
-| [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 |  |
+| [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 | 2025-02-23 |
 | [Starstruck \(Celebrity\)](https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Starstruck \(Celebrity\)](https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa) | 3:51 | 2024-11-07 | 2025-01-24 |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 |  |
 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 | 2024-10-09 |  |

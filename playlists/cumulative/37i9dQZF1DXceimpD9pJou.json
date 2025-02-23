@@ -15715,24 +15715,6 @@
     },
     {
       "album": {
-        "name": "Eres Facil de Encontrar",
-        "url": "https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F"
-      },
-      "artists": [
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "date_added": "2025-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 387163,
-      "name": "Eres Facil de Encontrar",
-      "url": "https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92"
-    },
-    {
-      "album": {
         "name": "Eres Fiel",
         "url": "https://open.spotify.com/album/1sJxcLoUwHwe6uCkBAWk0J"
       },
@@ -15792,6 +15774,32 @@
       "duration_ms": 435346,
       "name": "Eres Fiel - Tu No Fallas - En Vivo",
       "url": "https://open.spotify.com/track/65JKevCCF66sKOaL3ZKHlh"
+    },
+    {
+      "album": {
+        "name": "eres f\u00e1cil de encontrar",
+        "url": "https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        },
+        {
+          "name": "Ivette Lopez",
+          "url": "https://open.spotify.com/artist/659A3Ajb34BsT88kC9D6X7"
+        },
+        {
+          "name": "Ivon Lopez",
+          "url": "https://open.spotify.com/artist/6Tp7z6fxxWlfgt78Q4shNG"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387163,
+      "name": "eres f\u00e1cil de encontrar",
+      "url": "https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92"
     },
     {
       "album": {

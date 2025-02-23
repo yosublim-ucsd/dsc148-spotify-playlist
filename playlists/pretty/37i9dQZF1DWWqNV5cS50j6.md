@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,952 likes - 69 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,922 likes - 69 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

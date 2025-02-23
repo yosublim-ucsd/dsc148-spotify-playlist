@@ -1,13 +1,29 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 45161,
+  "num_followers": 45171,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAADVbLoY74uTSL8Oi1HE0JtW",
+  "snapshot_id": "Z7fCAAAAAAD46revM6mZSMILhHZxEiB9",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Te Puedes Ir",
+        "url": "https://open.spotify.com/album/7e72Ilntb53n5ltBHrGGF0"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 222742,
+      "name": "Ya Te Puedes Ir",
+      "url": "https://open.spotify.com/track/2YzDFbrE8eGm4ZzCsefIf0"
+    },
     {
       "added_at": null,
       "album": {
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "No Llorar\u00e9",
-      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Rey, Mi Santo",
         "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 164400,
       "name": "Mi Rey, Mi Santo",
       "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "Ya No Te Creo Nada",
-      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesito Olvidarte",
         "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 184426,
       "name": "Todo Lo Aprend\u00ed De Ti",
       "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Ya No Te Creo Nada",
+      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
     },
     {
       "added_at": null,

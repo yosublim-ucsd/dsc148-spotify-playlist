@@ -4,7 +4,7 @@
 
 > This is Eugenio Esquivel\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 12 min
+25 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Recio](https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Recio](https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e) | 2:31 | 2024-08-08 |  |
 | [RENATA](https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [RENATA](https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz) | 3:54 | 2024-08-08 |  |
 | [Sueños de la Clika](https://open.spotify.com/track/5cI2CcuDA9ZOpXgg30eBIo) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Sueños de la Clika](https://open.spotify.com/artist/0xCOz1dwDmhGoy8xDstkoD), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sueños de la Clika](https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ) | 2:08 | 2024-08-08 |  |
-| [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 | 2024-08-08 |  |
+| [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 | 2024-08-08 | 2025-02-23 |
+| [Tirando Flow Sesh \#9](https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [TFS](https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx) | 3:07 | 2025-02-23 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

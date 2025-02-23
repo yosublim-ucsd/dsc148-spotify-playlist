@@ -335,6 +335,22 @@
     {
       "added_at": "2025-02-20 17:00:05",
       "album": {
+        "name": "Tried MY Best",
+        "url": "https://open.spotify.com/album/2P6nGkRHN3LYcUpxGqDEFe"
+      },
+      "artists": [
+        {
+          "name": "KiLLMYPRiDE",
+          "url": "https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK"
+        }
+      ],
+      "duration_ms": 180019,
+      "name": "Tried MY Best",
+      "url": "https://open.spotify.com/track/55Jmb48GbHtz96hooGWXv3"
+    },
+    {
+      "added_at": "2025-02-20 17:00:05",
+      "album": {
         "name": "Ayo Kita Puasa",
         "url": "https://open.spotify.com/album/2NJoWRAaLUWrN9p6ggk0Qv"
       },

@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Reverie (Solo Piano Version) & Midnight Reverie",
+        "url": "https://open.spotify.com/album/1pmlr7X61B3YItvw6bTVEC"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/7jJXXxrBFWJx7X5wEXPYsC"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj"
       },

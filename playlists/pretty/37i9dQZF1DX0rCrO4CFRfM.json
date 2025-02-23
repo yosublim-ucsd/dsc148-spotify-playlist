@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1027517,
+  "num_followers": 1028362,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Many of Horror (MTV Unplugged Live; Edit)",
         "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 254510,
       "name": "Many of Horror - MTV Unplugged Live; Edit",
       "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-10-25 07:41:44",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "My Heart Will Always Be the B-Side to My Tongue",
-        "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Grand Theft Autumn / Where Is Your Boy - Acoustic",
-      "url": "https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Aggressive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
+        "name": "My Heart Will Always Be the B-Side to My Tongue",
+        "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Hated (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
+      "duration_ms": 192133,
+      "name": "Grand Theft Autumn / Where Is Your Boy - Acoustic",
+      "url": "https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Sex EP",
+        "url": "https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Chocolate - Acoustic Version",
+      "url": "https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz"
     }
   ],
   "unique_name": "Acoustic Rock",

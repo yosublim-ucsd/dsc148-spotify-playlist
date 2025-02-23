@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,321 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,365 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 99 | [Here We Go Again](https://open.spotify.com/track/0Aiv55ivW2Re7QbI39XCLN) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Here We Go Again](https://open.spotify.com/album/7FnqltgxXvG3tYDXCLBwBM) | 3:25 |
 | 100 | [Get Busy](https://open.spotify.com/track/2I0WGckwuCYRoFK1TdkhJ0) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Get Busy](https://open.spotify.com/album/2ZY7jEqHWHymruFSfIihyK) | 2:33 |
 
-Snapshot ID: `Z7cqYwAAAAB87Kuy/dXSYyyVn12bfktm`
+Snapshot ID: `Z7cqYwAAAABgkf7RUJhhzzD6AVhjmV0l`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 644993,
+  "num_followers": 645003,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        },
-        {
-          "name": "Dunw3ll",
-          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
     },
     {
       "added_at": "2024-07-16 11:23:58",

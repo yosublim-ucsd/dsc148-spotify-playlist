@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: Kingfshr
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,436 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,396 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Tight Ripped Jeans](https://open.spotify.com/track/1MNqMa6iDCAXwVofQTFSO1) | [Beans & Fatback](https://open.spotify.com/artist/1TaMcPraHVa4y6mcPoYXgT) | [Tight Ripped Jeans](https://open.spotify.com/album/6dp3o0AmSHcarGB6vMQdaa) | 3:07 |
 | 60 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 |
 
-Snapshot ID: `Z7g5wAAAAADlYZFw8B0/OX7MZeSggeu0`
+Snapshot ID: `Z7g5wAAAAACLeSxsC+CdNCal/4AedORh`

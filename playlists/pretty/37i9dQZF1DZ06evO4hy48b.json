@@ -1,29 +1,13 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 204848,
+  "num_followers": 204880,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAAc3s8Kxq6UKeF8hm2KjYOU",
+  "snapshot_id": "Z7fCAAAAAAAo3frfeSZq9IY7/5sw9HBZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEGUNDO INTENTO",
-        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
-    },
     {
       "added_at": null,
       "album": {
@@ -83,6 +67,22 @@
       "duration_ms": 174379,
       "name": "Presiento",
       "url": "https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEGUNDO INTENTO",
+        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
     },
     {
       "added_at": null,
@@ -252,13 +252,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 181200,
-      "name": "CORAZ\u00d3N SIN VIDA",
-      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
+      "duration_ms": 219354,
+      "name": "+ (M\u00c1S)",
+      "url": "https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ"
     },
     {
       "added_at": null,
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 219354,
-      "name": "+ (M\u00c1S)",
-      "url": "https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ"
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando No S\u00e9 Qui\u00e9n Soy",
         "url": "https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
     },
     {
       "added_at": null,
@@ -919,26 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+        "name": "TEL\u00c9FONO",
+        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
       },
       "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+      "duration_ms": 163293,
+      "name": "TEL\u00c9FONO",
+      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
     },
     {
       "added_at": null,
@@ -959,18 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEL\u00c9FONO",
-        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
+        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
       },
       "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 163293,
-      "name": "TEL\u00c9FONO",
-      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
+      "duration_ms": 198946,
+      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,6 @@
       "duration_ms": 129350,
       "name": "Tu culpa",
       "url": "https://open.spotify.com/track/5uiYxDj0w8d4PjsSDPuOxd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Nada Sale Mal",
-      "url": "https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa"
     }
   ],
   "unique_name": "This Is Aitana",

@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128512,
+  "num_followers": 128516,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "la ra\u00edz",
+        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 224501,
+      "name": "la ra\u00edz",
+      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Amiguita como t\u00fa",
         "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 186098,
       "name": "Amiguita como t\u00fa",
       "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "la ra\u00edz",
-        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 224501,
-      "name": "la ra\u00edz",
-      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "La Utop\u00eda en que Vivimos",
-        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 303699,
-      "name": "La Cultura del Miedo",
-      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -695,22 +679,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Tan delicada",
-        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+        "name": "La Utop\u00eda en que Vivimos",
+        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
       },
       "artists": [
         {
-          "name": "Nadia Alvarez",
-          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
-        },
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
         }
       ],
-      "duration_ms": 199096,
-      "name": "Tan delicada",
-      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
+      "duration_ms": 303699,
+      "name": "La Cultura del Miedo",
+      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -735,6 +715,26 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Tan delicada",
+        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+      },
+      "artists": [
+        {
+          "name": "Nadia Alvarez",
+          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 199096,
+      "name": "Tan delicada",
+      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Me mudo de casa",
         "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+        "name": "Vig\u00edlia",
+        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Anna Andreu",
+          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
         }
       ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+      "duration_ms": 182360,
+      "name": "Roja i espessa",
+      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -783,6 +783,22 @@
       "duration_ms": 200768,
       "name": "hay algo en esa luz",
       "url": "https://open.spotify.com/track/0tAW9w9cW7Xw1a3GB29V3c"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -855,22 +871,6 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Vig\u00edlia",
-        "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
-      },
-      "artists": [
-        {
-          "name": "Anna Andreu",
-          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Roja i espessa",
-      "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Ventura (Live)",
+        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
+      },
+      "artists": [
+        {
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
+        },
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "duration_ms": 295328,
+      "name": "Ventura - Live",
+      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Ventura (Live)",
-        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
-      },
-      "artists": [
-        {
-          "name": "Santero y Los Muchachos",
-          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
-        },
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 295328,
-      "name": "Ventura - Live",
-      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "serpiente",
         "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 205741,
       "name": "serpiente",
       "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "A la deriva",
-        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
-      },
-      "artists": [
-        {
-          "name": "Pablo Joaqu\u00edn",
-          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
-        },
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 186597,
-      "name": "A la deriva",
-      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1087,6 +1067,26 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "A la deriva",
+        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
+      },
+      "artists": [
+        {
+          "name": "Pablo Joaqu\u00edn",
+          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+        },
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 186597,
+      "name": "A la deriva",
+      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Due\u00f1a",
         "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
-      },
-      "artists": [
-        {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "Artean",
         "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
       },
@@ -1347,38 +1331,18 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Se\u00f1or Tiempo",
-        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
       },
       "artists": [
         {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
         }
       ],
-      "duration_ms": 340638,
-      "name": "Se\u00f1or Tiempo",
-      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+      "duration_ms": 204173,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1403,22 +1367,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Ag\u00fcita del equilibrio",
-        "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
         },
         {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
         }
       ],
-      "duration_ms": 263441,
-      "name": "Ag\u00fcita del equilibrio",
-      "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1439,22 +1403,38 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
       },
       "artists": [
         {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Ag\u00fcita del equilibrio",
+        "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "duration_ms": 263441,
+      "name": "Ag\u00fcita del equilibrio",
+      "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1471,6 +1451,26 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
-        "name": "Que no ves que no vas",
-        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
-      },
-      "artists": [
-        {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
-        }
-      ],
-      "duration_ms": 138888,
-      "name": "Que no ves que no vas",
-      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
         "name": "La Noche de Mi Amor",
         "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 214464,
       "name": "La Noche de Mi Amor",
       "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
+        "name": "Que no ves que no vas",
+        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "duration_ms": 138888,
+      "name": "Que no ves que no vas",
+      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
     },
     {
       "added_at": "2025-02-13 23:00:19",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-02-13 23:00:19",
       "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2025-02-13 23:00:19",
+      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2025-02-13 23:00:19",
-      "album": {
-        "name": "Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2025-02-13 23:00:19",

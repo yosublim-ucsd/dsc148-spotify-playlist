@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BENNETT, Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,072 likes - 81 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,182 likes - 81 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 80 | [Can't Let You Go](https://open.spotify.com/track/3zc0g1KF1UwaWbCswYu7NN) | [Krl Mx](https://open.spotify.com/artist/49e9A9elFAUS9sCDMTyiWC) | [Can't Let You Go](https://open.spotify.com/album/68aVyRxEEygozovWQ6Lgfl) | 3:26 |
 | 81 | [Sunset](https://open.spotify.com/track/7x94qGI7uEiXkW4zvnwlUF) | [Daybreak](https://open.spotify.com/artist/5QPKLSt0HnVRslkJk0Lv0e) | [Sunset](https://open.spotify.com/album/0x8MWniLnVXqAmWZw3SI8C) | 2:28 |
 
-Snapshot ID: `Z7hN4wAAAADLM21LBz1pd0Gn2owrDPFI`
+Snapshot ID: `Z7hN4wAAAAB/a6/VZg+PY4SdKRZSKokp`

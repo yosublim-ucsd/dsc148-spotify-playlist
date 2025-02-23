@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hungria
 
-460 songs - 23 hr 53 min
+461 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Não Faz Marra](https://open.spotify.com/track/349VMk1uZmX0wL1CoA3izr) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não Faz Marra](https://open.spotify.com/album/0TWc3pDitFPl02iYysyPp8) | 2:50 | 2023-03-10 | 2023-07-08 |
 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 | 2022-12-09 | 2023-09-23 |
 | [Não Sai da Minha Mente \(feat\. Lionel\)](https://open.spotify.com/track/10BAfuVOPB5C1ed1ZQCfkq) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA) | [Não Sai da Minha Mente \(feat\. Lionel\)](https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q) | 3:10 | 2022-08-19 | 2022-10-15 |
+| [Não Sei Lidar](https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Não Sei Lidar](https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk) | 2:39 | 2025-02-21 |  |
 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 | 2022-05-23 |  |
 | [NÉ SEGREDO](https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [NÉ SEGREDO](https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT) | 2:35 | 2022-09-23 | 2022-12-31 |
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-05-23 | 2024-11-23 |
@@ -457,7 +458,7 @@
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2022-11-16 |  |
 | [Versão brasileira](https://open.spotify.com/track/3s9B8mXerJ5rHOqqF9CJTO) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Versão brasileira](https://open.spotify.com/album/0rEujh1Q6qWT21IqisREYo) | 2:35 | 2023-11-17 | 2023-11-25 |
 | [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 | 2025-02-21 |  |
-| [viciar](https://open.spotify.com/track/60usq0qxIEDe1OTfPCva64) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [viciar](https://open.spotify.com/album/6cx9RII2H5QQu7AM36x5kg) | 2:33 | 2024-11-29 |  |
+| [viciar](https://open.spotify.com/track/60usq0qxIEDe1OTfPCva64) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [viciar](https://open.spotify.com/album/6cx9RII2H5QQu7AM36x5kg) | 2:33 | 2024-11-29 | 2025-02-23 |
 | [Viver de Amores \(Só Fé Paz Paz\)](https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq) | [Rafael Mike](https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr), [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Viver de Amores \(Só Fé Paz Paz\)](https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk) | 2:41 | 2024-06-21 |  |
 | [Você Chegou](https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Você Chegou](https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV) | 2:23 | 2024-03-01 | 2024-11-23 |
 | [Você Falou pra Mim](https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1) | [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Lucas Arcanjo](https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj), [Andrei Zucco](https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN) | [Você Falou pra Mim](https://open.spotify.com/album/3C4GwIc7117OxDuu66G248) | 2:21 | 2023-11-10 |  |

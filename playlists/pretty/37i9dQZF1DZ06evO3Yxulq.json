@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40567,
+  "num_followers": 40569,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAACzlk4v0D6UgvU65mc0L8LU",
+  "snapshot_id": "Z7fCAAAAAACI/q1E1EJel21ZqfrfzYQF",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 298584,
+      "name": "Aleluya, \u00c9l Viene Ya",
+      "url": "https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 612133,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 298584,
-      "name": "Aleluya, \u00c9l Viene Ya",
-      "url": "https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es el Cielo",
+      "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 273488,
       "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
       "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Tu Presencia Es el Cielo",
-      "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 350858,
-      "name": "M\u00e1s Alto Honor",
-      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 269645,
       "name": "El Gran Nombre del Se\u00f1or",
       "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 350858,
+      "name": "M\u00e1s Alto Honor",
+      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -723,26 +739,6 @@
       "duration_ms": 362977,
       "name": "Eterno (Con Cuando los Santos Marchen Ya)",
       "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo En Jes\u00fas",
-        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Solo En Jes\u00fas",
-      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+        "name": "Solo En Jes\u00fas",
+        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
       },
       "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+      "duration_ms": 271426,
+      "name": "Solo En Jes\u00fas",
+      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
     },
     {
       "added_at": null,
@@ -827,38 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 309263,
-      "name": "Hasta Poder Ver",
-      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adoraci\u00f3n Vol. 1",
         "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
       },
@@ -879,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 309263,
+      "name": "Hasta Poder Ver",
+      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
     },
     {
       "added_at": null,

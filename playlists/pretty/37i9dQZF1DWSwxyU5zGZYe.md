@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,570 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,592 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 34 | [Rasiya Reprise](https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:45 |
 | 35 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 |
 | 36 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 |
-| 37 | [Nazar Laaye \- Reprise](https://open.spotify.com/track/3h44S4bynHkbKVP2mogqdX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rashid Ali](https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 3:55 |
+| 37 | [Nazar Laaye \(From "Raanjhanaa"\) \- Reprise](https://open.spotify.com/track/3h44S4bynHkbKVP2mogqdX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rashid Ali](https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 3:55 |
 | 38 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 |
 | 39 | [Atak Gaya \- Acoustic](https://open.spotify.com/track/7cR0Wtv9wfrxjSBJcohLpZ) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aoSVvw7A1ULSKXCkn4Kl3) | 3:10 |
 | 40 | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF) | 5:12 |

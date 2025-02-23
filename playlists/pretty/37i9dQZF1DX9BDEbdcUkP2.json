@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 175366,
+  "num_followers": 175451,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 517159,
+      "name": "Suzie Q",
+      "url": "https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
         "name": "Honky Tonk Women / You Can't Always Get What You Want",
         "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 156440,
       "name": "I Was Made To Love Her",
       "url": "https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 517159,
-      "name": "Suzie Q",
-      "url": "https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB"
     },
     {
       "added_at": "2024-03-22 15:14:09",

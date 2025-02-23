@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 34613,
+  "num_followers": 34612,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+        "name": "Kava",
+        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
         }
       ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+      "duration_ms": 179142,
+      "name": "Kava",
+      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "Kava",
-        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
-      },
-      "artists": [
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Kava",
-      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
-    },
-    {
-      "added_at": "2025-01-27 15:22:31",
-      "album": {
         "name": "ellipsis",
         "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 243314,
       "name": "ellipsis",
       "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2025-01-27 15:22:31",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -527,22 +527,18 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
-        "url": "https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q"
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
       "artists": [
         {
-          "name": "\u041d\u0430\u0441\u0442\u044f \u0411\u0430\u043b\u043e\u0433",
-          "url": "https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR"
-        },
-        {
-          "name": "POSITIFF",
-          "url": "https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME"
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 167086,
-      "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
-      "url": "https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U"
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -563,18 +559,22 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
+        "url": "https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "\u041d\u0430\u0441\u0442\u044f \u0411\u0430\u043b\u043e\u0433",
+          "url": "https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR"
+        },
+        {
+          "name": "POSITIFF",
+          "url": "https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 167086,
+      "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
+      "url": "https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
-        "url": "https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR"
-      },
-      "artists": [
-        {
-          "name": "DOVI",
-          "url": "https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5"
-        },
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
-      "url": "https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ"
-    },
-    {
-      "added_at": "2025-01-27 15:22:31",
-      "album": {
         "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
         "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 155624,
       "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
       "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
+    },
+    {
+      "added_at": "2025-01-27 15:22:31",
+      "album": {
+        "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
+        "url": "https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR"
+      },
+      "artists": [
+        {
+          "name": "DOVI",
+          "url": "https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5"
+        },
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
+      "url": "https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
-        "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
+        "name": "\u0411\u043e\u0441\u0456",
+        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
       },
       "artists": [
         {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+          "name": "STASYA",
+          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
         }
       ],
-      "duration_ms": 223532,
-      "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
-      "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
+      "duration_ms": 144000,
+      "name": "\u0411\u043e\u0441\u0456",
+      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
     },
     {
       "added_at": "2025-01-27 15:22:31",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-01-27 15:22:31",
       "album": {
-        "name": "\u0411\u043e\u0441\u0456",
-        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
+        "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
+        "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
       "artists": [
         {
-          "name": "STASYA",
-          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
         }
       ],
-      "duration_ms": 144000,
-      "name": "\u0411\u043e\u0441\u0456",
-      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
+      "duration_ms": 223532,
+      "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
     }
   ],
   "unique_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

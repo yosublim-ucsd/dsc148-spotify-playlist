@@ -1,6 +1,6 @@
 {
   "description": "hari e memphis t\u00e3o na casa, esque\u00e7a tudo \ud83d\udc49\ud83d\ude0c\ud83d\udc48",
-  "num_followers": 1404853,
+  "num_followers": 1404951,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2025-02-21 03:01:11",
       "album": {
-        "name": "Donos da Cidade",
-        "url": "https://open.spotify.com/album/2SjqnWjj3LXG6PYoIWKQkA"
-      },
-      "artists": [
-        {
-          "name": "Asfalto Rec",
-          "url": "https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Donos da Cidade",
-      "url": "https://open.spotify.com/track/3ZRIoT6aHi9HsLzWGO1Rs4"
-    },
-    {
-      "added_at": "2025-02-21 03:01:11",
-      "album": {
         "name": "Peita do Coring\u00e3o (feat. MC Marks)",
         "url": "https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj"
       },
@@ -1607,6 +1583,30 @@
       "duration_ms": 245500,
       "name": "Peita do Coring\u00e3o (feat. MC Marks)",
       "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
+    },
+    {
+      "added_at": "2025-02-21 03:01:11",
+      "album": {
+        "name": "Donos da Cidade",
+        "url": "https://open.spotify.com/album/2SjqnWjj3LXG6PYoIWKQkA"
+      },
+      "artists": [
+        {
+          "name": "Asfalto Rec",
+          "url": "https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Donos da Cidade",
+      "url": "https://open.spotify.com/track/3ZRIoT6aHi9HsLzWGO1Rs4"
     },
     {
       "added_at": "2025-02-21 03:01:11",

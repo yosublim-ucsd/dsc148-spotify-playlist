@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez?si=Zz19hc39QaO9Ux9niVs8yA>Wole Awolola</a>
 
-259 songs - 20 hr 51 min
+260 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 | 2023-09-15 | 2024-02-09 |
 | [Let Us Go](https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw) | [Nomakhuze Ndabula](https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ), [Flowzbevtz](https://open.spotify.com/artist/1xdjeiB1Muh9RWJA8EvMXO), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Let Us Go](https://open.spotify.com/album/5PhmeA8VO2FCQP0e5THHo0) | 1:30 | 2024-02-09 | 2024-05-24 |
 | [Like a Baby \- Special Version](https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Like a Baby \(Special Version\)](https://open.spotify.com/album/2jlZE2Hj2uhJBvS7psCCV0) | 2:49 | 2024-05-03 | 2024-05-24 |
+| [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 |  |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [M'manja Mwanu](https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [M'manja Mwanu](https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9) | 3:12 | 2024-11-29 | 2024-12-30 |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-09-15 | 2024-03-16 |
@@ -209,7 +210,7 @@
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [So What](https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 2:29 | 2024-07-12 |  |
 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-10 | 2024-07-12 |
-| [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 |  |
+| [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 | 2025-02-23 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-09-15 | 2024-03-16 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-05-13 |
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2024-10-04 |

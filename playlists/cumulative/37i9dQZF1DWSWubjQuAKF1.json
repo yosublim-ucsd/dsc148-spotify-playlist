@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "bilet beze mnie",
+        "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        },
+        {
+          "name": "dybi\u0144ski",
+          "url": "https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "bilet beze mnie",
+      "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
+    },
+    {
+      "album": {
         "name": "Bli\u017cej Ni\u017c Zwykle",
         "url": "https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI"
       },
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 164233,
       "name": "CZAS NA SEN",
       "url": "https://open.spotify.com/track/6LulbqWDMnl1odFxtKWAzi"
@@ -2134,6 +2156,24 @@
       "duration_ms": 166029,
       "name": "I'm in love",
       "url": "https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1"
+    },
+    {
+      "album": {
+        "name": "if jesus saw what we did last night",
+        "url": "https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "if jesus saw what we did last night",
+      "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
     },
     {
       "album": {
@@ -3618,7 +3658,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 162187,
       "name": "nie ma sprawy",
       "url": "https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU"
@@ -4007,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "okay cool",
+        "url": "https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg"
+      },
+      "artists": [
+        {
+          "name": "ENNA",
+          "url": "https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152926,
+      "name": "okay cool",
+      "url": "https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ"
+    },
+    {
+      "album": {
         "name": "Okej",
         "url": "https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS"
       },
@@ -4287,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Peripheral Lover",
+        "url": "https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195486,
+      "name": "Peripheral Lover",
+      "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
+    },
+    {
+      "album": {
         "name": "Peron",
         "url": "https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK"
       },
@@ -4498,7 +4574,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 213995,
       "name": "pov: nie dostali\u015bmy wi\u0119cej czasu / p\u0142aszcz.",
       "url": "https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0"
@@ -5878,7 +5954,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 265333,
       "name": "what's left unsaid",
       "url": "https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,810 likes - 52 songs - 3 hr 23 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,813 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 50 | [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 |
 | 51 | [Car Song](https://open.spotify.com/track/2PLlDmo8ugWB0uKPxovQ6E) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 1:52 |
 | 52 | [Talking Fishing Blues](https://open.spotify.com/track/5uRZQacQqmhdRwoAMbYnlW) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 3:06 |
+| 53 | [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 |
+| 54 | [Green Is the Colour of Evil](https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:46 |
+| 55 | [Little Eyes](https://open.spotify.com/track/5pHNCZCt3daiBXs1lWopBS) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 4:22 |
 
-Snapshot ID: `AAAL4tS3zs+/RbSM3gs2mDGjvWrf16/B`
+Snapshot ID: `AAAL5UGixPWRdZ5wFIU+HAG5lJyv/Pyp`

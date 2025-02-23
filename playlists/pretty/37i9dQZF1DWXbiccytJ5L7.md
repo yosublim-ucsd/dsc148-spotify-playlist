@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,270 likes - 111 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,350 likes - 111 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 9 | [Workin' \(feat\. Alexander King\)](https://open.spotify.com/track/4fkUsaC0dJfHp5N1kIrZlr) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 3:34 |
 | 10 | [Cowboy Capone](https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cowboy Capone](https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl) | 3:11 |
 | 11 | [Wanna Be](https://open.spotify.com/track/5U26aL087wVLQYtJWU33zx) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Wanna be](https://open.spotify.com/album/1jzCG3ujAOgHpqT9TZIuGH) | 2:30 |
-| 12 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY \- EP](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
+| 12 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
 | 13 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 |
 | 14 | [What In Tarnation](https://open.spotify.com/track/1AdxwYqpeVDqTeMkLBnjFW) | [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [What In Tarnation](https://open.spotify.com/album/6R6oeoEu6E39xOGbS3jvug) | 2:48 |
 | 15 | [Riding Dirty](https://open.spotify.com/track/1FzJBuKOk5yUrmrg7ujaSu) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Riding Dirty](https://open.spotify.com/album/2UGTOdNjy5OsutvUUZ7cDf) | 3:10 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 110 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 |
 | 111 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `Z7iOVAAAAABYSFnaKtIe55M5vg3blFsR`
+Snapshot ID: `Z7iOVAAAAAA8NPGA+Q3TMVNuDd4zOi12`

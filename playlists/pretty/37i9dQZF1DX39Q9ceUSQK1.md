@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Michael Ekow & May
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,776 likes - 77 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,777 likes - 77 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

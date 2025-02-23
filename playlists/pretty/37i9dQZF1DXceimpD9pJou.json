@@ -1,6 +1,6 @@
 {
   "description": "Las mejores nuevas canciones Cristianas.  Foto: Samuel ASH y Sam Rivera",
-  "num_followers": 148974,
+  "num_followers": 148992,
   "original_name": "Todas Novedades Cristianas",
   "owner": {
     "name": "Spotify",
@@ -195,17 +195,25 @@
     {
       "added_at": "2025-02-21 08:48:52",
       "album": {
-        "name": "Eres Facil de Encontrar",
+        "name": "eres f\u00e1cil de encontrar",
         "url": "https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F"
       },
       "artists": [
         {
           "name": "Art Aguilera",
           "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        },
+        {
+          "name": "Ivette Lopez",
+          "url": "https://open.spotify.com/artist/659A3Ajb34BsT88kC9D6X7"
+        },
+        {
+          "name": "Ivon Lopez",
+          "url": "https://open.spotify.com/artist/6Tp7z6fxxWlfgt78Q4shNG"
         }
       ],
       "duration_ms": 387163,
-      "name": "Eres Facil de Encontrar",
+      "name": "eres f\u00e1cil de encontrar",
       "url": "https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92"
     },
     {

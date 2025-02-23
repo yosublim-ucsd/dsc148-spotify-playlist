@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Andry Bett
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,716 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,726 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 19 | [Te Miento \- Al Piano](https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Potra al Piano](https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp) | 3:20 |
 | 20 | [Una Mira En Mi Cuello](https://open.spotify.com/track/5ZBJg95EaCiSq9WrTMEYLN) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Una Mira En Mi Cuello](https://open.spotify.com/album/4KPPqQr0dXD9zBkh4X0u99) | 2:38 |
 | 21 | [cuchillos que brillan](https://open.spotify.com/track/1l2jceM2Y772rKL24CYCM8) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [MARCA DE NACIMIENTO](https://open.spotify.com/album/0tog7otr5xCQFNyoOx5beR) | 3:20 |
-| 22 | [Tu soledad y la mía](https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Tu soledad y la mía](https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU) | 3:32 |
+| 22 | [Tu soledad y la mía](https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Tu soledad y la mía](https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU) | 3:33 |
 | 23 | [igual o mejor](https://open.spotify.com/track/4fJ9CNXe3uEIZfQEcc5ZOE) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [igual o mejor](https://open.spotify.com/album/2AgaXT4zgEuHg93TXrA8Zc) | 3:35 |
 | 24 | [Jacuzzi](https://open.spotify.com/track/4SJ8b1hPttGLLzazwZo3vW) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Jacuzzi](https://open.spotify.com/album/70UID2Smd0NBuZewBcAYvN) | 3:37 |
 | 25 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 60 | [Ya no hay vuelta atrás](https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ya no hay vuelta atrás](https://open.spotify.com/album/7nyCuS7qmyufmpF6XVqwjy) | 3:07 |
 | 61 | [Luna](https://open.spotify.com/track/3DZvGVgBUoCPi9ZmUwYhC8) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [CIUDAD FRENESÍ](https://open.spotify.com/album/1JLruKm7iOA1lZAL3ffZ1V) | 3:03 |
 | 62 | [Chance](https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q) | [Santiago Alonso](https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw) | [Chance](https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd) | 2:52 |
-| 63 | [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:31 |
+| 63 | [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:29 |
 | 64 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 |
 | 65 | [Ritmo de la Noche](https://open.spotify.com/track/66XpgMyLOVkxaaFIZNCeHE) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd), [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Operación Abrazo y Beso](https://open.spotify.com/album/1mHTYUqs4h4lnQYMu52KXb) | 5:06 |
 | 66 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |

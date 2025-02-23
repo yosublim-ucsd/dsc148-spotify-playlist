@@ -2543,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Al Beats",
+          "url": "https://open.spotify.com/artist/5plHsgRKrAPDQ4YdOQJDHo"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "album": {
         "name": "\u00c1gua de Bala",
         "url": "https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP"
       },

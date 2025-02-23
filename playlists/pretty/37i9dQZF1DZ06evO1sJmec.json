@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2014398,
+  "num_followers": 2014670,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAC/sDMsBo3aKyOx/CrdJ2Lq",
+  "snapshot_id": "Z7fCAAAAAADUqESGPA1Pc31E6jrnEbVM",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 248546,
       "name": "Whiplash - Remastered",
       "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395704,
+      "name": "Creeping Death - Creeping Death EP Version / Remastered",
+      "url": "https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ride The Lightning (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395704,
-      "name": "Creeping Death - Creeping Death EP Version / Remastered",
-      "url": "https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl"
     },
     {
       "added_at": null,

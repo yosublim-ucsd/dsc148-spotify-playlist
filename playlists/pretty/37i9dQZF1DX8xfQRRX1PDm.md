@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,002 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,173 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Jai Jai Shivshankar](https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [War](https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku) | 3:50 |
 | 75 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 
-Snapshot ID: `Z7XV+gAAAACoqoEfu7bacOn8vf2XdNhF`
+Snapshot ID: `Z7XV+gAAAAAkgigb6IgGRo1w7WRB5y2e`

@@ -4,7 +4,7 @@
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 23 min
+77 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Vete](https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vete](https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v) | 2:58 | 2024-12-08 |  |
 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 | 2023-03-10 | 2024-06-16 |
 | [Ya No Te Creo Nada](https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:09 | 2023-03-10 |  |
+| [Ya Te Puedes Ir](https://open.spotify.com/track/2YzDFbrE8eGm4ZzCsefIf0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ya Te Puedes Ir](https://open.spotify.com/album/7e72Ilntb53n5ltBHrGGF0) | 3:42 | 2025-02-23 |  |
 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

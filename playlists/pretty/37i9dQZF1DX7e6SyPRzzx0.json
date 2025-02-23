@@ -1,13 +1,33 @@
 {
   "description": "The home of rage rap. Cover: Yeat",
-  "num_followers": 96445,
+  "num_followers": 96587,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OCrAAAAABI1Eg6XAFOSz8tfp97Khso",
+  "snapshot_id": "Z7lF1QAAAABvo1Z+s8d0SQAg84zA2H90",
   "tracks": [
+    {
+      "added_at": "2025-02-22 03:34:45",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo"
+    },
     {
       "added_at": "2024-12-06 23:03:08",
       "album": {
@@ -39,6 +59,26 @@
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": "2025-02-22 03:34:45",
+      "album": {
+        "name": "Enter The Dragon / TEKTIME",
+        "url": "https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Enter The Dragon",
+      "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
     },
     {
       "added_at": "2024-12-06 23:03:08",
@@ -93,6 +133,30 @@
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
+      "added_at": "2025-02-22 03:34:45",
+      "album": {
+        "name": "Aye Rage",
+        "url": "https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC"
+      },
+      "artists": [
+        {
+          "name": "Benji Blue Bills",
+          "url": "https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "YourRAGE",
+          "url": "https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk"
+        }
+      ],
+      "duration_ms": 113968,
+      "name": "Aye Rage",
+      "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
+    },
+    {
       "added_at": "2024-12-06 23:03:08",
       "album": {
         "name": "Eternal Atake 2",
@@ -123,6 +187,26 @@
       "duration_ms": 126988,
       "name": "gold",
       "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "added_at": "2025-02-22 03:34:45",
+      "album": {
+        "name": "WE LOVE D. SAVAGE",
+        "url": "https://open.spotify.com/album/2fJeIpfjtSy0D1ZMpsYZfn"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 109727,
+      "name": "inthej",
+      "url": "https://open.spotify.com/track/0AJTkZVEpSVmn6Yf5rsx8l"
     },
     {
       "added_at": "2024-12-06 23:03:08",

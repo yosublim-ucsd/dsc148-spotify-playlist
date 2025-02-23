@@ -1,6 +1,6 @@
 {
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 199653,
+  "num_followers": 199679,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Paradigm Shift",
+      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
         "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 220904,
       "name": "Calling for Rain",
       "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Paradigm Shift",
-      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -551,8 +551,8 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY VIII Original Soundtrack",
-        "url": "https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn"
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Balamb GARDEN",
-      "url": "https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0"
+      "duration_ms": 169026,
+      "name": "Spira Unplugged",
+      "url": "https://open.spotify.com/track/1ZpFAnggGRjqXbDynGp7AL"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -631,8 +631,8 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY X Original Soundtrack",
-        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+        "name": "FINAL FANTASY VIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Spira Unplugged",
-      "url": "https://open.spotify.com/track/1ZpFAnggGRjqXbDynGp7AL"
+      "duration_ms": 209266,
+      "name": "Balamb GARDEN",
+      "url": "https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
-      },
-      "artists": [
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 135186,
-      "name": "Why (CCFFVII Mix)",
-      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 260959,
       "name": "Noel's Theme - Final Journey -",
       "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 135186,
+      "name": "Why (CCFFVII Mix)",
+      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
-      },
-      "artists": [
-        {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
-        }
-      ],
-      "duration_ms": 105960,
-      "name": "Character Creation",
-      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY IX Original Soundtrack",
         "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201733,
       "name": "Melodies of Life (The Layers of Harmony)",
       "url": "https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+      },
+      "artists": [
+        {
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+        }
+      ],
+      "duration_ms": 105960,
+      "name": "Character Creation",
+      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY XI Original Soundtrack",
-        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Mog House",
-      "url": "https://open.spotify.com/track/5kernXhkgp8dBKrbTkzX36"
+      "duration_ms": 338680,
+      "name": "The Last Hunter",
+      "url": "https://open.spotify.com/track/6YzCZVtNNSvy4o53RIMVj6"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
-        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
+        "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30102/2\u3011)",
+        "url": "https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau"
       },
       "artists": [
         {
-          "name": "SQUARE ENIX MUSIC",
-          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
+          "name": "\u67f4\u7530 \u5fb9\u4e5f",
+          "url": "https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG"
         }
       ],
-      "duration_ms": 130132,
-      "name": "\u300cMovement in Green - arrange -\u300d from FINAL FANTASY X",
-      "url": "https://open.spotify.com/track/5J5K3ZobREfPQku5uU38B2"
+      "duration_ms": 199466,
+      "name": "Welcome Home - Journey's End",
+      "url": "https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30102/2\u3011)",
-        "url": "https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau"
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
       },
       "artists": [
         {
-          "name": "\u67f4\u7530 \u5fb9\u4e5f",
-          "url": "https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG"
+          "name": "SQUARE ENIX MUSIC",
+          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
         }
       ],
-      "duration_ms": 199466,
-      "name": "Welcome Home - Journey's End",
-      "url": "https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69"
+      "duration_ms": 130132,
+      "name": "\u300cMovement in Green - arrange -\u300d from FINAL FANTASY X",
+      "url": "https://open.spotify.com/track/5J5K3ZobREfPQku5uU38B2"
     },
     {
       "added_at": "2024-09-18 01:48:43",

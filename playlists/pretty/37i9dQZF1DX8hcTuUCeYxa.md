@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: LUKAS OSCAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,873 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,951 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 15 | [Oily Heart](https://open.spotify.com/track/066xsSchUAaztnetPLMlVG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oily Heart](https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC) | 2:14 |
 | 16 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 |
 | 17 | [Talk It Over](https://open.spotify.com/track/5c7nC4dNr4GimbHBihmT2h) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Andrea Tichy](https://open.spotify.com/artist/2Ebz2aZex1NlGW9Qo4qKs6) | [Talk It Over](https://open.spotify.com/album/4WEzYdZjYeIBgOFQlUri4u) | 3:09 |
-| 18 | [All The Boys I Loved Before](https://open.spotify.com/track/1mhqCCGxu5bPoSBblrAtLB) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [All The Boys I Loved Before](https://open.spotify.com/album/2ogPjewU8QigxhghzXOB4S) | 3:05 |
+| 18 | [All the boys I’ve loved before](https://open.spotify.com/track/1mhqCCGxu5bPoSBblrAtLB) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [All the boys I’ve loved before](https://open.spotify.com/album/2ogPjewU8QigxhghzXOB4S) | 3:05 |
 | 19 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 |
 | 20 | [Angie](https://open.spotify.com/track/653mJODcgxFbQm1AN7Rz8H) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Angie](https://open.spotify.com/album/0u0Aq6y5dHhwDvA5tkyvf0) | 2:48 |
 | 21 | [I'm in love with you](https://open.spotify.com/track/423IeZGRqqyLMgnQEVQjJS) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [TWO SPOONS SUGAR](https://open.spotify.com/album/3TjSF4mQ2K7DvRBEZp7neo) | 2:55 |

@@ -3675,7 +3675,7 @@
     },
     {
       "album": {
-        "name": "Chopin: 19 Waltzes",
+        "name": "Chopin: The 19 Waltzes",
         "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
       },
       "artists": [
@@ -3692,7 +3692,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149000,
-      "name": "Waltz No. 19 in A minor, Op. posth.",
+      "name": "Waltz No. 19 in A Minor, KK IVb/11",
       "url": "https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU"
     },
     {
@@ -3741,28 +3741,6 @@
     },
     {
       "album": {
-        "name": "Chopin: 19 Waltzes",
-        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273000,
-      "name": "Waltz No. 5 in A Flat, Op. 42 - \"Grande valse\"",
-      "url": "https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj"
-    },
-    {
-      "album": {
         "name": "Chopin: Waltzes",
         "url": "https://open.spotify.com/album/0h8hAxMUrF5wN2vHXzYW5k"
       },
@@ -3782,6 +3760,28 @@
       "duration_ms": 276866,
       "name": "Waltz No. 5 in A Flat, Op. 42 - \"Grande valse\"",
       "url": "https://open.spotify.com/track/6wFKGWow2nmXDjir2Uvagd"
+    },
+    {
+      "album": {
+        "name": "Chopin: The 19 Waltzes",
+        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Waltz No. 5 in A-Flat Major, Op. 42",
+      "url": "https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj"
     },
     {
       "album": {

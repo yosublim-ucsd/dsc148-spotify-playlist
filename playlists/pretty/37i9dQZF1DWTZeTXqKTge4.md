@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: FouKi
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,097 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,101 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Va bene](https://open.spotify.com/track/38Toj0y1veSV0StPFwYBGj) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Renaissance \(Act\. II\) \(Bonus\)](https://open.spotify.com/album/7kin5hd0nUWpMmzC3OKfDH) | 2:35 |
 | 74 | [Good Intentions](https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu) | [Good Intentions](https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj) | 3:24 |
 
-Snapshot ID: `Z7gK3AAAAACVnKamhSlf+wJXkjzbbeYB`
+Snapshot ID: `Z7gK3AAAAAD4CNUorcraMpOSocZi0bLz`

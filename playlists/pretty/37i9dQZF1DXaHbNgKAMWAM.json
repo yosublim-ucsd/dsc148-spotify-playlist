@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 17022,
+  "num_followers": 17030,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-02-10 13:19:38",
       "album": {
+        "name": "Sea&U&I",
+        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
+      },
+      "artists": [
+        {
+          "name": "polar",
+          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Sea&U&I",
+      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
+    },
+    {
+      "added_at": "2025-02-10 13:19:38",
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 197813,
       "name": "Like a dream",
       "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
-    },
-    {
-      "added_at": "2025-02-10 13:19:38",
-      "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2025-02-10 13:19:38",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-02-10 13:19:38",
       "album": {
-        "name": "Sea&U&I",
-        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
       },
       "artists": [
         {
-          "name": "polar",
-          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 195720,
-      "name": "Sea&U&I",
-      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2025-02-10 13:19:38",

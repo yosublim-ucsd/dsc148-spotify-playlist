@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 387236,
       "name": "Lost In Me",
       "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
@@ -2236,6 +2236,32 @@
       "duration_ms": 442758,
       "name": "Many Faces",
       "url": "https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s"
+    },
+    {
+      "album": {
+        "name": "Nyuku EP",
+        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
+      },
+      "artists": [
+        {
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+        },
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305274,
+      "name": "Mawelele",
+      "url": "https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu"
     },
     {
       "album": {

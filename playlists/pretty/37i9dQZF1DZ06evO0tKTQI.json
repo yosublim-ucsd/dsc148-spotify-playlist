@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12842,
+  "num_followers": 12841,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAACTGYrjTOca0AYKnZWFNkGo",
+  "snapshot_id": "Z7fCAAAAAABoj7z8RqstaKgbzlW6u+cY",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate y Nata",
-        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Chocolate y Nata",
-      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+      "duration_ms": 212866,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
+        "name": "Chocolate y Nata",
+        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
         },
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 212866,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
+      "duration_ms": 181384,
+      "name": "Chocolate y Nata",
+      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Piel Revisitado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB"
-      },
-      "artists": [
-        {
-          "name": "BETA",
-          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 254183,
-      "name": "Salvador - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rep\u00fablica De La Nostalgia",
         "url": "https://open.spotify.com/album/6hXtLpGm5YCS7D8EZg2BPQ"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 234400,
       "name": "Hasta Luego",
       "url": "https://open.spotify.com/track/4JTWEGM4PWVbt8WHVzbq86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Piel Revisitado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB"
+      },
+      "artists": [
+        {
+          "name": "BETA",
+          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 254183,
+      "name": "Salvador - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7"
     },
     {
       "added_at": null,

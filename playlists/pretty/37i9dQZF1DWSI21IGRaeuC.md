@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,367 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,420 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 78 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 79 | [What Are You Waiting For \- Sunrise Mix](https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\) \- EP](https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj) | 3:51 |
 | 80 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
-| 81 | [How Low Can You Go](https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [How Low Can You Go EP](https://open.spotify.com/album/2F9Karze72Hgnk3NW2x08G) | 3:52 |
-| 82 | [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 |
+| 81 | [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 |
+| 82 | [How Low Can You Go](https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [How Low Can You Go EP](https://open.spotify.com/album/2F9Karze72Hgnk3NW2x08G) | 3:52 |
 | 83 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
 | 84 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
 | 85 | [Take You On A Ride](https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Take You On A Ride](https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk) | 3:50 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Art Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,226 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,344 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eres Facil de Encontrar](https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [Eres Facil de Encontrar](https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F) | 6:27 |
+| 1 | [eres fácil de encontrar](https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [Ivette Lopez](https://open.spotify.com/artist/659A3Ajb34BsT88kC9D6X7), [Ivon Lopez](https://open.spotify.com/artist/6Tp7z6fxxWlfgt78Q4shNG) | [eres fácil de encontrar](https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F) | 6:27 |
 | 2 | [Tú me ves](https://open.spotify.com/track/1AS2mBCQCXkPQongFHI4Kz) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Tú me ves](https://open.spotify.com/album/4WGtcfoIgea7uzdSrjenGH) | 2:57 |
 | 3 | [Poderoso](https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Poderoso](https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh) | 3:33 |
 | 4 | [Tú Eres Dios](https://open.spotify.com/track/6Ba75b7WwhRuITzZsnKOp2) | [Chanel Novas](https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Tú Eres Dios](https://open.spotify.com/album/0YICEYAaNv9lFBRrKtYtu4) | 9:19 |

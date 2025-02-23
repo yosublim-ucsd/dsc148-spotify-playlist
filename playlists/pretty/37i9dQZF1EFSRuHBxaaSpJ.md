@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 55 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 |
 | 56 | [Ouais x4 / Wake Up](https://open.spotify.com/track/23JfoAyYt1CJvQQ6uaa7Ze) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 4:32 |
 | 57 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 |
-| 58 | [Millionnaire](https://open.spotify.com/track/6jPAYcdVGyQkTixE8zQJhF) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Karma](https://open.spotify.com/album/5wOJFyys7hdvUItAtzvuuZ) | 3:14 |
-| 59 | [Mitterrand](https://open.spotify.com/track/3cK8iQ4iSDaUE2wlZ2N7lF) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:49 |
+| 58 | [Mitterrand](https://open.spotify.com/track/3cK8iQ4iSDaUE2wlZ2N7lF) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:49 |
+| 59 | [Millionnaire](https://open.spotify.com/track/6jPAYcdVGyQkTixE8zQJhF) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Karma](https://open.spotify.com/album/5wOJFyys7hdvUItAtzvuuZ) | 3:14 |
 | 60 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 |
 | 61 | [L'EFFORT \- interlude](https://open.spotify.com/track/5jCrLazhdpVCeXPnd2XiDH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 1:48 |
 | 62 | [Love Therapy](https://open.spotify.com/track/0gIphsFucR85iYwuMcqxiv) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 5:08 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 80 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 81 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `AbqN3gAAAAB6w7ZalRGEalVIEzkI19+3`
+Snapshot ID: `AbqTfgAAAADugQuyTXEzFaWk9adjcg4L`

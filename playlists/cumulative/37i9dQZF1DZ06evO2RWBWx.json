@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "FRIENDS!!!",
+        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232649,
+      "name": "FRIENDS!!!",
+      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
+    },
+    {
+      "album": {
         "name": "Greedy Greedy (feat.imase)",
         "url": "https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1"
       },

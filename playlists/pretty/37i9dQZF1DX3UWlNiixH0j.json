@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u5927\u6bd4\u826f\u745e\u5e0c (Mizuki Ohira)",
-  "num_followers": 60809,
+  "num_followers": 60817,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 394752,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+    },
+    {
+      "added_at": "2025-02-18 15:00:22",
+      "album": {
         "name": "44th Dimension",
         "url": "https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN"
       },
@@ -931,18 +947,34 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 394752,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+      "duration_ms": 231924,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
+    },
+    {
+      "added_at": "2025-02-18 15:00:22",
+      "album": {
+        "name": "\u5185\u306a\u308b\u60d1\u661f",
+        "url": "https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 241186,
+      "name": "Warumono",
+      "url": "https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg"
     },
     {
       "added_at": "2025-02-18 15:00:22",
@@ -967,22 +999,6 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "\u5185\u306a\u308b\u60d1\u661f",
-        "url": "https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 241186,
-      "name": "Warumono",
-      "url": "https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg"
-    },
-    {
-      "added_at": "2025-02-18 15:00:22",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 225853,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
-    },
-    {
-      "added_at": "2025-02-18 15:00:22",
-      "album": {
-        "name": "Pathway",
-        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 231924,
-      "name": "Ethos",
-      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
     },
     {
       "added_at": "2025-02-18 15:00:22",
@@ -1047,6 +1047,22 @@
       "duration_ms": 181940,
       "name": "\u3068\u304d\u3081\u304d",
       "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
+    },
+    {
+      "added_at": "2025-02-18 15:00:22",
+      "album": {
+        "name": "sober",
+        "url": "https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "duration_ms": 236371,
+      "name": "sober",
+      "url": "https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq"
     },
     {
       "added_at": "2025-02-18 15:00:22",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "sober",
-        "url": "https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr"
-      },
-      "artists": [
-        {
-          "name": "brkfstblend",
-          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
-        }
-      ],
-      "duration_ms": 236371,
-      "name": "sober",
-      "url": "https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq"
-    },
-    {
-      "added_at": "2025-02-18 15:00:22",
-      "album": {
         "name": "Karakara",
         "url": "https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 314933,
-      "name": "\u518d\u751f",
-      "url": "https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC"
-    },
-    {
-      "added_at": "2025-02-18 15:00:22",
-      "album": {
         "name": "Malam Suci",
         "url": "https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 259795,
       "name": "Malam Suci",
       "url": "https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj"
+    },
+    {
+      "added_at": "2025-02-18 15:00:22",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 314933,
+      "name": "\u518d\u751f",
+      "url": "https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC"
     },
     {
       "added_at": "2025-02-18 15:00:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "\u4f59\u97fb",
-        "url": "https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp"
-      },
-      "artists": [
-        {
-          "name": "Asagaya Romantics",
-          "url": "https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "\u4f59\u97fb",
-      "url": "https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c"
-    },
-    {
-      "added_at": "2025-02-18 15:00:22",
-      "album": {
         "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 351779,
       "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6"
+    },
+    {
+      "added_at": "2025-02-18 15:00:22",
+      "album": {
+        "name": "\u4f59\u97fb",
+        "url": "https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp"
+      },
+      "artists": [
+        {
+          "name": "Asagaya Romantics",
+          "url": "https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "\u4f59\u97fb",
+      "url": "https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c"
     },
     {
       "added_at": "2025-02-18 15:00:22",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-02-18 15:00:22",
       "album": {
-        "name": "S'more",
-        "url": "https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ"
+        "name": "\u30e9\u30b8\u30aa",
+        "url": "https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8"
       },
       "artists": [
         {
-          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
-          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+          "name": "\u771e\u540d\u5b50\u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
         }
       ],
-      "duration_ms": 237667,
-      "name": "\u30a2\u30f3\u30d6\u30ec\u30a4\u30e9",
-      "url": "https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu"
+      "duration_ms": 154460,
+      "name": "\u30e9\u30b8\u30aa",
+      "url": "https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU"
     }
   ],
   "unique_name": "Edge!",

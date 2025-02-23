@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,323 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,374 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 49 | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ) | 3:59 |
 | 50 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
 | 51 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
-| 52 | [Do Tamanho do Meu Deus](https://open.spotify.com/track/4bsgd7pMCr7ZmFtsLBF7iI) | [Val e Simone](https://open.spotify.com/artist/2K7xKoDaTtqzvntEKTxtSm) | [Confiança](https://open.spotify.com/album/5lYrNwyDmUG9OYVzeaTcHj) | 3:21 |
-| 53 | [Aumente o Som \- Ao Vivo](https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Aumente o Som \(Ao Vivo\)](https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF) | 6:00 |
+| 52 | [Aumente o Som \- Ao Vivo](https://open.spotify.com/track/3wzqDgOr0AN57nNIRDa8xP) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Aumente o Som \(Ao Vivo\)](https://open.spotify.com/album/36RFBF5WzYevP63BKWjYAF) | 6:00 |
+| 53 | [Do Tamanho do Meu Deus](https://open.spotify.com/track/4bsgd7pMCr7ZmFtsLBF7iI) | [Val e Simone](https://open.spotify.com/artist/2K7xKoDaTtqzvntEKTxtSm) | [Confiança](https://open.spotify.com/album/5lYrNwyDmUG9OYVzeaTcHj) | 3:21 |
 | 54 | [Tem Milagre Vindo Aí](https://open.spotify.com/track/61SLxYHFHwlwiEZp5rI0iU) | [Monique Grazielle](https://open.spotify.com/artist/2CdJLbNKlntgLM95IWuTWM) | [No Tempo Certo](https://open.spotify.com/album/1Dop7lWX9iu0TFl4DvbzWr) | 3:56 |
 | 55 | [Vou Embora pro Céu](https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Vou Embora pro Céu](https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S) | 3:34 |
 | 56 | [Quem É Como Tu, Senhor?](https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Quem É Como Tu, Senhor?](https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj) | 5:31 |

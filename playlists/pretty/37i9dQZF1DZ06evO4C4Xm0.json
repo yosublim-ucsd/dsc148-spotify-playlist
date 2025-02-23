@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 44743,
+  "num_followers": 44753,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAAbIs7TLpwnkL+YFLMAcsqA",
+  "snapshot_id": "Z7fCAAAAAACipcRJLrRRjd/9ExLc15v/",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 265962,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 326866,
-      "name": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
-      "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 148293,
-      "name": "An Echo Of Night - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
+      "duration_ms": 177600,
+      "name": "Their Memories - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
     }
   ],
   "unique_name": "This Is Brian Eno",

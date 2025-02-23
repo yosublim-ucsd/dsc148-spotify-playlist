@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,708 likes - 137 songs - 8 hr 11 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,699 likes - 137 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,431 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,433 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 9 | [Kei Respekt](https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ) | [Fratelli\-B](https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [Mier macheds](https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb) | 3:20 |
 | 10 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 11 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
-| 12 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
-| 13 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
+| 12 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
+| 13 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
 | 14 | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/album/1FROZGtaQG82Gr2SkohAE3) | 3:32 |
 | 15 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
 | 16 | [\[Ä\]](https://open.spotify.com/track/6lQPodqFBJRQqvuHPwY7ag) | [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [\[Ã\]](https://open.spotify.com/album/5Hu42gMxa1sqnZXIAb3edZ) | 2:57 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 30 | [Min Ort 2010](https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Discochugle](https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK) | 3:40 |
 | 31 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
 | 32 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
-| 33 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
-| 34 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
-| 35 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
-| 36 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
-| 37 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
-| 38 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
+| 33 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
+| 34 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
+| 35 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
+| 36 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
+| 37 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
+| 38 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
 | 39 | [Antihelda](https://open.spotify.com/track/4aTG1xUHF1qZR8czxkpjW5) | [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [Unmensch](https://open.spotify.com/album/6IJX3an6LJLXNuk9uf5gG1) | 4:08 |
 | 40 | [Volksmusigg](https://open.spotify.com/track/3S09OtRKrgj8XD3tWsQpLe) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3RRlOwXXKu0Mc6Xhg8oQk8) | 3:26 |
 | 41 | [Umarm sie](https://open.spotify.com/track/1IzbWCl9MQJx8kRmWeO9ih) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Zuckerbrot & Peitsche](https://open.spotify.com/album/6qCXS60IfyOyJQP8bMzm4v) | 4:30 |

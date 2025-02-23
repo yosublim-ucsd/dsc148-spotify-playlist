@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,313 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,295 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,7 +365,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 355 | [Bounty](https://open.spotify.com/track/486TM1WRQHYRWCj5heYnVU) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Cameo](https://open.spotify.com/album/3p4cI1NS8IGXwbg7DFowD7) | 3:15 |
 | 356 | [En el Aire](https://open.spotify.com/track/4qUiGisIl5DFV3GCpI2V7t) | [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [En el Aire](https://open.spotify.com/album/27scM3ywKdFj2ryru1N2Pb) | 2:48 |
 | 357 | [HADES](https://open.spotify.com/track/2Ntrial8l1h53OQKVuqqmn) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [HADES](https://open.spotify.com/album/2fsAnho0Jxj4Bdo6HKr4HZ) | 5:03 |
-| 358 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 |
+| 358 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11), [Reuben G](https://open.spotify.com/artist/5qc62hIsJXdYdK424CwkH2) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 |
 | 359 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
 | 360 | [Wild Ones](https://open.spotify.com/track/2Nfwhr89NY1PKY0Cb4If7o) | [The Rassle](https://open.spotify.com/artist/1w7xqTJFKpD7XS03t0KkuU) | [Wild Ones](https://open.spotify.com/album/3HmVyQwJj2ectPIPdP9zHF) | 4:05 |
 | 361 | [Swipe It Off](https://open.spotify.com/track/0walsIpIS9fgErcvgUdGnh) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/5pNKjgr9ZvtLkKoiaX0woS) | 2:29 |

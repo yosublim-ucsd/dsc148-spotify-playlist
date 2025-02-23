@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-84 songs - 6 hr 22 min
+85 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Vale Nada](https://open.spotify.com/track/6e9mevCxIfRq8KKJyhXQXd) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/1sFLaxyMYYFz7OY7zLvWUt) | 2:44 | 2024-01-01 | 2024-02-21 |
 | [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 | 2024-03-09 |  |
 | [VÍBORA](https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK) | [funBABE](https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VÍBORA](https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU) | 3:25 | 2023-12-30 |  |
+| [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Al Beats](https://open.spotify.com/artist/5plHsgRKrAPDQ4YdOQJDHo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 | 2025-02-23 |  |
 | [Água de Bala](https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DK Prod](https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq) | [Água de Bala](https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP) | 2:24 | 2023-12-30 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

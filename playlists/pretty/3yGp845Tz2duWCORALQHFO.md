@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,907 likes - 61 songs - 3 hr 16 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,909 likes - 61 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 24 | [Nonstop](https://open.spotify.com/track/2oQk5uwbMVgfgPJOzZlRQp) | [Xpilot](https://open.spotify.com/artist/2Se9B8FENf4SIYVa1oHDXi) | [Nonstop](https://open.spotify.com/album/1FpDbd7QylhiMYznzmbtMU) | 2:35 |
 | 25 | [Strobo](https://open.spotify.com/track/7etRXqWIwKkmuDU85sn9r4) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Strobo](https://open.spotify.com/album/31qgXCAGd2dQ3mHY2yP7Qd) | 3:24 |
 | 26 | [Papi](https://open.spotify.com/track/1aMLubK96VDaP5SfIa2aRm) | [Cizzzla](https://open.spotify.com/artist/7H18N6EUyYiLI57t6H4DCt) | [Papi](https://open.spotify.com/album/15jGFqLCtvX8XdfloK7wNo) | 1:52 |
-| 27 | [Touch Me](https://open.spotify.com/track/6Oy8ROBDQOIuyibADGpTnx) | [Control Room](https://open.spotify.com/artist/0tLJ8fk8oulNkMQRAj4Toi), [2 Below](https://open.spotify.com/artist/1y4QNIBbqTkzKnaKVlBT3f) | [Touch Me](https://open.spotify.com/album/039vvms8BEUaBqxPOBwl9n) | 2:52 |
+| 27 | [Touch Me](https://open.spotify.com/track/6Oy8ROBDQOIuyibADGpTnx) | [Control Room](https://open.spotify.com/artist/0tLJ8fk8oulNkMQRAj4Toi), [2 Below](https://open.spotify.com/artist/7wponEQgf3A7sgrV6cbSk7) | [Touch Me](https://open.spotify.com/album/039vvms8BEUaBqxPOBwl9n) | 2:52 |
 | 28 | [Out Of The Water](https://open.spotify.com/track/1P8ZF3KPLP1gMftGnWpvIK) | [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Out Of The Water](https://open.spotify.com/album/7oF2CTzLN9LL3m6pXG4X5z) | 3:29 |
 | 29 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 |
 | 30 | [Feels Like Home](https://open.spotify.com/track/0ayCxRghUvjzW7plaOKict) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [Feels Like Home](https://open.spotify.com/album/2a0mkYawDcl1S9qj73gdoE) | 2:46 |

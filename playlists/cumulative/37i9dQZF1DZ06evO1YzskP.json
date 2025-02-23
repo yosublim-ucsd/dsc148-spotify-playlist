@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Alucinaciones",
+        "url": "https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184060,
+      "name": "Alucinaciones",
+      "url": "https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8"
+    },
+    {
+      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },

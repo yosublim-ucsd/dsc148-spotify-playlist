@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Samuel ASH y Sam Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,974 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,992 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 8 | [Tenías Razón](https://open.spotify.com/track/5FUHlcHuan6KcrNaokTNlQ) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [Tenías Razón](https://open.spotify.com/album/6TCZ667caK2F7eybnWpu7s) | 2:14 |
 | 9 | [TU PODER \- LIVE SESSION](https://open.spotify.com/track/5j2faSDkKww9erztG7jsSC) | [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [LIVE SESSION](https://open.spotify.com/album/2mdVnjS497wseQVExD6nnx) | 2:36 |
 | 10 | [Preocupado Por Quién?](https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [El Nene](https://open.spotify.com/album/1Y394HV6hXzZpJml9gqGXL) | 3:54 |
-| 11 | [Eres Facil de Encontrar](https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [Eres Facil de Encontrar](https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F) | 6:27 |
+| 11 | [eres fácil de encontrar](https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [Ivette Lopez](https://open.spotify.com/artist/659A3Ajb34BsT88kC9D6X7), [Ivon Lopez](https://open.spotify.com/artist/6Tp7z6fxxWlfgt78Q4shNG) | [eres fácil de encontrar](https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F) | 6:27 |
 | 12 | [Recuérdame](https://open.spotify.com/track/3Axaju8CnY17hRutxDKbFO) | [Yamilka](https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0) | [Recuérdame](https://open.spotify.com/album/6aaHFKQJBqiJufqbGqmHmd) | 8:29 |
 | 13 | [AMIGO \(Deluxe\)](https://open.spotify.com/track/5xfk9XpiLmO3gObKrEj2Jf) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Cristo El Rey \(Deluxe\)](https://open.spotify.com/album/29e020Sao0PS3LTcRXTiGo) | 6:27 |
 | 14 | [Tu Nombre](https://open.spotify.com/track/3dgOIMtXGVUDsgVo0evmuY) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ) | [Tu Nombre](https://open.spotify.com/album/2fIMmCVZnk42txWxSXAzmQ) | 5:53 |

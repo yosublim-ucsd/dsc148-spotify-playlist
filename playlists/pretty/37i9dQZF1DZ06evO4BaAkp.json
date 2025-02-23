@@ -1,12 +1,12 @@
 {
   "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
-  "num_followers": 1708688,
+  "num_followers": 1708903,
   "original_name": "This Is Arctic Monkeys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAArpniGv+LUnrSqDsfwbPjV",
+  "snapshot_id": "Z7fCAAAAAADzL973GtF694c8lcXd1WbX",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why'd You Only Call Me When You're High?",
-        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Stop The World I Wanna Get Off With You",
-      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
+      "duration_ms": 223066,
+      "name": "Secret Door",
+      "url": "https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humbug",
-        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Secret Door",
-      "url": "https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce"
+      "duration_ms": 191040,
+      "name": "Stop The World I Wanna Get Off With You",
+      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave Before The Lights Come On",
-        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
+      "duration_ms": 224826,
+      "name": "Crying Lightning",
+      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humbug",
-        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Crying Lightning",
-      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
+      "duration_ms": 152613,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
     },
     {
       "added_at": null,

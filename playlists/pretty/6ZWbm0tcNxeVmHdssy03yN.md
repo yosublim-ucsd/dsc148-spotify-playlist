@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,215 likes - 118 songs - 6 hr 5 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,231 likes - 118 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kid & Leveret](https://open.spotify.com/track/67k5hyLeNqd8HueETh1qBh) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Kid & Leveret](https://open.spotify.com/album/06EK1nrUNdGIfJqJK50yNV) | 5:13 |
-| 2 | [American Idol](https://open.spotify.com/track/2R6NUlqVpJlLe48vjfKfWC) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [Gloomy Culture](https://open.spotify.com/artist/3JWGDcHZo3ckSsjzld7qV4) | [American Idol](https://open.spotify.com/album/7toLVY5NElj8nXpT9mYis9) | 2:43 |
+| 2 | [American Idol](https://open.spotify.com/track/2R6NUlqVpJlLe48vjfKfWC) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [Gloomy Culture](https://open.spotify.com/artist/2rBoyTKqZEFVTXc2B17mhT) | [American Idol](https://open.spotify.com/album/7toLVY5NElj8nXpT9mYis9) | 2:43 |
 | 3 | [La La La La La](https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:07 |
 | 4 | [Scared to Lose](https://open.spotify.com/track/6hz3J4yT6eaeZdeu9zv8C3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Disturbing](https://open.spotify.com/album/2RtiLIGZNRFYUw9Sk0GrBN) | 2:58 |
 | 5 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-489 songs - 1 day 0 hr 54 min
+490 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 | 2023-10-18 |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 | 2023-11-03 | 2024-06-28 |
-| [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 |  |
+| [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 | 2025-02-23 |
 | [Cho Cho Cho](https://open.spotify.com/track/1quf400g3rYDKzYbjpvyK9) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N) | [Cho Cho Cho](https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu) | 2:57 | 2022-06-23 | 2022-07-23 |
 | [Chobar](https://open.spotify.com/track/1Ocfb92ZAdxRPZlphWhmPY) | [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Chobar](https://open.spotify.com/album/7rjQ1DwYzItjOOujoJFzSf) | 2:33 | 2022-06-23 | 2022-07-25 |
 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 | 2023-04-20 | 2023-05-05 |
@@ -289,6 +289,7 @@
 | [Machala](https://open.spotify.com/track/0cukQLqNf7Ac4AGehrRUlj) | [Carterefe](https://open.spotify.com/artist/7cB5IJo0SflSjFEMUq6EOD), [Berri tiga](https://open.spotify.com/artist/5jW7tz7f3EPcJFtdqTsVCL) | [Machala](https://open.spotify.com/album/0DohYufzYWLr8QnL5BypdI) | 2:34 | 2022-08-08 | 2022-09-18 |
 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-10-27 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-11 |
+| [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 | 2025-02-21 |  |
 | [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2021-12-09 | 2022-08-07 |
 | [MAGICIAN](https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [RAVI](https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ) | 2:28 | 2023-11-03 | 2024-07-27 |
 | [Majo](https://open.spotify.com/track/3b3bC9PL21scD8cyqEgHuK) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Majo](https://open.spotify.com/album/62I8Iq14u5T618srVJm3pd) | 3:29 | 2023-06-30 | 2023-07-12 |

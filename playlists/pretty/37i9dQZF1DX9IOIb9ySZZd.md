@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 
 > Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,609 likes - 98 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,618 likes - 98 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 | 97 | [What 'bout my star?](https://open.spotify.com/track/3dZnCum9p0pxAVHC6nV6ZV) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」VOCAL COLLECTION　娘たま♀](https://open.spotify.com/album/08GHG4ClUfdcmDoAwjRo1I) | 5:04 |
 | 98 | [ランナー　―デュエット・バージョン―](https://open.spotify.com/track/3enoLxGLI5QLQWTANiHGp2) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [超時空要塞マクロス　MACROSS EXTRA VOCAL COLLECTION](https://open.spotify.com/album/0MicEVyVqLUFk8sxwuGfTq) | 1:41 |
 
-Snapshot ID: `ZIsRhwAAAABE/W2heuUqTjkHk9gvTFe9`
+Snapshot ID: `ZIsRhwAAAADqArHVeiRAtKDZjyLNgK8l`

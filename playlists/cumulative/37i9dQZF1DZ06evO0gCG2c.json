@@ -553,6 +553,32 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0rNGUhljXFbcnGSoaxnb1c"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp"
+    },
+    {
+      "album": {
         "name": "Ra-One",
         "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
       },

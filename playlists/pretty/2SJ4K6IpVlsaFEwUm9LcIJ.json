@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22810,
+  "num_followers": 22813,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAL4tS3zs+/RbSM3gs2mDGjvWrf16/B",
+  "snapshot_id": "AAAL5UGixPWRdZ5wFIU+HAG5lJyv/Pyp",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -855,6 +855,54 @@
       "duration_ms": 186560,
       "name": "Talking Fishing Blues",
       "url": "https://open.spotify.com/track/5uRZQacQqmhdRwoAMbYnlW"
+    },
+    {
+      "added_at": "2025-02-22 02:17:14",
+      "album": {
+        "name": "Lost Hits From Milwaukee's First Family Of Powerpop 1979-82",
+        "url": "https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI"
+      },
+      "artists": [
+        {
+          "name": "The Shivvers",
+          "url": "https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6"
+        }
+      ],
+      "duration_ms": 194213,
+      "name": "Please Stand By",
+      "url": "https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv"
+    },
+    {
+      "added_at": "2025-02-22 16:16:48",
+      "album": {
+        "name": "Musicality",
+        "url": "https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn"
+      },
+      "artists": [
+        {
+          "name": "Salako",
+          "url": "https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Green Is the Colour of Evil",
+      "url": "https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm"
+    },
+    {
+      "added_at": "2025-02-22 16:51:33",
+      "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Little Eyes",
+      "url": "https://open.spotify.com/track/5pHNCZCt3daiBXs1lWopBS"
     }
   ],
   "unique_name": "something new",

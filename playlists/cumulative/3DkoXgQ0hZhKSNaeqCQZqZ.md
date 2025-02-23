@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-310 songs - 16 hr 25 min
+313 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [hvrD](https://open.spotify.com/track/7H16383DtH9QKTiEO6eVin) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [dvncE, cvnT, emvtionaL](https://open.spotify.com/album/0WTAt0PX3oehezym5qvDZ9) | 2:11 | 2024-08-15 |  |
 | [hypocritical](https://open.spotify.com/track/58f6bAoJSqI2NEX4CoxXIX) | [alexx](https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns) | [hypocritical](https://open.spotify.com/album/7DzdKS6XsTLYcmnrmzVdLs) | 3:50 | 2024-04-12 |  |
 | [I Bite Back \(with Ck9c\)](https://open.spotify.com/track/2WVwBNtzstVflbwYQukU3A) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 3:07 | 2023-06-14 |  |
+| [I Can't Do This Alone](https://open.spotify.com/track/1zP3aiQ7BdXe0Ker13w5vk) | [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [SpinScissor](https://open.spotify.com/artist/0ON8uLVnHbFU033CCU5oMn) | [I Can't Do This Alone](https://open.spotify.com/album/2OTBhxaYC58OhmxpHlmw9i) | 3:15 | 2025-02-22 |  |
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
 | [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |
@@ -143,6 +144,7 @@
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
+| [Joyful Bytes Remix \- Multi Fox Remix](https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L) | [Crazyjump15](https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Joyful Bytes Remix \(Multi Fox Remix\)](https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM) | 2:50 | 2025-02-22 |  |
 | [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 | 2023-09-25 |  |
 | [JUST ARTIST STRUGGLES](https://open.spotify.com/track/2wZUYejbABGk8QPZZbadFa) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [JUST ARTIST STRUGGLES](https://open.spotify.com/album/0jP65We8pL1jznmxY2YsNp) | 2:16 | 2024-07-22 |  |
 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 | 2025-01-25 |  |
@@ -162,6 +164,7 @@
 | [Loner](https://open.spotify.com/track/5pgVEVzfyfpQ6eT9gSLH5m) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Loner](https://open.spotify.com/album/1mOnhhctC0RjyMeKUfygqh) | 2:48 | 2023-06-14 |  |
 | [long day 2](https://open.spotify.com/track/4PjvvNoOtCZ9u9tJ5fF4XI) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [6 Swords of Mercury](https://open.spotify.com/album/6l3U77QIrjjQj4ZZ5moEAG) | 1:39 | 2024-05-28 |  |
 | [LOVESICK](https://open.spotify.com/track/03JIcQe4Z1te3Ct7gXDYk2) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LOVESICK](https://open.spotify.com/album/6MwQkbIxD6S2H8bB3gTsT0) | 4:10 | 2024-01-01 |  |
+| [lucid dreaming](https://open.spotify.com/track/5T7Wxzl5SqOdt2KUrPdrm5) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [lucid dreaming](https://open.spotify.com/album/2Q7AbsDOy0tshyjnOmqs3n) | 3:30 | 2025-02-22 |  |
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |
 | [Machine](https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA) | [YxFF](https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ), [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Machine](https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD) | 2:43 | 2025-01-23 |  |
 | [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 |  |

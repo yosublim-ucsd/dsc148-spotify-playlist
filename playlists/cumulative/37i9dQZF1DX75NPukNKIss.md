@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: PARTYNEXTDOOR and Drake
 
-94 songs - 4 hr 24 min
+95 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 | 2024-11-06 |  |
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-10-25 |  |
 | [For Us](https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2024-10-25 |  |
+| [Forever love](https://open.spotify.com/track/705Ksz4KCVOQe4LHDjbJfq) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [All Original Parts: Volume 1](https://open.spotify.com/album/7pftecTamYxal4HIYJLCNl) | 3:04 | 2025-02-22 |  |
 | [Freaky Attitude](https://open.spotify.com/track/1fz2te96VCjYjGhUCi0IsH) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [School Dance](https://open.spotify.com/album/5s7s0DlvA7zSx1W67StPa9) | 3:20 | 2024-11-13 |  |
 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 | 2024-10-25 |  |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-25 |  |
@@ -100,7 +101,7 @@
 | [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 |  |
 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 | 2024-10-25 |  |
-| [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 |  |
+| [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 | 2025-02-23 |
 | [You A Stepper](https://open.spotify.com/track/4UlKBkjerJWwuAWWT25EgP) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [You A Stepper](https://open.spotify.com/album/1Jy2Z3esJCzCbIUwEHqoDX) | 2:45 | 2024-10-25 |  |
 
 \*This playlist was first scraped on 2024-10-26. Prior content cannot be recovered.

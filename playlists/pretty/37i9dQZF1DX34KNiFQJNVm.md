@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Rael com LUDMILLA, Yasmin Santos, Oruam  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,024,965 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,025,271 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Chama Elas Pra Sentar](https://open.spotify.com/track/2jhIYQm4Zefq1BVcunEQI7) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Chama Elas Pra Sentar](https://open.spotify.com/album/11lS7tVzTbchFWT2hzG93h) | 1:55 |
 | 75 | [Afterlife](https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Afterlife](https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv) | 3:18 |
 
-Snapshot ID: `Z7iggAAAAABw01keApf97XkKwmTht1dQ`
+Snapshot ID: `Z7iggAAAAAAkoOROL46+dGtcMTWhZWo3`

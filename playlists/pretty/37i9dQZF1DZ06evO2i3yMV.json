@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8315,
+  "num_followers": 8319,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAACwUr9iIK5EkRXfv1vn5F/+",
+  "snapshot_id": "Z7fCAAAAAACSHQR+vZQc4qTcg7XDAFnB",
   "tracks": [
     {
       "added_at": null,
@@ -727,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
-      },
-      "artists": [
-        {
-          "name": "Analogue Monsta",
-          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Suzi Analogue",
-          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
-        }
-      ],
-      "duration_ms": 182001,
-      "name": "Time To",
-      "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO WAY",
         "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
@@ -775,6 +751,46 @@
       "duration_ms": 204077,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "duration_ms": 182001,
+      "name": "Time To",
+      "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 218589,
       "name": "Early to Dawn (feat. Selah Sue)",
       "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,

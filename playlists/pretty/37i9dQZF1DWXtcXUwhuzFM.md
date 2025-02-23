@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa william ja AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,545 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,555 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 104 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 |
 | 105 | [Bad Choices](https://open.spotify.com/track/1RRmeMv4hBvz0p7PA356AP) | [Rokets](https://open.spotify.com/artist/7eSjy85dGwJONCL3BLctWf) | [Bad Choices](https://open.spotify.com/album/3ZZrPC9G1WuedHhbJoGMM7) | 3:09 |
 
-Snapshot ID: `Z7guswAAAACFnP/4NlyU0/62KNZlrQab`
+Snapshot ID: `Z7guswAAAAC1Pgwoh5PmweDlpsujaD/3`

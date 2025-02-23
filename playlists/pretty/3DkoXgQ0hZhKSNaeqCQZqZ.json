@@ -1,13 +1,85 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 501,
+  "num_followers": 504,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADQcPHDYhCkUV1UpKUXeFTcUxWzAMy",
+  "snapshot_id": "AAADRByfDtWOBW/0HC2pIzFbDTwKYaBj",
   "tracks": [
+    {
+      "added_at": "2025-02-22 09:00:45",
+      "album": {
+        "name": "I Can't Do This Alone",
+        "url": "https://open.spotify.com/album/2OTBhxaYC58OhmxpHlmw9i"
+      },
+      "artists": [
+        {
+          "name": "Trey Husk",
+          "url": "https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d"
+        },
+        {
+          "name": "SpinScissor",
+          "url": "https://open.spotify.com/artist/0ON8uLVnHbFU033CCU5oMn"
+        }
+      ],
+      "duration_ms": 195568,
+      "name": "I Can't Do This Alone",
+      "url": "https://open.spotify.com/track/1zP3aiQ7BdXe0Ker13w5vk"
+    },
+    {
+      "added_at": "2025-02-22 09:01:55",
+      "album": {
+        "name": "lucid dreaming",
+        "url": "https://open.spotify.com/album/2Q7AbsDOy0tshyjnOmqs3n"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        }
+      ],
+      "duration_ms": 210850,
+      "name": "lucid dreaming",
+      "url": "https://open.spotify.com/track/5T7Wxzl5SqOdt2KUrPdrm5"
+    },
+    {
+      "added_at": "2025-02-22 09:01:55",
+      "album": {
+        "name": "Joyful Bytes Remix (Multi Fox Remix)",
+        "url": "https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM"
+      },
+      "artists": [
+        {
+          "name": "Crazyjump15",
+          "url": "https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip"
+        },
+        {
+          "name": "Multi Fox",
+          "url": "https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Joyful Bytes Remix - Multi Fox Remix",
+      "url": "https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L"
+    },
+    {
+      "added_at": "2025-02-08 10:39:50",
+      "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE"
+      },
+      "artists": [
+        {
+          "name": "YamikaDesu",
+          "url": "https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930"
+        }
+      ],
+      "duration_ms": 232552,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp"
+    },
     {
       "added_at": "2025-02-14 21:24:18",
       "album": {
@@ -59,22 +131,6 @@
       "duration_ms": 204666,
       "name": "Limitless Skies",
       "url": "https://open.spotify.com/track/6Z8pT0yROu8tqQLMyMxVN4"
-    },
-    {
-      "added_at": "2025-02-08 10:39:50",
-      "album": {
-        "name": "Parasites",
-        "url": "https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE"
-      },
-      "artists": [
-        {
-          "name": "YamikaDesu",
-          "url": "https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930"
-        }
-      ],
-      "duration_ms": 232552,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp"
     },
     {
       "added_at": "2025-02-03 00:47:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Sam Akpro
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,485 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,519 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Four](https://open.spotify.com/track/0IIyQPGHIHj3PChgUd1ilE) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Never Exhale](https://open.spotify.com/album/6FLTTZUT3zqFapjxxLd3mi) | 3:00 |
 | 101 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 |
 
-Snapshot ID: `Z7VlXQAAAADZxrfRVToYCrvwV4Bwws6b`
+Snapshot ID: `Z7VlXQAAAADYa249ToRnyGoy10QpLBwd`

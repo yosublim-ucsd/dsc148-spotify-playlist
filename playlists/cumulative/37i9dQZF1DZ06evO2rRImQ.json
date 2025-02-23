@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Una Peda Menos",
+        "url": "https://open.spotify.com/album/1e3ioYbS8fDRti21ytqubf"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141003,
+      "name": "Una Peda Menos",
+      "url": "https://open.spotify.com/track/3Sra9m62gSgycclKeKgn68"
+    },
+    {
+      "album": {
         "name": "Vas A Querer Volver",
         "url": "https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf"
       },

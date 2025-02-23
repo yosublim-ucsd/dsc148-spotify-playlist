@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Niels Destadsbader & Tessa June
 
-851 songs - 1 day 16 hr 55 min
+852 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Beter Af Alleen](https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 2:48 | 2023-08-24 | 2023-09-29 |
 | [Beter Met Z’n Tweeën](https://open.spotify.com/track/2716GiYd36LugxNYZB047Y) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beter Met Z’n Tweeën](https://open.spotify.com/album/4mujtLSSs7gvBRs50JE4t0) | 3:10 | 2024-05-30 | 2024-06-28 |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-11-21 |  |
-| [Bijna Vergeten](https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE) | 3:04 | 2025-02-20 |  |
+| [Bijna Vergeten](https://open.spotify.com/track/1IHtQNtU0zjsEzxi5Or1Ik) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/6GjSdIu502JeX82VWzfdRE) | 3:04 | 2025-02-22 |  |
+| [Bijna Vergeten](https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE) | 3:04 | 2025-02-20 | 2025-02-23 |
 | [Birkin](https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Birkin](https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W) | 2:06 | 2023-11-16 | 2024-02-16 |
 | [Bla Bla](https://open.spotify.com/track/4EIk9fc7iPf5FO8LFL0uph) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd) | [Bla Bla](https://open.spotify.com/album/59jXHqXPFGBCmcA1zcXLj7) | 3:02 | 2023-07-27 | 2023-09-08 |
 | [Blauwe Maandag](https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Blauwe Maandag](https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK) | 2:19 | 2024-01-18 | 2024-04-12 |

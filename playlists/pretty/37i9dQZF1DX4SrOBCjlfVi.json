@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Nardo Wick, Don Toliver, Joey Bada$$ and more!",
-  "num_followers": 317263,
+  "num_followers": 317479,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7khpQAAAABLp+03xQvnBIQl/1FWBbQr",
+  "snapshot_id": "Z7lCugAAAABMg4WWh2d9DvBDcR15VpvL",
   "tracks": [
     {
       "added_at": "2025-02-22 01:00:21",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/2vS9K1g2Im8H2DdSGIeHqX"
     },
     {
+      "added_at": "2025-02-22 03:21:30",
+      "album": {
+        "name": "HYPOCRITE",
+        "url": "https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "HYPOCRITE",
+      "url": "https://open.spotify.com/track/3ingEZQJcRPm956usULf2j"
+    },
+    {
       "added_at": "2025-02-21 05:00:36",
       "album": {
         "name": "Melody Of A Memory",
@@ -480,7 +496,7 @@
           "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 126393,
+      "duration_ms": 125851,
       "name": "MARiO COINS",
       "url": "https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ"
     },

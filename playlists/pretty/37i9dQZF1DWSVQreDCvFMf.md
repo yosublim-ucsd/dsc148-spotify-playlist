@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: 12th Street
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,978 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,027 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 75 | [Saya](https://open.spotify.com/track/7gK9OWLcIJVBhW8sFvc4MW) | [Bianca Lipana](https://open.spotify.com/artist/24ljCwx5Bi8C5HOJxzDXOv) | [Saya](https://open.spotify.com/album/4BmEh0mRGd63PKxPd16eSZ) | 3:39 |
 | 76 | [Bighani](https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Bighani](https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd) | 3:55 |
 
-Snapshot ID: `Z672/AAAAAABiZ5x+Ajqs0JdNlZV4PiO`
+Snapshot ID: `Z672/AAAAADEwsWCizwQu300P2GK8bET`

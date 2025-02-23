@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Mahmood in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,836 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,884 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 79 | [Bellezza](https://open.spotify.com/track/7IdxiU3MFOS0QD6xXyJN9q) | [Cusu](https://open.spotify.com/artist/694sp2sd59eYihuAGcQpPc) | [Bellezza](https://open.spotify.com/album/1EiMeZCO4CH806XE15gc9E) | 3:07 |
 | 80 | [Disastro ▱](https://open.spotify.com/track/4UFNSUnEgFT6kKdFH0zCeX) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Disastro ▱](https://open.spotify.com/album/3ChD9Aytq0snZlFIkt7dM5) | 2:11 |
 
-Snapshot ID: `Z7gxAQAAAAC5Q6OUeqyCvimHgH/9mddj`
+Snapshot ID: `Z7gxAQAAAACE2XO0FqQnTcGvg6B9Df+Z`

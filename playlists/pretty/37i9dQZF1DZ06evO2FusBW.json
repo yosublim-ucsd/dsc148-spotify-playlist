@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10734,
+  "num_followers": 10737,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAADeIk5Vp06n0Ah8PhfW5mEL",
+  "snapshot_id": "Z7fCAAAAAADTNDw3IxTxgovHJ7YGqkFJ",
   "tracks": [
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+      "duration_ms": 170346,
+      "name": "La Vernatelle",
+      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 170346,
-      "name": "La Vernatelle",
-      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 101000,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+      "duration_ms": 101000,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+        "name": "Portraits in Film",
+        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
+      "duration_ms": 199648,
+      "name": "Brave Heart",
+      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portraits in Film",
-        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 199648,
-      "name": "Brave Heart",
-      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
     },
     {
       "added_at": null,
@@ -715,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
       "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
+      "duration_ms": 272550,
+      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
+      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
     },
     {
       "added_at": null,
@@ -747,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation 432",
         "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 278750,
       "name": "NATURE VIBRATION",
       "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
-      },
-      "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 272550,
-      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
-      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
     },
     {
       "added_at": null,

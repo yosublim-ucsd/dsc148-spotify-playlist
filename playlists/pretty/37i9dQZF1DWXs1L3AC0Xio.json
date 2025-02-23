@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 770749,
+  "num_followers": 770998,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "15",
+        "url": "https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+      "duration_ms": 226146,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Dark Before Dawn",
         "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 293640,
       "name": "Ashes of Eden",
       "url": "https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru"
-      },
-      "artists": [
-        {
-          "name": "Buckcherry",
-          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 218990,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 218990,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "How Did You Love - Piano Version",
+      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Hydrograd",
         "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 212186,
       "name": "You",
       "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "How Did You Love - Piano Version",
-      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2024-06-26 02:18:14",

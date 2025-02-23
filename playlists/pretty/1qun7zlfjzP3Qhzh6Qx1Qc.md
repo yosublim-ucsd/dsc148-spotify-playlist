@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,654 likes - 60 songs - 3 hr 23 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,652 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 9 | [How's the Leaving Going](https://open.spotify.com/track/4VtCuaaSedTbRnAhCjFCxU) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [How's the Leaving Going](https://open.spotify.com/album/2D8oSVkAxS7a6fsUafZalx) | 3:17 |
 | 10 | [Says I Can \- The High Road Tour Version](https://open.spotify.com/track/7qH7QNTIkwv2NwEFwSy95l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Says I Can \(The High Road Tour Version\)](https://open.spotify.com/album/3ViPI8YxtuNn2MGz5SL9h7) | 2:59 |
 | 11 | [If You Stay](https://open.spotify.com/track/2MMh5pEpyfoUXrJwRihdEW) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Sad Songs for the Soul](https://open.spotify.com/album/4VU4XCA8IwDF9JVXEbIeQi) | 4:14 |
-| 12 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY \- EP](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
+| 12 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
 | 13 | [Wanna Be Loved \- Live AF from Callaghan's](https://open.spotify.com/track/0i6cBiYs3lYv9L9QY8lqam) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [The Red Clay Strays Live AF from Callaghan's](https://open.spotify.com/album/5XEmSSf4BV37rhjExwPALQ) | 3:49 |
 | 14 | [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 |
 | 15 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 |

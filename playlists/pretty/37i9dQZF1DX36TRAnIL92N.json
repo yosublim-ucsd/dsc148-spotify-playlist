@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 392485,
+  "num_followers": 392800,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 234997,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -259,26 +259,18 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -299,18 +291,26 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 355879,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Overdose Of Bass",
-        "url": "https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 194327,
-      "name": "Overdose Of Bass",
-      "url": "https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -443,18 +423,18 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
         }
       ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+      "duration_ms": 181394,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -479,18 +459,18 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
-        "name": "Salty",
-        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
       "artists": [
         {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 181394,
-      "name": "Salty",
-      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -507,6 +487,26 @@
       "duration_ms": 258573,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
+        "name": "Overdose Of Bass",
+        "url": "https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 194327,
+      "name": "Overdose Of Bass",
+      "url": "https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5"
     },
     {
       "added_at": "2025-02-21 05:00:24",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-02-21 05:00:24",
       "album": {
+        "name": "THIS IS NOT AN ALBUM",
+        "url": "https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 377370,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
+    },
+    {
+      "added_at": "2025-02-21 05:00:24",
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
-    },
-    {
-      "added_at": "2025-02-21 05:00:24",
-      "album": {
-        "name": "THIS IS NOT AN ALBUM",
-        "url": "https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 377370,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
     },
     {
       "added_at": "2025-02-21 05:00:24",

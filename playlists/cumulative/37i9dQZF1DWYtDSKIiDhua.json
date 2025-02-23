@@ -17739,6 +17739,24 @@
     },
     {
       "album": {
+        "name": "NOICE",
+        "url": "https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-12-05",
+      "duration_ms": 165769,
+      "name": "Sweetest Potion",
+      "url": "https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH"
+    },
+    {
+      "album": {
         "name": "SWEETEST/LOVE",
         "url": "https://open.spotify.com/album/4uXqBbD5RSfNWJ4cb0bgkG"
       },
@@ -17756,26 +17774,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149702,
-      "name": "SWEETEST LOVE",
+      "name": "SWEETEST/LOVE",
       "url": "https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM"
-    },
-    {
-      "album": {
-        "name": "NOICE",
-        "url": "https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "date_added": "2024-10-03",
-      "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
-      "duration_ms": 165769,
-      "name": "Sweetest Potion",
-      "url": "https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH"
     },
     {
       "album": {

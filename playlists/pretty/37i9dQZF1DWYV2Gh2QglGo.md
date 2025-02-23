@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,310 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,324 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Five Beers From Now](https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Five Beers From Now](https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP) | 3:03 |
 | 50 | [Smoke](https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me \(Deluxe Edition\)](https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI) | 3:15 |
 
-Snapshot ID: `Z7gIcQAAAADBr+DlrubWLJamCpfBYW24`
+Snapshot ID: `Z7gIcQAAAACBNwiGDBXCgKt5Y72ZEvyv`

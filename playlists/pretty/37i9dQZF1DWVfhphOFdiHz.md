@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Mae Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,931 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,935 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [BAD](https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [BAD](https://open.spotify.com/album/6fLH6vOljGjdAygO4qJ9PA) | 2:38 |
 | 100 | [Fire Excape](https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Fire Excape](https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry) | 3:18 |
 
-Snapshot ID: `Z6Y4wQAAAAAn0/pR65oMjysvgZJ4TKTk`
+Snapshot ID: `Z6Y4wQAAAACoEXuBy1nvoKGE/DhNC6JX`

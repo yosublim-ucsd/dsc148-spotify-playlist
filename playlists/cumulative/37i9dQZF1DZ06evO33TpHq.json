@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "The King Is In The Room",
+        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
+    },
+    {
+      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },

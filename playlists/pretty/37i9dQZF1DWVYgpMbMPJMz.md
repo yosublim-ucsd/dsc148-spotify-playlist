@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Passion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,870 likes - 99 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,026 likes - 99 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [Even If Extended Version](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 |
 | 21 | [GOD DID!](https://open.spotify.com/track/1q8tZJcuBNxsrfDRyYObcg) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [GOD DID! / Runnin With Angels](https://open.spotify.com/album/55PaBZWs8KfXkbNGMZJoY7) | 4:41 |
 | 22 | [It Is Well with My Soul](https://open.spotify.com/track/4MIbbdMo5BN1TQMq2VRBDR) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg), [Travis Clark](https://open.spotify.com/artist/4GdxPCUc1CXEoynATy6qe5) | [It Is Well with My Soul](https://open.spotify.com/album/6RdVWeclmDETKRhGtMNaEF) | 3:17 |
-| 23 | [Remember Christ](https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [David Ware](https://open.spotify.com/artist/6nDx8ANxjcMmTthi8yVf8o), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Remember Christ](https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ) | 3:10 |
+| 23 | [Remember Christ](https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Remember Christ](https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ) | 3:10 |
 | 24 | [If it wasn't for Jesus \- from the studio](https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus \(from the studio\)](https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo) | 4:02 |
 | 25 | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o) | 4:58 |
 | 26 | [You Can \- Live](https://open.spotify.com/track/15EwhHEpjlL5HfUdp44LFi) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [You Can \(Live\)](https://open.spotify.com/album/1Z6FZyk5n0ZKmkMtlxUprl) | 7:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 98 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 | 99 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 |
 
-Snapshot ID: `Z7g+AAAAAAD9kHLCAvNlOMXkMb/WtMdw`
+Snapshot ID: `Z7g+AAAAAABmoHe+g7GZ+RKAoqu3arq+`

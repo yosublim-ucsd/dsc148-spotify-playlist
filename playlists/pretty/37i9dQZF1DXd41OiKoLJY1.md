@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Pauline Anne Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,299 likes - 98 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,312 likes - 98 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 97 | [Aalagaan Kita](https://open.spotify.com/track/3LVreL8e8sIKWLj1bDdfVT) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Aalagaan Kita](https://open.spotify.com/album/7HkVhGMwjG8sP5GO1yMjQA) | 3:45 |
 | 98 | [Let's Bounce](https://open.spotify.com/track/19VjLCWF9sx2YLzYJOuFxt) | [Dreiboi](https://open.spotify.com/artist/3s43UzWzqeDZvLhBb3FYiY) | [Let's Bounce](https://open.spotify.com/album/13DbI6J71at5zRr5BmtwOo) | 2:13 |
 
-Snapshot ID: `Z7dRnwAAAAA7vr6lA3Jeqf9xunbCI0YQ`
+Snapshot ID: `Z7dRnwAAAABDmW+A/aLmpBC05WbmqIoX`

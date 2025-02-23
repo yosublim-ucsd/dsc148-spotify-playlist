@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Ya Te Puedes Ir",
+        "url": "https://open.spotify.com/album/7e72Ilntb53n5ltBHrGGF0"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222742,
+      "name": "Ya Te Puedes Ir",
+      "url": "https://open.spotify.com/track/2YzDFbrE8eGm4ZzCsefIf0"
+    },
+    {
+      "album": {
         "name": "Yo Soy La Mujer",
         "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },

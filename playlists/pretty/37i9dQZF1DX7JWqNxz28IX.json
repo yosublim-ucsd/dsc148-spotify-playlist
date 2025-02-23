@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47126,
+  "num_followers": 47130,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Io Sono",
         "url": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "cattive abitudini",
-        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
+        "name": "Buio",
+        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
       },
       "artists": [
         {
-          "name": "Biondo",
-          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
         }
       ],
-      "duration_ms": 125000,
-      "name": "ti sei scordata del mio compleanno",
-      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
+      "duration_ms": 142747,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Profondo Rosa",
-        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
+        "name": "cattive abitudini",
+        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
       },
       "artists": [
         {
-          "name": "Simone Panetti",
-          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
-        },
-        {
-          "name": "Drast",
-          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+          "name": "Biondo",
+          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
         }
       ],
-      "duration_ms": 171641,
-      "name": "Dentro di Te",
-      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
+      "duration_ms": 125000,
+      "name": "ti sei scordata del mio compleanno",
+      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Buio",
-        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
+        "name": "Profondo Rosa",
+        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
       "artists": [
         {
-          "name": "ANSIAH",
-          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        },
+        {
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
         }
       ],
-      "duration_ms": 142747,
-      "name": "Buio",
-      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
+      "duration_ms": 171641,
+      "name": "Dentro di Te",
+      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "Dove sei??",
+        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
+      },
+      "artists": [
+        {
+          "name": "Agon",
+          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
+        }
+      ],
+      "duration_ms": 181281,
+      "name": "Dove sei??",
+      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "Servir\u00e0 La Pioggia",
         "url": "https://open.spotify.com/album/3HS2Yx5Jd2AYaNOz5b5JOW"
       },
@@ -1331,6 +1347,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "gazzelle",
         "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
       },
@@ -1347,22 +1379,6 @@
       "duration_ms": 158531,
       "name": "gazzelle",
       "url": "https://open.spotify.com/track/0Zn7wPg8aImvsjsXWggu7x"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Dove sei??",
-        "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
-      },
-      "artists": [
-        {
-          "name": "Agon",
-          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
-        }
-      ],
-      "duration_ms": 181281,
-      "name": "Dove sei??",
-      "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1415,46 +1431,6 @@
       "duration_ms": 177931,
       "name": "Campi Elisi",
       "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "bambino perfetto",
-        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "piccolo principe",
-          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "bambino perfetto",
-      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1539,8 +1515,8 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "nato per morire",
-        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
+        "name": "bambino perfetto",
+        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
       "artists": [
         {
@@ -1548,13 +1524,17 @@
           "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
+          "name": "piccolo principe",
+          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
+        },
+        {
           "name": "Gheb",
           "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
         }
       ],
-      "duration_ms": 124666,
-      "name": "nato per morire",
-      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
+      "duration_ms": 140160,
+      "name": "bambino perfetto",
+      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1667,6 +1647,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "AUTORITRATTO",
         "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
@@ -1679,26 +1675,6 @@
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
-        }
-      ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1719,6 +1695,26 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "nato per morire",
+        "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "nato per morire",
+      "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "L'effetto che mi fai",
         "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
         }
       ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
     }
   ],
   "unique_name": "ragazzo triste",

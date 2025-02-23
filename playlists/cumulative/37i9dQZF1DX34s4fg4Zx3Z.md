@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Thể Thiên
 
-1,972 songs - 4 day 19 hr 31 min
+1,973 songs - 4 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [DAUNHIEULAN](https://open.spotify.com/track/7n0dHuGGwisNUaQuPwEBFq) | [Chói](https://open.spotify.com/artist/08TAx99n5LPORq3XrHiR3e), [DIAYTI](https://open.spotify.com/artist/5seNEUZEBLqwd2SLhzT1ie) | [DAUNHIEULAN](https://open.spotify.com/album/1354E4NAuRjvBrfRhOi5bD) | 3:11 | 2023-07-10 | 2023-09-09 |
 | [Dawgs F](https://open.spotify.com/track/79vUKMILbShvnQG32hf1xp) | [Y.Tazle](https://open.spotify.com/artist/7yCkE3MnGPDxkcQ4vTWtrQ), [WAVXR](https://open.spotify.com/artist/0tMexwN6wUDQqHjOkjNhla) | [Dawgs F](https://open.spotify.com/album/5re5lBeA9kUQ6TQlemV9D6) | 3:19 | 2023-04-02 | 2023-04-20 |
 | [Dawgs F](https://open.spotify.com/track/4s3QMfsdsl5wVQL60Vpie2) | [YoungTazle](https://open.spotify.com/artist/3piry0LLLlUlt8njD4YZ0p), [WAVXR](https://open.spotify.com/artist/0tMexwN6wUDQqHjOkjNhla) | [Dawgs F](https://open.spotify.com/album/0bp5IDhWErTPByoEo7C4CV) | 3:19 | 2023-04-19 | 2023-05-26 |
+| [Day By Day](https://open.spotify.com/track/4HUdJdXjicbgnK3QhXbzrF) | [Ben Nguyen](https://open.spotify.com/artist/1LCiB7OknwvpfY5SCtRxbH), [JimmyG](https://open.spotify.com/artist/61vtXCRL5m8vtoXIWthE46) | [Day By Day](https://open.spotify.com/album/7rXmf1x0SN4QwOuEiVzo09) | 3:40 | 2025-02-22 |  |
 | [daybyday](https://open.spotify.com/track/4PAZ3N5yObypeVI7KmHZZI) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [daybyday](https://open.spotify.com/album/3L3XlPYtzEGyT1MGPY2okb) | 3:25 | 2022-07-23 | 2024-02-22 |
 | [DE ANH NOI GOC PHONG](https://open.spotify.com/track/4Os72qVe3OU2YvmUN7dK7C) | [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [DE ANH NOI GOC PHONG](https://open.spotify.com/album/2zTq1EVayV0g0x2OiYq0Vq) | 2:57 | 2023-03-31 | 2023-05-23 |
 | [Dead Love](https://open.spotify.com/track/26iVc5vaRt7hkgikjDlJW5) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh), [Minh Trang](https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT) | [Dead Love](https://open.spotify.com/album/6XUaR0n9JLmH01Jqz4QT6V) | 3:09 | 2023-06-15 | 2023-06-30 |

@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
@@ -4098,6 +4098,32 @@
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
+    },
+    {
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127241,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
     },
     {
       "album": {

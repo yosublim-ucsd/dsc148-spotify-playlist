@@ -46,12 +46,12 @@
       },
       "artists": [
         {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        },
-        {
           "name": "Frank'emcy",
           "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
+        },
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
         }
       ],
       "date_added": "2025-02-21",

@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20108,
+  "num_followers": 20110,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Z7izGQAAAABVGW0ysjuwm8YSSsCLT87n",
   "tracks": [
+    {
+      "added_at": "2025-02-21 17:08:41",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+    },
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
@@ -119,26 +139,6 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
-        }
-      ],
-      "duration_ms": 201792,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
-    },
-    {
-      "added_at": "2025-02-21 17:08:41",
-      "album": {
         "name": "P\u00f4kas / Mfalme",
         "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
       },
@@ -155,6 +155,26 @@
       "duration_ms": 345022,
       "name": "P\u00f4kas",
       "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2025-02-21 17:08:41",
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "added_at": "2025-02-21 17:08:41",
@@ -479,30 +499,6 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2025-02-21 17:08:41",
-      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -559,6 +555,30 @@
       "duration_ms": 138979,
       "name": "Cana de feira",
       "url": "https://open.spotify.com/track/0AIQdslJbh2J45SinWowSN"
+    },
+    {
+      "added_at": "2025-02-21 17:08:41",
+      "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2025-02-21 17:08:41",
@@ -627,6 +647,22 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+    },
+    {
+      "added_at": "2025-02-21 17:08:41",
+      "album": {
         "name": "ACREDITOU?",
         "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
       },
@@ -643,22 +679,6 @@
       "duration_ms": 195918,
       "name": "ACREDITOU?",
       "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
-    },
-    {
-      "added_at": "2025-02-21 17:08:41",
-      "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "added_at": "2025-02-21 17:08:41",
@@ -831,6 +851,26 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2025-02-21 17:08:41",
+      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
       },
@@ -855,22 +895,26 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+        "name": "Pu'ce",
+        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+      "duration_ms": 165309,
+      "name": "Pu'ce",
+      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
     },
     {
       "added_at": "2025-02-21 17:08:41",
@@ -943,30 +987,6 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "Pu'ce",
-        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Pu'ce",
-      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
-    },
-    {
-      "added_at": "2025-02-21 17:08:41",
-      "album": {
         "name": "\u00c1guas Passadas",
         "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
       },
@@ -1003,42 +1023,22 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/4ggL80W6aIdxgFyicdQOzl"
       },
       "artists": [
         {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2025-02-21 17:08:41",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+      "duration_ms": 186896,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1"
     },
     {
       "added_at": "2025-02-21 17:08:41",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2025-02-21 17:08:41",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/4ggL80W6aIdxgFyicdQOzl"
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
       "artists": [
         {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
         }
       ],
-      "duration_ms": 186896,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1"
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,331 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,571 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
 | 50 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 |
 
-Snapshot ID: `Z7e0BAAAAABEiEEYsUaz0hlKkkYljP24`
+Snapshot ID: `Z7e0BAAAAAC02MUMKPlai98NxlgivKw2`

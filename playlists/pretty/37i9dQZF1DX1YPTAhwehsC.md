@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,891 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,910 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 18 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 |
 | 19 | [THE FINAL CALL \(feat\. Jay Electronica\)](https://open.spotify.com/track/7eIAKM9rfW6CWvRehVlpBL) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [The Final Call](https://open.spotify.com/album/727O17Cvp3DDONyTshbrG6) | 4:00 |
 | 20 | [Beckham \(41 Mix\)](https://open.spotify.com/track/0AMujCMT4wOt8nKDSQwIK3) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Beckham \(Pack\)](https://open.spotify.com/album/33F2Utgufb39Z6ZtqDD0gi) | 2:39 |
-| 21 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:06 |
+| 21 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
 | 22 | [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 |
 | 23 | [BLRRD BLRRD](https://open.spotify.com/track/1myckSZeHzEeYqRHcrVgHm) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [BLRRD BLRRD](https://open.spotify.com/album/0J4O9Xd4lcxBZC2nEvj9Wh) | 2:19 |
 | 24 | [Hustlin Backwards](https://open.spotify.com/track/6Kug87vynEYWn58oH7TgxF) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee) | [Hustlin Backwards](https://open.spotify.com/album/2OOeLIJPPDFc1touKu8iCo) | 2:15 |

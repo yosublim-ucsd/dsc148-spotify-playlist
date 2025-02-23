@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Bass Powah",
+        "url": "https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179718,
+      "name": "Bass Powah",
+      "url": "https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f"
+    },
+    {
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 148406,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
@@ -5594,6 +5616,24 @@
       "duration_ms": 190450,
       "name": "Fired Up - Hard Mix",
       "url": "https://open.spotify.com/track/6PRSyJAQ1uXvum4oKLZk7I"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K"
     },
     {
       "album": {
@@ -12746,7 +12786,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"

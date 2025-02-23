@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=E54znhawR\_Kr\_3MBNc6jlA>TBabz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,934 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,951 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 13 | [Odogwu](https://open.spotify.com/track/46gg2qBtNvuZxsMXcwzate) | [Jumbo Aniebiet](https://open.spotify.com/artist/3SFQtiUWFMi1dZFoieb47p), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Sergine Quenum](https://open.spotify.com/artist/3NtUlW1oJQDpqsSFKluWC6) | [Odogwu](https://open.spotify.com/album/6eMsJd2p5Pt2Cu82lae11d) | 7:29 |
 | 14 | [God \(Melodic Drill Type Beat\)](https://open.spotify.com/track/7hcQF4srxsXMohm43iWONC) | [Dekingbeatz](https://open.spotify.com/artist/3q4fs9t980Pwoj9B0N52zc), [Drilland](https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz) | [God \(Melodic Drill Type Beat\)](https://open.spotify.com/album/6VS2gItrQnAZjbc4qojezs) | 3:36 |
 | 15 | [Ungu Alpha \- Unplugged](https://open.spotify.com/track/5rhK4JkS8TY6SEstiyI5xM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ungu Alpha \(Unplugged\)](https://open.spotify.com/album/5YbQ15DmPOyUOd0j3LU1Bw) | 5:52 |
-| 16 | [Blood of Jesus \(No Be Cho Cho\)](https://open.spotify.com/track/3FU7yqPf8k7fnPH8CPJQgW) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Blood of Jesus \(No Be Cho Cho\)](https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx) | 2:20 |
+| 16 | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/track/3FU7yqPf8k7fnPH8CPJQgW) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx) | 2:20 |
 | 17 | [Favour \- Cover](https://open.spotify.com/track/6V57hO36jBp2P8Dg7H70t5) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ) | [Favour \(Cover\)](https://open.spotify.com/album/6pQyvHRxBYl4J3m8Y1SEKR) | 2:07 |
 | 18 | [Not Over II](https://open.spotify.com/track/0HkPEVlVOWZCMRUGwoHPQe) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Not Over II](https://open.spotify.com/album/4lO7pgCaq2zYNgXNwS4Scz) | 2:47 |
 | 19 | [He Has Done Great Things](https://open.spotify.com/track/25M8sgjRO6PqnWQ73XkSJk) | [Emmanuel Songsore](https://open.spotify.com/artist/3BMM9j0sNACwGYlL9TvbBP) | [He Has Done Great Things](https://open.spotify.com/album/6T5IXnnPfMjCurN3GuK7Xt) | 4:39 |

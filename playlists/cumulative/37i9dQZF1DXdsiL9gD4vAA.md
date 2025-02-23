@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-197 songs - 17 hr 43 min
+198 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 | 2024-03-06 |
 | [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 | 2025-01-01 |
 | [Gumshuda](https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7) | 3:48 | 2024-02-15 | 2024-04-19 |
-| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 |  |
+| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 | 2025-02-23 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2025-01-01 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 | 2024-04-19 |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 |  |
@@ -180,6 +180,7 @@
 | [Taiy Nahi Kiya Abhi](https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:49 | 2023-08-22 |  |
 | [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 |  |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
+| [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 |  |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 | 2024-04-19 |
 | [Teri Yaad..\. Yaad..\. Yaad](https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Kathin Hai Raah Guzar: Ghazals Hits By Ghulam Ali](https://open.spotify.com/album/5uPIBx7ElnjhQxKDQhgiVn) | 8:09 | 2021-12-01 | 2025-01-01 |
 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 | 2021-12-01 |  |

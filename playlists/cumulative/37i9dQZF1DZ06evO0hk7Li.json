@@ -1035,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Miles",
+        "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Miles",
+      "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
+    },
+    {
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
       },

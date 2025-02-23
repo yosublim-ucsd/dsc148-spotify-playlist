@@ -54,7 +54,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-23",
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
@@ -8296,6 +8296,28 @@
       "duration_ms": 192990,
       "name": "Yumi Yumi",
       "url": "https://open.spotify.com/track/7BMXyM754xlyx8IN23WLHI"
+    },
+    {
+      "album": {
+        "name": "\u00d1erett",
+        "url": "https://open.spotify.com/album/03worvjSoKsqdGaQquOWXT"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156019,
+      "name": "\u00d1erett",
+      "url": "https://open.spotify.com/track/0WZaSrI9n9zseDgaHDV2Mn"
     },
     {
       "album": {

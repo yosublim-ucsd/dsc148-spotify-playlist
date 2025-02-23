@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Reno Rojas y Zemmoa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,304 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,316 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 13 | [Madre](https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Madre](https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj) | 3:07 |
 | 14 | [Virgen de Magallón](https://open.spotify.com/track/4JrDAYHy48ZZWvjWk5M5uY) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Virgen de Magallón](https://open.spotify.com/album/3bcrm514ZM8qCsRqbahmDi) | 2:31 |
 | 15 | [El paseo](https://open.spotify.com/track/2TSGkSDQbwEs7VM2GYUofz) | [Claudio Montana](https://open.spotify.com/artist/3Ecw2aaAQ3rqO3bH9pcN7d), [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [El paseo](https://open.spotify.com/album/6mBbQOPzzovNIB4rKWfG7z) | 1:56 |
-| 16 | [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Mónica Naranjo](https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 |
+| 16 | [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 |
 | 17 | [sidewayy!](https://open.spotify.com/track/45HsIQUMUmI68SxXzhhfrb) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [sidewayy!](https://open.spotify.com/album/7pXzUjLdOfSobLy8AX5j3Q) | 1:06 |
 | 18 | [Xorieri](https://open.spotify.com/track/6IUuX0l3RTSGMLRkojx6EZ) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb), [Oreka Tx](https://open.spotify.com/artist/6CalTOP7T1djV7BPNS5GxG) | [Xorieri](https://open.spotify.com/album/6KsQoQXFXA44bTZjMjimxk) | 3:04 |
 | 19 | [JAM CLUB BANDAM](https://open.spotify.com/track/6ur4ZudnVO2CjWwSCfs3GU) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [JAM CLUB BANDAM](https://open.spotify.com/album/3rDBF9Qw15wmcr6LGkggS1) | 4:23 |

@@ -4,10 +4,11 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-971 songs - 2 day 9 hr 32 min
+972 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-20 |  |
 | [11 pm](https://open.spotify.com/track/1GrnKK5OMhKEYwjpOFVPRU) | [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt), [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa) | [MUGEN](https://open.spotify.com/album/1RxN64wDwRlrW730juNXa8) | 3:15 | 2022-10-20 | 2022-11-30 |
 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-09 | 2024-12-08 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-13 | 2025-01-29 |
@@ -941,7 +942,7 @@
 | [拝啓生きとし愛おしきあなた](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [拝啓生きとし愛おしきあなた](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 | 2024-04-02 | 2024-05-02 |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [救世主](https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [救世主](https://open.spotify.com/album/4kb32b8HlLiATmTModYCgf) | 3:15 | 2024-02-20 | 2024-03-20 |
-| [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 | 2024-04-16 |  |
+| [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 | 2024-04-16 | 2025-02-23 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-12 | 2024-12-11 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-11-29 | 2022-12-02 |
 | [楽園](https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [楽園](https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT) | 4:07 | 2023-05-30 | 2023-06-15 |

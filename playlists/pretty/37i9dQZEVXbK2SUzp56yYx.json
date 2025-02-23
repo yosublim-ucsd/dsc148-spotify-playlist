@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belarus.",
-  "num_followers": 1942,
+  "num_followers": 1947,
   "original_name": "Viral 50 - Belarus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L0vpyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L009oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "EMPTY FUNK",
         "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
@@ -33,23 +49,39 @@
       "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+        "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b!",
+        "url": "https://open.spotify.com/album/408A85aP1zzClOkRuT7KeB"
       },
       "artists": [
         {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+          "name": "\u041a\u0440\u0443\u044d\u043b\u043b\u0430",
+          "url": "https://open.spotify.com/artist/1E8IlgMj3DxgKsnZWneRV0"
         }
       ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+      "duration_ms": 174720,
+      "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b!",
+      "url": "https://open.spotify.com/track/23xQQbtWnTv2q5RIzWFtFg"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041b\u0443\u0447\u0448\u0435\u0435",
+        "url": "https://open.spotify.com/album/6cgytbPndryLrWNYTdGvwr"
+      },
+      "artists": [
+        {
+          "name": "Yin-Yang",
+          "url": "https://open.spotify.com/artist/0WjNZcwh7ElaNtGQNIAG0J"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "\u041e Yeah",
+      "url": "https://open.spotify.com/track/0AiyrJYL95afa6HzanHbKI"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u0414\u043e 30",
         "url": "https://open.spotify.com/album/2UcPaKUFCASx87VJ20NO0y"
@@ -69,39 +101,23 @@
       "url": "https://open.spotify.com/track/61CGqJNNOTZ1zTWRIKTxs7"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "\u041b\u0443\u0447\u0448\u0435\u0435",
-        "url": "https://open.spotify.com/album/6cgytbPndryLrWNYTdGvwr"
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
       },
       "artists": [
         {
-          "name": "Yin-Yang",
-          "url": "https://open.spotify.com/artist/0WjNZcwh7ElaNtGQNIAG0J"
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
         }
       ],
-      "duration_ms": 216715,
-      "name": "\u041e Yeah",
-      "url": "https://open.spotify.com/track/0AiyrJYL95afa6HzanHbKI"
+      "duration_ms": 216362,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0421\u0435\u043a\u0441\u0438 \u0442\u0435\u043c\u0430",
-        "url": "https://open.spotify.com/album/5aiNmMlRrBwRC86zhcyXEl"
-      },
-      "artists": [
-        {
-          "name": "esospesos",
-          "url": "https://open.spotify.com/artist/4C0laSSCybNao98AhnM0XH"
-        }
-      ],
-      "duration_ms": 87697,
-      "name": "\u0421\u0435\u043a\u0441\u0438 \u0442\u0435\u043c\u0430",
-      "url": "https://open.spotify.com/track/3p41txHMZQ5Ep5SGidbAqW"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/4ZcMLfnPZBeKfVyuSV6nNW"
@@ -121,23 +137,7 @@
       "url": "https://open.spotify.com/track/5xvTrz6rNJMibfab0ct0wz"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b!",
-        "url": "https://open.spotify.com/album/408A85aP1zzClOkRuT7KeB"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0440\u0443\u044d\u043b\u043b\u0430",
-          "url": "https://open.spotify.com/artist/1E8IlgMj3DxgKsnZWneRV0"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b!",
-      "url": "https://open.spotify.com/track/23xQQbtWnTv2q5RIzWFtFg"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "Atomic Heart, Vol. 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1spTBf3PQ2n0lzoFx14KPH"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/4zW0D21eynN6JcDwGR4f9F"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216362,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "archangel",
         "url": "https://open.spotify.com/album/5ATJWM7z0XBEgqLKIdZM3I"
@@ -205,7 +189,7 @@
       "url": "https://open.spotify.com/track/2M0zC7lJWKCL3316jIXYH1"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
         "url": "https://open.spotify.com/album/5uZVxGRKIH7RZ3fXtHZfnR"
@@ -221,39 +205,23 @@
       "url": "https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+        "name": "N1NT3ND0",
+        "url": "https://open.spotify.com/album/3SBnshLBGaxBP8V0ymihGS"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "N1NT3ND0",
+          "url": "https://open.spotify.com/artist/6WI9EjCdJWcwOFFtubMrGM"
         }
       ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+      "duration_ms": 205920,
+      "name": "Lambada",
+      "url": "https://open.spotify.com/track/2aYfXHAnWqcVkaadPi1q4H"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041f\u0435\u0440\u0435\u0434\u0430\u0439 \u043c\u0430\u043c\u0435 \u0441\u043b\u043e\u0432\u0430 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5JqFCProZB1OLYH86uZ3aW"
-      },
-      "artists": [
-        {
-          "name": "HOUMBY",
-          "url": "https://open.spotify.com/artist/6QUvIqqM9VdChuWl6xSphC"
-        }
-      ],
-      "duration_ms": 117637,
-      "name": "\u041f\u0435\u0440\u0435\u0434\u0430\u0439 \u043c\u0430\u043c\u0435 \u0441\u043b\u043e\u0432\u0430 (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1PhniUnRFFPy0XTNnUnfaM"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u042f \u041b\u042e\u0411\u041b\u042e \u0411\u0410\u0421\u042b",
         "url": "https://open.spotify.com/album/0tXbsMcMXWg38xZunJUD8G"
@@ -281,7 +249,135 @@
       "url": "https://open.spotify.com/track/5DdTBWdIJlWlbHMe1oMcQt"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u0412\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0438 \u0422\u0430\u043a\u0442",
+        "url": "https://open.spotify.com/album/6jUAGSgNN8Wb8000zuFfKR"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043e\u0440\u0435\u0437 \u043d\u0430 \u0421\u043e\u0431\u0430\u043a\u0435",
+          "url": "https://open.spotify.com/artist/4DHJUKEpxQH7ypjFgXmAD6"
+        }
+      ],
+      "duration_ms": 325516,
+      "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
+      "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
+        "url": "https://open.spotify.com/album/2jQTqAFvQBTQqK2iOQZOLY"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+          "url": "https://open.spotify.com/artist/4z4SKDJwgb8HRjgp64iGR8"
+        }
+      ],
+      "duration_ms": 98093,
+      "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
+      "url": "https://open.spotify.com/track/6fMlu4DJfudfAe5z0vKQbl"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
+        "url": "https://open.spotify.com/album/3MapgHBbb88Dpwl4BiZ8DT"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "duration_ms": 82285,
+      "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
+      "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041f\u0435\u0440\u0435\u0434\u0430\u0439 \u043c\u0430\u043c\u0435 \u0441\u043b\u043e\u0432\u0430 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5JqFCProZB1OLYH86uZ3aW"
+      },
+      "artists": [
+        {
+          "name": "HOUMBY",
+          "url": "https://open.spotify.com/artist/6QUvIqqM9VdChuWl6xSphC"
+        }
+      ],
+      "duration_ms": 117637,
+      "name": "\u041f\u0435\u0440\u0435\u0434\u0430\u0439 \u043c\u0430\u043c\u0435 \u0441\u043b\u043e\u0432\u0430 (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1PhniUnRFFPy0XTNnUnfaM"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "chess",
+      "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041f\u041e\u041a\u0410\u0416\u0418 \u0410\u0419",
+        "url": "https://open.spotify.com/album/5T0iUglktrG0LYD2rxfvky"
+      },
+      "artists": [
+        {
+          "name": "\u043c\u0438\u043d\u0434\u0430\u043b\u044c",
+          "url": "https://open.spotify.com/artist/6I0qTw0TUuMluux09uB09V"
+        }
+      ],
+      "duration_ms": 104278,
+      "name": "\u041f\u041e\u041a\u0410\u0416\u0418 \u0410\u0419",
+      "url": "https://open.spotify.com/track/2u6X7s1LxzLrydEVofNbgL"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "EMPTY FUNK (Slowed)",
         "url": "https://open.spotify.com/album/5NehVgm36FKRN6ghW67EEi"
@@ -305,87 +401,7 @@
       "url": "https://open.spotify.com/track/6ViynnStuYaMJfsFp2R5m9"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "N1NT3ND0",
-        "url": "https://open.spotify.com/album/3SBnshLBGaxBP8V0ymihGS"
-      },
-      "artists": [
-        {
-          "name": "N1NT3ND0",
-          "url": "https://open.spotify.com/artist/6WI9EjCdJWcwOFFtubMrGM"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Lambada",
-      "url": "https://open.spotify.com/track/2aYfXHAnWqcVkaadPi1q4H"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
-        "url": "https://open.spotify.com/album/3MapgHBbb88Dpwl4BiZ8DT"
-      },
-      "artists": [
-        {
-          "name": "Icegergert",
-          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
-        }
-      ],
-      "duration_ms": 82285,
-      "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
-      "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0412\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0438 \u0422\u0430\u043a\u0442",
-        "url": "https://open.spotify.com/album/6jUAGSgNN8Wb8000zuFfKR"
-      },
-      "artists": [
-        {
-          "name": "\u041f\u043e\u0440\u0435\u0437 \u043d\u0430 \u0421\u043e\u0431\u0430\u043a\u0435",
-          "url": "https://open.spotify.com/artist/4DHJUKEpxQH7ypjFgXmAD6"
-        }
-      ],
-      "duration_ms": 325516,
-      "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
-      "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
-        "url": "https://open.spotify.com/album/2jQTqAFvQBTQqK2iOQZOLY"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
-          "url": "https://open.spotify.com/artist/4z4SKDJwgb8HRjgp64iGR8"
-        }
-      ],
-      "duration_ms": 98093,
-      "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
-      "url": "https://open.spotify.com/track/6fMlu4DJfudfAe5z0vKQbl"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "chess",
-        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
-      },
-      "artists": [
-        {
-          "name": "joyful",
-          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "chess",
-      "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u0401\u041a",
         "url": "https://open.spotify.com/album/1akEhm6tO6W8ZmVapIWNvj"
@@ -401,23 +417,7 @@
       "url": "https://open.spotify.com/track/2x68wTxFO6ZURfIi3j8Exz"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041f\u041e\u041a\u0410\u0416\u0418 \u0410\u0419",
-        "url": "https://open.spotify.com/album/5T0iUglktrG0LYD2rxfvky"
-      },
-      "artists": [
-        {
-          "name": "\u043c\u0438\u043d\u0434\u0430\u043b\u044c",
-          "url": "https://open.spotify.com/artist/6I0qTw0TUuMluux09uB09V"
-        }
-      ],
-      "duration_ms": 104278,
-      "name": "\u041f\u041e\u041a\u0410\u0416\u0418 \u0410\u0419",
-      "url": "https://open.spotify.com/track/2u6X7s1LxzLrydEVofNbgL"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
@@ -433,43 +433,7 @@
       "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041b\u044e\u0431\u043b\u044e",
-        "url": "https://open.spotify.com/album/2WbTUQkAzzYSVGYBiI41ED"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0430\u0440\u0456\u044f \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u044c\u043a\u0430",
-          "url": "https://open.spotify.com/artist/1t6OTC1dbNIqb1jOUnfVQf"
-        },
-        {
-          "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u044f",
-          "url": "https://open.spotify.com/artist/6VkBInowtryUeDgr8CqqEo"
-        }
-      ],
-      "duration_ms": 293035,
-      "name": "\u041b\u044e\u0431\u043b\u044e",
-      "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u0446\u0435\u043d\u0430",
         "url": "https://open.spotify.com/album/3Duo917O1SGNn6g3mcJCYd"
@@ -489,99 +453,7 @@
       "url": "https://open.spotify.com/track/3H9tgkoa0hqwUWVe4mbU12"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "Ochame Kinou/Fukkireta (Jerk)",
-        "url": "https://open.spotify.com/album/03rWxGtBX3di9B3ehFNfGG"
-      },
-      "artists": [
-        {
-          "name": "zandsu",
-          "url": "https://open.spotify.com/artist/6htJaSnTyDhTxzwOhgEWss"
-        }
-      ],
-      "duration_ms": 90550,
-      "name": "Ochame Kinou/Fukkireta (Jerk)",
-      "url": "https://open.spotify.com/track/08K4pdYolqfPqMJ642pLjj"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0434\u0435\u0432\u043e\u0447\u043a\u0438",
-        "url": "https://open.spotify.com/album/4jDefrtbknQkDxkLgETNB8"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0440\u0443\u044d\u043b\u043b\u0430",
-          "url": "https://open.spotify.com/artist/1E8IlgMj3DxgKsnZWneRV0"
-        },
-        {
-          "name": "VenevitinoV",
-          "url": "https://open.spotify.com/artist/5o3rVBO5WG7zecFQzODml9"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b (VenevitinoV Remix)",
-      "url": "https://open.spotify.com/track/2m4N20NvNytACUiX3sJnjh"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u043b\u0435\u0442\u0430\u0435\u043c",
-        "url": "https://open.spotify.com/album/2tdTgheWEfPaJCR6DPeLNp"
-      },
-      "artists": [
-        {
-          "name": "Rainmerge",
-          "url": "https://open.spotify.com/artist/3FwkmWLf5juz44w8xsoSXG"
-        },
-        {
-          "name": "Nison B",
-          "url": "https://open.spotify.com/artist/1gYbaQBQDHwa7Tv8Q6e0Z0"
-        }
-      ],
-      "duration_ms": 150555,
-      "name": "\u043b\u0435\u0442\u0430\u0435\u043c",
-      "url": "https://open.spotify.com/track/4IsoZk39JVbSI49szEh44A"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
-      },
-      "artists": [
-        {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
-        "url": "https://open.spotify.com/album/3c9Fh6Vf7FM9RIip1yT9yI"
-      },
-      "artists": [
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
-        }
-      ],
-      "duration_ms": 131538,
-      "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
-      "url": "https://open.spotify.com/track/0RT48ypt6rC10KVNRjEnEd"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "suburban daredevil",
         "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
@@ -601,59 +473,23 @@
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "NUNCA MUDA?",
-        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+        "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
+        "url": "https://open.spotify.com/album/3c9Fh6Vf7FM9RIip1yT9yI"
       },
       "artists": [
         {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "NXGHT!",
-          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
         }
       ],
-      "duration_ms": 81500,
-      "name": "NUNCA MUDA?",
-      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
+      "duration_ms": 131538,
+      "name": "\u0424\u043b\u0438\u0440\u0442\u0443\u0439",
+      "url": "https://open.spotify.com/track/0RT48ypt6rC10KVNRjEnEd"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "I Hate You",
-        "url": "https://open.spotify.com/album/26EGMM4quxhs8WX8q2Qwyw"
-      },
-      "artists": [
-        {
-          "name": "h4rtbrkr",
-          "url": "https://open.spotify.com/artist/3vGd7nWqei0BrHqdSWLvj5"
-        }
-      ],
-      "duration_ms": 93405,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/1CEUYM7tyPQGXSlXSXwTin"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "chess",
-        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
-      },
-      "artists": [
-        {
-          "name": "joyful",
-          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
-        }
-      ],
-      "duration_ms": 142053,
-      "name": "chess - slowed",
-      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi"
@@ -669,43 +505,23 @@
       "url": "https://open.spotify.com/track/35pAZQU6X9WjIlUyuej4DF"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "two",
-        "url": "https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ"
+        "name": "Ochame Kinou/Fukkireta (Jerk)",
+        "url": "https://open.spotify.com/album/03rWxGtBX3di9B3ehFNfGG"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "zandsu",
+          "url": "https://open.spotify.com/artist/6htJaSnTyDhTxzwOhgEWss"
         }
       ],
-      "duration_ms": 135212,
-      "name": "two",
-      "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
+      "duration_ms": 90550,
+      "name": "Ochame Kinou/Fukkireta (Jerk)",
+      "url": "https://open.spotify.com/track/08K4pdYolqfPqMJ642pLjj"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u041d\u0430 \u0432\u0441\u044e \u043f\u043b\u0430\u043d\u0435\u0442\u0443 \u0417\u0435\u043c\u043b\u044f (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2dg16nafc3RDCce4TDjrr4"
-      },
-      "artists": [
-        {
-          "name": "PIZZA",
-          "url": "https://open.spotify.com/artist/5UmEsxALI1S6DSz5CGs0Sc"
-        },
-        {
-          "name": "Nigativ",
-          "url": "https://open.spotify.com/artist/2Fp5e1nceHBrazfCWYmYUV"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "\u041d\u0435 \u043b\u044e\u0431\u043b\u044e",
-      "url": "https://open.spotify.com/track/7a5GofHOqCQ80BSLHtErsp"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "ReawakeR (feat. Felix of Stray Kids)",
         "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
@@ -725,7 +541,7 @@
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u041a\u0430\u043c\u0443\u0448\u043a\u0438",
         "url": "https://open.spotify.com/album/7AAkcXN8NSPkz2d09zlH9X"
@@ -741,39 +557,63 @@
       "url": "https://open.spotify.com/track/46qyu9Ybwj1uMeeCSmv0t5"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "\u0414\u0432\u0430\u0434\u0446\u0430\u0442\u044c",
-        "url": "https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6"
+        "name": "\u041b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/2WbTUQkAzzYSVGYBiI41ED"
       },
       "artists": [
         {
-          "name": "2hug",
-          "url": "https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY"
+          "name": "\u041c\u0430\u0440\u0456\u044f \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u044c\u043a\u0430",
+          "url": "https://open.spotify.com/artist/1t6OTC1dbNIqb1jOUnfVQf"
+        },
+        {
+          "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u044f",
+          "url": "https://open.spotify.com/artist/6VkBInowtryUeDgr8CqqEo"
         }
       ],
-      "duration_ms": 143008,
-      "name": "\u0412\u0440\u0435\u043c\u044f",
-      "url": "https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M"
+      "duration_ms": 293035,
+      "name": "\u041b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "Broken Girl",
-        "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
+        "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0434\u0435\u0432\u043e\u0447\u043a\u0438",
+        "url": "https://open.spotify.com/album/4jDefrtbknQkDxkLgETNB8"
       },
       "artists": [
         {
-          "name": "Julie Doiron",
-          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+          "name": "\u041a\u0440\u0443\u044d\u043b\u043b\u0430",
+          "url": "https://open.spotify.com/artist/1E8IlgMj3DxgKsnZWneRV0"
+        },
+        {
+          "name": "VenevitinoV",
+          "url": "https://open.spotify.com/artist/5o3rVBO5WG7zecFQzODml9"
         }
       ],
-      "duration_ms": 178000,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
+      "duration_ms": 173760,
+      "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b (VenevitinoV Remix)",
+      "url": "https://open.spotify.com/track/2m4N20NvNytACUiX3sJnjh"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 142053,
+      "name": "chess - slowed",
+      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "WINTER HEPTAGON",
         "url": "https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z"
@@ -789,7 +629,115 @@
       "url": "https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041d\u0430 \u0432\u0441\u044e \u043f\u043b\u0430\u043d\u0435\u0442\u0443 \u0417\u0435\u043c\u043b\u044f (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2dg16nafc3RDCce4TDjrr4"
+      },
+      "artists": [
+        {
+          "name": "PIZZA",
+          "url": "https://open.spotify.com/artist/5UmEsxALI1S6DSz5CGs0Sc"
+        },
+        {
+          "name": "Nigativ",
+          "url": "https://open.spotify.com/artist/2Fp5e1nceHBrazfCWYmYUV"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "\u041d\u0435 \u043b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/7a5GofHOqCQ80BSLHtErsp"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u043b\u0435\u0442\u0430\u0435\u043c",
+        "url": "https://open.spotify.com/album/2tdTgheWEfPaJCR6DPeLNp"
+      },
+      "artists": [
+        {
+          "name": "Rainmerge",
+          "url": "https://open.spotify.com/artist/3FwkmWLf5juz44w8xsoSXG"
+        },
+        {
+          "name": "Nison B",
+          "url": "https://open.spotify.com/artist/1gYbaQBQDHwa7Tv8Q6e0Z0"
+        }
+      ],
+      "duration_ms": 150555,
+      "name": "\u043b\u0435\u0442\u0430\u0435\u043c",
+      "url": "https://open.spotify.com/track/4IsoZk39JVbSI49szEh44A"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/26EGMM4quxhs8WX8q2Qwyw"
+      },
+      "artists": [
+        {
+          "name": "h4rtbrkr",
+          "url": "https://open.spotify.com/artist/3vGd7nWqei0BrHqdSWLvj5"
+        }
+      ],
+      "duration_ms": 93405,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/1CEUYM7tyPQGXSlXSXwTin"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u0414\u0432\u0430\u0434\u0446\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6"
+      },
+      "artists": [
+        {
+          "name": "2hug",
+          "url": "https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY"
+        }
+      ],
+      "duration_ms": 143008,
+      "name": "\u0412\u0440\u0435\u043c\u044f",
+      "url": "https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u0411\u043e\u0431\u0440",
+        "url": "https://open.spotify.com/album/7ihIjzahqp7DpxBhAR5se5"
+      },
+      "artists": [
+        {
+          "name": "SLAVA SKRIPKA",
+          "url": "https://open.spotify.com/artist/2SCKCFVeamQC1Dk2fdX4VT"
+        }
+      ],
+      "duration_ms": 129756,
+      "name": "\u0411\u043e\u0431\u0440",
+      "url": "https://open.spotify.com/track/3M7TcCC5bdrgLZeYms1x3Y"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u041a\u043e\u0442\u0451\u043d\u043e\u043a 2",
         "url": "https://open.spotify.com/album/1JBERasevYOunMH8oNrYCi"
@@ -809,7 +757,55 @@
       "url": "https://open.spotify.com/track/2MuZ2kbWs1sDaiGgxJmnof"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Kilativ",
+        "url": "https://open.spotify.com/album/3I0WJ2r0FNYbwXnRXqRmow"
+      },
+      "artists": [
+        {
+          "name": "Pika",
+          "url": "https://open.spotify.com/artist/4QwXKmGPo7GsU3N8LJykki"
+        }
+      ],
+      "duration_ms": 182922,
+      "name": "\u0427\u0435\u0442\u0432\u0435\u0440\u0433 4-\u0433\u043e",
+      "url": "https://open.spotify.com/track/1lCUPsBvSzcPvNgyrl5qUJ"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "\u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0443\u043c\u0435\u043b",
+        "url": "https://open.spotify.com/album/5lTXEbzHccWQTkBTM2T72Q"
+      },
+      "artists": [
+        {
+          "name": "\u042e\u043f\u0438",
+          "url": "https://open.spotify.com/artist/1ZrJxKCLNjqk4B73SoR7PN"
+        }
+      ],
+      "duration_ms": 128935,
+      "name": "\u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0443\u043c\u0435\u043b",
+      "url": "https://open.spotify.com/track/1fSJ27dnJaa8I1ynIECVrk"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
         "url": "https://open.spotify.com/album/4CE3mitKe51HAvMQjwgZ2G"
@@ -825,7 +821,39 @@
       "url": "https://open.spotify.com/track/0BryMsuHUY9EK5wC45PggL"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Broken Girl",
+        "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-22 16:22:38",
       "album": {
         "name": "\u041a\u0430\u0440\u0444\u0430\u0433\u0435\u043d",
         "url": "https://open.spotify.com/album/4B6JDFIYIWvlzJSxBuRbrG"
@@ -845,72 +873,40 @@
       "url": "https://open.spotify.com/track/2E3AjDjfiXJgK8xbjIA2QO"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "Love For You",
-        "url": "https://open.spotify.com/album/4OmjabUN2BY5HPsJo4HMPc"
+        "name": "\u0438\u0433\u0440\u043e\u043a",
+        "url": "https://open.spotify.com/album/5DjkQMZknsOHsKfu6LexJi"
       },
       "artists": [
         {
-          "name": "LOVELI LORI",
-          "url": "https://open.spotify.com/artist/7mcE0EmrnPmyAGU3UBJrFg"
+          "name": "\u043a\u0430\u0442\u0430\u043e\u043c\u0438",
+          "url": "https://open.spotify.com/artist/1V3wHPZHY0ZhmK3HJQYGC3"
         },
         {
-          "name": "ovg!",
-          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+          "name": "\u0445\u0438\u0440\u043e\u0448\u0438",
+          "url": "https://open.spotify.com/artist/3yLc7RZrnBYHqH2lsLlTcP"
         }
       ],
-      "duration_ms": 170233,
-      "name": "Love For You",
-      "url": "https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP"
+      "duration_ms": 79562,
+      "name": "\u0438\u0433\u0440\u043e\u043a",
+      "url": "https://open.spotify.com/track/75E6UvfTp7zJ91VhUTE8lk"
     },
     {
-      "added_at": "2025-02-21 15:05:51",
+      "added_at": "2025-02-22 16:22:38",
       "album": {
-        "name": "\u0411\u043e\u0431\u0440",
-        "url": "https://open.spotify.com/album/7ihIjzahqp7DpxBhAR5se5"
+        "name": "\u0426\u0432\u0435\u0442\u0430\u0435\u0432\u0430",
+        "url": "https://open.spotify.com/album/30E6B5gzL9IjoRLzXuptUB"
       },
       "artists": [
         {
-          "name": "SLAVA SKRIPKA",
-          "url": "https://open.spotify.com/artist/2SCKCFVeamQC1Dk2fdX4VT"
+          "name": "\u0412\u0430\u043d\u044f \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/1kxqshyCqWuOQJNCTgHKzM"
         }
       ],
-      "duration_ms": 129756,
-      "name": "\u0411\u043e\u0431\u0440",
-      "url": "https://open.spotify.com/track/3M7TcCC5bdrgLZeYms1x3Y"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-02-21 15:05:51",
-      "album": {
-        "name": "\u0437\u0435\u0440\u043a\u0430\u043b\u043e",
-        "url": "https://open.spotify.com/album/5a3pR2LcMdO3gkeRvdS43B"
-      },
-      "artists": [
-        {
-          "name": "\u0442\u0438\u043c\u0430 \u0438\u0449\u0435\u0442 \u0441\u0432\u0435\u0442",
-          "url": "https://open.spotify.com/artist/4MbtAJqaqDuPTAan7bI736"
-        }
-      ],
-      "duration_ms": 190832,
-      "name": "\u0432\u043e\u043b\u043d\u0430",
-      "url": "https://open.spotify.com/track/74UTzZAyhs0ZJhB2BRKOKZ"
+      "duration_ms": 151714,
+      "name": "\u0426\u0432\u0435\u0442\u0430\u0435\u0432\u0430",
+      "url": "https://open.spotify.com/track/5ACebyVVWdxEpU8kpd12j9"
     }
   ],
   "unique_name": "Viral 50 - Belarus",

@@ -76395,6 +76395,24 @@
     },
     {
       "album": {
+        "name": "Tried MY Best",
+        "url": "https://open.spotify.com/album/2P6nGkRHN3LYcUpxGqDEFe"
+      },
+      "artists": [
+        {
+          "name": "KiLLMYPRiDE",
+          "url": "https://open.spotify.com/artist/7aeqtxE2XlyOTjoOhFsalK"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180019,
+      "name": "Tried MY Best",
+      "url": "https://open.spotify.com/track/55Jmb48GbHtz96hooGWXv3"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5yxviTqQB2aoXaHtFkOIg7"
       },

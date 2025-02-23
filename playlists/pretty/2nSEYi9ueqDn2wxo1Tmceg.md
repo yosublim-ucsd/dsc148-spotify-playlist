@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,423 likes - 50 songs - 3 hr 33 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,421 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 14 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 |
 | 15 | [4](https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:59 |
 | 16 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 |
-| 17 | [Dares Soar](https://open.spotify.com/track/7gWbepHTzXK6MFOW6EUAsW) | [X & Yde](https://open.spotify.com/artist/6mOtgC49VY9qqHZCUcPyU5), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Dares Soar](https://open.spotify.com/album/22QhzUe9ZSJ5BWu7Y1Qb5Q) | 3:28 |
+| 17 | [Dares Soar](https://open.spotify.com/track/7gWbepHTzXK6MFOW6EUAsW) | [X & Yde](https://open.spotify.com/artist/6mOtgC49VY9qqHZCUcPyU5), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Xenia Xamanek](https://open.spotify.com/artist/1kMPv2WU4OnwKpmvIgyNs8) | [Dares Soar](https://open.spotify.com/album/22QhzUe9ZSJ5BWu7Y1Qb5Q) | 3:28 |
 | 18 | [The Boy from the Bookshop](https://open.spotify.com/track/2Ug9pTzlzooGPj5eX6iYLE) | [White Magic for Lovers](https://open.spotify.com/artist/4Un69DFnWNXl7AYN3MkGOQ) | [The Boy from the Bookshop](https://open.spotify.com/album/25FHMrKV6pjmrfLSUO7208) | 3:05 |
 | 19 | [Reframing](https://open.spotify.com/track/0q01PkXaaxdmKlt12EcBOx) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Reframing](https://open.spotify.com/album/7eBFplzkHrhvcSeoDDqmHb) | 3:59 |
 | 20 | [Evil People](https://open.spotify.com/track/7cN8cOJz5pKSHXXYtv0buD) | [MIEN](https://open.spotify.com/artist/0fl9voNu6x7TSuYnLb1amp) | [Evil People](https://open.spotify.com/album/18t5f98d04Ovz9rt3jaa98) | 4:25 |

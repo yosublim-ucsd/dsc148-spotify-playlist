@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,654 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,670 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [スーパースター](https://open.spotify.com/track/5qSKmuXffMAJvQOWaLvDy5) | [KEN MIYAKE](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [スーパースター](https://open.spotify.com/album/3ANCyY8SVt2k97b7A9ZVeU) | 2:32 |
 | 50 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
 
-Snapshot ID: `Z7dDjAAAAAAjgBJdgGAYb/b+9LeEABUW`
+Snapshot ID: `Z7dDjAAAAAB0tjQiIsrMsmBpcMHTcL4R`

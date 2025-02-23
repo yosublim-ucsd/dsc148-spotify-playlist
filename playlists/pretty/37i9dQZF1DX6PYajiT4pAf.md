@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,621 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,642 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 2 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 |
 | 3 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
 | 4 | [Cuarto De Hotel \- Canción Original de El Secreto Del Orfebre](https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuarto De Hotel \(Canción Original de El Secreto Del Orfebre\)](https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq) | 2:57 |
-| 5 | [BAILANDO EL DEMBOW](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [BAILANDO EL DEMBOW](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
+| 5 | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/track/5zihtD6MvnQk1bqEzleG4Y) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BAILANDO EL DEMBOW \(feat\. Rico Rosa\)](https://open.spotify.com/album/5HoQC00urluXQEIP2g1XPo) | 2:39 |
 | 6 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 7 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 8 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 34 | [Virgen de Magallón](https://open.spotify.com/track/4JrDAYHy48ZZWvjWk5M5uY) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Virgen de Magallón](https://open.spotify.com/album/3bcrm514ZM8qCsRqbahmDi) | 2:31 |
 | 35 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
 | 36 | [Pogo](https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Pogo](https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN) | 3:04 |
-| 37 | [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Mónica Naranjo](https://open.spotify.com/artist/0BY2XoiogZPXXq7CEm7Mhw) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 |
+| 37 | [Venenosa](https://open.spotify.com/track/755GpgeW7EOPEa0SXe6T5n) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Venenosa](https://open.spotify.com/album/0K5ZLYhlJ3js2MFvujC0oJ) | 3:21 |
 | 38 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
 | 39 | [Hacerlo mal](https://open.spotify.com/track/2jrxJXDhBzUlurt9BautGb) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Otra vez el Mismo Drama](https://open.spotify.com/album/4y2L6raP85PifhybrRSgUp) | 3:23 |
 | 40 | [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 |

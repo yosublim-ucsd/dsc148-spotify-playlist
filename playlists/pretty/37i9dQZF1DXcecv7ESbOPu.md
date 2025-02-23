@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,578 likes - 108 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,596 likes - 108 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 93 | [spring](https://open.spotify.com/track/6WYqHfan1eKDKJEj4EQ6sH) | [Sebastian Falk](https://open.spotify.com/artist/6bDCKZuGkIU97np4rAqLai) | [spring](https://open.spotify.com/album/4ohACJYVG4JPYHqbHEeazI) | 2:41 |
 | 94 | [Did I Go?](https://open.spotify.com/track/12A2ANLrVTcXpOCneRJ7gy) | [Ebba Åsman](https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O) | [Did I Go?](https://open.spotify.com/album/68v7UwtFDC8OQzXt095xdY) | 3:35 |
 | 95 | [Alicante](https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [Yuliesky Gonzalez](https://open.spotify.com/artist/6wwPgJrI25XI6qKu5yOGkM) | [Alicante](https://open.spotify.com/album/7LY3V8BTAWVDeKp9QF3rlm) | 3:12 |
-| 96 | [Jade \- Original Mix](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
+| 96 | [Jade](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 |
 | 97 | [Kid & Leveret](https://open.spotify.com/track/67k5hyLeNqd8HueETh1qBh) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Kid & Leveret](https://open.spotify.com/album/06EK1nrUNdGIfJqJK50yNV) | 5:13 |
 | 98 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
 | 99 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 |

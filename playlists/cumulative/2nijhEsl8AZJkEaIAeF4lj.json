@@ -3737,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Fina Estampa",
+        "url": "https://open.spotify.com/album/6fBP4q8gYKo4LU9V6zVT3i"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2025-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277493,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/2bPRKPz10VSMJdXHWfTiI4"
+    },
+    {
+      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },

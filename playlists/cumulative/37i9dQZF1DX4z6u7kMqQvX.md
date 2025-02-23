@@ -523,7 +523,7 @@
 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 | 2022-07-15 | 2023-03-03 |
 | [Zoe](https://open.spotify.com/track/4ukRrm8X7wezPgdgdqOaTf) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 3:34 | 2022-04-01 | 2022-07-27 |
 | [Éramos](https://open.spotify.com/track/4M30Nb65x1xg4CpScEoU96) | [Palo Di Paolo](https://open.spotify.com/artist/6HOl2rFte7tlucs7dYAVBc), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Éramos](https://open.spotify.com/album/5XSPUnJv6QtIVhqE0XfqxI) | 2:49 | 2022-07-15 | 2022-07-25 |
-| [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:31 | 2024-09-26 |  |
+| [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:29 | 2024-09-26 |  |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-07 | 2023-04-17 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

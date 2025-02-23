@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,001 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,047 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Supernova](https://open.spotify.com/track/0H3bVAIkjbrMkok4DfI34P) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Supernova](https://open.spotify.com/album/55QNEhr1qmZWdbwVNhrunk) | 3:26 |
 | 75 | [Schneeballschlacht](https://open.spotify.com/track/17U4l3bkLDBeR4BHp77s6l) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Schneeballschlacht](https://open.spotify.com/album/7Cva23tNGI1u0QBOtwXKSa) | 1:50 |
 
-Snapshot ID: `Z7e0CgAAAAD2ZbW5gmyzLGdSdXN5EeuB`
+Snapshot ID: `Z7e0CgAAAABLXgnYPUfj1A6Af6+R2JnY`

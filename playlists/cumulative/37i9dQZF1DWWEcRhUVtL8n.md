@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-2,047 songs - 4 day 12 hr 20 min
+2,048 songs - 4 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 | 2022-10-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/14uO4OgGwGBg5VxbAiRhL7) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/2BAlop08zZqQ2mxGHGqxlw) | 3:30 | 2021-02-22 | 2021-10-11 |
 | [Certified Fool](https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Certified Fool](https://open.spotify.com/album/0NbqJMh9LSvt3dmqwiotYK) | 4:06 | 2021-11-12 | 2022-04-13 |
-| [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-10-25 |  |
+| [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-10-25 | 2025-02-23 |
 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 | 2021-02-22 | 2021-05-28 |
 | [chance with you](https://open.spotify.com/track/0Mdpgse4iIjQOpWJGTh3VS) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [chance with you](https://open.spotify.com/album/4mAH2ykv8vuz5ZWXg1vUT5) | 3:35 | 2021-02-28 | 2022-04-15 |
 | [Change](https://open.spotify.com/track/12RrfFKWOOzbhjt1LtQgxj) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Change](https://open.spotify.com/album/5JE4ZgzdwYRbyEU6QUj1xO) | 2:52 | 2020-11-13 | 2022-04-16 |
@@ -381,6 +381,7 @@
 | [Cocaine](https://open.spotify.com/track/0uoOJJYcnnLAFWajwNNAbL) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Cocaine](https://open.spotify.com/album/0K4jbnUPEuBr8JhWJuqdZ9) | 3:45 | 2023-02-10 | 2023-07-14 |
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-21 | 2024-08-10 |
 | [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2023-09-26 | 2024-07-19 |
+| [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-21 |  |
 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 | 2022-07-22 | 2023-07-01 |
 | [Cold Charlie](https://open.spotify.com/track/3MGvORkRndr4qpEUroQ5mj) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:32 | 2022-06-01 | 2022-06-15 |
 | [Cold Shoulder](https://open.spotify.com/track/7lXB9BhHWe8E6OULBB5xew) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Cold Shoulder](https://open.spotify.com/album/4ZAigFYps8HNP9OUcrtpyQ) | 2:55 | 2020-11-10 | 2021-01-26 |

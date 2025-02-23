@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 21900,
+  "num_followers": 21902,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAABsiCluzykUUFNpWQj4yerp",
+  "snapshot_id": "Z7fCAAAAAAAmt99RY0vRg8sOV/0gPIMC",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+        "name": "Morro Loco",
+        "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
       },
       "artists": [
         {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        },
+        {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+      "duration_ms": 191944,
+      "name": "Morro Loco",
+      "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
     },
     {
       "added_at": null,
@@ -591,26 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morro Loco",
-        "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
       },
       "artists": [
         {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
-        },
-        {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        },
-        {
-          "name": "Nietos Del Viejo",
-          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
         }
       ],
-      "duration_ms": 191944,
-      "name": "Morro Loco",
-      "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": null,

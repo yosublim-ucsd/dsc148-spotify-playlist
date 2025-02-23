@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 348415,
+  "num_followers": 348479,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAADrt5dNf1WFePU5K4xwc1/Y",
+  "snapshot_id": "Z7fCAAAAAAAu54sbVd9R6kxzxiZ47JJg",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "Mar y Arena",
+      "url": "https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conquistando Corazones",
         "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "Mar y Arena",
-      "url": "https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qui\u00e9n Como t\u00fa",
         "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 270733,
       "name": "Ni un Roce (Nem um Toque)",
       "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Me Equivoqu\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
     },
     {
       "added_at": null,
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
         {
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 208946,
-      "name": "Hechizo",
-      "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
+      "duration_ms": 174373,
+      "name": "Me Equivoqu\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Hechizo",
+      "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/3zw4WlkNTBGHB9ilJ838zK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 217600,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/3zw4WlkNTBGHB9ilJ838zK"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mariachi En Altos De Chav\u00f3n",
         "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 475880,
       "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
       "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Amores, un Amante",
-        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ana Gabriel \"En Vivo\"",
         "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220733,
       "name": "Hasta Que Te Conoc\u00ed - En Vivo - Remasterizado",
       "url": "https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Amores, un Amante",
+        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Amores, un Amante",
-        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Aprendiste a Volar",
-      "url": "https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Renacer Homenaje a Lucha Villa",
         "url": "https://open.spotify.com/album/7jBHBCemZ9lvUwNu7KCNGO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 168493,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/5GAnjZFN208ILOkdC3yKiT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Amores, un Amante",
+        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Aprendiste a Volar",
+      "url": "https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc"
     },
     {
       "added_at": null,

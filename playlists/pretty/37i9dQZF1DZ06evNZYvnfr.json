@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3792,
+  "num_followers": 3798,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAAC49ZYkZS1caPSJxt0DPAIL",
+  "snapshot_id": "Z7fCAAAAAADfqQ4eAJvAYGdD5cRgcL7e",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+      "duration_ms": 213200,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP"
     },
     {
       "added_at": null,
@@ -396,9 +396,25 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 221026,
-      "name": "Story I Tell",
-      "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
+      "duration_ms": 197173,
+      "name": "Last",
+      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Come to Life",
-      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Directions",
-      "url": "https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP"
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+        "name": "God Bless the Broken Road",
+        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 200829,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
+      "duration_ms": 132240,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Bless the Broken Road",
-        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 132240,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
+      "duration_ms": 200829,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 374700,
-      "name": "Wretch No More",
-      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185901,
       "name": "Feels Like Music",
       "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 374700,
+      "name": "Wretch No More",
+      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
     },
     {
       "added_at": null,

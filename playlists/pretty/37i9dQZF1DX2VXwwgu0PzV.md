@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=Dg50okc9RjqJOjFD3c2ADQ>Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,495 likes - 105 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,497 likes - 105 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 9 | [Gratitude](https://open.spotify.com/track/0D9JNf7ntudlGuRUQW1bXp) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Gratitude](https://open.spotify.com/album/6WRCBHNfy0szRdmgrWbsv6) | 4:35 |
 | 10 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 |
 | 11 | [Your Arms](https://open.spotify.com/track/49ay2uY0ZNwLwJC4sDKVOn) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Your Arms](https://open.spotify.com/album/3sS1u4icEIr87MSWGmly6j) | 2:51 |
-| 12 | [Blood of Jesus \(No Be Cho Cho\)](https://open.spotify.com/track/3FU7yqPf8k7fnPH8CPJQgW) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Blood of Jesus \(No Be Cho Cho\)](https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx) | 2:20 |
+| 12 | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/track/3FU7yqPf8k7fnPH8CPJQgW) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Blood of Jesus \(No Be Cho Cho Cho\)](https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx) | 2:20 |
 | 13 | [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 |
 | 14 | [Mesias \- Live](https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Mesias \(Live\)](https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP) | 12:23 |
 | 15 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 |

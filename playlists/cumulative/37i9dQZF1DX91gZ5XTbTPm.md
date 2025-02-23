@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: EST Gee
 
-1,078 songs - 2 day 1 hr 45 min
+1,079 songs - 2 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Hummingbird](https://open.spotify.com/track/0xtaW4t6ho5Y7dBJWHwVpd) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:41 | 2024-10-04 | 2024-10-12 |
 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Chill's Spotlight](https://open.spotify.com/artist/5CObhzKatYOMAeLHuFRedB) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 | 2022-02-04 | 2022-04-02 |
 | [Hypocrite](https://open.spotify.com/track/2PB32e8ny9osjbVql6aALO) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Hypocrite](https://open.spotify.com/album/3q3VbXaaam9as2iI8t7yUV) | 1:39 | 2024-11-15 | 2024-11-23 |
+| [HYPOCRITE](https://open.spotify.com/track/3ingEZQJcRPm956usULf2j) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [HYPOCRITE](https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS) | 2:14 | 2025-02-22 |  |
 | [I Ain’t Done Yet](https://open.spotify.com/track/5N5SRBufLOm9aNa28nWqxT) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [I Ain’t Done Yet](https://open.spotify.com/album/4z9eSqqeu1ywW7S6f5UYeI) | 2:26 | 2024-05-24 | 2024-06-29 |
 | [I Coulda Did More \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/5zbVolRIh0SAwzKnXU5cQI) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Still Grinding 4](https://open.spotify.com/album/2uY73Ndtd9cPcXYxA4KeHi) | 3:06 | 2022-06-24 | 2022-10-15 |
 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 | 2021-11-12 | 2022-02-19 |
@@ -813,7 +814,7 @@
 | [See Us](https://open.spotify.com/track/04FBRDqyjccu1VVKZKULa1) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [See Us](https://open.spotify.com/album/6SM23HeU5L6nBBgezvc0q8) | 2:10 | 2024-05-31 | 2024-06-15 |
 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 | 2023-04-28 | 2023-07-08 |
 | [SET IT OFF \(feat\. G Herbo\)](https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:37 | 2022-07-29 | 2022-10-15 |
-| [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-14 |  |
+| [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-14 | 2025-02-23 |
 | [SEVEN \(with Lil Wayne\)](https://open.spotify.com/track/0pMqb24GW0NLPVkVw8NMVT) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:31 | 2024-01-12 | 2024-01-27 |
 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 | 2024-05-24 | 2024-09-07 |
 | [Shake That A$$ Baby](https://open.spotify.com/track/19FFPF7lBVOomxN59L7UUK) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Shake That A$$ Baby](https://open.spotify.com/album/5VcgQj0bTAhewQa9FhJyy5) | 2:31 | 2022-05-27 | 2022-06-04 |

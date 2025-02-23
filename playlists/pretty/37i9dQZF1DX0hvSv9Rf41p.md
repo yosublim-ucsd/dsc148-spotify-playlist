@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Jessica Audiffred
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,114 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,119 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Satellite \- Wooli Remix](https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Satellite \(Wooli Remix\)](https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH) | 3:25 |
 | 100 | [Insane \(feat\. Smokey\)](https://open.spotify.com/track/5shITezD8AudYWChmZtz9T) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [GAWM](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Smokey](https://open.spotify.com/artist/3jxeWOIj5CnXfzYe4QBWz8) | [Insane \(feat\. Smokey\)](https://open.spotify.com/album/2H8HiM2kQdS0UB7uruMeXD) | 3:13 |
 
-Snapshot ID: `Z7kKNQAAAAAXQThO+GI0g9tNih+ESUQU`
+Snapshot ID: `Z7kKNQAAAAC14nzq0wBsku3BOusnDsnX`

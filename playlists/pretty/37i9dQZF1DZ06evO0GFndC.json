@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 58145,
+  "num_followers": 58165,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7ZwgAAAAABcU34zd8ft8swRMYG8WBZn",
+  "snapshot_id": "Z7fCAAAAAACokHX1myE/qvruAxWIk8OF",
   "tracks": [
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kilos De Oro",
-        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 220947,
-      "name": "Miran Mi Brillo",
-      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caravana de Carros",
         "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 220143,
       "name": "Caravana de Carros",
       "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kilos De Oro",
+        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 220947,
+      "name": "Miran Mi Brillo",
+      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
     },
     {
       "added_at": null,

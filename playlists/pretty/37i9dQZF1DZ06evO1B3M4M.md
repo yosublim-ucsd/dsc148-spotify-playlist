@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,346 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,350 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 42 | [The Crystal Chamber \- From "Atlantis: The Lost Empire"/Score](https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Atlantis: The Lost Empire](https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq) | 3:45 |
 | 43 | [In the Cells](https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:10 |
 | 44 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
-| 45 | [Running on Raindrops](https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 2:11 |
-| 46 | [A Watchful Guardian](https://open.spotify.com/track/3r3fWKSW1Vh71iXtDNpNbc) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Collectors Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S) | 6:42 |
+| 45 | [A Watchful Guardian](https://open.spotify.com/track/3r3fWKSW1Vh71iXtDNpNbc) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Collectors Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S) | 6:42 |
+| 46 | [Running on Raindrops](https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 2:11 |
 | 47 | [Tina Takes Newt In / Macusa Headquarters](https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:56 |
 | 48 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
 | 49 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
-| 50 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
+| 50 | [Why so Serious?](https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 9:14 |
 
-Snapshot ID: `Z7ZwgAAAAABiUz8XegbbOOk60X92wOjr`
+Snapshot ID: `Z7fCAAAAAAAEuha83QTz6iF8jxiFPYar`

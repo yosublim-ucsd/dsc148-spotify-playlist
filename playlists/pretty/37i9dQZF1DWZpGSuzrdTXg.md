@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,712 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,697 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 9 | [Soaking Skin](https://open.spotify.com/track/4NA7AmM3ZzekeRdAcVy3B7) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:04 |
 | 10 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 11 | [Defenseless](https://open.spotify.com/track/7lJRWdXp88DJecgWmEiGAR) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Defenseless](https://open.spotify.com/album/5nNXOc7Bd8eJQHs5Elsz5H) | 4:21 |
-| 12 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
+| 12 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
 | 13 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 |
 | 14 | [Life Support](https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Going My Own Way](https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW) | 2:41 |
 | 15 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |

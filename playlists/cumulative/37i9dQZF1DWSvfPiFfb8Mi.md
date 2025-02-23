@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-346 songs - 22 hr 53 min
+347 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-07-24 | 2023-08-07 |
 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 | 2024-05-24 |  |
 | [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 | 2023-09-30 |
-| [My General](https://open.spotify.com/track/705T4qya7JTqU47oJaipeZ) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [My General](https://open.spotify.com/album/2Ct37AYoKgP9tcjHLsdK33) | 3:48 | 2024-05-24 |  |
+| [My General](https://open.spotify.com/track/705T4qya7JTqU47oJaipeZ) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [My General](https://open.spotify.com/album/2Ct37AYoKgP9tcjHLsdK33) | 3:48 | 2024-05-24 | 2025-02-23 |
 | [Nektar](https://open.spotify.com/track/1of7gEdQHr4ZXUxYr8ougw) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO) | [Moon II](https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL) | 3:18 | 2021-07-24 | 2023-05-20 |
 | [NEVER ALONE](https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [NEVER ALONE](https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm) | 3:15 | 2024-06-17 |  |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-01-26 |  |
@@ -236,6 +236,7 @@
 | [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 | 2024-10-04 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 |  |
+| [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-02-21 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-25 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |
 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 | 2024-01-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: JENNIE & Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,668 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,744 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 |
 | 80 | [It's Cool](https://open.spotify.com/track/5BLWZtcf4jNmU2AdxSyF3y) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [It's Cool](https://open.spotify.com/album/07hbAkKKtuoWmqo89R5ryq) | 2:09 |
 
-Snapshot ID: `Z7gIbAAAAAAfEZuv0k1CPQy4hwxfIUU2`
+Snapshot ID: `Z7gIbAAAAAAt47lc183bdlSAy8HBiUj0`

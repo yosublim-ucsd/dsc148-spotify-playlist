@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。2月18日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,259 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,320 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Buddy Buddy](https://open.spotify.com/track/3twy2Ec8CTYpmIUHEYwOq0) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AWAKE](https://open.spotify.com/album/2tGKYczA68d9ykd1YXRvQI) | 2:11 |
 | 50 | [感電](https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:24 |
 
-Snapshot ID: `Z7fUCQAAAAAMX+UirCigoD6mlj4tdWaG`
+Snapshot ID: `Z7fUCQAAAADbey2bqgEaKKysoibrIYSn`

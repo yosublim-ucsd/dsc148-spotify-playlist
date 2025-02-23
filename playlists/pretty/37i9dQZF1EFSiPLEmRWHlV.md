@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 135 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286 likes - 135 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 47 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 |
 | 48 | [Focus](https://open.spotify.com/track/7edt9MgE07Bg96ApYPD4Pp) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/5zTzxif1tJENo9YoMbLFSR) | 4:12 |
 | 49 | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xY4usHueVpDIWU8P9FnkV) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/album/35UOwSRKvYnxQ6ikvHoQJb) | 2:39 |
-| 50 | [Imagine](https://open.spotify.com/track/6IxivWtrcSIjjmEFd4J7Cg) | [Next Habit](https://open.spotify.com/artist/2PPJ3ccorfps8VfCL6i8Rl) | [Imagine](https://open.spotify.com/album/78GyAR4aTtck5cVxlPkaCI) | 3:17 |
-| 51 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 50 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 51 | [Imagine](https://open.spotify.com/track/6IxivWtrcSIjjmEFd4J7Cg) | [Next Habit](https://open.spotify.com/artist/2PPJ3ccorfps8VfCL6i8Rl) | [Imagine](https://open.spotify.com/album/78GyAR4aTtck5cVxlPkaCI) | 3:17 |
 | 52 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
 | 53 | [Free \(with Alesso and Clementine Douglas\)](https://open.spotify.com/track/27f6xryEX9cpY0v1mbU83W) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:18 |
 | 54 | [Caught In Your Rhythm](https://open.spotify.com/track/2UjMBCiA9gdDoSguLxrbBP) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Caught In Your Rhythm](https://open.spotify.com/album/5DksuDz9GUGMV5vOmMBo7U) | 3:11 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 134 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 135 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbqNygAAAACN3aiEo1YeRWnjd4Oq0Du3`
+Snapshot ID: `AbqTiAAAAACbj56pxd/kOhmmrYFEDRNk`

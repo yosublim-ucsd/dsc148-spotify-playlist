@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 262121,
+  "num_followers": 262063,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "The Best Of The Waitresses",
-        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "The Waitresses",
-          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 320800,
-      "name": "Christmas Wrapping",
-      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "The Best Of The Waitresses",
+        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "The Waitresses",
+          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
+      "duration_ms": 320800,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 132108,
       "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
       "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
     },
     {
       "added_at": "2024-12-16 01:45:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 182788,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
         "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222560,
       "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
       "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Darling I Do",
         "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
@@ -1003,22 +987,6 @@
       "duration_ms": 181094,
       "name": "Darling I Do",
       "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1043,6 +1011,38 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Christmas (live from a restaurant in downtown Los Angeles)",
         "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "When I Get Home for Christmas",
-        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 256773,
-      "name": "When I Get Home for Christmas",
-      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1143,18 +1143,34 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "When I Get Home for Christmas",
+        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 256773,
+      "name": "When I Get Home for Christmas",
+      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Purple Snowflakes / This Wintertime",
+        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "This Wintertime",
+      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Purple Snowflakes / This Wintertime",
-        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "This Wintertime",
-      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 280152,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Learning to Crawl (US Release)",
         "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 280152,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
     },
     {
       "added_at": "2024-12-13 04:00:30",

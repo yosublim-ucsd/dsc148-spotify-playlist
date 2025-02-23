@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,545 songs - 2 day 10 hr 8 min
+1,546 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-10-15 |
 | [Chilling by the lake](https://open.spotify.com/track/3ZtI3F9EqlIfgDmtdlVJXb) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Chilling by the lake](https://open.spotify.com/album/57vXUREWBWEtyRkhDX17SV) | 2:08 | 2022-10-08 | 2023-09-22 |
 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 | 2022-12-16 | 2023-11-17 |
-| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 |  |
+| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 | 2025-02-23 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 | 2024-11-21 |
 | [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 | 2024-10-26 |
@@ -1076,6 +1076,7 @@
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-01-27 | 2022-09-03 |
 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 | 2022-01-27 | 2023-04-21 |
 | [Rainbower](https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Rainbower](https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC) | 2:08 | 2024-05-13 |  |
+| [Raindrops on Loops](https://open.spotify.com/track/3ELOos1ox4ZvVM5YOqJcT8) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Raindrops on Loops](https://open.spotify.com/album/28eXQS0MuALkaDVvtM4MVd) | 2:07 | 2025-02-21 |  |
 | [Rainy Garden](https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Rainy Garden](https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV) | 2:11 | 2024-08-30 | 2024-10-18 |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2022-11-11 |  |
 | [Ramen and Herb](https://open.spotify.com/track/7tSFbpe1KLESU6k3v2eBPA) | [Ferris Ferris](https://open.spotify.com/artist/54ePGakNB08wThnuKbgu8r) | [Ramen and Herb](https://open.spotify.com/album/4Dnkjwb9A8dHF6IcmQSUGI) | 2:17 | 2022-01-27 | 2023-04-21 |
