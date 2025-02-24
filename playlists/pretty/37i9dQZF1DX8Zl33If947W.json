@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 183401,
+  "num_followers": 183459,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Ja sagen",
-        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "\u00dcbermorgen",
         "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 163275,
       "name": "\u00dcbermorgen",
       "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Es ist Juli",
         "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
+      },
+      "artists": [
+        {
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -783,6 +799,38 @@
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Demo (Letzter Tag)",
+      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -803,38 +851,6 @@
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Herz",
-        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Liebe ist alles",
-      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -887,22 +903,6 @@
       "duration_ms": 238480,
       "name": "Tanz der Molek\u00fcle - Single Version",
       "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Demo (Letzter Tag)",
-      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2024-11-09 06:24:53",

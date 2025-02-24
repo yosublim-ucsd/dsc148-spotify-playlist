@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,336 likes - 175 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,531 likes - 175 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 174 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 |
 | 175 | [Bonez](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Bonez](https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj) | 3:16 |
 
-Snapshot ID: `Z7h2VwAAAABdPbMubcfbinduxaCfX3AT`
+Snapshot ID: `Z7h2VwAAAABPsaHgazSEnQPEUuLfvbNX`

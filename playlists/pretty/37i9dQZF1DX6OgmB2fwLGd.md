@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Nettspend\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,836 likes - 90 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,708 likes - 90 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 89 | [Oi \(Beat Da Koto Nai\)](https://open.spotify.com/track/0Awdz56YtMdTCJc5vfyp2F) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Deep End](https://open.spotify.com/album/5OlXjyMcCgbyvxUME1PhmG) | 2:22 |
 | 90 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 
-Snapshot ID: `Z7fYSAAAAAB7RpbLau+nMSoPAPETLLLw`
+Snapshot ID: `Z7fYSAAAAAAAcgoMpxV3D9Agly2wtbEM`

@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-156 songs - 7 hr 22 min
+157 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 | 2024-12-21 |
 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 | 2024-03-20 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-10-23 |  |
-| [Coastal Tranquility](https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Coastal Tranquility](https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t) | 2:38 | 2024-05-01 |  |
+| [Coastal Tranquility](https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Coastal Tranquility](https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t) | 2:38 | 2024-05-01 | 2025-02-24 |
 | [Collect Yourself](https://open.spotify.com/track/3qBoNbi7zFlDWskvLABEk1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Collect Yourself](https://open.spotify.com/album/5tegNKMknMihpIawkRlVeS) | 2:33 | 2024-05-01 | 2024-06-21 |
 | [Coral Charm](https://open.spotify.com/track/6ar5W5FvBDOHZ3kHNykFjT) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Coral Charm](https://open.spotify.com/album/08AJExHa1viMJrtBVWvZOs) | 2:58 | 2025-01-15 | 2025-02-19 |
 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 | 2025-01-15 | 2025-02-19 |
@@ -156,6 +156,7 @@
 | [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 | 2025-01-14 |
 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 | 2023-10-23 |  |
 | [Warm Sandy Beaches](https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Warm Sandy Beaches](https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU) | 3:02 | 2023-10-26 |  |
+| [Warm Wind](https://open.spotify.com/track/2vVWDG7IxZPmInVMbEr9Su) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Warm Wind](https://open.spotify.com/album/5Rx7auDEDHNCEGVdNB5Hi4) | 2:58 | 2025-02-18 |  |
 | [Wavelines](https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Wavelines](https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL) | 2:28 | 2023-10-23 |  |
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-10-23 |  |
 | [Waves](https://open.spotify.com/track/3GvIP3HSvU0GqKVZkTlpHt) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Waves](https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m) | 2:07 | 2024-11-22 |  |

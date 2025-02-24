@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: GRACE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,613 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,661 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

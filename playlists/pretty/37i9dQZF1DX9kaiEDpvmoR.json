@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92815,
+  "num_followers": 92818,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "About A Woman",
         "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -371,26 +371,6 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Have The Heart (Feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -443,6 +423,26 @@
       "duration_ms": 212163,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Have The Heart (Feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 164700,
-      "name": "Isn\u2019t That Enough",
-      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2025",
         "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180677,
       "name": "Mamma sa",
       "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 164700,
+      "name": "Isn\u2019t That Enough",
+      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Somliga av oss",
-        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Det b\u00e4sta av allt",
-      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Bastard",
         "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Sparv\u00f6ga / I skydd av m\u00f6rkret",
-        "url": "https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f"
+        "name": "Somliga av oss",
+        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
         }
       ],
-      "duration_ms": 200964,
-      "name": "Sparv\u00f6ga",
-      "url": "https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz"
+      "duration_ms": 206000,
+      "name": "Det b\u00e4sta av allt",
+      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -727,6 +711,22 @@
       "duration_ms": 182305,
       "name": "Som att jag bryr mig",
       "url": "https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Sparv\u00f6ga / I skydd av m\u00f6rkret",
+        "url": "https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Sparv\u00f6ga",
+      "url": "https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        }
-      ],
-      "duration_ms": 245376,
-      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "WIND BLOW",
+        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
+        }
+      ],
+      "duration_ms": 205804,
+      "name": "WIND BLOW",
+      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "duration_ms": 245376,
+      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -871,22 +887,6 @@
       "duration_ms": 208592,
       "name": "The Game",
       "url": "https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "WIND BLOW",
-        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Dixg\u00e5rd",
-          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
-        }
-      ],
-      "duration_ms": 205804,
-      "name": "WIND BLOW",
-      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Where Flowers Grow",
-        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 186920,
       "name": "Living Comes With Dying",
       "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Where Flowers Grow",
+        "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Badass High School Band",
-        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "Badass High School Band",
-      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "Badass High School Band",
+        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "Badass High School Band",
+      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "A Sinner's Life",
-        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 187137,
-      "name": "A Sinner's Life",
-      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1203,6 +1187,22 @@
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "A Sinner's Life",
+        "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 187137,
+      "name": "A Sinner's Life",
+      "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
-        "name": "Min far",
-        "url": "https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 208983,
-      "name": "Min far",
-      "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
         "name": "Love vs. The World",
         "url": "https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Min far",
+        "url": "https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 208983,
+      "name": "Min far",
+      "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-02-20 23:00:35",
       "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -1443,6 +1459,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-02-20 23:00:35",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-02-20 23:00:35",
@@ -1463,38 +1495,6 @@
       "duration_ms": 191379,
       "name": "Zoe",
       "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
-    },
-    {
-      "added_at": "2025-02-20 23:00:35",
-      "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     }
   ],
   "unique_name": "Aktuellt",

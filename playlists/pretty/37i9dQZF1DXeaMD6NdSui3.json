@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 155900,
+  "num_followers": 155964,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Getting Ready... (World)",
@@ -137,22 +153,6 @@
       "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
@@ -171,38 +171,6 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -239,6 +207,54 @@
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -291,18 +307,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+      "duration_ms": 189040,
+      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -373,26 +393,6 @@
       "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
-      },
-      "artists": [
-        {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "I Know What It's Like",
@@ -427,22 +427,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Return Of The Radio Avengers",
-        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
-      },
-      "artists": [
-        {
-          "name": "Ezra Charles",
-          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "88 Answers",
-      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Bluesman for Life",
         "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 310480,
       "name": "Bluesman for Life - Remastered",
       "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Return Of The Radio Avengers",
+        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+      },
+      "artists": [
+        {
+          "name": "Ezra Charles",
+          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "88 Answers",
+      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -711,22 +711,6 @@
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -811,6 +795,22 @@
       "duration_ms": 293293,
       "name": "Mojo Boogie",
       "url": "https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
     },
     {
       "added_at": "2016-03-18 21:56:19",

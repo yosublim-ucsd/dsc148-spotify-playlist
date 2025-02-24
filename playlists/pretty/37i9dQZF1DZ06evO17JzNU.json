@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 26807,
+  "num_followers": 26815,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAACTRaHfB4R/coLPW+/RXP1A",
+  "snapshot_id": "Z7kTgAAAAADbApdh3XrOaUuPJCUXjxX0",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Steps",
+        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Bloody Steps",
+      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202754,
       "name": "NOS TORCIERON",
       "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Steps",
-        "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Bloody Steps",
-      "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 126160,
-      "name": "VIDA DE FAMOSO",
-      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Nuevo Dia",
         "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195995,
       "name": "Un Nuevo Dia",
       "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 126160,
+      "name": "VIDA DE FAMOSO",
+      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nos Acoplamos Macizo",
+        "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 246059,
+      "name": "Nos Acoplamos Macizo",
+      "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -847,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bikini Dior",
-        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Bikini Dior",
-      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORRIDOS CHAKALOSOS II",
         "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
       },
@@ -879,22 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Acoplamos Macizo",
-        "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
+        "name": "Bikini Dior",
+        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 246059,
-      "name": "Nos Acoplamos Macizo",
-      "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
+      "duration_ms": 188546,
+      "name": "Bikini Dior",
+      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's Country crop. Cover: Tucker Wetmore",
-  "num_followers": 425225,
+  "num_followers": 425235,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7cnkAAAAACF/bRlys6GN4lUVTRLKUjQ",
+  "snapshot_id": "Z7u89wAAAABRYNikBt2nWXZ793Xl0lVP",
   "tracks": [
     {
       "added_at": "2025-02-20 13:01:04",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-02-20 13:01:04",
       "album": {
-        "name": "Love The Lights Out",
-        "url": "https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Love The Lights Out",
-      "url": "https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD"
-    },
-    {
-      "added_at": "2025-02-20 13:01:04",
-      "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": "2025-02-20 13:01:04",
+      "album": {
+        "name": "Love The Lights Out",
+        "url": "https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Love The Lights Out",
+      "url": "https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD"
     },
     {
       "added_at": "2025-02-20 13:01:04",
@@ -143,38 +143,6 @@
     {
       "added_at": "2025-02-20 13:01:04",
       "album": {
-        "name": "Leave Me Too",
-        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Leave Me Too",
-      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
-    },
-    {
-      "added_at": "2025-02-20 13:01:04",
-      "album": {
-        "name": "She Hates Me",
-        "url": "https://open.spotify.com/album/08SPNNSczUGCea325dQcEY"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 170715,
-      "name": "She Hates Me",
-      "url": "https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM"
-    },
-    {
-      "added_at": "2025-02-20 13:01:04",
-      "album": {
         "name": "Nobody Likes Your Girlfriend",
         "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
       },
@@ -211,18 +179,18 @@
     {
       "added_at": "2025-02-20 13:01:04",
       "album": {
-        "name": "I'd Be Delighted",
-        "url": "https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX"
+        "name": "Leave Me Too",
+        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
       },
       "artists": [
         {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 226640,
-      "name": "I'd Be Delighted",
-      "url": "https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF"
+      "duration_ms": 191928,
+      "name": "Leave Me Too",
+      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
     },
     {
       "added_at": "2025-02-20 13:01:04",
@@ -243,6 +211,42 @@
     {
       "added_at": "2025-02-20 13:01:04",
       "album": {
+        "name": "Country Is Coming To Town",
+        "url": "https://open.spotify.com/album/64oRoi0CXSpMDtXYLL5rlI"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Country Is Coming To Town",
+      "url": "https://open.spotify.com/track/1Vzthm0II4q351e5rMQ5Jy"
+    },
+    {
+      "added_at": "2025-02-20 13:01:04",
+      "album": {
+        "name": "I'd Be Delighted",
+        "url": "https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "I'd Be Delighted",
+      "url": "https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF"
+    },
+    {
+      "added_at": "2025-02-20 13:01:04",
+      "album": {
         "name": "300 Miles",
         "url": "https://open.spotify.com/album/3tvtNfnAeN5u2dl7OR0SwY"
       },
@@ -259,18 +263,18 @@
     {
       "added_at": "2025-02-20 13:01:04",
       "album": {
-        "name": "Nothing Better",
-        "url": "https://open.spotify.com/album/5S7mpB6Ji50Qe9EDGSkUaZ"
+        "name": "She Hates Me",
+        "url": "https://open.spotify.com/album/08SPNNSczUGCea325dQcEY"
       },
       "artists": [
         {
-          "name": "Andrew Swift",
-          "url": "https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 185881,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/2XwiXIlCe0p5s4jbR9R7Lb"
+      "duration_ms": 170715,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM"
     },
     {
       "added_at": "2025-02-20 13:01:04",
@@ -287,6 +291,22 @@
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
+    },
+    {
+      "added_at": "2025-02-20 13:01:04",
+      "album": {
+        "name": "Nothing Better",
+        "url": "https://open.spotify.com/album/5S7mpB6Ji50Qe9EDGSkUaZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Swift",
+          "url": "https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd"
+        }
+      ],
+      "duration_ms": 185881,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/2XwiXIlCe0p5s4jbR9R7Lb"
     },
     {
       "added_at": "2025-02-20 13:01:04",
@@ -323,26 +343,6 @@
       "duration_ms": 206613,
       "name": "Prodigal Daughter (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX"
-    },
-    {
-      "added_at": "2025-02-20 13:01:04",
-      "album": {
-        "name": "Country Is Coming To Town",
-        "url": "https://open.spotify.com/album/64oRoi0CXSpMDtXYLL5rlI"
-      },
-      "artists": [
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Country Is Coming To Town",
-      "url": "https://open.spotify.com/track/1Vzthm0II4q351e5rMQ5Jy"
     },
     {
       "added_at": "2025-02-20 13:01:04",

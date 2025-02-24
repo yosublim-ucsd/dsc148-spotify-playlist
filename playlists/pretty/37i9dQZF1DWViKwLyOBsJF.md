@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,306 likes - 73 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,296 likes - 73 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 19 | [Oh Tannenbaum](https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Oh Tannenbaum](https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh) | 3:03 |
 | 20 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 |
 | 21 | [Jingle Bells](https://open.spotify.com/track/5J0I2BZoTbwDGb0xVHeLxH) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Jingle Bells](https://open.spotify.com/album/3hhWNtsieXhLwJNUS9l5nX) | 2:01 |
-| 22 | [O Christmas Tree](https://open.spotify.com/track/5FERb4gvizAN9MVKaJdzLO) | [Volaire](https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn) | [O Christmas Tree](https://open.spotify.com/album/2B7gq2QJbNxwQZ3Bl6Ezv4) | 2:19 |
+| 22 | [O Christmas Tree](https://open.spotify.com/track/5FERb4gvizAN9MVKaJdzLO) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [O Christmas Tree](https://open.spotify.com/album/2B7gq2QJbNxwQZ3Bl6Ezv4) | 2:19 |
 | 23 | [O Holy Night \- For Two Cellos](https://open.spotify.com/track/1kzmVfBQ7pNcj2M0JLPLWF) | [Mr & Mrs Cello](https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7) | [Christmas Carols for Two Cellos](https://open.spotify.com/album/0Rjt9kkTy2F8Tcd54uM2WX) | 4:02 |
 | 24 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 |
 | 25 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |

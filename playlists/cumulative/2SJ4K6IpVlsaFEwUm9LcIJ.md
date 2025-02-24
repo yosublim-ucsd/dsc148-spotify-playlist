@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-465 songs - 1 day 2 hr 8 min
+466 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-14 | 2024-07-12 |
 | [Are You Lonesome Like Me?](https://open.spotify.com/track/7eXefSw0omrWAzAj9bPHdg) | [The Feminine Complex](https://open.spotify.com/artist/01KjnhCy6NazKcRifV68Mm) | [Livin' Love](https://open.spotify.com/album/0k5SeppJRa4SbJnaISfFqf) | 2:52 | 2024-04-25 | 2024-05-16 |
 | [Are You Really on Drugs?](https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Mister Pop](https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9) | 2:46 | 2024-12-27 | 2025-01-12 |
+| [Art Lovers](https://open.spotify.com/track/2t1432gcPePXsmsZcEc2mp) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 4:57 | 2025-02-23 |  |
 | [Asante Kwa Wazazi](https://open.spotify.com/track/6Zaqb7DJnPFrnkSukMmPWM) | [Marehemu George Mukabi](https://open.spotify.com/artist/5Tv7EcBYZgPCHZrcX4GNBQ) | [Sengula Nakupenda](https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF) | 2:50 | 2024-07-26 | 2024-09-08 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |

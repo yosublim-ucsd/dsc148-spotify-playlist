@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Feb 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Feb 19:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2925,11 +2925,11 @@
         },
         {
           "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/6fmhVXwUMitRwDRCJVIxmA"
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
         },
         {
           "name": "SWIM",
-          "url": "https://open.spotify.com/artist/2u96w3T0EikMkttEFzKBxb"
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
         }
       ],
       "date_added": "2025-02-21",
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 182650,
       "name": "All The Love Is Gone",
       "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
@@ -10804,6 +10804,24 @@
       "duration_ms": 192866,
       "name": "Broken Boys",
       "url": "https://open.spotify.com/track/52JyhKOgnZjDWeLDpi6u9u"
+    },
+    {
+      "album": {
+        "name": "brokin bonez",
+        "url": "https://open.spotify.com/album/44Xz7mAZ4Z9pgsSGPvdOkK"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135976,
+      "name": "brokin bonez",
+      "url": "https://open.spotify.com/track/2Ia6IkDTLKN45BGvwgxqX2"
     },
     {
       "album": {
@@ -19388,6 +19406,28 @@
       "duration_ms": 355733,
       "name": "Don't Get Me Started",
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
+    },
+    {
+      "album": {
+        "name": "Don't Get Me Started / Instant Psalm (Remixes)",
+        "url": "https://open.spotify.com/album/4ei11oe8tjJ4HCwiNieexD"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        },
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474924,
+      "name": "Don't Get Me Started - James Holden Remix",
+      "url": "https://open.spotify.com/track/0hgb6Zf6O5rxYGYgN2RewP"
     },
     {
       "album": {
@@ -28843,6 +28883,24 @@
     },
     {
       "album": {
+        "name": "Goon Show",
+        "url": "https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306146,
+      "name": "Goon Show",
+      "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
+    },
+    {
+      "album": {
         "name": "GORILLA SHIBAI",
         "url": "https://open.spotify.com/album/28fbDaCwRPFRbcLlyz6JRj"
       },
@@ -30526,7 +30584,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 200526,
       "name": "Heart So Pure",
       "url": "https://open.spotify.com/track/6aNc7ED3So09tSqr6y8nJ2"
@@ -32228,7 +32286,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 194969,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40"
@@ -38396,6 +38454,24 @@
       "duration_ms": 142146,
       "name": "KiCKIN",
       "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
+    },
+    {
+      "album": {
+        "name": "Kid & Leveret",
+        "url": "https://open.spotify.com/album/06EK1nrUNdGIfJqJK50yNV"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313405,
+      "name": "Kid & Leveret",
+      "url": "https://open.spotify.com/track/67k5hyLeNqd8HueETh1qBh"
     },
     {
       "album": {
@@ -46800,6 +46876,24 @@
       "duration_ms": 156363,
       "name": "MUZEU",
       "url": "https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y"
+    },
+    {
+      "album": {
+        "name": "MxstHated / Sxld My Sxul",
+        "url": "https://open.spotify.com/album/2cq1sqjm5df3ryvoI3xnim"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141090,
+      "name": "MxstHated",
+      "url": "https://open.spotify.com/track/1OKdwDDv4Hx2Ull8xpCvm2"
     },
     {
       "album": {
@@ -56105,6 +56199,24 @@
     },
     {
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/4LD1uDOWIXub9KVhXebZAO"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164079,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/7qCojYqfbCKWVb0lDGpfCv"
+    },
+    {
+      "album": {
         "name": "Raving",
         "url": "https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf"
       },
@@ -57918,7 +58030,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 186000,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL"
@@ -65884,7 +65996,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 206466,
       "name": "Sun Don't Leave Me",
       "url": "https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m"
@@ -70041,6 +70153,24 @@
     },
     {
       "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
+    },
+    {
+      "album": {
         "name": "THE REASON WE FIGHT",
         "url": "https://open.spotify.com/album/7q4OTMHgBrq6esXoxW38ji"
       },
@@ -70976,7 +71106,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 147490,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/7tO4gkdJKHafJQMdJaWqZn"
@@ -72450,7 +72580,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 176720,
       "name": "Toxic Romantic",
       "url": "https://open.spotify.com/track/2IAvl3s4wnIcri2fv6PNNs"

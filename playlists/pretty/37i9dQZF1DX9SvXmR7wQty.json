@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Moffatt",
-  "num_followers": 43766,
+  "num_followers": 43773,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
         "name": "LIFE",
         "url": "https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
         "name": "High & Fines Herbes - La Saison 5",
         "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 170680,
       "name": "L.F.O.L.F (feat. Leto)",
       "url": "https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 116786,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -643,6 +659,26 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
+        "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
+        "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 199224,
+      "name": "J'ai zay\u00e9",
+      "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
+    },
+    {
+      "added_at": "2025-02-21 05:00:28",
+      "album": {
         "name": "C'est l'heure",
         "url": "https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5"
       },
@@ -655,22 +691,6 @@
       "duration_ms": 149306,
       "name": "C'est l'heure",
       "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 116786,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-02-21 05:00:28",
@@ -851,26 +871,6 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
-        "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 199224,
-      "name": "J'ai zay\u00e9",
-      "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:28",
-      "album": {
         "name": "Fille lacrymale",
         "url": "https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-02-21 05:00:28",
       "album": {
-        "name": "Je veux",
-        "url": "https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7"
+        "name": "Imad, la suite",
+        "url": "https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC"
       },
       "artists": [
         {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Je veux",
-      "url": "https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS"
+      "duration_ms": 143906,
+      "name": "La vraie vie",
+      "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

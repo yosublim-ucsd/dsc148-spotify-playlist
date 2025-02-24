@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,586 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,595 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 50 | [LA BALADA](https://open.spotify.com/track/7CTyrGSh3b4wgNlb4XQN7c) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LA BALADA](https://open.spotify.com/album/0DHAxtCoUwyXVGoMYzHSNj) | 2:35 |
 
-Snapshot ID: `Z7OBVgAAAACbY7M1vf+rHTTgREBVdOMa`
+Snapshot ID: `Z7OBVgAAAAA1TL+mfk2kib53oTTxbCTc`

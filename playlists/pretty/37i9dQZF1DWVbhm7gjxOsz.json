@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 102842,
+  "num_followers": 102939,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Fabulous Miracles",
         "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 141329,
       "name": "Gimme Little Sign",
       "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 178986,
       "name": "I'm Your Puppet",
       "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
-      },
-      "artists": [
-        {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 240866,
       "name": "Don't Let No One Get You Down",
       "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 252280,
       "name": "Going In Circles",
       "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Turn off the Lights: Sweet Soul Music",
         "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 167146,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Essential Deniece Williams (The Columbia Years)",
-        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 120800,
       "name": "Smile Now, Cry Later",
       "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Essential Deniece Williams (The Columbia Years)",
+        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Gap Band",
-        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 376640,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 163160,
       "name": "Tired Of Being Alone",
       "url": "https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Gap Band",
+        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 376640,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "SalSoul",
+        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Mujer Mia",
+      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Solid Gold Northern Soul",
         "url": "https://open.spotify.com/album/4IUMwDgxFzz1GDtg6zx8qC"
       },
@@ -2259,6 +2275,22 @@
       "duration_ms": 160080,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Very Best of the Stylistics ... And More!",
+        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2371,22 +2403,6 @@
       "duration_ms": 198400,
       "name": "Betcha By Golly, Wow",
       "url": "https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "SalSoul",
-        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Mujer Mia",
-      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2507,22 +2523,6 @@
       "duration_ms": 178000,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "The Very Best of the Stylistics ... And More!",
-        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
     }
   ],
   "unique_name": "Lowrider Crusin'",

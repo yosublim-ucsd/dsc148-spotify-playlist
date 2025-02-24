@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,115 likes - 106 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,123 likes - 106 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

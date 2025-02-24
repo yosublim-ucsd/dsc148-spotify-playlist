@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 25 | [GO FAT BOY](https://open.spotify.com/track/39mg0KGwyp5276g9OFii77) | [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4) | [AMERICA'S SWEETHEART](https://open.spotify.com/album/6EedXrWvPYiJ7Bm5867Oke) | 3:14 |
 | 26 | [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 |
 | 27 | [bad](https://open.spotify.com/track/51mCedmIiJ3PUBGksOW8np) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [bad](https://open.spotify.com/album/1Bqe3ggwb9ElvgpsUBRegQ) | 2:25 |
-| 28 | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
+| 28 | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
 | 29 | [Party On The Westside](https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Party On The Westside](https://open.spotify.com/album/6nVmBvD9jQfTILcWkFT50r) | 3:29 |
 | 30 | [Enjoy The Show \(feat\. Future\)](https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
 | 31 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |

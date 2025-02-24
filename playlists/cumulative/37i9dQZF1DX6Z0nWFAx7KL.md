@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-293 songs - 14 hr 34 min
+294 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 | 2024-11-14 | 2025-02-08 |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
+| [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 | 2025-02-20 |  |
 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 | 2024-12-15 |
 | [Inside My Love](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ) | 2:28 | 2024-03-21 | 2024-04-19 |
 | [Inside My Love](https://open.spotify.com/track/47yLW6AY0mHHVMKlTGssZj) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/2OisRBCsbL1WNwFmenCQbR) | 2:28 | 2024-07-26 | 2024-12-13 |
@@ -222,7 +223,7 @@
 | [Rewind](https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Rewind](https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp) | 2:41 | 2023-06-29 | 2025-01-03 |
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 |  |
 | [Room](https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Room](https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV) | 2:58 | 2022-09-15 | 2024-08-31 |
-| [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 | 2023-08-31 |  |
+| [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 | 2023-08-31 | 2025-02-24 |
 | [Safe and Sound](https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Safe and Sound](https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq) | 3:34 | 2024-07-26 |  |
 | [Sandcastles](https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Sandcastles](https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk) | 2:18 | 2024-08-30 |  |
 | [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 | 2023-03-23 | 2024-09-27 |

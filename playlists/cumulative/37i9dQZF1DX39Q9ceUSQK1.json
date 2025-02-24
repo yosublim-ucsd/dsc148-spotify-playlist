@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Blindness",
+        "url": "https://open.spotify.com/album/6iHeiGA6OWYJ4RVkvby44P"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160080,
+      "name": "A Distant Life",
+      "url": "https://open.spotify.com/track/4HUdjdUl6IGFXadkwc3W0A"
+    },
+    {
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },

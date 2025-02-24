@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2166464,
+  "num_followers": 2166394,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -235,6 +251,22 @@
       "duration_ms": 232866,
       "name": "Time Stands",
       "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -267,38 +299,6 @@
       "duration_ms": 171576,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
         "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 303626,
       "name": "Lockdown On Date Night Tuesday",
       "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "St. Augustine",
-        "url": "https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 210689,
-      "name": "St. Augustine",
-      "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "What Will We Do",
         "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 270226,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "St. Augustine",
+        "url": "https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 210689,
+      "name": "St. Augustine",
+      "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N"
-      },
-      "artists": [
-        {
-          "name": "Honeysuckle",
-          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Greenline",
-      "url": "https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Breast of Glass/Frolic",
         "url": "https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N"
+      },
+      "artists": [
+        {
+          "name": "Honeysuckle",
+          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Greenline",
+      "url": "https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "The Woods (Acoustic)",
+        "url": "https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "The Woods - Acoustic",
+      "url": "https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "The Woods - Acoustic",
-      "url": "https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1559,6 +1559,54 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/4KnNIPnhyfsL1EJMsk0XeO"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2pU5gIulfIITLJw6F38IMK"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Love Anyway",
+        "url": "https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 183456,
+      "name": "Love Anyway",
+      "url": "https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Tell Me What You Want from Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2nzIJQNWRRKp1w4fJBbCrJ"
+      },
+      "artists": [
+        {
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Tell Me What You Want from Me - Acoustic",
+      "url": "https://open.spotify.com/track/5d6oKXvKIYBF0CThg58v5a"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Desdemona",
         "url": "https://open.spotify.com/album/3xXDyEwHqzDmXN5R6H65jx"
       },
@@ -1603,54 +1651,6 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/66zVzafJU6HTogOQeeNv5y"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Our Endless Numbered Days",
-        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152626,
-      "name": "Naked As We Came",
-      "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Blind in the Fray",
-        "url": "https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 212354,
-      "name": "Blind in the Fray",
-      "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
     }
   ],
   "unique_name": "Afternoon Acoustic",

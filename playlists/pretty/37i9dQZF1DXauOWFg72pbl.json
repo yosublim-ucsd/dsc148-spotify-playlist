@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 590169,
+  "num_followers": 590185,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2024-06-24 17:09:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 205653,
       "name": "State of My Head",
       "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "bad for you",
-        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 114095,
-      "name": "bad for you",
-      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "bad for you",
+        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 114095,
+      "name": "bad for you",
+      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Cold War Kids",
         "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 192654,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Ten Tonne Skeleton",
-      "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Ten Tonne Skeleton",
+      "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331573,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Quick Escape",
         "url": "https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 286573,
       "name": "Quick Escape",
       "url": "https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331573,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 274281,
-      "name": "The Way You Used to Do",
-      "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 274281,
+      "name": "The Way You Used to Do",
+      "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
     },
     {
       "added_at": "2024-04-19 04:00:00",

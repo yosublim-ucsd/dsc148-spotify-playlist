@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sam Fender \(pictured\), Tate McRae, Pozer and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,115 likes - 121 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,151 likes - 121 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 21 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 22 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 |
 | 23 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 |
-| 24 | [I'm a Roller](https://open.spotify.com/track/7xuqb3kfDqNCCyG0cDlIQt) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [I'm a Roller](https://open.spotify.com/album/0E8GiFFwmOT8oJ1esR26uZ) | 2:22 |
+| 24 | [I'm a Roller \(La\-Di\-Da\-Di\)](https://open.spotify.com/track/7xuqb3kfDqNCCyG0cDlIQt) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [I'm a Roller \(La\-Di\-Da\-Di\)](https://open.spotify.com/album/0E8GiFFwmOT8oJ1esR26uZ) | 2:22 |
 | 25 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
 | 26 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 |
 | 27 | [the occasion](https://open.spotify.com/track/0Xs0mRmlrmCfivQ3O5PSJC) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [the occasion](https://open.spotify.com/album/3i6GNFqyBRnDvUWU3nK1RO) | 3:21 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 120 | [Let Me Down](https://open.spotify.com/track/4C8CpPK9C1HBGj92ecSawD) | [Ashaine White](https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05) | [Let Me Down](https://open.spotify.com/album/4yCFl5Tol0tHcjfO32UVKz) | 3:36 |
 | 121 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 
-Snapshot ID: `Z7hIEAAAAADl1TEpxBRp4stN82bDZkRI`
+Snapshot ID: `Z7hIEAAAAADppSGHVG71bCX/EXds5Ari`

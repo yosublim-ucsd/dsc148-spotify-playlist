@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Sharon Van Atten & The Attachment Theory",
-  "num_followers": 92804,
+  "num_followers": 92812,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 226235,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
@@ -405,20 +385,24 @@
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
-      "added_at": "2025-02-13 21:45:48",
+      "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Mega Circuit",
-        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 184933,
-      "name": "Mega Circuit",
-      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -455,6 +439,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "There's Always Gonna Be Something",
+        "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 242878,
+      "name": "There\u2019s Always Gonna Be Something",
+      "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
-      "added_at": "2025-02-07 17:36:47",
+      "added_at": "2025-02-13 21:45:48",
       "album": {
-        "name": "There's Always Gonna Be Something",
-        "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
+        "name": "Mega Circuit",
+        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 242878,
-      "name": "There\u2019s Always Gonna Be Something",
-      "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
+      "duration_ms": 184933,
+      "name": "Mega Circuit",
+      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 278471,
       "name": "Black Sand",
       "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -613,6 +613,26 @@
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
     },
     {
+      "added_at": "2025-02-13 21:45:48",
+      "album": {
+        "name": "Back in the Game",
+        "url": "https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Back in the Game",
+      "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
+    },
+    {
       "added_at": "2025-02-07 17:36:47",
       "album": {
         "name": "Afterlife",
@@ -643,26 +663,6 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
-    },
-    {
-      "added_at": "2025-02-13 21:45:48",
-      "album": {
-        "name": "Back in the Game",
-        "url": "https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Back in the Game",
-      "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Floating Parade",
         "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Brushstrokes of Reunion",
+        "url": "https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 215380,
+      "name": "Brushstrokes of Reunion",
+      "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Don't Want To Dance",
-        "url": "https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 182128,
-      "name": "Don't Want To Dance",
-      "url": "https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Empty And Silent (feat. King Krule)",
         "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Don't Want To Dance",
+        "url": "https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 182128,
+      "name": "Don't Want To Dance",
+      "url": "https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 211245,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Brushstrokes of Reunion",
-        "url": "https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 215380,
-      "name": "Brushstrokes of Reunion",
-      "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Clouds In The Sky They Will Always Be There For Me",
+        "url": "https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "God Of Everything Else",
+      "url": "https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Liquid Gold 25",
         "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 267969,
       "name": "Liquid Gold 25",
       "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Clouds In The Sky They Will Always Be There For Me",
-        "url": "https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd"
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
         }
       ],
-      "duration_ms": 204880,
-      "name": "God Of Everything Else",
-      "url": "https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB"
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
       },
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "SHHHHHHH!",
-        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 117876,
-      "name": "Time For Slurp",
-      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
+      "duration_ms": 189493,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1431,6 +1415,22 @@
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "SHHHHHHH!",
+        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 117876,
+      "name": "Time For Slurp",
+      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Don't Ask",
         "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
       },
@@ -1559,22 +1543,6 @@
       "duration_ms": 245985,
       "name": "Don't Ask",
       "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Mood Swings - Spotify Singles",
-      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1595,18 +1563,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "How We See The Light",
-        "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
       "artists": [
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 285375,
-      "name": "How We See The Light",
-      "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1639,6 +1607,38 @@
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "How We See The Light",
+        "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "How We See The Light",
+      "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     }
   ],
   "unique_name": "The Listening Post",

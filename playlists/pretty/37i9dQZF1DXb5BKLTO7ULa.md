@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,075 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,072 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Ik Sta Niet Meer Droog](https://open.spotify.com/track/445x60Jpapp5OS7wtLqKe2) | [Gullie](https://open.spotify.com/artist/73qkoyU06a6hJGCH8MInEW) | [Ik Sta Niet Meer Droog](https://open.spotify.com/album/74Y9H3HP4XhBYrS5HS7X1A) | 3:10 |
 | 99 | [Band Met Jou Beginnen](https://open.spotify.com/track/2JVGtvdtpVTmDFK8K1VVgB) | [C.V\. De GiErBoYs](https://open.spotify.com/artist/6ae2uDrp401Mvw0jIXGKfm) | [Band Met Jou Beginnen](https://open.spotify.com/album/0TSChyswqysUnRrd3jIzXH) | 2:39 |
 
-Snapshot ID: `Z7fCEgAAAAAJhQZcb2NLs3LAuc/KJTo0`
+Snapshot ID: `Z7fCEgAAAAAqXTtVaO+nnT6HTeh3vL9o`

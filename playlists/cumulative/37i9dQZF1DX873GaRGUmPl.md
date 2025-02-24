@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-342 songs - 22 hr 51 min
+343 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 | 2021-11-15 | 2022-07-15 |
 | [A Simple Beautiful Truth](https://open.spotify.com/track/5fSYa5nWhKWQ541DGJU1bt) | [Wild Beasts](https://open.spotify.com/artist/4zrFO6P7G6EZry0pfxMfKT) | [Present Tense](https://open.spotify.com/album/20Tyli2vDyMTckH7CGMtqL) | 2:35 | 2021-11-15 | 2022-07-29 |
 | [After the Disco](https://open.spotify.com/track/1MmDfBzGsWKXb0rQfTyvOy) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:39 | 2022-02-21 | 2022-07-28 |
+| [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 | 2022-09-29 |  |
 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 | 2021-11-15 |  |
 | [All About Us](https://open.spotify.com/track/0i8kHebyWeaOocWPEJHC3y) | [TEEN](https://open.spotify.com/artist/6sZmvh4GUCek0kNwoSv2Fa) | [All About Us](https://open.spotify.com/album/3YGVxBTCN5NNWFLkAVrdNX) | 3:47 | 2022-02-21 | 2022-07-25 |
 | [All Mirrors](https://open.spotify.com/track/5Zcry3zaBmgJrtQ78XEJQf) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0) | 4:42 | 2022-02-21 | 2022-06-01 |
@@ -139,7 +140,7 @@
 | [I Feel](https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [I Feel](https://open.spotify.com/album/1QFPoF5sG2ufYfPbw5xCa2) | 3:49 | 2021-11-15 | 2022-07-27 |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2022-09-29 |  |
 | [I Love You, Honeybear](https://open.spotify.com/track/6WFV9HowZft8fw5eg9IpPA) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 4:38 | 2021-11-15 | 2022-07-29 |
-| [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2021-11-15 |  |
+| [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2021-11-15 | 2025-02-24 |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2022-02-21 | 2024-04-15 |
 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 | 2022-02-21 | 2022-03-09 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-02-21 | 2022-10-13 |

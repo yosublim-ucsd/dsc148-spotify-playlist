@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,855 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,838 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 |
 | 100 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
 
-Snapshot ID: `Z7gIeAAAAACdvqv03emuagU/ZhcOWfFJ`
+Snapshot ID: `Z7gIeAAAAABgL5APt6FjC5rDNp3vWeYX`

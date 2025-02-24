@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 88 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 89 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 44 | [Não Volto Atrás \- Ao Vivo](https://open.spotify.com/track/2ITVC2UbjOGv72r1J73MNQ) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Thiago Ramos](https://open.spotify.com/artist/3bchq3xt62dwKjrbbF3MYN) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 4:29 |
 | 45 | [Digno \- Ao Vivo](https://open.spotify.com/track/3BV588K3wDvZnCEthzvOzp) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:29 |
 | 46 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
-| 47 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
-| 48 | [Bom Bom Pai](https://open.spotify.com/track/5ikQsaOvdSZuLS9yCXXojx) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:08 |
+| 47 | [Bom Bom Pai](https://open.spotify.com/track/5ikQsaOvdSZuLS9yCXXojx) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:08 |
+| 48 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
 | 49 | [Nunca Falhará \- Ao Vivo](https://open.spotify.com/track/3SK3u55VbBTX2kpdHehbq4) | [Guilherme Baptista](https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Nunca Falhará \(Ao Vivo\)](https://open.spotify.com/album/3NPvGw9qNAUjhtSEdShSvu) | 6:02 |
 | 50 | [Jesus \- Ao Vivo](https://open.spotify.com/track/7v6TBs2l91cNdiyZujXbUn) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 6:38 |
 | 51 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 |
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 86 | [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 |
 | 87 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 88 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 89 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 |
 
-Snapshot ID: `AbqTiAAAAACiSgoy7u7CTTEOf+pArW1u`
+Snapshot ID: `AbqZKAAAAAD6clWYrJ3e2iwC4nO+6iOU`

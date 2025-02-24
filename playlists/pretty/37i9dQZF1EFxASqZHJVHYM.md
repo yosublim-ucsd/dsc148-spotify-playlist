@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 131 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 131 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 130 | [Mephisto](https://open.spotify.com/track/4AmPvjhwKHeBRX9KGLuLWc) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Fakker Lifestyle \(Special Version\)](https://open.spotify.com/album/1BAxhUqy15dEizKBEs26Uv) | 3:21 |
 | 131 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbqTfgAAAAAlyBHXl8tR0JNSwpd9pl87`
+Snapshot ID: `AbqZFAAAAAC9DRC/2LGpyQ9ouWJq4Gsd`

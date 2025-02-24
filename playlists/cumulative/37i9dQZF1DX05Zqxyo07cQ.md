@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-669 songs - 1 day 8 hr 45 min
+670 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2023-03-23 | 2024-05-05 |
 | [Blue Planet](https://open.spotify.com/track/29KXf3gbyfbtG5OWTxnssl) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 3:05 | 2023-03-23 | 2024-05-21 |
 | [Blue Sphere](https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Blue Sphere](https://open.spotify.com/album/1mOqBOPa7rItQzoOrgokpL) | 2:42 | 2023-03-23 | 2024-03-21 |
-| [Blue without you](https://open.spotify.com/track/2DrNPmBsMaeSXYTqYijbot) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Blue without you](https://open.spotify.com/album/25y6bIvp1tUsnCPqaQ1SV6) | 2:42 | 2024-05-04 |  |
+| [Blue without you](https://open.spotify.com/track/2DrNPmBsMaeSXYTqYijbot) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Blue without you](https://open.spotify.com/album/25y6bIvp1tUsnCPqaQ1SV6) | 2:42 | 2024-05-04 | 2025-02-24 |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2023-03-23 | 2024-01-18 |
 | [Borium](https://open.spotify.com/track/0Vw8mKmVFvEwYgO7vYxKtG) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalloides](https://open.spotify.com/album/1BLv8sdw0H8bP8PNh1M49i) | 2:59 | 2025-02-14 |  |
 | [Bountiful](https://open.spotify.com/track/5VzPfqAPty6kWuGywackk7) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Bountiful](https://open.spotify.com/album/3c2XFnhG8jgzSvUivAxY5h) | 2:29 | 2024-05-04 | 2024-07-16 |
@@ -513,6 +513,7 @@
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2023-03-23 | 2024-05-21 |
 | [Secrets](https://open.spotify.com/track/77FxLSbbPmRet4It3IWRB9) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Secrets](https://open.spotify.com/album/4BAb9Ryg1CHhvVcCfqYbyX) | 2:48 | 2023-03-23 | 2024-01-18 |
 | [Sedate Dawn](https://open.spotify.com/track/17dxXweuShPwv4eXAqJMXz) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sedate Dawn](https://open.spotify.com/album/2HOn2N8GuvE9fDWnn7sgG7) | 2:45 | 2023-03-23 | 2024-02-09 |
+| [Seeking Light](https://open.spotify.com/track/11SGmPlJJVTIaO0MIbOPdP) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Seeking Light](https://open.spotify.com/album/10nuZNLsHAEWI1DdKeUH83) | 2:55 | 2025-02-14 |  |
 | [Seeking Solace](https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Seeking Solace](https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E) | 2:12 | 2024-04-05 |  |
 | [Sehnsucht](https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Sehnsucht](https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA) | 2:50 | 2023-03-23 | 2024-07-10 |
 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2023-03-23 | 2024-01-18 |

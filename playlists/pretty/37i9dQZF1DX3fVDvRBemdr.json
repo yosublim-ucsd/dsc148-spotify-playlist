@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: FLEMMING & Mart Hoogkamer",
-  "num_followers": 150291,
+  "num_followers": 150304,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7e0EgAAAAB7oPv00aHS0Yx5hwBfd9b/",
+  "snapshot_id": "Z7uOngAAAADinIZUze+nVHONSnPsFQzg",
   "tracks": [
     {
       "added_at": "2025-02-20 23:00:34",
@@ -31,6 +31,22 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
+        "name": "Dichtbij Me (M'n Desire)",
+        "url": "https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "Dichtbij Me (M'n Desire)",
+      "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
         "name": "Nooit Meer Voorbij",
         "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
       },
@@ -51,6 +67,38 @@
       "duration_ms": 150741,
       "name": "Nooit Meer Voorbij",
       "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "Feessie",
+        "url": "https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "duration_ms": 188726,
+      "name": "Feessie",
+      "url": "https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "Waar Ga Jij Zo Laat Naar Toe?",
+        "url": "https://open.spotify.com/album/6JLzDKtWuwy3ivpYRSkCSO"
+      },
+      "artists": [
+        {
+          "name": "Delano Bisschops",
+          "url": "https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5"
+        }
+      ],
+      "duration_ms": 212857,
+      "name": "Waar Ga Jij Zo Laat Naar Toe?",
+      "url": "https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -87,22 +135,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "Dichtbij Me (M'n Desire)",
-        "url": "https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "Dichtbij Me (M'n Desire)",
-      "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Hoe Heet Dat Liedje?",
         "url": "https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD"
       },
@@ -115,22 +147,6 @@
       "duration_ms": 195399,
       "name": "Hoe Heet Dat Liedje?",
       "url": "https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
-        "name": "Feessie",
-        "url": "https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H"
-      },
-      "artists": [
-        {
-          "name": "Fons Veurink",
-          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
-        }
-      ],
-      "duration_ms": 188726,
-      "name": "Feessie",
-      "url": "https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -367,22 +383,6 @@
       "duration_ms": 187604,
       "name": "Tante uit Texas",
       "url": "https://open.spotify.com/track/1wQpnXvNFFAQOcLIiqG501"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
-        "name": "Waar Ga Jij Zo Laat Naar Toe?",
-        "url": "https://open.spotify.com/album/6JLzDKtWuwy3ivpYRSkCSO"
-      },
-      "artists": [
-        {
-          "name": "Delano Bisschops",
-          "url": "https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5"
-        }
-      ],
-      "duration_ms": 212857,
-      "name": "Waar Ga Jij Zo Laat Naar Toe?",
-      "url": "https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7"
     },
     {
       "added_at": "2025-02-20 23:00:34",
@@ -783,30 +783,6 @@
       "duration_ms": 171428,
       "name": "Zeg Ja, Geen Nee",
       "url": "https://open.spotify.com/track/0NtBoEiLInxqirV7WI7ABG"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
-        "name": "Wegenwacht",
-        "url": "https://open.spotify.com/album/3NUDF8EhhUGTAAdgFWPbWn"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
-        }
-      ],
-      "duration_ms": 154108,
-      "name": "Wegenwacht",
-      "url": "https://open.spotify.com/track/1Kk0v2V00GQvOl2E3WxqNB"
     },
     {
       "added_at": "2025-02-20 23:00:34",

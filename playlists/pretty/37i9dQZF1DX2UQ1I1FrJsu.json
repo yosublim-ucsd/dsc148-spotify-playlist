@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 109400,
+  "num_followers": 109572,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 73235,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Andromeda",
         "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 123000,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 73235,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Come Live With Me",
-      "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Untitled (Rise)",
         "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Come Live With Me",
+      "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Soul Trash",
-        "url": "https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "drip bounce _ 7_24_18",
-      "url": "https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 256000,
       "name": "Bonnie And Clyde",
       "url": "https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Soul Trash",
+        "url": "https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "drip bounce _ 7_24_18",
+      "url": "https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF"
     },
     {
       "added_at": "2025-02-07 05:00:37",

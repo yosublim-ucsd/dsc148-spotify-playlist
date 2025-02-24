@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL?si=cc\-7LYV2QPufs2\_yZ8bT4A"> KayCyy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,336 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,341 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tamashani](https://open.spotify.com/track/4e6DgpDMuNbeQyi2WW81CY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Skillo](https://open.spotify.com/artist/1JzUkclTdMsQyly5Egh66e), [Sudough Doss](https://open.spotify.com/artist/0XwTnupzWTCvjkwjPlMFLD), [Katapilla](https://open.spotify.com/artist/4Pg6JmD7P2fOKb2H3PyJzM) | [Tamashani](https://open.spotify.com/album/16mT8nJlCtejplp5sboqFo) | 3:27 |
 | 2 | [Set It \)](https://open.spotify.com/track/6FMhJb6kv0IivuDSEkupp7) | [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy) | [Set It \)](https://open.spotify.com/album/270daYV4IA33EjEGZ6yxUL) | 2:45 |
 | 3 | [Kama Hauna](https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Kama Hauna](https://open.spotify.com/album/5Z0AVgJASlT7QPAdEzfkCy) | 3:00 |
-| 4 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big Yasa](https://open.spotify.com/artist/0bYDiOdjbgUew71G8iA7Gt) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |
+| 4 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |
 | 5 | [KUWALEMEA](https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [MUNGA MKADINALI](https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm), [SOSATHEPRODIGY](https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm) | [KUWALEMEA](https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr) | 2:43 |
 | 6 | [ALL IN VEIN](https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [ALL IN VEIN](https://open.spotify.com/album/7D7zpHtUfmqecSWPes3B1D) | 3:07 |
 | 7 | [1 of 1](https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:30 |

@@ -3738,7 +3738,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
@@ -6628,7 +6628,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
@@ -7618,6 +7618,24 @@
       "duration_ms": 255738,
       "name": "Charles Henry Turner",
       "url": "https://open.spotify.com/track/7pM1ZNwWAkVXmuWqBa1Vnl"
+    },
+    {
+      "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
     },
     {
       "album": {
@@ -9328,6 +9346,24 @@
       "duration_ms": 214916,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/518DuqGQvF0f5B5XHykCX3"
+    },
+    {
+      "album": {
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666266,
+      "name": "Dead Asleep",
+      "url": "https://open.spotify.com/track/154nu43GctwCqke6ygN8Dk"
     },
     {
       "album": {
@@ -20522,10 +20558,28 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
     },
     {
       "album": {
@@ -21280,7 +21334,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 322520,
       "name": "In the Arms of Morpheus",
       "url": "https://open.spotify.com/track/4egp3L6e8e93EaHbWyN5Az"
@@ -32692,7 +32746,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 174456,
       "name": "Phone Jumpin'",
       "url": "https://open.spotify.com/track/5odyI3PzIc7fMFcsamaMnU"
@@ -47460,10 +47514,36 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 328642,
       "name": "where is your pride (Airrica Remix)",
       "url": "https://open.spotify.com/track/37k8ohf3yN9O9uB2uVgG4W"
+    },
+    {
+      "album": {
+        "name": "where is your pride (Airrica Remix)",
+        "url": "https://open.spotify.com/album/31FxuRS6Jc9PpmQsN0eCjv"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        },
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328642,
+      "name": "where is your pride (Airrica Remix)",
+      "url": "https://open.spotify.com/track/021WAn9uUeh3ZbDMQSoSGx"
     },
     {
       "album": {

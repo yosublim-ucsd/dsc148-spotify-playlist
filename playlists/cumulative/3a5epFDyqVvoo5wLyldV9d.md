@@ -4,7 +4,7 @@
 
 > 
 
-832 songs - 2 day 17 hr 34 min
+835 songs - 2 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Abre Alas](https://open.spotify.com/track/4ysDStcutxyonMoGuYNqR0) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Modo Livre](https://open.spotify.com/album/6vkWuZLRpMFAWB0zyt4Tf0) | 3:09 | 2021-05-05 |  |
 | [Abu Ali](https://open.spotify.com/track/2YNAizPH6rGrF4hz5khM5H) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [أجمل أغاني زياد الرحباني](https://open.spotify.com/album/2prejdfDlHztDVkmHn0CJC) | 13:12 | 2023-05-29 |  |
 | [Abusadora](https://open.spotify.com/track/1uhiqrpEiYnWddrLgTAhZd) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:40 | 2020-07-12 |  |
+| [Acabou Como Começou](https://open.spotify.com/track/7fSpqmFsTjQUP3S0dLwoei) | [Luna & DJ Cri](https://open.spotify.com/artist/3fbqfIJaXO9befOFEsWeBK), [Ieda Paradise](https://open.spotify.com/artist/51zxVfbiT4c2rKyWBTu0RP) | [Guarde Minha Voz](https://open.spotify.com/album/5LjycI8yQxqQ53iAM5OqvE) | 4:34 | 2025-02-23 |  |
 | [Accadde a Bali](https://open.spotify.com/track/4mE5PiEkFkqkG2haNY35rP) | [Arawak](https://open.spotify.com/artist/49h2ZvYkhZts64fbW9xhw7) | [Accadde a…](https://open.spotify.com/album/1YRqbAqtizgF7tvNoTZIJj) | 2:26 | 2020-11-30 |  |
 | [Accuse](https://open.spotify.com/track/4GAidgDaWeQpgv98gnc14q) | [Alaska](https://open.spotify.com/artist/1b8WR71sV1J4qIOEC25XX9) | [Alaska 2000](https://open.spotify.com/album/2HnYOYHC1GBeeoRWpL4Vx0) | 6:14 | 2021-05-13 |  |
 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 | 2020-07-23 |  |
@@ -123,6 +124,7 @@
 | [Caminito](https://open.spotify.com/track/2i9jUBJS6RWr1UhyR9mxft) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:37 | 2022-01-08 |  |
 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 | 2023-12-18 |  |
 | [Campesina](https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4) | [Frank Harris](https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n), [Maria Marquez](https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE) | [Echoes](https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5) | 3:48 | 2023-12-15 |  |
+| [Can Bedenden Çıkmayınca](https://open.spotify.com/track/6bl4EJNNCRds62RH8XqtzU) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Mançoloji, Vol\. 1](https://open.spotify.com/album/6vIYmnHpcY0TQEmTlvduNN) | 4:43 | 2025-02-23 |  |
 | [Candilejas](https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb) | 2:45 | 2022-12-29 |  |
 | [Candomblé](https://open.spotify.com/track/4rxa95fLF4TMtXpzk2Z5uI) | [Mario Castro Neves](https://open.spotify.com/artist/5J7uFtrn6gJvYR4H1za7Mg) | [Mario Castro Neves & Samba S.A.](https://open.spotify.com/album/4ZCypgOdJt00AcgnQHlDHr) | 2:06 | 2023-05-29 |  |
 | [Canto Aberto](https://open.spotify.com/track/08ZbRSADAzy6SoFKrQMlri) | [évé](https://open.spotify.com/artist/2e4ExUKwheMOBh4Lunc37e), [Manduka](https://open.spotify.com/artist/1veociVuawGsSHf5NuVilT) | [Canto Aberto](https://open.spotify.com/album/7ITbmVNAdGb2zpSRBzMe17) | 6:58 | 2021-10-27 |  |
@@ -647,6 +649,7 @@
 | [Se você for a salvador](https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:45 | 2023-09-18 |  |
 | [Selamat Pengantin Baru](https://open.spotify.com/track/2en2WoEKCBRU5rkdichy0O) | [Anita Sarawak](https://open.spotify.com/artist/2ln834trHAKtKG529Sz7fw) | [Siri Bintang Pujaan](https://open.spotify.com/album/3zCrF9raqCA1bf8VT4bOlU) | 3:37 | 2023-02-19 |  |
 | [Sema Lopi](https://open.spotify.com/track/4zoPDTvNzWdewgbFmAcB5l) | [Bulimundo](https://open.spotify.com/artist/0I9kkFlYCGjGfHREcAqvTR) | [Bulimundo](https://open.spotify.com/album/5ntqPhVHi0b6Ncg4Zh5yd8) | 7:52 | 2023-02-23 |  |
+| [Sen Ağlama](https://open.spotify.com/track/2QnWcEXDGihNhmr0PUu7KA) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K) | [Cemalim](https://open.spotify.com/album/57Bnlhavoq0IopMiehWaHJ) | 5:00 | 2025-02-23 |  |
 | [Senden Başka](https://open.spotify.com/track/2TOC6PUfa1b4j0NBxDCxWD) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:20 | 2020-11-02 |  |
 | [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 | 2024-08-27 |  |
 | [Sesso Matto: Sesso Matto](https://open.spotify.com/track/3DbKJFLngSVyT5Nu1OqK9X) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Armando Trovaioli Film Music](https://open.spotify.com/album/4ov7KDnqJyZfQLrMQu2syR) | 3:24 | 2020-09-13 |  |

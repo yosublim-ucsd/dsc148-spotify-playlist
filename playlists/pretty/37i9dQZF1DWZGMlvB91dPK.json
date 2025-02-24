@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3061,
+  "num_followers": 3062,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Mille vies",
+        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Mille vies",
+      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "L'INVERSE",
         "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
       },
@@ -139,38 +155,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Toutes les filles du monde",
-        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 257092,
-      "name": "Toutes les filles du monde",
-      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Mille vies",
-        "url": "https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN"
-      },
-      "artists": [
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Mille vies",
-      "url": "https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Lovesongs",
         "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 277106,
       "name": "West",
       "url": "https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Toutes les filles du monde",
+        "url": "https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 257092,
+      "name": "Toutes les filles du monde",
+      "url": "https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Syst\u00e8me",
+        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Froehlich",
+          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
+        }
+      ],
+      "duration_ms": 240750,
+      "name": "Tout le Monde",
+      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "L'INVERSE",
         "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 154172,
       "name": "LE LARGE...",
       "url": "https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Syst\u00e8me",
-        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Froehlich",
-          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
-        }
-      ],
-      "duration_ms": 240750,
-      "name": "Tout le Monde",
-      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/4uFefjrV1tIY7ejYAuGIZz"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
-      },
-      "artists": [
-        {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Don't Waste My Time",
-      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
-    },
-    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "D\u00e9sillusion",
@@ -409,20 +393,20 @@
       "url": "https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
+      "added_at": "2024-01-15 17:31:32",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
         }
       ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+      "duration_ms": 165833,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
       "artists": [
         {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Alex",
-      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "NO GOZO",
         "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 138962,
       "name": "NO GOZO",
       "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
-    },
-    {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "Otak\u00e9",
-        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
-      },
-      "artists": [
-        {
-          "name": "Makoto San",
-          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "Otak\u00e9",
-      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -543,6 +527,38 @@
       "duration_ms": 143281,
       "name": "Massage Gun",
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
+    },
+    {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "Otak\u00e9",
+        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
+      },
+      "artists": [
+        {
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "Otak\u00e9",
+      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "ENFANT SUICIDE",
+        "url": "https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "ENFANT SUICIDE",
+      "url": "https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -591,22 +607,6 @@
       "duration_ms": 204320,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "ENFANT SUICIDE",
-        "url": "https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn"
-      },
-      "artists": [
-        {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "ENFANT SUICIDE",
-      "url": "https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Ago Gazo",
+        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
+      },
+      "artists": [
+        {
+          "name": "Ago Gazo",
+          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
+        }
+      ],
+      "duration_ms": 307984,
+      "name": "Togbui Ha",
+      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "FUCK IT WE BALL !",
         "url": "https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 214280,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Ago Gazo",
-        "url": "https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg"
-      },
-      "artists": [
-        {
-          "name": "Ago Gazo",
-          "url": "https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x"
-        }
-      ],
-      "duration_ms": 307984,
-      "name": "Togbui Ha",
-      "url": "https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6"
     },
     {
       "added_at": "2023-11-23 11:08:33",

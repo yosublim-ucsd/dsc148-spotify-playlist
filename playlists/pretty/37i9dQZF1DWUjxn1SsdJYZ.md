@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: ONEFOUR, Mabel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,495 likes - 95 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,491 likes - 95 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 94 | [Kiss](https://open.spotify.com/track/17vLfL76KxVbXxr1w6Hc2l) | [KA$$IU$](https://open.spotify.com/artist/0xli3BEXUnYn1AclkDVajx), [Murda of Cal](https://open.spotify.com/artist/576qFF81V85DFproLlFpil) | [Kiss](https://open.spotify.com/album/7EhjmnjWLdtPuO0WwX2gQ9) | 1:37 |
 | 95 | [i caught a body](https://open.spotify.com/track/0E1PTwAAWZkszkrymH3aNY) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi) | [i caught a body](https://open.spotify.com/album/7MWFxmu9k6oyolCOAUZMSA) | 1:26 |
 
-Snapshot ID: `Z7cnbQAAAACHObN/Bz/TEgSVbowq6mHT`
+Snapshot ID: `Z7vNcQAAAACHyR8PUavGJTEiUU589tbZ`

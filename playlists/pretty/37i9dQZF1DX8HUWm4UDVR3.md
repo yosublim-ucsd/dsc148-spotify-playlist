@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Helena
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,265 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,273 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Hyperactive](https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9) | [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Hyperactive](https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL) | 2:24 |
 | 50 | [JSR](https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [JSR](https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4) | 2:03 |
 
-Snapshot ID: `Z7e0AQAAAAAu5QuXhs03uOeffRYaq1ep`
+Snapshot ID: `Z7e0AQAAAAATjbOkRwEtSGQ2nKiYVlzI`

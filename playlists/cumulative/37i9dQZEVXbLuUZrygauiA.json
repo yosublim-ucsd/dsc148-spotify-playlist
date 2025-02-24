@@ -7450,7 +7450,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 221325,
       "name": "Cada Noche",
       "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
@@ -20760,7 +20760,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 196975,
       "name": "hey destino",
       "url": "https://open.spotify.com/track/5i3QlaxKFdvCEbrU79XrF1"
@@ -39613,6 +39613,24 @@
     },
     {
       "album": {
+        "name": "Rafagas Al Viento",
+        "url": "https://open.spotify.com/album/7JNjNTectpRXfxLBwPRoQH"
+      },
+      "artists": [
+        {
+          "name": "Jhojan Velasco",
+          "url": "https://open.spotify.com/artist/6rv0OESbghsczG3KIuzgys"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Rafagas Al Viento",
+      "url": "https://open.spotify.com/track/5mBslEt2KM2GAAXPFsCwpY"
+    },
+    {
+      "album": {
         "name": "Rafagas al Viento",
         "url": "https://open.spotify.com/album/48hgoLFSOqkYnqIhkecRPy"
       },
@@ -53522,7 +53540,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 156807,
       "name": "Yo Vengo De La Nada",
       "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"

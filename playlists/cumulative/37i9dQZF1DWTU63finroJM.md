@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Rachel Chinouriri.
 
-1,872 songs - 4 day 5 hr 12 min
+1,873 songs - 4 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-08-01 | 2022-11-19 |
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-05-30 | 2024-01-20 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2022-02-03 | 2022-12-15 |
+| [Bobby](https://open.spotify.com/track/4ZKzPzlHwhAuh5TL0Tqb7I) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Bobby](https://open.spotify.com/album/0ppS2y9KwT8g2bWJddBepm) | 2:57 | 2025-02-21 |  |
 | [Bodies](https://open.spotify.com/track/5gzvXEGf0XDseXgIlcSSLg) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [Bodies](https://open.spotify.com/album/5i9d3FvI5U5pQsmCj1ntDH) | 3:27 | 2022-03-21 | 2022-06-30 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2022-03-24 | 2022-04-14 |
 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 | 2022-03-24 | 2022-08-02 |
@@ -1084,7 +1085,7 @@
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-03-24 | 2022-04-16 |
 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 | 2022-11-25 | 2023-05-31 |
 | [No Hables \- Asi no te Amara Jamas \- Si Esta Casa Hablara \- Herida](https://open.spotify.com/track/7lQsh3MZhIGOqrberOsrs0) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [No Hables \- Asi no te Amara Jamas \- Si Esta Casa Hablara \- Herida](https://open.spotify.com/album/5wWoqk3MrPp0jvJYLVj058) | 9:21 | 2024-05-03 | 2024-08-10 |
-| [No Happy Ending](https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 2:20 | 2024-10-25 |  |
+| [No Happy Ending](https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 2:20 | 2024-10-25 | 2025-02-24 |
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-02-03 | 2023-01-21 |
 | [No Le Contestes](https://open.spotify.com/track/3WtU9uawNMMEweexmATPDW) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:10 | 2022-03-24 | 2022-08-02 |
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-23 | 2025-02-22 |

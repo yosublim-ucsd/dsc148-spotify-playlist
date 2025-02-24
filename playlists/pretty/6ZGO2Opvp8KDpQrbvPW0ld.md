@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,137 likes - 350 songs - 12 hr 19 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,134 likes - 350 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 173 | [windswept](https://open.spotify.com/track/39jcgmDYVKK1b8kEl5jrFc) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [windswept](https://open.spotify.com/album/5RDTPM65jQTeUXHdIAcZxw) | 2:37 |
 | 174 | [Everything Will Be Fine](https://open.spotify.com/track/7f09F19njJgMtNdp356Ig3) | [Le Bonhomme](https://open.spotify.com/artist/6YKIwjchxdRnhOZQGqbMC1) | [Everything Will Be Fine](https://open.spotify.com/album/3VNrahU0EKLKisN5Oxd7Gf) | 2:52 |
 | 175 | [Hitzefrei](https://open.spotify.com/track/6gEFIQJgetogA5GQTOzv4v) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov) | [UMIDO](https://open.spotify.com/album/7sejCW8md7GxrQrl37tS4x) | 2:05 |
-| 176 | [Esteria](https://open.spotify.com/track/61V0kKLT8EFvSRPV3JEI3F) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Esteria](https://open.spotify.com/album/4OnhkzF2T4sRW00KGQVZcZ) | 1:56 |
+| 176 | [Esteria](https://open.spotify.com/track/61V0kKLT8EFvSRPV3JEI3F) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Esteria](https://open.spotify.com/album/4OnhkzF2T4sRW00KGQVZcZ) | 1:56 |
 | 177 | [Take It Easy](https://open.spotify.com/track/1jWExy0JiN739ElhVN8Saw) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D) | [Take It Easy](https://open.spotify.com/album/4veAhM2UDv0xZhVnjaOT6U) | 2:12 |
 | 178 | [Place To Be](https://open.spotify.com/track/4uNrh2DpsM83lMezv1f2zw) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Canary Files II](https://open.spotify.com/album/1p0z8umwXdNZ4LRdZQDny1) | 2:04 |
 | 179 | [Close To The Edge](https://open.spotify.com/track/13TGftIJ8xfnar4CfENznE) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt) | [Close To The Edge](https://open.spotify.com/album/7vb0eTQAaNGbDR2kKF2Sxy) | 2:06 |

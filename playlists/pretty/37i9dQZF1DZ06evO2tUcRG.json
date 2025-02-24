@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 266316,
+  "num_followers": 266334,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAADm8Fx9qPGMprOtBFqpFZbJ",
+  "snapshot_id": "Z7kTgAAAAADO4GuBJ2MrBgIitdBdSG3u",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Atraiu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 503635,
-      "name": "Me Atraiu - Ao Vivo",
-      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 437928,
       "name": "A Ele a Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Atraiu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 503635,
+      "name": "Me Atraiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 499584,
-      "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
-      "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yahweh (Ao Vivo)",
         "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 797796,
       "name": "Yahweh - Ao Vivo",
       "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 499584,
+      "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
+      "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 266029,
+      "name": "Outro Na Fornalha",
+      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 266029,
-      "name": "Outro Na Fornalha",
-      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
     },
     {
       "added_at": null,

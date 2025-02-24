@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JISOO\(지수\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,492 likes - 171 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,536 likes - 171 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 170 | [Starting With You \(Piano Saturn⦵\)](https://open.spotify.com/track/3eRnd5rQdz49EYHpxXBcjX) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Starting With You : ⦵](https://open.spotify.com/album/7mawnzmgqAnMJRneLxpjAS) | 4:02 |
 | 171 | [La Festa](https://open.spotify.com/track/1TOXIH81rjFEDtnxiaBBXi) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [La Festa](https://open.spotify.com/album/7aPj7OVv3zdUJjIIostVUX) | 3:24 |
 
-Snapshot ID: `Z7hCOQAAAABjATjbbeCvKG9D1q1IlIvK`
+Snapshot ID: `Z7hCOQAAAABXfyS8KP+cVf6uCS1e4e/6`

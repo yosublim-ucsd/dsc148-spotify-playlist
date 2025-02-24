@@ -4,11 +4,12 @@
 
 > Nieuwe alternative en rock songs\. Cover: Michael Ekow & May
 
-307 songs - 17 hr 40 min
+308 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a craving](https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a craving](https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB) | 3:14 | 2024-10-22 | 2025-01-07 |
+| [A Distant Life](https://open.spotify.com/track/4HUdjdUl6IGFXadkwc3W0A) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Blindness](https://open.spotify.com/album/6iHeiGA6OWYJ4RVkvby44P) | 2:40 | 2025-02-23 |  |
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-24 | 2024-07-10 |
 | [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-06-24 | 2024-09-28 |
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-13 | 2024-12-03 |

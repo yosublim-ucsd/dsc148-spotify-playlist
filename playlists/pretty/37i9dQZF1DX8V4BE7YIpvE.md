@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,600 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,772 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 98 | [Fork!](https://open.spotify.com/track/4sJinP3uGtTJTbL7UyA4Wk) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:53 |
 | 99 | [Afterimage](https://open.spotify.com/track/3m0yVxfMU7W7Mv7XGMThmy) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Afterimage](https://open.spotify.com/album/5qpJu0DYHr0jl9oWmBVJ8W) | 4:50 |
 
-Snapshot ID: `Z7aozwAAAADvjLcboF6jAWwLEFkyYGu6`
+Snapshot ID: `Z7aozwAAAAC4HVoFxqmW+FYGx9AtEjvu`

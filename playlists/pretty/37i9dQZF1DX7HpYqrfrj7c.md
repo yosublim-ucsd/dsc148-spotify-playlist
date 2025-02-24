@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,092 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,203 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 84 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 |
 | 85 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
 
-Snapshot ID: `Z6Z9HAAAAAAlEVFoLRlRDOwFWVhJX6I2`
+Snapshot ID: `Z6Z9HAAAAACOmtBlLi8k3gdMQ34WdH8M`

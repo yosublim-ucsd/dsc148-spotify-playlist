@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Ruben Blades",
-  "num_followers": 1915994,
+  "num_followers": 1916005,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -563,22 +583,38 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+      "duration_ms": 242373,
+      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -611,42 +647,6 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 262746,
       "name": "Abre Que Voy",
       "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 191260,
-      "name": "The Reason - Latin Version",
-      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
         "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 267130,
       "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
       "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "The Reason - Latin Version",
+      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 209723,
-      "name": "LA RONDA",
-      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 209723,
+      "name": "LA RONDA",
+      "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
-      },
-      "artists": [
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202551,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Fue Culpa De Usted",
         "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 298546,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1583,22 +1583,6 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
-        "name": "No Le Cuentes",
-        "url": "https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223197,
-      "name": "No Le Cuentes",
-      "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
+        "name": "No Le Cuentes",
+        "url": "https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223197,
+      "name": "No Le Cuentes",
+      "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1655,26 +1655,6 @@
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1699,22 +1679,6 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "La Salsa No Engorda",
-        "url": "https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "La Salsa No Engorda",
-      "url": "https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:37",
-      "album": {
         "name": "Un Beso de Su Boca",
         "url": "https://open.spotify.com/album/7yw3Crx1ixKISeQdscnVrO"
       },
@@ -1731,22 +1695,18 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
+        "name": "La Salsa No Engorda",
+        "url": "https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Mira - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+      "duration_ms": 160901,
+      "name": "La Salsa No Engorda",
+      "url": "https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ"
     },
     {
       "added_at": "2025-02-07 05:00:37",
@@ -1771,6 +1731,26 @@
     {
       "added_at": "2025-02-07 05:00:37",
       "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
         "name": "Salsa At It's Best",
         "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 304946,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2025-02-07 05:00:37",
+      "album": {
+        "name": "Y Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp"
+      },
+      "artists": [
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Y Si Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"
     }
   ],
   "unique_name": "Salsa Nation",

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
-  "num_followers": 2259,
+  "num_followers": 2260,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,30 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
         "name": "Janneman",
         "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
       },
@@ -435,30 +459,6 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Slat Los",
-        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Slat Los",
-      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
         "name": "Grammadoelas",
         "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
       },
@@ -507,6 +507,82 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
+        "name": "Die Way Sy",
+        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Die Way Sy",
+      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "Spitbraai",
+        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Spitbraai",
+      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "Gun Shots",
+        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Gun Shots",
+      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "Op Fok",
+        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
+      },
+      "artists": [
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        }
+      ],
+      "duration_ms": 128419,
+      "name": "Op Fok",
+      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
         "name": "Dubble G's",
         "url": "https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH"
       },
@@ -547,98 +623,6 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Die Way Sy",
-        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Die Way Sy",
-      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Gun Shots",
-        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Gun Shots",
-      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Spitbraai",
-        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Spitbraai",
-      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Op Fok",
-        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
-      },
-      "artists": [
-        {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        }
-      ],
-      "duration_ms": 128419,
-      "name": "Op Fok",
-      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
         "name": "Lewe Soos 'n Laanie",
         "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201126,
       "name": "Lewe Soos 'n Laanie",
       "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2025-02-20 22:00:15",
@@ -715,26 +715,6 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Nooit Geweet",
-        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        },
-        {
-          "name": "Jemaine Julies",
-          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Nooit Geweet",
-      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
         "name": "Goated",
         "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
       },
@@ -791,22 +771,6 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
         "name": "Onder Die Tafel",
         "url": "https://open.spotify.com/album/6lWnUsGCl8vcKLxdTcmJRq"
       },
@@ -819,6 +783,26 @@
       "duration_ms": 143615,
       "name": "Onder Die Tafel",
       "url": "https://open.spotify.com/track/28PTDPuRk3hy0RtflAsAIC"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "Nooit Geweet",
+        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        },
+        {
+          "name": "Jemaine Julies",
+          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Nooit Geweet",
+      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
       "added_at": "2025-02-20 22:00:15",
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Staan Uit",
-        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
       },
       "artists": [
         {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Staan Uit",
-      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+      "duration_ms": 181480,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
     },
     {
       "added_at": "2025-02-20 22:00:15",
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Nikes & Jordans (Original)",
-        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+        "name": "Staan Uit",
+        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
       },
       "artists": [
         {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 194037,
-      "name": "Nikes & Jordans (Original)",
-      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
+      "duration_ms": 147428,
+      "name": "Staan Uit",
+      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
     },
     {
       "added_at": "2025-02-20 22:00:15",
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
+        "name": "Nikes & Jordans (Original)",
+        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Nikes & Jordans (Original)",
+      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
         "name": "Met 'N Prys",
         "url": "https://open.spotify.com/album/7JYDeQGRfurbxUrZSJ3MoQ"
       },
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-02-20 22:00:15",
       "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
-      },
-      "artists": [
-        {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
         "name": "Evil Is Nogsteeds Maklik",
         "url": "https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 309003,
       "name": "Is Dope",
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
+    },
+    {
+      "added_at": "2025-02-20 22:00:15",
+      "album": {
+        "name": "Violence (Afrikaans Drill)",
+        "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
+      },
+      "artists": [
+        {
+          "name": "SwiinkBEATS.Ltd",
+          "url": "https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG"
+        },
+        {
+          "name": "KG Lucas",
+          "url": "https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l"
+        }
+      ],
+      "duration_ms": 220366,
+      "name": "Violence - Afrikaans Drill",
+      "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

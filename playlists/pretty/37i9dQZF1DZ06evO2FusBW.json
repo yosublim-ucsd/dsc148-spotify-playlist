@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10737,
+  "num_followers": 10740,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAADTNDw3IxTxgovHJ7YGqkFJ",
+  "snapshot_id": "Z7kTgAAAAABzUcTBdzQz/w3UrlETyYy8",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 272550,
-      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
-      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+      "duration_ms": 229146,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
       "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
+      "duration_ms": 272550,
+      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
+      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
     },
     {
       "added_at": null,

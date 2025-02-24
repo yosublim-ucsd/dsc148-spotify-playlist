@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Chloe Moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,040 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,952 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 35 | [Necromancer](https://open.spotify.com/track/6dHFM8TPe90x7egKveFEaX) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Necromancer](https://open.spotify.com/album/2aomDtUKVX9XtrplU8d5l1) | 3:22 |
 | 36 | [Lucky Stars](https://open.spotify.com/track/4Yi2lLTuQ4woQZjSewv7zi) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [Lucky Stars](https://open.spotify.com/album/1BNXzXU4gKTUMcqMydaY27) | 3:14 |
 | 37 | [How the Good Girls Die](https://open.spotify.com/track/0CCOfFm0zBZfc3SEfYTt7j) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [How the Good Girls Die](https://open.spotify.com/album/6F0z5cFVBc9yXPyHuzaWHz) | 3:31 |
-| 38 | [Workhorse](https://open.spotify.com/track/4ELeJcKvUtY8E6KywSZbsw) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Workhorse](https://open.spotify.com/album/3mcE6SVAwjdA4h2jo3HF3w) | 3:38 |
+| 38 | [Workhorse](https://open.spotify.com/track/4ELeJcKvUtY8E6KywSZbsw) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Workhorse](https://open.spotify.com/album/3mcE6SVAwjdA4h2jo3HF3w) | 3:35 |
 | 39 | [Shadows](https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [LOVECHILD](https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l) | 3:15 |
 | 40 | [Cowboy's Gonna Ride](https://open.spotify.com/track/3x0xmBK4uhdG7M0ZeQZBiL) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Cowboy's Gonna Ride](https://open.spotify.com/album/09YWH4jRJKB8uGqao2tTJM) | 3:28 |
 | 41 | [Figure It Out \(feat\. Jeremy Neale\)](https://open.spotify.com/track/5qgSnCA518JYgvIcA6ix9h) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Jeremy Neale](https://open.spotify.com/artist/7cDixXcTuSMiPr0TWopZV6) | [Figure It Out \(feat\. Jeremy Neale\)](https://open.spotify.com/album/393MGbHmbHpvJjEAXz8tt3) | 3:29 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Rebellion](https://open.spotify.com/track/5XlZ6Z7MqWajjms2m2Qu7s) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Rebellion](https://open.spotify.com/album/1jGQWXD3ZArXI6SenJ6TS9) | 2:25 |
 | 99 | [Goodie Bag](https://open.spotify.com/track/7KLdvaoeoiFvAeHID4ZZvZ) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Goodie Bag](https://open.spotify.com/album/2gCocbDgxUmqC33OZJAnNh) | 2:24 |
 
-Snapshot ID: `Z7gIaQAAAABvzq+DLj33iNRmuXsBuRmY`
+Snapshot ID: `Z7gIaQAAAADSN8HdVSxKIHVwvyaLi1xx`

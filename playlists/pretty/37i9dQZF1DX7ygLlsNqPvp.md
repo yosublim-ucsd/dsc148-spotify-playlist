@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Jay Bahd
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,089 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,100 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1) | 3:54 |
 | 50 | [Ghana Girl \(Asakaa Mix\)](https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Glitch Boyz](https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja) | 2:32 |
 
-Snapshot ID: `Z7iFmQAAAADmRalOgBdwCzBXohtxQT5L`
+Snapshot ID: `Z7iFmQAAAAAZKIWd7e1616E54PY+QInp`

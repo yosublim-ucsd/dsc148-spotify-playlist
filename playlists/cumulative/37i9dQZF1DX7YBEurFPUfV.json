@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : NumbXiller",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : A.L.A",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -1128,6 +1128,24 @@
       "duration_ms": 195683,
       "name": "Kifi",
       "url": "https://open.spotify.com/track/4CIfIG6L3WA1b6FHcR9wVu"
+    },
+    {
+      "album": {
+        "name": "Klit Klat",
+        "url": "https://open.spotify.com/album/3GcV5oJU8K0QJJvRuFO9dg"
+      },
+      "artists": [
+        {
+          "name": "JenJoon",
+          "url": "https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162849,
+      "name": "Klit Klat",
+      "url": "https://open.spotify.com/track/3AqP7SNyNxeEI0sPWqO0uO"
     },
     {
       "album": {

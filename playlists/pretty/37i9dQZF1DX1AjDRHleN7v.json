@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 363802,
+  "num_followers": 364197,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
+        "name": "Rindo \u00c0 Toa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Rindo \u00c0 Toa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -251,6 +271,38 @@
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
+        "name": "Desejo Paz",
+        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Desejo Paz",
+      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -299,54 +351,18 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Desejo Paz",
-        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Desejo Paz",
-      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Rindo \u00c0 Toa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
       },
       "artists": [
         {
           "name": "Maneva",
           "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 195118,
-      "name": "Rindo \u00c0 Toa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+      "duration_ms": 148445,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -419,22 +435,6 @@
       "duration_ms": 183146,
       "name": "Flor de Aruanda",
       "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 148445,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
@@ -611,38 +591,22 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         },
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -667,18 +631,38 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -695,6 +679,22 @@
       "duration_ms": 232353,
       "name": "Saquarema - Remix",
       "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Toda Noite",
+      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
         "name": "Amor Bom",
         "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
       },
       "artists": [
         {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
+          "name": "Alexandre Carlo",
+          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Toda Noite",
-      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
+      "duration_ms": 203342,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -835,6 +851,22 @@
       "duration_ms": 276509,
       "name": "Santa Terra",
       "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2025-02-21 14:25:11",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -919,38 +951,6 @@
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2025-02-21 14:25:11",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Carlo",
-          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
-        }
-      ],
-      "duration_ms": 203342,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
     },
     {
       "added_at": "2025-02-21 14:25:11",
@@ -1067,18 +1067,26 @@
     {
       "added_at": "2025-02-21 14:25:11",
       "album": {
-        "name": "Ver\u00e3o Nosso, Amor",
-        "url": "https://open.spotify.com/album/0f9wGTbxgBhR7zU0EV7fG6"
+        "name": "Um Sinal",
+        "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
       },
       "artists": [
         {
-          "name": "Thiago Caversan",
-          "url": "https://open.spotify.com/artist/4CdQJGhazm598ikVIsrAZw"
+          "name": "Andr\u00e9 Rios",
+          "url": "https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT"
+        },
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Quiosque 26",
-      "url": "https://open.spotify.com/track/17kchSItXcCTyvgrcRR1lA"
+      "duration_ms": 238227,
+      "name": "Um Sinal",
+      "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
     }
   ],
   "unique_name": "Praiana",

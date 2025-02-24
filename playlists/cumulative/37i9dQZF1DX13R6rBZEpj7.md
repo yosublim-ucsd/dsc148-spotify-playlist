@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-290 songs - 17 hr 32 min
+291 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 | 2023-01-24 |  |
 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 | 2022-08-12 | 2024-03-02 |
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2022-04-15 | 2022-08-05 |
-| [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 |  |
+| [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 | 2025-02-24 |
 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 | 2023-10-28 | 2025-02-19 |
 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 | 2022-04-15 | 2023-04-11 |
 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 | 2023-04-04 | 2023-12-22 |
@@ -261,6 +261,7 @@
 | [T Dub](https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb) | [Luca T](https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY) | [T Dub](https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9) | 2:57 | 2024-01-26 | 2024-11-14 |
 | [Take Me](https://open.spotify.com/track/5x7FItoIkhDAAH0E3sZA3c) | [Pyrate](https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o) | [Take Me](https://open.spotify.com/album/4FuLhNgsflh3RNznQljG6p) | 3:43 | 2022-04-22 | 2022-07-21 |
 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 | 2022-04-15 | 2024-01-05 |
+| [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 | 2025-02-21 |  |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-22 | 2024-03-11 |
 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 | 2023-12-22 | 2024-09-13 |
 | [The Feeling](https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [The Feeling](https://open.spotify.com/album/0Dp87gJ8DtX815dX4JqdY5) | 4:59 | 2022-04-15 | 2022-07-14 |

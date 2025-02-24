@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo : Marie\-Flore
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,665 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,702 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 |
 | 50 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 |
 
-Snapshot ID: `Z7e0AAAAAABOsffp+vcvfFK603f5P5UN`
+Snapshot ID: `Z7e0AAAAAADhAYzwgwdBJMpezFamA0Dh`

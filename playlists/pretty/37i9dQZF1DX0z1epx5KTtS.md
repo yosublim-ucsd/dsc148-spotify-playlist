@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,660 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,714 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 |
 | 40 | [Tchokoroba](https://open.spotify.com/track/2JkqP8VfGQNXXWdNJcnHsO) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Tchokoroba](https://open.spotify.com/album/2jLzAMi7FjfcUbgOYXHv6I) | 2:46 |
 
-Snapshot ID: `Z7e0BgAAAAAbicU3pLC2Lodx8BhTcBiH`
+Snapshot ID: `Z7e0BgAAAADRYxbCBVM2aF/q6a3r2dMm`

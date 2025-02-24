@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  Cover: Mike Posner",
-  "num_followers": 43416,
+  "num_followers": 43437,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYAAAAADq/szgpYD2XtHtMpolfQo2",
+  "snapshot_id": "Z7u5UgAAAAA8+kn8x8JP0cgGwayKtbE9",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:16",
@@ -159,6 +159,22 @@
       "duration_ms": 180146,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m"
+    },
+    {
+      "added_at": "2025-02-24 00:12:02",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo"
+      },
+      "artists": [
+        {
+          "name": "Caleb Kunle",
+          "url": "https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY"
+        }
+      ],
+      "duration_ms": 303924,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -583,22 +599,6 @@
       "duration_ms": 335066,
       "name": "creature",
       "url": "https://open.spotify.com/track/6tJkq3zUXlEjWluMW9Hdij"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/6rUAGK4TYv78lFKSLTlCVl"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 150621,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/13oM9UWEe1c79go5A2DoqZ"
     },
     {
       "added_at": "2024-10-11 13:41:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,347 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,349 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [Missão](https://open.spotify.com/track/7jfsmdHo6qHX3F8wcMjuoU) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 3:28 |
 | 9 | [O Jogo Virou](https://open.spotify.com/track/187pijczzR58jQMhlyQbH8) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [O Jogo Virou](https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN) | 2:52 |
 | 10 | [Só Quero Ver](https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:49 |
-| 11 | [Peita do Coringão \(feat\. MC Marks\)](https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Peita do Coringão \(feat\. MC Marks\)](https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj) | 4:05 |
+| 11 | [Peita do Coringão](https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Peita do Coringão](https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj) | 4:05 |
 | 12 | [Conflito Lírico](https://open.spotify.com/track/0il0zHvjkM3e9gk69BXgBC) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [DJ Saci](https://open.spotify.com/artist/1MtiMkKE1nbJQjBfJtuvJt) | [Conflito Lírico](https://open.spotify.com/album/0Wt8QhoIBXjDNvdLXREppw) | 2:39 |
 | 13 | [Sonhos](https://open.spotify.com/track/0o3tIZF0ynWB8nNq56bY30) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Sonhos](https://open.spotify.com/album/6OymBjfucKH5crAVVi0JZR) | 3:18 |
 | 14 | [Força](https://open.spotify.com/track/4ZNu1yYAJFt3IAYhIwjQs6) | [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Em Nome das Ruas](https://open.spotify.com/album/1oU1ThRWobv3TG27DL5O7Y) | 1:38 |

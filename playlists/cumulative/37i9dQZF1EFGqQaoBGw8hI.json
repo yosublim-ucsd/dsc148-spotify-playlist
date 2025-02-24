@@ -10346,10 +10346,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 262666,
       "name": "The Muse - 12\" Version",
       "url": "https://open.spotify.com/track/5c9oymBkuArYOh6GOPjOPs"
+    },
+    {
+      "album": {
+        "name": "The Muse (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260973,
+      "name": "The Muse - Remix",
+      "url": "https://open.spotify.com/track/77uj34O3RwDUIGIJwJVDae"
     },
     {
       "album": {

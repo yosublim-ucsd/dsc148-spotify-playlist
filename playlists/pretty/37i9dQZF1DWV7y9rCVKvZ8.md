@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain](/playlists/plain/37i9dQZF1DWV7y9rCVKvZ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7y9rCVKvZ8)
 
-### [Lebih Produktif](https://open.spotify.com/playlist/37i9dQZF1DWV7y9rCVKvZ8)
+### [Lebih Produktif di Ramadan](https://open.spotify.com/playlist/37i9dQZF1DWV7y9rCVKvZ8)
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,056 likes - 96 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,070 likes - 96 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 95 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
 | 96 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 |
 
-Snapshot ID: `Z7RaewAAAABH8mMBxzOInZFA9DW+GMtw`
+Snapshot ID: `Z7tUNAAAAAAwqeQknrEflhMR3p9s11L4`

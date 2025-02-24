@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Fabiana Sinfr\u00f4nio, Elaine Martins",
-  "num_followers": 340371,
+  "num_followers": 340410,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 459230,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "O C\u00e9u Se Abre",
         "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
       },
@@ -231,58 +251,6 @@
       "duration_ms": 893787,
       "name": "Lindo Momento - Ao Vivo",
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 459230,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -323,6 +291,38 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "Esse Vento Vai Passar (Studio Session)",
         "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
       },
@@ -339,18 +339,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
-        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
+        "name": "Inflama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 384870,
-      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
-      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
+      "duration_ms": 411976,
+      "name": "Inflama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "Inflama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
+        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
+        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
       },
       "artists": [
         {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 411976,
-      "name": "Inflama - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+      "duration_ms": 384870,
+      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
+      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 309537,
-      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 453000,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 309537,
+      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "Tudo Que Eu Mais Quero (Ao Vivo)",
         "url": "https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu"
       },
@@ -751,38 +767,6 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "Um Milh\u00e3o de Vezes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Um Milh\u00e3o de Vezes - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
         "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
       },
@@ -795,6 +779,38 @@
       "duration_ms": 265026,
       "name": "Aos P\u00e9s da Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "Romanos 8:26 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "Um Milh\u00e3o de Vezes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Um Milh\u00e3o de Vezes - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -815,22 +831,6 @@
       "duration_ms": 266320,
       "name": "Vigor (Ao Vivo)",
       "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Romanos 8:26 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 269739,
-      "name": "Romanos 8:26 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -903,6 +903,22 @@
       "duration_ms": 352037,
       "name": "N\u00e3o Temerei Jamais - Ao Vivo",
       "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 261999,
-      "name": "O Amor Que Cura - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
         "name": "Sensibilidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 391899,
       "name": "Sensibilidade - Ao Vivo",
       "url": "https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -1115,18 +1095,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
       "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "N\u00e3o Paraliso",
         "url": "https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk"
       },
@@ -1159,38 +1159,6 @@
       "duration_ms": 196000,
       "name": "N\u00e3o Paraliso",
       "url": "https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 268710,
-      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -1231,6 +1199,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "Acalma",
         "url": "https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 296988,
       "name": "Acalma",
       "url": "https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 268710,
+      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
     },
     {
       "added_at": "2025-02-21 16:14:12",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-02-21 16:14:12",
       "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
+    },
+    {
+      "added_at": "2025-02-21 16:14:12",
+      "album": {
         "name": "Transforma-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 258500,
       "name": "Cora\u00e7\u00e3o que Sangra (Ao Vivo)",
       "url": "https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh"
-    },
-    {
-      "added_at": "2025-02-21 16:14:12",
-      "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": "2025-02-21 16:14:12",

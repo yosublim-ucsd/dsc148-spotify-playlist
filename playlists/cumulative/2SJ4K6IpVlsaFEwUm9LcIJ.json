@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "World According To",
+        "url": "https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB"
+      },
+      "artists": [
+        {
+          "name": "W.A.T.",
+          "url": "https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297581,
+      "name": "Art Lovers",
+      "url": "https://open.spotify.com/track/2t1432gcPePXsmsZcEc2mp"
+    },
+    {
+      "album": {
         "name": "Sengula Nakupenda",
         "url": "https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF"
       },

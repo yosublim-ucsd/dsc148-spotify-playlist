@@ -7720,7 +7720,7 @@
     {
       "album": {
         "name": "This Consequence",
-        "url": "https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5"
+        "url": "https://open.spotify.com/album/5druVMVmvdpUqoYyIXPyqh"
       },
       "artists": [
         {
@@ -7731,6 +7731,24 @@
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Collusion",
+      "url": "https://open.spotify.com/track/5XnMnPwif551rCg6Vjwu3d"
+    },
+    {
+      "album": {
+        "name": "This Consequence",
+        "url": "https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2025-02-24",
       "duration_ms": 202310,
       "name": "Collusion",
       "url": "https://open.spotify.com/track/6fdGpTuyiF2DS6Y0campSD"
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 305120,
       "name": "Dark Is This Night",
       "url": "https://open.spotify.com/track/2f86GptjGpm7xP6DoTrvlM"
@@ -10806,6 +10824,24 @@
       "duration_ms": 341546,
       "name": "Du bist alles was ich will",
       "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
+    },
+    {
+      "album": {
+        "name": "Dark Is This Night",
+        "url": "https://open.spotify.com/album/5RtjQW0wrmTord2MoQSLTy"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342906,
+      "name": "Du bist alles was ich will",
+      "url": "https://open.spotify.com/track/3g84cLdN9ZBNnbg5Uo7u9m"
     },
     {
       "album": {
@@ -18608,10 +18644,28 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
     },
     {
       "album": {
@@ -45938,10 +45992,40 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 243750,
       "name": "Wish I Could Forget - Vastive Remix",
       "url": "https://open.spotify.com/track/7bco71lDdtvzMGoDy1zyIf"
+    },
+    {
+      "album": {
+        "name": "Wish I Could Forget (The Remixes)",
+        "url": "https://open.spotify.com/album/3zbQEtp9rjLHC41HrAunTn"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Vorso",
+          "url": "https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "Wish I Could Forget - Vorso Remix",
+      "url": "https://open.spotify.com/track/4OFkqCP3zdBq0DrWRMRL5f"
     },
     {
       "album": {

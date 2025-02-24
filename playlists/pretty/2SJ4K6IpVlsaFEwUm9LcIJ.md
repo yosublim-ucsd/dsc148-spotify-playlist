@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,813 likes - 55 songs - 3 hr 33 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,810 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 53 | [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 |
 | 54 | [Green Is the Colour of Evil](https://open.spotify.com/track/2Zc1uDaiEkuh3il7wl8nZm) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:46 |
 | 55 | [Little Eyes](https://open.spotify.com/track/5pHNCZCt3daiBXs1lWopBS) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 4:22 |
+| 56 | [Art Lovers](https://open.spotify.com/track/2t1432gcPePXsmsZcEc2mp) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 4:57 |
 
-Snapshot ID: `AAAL5UGixPWRdZ5wFIU+HAG5lJyv/Pyp`
+Snapshot ID: `AAAL5nXHcMna793OyDq49qOSuLFKSCGv`

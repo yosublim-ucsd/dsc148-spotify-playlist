@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-411 songs - 19 hr 42 min
+412 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Agave](https://open.spotify.com/track/5bGuXwRnEiewbYYE2NCQqc) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Agave](https://open.spotify.com/album/6r8jn5NGZv72u1MHgfzE6r) | 2:11 | 2024-08-23 |  |
 | [Altered Sine](https://open.spotify.com/track/60f6EbhrEope346BnF3G6J) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Altered Sine](https://open.spotify.com/album/4ZlHTbQtEDzz72oLt4jVlg) | 2:57 | 2024-09-13 |  |
 | [Always Late](https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Together Tomorrow](https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0) | 2:17 | 2024-11-22 |  |
-| [Amber Interior](https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Colt](https://open.spotify.com/artist/7aT9MkRQS4iaMF4CRUpm5c) | [Empty Pool](https://open.spotify.com/album/1cp1dwciYyhXThpHOQfJ9s) | 3:05 | 2024-08-23 |  |
+| [Amber Interior](https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Colt](https://open.spotify.com/artist/7aT9MkRQS4iaMF4CRUpm5c) | [Empty Pool](https://open.spotify.com/album/1cp1dwciYyhXThpHOQfJ9s) | 3:05 | 2024-08-23 | 2025-02-24 |
 | [Amor De Otoño](https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Amor De Otoño](https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2) | 2:08 | 2023-08-22 |  |
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2023-08-22 | 2024-04-19 |
 | [Ancestors](https://open.spotify.com/track/2EFSKB0bUUrfLkirjIKCBg) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0) | 2:25 | 2024-03-20 | 2024-06-05 |
@@ -296,6 +296,7 @@
 | [Remote Frontiers](https://open.spotify.com/track/5DBod0aGdSpZPSvVZJ3LIY) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [In The Infinite](https://open.spotify.com/album/009o4j48Se3I5pAU7yQAdC) | 2:31 | 2024-01-26 | 2024-04-19 |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 | 2024-11-22 |
 | [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 | 2024-06-04 |  |
+| [Retrospect](https://open.spotify.com/track/12E1kUGeialTadTTFbVFSr) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Retrospect](https://open.spotify.com/album/2YoYX1IlfhN51JrFUomzGx) | 2:13 | 2025-02-21 |  |
 | [RIDGEWALK](https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [RIDGEWALK](https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK) | 2:27 | 2024-11-29 | 2025-01-25 |
 | [Riding The Waves Of Change](https://open.spotify.com/track/3TitEnqfYTSfnmUU7CJr9P) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [The Long Road](https://open.spotify.com/album/6n23UhMxAtJUnizQIljd0C) | 2:56 | 2024-12-13 | 2025-01-24 |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |

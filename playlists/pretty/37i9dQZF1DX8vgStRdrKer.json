@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez?si=Zz19hc39QaO9Ux9niVs8yA>Wole Awolola</a>",
-  "num_followers": 12490,
+  "num_followers": 12494,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
+    },
+    {
       "added_at": "2024-09-13 00:01:00",
       "album": {
         "name": "Umbrella",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
-    },
-    {
       "added_at": "2024-08-23 00:01:00",
       "album": {
         "name": "Young & Chosen",
@@ -327,22 +327,6 @@
       "duration_ms": 220545,
       "name": "No Greater Love",
       "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "At\u025b\u025bne (Overturned)",
-        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "At\u025b\u025bne - Overturned",
-      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -367,6 +351,22 @@
       "duration_ms": 176037,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "At\u025b\u025bne (Overturned)",
+        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "At\u025b\u025bne - Overturned",
+      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -417,26 +417,6 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
       "added_at": "2024-08-30 00:01:00",
       "album": {
         "name": "Yes Sir",
@@ -455,6 +435,26 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -477,6 +477,42 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "Count My Blessings",
+        "url": "https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Count My Blessings",
+      "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 208887,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
+    },
+    {
       "added_at": "2024-06-14 00:01:00",
       "album": {
         "name": "Oba Awon Oba",
@@ -495,22 +531,6 @@
       "duration_ms": 733135,
       "name": "Oba Awon Oba",
       "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "Count My Blessings",
-        "url": "https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Count My Blessings",
-      "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
     },
     {
       "added_at": "2024-09-06 00:01:00",
@@ -535,26 +555,6 @@
       "duration_ms": 148458,
       "name": "YHWH (Yahweh)",
       "url": "https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 208887,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "El-Roi",
@@ -673,6 +657,22 @@
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Anointing",
@@ -687,26 +687,6 @@
       "duration_ms": 153103,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/6YI3KiHDnuJ2rX3cPn7MJW"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -747,6 +727,26 @@
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/6YI3KiHDnuJ2rX3cPn7MJW"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -821,26 +821,6 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Good God II",
-        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 181710,
-      "name": "Good God II",
-      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
-    },
-    {
       "added_at": "2024-11-01 00:01:00",
       "album": {
         "name": "AYO",
@@ -893,20 +873,24 @@
       "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Retro Worship",
-        "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 172821,
-      "name": "Wonderful Merciful Saviour",
-      "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -923,6 +907,22 @@
       "duration_ms": 268830,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Retro Worship",
+        "url": "https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172821,
+      "name": "Wonderful Merciful Saviour",
+      "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
     },
     {
       "added_at": "2025-02-07 00:01:02",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Glory On The Other Side",
-        "url": "https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 299871,
-      "name": "Glory On The Other Side",
-      "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
-    },
-    {
       "added_at": "2025-01-17 00:01:28",
       "album": {
         "name": "Love Greater",
@@ -979,6 +959,22 @@
       "duration_ms": 153800,
       "name": "Love Greater",
       "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
+    },
+    {
+      "added_at": "2025-02-21 00:01:28",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 297094,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk"
     }
   ],
   "unique_name": "Redeemed",

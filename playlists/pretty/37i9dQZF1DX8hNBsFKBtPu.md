@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💚 Katinka
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,765 likes - 115 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,766 likes - 115 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 114 | [Kalder Hinanden For Baby](https://open.spotify.com/track/49z3msZeeUVeSdZDuuvcYl) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Kalder Hinanden For Baby](https://open.spotify.com/album/7fL7dFdhZHl0diZuiLckmd) | 3:13 |
 | 115 | [Fartblind](https://open.spotify.com/track/5ap2LagBiIXYkxuROXgv9q) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Fartblind](https://open.spotify.com/album/7EoVkxuxuEOqh483a52H8f) | 3:38 |
 
-Snapshot ID: `Z7e0BAAAAACDbvLqd4+JOADw8R6PmmNc`
+Snapshot ID: `Z7e0BAAAAAD4N8KoBq0c7d4GxASzLQwQ`

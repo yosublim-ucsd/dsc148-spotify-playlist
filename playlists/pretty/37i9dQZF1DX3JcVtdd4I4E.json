@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7284,
+  "num_followers": 7283,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 222489,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -247,6 +247,22 @@
       "duration_ms": 178352,
       "name": "Elevator Eyes",
       "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Fight Like A Girl",
+        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Fight Like A Girl",
+      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -331,22 +347,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fight Like A Girl",
-        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Fight Like A Girl",
-      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Hold my breath",
         "url": "https://open.spotify.com/album/0eDkEAUHSyzQTuRuh6gKtJ"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 213752,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Fuck Off",
         "url": "https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 213752,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 176433,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Same Again (For Love)",
-        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 199969,
-      "name": "Same Again (For Love)",
-      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "All My Life (Where Have You Been)",
         "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Same Again (For Love)",
+        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 199969,
+      "name": "Same Again (For Love)",
+      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Expiration Date_demo_V2.wav",
-        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "Expiration Date_demo_V2.wav",
-      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Don't Know Love",
-        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "I Don\u2019t Know Love",
-      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 135066,
       "name": "deathrow bby",
       "url": "https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Expiration Date_demo_V2.wav",
+        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "Expiration Date_demo_V2.wav",
+      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "I Don't Know Love",
+        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "I Don\u2019t Know Love",
+      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Rear View",
         "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "WEIGHTLESS",
-        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 173097,
-      "name": "WEIGHTLESS",
-      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+        "name": "WEIGHTLESS",
+        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
         }
       ],
-      "duration_ms": 143081,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+      "duration_ms": 173097,
+      "name": "WEIGHTLESS",
+      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 247886,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
@@ -1055,18 +1023,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
       },
       "artists": [
         {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
         }
       ],
-      "duration_ms": 208880,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
+      "duration_ms": 247886,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1087,22 +1055,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Effort",
-        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 151947,
-      "name": "Effort",
-      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Club Romantech",
         "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
       },
@@ -1115,6 +1067,54 @@
       "duration_ms": 167362,
       "name": "Stick Your Tongue Out",
       "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Legend of Ely",
-        "url": "https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J"
-      },
-      "artists": [
-        {
-          "name": "Ely Eira",
-          "url": "https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Legend (Fortress)",
-      "url": "https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 168411,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Legend of Ely",
+        "url": "https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J"
+      },
+      "artists": [
+        {
+          "name": "Ely Eira",
+          "url": "https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Legend (Fortress)",
+      "url": "https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl"
     },
     {
       "added_at": "2024-02-08 23:00:00",

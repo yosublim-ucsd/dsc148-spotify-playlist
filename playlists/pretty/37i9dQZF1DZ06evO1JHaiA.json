@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 2995,
+  "num_followers": 2997,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAAC+jzArabFyf7ziR9+lC9pS",
+  "snapshot_id": "Z7kTgAAAAAA0cMwiVUB7adUG+FJrt7kQ",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 305600,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
+      "duration_ms": 197106,
+      "name": "Memories are Here to Stay",
+      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 197106,
-      "name": "Memories are Here to Stay",
-      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
+      "duration_ms": 305600,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 136986,
-      "name": "I've Got Love for You",
-      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 257333,
       "name": "Only One",
       "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
-        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 238240,
-      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
-      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     }
   ],
   "unique_name": "This Is The Intruders",

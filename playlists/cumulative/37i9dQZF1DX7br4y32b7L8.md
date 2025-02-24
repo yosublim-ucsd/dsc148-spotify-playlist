@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-671 songs - 1 day 10 hr 9 min
+674 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-01 | 2023-10-03 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-29 | 2024-04-09 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-26 | 2024-03-31 |
+| [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-02-23 |  |
 | [Babies Are a Lie](https://open.spotify.com/track/21ooRcqW4Dr5B97SGHjq8s) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Babies Are a Lie](https://open.spotify.com/album/6F8vMWRsrxjluWMwFkKROp) | 3:04 | 2024-06-12 | 2024-06-21 |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-09-04 | 2024-11-01 |
 | [Back It up and Dump It \(Dump Truck\)](https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7) | [GC Eternal](https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02), [Kinfolk Thugs](https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS), [Tyme Bomb](https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd), [Tre'v](https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp) | [Back It Up and Dump It \(Dump Truck\)](https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM) | 3:27 | 2024-07-03 | 2024-09-12 |
@@ -215,6 +216,7 @@
 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 | 2024-11-11 |  |
 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/0RZmpy15J6VSzx3IPuNEmR) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau), [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:34 | 2024-03-22 | 2024-11-14 |
 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-05-25 | 2024-01-07 |
+| [Fuck You](https://open.spotify.com/track/3ydfhgIZIc2j39NLIhpJpq) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(Deluxe\)](https://open.spotify.com/album/5uR0dqBMYWZFYJT7mvPZ82) | 3:43 | 2025-02-23 |  |
 | [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 | 2024-10-01 | 2024-10-22 |
 | [Ga Naar De Gym](https://open.spotify.com/track/0ILN49UubBDhmYcGiIvbQ0) | [Klaus Veen](https://open.spotify.com/artist/5hEZc6Innys0o99gLeha3K), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Ga Naar De Gym.](https://open.spotify.com/album/3SYhaoBhD7NE7dteRlCuW6) | 2:27 | 2023-02-23 | 2023-04-12 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-11 |  |
@@ -634,6 +636,7 @@
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-18 | 2024-08-02 |
 | [Verliefd Op Je Moeder](https://open.spotify.com/track/7i23TTo8rtoPiEDeMzn7Af) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Joelito Cortes](https://open.spotify.com/artist/7dFAnqjYvsqYLixFroWPYw) | [Verliefd Op Je Moeder](https://open.spotify.com/album/18cFTTLVDDjtgWDVqJ3oPd) | 3:21 | 2024-03-16 | 2024-04-09 |
 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-10 |  |
+| [Viraal](https://open.spotify.com/track/1oDGSDSB1WMKOJ9Uan2xhK) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Francis \(Deluxe\)](https://open.spotify.com/album/7grJqgWAfkay4AI7XubQYc) | 3:04 | 2025-02-23 |  |
 | [Viva Hollandia \- Oranje Versie](https://open.spotify.com/track/04rYjvkkgtZk4i6D6TOVnY) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Viva Hollandia](https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4) | 2:52 | 2024-07-10 | 2024-07-12 |
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2023-08-11 | 2023-12-15 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-07 | 2024-03-22 |

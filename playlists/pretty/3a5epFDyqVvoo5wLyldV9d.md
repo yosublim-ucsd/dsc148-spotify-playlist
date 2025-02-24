@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 834 songs - 2 day 17 hr 32 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 837 songs - 2 day 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -842,5 +842,8 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 832 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 |
 | 833 | [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 |
 | 834 | [Batkalem Gad](https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Batkalem Gad](https://open.spotify.com/album/11HyvAF5XrYmjuR7kUoO3Q) | 4:36 |
+| 835 | [Can Bedenden Çıkmayınca](https://open.spotify.com/track/6bl4EJNNCRds62RH8XqtzU) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Mançoloji, Vol\. 1](https://open.spotify.com/album/6vIYmnHpcY0TQEmTlvduNN) | 4:43 |
+| 836 | [Sen Ağlama](https://open.spotify.com/track/2QnWcEXDGihNhmr0PUu7KA) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K) | [Cemalim](https://open.spotify.com/album/57Bnlhavoq0IopMiehWaHJ) | 5:00 |
+| 837 | [Acabou Como Começou](https://open.spotify.com/track/7fSpqmFsTjQUP3S0dLwoei) | [Luna & DJ Cri](https://open.spotify.com/artist/3fbqfIJaXO9befOFEsWeBK), [Ieda Paradise](https://open.spotify.com/artist/51zxVfbiT4c2rKyWBTu0RP) | [Guarde Minha Voz](https://open.spotify.com/album/5LjycI8yQxqQ53iAM5OqvE) | 4:34 |
 
-Snapshot ID: `AAADqoCsZNPpaNrlq05QLJ/kNTaS4lfj`
+Snapshot ID: `AAADrUby7an0D5a0KsQhPR+jC+S/b9oF`

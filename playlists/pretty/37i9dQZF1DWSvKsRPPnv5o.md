@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,649 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,786 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 30 | [4 shots of your body](https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [4 shots of your body](https://open.spotify.com/album/7wB1tq2QocDBUK03Rk5AfG) | 2:44 |
 | 31 | [Generation](https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 4:16 |
 | 32 | [Party On The Westside](https://open.spotify.com/track/1WszkYqXKZJ7zIKVuKX6wm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Party On The Westside](https://open.spotify.com/album/6nVmBvD9jQfTILcWkFT50r) | 3:29 |
-| 33 | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom & Coyote\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
+| 33 | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/track/5RBtQXmlHCZEQzOBfJmymh) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Hol' That \(feat\. Ransom\)](https://open.spotify.com/album/7zxBucSyvaBHhlOTmwNisN) | 4:04 |
 | 34 | [KNOCKA](https://open.spotify.com/track/4ULnpJdMqKvD2B60PO6fz9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:30 |
 | 35 | [fire em up](https://open.spotify.com/track/4PNbCGBCejcBWW8P4vAEJf) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [fire em up](https://open.spotify.com/album/7h8R7EzFO3mhyF8B77L8Mj) | 2:29 |
 | 36 | [Nice Guy](https://open.spotify.com/track/63q1d3JbflRFoXUL5rakS4) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Nice Guy](https://open.spotify.com/album/6aLCT3WaJmZjJHTCS3MNL1) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [STAY SAFE](https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BlueBucksClan](https://open.spotify.com/artist/04gIf2ntjvCBuhkFrkeiqH), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 3:02 |
 | 100 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 
-Snapshot ID: `Z7gIYQAAAABrY03q1E9YoYUCbylMJCKL`
+Snapshot ID: `Z7gIYQAAAAC0wvluBss7WIo1gRsAJk40`

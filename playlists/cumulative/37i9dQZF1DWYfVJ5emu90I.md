@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-195 songs - 9 hr 27 min
+196 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 | 2023-03-02 | 2024-04-19 |
 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 | 2022-12-06 | 2024-04-19 |
 | [SUSUME](https://open.spotify.com/track/4s4PTfYrmItlGNVvZQNele) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME](https://open.spotify.com/album/3cnuslDMuQj8rnaeGMSOgr) | 3:18 | 2022-11-19 | 2022-12-12 |
-| [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 | 2024-02-27 |  |
+| [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 | 2024-02-27 | 2025-02-24 |
 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 | 2022-11-19 |  |
 | [Talk 2 Me](https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:02 | 2024-12-10 |  |
 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/1Gk5fwOwrZs379XdVzQ1gq) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift](https://open.spotify.com/album/1gAulHQiepBO4HBa9TYq4z) | 4:15 | 2022-11-19 | 2024-04-19 |
@@ -183,6 +183,7 @@
 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 | 2024-09-18 |  |
 | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m) | 3:17 | 2024-04-24 |  |
 | [Wakarimasen](https://open.spotify.com/track/4iGm4d3GHUXHabeTuwxSCW) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Wakarimasen](https://open.spotify.com/album/5yDWfCsK4ezG9DIn1v50KX) | 3:17 | 2022-11-19 | 2024-04-19 |
+| [WANI Remix \(feat\. BANNY BUGS, Skaai\)](https://open.spotify.com/track/30deyVHXDYgUDjhnu9j6Nn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WANI EP](https://open.spotify.com/album/3EUOQSlZQxnqCMS2xVBl92) | 2:22 | 2025-02-20 |  |
 | [WAR](https://open.spotify.com/track/6oVlyC84w0IvHWuPg6SJZM) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [WAR](https://open.spotify.com/album/5BWTz9IMuwdDMmZvFTM7gu) | 2:12 | 2022-11-19 | 2023-05-24 |
 | [Welcome to Nokey](https://open.spotify.com/track/2fyOsf65B62tZsuUcKjXfm) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [TARONINJA](https://open.spotify.com/artist/3Uxfkj88nsQVzQCPRfgt4V) | [Mine](https://open.spotify.com/album/66CgJ3JfOsSFzApT2YPf7a) | 3:13 | 2022-11-19 | 2023-05-24 |
 | [Welcome to Nokey](https://open.spotify.com/track/7aTxPhDvUZtUWJiXleCGsM) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [太郎忍者](https://open.spotify.com/artist/2mmv8uCKFZO1r7zcEJe1lp) | [Mine](https://open.spotify.com/album/4h3rgxOEJ8TbPMjoB0FqMQ) | 3:13 | 2024-02-27 | 2024-04-24 |

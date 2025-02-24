@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain](/playlists/plain/37i9dQZF1DX6wbVzPMSvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6wbVzPMSvwH)
 
-### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
+### [Semangat Sahur](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Lagu\-lagu positif untuk mengawali harimu.
+> Lagu\-lagu positif untuk menemanimu bersantap sahur
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,538 likes - 83 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,535 likes - 83 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 82 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 |
 | 83 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 |
 
-Snapshot ID: `Z7Vc3AAAAABZIU2bIqzTMHjBR0B+d43k`
+Snapshot ID: `Z7tUNAAAAADtMedA5gbKfLUzWGdO2w+U`

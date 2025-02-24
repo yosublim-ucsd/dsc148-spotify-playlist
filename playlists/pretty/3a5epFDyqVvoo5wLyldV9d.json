@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADqoCsZNPpaNrlq05QLJ/kNTaS4lfj",
+  "snapshot_id": "AAADrUby7an0D5a0KsQhPR+jC+S/b9oF",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -13839,6 +13839,58 @@
       "duration_ms": 276506,
       "name": "Batkalem Gad",
       "url": "https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3"
+    },
+    {
+      "added_at": "2025-02-23 08:49:31",
+      "album": {
+        "name": "Man\u00e7oloji, Vol. 1",
+        "url": "https://open.spotify.com/album/6vIYmnHpcY0TQEmTlvduNN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u0131\u015f Man\u00e7o",
+          "url": "https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc"
+        }
+      ],
+      "duration_ms": 283689,
+      "name": "Can Bedenden \u00c7\u0131kmay\u0131nca",
+      "url": "https://open.spotify.com/track/6bl4EJNNCRds62RH8XqtzU"
+    },
+    {
+      "added_at": "2025-02-23 08:50:07",
+      "album": {
+        "name": "Cemalim",
+        "url": "https://open.spotify.com/album/57Bnlhavoq0IopMiehWaHJ"
+      },
+      "artists": [
+        {
+          "name": "Cansever",
+          "url": "https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K"
+        }
+      ],
+      "duration_ms": 300880,
+      "name": "Sen A\u011flama",
+      "url": "https://open.spotify.com/track/2QnWcEXDGihNhmr0PUu7KA"
+    },
+    {
+      "added_at": "2025-02-23 22:04:32",
+      "album": {
+        "name": "Guarde Minha Voz",
+        "url": "https://open.spotify.com/album/5LjycI8yQxqQ53iAM5OqvE"
+      },
+      "artists": [
+        {
+          "name": "Luna & DJ Cri",
+          "url": "https://open.spotify.com/artist/3fbqfIJaXO9befOFEsWeBK"
+        },
+        {
+          "name": "Ieda Paradise",
+          "url": "https://open.spotify.com/artist/51zxVfbiT4c2rKyWBTu0RP"
+        }
+      ],
+      "duration_ms": 274842,
+      "name": "Acabou Como Come\u00e7ou",
+      "url": "https://open.spotify.com/track/7fSpqmFsTjQUP3S0dLwoei"
     }
   ],
   "unique_name": "Worldly",

@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 170244,
+  "num_followers": 170321,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "Rio - 2009 Remaster",
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 337266,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "Rio - 2009 Remaster",
-      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Who Needs Love Like That",
-      "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Actually",
         "url": "https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74"
       },
@@ -983,6 +967,54 @@
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Who Needs Love Like That",
+      "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "The Sound Of The Crowd - Remastered 2002",
+      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "West End Girls - 2001 Remaster",
+      "url": "https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1035,22 +1067,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "The Sound Of The Crowd - Remastered 2002",
-      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "West End Girls - 2001 Remaster",
-      "url": "https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0"
     },
     {
       "added_at": "2024-07-09 02:45:34",

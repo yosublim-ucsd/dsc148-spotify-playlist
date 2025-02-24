@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADRByfDtWOBW/0HC2pIzFbDTwKYaBj",
+  "snapshot_id": "AAADRTcNmc5h4pQ7zvBozX+LDxUoRNxX",
   "tracks": [
+    {
+      "added_at": "2025-02-23 23:07:35",
+      "album": {
+        "name": "if u get lost",
+        "url": "https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0"
+      },
+      "artists": [
+        {
+          "name": "ARRYTH",
+          "url": "https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ"
+        }
+      ],
+      "duration_ms": 271448,
+      "name": "if u get lost",
+      "url": "https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS"
+    },
     {
       "added_at": "2025-02-22 09:00:45",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,710 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,745 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Dans mes rêves](https://open.spotify.com/track/3FTyOftBC1Ssojv0oB0riS) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Dans mes rêves](https://open.spotify.com/album/2J58rgVgtmeDgjpkYuH7st) | 3:00 |
 | 40 | [Et si…](https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Et si…](https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j) | 3:03 |
 
-Snapshot ID: `Z7e0BQAAAADn31yS9zZeM2bEedB8EBiP`
+Snapshot ID: `Z7e0BQAAAAAl1dOiGK5ztjx86EMXFpiZ`

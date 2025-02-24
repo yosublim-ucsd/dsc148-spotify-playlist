@@ -2633,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "if u get lost",
+        "url": "https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0"
+      },
+      "artists": [
+        {
+          "name": "ARRYTH",
+          "url": "https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271448,
+      "name": "if u get lost",
+      "url": "https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS"
+    },
+    {
+      "album": {
         "name": "In The Night",
         "url": "https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj"
       },

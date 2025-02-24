@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Ninho x Niska au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,208 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,338 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 |
 | 40 | [LE PLAN](https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE PLAN](https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB) | 2:48 |
 
-Snapshot ID: `Z7e0CQAAAAArbjqnFvYUITvslE180Nzb`
+Snapshot ID: `Z7e0CQAAAADIq5XJdT4VYX+zHdJFk8to`

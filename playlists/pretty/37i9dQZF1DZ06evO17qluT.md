@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,217 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,288 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 50 | [Estou Pronto](https://open.spotify.com/track/1K1FiMlJcF8MLatTtb5I6q) | [Goribeatzz](https://open.spotify.com/artist/49HDbqanAupBgdzDaHPGk9), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Estou Pronto](https://open.spotify.com/album/1u3wi9Erf344qelp0Df6MS) | 2:42 |
 | 51 | [Vivência](https://open.spotify.com/track/7n94CCZ7C8xN9seKuBsFVX) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Arteiro](https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM) | 3:50 |
 
-Snapshot ID: `Z7fCAAAAAABNB/UWCJXQ5yEC9LSnVexF`
+Snapshot ID: `Z7kTgAAAAAD++zPcXs7H3VAM/8N/mQaj`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 42923,
+  "num_followers": 42931,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAAA/jd6LjSt1HL2ujqhwPC6W",
+  "snapshot_id": "Z7kTgAAAAAAAyGVMJ7eKB9I5eNhL6Xpp",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VERDE",
+        "url": "https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 125625,
+      "name": "VERDE",
+      "url": "https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERDE",
-        "url": "https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "VERDE",
-      "url": "https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac"
     },
     {
       "added_at": null,

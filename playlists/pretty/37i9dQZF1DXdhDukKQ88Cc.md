@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 200% kontrol <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">@Merro8</a> 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,023 likes - 63 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,031 likes - 63 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 4 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 |
 | 5 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 |
 | 6 | [Brummer \(feat\. KESI\)](https://open.spotify.com/track/24OxOXIG8y2mMZgDI2lfFX) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Brummer \(feat\. KESI\)](https://open.spotify.com/album/4sn6av6beIjH5BFrQAE25V) | 2:34 |
-| 7 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:07 |
+| 7 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:05 |
 | 8 | [Robocop](https://open.spotify.com/track/6TT6zYIiI0nSzXMuI801zP) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Robocop](https://open.spotify.com/album/0kT4pDLex7Z2vGzjmFMxWC) | 3:03 |
 | 9 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 |
 | 10 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 |

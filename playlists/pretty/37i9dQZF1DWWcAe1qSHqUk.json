@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60952,
+  "num_followers": 60973,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 227953,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Rarities, Outtakes & Other Delights, Vol. 2",
         "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 203306,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 227953,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
-        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Why Try to Change Me Now",
-      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 223066,
       "name": "This Guy's In Love With You",
       "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
+        "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Why Try to Change Me Now",
+      "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "Homefree",
         "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 361253,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -811,6 +795,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "Every Star Above",
         "url": "https://open.spotify.com/album/0hSKVSo0eF62Ok7vBIfjzZ"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 173360,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/2i3B9uckEYX5rgLuqCatlQ"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -847,18 +863,18 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+        "name": "Al Pr\u00edncipe Bossa",
+        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
       },
       "artists": [
         {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
         }
       ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+      "duration_ms": 205800,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -875,22 +891,6 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Al Pr\u00edncipe Bossa",
-        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
-      },
-      "artists": [
-        {
-          "name": "Valeria",
-          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
-      },
-      "artists": [
-        {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 181826,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
       "artists": [
         {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
         }
       ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "All About Chris",
         "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 180146,
       "name": "All About Ronnie",
       "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Jazz And 80s",
+        "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
+      },
+      "artists": [
+        {
+          "name": "Dinah Eastwood",
+          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Hungry Like The Wolf",
+      "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Jazz And 80s",
-        "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
-      },
-      "artists": [
-        {
-          "name": "Dinah Eastwood",
-          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Hungry Like The Wolf",
-      "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
     },
     {
       "added_at": "2025-02-03 02:26:01",

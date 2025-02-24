@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "\ub098\ub97c \uc0ac\ub791\ud558\uc9c0 \uc54a\uc740 \uc8c4 OST Part.17 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3QRsn8XvvZzVNDP3Zyf0qU"
+      },
+      "artists": [
+        {
+          "name": "Ramit",
+          "url": "https://open.spotify.com/artist/6Yn0YofUeeqrAserz1HDLW"
+        }
+      ],
+      "date_added": "2025-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195725,
+      "name": "How can I really be okay",
+      "url": "https://open.spotify.com/track/3gBTMLQWWNAKoSze0xqMnr"
+    },
+    {
+      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 207346,
       "name": "Write about you (Romance 101 X Lyn)",
       "url": "https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4"

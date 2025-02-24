@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,551,786 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,551,662 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 |
 | 75 | [On The Floor](https://open.spotify.com/track/6PuqQXLHlsKM4f8NwE87r8) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [All Pleasure](https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ) | 3:50 |
 
-Snapshot ID: `Z7gIcgAAAADtzFMq8qobE4kt5FqWsIP/`
+Snapshot ID: `Z7gIcgAAAABbkCUSLFbfXSx/+u5Lno/b`

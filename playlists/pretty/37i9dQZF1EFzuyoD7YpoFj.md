@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 406 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 406 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,8 +255,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 245 | [Two In Love](https://open.spotify.com/track/1Dvy59xZBgGmNSQIagdYq0) | [Tommy Dorsey \| Frank Sinatra](https://open.spotify.com/artist/4uE1NWjbRoo7zD2OZmvndT) | [The Incomparable Tommy Dorsey & Frank Sinatra](https://open.spotify.com/album/6lFUvpPEt1ISudV8dHmSdb) | 2:57 |
 | 246 | [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 |
 | 247 | [Entr'acte](https://open.spotify.com/track/2cza8SLNgkeyWsLltUFkOu) | [Cry\-Baby Original Studio Recording Band](https://open.spotify.com/artist/1UVs2xdFKJM0OGcJY9lfzo) | [Cry\-Baby: The Musical \(Original Studio Cast Recording\)](https://open.spotify.com/album/0arUsNaIHplHS1RJt5Topb) | 0:53 |
-| 248 | [Pilot Me](https://open.spotify.com/track/71B847yYnD56zyHeSP4dRY) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:45 |
-| 249 | [Silk Stockings](https://open.spotify.com/track/1gPgwdyN9t8b3cVJgBX8sG) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 4:29 |
+| 248 | [Silk Stockings](https://open.spotify.com/track/1gPgwdyN9t8b3cVJgBX8sG) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 4:29 |
+| 249 | [Pilot Me](https://open.spotify.com/track/71B847yYnD56zyHeSP4dRY) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:45 |
 | 250 | [What Do You Think About \- Radio Edit](https://open.spotify.com/track/11izjBmZj9dP8Z2QgbiGjW) | [2 Black](https://open.spotify.com/artist/7xdKYR7N2gDELPnlvUmOZ7) | [The Album](https://open.spotify.com/album/38ZcB4gvAcbmE7LHoB1NuM) | 3:00 |
 | 251 | [Selectons From Can\-can \- Maidens Typical Of France](https://open.spotify.com/track/69svx0s5MyDNPReTWvoeyK) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:27 |
 | 252 | [Daphne's Office](https://open.spotify.com/track/78ZVpmTKkp9Ck9EfaFazAm) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:15 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 406 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbqTfgAAAABw1750C5+FXaU3qhmbhfqr`
+Snapshot ID: `AbqZHgAAAADCCPWHawwCal8HUJ1VHoQH`

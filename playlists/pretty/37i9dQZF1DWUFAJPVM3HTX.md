@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju?si=Wn\-FQhGdTiuZtW2jdm7Ljg"> JayDon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,136 likes - 191 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,190 likes - 191 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 190 | [Gemini](https://open.spotify.com/track/56UJfi2EV1fXl800yetpch) | [Maray](https://open.spotify.com/artist/6ChY6xBN5iaiP59I0UyRGw) | [WhosMaray](https://open.spotify.com/album/3J2OSmWsPCZ8MtR6INXowo) | 2:02 |
 | 191 | [Insecure](https://open.spotify.com/track/6qWvfaLH8W4EBCYEMOYNyk) | [Résa](https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O) | [Insecure](https://open.spotify.com/album/5q0JB8CNJQWiwNQH1SAwHy) | 3:00 |
 
-Snapshot ID: `Z7is9AAAAADwgvGHkrijCd2r6lOFcksj`
+Snapshot ID: `Z7is9AAAAADlT7ze+mkmn7ONXCwHEtul`

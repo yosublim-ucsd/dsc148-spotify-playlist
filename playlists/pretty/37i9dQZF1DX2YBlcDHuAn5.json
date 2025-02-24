@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 31702,
+  "num_followers": 31703,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
-        "name": "Til The Sun Goes Down",
-        "url": "https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 169634,
-      "name": "O.D.",
-      "url": "https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
+        "name": "Til The Sun Goes Down",
+        "url": "https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 169634,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -147,26 +147,6 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
@@ -199,22 +179,6 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
       },
@@ -231,6 +195,26 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 127714,
       "name": "Mud",
       "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -267,38 +267,18 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 180152,
-      "name": "Purple Gas",
-      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -335,6 +315,26 @@
       "duration_ms": 179200,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 180152,
+      "name": "Purple Gas",
+      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 257346,
       "name": "One Deep River",
       "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
+        "name": "I Love You / Greyhound Station",
+        "url": "https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 169740,
+      "name": "Greyhound Station",
+      "url": "https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
         "name": "Feel Like Going Home (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 185984,
       "name": "Trouble (Sunday Version)",
       "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
-        "name": "I Love You / Greyhound Station",
-        "url": "https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 169740,
-      "name": "Greyhound Station",
-      "url": "https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -715,6 +715,26 @@
       "duration_ms": 186469,
       "name": "Sam",
       "url": "https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe"
+    },
+    {
+      "added_at": "2025-02-20 23:00:16",
+      "album": {
+        "name": "One For You",
+        "url": "https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k"
+      },
+      "artists": [
+        {
+          "name": "Johnny & the Dinosaurs",
+          "url": "https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS"
+        },
+        {
+          "name": "Aidan & the Wild",
+          "url": "https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "One For You",
+      "url": "https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -767,22 +787,18 @@
     {
       "added_at": "2025-02-20 23:00:16",
       "album": {
-        "name": "One For You",
-        "url": "https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k"
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
       "artists": [
         {
-          "name": "Johnny & the Dinosaurs",
-          "url": "https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS"
-        },
-        {
-          "name": "Aidan & the Wild",
-          "url": "https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 243320,
-      "name": "One For You",
-      "url": "https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf"
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2025-02-20 23:00:16",
@@ -799,22 +815,6 @@
       "duration_ms": 195490,
       "name": "Mortality Blues",
       "url": "https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy"
-    },
-    {
-      "added_at": "2025-02-20 23:00:16",
-      "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2025-02-20 23:00:16",

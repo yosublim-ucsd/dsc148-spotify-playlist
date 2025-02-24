@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,622 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,620 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,28 +25,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [twotwentytwo](https://open.spotify.com/track/2zzSawnYOXqBlBUjnM3Qw8) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [twotwentytwo](https://open.spotify.com/album/0uXHkdz38QdvSb5NalVzUX) | 4:01 |
 | 16 | [Feel it](https://open.spotify.com/track/15V6a172Lx1oPZdBHoRjvx) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/2GOXho7n1Z66yYaz1VyoD5) | 3:22 |
 | 17 | [Ich fühl alles](https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich fühl alles](https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA) | 2:37 |
-| 18 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
-| 19 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
+| 18 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
+| 19 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
 | 20 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
-| 21 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
-| 22 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
-| 23 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 21 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
+| 22 | [Lumen](https://open.spotify.com/track/4Mm00zTo9ZWp6SAGBwyafq) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Lumen](https://open.spotify.com/album/2RRFD49K7raiEzRqDCEAjp) | 2:23 |
+| 23 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
 | 24 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
 | 25 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
 | 26 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
 | 27 | [2 Fledermäuse](https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [2 Fledermäuse](https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO) | 3:19 |
 | 28 | [Tränen gefroren](https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tränen gefroren](https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM) | 2:32 |
-| 29 | [Nichts tut gut](https://open.spotify.com/track/3u7owldWSaheL4MG4UKIcY) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS), [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Nichts tut gut](https://open.spotify.com/album/35Waw6VtY9cWLB8nENedzQ) | 2:33 |
-| 30 | [Eines Tages](https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Eines Tages](https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2) | 2:16 |
+| 29 | [Eines Tages](https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Eines Tages](https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2) | 2:16 |
+| 30 | [Nichts tut gut](https://open.spotify.com/track/3u7owldWSaheL4MG4UKIcY) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS), [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Nichts tut gut](https://open.spotify.com/album/35Waw6VtY9cWLB8nENedzQ) | 2:33 |
 | 31 | [Alrighter](https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Alrighter](https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW) | 2:18 |
 | 32 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |
 | 33 | [silbertablett](https://open.spotify.com/track/3d5uy1dirx1L8zaNf2crD4) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [silbertablett](https://open.spotify.com/album/1qeNOzoSIRT9HcV728CBFh) | 3:15 |
 | 34 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
 | 35 | [ich würde dich nie bereuen](https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [ich würde dich nie bereuen](https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL) | 2:44 |
 | 36 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
-| 37 | [Schwarze Magie](https://open.spotify.com/track/0mkzp3A8Cr6sIN9wOqJhk5) | [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Schwarze Magie](https://open.spotify.com/album/41HT1dDyuKKbvuCnykRJ26) | 1:43 |
-| 38 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
-| 39 | [A.D.H.D](https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [A.D.H.D](https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7) | 2:54 |
+| 37 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
+| 38 | [A.D.H.D](https://open.spotify.com/track/05NRzMMliU7KUQ0ffT1grm) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [A.D.H.D](https://open.spotify.com/album/5TbX4x7ZtxtEaRK1QFY1J7) | 2:54 |
+| 39 | [Schwarze Magie](https://open.spotify.com/track/0mkzp3A8Cr6sIN9wOqJhk5) | [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Schwarze Magie](https://open.spotify.com/album/41HT1dDyuKKbvuCnykRJ26) | 1:43 |
 | 40 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
 | 41 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 |
 | 42 | [i\-i\-i](https://open.spotify.com/track/6b6aaGlv0iNDJvwTHtV0or) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [I'm Going Somewhere Better Later](https://open.spotify.com/album/7LUSFRgWkfL7rmL4zNXPHD) | 4:15 |

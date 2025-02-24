@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 x 周杰倫 \(Patrick Brasca x Jay Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,611 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,831 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [不愛就不愛](https://open.spotify.com/track/28y6huBepebPPupr6F5xup) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [不愛就不愛](https://open.spotify.com/album/4vODVYoNDliJSAQONGWwqI) | 3:17 |
 | 50 | [Dancing in the Dark 2.0](https://open.spotify.com/track/2pVsRKazNvGhKGaRUaBu3F) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [等一下就回家](https://open.spotify.com/artist/5MPJmSm1l631HPse8wLB4z) | [Dancing in the Dark 2.0](https://open.spotify.com/album/43ySzUpBQrvjMFfWgO5qen) | 3:22 |
 
-Snapshot ID: `Z7NdCwAAAADlRHqF0O0CrtEN6nlaVvbW`
+Snapshot ID: `Z7NdCwAAAABBvYZlPrndCfPFQd2TQFMw`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 321844,
+  "num_followers": 321916,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAACKKXjqW9QFSf8OwxVRrVNo",
+  "snapshot_id": "Z7kTgAAAAACW571AKFUqYbTPkc4hOu62",
   "tracks": [
     {
       "added_at": null,
@@ -219,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 153173,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/6BoMeHQItchMLEc8Uz93u2"
+      "duration_ms": 180025,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 180025,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
+      "duration_ms": 153173,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/6BoMeHQItchMLEc8Uz93u2"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+      "duration_ms": 189939,
+      "name": "Dinast\u00eda De Los Ochoa",
+      "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 156120,
       "name": "La Ametralladora",
       "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Dinast\u00eda De Los Ochoa",
-      "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, Jo\u00e3o Gomes",
-  "num_followers": 341797,
+  "num_followers": 341883,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Joelma",
-        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Voando Pro Par\u00e1",
-      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
         "name": "Aquele Algu\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp"
       },
@@ -139,6 +123,42 @@
       "duration_ms": 174641,
       "name": "Aquele Algu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Daqui pra Sempre",
+        "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Torre Eiffel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Joelma",
+        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Voando Pro Par\u00e1",
+      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -195,22 +215,6 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Joelma",
-        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "N\u00e3o Teve Amor",
-      "url": "https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
         "name": "Daqui pra Sempre",
         "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
       },
@@ -220,65 +224,13 @@
           "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
         },
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 202678,
-      "name": "Torre Eiffel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Olha Bem pra Mim",
-        "url": "https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59"
-      },
-      "artists": [
-        {
-          "name": "Viviane Batid\u00e3o",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        }
-      ],
-      "duration_ms": 232327,
-      "name": "Olha Bem pra Mim",
-      "url": "https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Ultima Vez",
-        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
-      },
-      "artists": [
-        {
-          "name": "Billy Brasil",
-          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
-        },
-        {
-          "name": "Batid\u00e3o do Melody",
-          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Ultima Vez",
-      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD"
-      },
-      "artists": [
-        {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Me Telefona",
-      "url": "https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E"
+      "duration_ms": 207161,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/1rIjWQlGJXjDtOKl8CzToC"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -303,38 +255,54 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Ai Ai Ai Mega Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
+        "name": "Olha Bem pra Mim",
+        "url": "https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
         }
       ],
-      "duration_ms": 183713,
-      "name": "Ai Ai Ai Mega Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
+      "duration_ms": 232327,
+      "name": "Olha Bem pra Mim",
+      "url": "https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN"
     },
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Daqui pra Sempre",
-        "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
+        "name": "Joelma",
+        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
       },
       "artists": [
         {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
         }
       ],
-      "duration_ms": 207161,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/1rIjWQlGJXjDtOKl8CzToC"
+      "duration_ms": 192533,
+      "name": "N\u00e3o Teve Amor",
+      "url": "https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Ultima Vez",
+        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
+      },
+      "artists": [
+        {
+          "name": "Billy Brasil",
+          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
+        },
+        {
+          "name": "Batid\u00e3o do Melody",
+          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Ultima Vez",
+      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -359,6 +327,38 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
+        "name": "Ai Ai Ai Mega Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD"
+      },
+      "artists": [
+        {
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Me Telefona",
+      "url": "https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
         "name": "Essa \u00c9 a Ultima Vez",
         "url": "https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7"
       },
@@ -371,38 +371,6 @@
       "duration_ms": 211765,
       "name": "Essa \u00c9 a Ultima Vez",
       "url": "https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla"
-      },
-      "artists": [
-        {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Isso \u00c9 Calypso na Amaz\u00f4nia - Bloco 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 259129,
-      "name": "Pra Te Esquecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -471,54 +439,18 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Ao Som do Fruto, Vol. 02",
-        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+        "name": "Isso \u00c9 Calypso na Amaz\u00f4nia - Bloco 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn"
       },
       "artists": [
         {
-          "name": "Fruto Sensual",
-          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
         }
       ],
-      "duration_ms": 229276,
-      "name": "Vem Curtir Com Jackson",
-      "url": "https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "Olha Bem Pra Mim",
-        "url": "https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU"
-      },
-      "artists": [
-        {
-          "name": "Viviane Batid\u00e3o",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        },
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Olha Bem Pra Mim",
-      "url": "https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "O Ritmo Que Conquistou o Brasil - Vol.03",
-        "url": "https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3"
-      },
-      "artists": [
-        {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Pra Me Conquistar",
-      "url": "https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng"
+      "duration_ms": 259129,
+      "name": "Pra Te Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -539,18 +471,34 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Isso \u00c9 Calypso Tour Brasil (Ao Vivo em S\u00e3o Paulo - SP) EP5",
-        "url": "https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH"
+        "name": "Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla"
       },
       "artists": [
         {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
         }
       ],
-      "duration_ms": 152585,
-      "name": "L\u00e1grimas de Sangue (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5"
+      "duration_ms": 212200,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Ao Som do Fruto, Vol. 02",
+        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        }
+      ],
+      "duration_ms": 229276,
+      "name": "Vem Curtir Com Jackson",
+      "url": "https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -571,6 +519,26 @@
       "duration_ms": 175130,
       "name": "O Traficante",
       "url": "https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Olha Bem Pra Mim",
+        "url": "https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU"
+      },
+      "artists": [
+        {
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        },
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Olha Bem Pra Mim",
+      "url": "https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -627,6 +595,38 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
+        "name": "Ao Som do Fruto, Vol. 02",
+        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        }
+      ],
+      "duration_ms": 180819,
+      "name": "Dan\u00e7ar Com Itamaraty",
+      "url": "https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Isso \u00c9 Calypso Tour Brasil (Ao Vivo em S\u00e3o Paulo - SP) EP5",
+        "url": "https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 152585,
+      "name": "L\u00e1grimas de Sangue (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
         "name": "Banda Xeiro de Mel (Tecnobrega - O Ritmo Que Conquistou o Brasil)",
         "url": "https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 215306,
       "name": "Ela T\u00e1 Beba Doida",
       "url": "https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "O Ritmo Que Conquistou o Brasil - Vol.03",
+        "url": "https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3"
+      },
+      "artists": [
+        {
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Pra Me Conquistar",
+      "url": "https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -659,18 +675,18 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Ao Som do Fruto, Vol. 02",
-        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+        "name": "Envolvendo Voc\u00ea!",
+        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
       },
       "artists": [
         {
-          "name": "Fruto Sensual",
-          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+          "name": "Banda Ravelly",
+          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
         }
       ],
-      "duration_ms": 180819,
-      "name": "Dan\u00e7ar Com Itamaraty",
-      "url": "https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I"
+      "duration_ms": 253186,
+      "name": "Ultra Som",
+      "url": "https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -691,6 +707,22 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
+        "name": "TecnoShow",
+        "url": "https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua"
+      },
+      "artists": [
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "Reacender a Chama",
+      "url": "https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
         "name": "Hit 2023",
         "url": "https://open.spotify.com/album/1j6MVT6T1C51L74WJvKL9Z"
       },
@@ -703,6 +735,26 @@
       "duration_ms": 184086,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/6FkTHnkkESftfYIMNdkTHX"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
+        "url": "https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        },
+        {
+          "name": "Val\u00e9ria Paiva",
+          "url": "https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
+      "url": "https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -723,18 +775,18 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Envolvendo Voc\u00ea!",
-        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
+        "name": "\u00c9 Tudo pra Mim",
+        "url": "https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f"
       },
       "artists": [
         {
-          "name": "Banda Ravelly",
-          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
+          "name": "Banda Paix\u00e3o do Calypso",
+          "url": "https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m"
         }
       ],
-      "duration_ms": 253186,
-      "name": "Ultra Som",
-      "url": "https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908"
+      "duration_ms": 251638,
+      "name": "\u00c9 Tudo pra Mim",
+      "url": "https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -748,25 +800,9 @@
           "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
         }
       ],
-      "duration_ms": 223855,
-      "name": "Reacender a Chama",
-      "url": "https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
-        "name": "\u00c9 Tudo pra Mim",
-        "url": "https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f"
-      },
-      "artists": [
-        {
-          "name": "Banda Paix\u00e3o do Calypso",
-          "url": "https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m"
-        }
-      ],
-      "duration_ms": 251638,
-      "name": "\u00c9 Tudo pra Mim",
-      "url": "https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm"
+      "duration_ms": 189708,
+      "name": "Amor Calado",
+      "url": "https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf"
     },
     {
       "added_at": "2025-02-14 03:00:09",
@@ -827,26 +863,6 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
-        "url": "https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3"
-      },
-      "artists": [
-        {
-          "name": "Fruto Sensual",
-          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
-        },
-        {
-          "name": "Val\u00e9ria Paiva",
-          "url": "https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
-      "url": "https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
         "name": "SET de Melody e Calypso #2024",
         "url": "https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "TecnoShow",
-        "url": "https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua"
-      },
-      "artists": [
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 189708,
-      "name": "Amor Calado",
-      "url": "https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
         "name": "Manu",
         "url": "https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-02-14 03:00:09",
       "album": {
-        "name": "O Rei Do Techno Brega",
-        "url": "https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX"
-      },
-      "artists": [
-        {
-          "name": "Jurandy",
-          "url": "https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Chico Preto",
-      "url": "https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q"
-    },
-    {
-      "added_at": "2025-02-14 03:00:09",
-      "album": {
         "name": "B\u00fafalo do Maraj\u00f3",
         "url": "https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 215379,
       "name": "Louca Paix\u00e3o",
       "url": "https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y"
+    },
+    {
+      "added_at": "2025-02-14 03:00:09",
+      "album": {
+        "name": "O Rei Do Techno Brega",
+        "url": "https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX"
+      },
+      "artists": [
+        {
+          "name": "Jurandy",
+          "url": "https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "Chico Preto",
+      "url": "https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q"
     },
     {
       "added_at": "2025-02-14 03:00:09",

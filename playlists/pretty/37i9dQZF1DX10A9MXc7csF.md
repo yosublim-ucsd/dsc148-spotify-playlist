@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Angelina Victoria, Franco Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,003 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,020 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [No vale la pena](https://open.spotify.com/track/4iXGu3a7qOAIctiygyXHhR) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [No vale la pena](https://open.spotify.com/album/0x7dEXPG2fXaALtDYDHbRU) | 2:19 |
 | 100 | [La Vida Es Un Juego](https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 2:51 |
 
-Snapshot ID: `Z7gWawAAAADJcA0jiacneYan475YbMMs`
+Snapshot ID: `Z7gWawAAAADfttV5IsskZPwtXAyoLIJ1`

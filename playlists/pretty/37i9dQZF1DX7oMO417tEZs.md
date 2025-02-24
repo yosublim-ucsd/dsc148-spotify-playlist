@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Léa Sen
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,705 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,725 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Waiting for the Phone to Ring](https://open.spotify.com/track/6vcI4lCZTei1aZYZqVkTMw) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Waiting for the Phone to Ring](https://open.spotify.com/album/2t50y9DdO7yPhnM54cAIvf) | 3:59 |
 | 100 | [Don't Wanna Know How You Feel](https://open.spotify.com/track/6kAtAcYclMSIOL8MXXAuPp) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Don't Wanna Know How You Feel](https://open.spotify.com/album/3rkcSbdB7vnlaJ3YeOJB6i) | 1:43 |
 
-Snapshot ID: `Z7gIcwAAAADx0MOiaLJCvM35wlscCO+U`
+Snapshot ID: `Z7gIcwAAAABC86zJypm6x4VyV/GRSIae`

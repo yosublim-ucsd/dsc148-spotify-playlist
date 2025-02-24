@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 98538,
+  "num_followers": 98544,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
         }
       ],
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -487,54 +487,6 @@
       "duration_ms": 187786,
       "name": "Muchacha (Ojos de Papel)",
       "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "La Balsa",
-      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -555,8 +507,24 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Lo Mejor de Pescado Rabioso",
-        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
       "artists": [
         {
@@ -564,9 +532,25 @@
           "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 226226,
-      "name": "Post-Crucifixion",
-      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+      "duration_ms": 243266,
+      "name": "Las Habladurias del Mundo",
+      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "La Balsa",
+      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -603,22 +587,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
-        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
-      },
-      "artists": [
-        {
-          "name": "La Joven Guardia",
-          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Confesiones De Invierno",
         "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 191226,
       "name": "Rasgu\u00f1a las Piedras",
       "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
+        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
+      },
+      "artists": [
+        {
+          "name": "La Joven Guardia",
+          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -683,6 +667,38 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Lo Mejor de Pescado Rabioso",
+        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Post-Crucifixion",
+      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
         "name": "Bajo Belgrano",
         "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 207093,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "The 24 Greatest Songs",
+        "url": "https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Quiereme Mucho - Yours",
+      "url": "https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -759,38 +791,6 @@
       "duration_ms": 222693,
       "name": "El Momento En Que Est\u00e1s",
       "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "The 24 Greatest Songs",
-        "url": "https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Quiereme Mucho - Yours",
-      "url": "https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS"
     },
     {
       "added_at": "2024-06-12 23:42:51",

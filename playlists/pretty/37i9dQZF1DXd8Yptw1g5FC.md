@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Haftanın en iyi yeni çıkışları\. Kapak: Baran Mengüç
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,964 likes - 88 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,952 likes - 88 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

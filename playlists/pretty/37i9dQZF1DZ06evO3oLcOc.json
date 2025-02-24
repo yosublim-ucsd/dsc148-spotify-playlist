@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 225537,
+  "num_followers": 225551,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAADPOhRzIkNC/tLrqKfP00sd",
+  "snapshot_id": "Z7kTgAAAAABxCQvF+Q6qq63CSRQECvgB",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "GFU",
-      "url": "https://open.spotify.com/track/3I3JCtkBC9iEDUQKdZFDeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -1043,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "GFU",
+      "url": "https://open.spotify.com/track/3I3JCtkBC9iEDUQKdZFDeF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bops Goin Brazy",
         "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
       },
@@ -1059,22 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Whodie",
-      "url": "https://open.spotify.com/track/46XvwXzgDKO17iJbypITyl"
+      "duration_ms": 213400,
+      "name": "Girl You Loud",
+      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
     }
   ],
   "unique_name": "This Is Tyga",

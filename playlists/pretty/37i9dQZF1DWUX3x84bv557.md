@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Niels Destadsbader & Tessa June
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,319 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,308 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bijna Vergeten](https://open.spotify.com/track/1IHtQNtU0zjsEzxi5Or1Ik) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/6GjSdIu502JeX82VWzfdRE) | 3:04 |
 | 2 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 |
-| 3 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
-| 4 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
-| 5 | [Laat Me Er Langs](https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Laat Me Er Langs](https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H) | 2:31 |
-| 6 | [Deze Plek](https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc) | 3:09 |
-| 7 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 3 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 4 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
+| 5 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
+| 6 | [Laat Me Er Langs](https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Laat Me Er Langs](https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H) | 2:31 |
+| 7 | [Deze Plek](https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc) | 3:09 |
 | 8 | [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 |
 | 9 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 |
 | 10 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 |
 | 70 | [Slapeloze Nachten](https://open.spotify.com/track/3fmYPNsF8AgNGRxYWLwcCv) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Slapeloze Nachten](https://open.spotify.com/album/0FtWIHivA3Ak6CG7N0Drss) | 2:40 |
 
-Snapshot ID: `Z7nVwAAAAAC9sXqPAwE3cAVjd9S+S9a4`
+Snapshot ID: `Z7rX7AAAAACmjvZEq7Xvb/T0b3+xV3cm`

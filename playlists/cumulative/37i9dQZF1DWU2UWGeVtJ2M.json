@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "every scent",
+        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
+      },
+      "artists": [
+        {
+          "name": "Yokin",
+          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251727,
+      "name": "every scent",
+      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
+    },
+    {
+      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM"
       },
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"

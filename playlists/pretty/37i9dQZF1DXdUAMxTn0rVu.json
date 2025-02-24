@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: DJ Premier",
-  "num_followers": 565960,
+  "num_followers": 566096,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
+        "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
         "name": "Expansion Team",
         "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -175,18 +175,18 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "MM..FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "Acid Raindrops",
         "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
@@ -243,6 +223,26 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
         "name": "Y2k The Album",
         "url": "https://open.spotify.com/album/2ztkCkIhykYgT6MMQiGaSA"
       },
@@ -255,6 +255,26 @@
       "duration_ms": 188630,
       "name": "F.A.Y.B.A.N.",
       "url": "https://open.spotify.com/track/3AoEnlrURQTCYvNVFqSXQo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -319,30 +339,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "D.I.T.C.",
         "url": "https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ"
       },
@@ -371,22 +367,42 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
         {
           "name": "MF DOOM",
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
         }
       ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+      "duration_ms": 234146,
+      "name": "Hoe Cakes",
+      "url": "https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -423,6 +439,22 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
+        "name": "Extra, Extra!!",
+        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
+      },
+      "artists": [
+        {
+          "name": "Paula Perry",
+          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Extra, Extra!! - Radio Edit",
+      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
         "name": "Travellin' Man (Remastered)",
         "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
       },
@@ -443,18 +475,38 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Extra, Extra!!",
-        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
+        "name": "Shadows On The Sun",
+        "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
       },
       "artists": [
         {
-          "name": "Paula Perry",
-          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Extra, Extra!! - Radio Edit",
-      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+      "duration_ms": 180066,
+      "name": "Forest Whitiker",
+      "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Count Bass D",
+          "url": "https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "Potholderz",
+      "url": "https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -487,22 +539,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Shadows On The Sun",
-        "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Forest Whitiker",
-      "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -531,22 +567,6 @@
       "duration_ms": 218079,
       "name": "The Look of Love, Pt. 1",
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
-        "name": "MM..FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Hoe Cakes",
-      "url": "https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -683,22 +703,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -715,18 +719,18 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
         {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -771,22 +775,18 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "MM..FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Count Bass D",
-          "url": "https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
         }
       ],
-      "duration_ms": 200653,
-      "name": "Potholderz",
-      "url": "https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn"
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
         "name": "Masters of the Universe",
         "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2025-02-07 05:00:45",

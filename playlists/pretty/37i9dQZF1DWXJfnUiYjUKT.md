@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Selena Gomez, benny blanco & Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,647 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,668 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 96 | [Kissing Cowboys](https://open.spotify.com/track/3kNRE7mxnc7GzpnlWvKThu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Kissing Cowboys](https://open.spotify.com/album/4XbhjN4j33SE3TJLS6fz6l) | 3:02 |
 | 97 | [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 |
 | 98 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 |
-| 99 | [Workhorse](https://open.spotify.com/track/4ELeJcKvUtY8E6KywSZbsw) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Workhorse](https://open.spotify.com/album/3mcE6SVAwjdA4h2jo3HF3w) | 3:38 |
+| 99 | [Workhorse](https://open.spotify.com/track/4ELeJcKvUtY8E6KywSZbsw) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Workhorse](https://open.spotify.com/album/3mcE6SVAwjdA4h2jo3HF3w) | 3:35 |
 | 100 | [⁠In a Million Streams](https://open.spotify.com/track/5XlVBJQhKFE53tXkcOYl95) | [Kelora](https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP) | [Sleepers](https://open.spotify.com/album/6uuTtJuxRyfvlcCXrBXVDg) | 2:56 |
 
 Snapshot ID: `Z7iF4wAAAABa2IgagDlrVhAkPddy0niz`

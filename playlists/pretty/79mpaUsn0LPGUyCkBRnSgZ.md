@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 540 songs - 1 day 12 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 541 songs - 1 day 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -548,5 +548,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 538 | [Diamond Day](https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 1:47 |
 | 539 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 |
 | 540 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 |
+| 541 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 |
 
-Snapshot ID: `AAAG9Dm+xTbuj9idRjqxUZHHKLwqz0gx`
+Snapshot ID: `AAAG9Xdb5EE/3V5FpOwX2V3P+qlLGeib`

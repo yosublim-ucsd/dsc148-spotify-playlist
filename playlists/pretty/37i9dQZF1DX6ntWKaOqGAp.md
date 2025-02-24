@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 緑黄色社会
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,984 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,025 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [アゲイン](https://open.spotify.com/track/7IxSLwOvzPianPBi0VsAF8) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [アゲイン](https://open.spotify.com/album/0vsupM6aCnzZIpZUeSEPhF) | 4:21 |
 | 100 | [ひとつになりたい](https://open.spotify.com/track/6dMTeu0MlKmYnna7sO4JjH) | [Hideyoshi](https://open.spotify.com/artist/3XL6HB2fM5WEBzQfG19n21) | [あいてえです](https://open.spotify.com/album/0JqzsQ09nTQ4OOxSZy5knv) | 5:03 |
 
-Snapshot ID: `Z7dGwQAAAADCB0X/dNClEZ0eWNg89167`
+Snapshot ID: `Z7dGwQAAAABUVTBzul8HWsRmiOK8nxz+`

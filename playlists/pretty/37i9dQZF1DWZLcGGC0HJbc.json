@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 96222,
+  "num_followers": 96332,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 341764,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
-        "name": "hello",
-        "url": "https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 178544,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -155,18 +155,18 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+        "name": "hello",
+        "url": "https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+      "duration_ms": 178544,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Act 4: Atonement",
         "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 174250,
       "name": "Dead Man Walking.",
       "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "little red, little blue",
-        "url": "https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS"
-      },
-      "artists": [
-        {
-          "name": "la loye",
-          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "little red, little blue",
-      "url": "https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "No Kissing on a Sunday",
         "url": "https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh"
       },
@@ -559,22 +543,34 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Science",
-        "url": "https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP"
+        "name": "little red, little blue",
+        "url": "https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        },
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
         }
       ],
-      "duration_ms": 235647,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G"
+      "duration_ms": 168653,
+      "name": "little red, little blue",
+      "url": "https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "Breath and Air",
+        "url": "https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 277504,
+      "name": "From Up Here",
+      "url": "https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -595,6 +591,26 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
+        "name": "Science",
+        "url": "https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        },
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 235647,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
         "name": "Come with Me and Hide",
         "url": "https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY"
       },
@@ -611,34 +627,18 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "This House",
-        "url": "https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Jonah Capetown",
+          "url": "https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap"
         }
       ],
-      "duration_ms": 159200,
-      "name": "This House",
-      "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
-        "name": "Never gone",
-        "url": "https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 322653,
-      "name": "Never gone",
-      "url": "https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI"
+      "duration_ms": 153928,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -663,18 +663,34 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p"
+        "name": "Never gone",
+        "url": "https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM"
       },
       "artists": [
         {
-          "name": "Jonah Capetown",
-          "url": "https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 153928,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3"
+      "duration_ms": 322653,
+      "name": "Never gone",
+      "url": "https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -711,22 +727,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "My Old Friend John",
-        "url": "https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU"
-      },
-      "artists": [
-        {
-          "name": "Pa Sheehy",
-          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
-        }
-      ],
-      "duration_ms": 320016,
-      "name": "My Old Friend John",
-      "url": "https://open.spotify.com/track/4WicE9BeiHpqRjivqzNf2J"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 214533,
       "name": "Hannah",
       "url": "https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "My Old Friend John",
+        "url": "https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "duration_ms": 320016,
+      "name": "My Old Friend John",
+      "url": "https://open.spotify.com/track/4WicE9BeiHpqRjivqzNf2J"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -759,26 +775,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Big Black Car (Cover)",
-        "url": "https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd"
-      },
-      "artists": [
-        {
-          "name": "Bertie Newman",
-          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
-        },
-        {
-          "name": "Bradley Baker",
-          "url": "https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Big Black Car - Cover",
-      "url": "https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "How Do We Go Back To Being Normal?",
         "url": "https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg"
       },
@@ -791,22 +787,6 @@
       "duration_ms": 210438,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/1sY4WwCZYh3nkLnojWRk8h"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
-        "name": "Paradise Pop. 10",
-        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -827,6 +807,26 @@
       "duration_ms": 196446,
       "name": "Convince Yourself",
       "url": "https://open.spotify.com/track/2z5az4Tl4e7bQzfX8Sr6r9"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "Big Black Car (Cover)",
+        "url": "https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd"
+      },
+      "artists": [
+        {
+          "name": "Bertie Newman",
+          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
+        },
+        {
+          "name": "Bradley Baker",
+          "url": "https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Big Black Car - Cover",
+      "url": "https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD"
     }
   ],
   "unique_name": "indie folk vibes",

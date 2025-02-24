@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Hannah Cohen
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,058 likes - 66 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,082 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Pastor Mike Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,058 likes - 55 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,136 likes - 55 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 54 | [Proverbs 3 \- Live](https://open.spotify.com/track/7fnF0NlZkkPPFJANfOk45V) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Proverbs 3 \(Live\)](https://open.spotify.com/album/3PIsoOqMBxnpppTKRnEXZ0) | 7:36 |
 | 55 | [God Did It \- Go\-Go Remix](https://open.spotify.com/track/01519ageyUhsnyZA10RV3U) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [God Did It \(Go\-Go Remix\)](https://open.spotify.com/album/0oacwz7EMI5KUoZHteJs1M) | 4:51 |
 
-Snapshot ID: `Z7ls9QAAAAC6dnuu6/vo5hZhXC+N/Gqu`
+Snapshot ID: `Z7ls9QAAAAB/fmsP/BZR2X+SUi1iFL53`

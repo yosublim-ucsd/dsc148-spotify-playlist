@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdHrK6XFPCM1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdHrK6XFPCM1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdHrK6XFPCM1)
 
-### [Mager Parah](https://open.spotify.com/playlist/37i9dQZF1DXdHrK6XFPCM1)
+### [Laper Parah](https://open.spotify.com/playlist/37i9dQZF1DXdHrK6XFPCM1)
 
-> Waktu Indonesia bagian mager dan dengar lagu\-lagu enak.
+> Waktu Indonesia bagian perut keroncongan tapi sambil dengar lagu\-lagu enak
 
 150 songs - 9 hr 23 min
 

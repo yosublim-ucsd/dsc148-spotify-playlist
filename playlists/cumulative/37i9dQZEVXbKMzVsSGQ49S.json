@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 135000,
       "name": "Aldrei of seint",
       "url": "https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0"
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -3092,6 +3092,24 @@
       "duration_ms": 239493,
       "name": "A\u00f0 sumri til",
       "url": "https://open.spotify.com/track/1GixTZnYyMyYe3BSAgfL7l"
+    },
+    {
+      "album": {
+        "name": "A\u00f0eins lengur",
+        "url": "https://open.spotify.com/album/6oD609zhLzLIQZ8xBlTAda"
+      },
+      "artists": [
+        {
+          "name": "Bjarni Arason",
+          "url": "https://open.spotify.com/artist/3vRSdvFnDzuye8bIFWQGFs"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180069,
+      "name": "A\u00f0eins lengur",
+      "url": "https://open.spotify.com/track/4YYZlhTF7XFn9lZKl5YZV7"
     },
     {
       "album": {
@@ -8824,7 +8842,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -13276,7 +13294,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2xwFouPj5y58rEzIDlUptV"
@@ -14148,6 +14166,24 @@
       "duration_ms": 226023,
       "name": "Frelsi\u00f0",
       "url": "https://open.spotify.com/track/17eVe466nbOmrqyaBHh8BI"
+    },
+    {
+      "album": {
+        "name": "Frelsi\u00f0 Mitt / Set Me Free",
+        "url": "https://open.spotify.com/album/6KdvNbGph7U3mamS9EhhpO"
+      },
+      "artists": [
+        {
+          "name": "Stebbi Jak",
+          "url": "https://open.spotify.com/artist/2Y1nnckPjCwgjmIAsPCwUA"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179690,
+      "name": "Frelsi\u00f0 mitt",
+      "url": "https://open.spotify.com/track/14x79lRsqz4aeDNbfGjb6Q"
     },
     {
       "album": {
@@ -24265,6 +24301,24 @@
     },
     {
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/1KnCvgDQqvNFxcfT0HNgHf"
+      },
+      "artists": [
+        {
+          "name": "\u00c1G\u00daST",
+          "url": "https://open.spotify.com/artist/0fou1vTu9k2xm3hRziQ467"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179993,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/5x9Y5icdqAFj2tluNj0sve"
+    },
+    {
+      "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
       },
@@ -24736,7 +24790,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -40206,7 +40260,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -46192,7 +46246,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

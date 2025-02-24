@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 80420,
+  "num_followers": 80457,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
+        "name": "Holy Calamity",
+        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Holy Calamity",
+      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
         "name": "RIP TO MOZART",
         "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
       },
@@ -219,6 +235,26 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
         "name": "Game Of Hate",
         "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
       },
@@ -243,18 +279,22 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
-        "name": "Holy Calamity",
-        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
       },
       "artists": [
         {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
         }
       ],
-      "duration_ms": 161684,
-      "name": "Holy Calamity",
-      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -279,66 +319,6 @@
       "duration_ms": 220950,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
-        "name": "Trip to Greece",
-        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 186559,
-      "name": "Trip to Greece",
-      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -375,6 +355,26 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
+        "name": "Trip to Greece",
+        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Trip to Greece",
+      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
         "name": "Straight To The Brain",
         "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 166800,
       "name": "In Synergy",
       "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
+        "name": "Straight From Holland",
+        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 121128,
+      "name": "Straight From Holland",
+      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -443,46 +463,6 @@
       "duration_ms": 334545,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
-        "name": "Trip to Defqon.1",
-        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "JDX",
-          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
-        }
-      ],
-      "duration_ms": 222116,
-      "name": "Trip to Defqon.1",
-      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
-        "name": "Straight From Holland",
-        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 121128,
-      "name": "Straight From Holland",
-      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -543,6 +523,26 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
+        "name": "Trip to Defqon.1",
+        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+        }
+      ],
+      "duration_ms": 222116,
+      "name": "Trip to Defqon.1",
+      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
         "name": "Meteor",
         "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Joel Beukers",
-          "url": "https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
-    },
-    {
-      "added_at": "2025-02-10 07:38:11",
-      "album": {
         "name": "Bounce To This (Official Bounce Anthem 2024)",
         "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 196800,
       "name": "Bounce To This - Official Bounce Anthem 2024",
       "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
+    },
+    {
+      "added_at": "2025-02-10 07:38:11",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Joel Beukers",
+          "url": "https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
       },
       "artists": [
         {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
         }
       ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
+      "duration_ms": 185052,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
     },
     {
       "added_at": "2025-02-10 07:38:11",
@@ -947,34 +947,34 @@
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
-        "name": "ART IS DEAD",
-        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
         }
       ],
-      "duration_ms": 214670,
-      "name": "ART IS DEAD",
-      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2025-02-10 07:38:11",
       "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
       "artists": [
         {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
         }
       ],
-      "duration_ms": 185052,
-      "name": "Weltschmerz",
-      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

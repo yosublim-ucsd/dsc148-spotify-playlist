@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
@@ -764,6 +764,24 @@
       "duration_ms": 158706,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3"
+    },
+    {
+      "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
     },
     {
       "album": {

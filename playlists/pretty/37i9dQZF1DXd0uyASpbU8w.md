@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=X1QOJd\_IQ\_eiZVu7keNLqQ">Tate McRae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,445 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,464 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 35 | [Stick Around](https://open.spotify.com/track/0J5IOje5ynVFel0hRz03zN) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Divine Keys](https://open.spotify.com/artist/0arCo3pjfTa4n3bDhL3lDO) | [Stick Around](https://open.spotify.com/album/5qvgt62t8TWoi0sLWa0rXu) | 7:36 |
 | 36 | [Nihurumie](https://open.spotify.com/track/4tcf25zqQPcGqtF6Px0Yd6) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [Nihurumie](https://open.spotify.com/album/5WiLu2YuzMCiEg4LleiU9W) | 5:06 |
 | 37 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 |
-| 38 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big Yasa](https://open.spotify.com/artist/0bYDiOdjbgUew71G8iA7Gt) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |
+| 38 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |
 | 39 | [Imposter](https://open.spotify.com/track/43cS16FDjNlzusg3Ta1YNF) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Imposter](https://open.spotify.com/album/767N048F5WJr39FFUD067l) | 2:53 |
 | 40 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
 | 41 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 |

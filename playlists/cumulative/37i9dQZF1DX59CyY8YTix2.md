@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ano
 
-1,821 songs - 4 day 17 hr 2 min
+1,822 songs - 4 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,6 +864,7 @@
 | [will](https://open.spotify.com/track/7uIA62xRJFwgWZFLx7QHeu) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [will](https://open.spotify.com/album/5JmEMTf3HPwj0ozKACqXS8) | 4:20 | 2024-08-06 | 2024-09-18 |
 | [winnie](https://open.spotify.com/track/3TXi4Jus3AHmAvLZ0almWX) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [we are the tiva 2](https://open.spotify.com/album/7aJijMfdNjvuJdtyFzJA1U) | 3:01 | 2023-06-13 | 2023-06-21 |
 | [Within Us Invincible Summer](https://open.spotify.com/track/1xZWP04Wk0kuyr4u9gIsiS) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Within Us Invincible Summer](https://open.spotify.com/album/3UJtXHUg3uEHCnY94N8y3Q) | 3:34 | 2022-06-07 | 2022-07-12 |
+| [Without you](https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Without you](https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO) | 4:39 | 2025-02-18 |  |
 | [Wonder](https://open.spotify.com/track/4TsAkPGvhdonwGTKGMlpzq) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [Wonder](https://open.spotify.com/album/5W139K2yQAbuAv6aIZ4udl) | 2:47 | 2023-08-08 | 2023-08-10 |
 | [Wonder](https://open.spotify.com/track/7LmyUMkJ3NZXaznMpKbyBP) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [Wonder](https://open.spotify.com/album/7vfrEch41gKo7P7NTFhU2a) | 2:47 | 2023-08-08 | 2023-08-23 |
 | [Woolly](https://open.spotify.com/track/5fqq7HOGNSRjc9CSwkwhDk) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Woolly](https://open.spotify.com/album/38f696Nby5Tqqwq3Cg8VNx) | 4:22 | 2022-06-02 | 2022-07-27 |
@@ -1188,7 +1189,7 @@
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
 | [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 | 2023-03-08 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
-| [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-28 |  |
+| [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-28 | 2025-02-24 |
 | [ドロップ](https://open.spotify.com/track/4r1fGtMQX6Lw1wkfGMN3wi) | [Signaless](https://open.spotify.com/artist/54IaTf2SiJDnOx6dp5j3W3) | [思想](https://open.spotify.com/album/24PZpgMOMim1v0Tpk6MLvU) | 3:59 | 2023-12-19 | 2023-12-27 |
 | [ナイスなガール \- 2024 ver.](https://open.spotify.com/track/5xZZRi6CNGKs8Ze9dcEzFy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:49 | 2024-03-07 | 2024-09-04 |
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 |  |

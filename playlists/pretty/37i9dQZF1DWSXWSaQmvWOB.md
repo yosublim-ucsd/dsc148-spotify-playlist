@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Yufu
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,775 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,743 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [All I Need \(The Gemini Song\)](https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [All I Need \(The Gemini Song\)](https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF) | 4:11 |
 | 100 | [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 |
 
-Snapshot ID: `Z6m28QAAAAAZp6AjclmoJFKUbAv5UIA7`
+Snapshot ID: `Z6m28QAAAADRQdx3b+mAKvHUZ50aTV3H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Fedez in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,607 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,767 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 59 | [Fuorionda](https://open.spotify.com/track/67Vto9p46Nk6I0kwi4ZwKu) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Fuorionda](https://open.spotify.com/album/5dZWhLmCP7e6aVeP52tRUR) | 3:50 |
 | 60 | [ManDarE TuTto All'aRIA](https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [ManDarE TuTto All'aRIA](https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv) | 2:49 |
 
-Snapshot ID: `Z7e0OgAAAABsL8wyPBvdT4F4BoDQ676c`
+Snapshot ID: `Z7e0OgAAAAC9o6WiaNZ++zea5f0r3hNR`

@@ -6483,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "Ballert auf Lautlos",
+        "url": "https://open.spotify.com/album/4XaE5Q81SvxX0rDbOLgjDR"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Ballert auf Lautlos",
+      "url": "https://open.spotify.com/track/4QveIIDRvuV7aKGOqDAbuP"
+    },
+    {
+      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -24828,7 +24846,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 176625,
       "name": "G\u00f6zlerinden G\u00f6zlerine",
       "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
@@ -59863,6 +59881,32 @@
     },
     {
       "album": {
+        "name": "Tamb\u00e9m",
+        "url": "https://open.spotify.com/album/7pAkOFYG9LALzbJZl1FVlc"
+      },
+      "artists": [
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Dj Terrorista",
+          "url": "https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC"
+        },
+        {
+          "name": "DJ Tacinho",
+          "url": "https://open.spotify.com/artist/1j7PjmYNRQUYk1xNfPDox7"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/3mR8h8YKamYcrzW6jZhLw3"
+    },
+    {
+      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt"
       },
@@ -68760,7 +68804,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"

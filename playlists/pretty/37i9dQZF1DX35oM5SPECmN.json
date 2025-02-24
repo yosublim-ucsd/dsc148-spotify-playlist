@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2288059,
+  "num_followers": 2288021,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Fire & Fury",
-      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Fire & Fury",
+      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Covers One",
-        "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
-      },
-      "artists": [
-        {
-          "name": "The Wind and The Wave",
-          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "Calla Lily",
         "url": "https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 195706,
       "name": "Own Alone",
       "url": "https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Covers One",
+        "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
+      },
+      "artists": [
+        {
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "No Earthly Sound",
+        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Make a Sound",
+      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "No Earthly Sound",
-        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Make a Sound",
-      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 221438,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -883,6 +867,22 @@
       "duration_ms": 197972,
       "name": "Who Are You Now",
       "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Good Luck, Kid",
+      "url": "https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Look The Other Way",
         "url": "https://open.spotify.com/album/5pA8ZMUIVbKuyUfL5LqvtR"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 228720,
       "name": "Complex",
       "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Good Luck, Kid",
-      "url": "https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O"
     },
     {
       "added_at": "2024-07-05 20:00:34",

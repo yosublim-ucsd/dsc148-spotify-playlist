@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 88931,
+  "num_followers": 88924,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Next Up - S4-E2",
-        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 120839,
-      "name": "Next Up - S4-E2, Pt. 1",
-      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Love & Attention",
         "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
@@ -163,22 +143,6 @@
       "duration_ms": 157808,
       "name": "Love & Attention",
       "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "NOT THAT DEEP",
-        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
-      },
-      "artists": [
-        {
-          "name": "somecallmewale",
-          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "NOT THAT DEEP",
-      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -199,6 +163,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
+      },
+      "artists": [
+        {
+          "name": "somecallmewale",
+          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "NOT THAT DEEP",
+      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "The Sunrise Project",
         "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 194455,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Next Up - S4-E2",
+        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 120839,
+      "name": "Next Up - S4-E2, Pt. 1",
+      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Clearest of Signs",
-        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "Clearest of Signs",
-      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Better With You Than On My Own",
         "url": "https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 140444,
       "name": "Better With You Than On My Own",
       "url": "https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Clearest of Signs",
+        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "Clearest of Signs",
+      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -283,22 +283,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Left Back (Remix)",
-        "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
         }
       ],
-      "duration_ms": 180413,
-      "name": "Left Back - Remix",
-      "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -319,18 +315,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+        "name": "Left Back (Remix)",
+        "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
       "artists": [
         {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
         }
       ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
+      "duration_ms": 180413,
+      "name": "Left Back - Remix",
+      "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -363,22 +363,6 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "DSLM?",
-        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 189020,
-      "name": "DSLM?",
-      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -439,6 +423,22 @@
       "duration_ms": 145306,
       "name": "Heart On Ice",
       "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "DTB",
-      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 203964,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -647,6 +631,38 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Toxic Veins",
+      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "High (All The Time)",
         "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
@@ -679,46 +695,6 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 200035,
-      "name": "Toxic Veins",
-      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Lost in Lofi",
-        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Hate That I Love You",
-      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -767,6 +743,46 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Lost in Lofi",
+        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 183851,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -823,6 +839,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "The Jam",
         "url": "https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F"
       },
@@ -843,22 +875,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 167172,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "THOUGHTS",
+        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
+      },
+      "artists": [
+        {
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "THOUGHTS",
+      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Driscoll",
         "url": "https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup"
       },
@@ -1043,18 +1059,34 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "THOUGHTS",
-        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
       },
       "artists": [
         {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
         }
       ],
-      "duration_ms": 178714,
-      "name": "THOUGHTS",
-      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
+      "duration_ms": 169129,
+      "name": "I Was Never Phased",
+      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Who Am I?(I Dont Know)",
+        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Who Am I?(I Dont Know)",
+      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1071,22 +1103,6 @@
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Leave This City",
-        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 169129,
-      "name": "I Was Never Phased",
-      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Who Am I?(I Dont Know)",
-        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Who Am I?(I Dont Know)",
-      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+        "name": "No Love Left",
+        "url": "https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC"
       },
       "artists": [
         {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+      "duration_ms": 171914,
+      "name": "No Love Left",
+      "url": "https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
       },
       "artists": [
         {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1239,8 +1239,24 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
       },
       "artists": [
         {
@@ -1248,25 +1264,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "No Love Left",
-        "url": "https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 171914,
-      "name": "No Love Left",
-      "url": "https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A"
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1283,6 +1283,22 @@
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
-      },
-      "artists": [
-        {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1395,58 +1411,6 @@
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111250,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1507,6 +1471,62 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111250,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Berlin Luv",
+        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "AD North",
+          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Berlin Luv",
+      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5"
       },
@@ -1519,6 +1539,22 @@
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1539,22 +1575,6 @@
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1587,26 +1607,6 @@
       "duration_ms": 207249,
       "name": "Meaning Of Love",
       "url": "https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Berlin Luv",
-        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "AD North",
-          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Berlin Luv",
-      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
     },
     {
       "added_at": "2024-11-22 00:00:00",

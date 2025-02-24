@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Yu
+> Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann, Max Raabe
 
 1,073 songs - 2 day 2 hr 55 min
 

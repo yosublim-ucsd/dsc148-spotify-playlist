@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68598,
+  "num_followers": 68596,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/3xAba1npkOgz18eO00d2Ft"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Postcards",
-      "url": "https://open.spotify.com/track/3Xi27eCYtFFEqDOGCWr6T8"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "\u2018Til I Found You (Montmartre Remix)",
-        "url": "https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn"
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/3xAba1npkOgz18eO00d2Ft"
       },
       "artists": [
         {
           "name": "Jeremy Loops",
           "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
         }
       ],
-      "duration_ms": 166906,
-      "name": "'Til I Found You - Montmartre Remix",
-      "url": "https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp"
+      "duration_ms": 229893,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/3Xi27eCYtFFEqDOGCWr6T8"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -751,26 +731,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
-      },
-      "artists": [
-        {
-          "name": "The Planetoids",
-          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
-        },
-        {
-          "name": "Tamara Dey",
-          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
-        }
-      ],
-      "duration_ms": 207741,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Say You Will Remember Me",
         "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
       },
@@ -783,22 +743,6 @@
       "duration_ms": 202035,
       "name": "Say You Will Remember Me",
       "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Shake Shake",
-        "url": "https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Shake Shake",
-      "url": "https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -823,6 +767,62 @@
       "duration_ms": 204789,
       "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
       "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
+      },
+      "artists": [
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        },
+        {
+          "name": "Tamara Dey",
+          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
+        }
+      ],
+      "duration_ms": 207741,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "\u2018Til I Found You (Montmartre Remix)",
+        "url": "https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "'Til I Found You - Montmartre Remix",
+      "url": "https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Shake Shake",
+        "url": "https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Shake Shake",
+      "url": "https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -999,6 +999,30 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "La Musica",
         "url": "https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG"
       },
@@ -1039,50 +1063,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Leave The Door Open",
-        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Mood (feat. iann dior)",
-        "url": "https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 140525,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Set Me Free (feat. MAX)",
         "url": "https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 193364,
       "name": "Set Me Free (feat. MAX)",
       "url": "https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Mood (feat. iann dior)",
+        "url": "https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 140525,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq"
     },
     {
       "added_at": "2024-05-10 06:34:25",

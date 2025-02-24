@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297094,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk"
+    },
+    {
+      "album": {
         "name": "At\u025b\u025bne (Overturned)",
         "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 299871,
       "name": "Glory On The Other Side",
       "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"

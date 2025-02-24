@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Moffatt
 
-3,125 songs - 6 day 21 hr 53 min
+3,126 songs - 6 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1314,7 +1314,7 @@
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-02-02 | 2024-02-10 |
 | [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 | 2023-09-08 | 2023-10-16 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2022-09-24 |
-| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 |  |
+| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-10 | 2025-02-24 |
 | [JeanLeloup](https://open.spotify.com/track/5gflFNsfB3kTS2qjbsJBLg) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [JeanLeloup](https://open.spotify.com/album/30LlafjSzTHf3ofmTtOuOY) | 2:50 | 2022-04-29 | 2022-06-04 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-31 | 2022-01-15 |
 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 | 2023-03-17 | 2023-04-15 |
@@ -1506,6 +1506,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/6BpzjdJyNxG2Yf47YLoQah) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Queen of Hearts](https://open.spotify.com/album/6F13Kct2RcazzysroP8157) | 3:04 | 2021-12-31 | 2022-01-22 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-03 | 2023-12-17 |
 | [La visite](https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V) | [Veranda](https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M) | [Là\-bas](https://open.spotify.com/album/2KWmLmZE7yZ8bwjCaHhpPK) | 3:53 | 2022-09-16 | 2022-09-24 |
+| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-21 |  |
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-10-18 | 2024-12-15 |
 | [Lady Renarde](https://open.spotify.com/track/3EbASRjxu4gSNOQBJJVaYJ) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Lady Renarde](https://open.spotify.com/album/4J1K1l4YEcDanstwGuvwtV) | 3:44 | 2024-02-16 | 2024-02-24 |
 | [Laisse faire](https://open.spotify.com/track/7eFQnRjylo3pQbelR1R4Pz) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Laisse faire](https://open.spotify.com/album/3H8t91CIYSCZq8tEYobUio) | 3:04 | 2023-03-10 | 2023-03-18 |

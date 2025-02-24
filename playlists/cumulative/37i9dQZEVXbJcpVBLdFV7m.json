@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 152325,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "August 10",
       "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -10546,7 +10546,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -10568,7 +10568,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -10720,7 +10720,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -13514,7 +13514,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 234923,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0stJVUUSrbEwyFHOp2dRu0"
@@ -14657,6 +14657,28 @@
     },
     {
       "album": {
+        "name": "ReawakeR (feat. Felix of Stray Kids)",
+        "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        },
+        {
+          "name": "Felix of Stray Kids",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184993,
+      "name": "ReawakeR (feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
+    },
+    {
+      "album": {
         "name": "Rebel Heart (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg"
       },
@@ -15290,7 +15312,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 185000,
       "name": "RUN",
       "url": "https://open.spotify.com/track/5lLvSSAy8miwZdiQGwopCn"
@@ -16132,7 +16154,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
@@ -16154,7 +16176,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -20612,7 +20634,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 82000,
       "name": "Want To Love - Just Raw",
       "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO"
@@ -21280,6 +21302,24 @@
       "duration_ms": 235660,
       "name": "World That Doesn't Fit",
       "url": "https://open.spotify.com/track/1rwxUhIxJqLdRImrNHlWEU"
+    },
+    {
+      "album": {
+        "name": "worst behaviour",
+        "url": "https://open.spotify.com/album/62rWjLj8Zl0wn4Rkv3Hlw8"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178992,
+      "name": "worst behaviour",
+      "url": "https://open.spotify.com/track/6gCaGG38yk0Pc3hZG8U6kc"
     },
     {
       "album": {
@@ -24088,7 +24128,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 195505,
       "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"

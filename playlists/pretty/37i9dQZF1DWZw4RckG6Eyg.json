@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 35402,
+  "num_followers": 35435,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Great Doubt",
+        "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 201967,
+      "name": "Do you wanna",
+      "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Lives Outgrown",
         "url": "https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Great Doubt",
-        "url": "https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 201967,
-      "name": "Do you wanna",
-      "url": "https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "My Day Off",
-      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
+      },
+      "artists": [
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "My Day Off",
+      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 166228,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "The Rot",
         "url": "https://open.spotify.com/album/42HRGEN5ltCezgopFl609S"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "When a Thought Grows Wings",
         "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 161661,
       "name": "Confusion Song",
       "url": "https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Daryl Johns",
-        "url": "https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj"
-      },
-      "artists": [
-        {
-          "name": "Daryl Johns",
-          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
-        }
-      ],
-      "duration_ms": 222217,
-      "name": "I'm So Serious",
-      "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 221429,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "SlowMo",
         "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 222741,
       "name": "Soft Spoken",
       "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Daryl Johns",
+        "url": "https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj"
+      },
+      "artists": [
+        {
+          "name": "Daryl Johns",
+          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+        }
+      ],
+      "duration_ms": 222217,
+      "name": "I'm So Serious",
+      "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
     },
     {
       "added_at": "2024-12-13 00:49:37",
@@ -1219,6 +1203,22 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 221429,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
     },
     {
       "added_at": "2024-12-04 12:15:00",

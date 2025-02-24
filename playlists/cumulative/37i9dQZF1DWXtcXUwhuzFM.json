@@ -86029,6 +86029,24 @@
     },
     {
       "album": {
+        "name": "Walking Through Fire",
+        "url": "https://open.spotify.com/album/6xcDZbhoevDDtR7h42zx2N"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Walking Through Fire",
+      "url": "https://open.spotify.com/track/3UkDPWRX41JzEE1Dka4eoI"
+    },
+    {
+      "album": {
         "name": "Want It Back",
         "url": "https://open.spotify.com/album/0oQRn8myZQUA6fmtTsKwY9"
       },

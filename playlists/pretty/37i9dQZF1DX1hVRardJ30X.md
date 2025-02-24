@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Marshmello & Trueno, Emilia & Luísa Sonza, Gabito Ballesteros and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,803 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,837 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Griselda](https://open.spotify.com/track/0CgucncMS23amZunyeTdpr) | [Yessie](https://open.spotify.com/artist/3Br3yFwx1NRBArrlOxbf87), [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Griselda](https://open.spotify.com/album/7r5CbICVVY21ILIImIAuAL) | 3:29 |
 | 50 | [Rewind](https://open.spotify.com/track/5zhd3Dd2CMkKKhCnuqOlsC) | [FLAK](https://open.spotify.com/artist/0xbgMUKzFqdkvlh6cA32rh), [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Rewind](https://open.spotify.com/album/2wc1qVXdnyInAoGh6lo8pN) | 3:50 |
 
-Snapshot ID: `Z7gIdgAAAADMC359x9jKGrJcWyiPtz1t`
+Snapshot ID: `Z7gIdgAAAAABbRBUrFGnnqcpXzH9Jegv`

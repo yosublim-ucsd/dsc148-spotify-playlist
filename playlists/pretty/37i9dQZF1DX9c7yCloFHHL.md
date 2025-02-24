@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Tim Hecker
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,629 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,768 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Breathless](https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Breathless](https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w) | 3:05 |
 | 100 | [cognition](https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR) | [theta.wav](https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W), [Droner](https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl) | [cognition](https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG) | 2:21 |
 
-Snapshot ID: `Z7f6TwAAAACMFgT3xM3+KTOeb58hK9Z7`
+Snapshot ID: `Z7f6TwAAAADhBvg0B1o+Aac7Mn8sukK8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,354 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,430 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 |
 | 100 | [ALL I EVER DO](https://open.spotify.com/track/4VPmNvFDBUoncOB3u6Ioc8) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALL I EVER DO](https://open.spotify.com/album/2heJmwKeBIDb8cBZsYAuFg) | 2:52 |
 
-Snapshot ID: `Z7gIdQAAAAC+dp0ilaIJOCh8bnrK2xrf`
+Snapshot ID: `Z7gIdQAAAACRmewbLLR8lca7ipp4aAVV`

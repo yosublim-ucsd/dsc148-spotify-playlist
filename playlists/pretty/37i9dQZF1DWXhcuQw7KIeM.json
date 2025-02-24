@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 531550,
+  "num_followers": 531710,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "A Frame of Mind",
-        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Norupo",
-        "url": "https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc"
-      },
-      "artists": [
-        {
-          "name": "Heilung",
-          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Norupo",
-      "url": "https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "S\u00e5rbare",
         "url": "https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H"
       },
@@ -299,18 +267,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Runar",
-        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
+        "name": "Norupo",
+        "url": "https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc"
       },
       "artists": [
         {
-          "name": "Danheim",
-          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
         }
       ],
-      "duration_ms": 260556,
-      "name": "Runar",
-      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
+      "duration_ms": 257972,
+      "name": "Norupo",
+      "url": "https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -359,6 +327,38 @@
       "duration_ms": 182360,
       "name": "Hibj\u00f8rnen",
       "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Runar",
+        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
+      },
+      "artists": [
+        {
+          "name": "Danheim",
+          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
+        }
+      ],
+      "duration_ms": 260556,
+      "name": "Runar",
+      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "A Frame of Mind",
+        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "The Loom",
-        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
-      },
-      "artists": [
-        {
-          "name": "Anilah",
-          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
-        }
-      ],
-      "duration_ms": 433858,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM"
       },
@@ -723,6 +707,42 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "The Loom",
+        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
+      },
+      "artists": [
+        {
+          "name": "Anilah",
+          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
+        }
+      ],
+      "duration_ms": 433858,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Sverker",
+        "url": "https://open.spotify.com/album/5XLWLeptNhENo0uAY6UPxa"
+      },
+      "artists": [
+        {
+          "name": "Corvus Corax",
+          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
+        },
+        {
+          "name": "SAMI YLI-SIRNIO",
+          "url": "https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Sverker - Era Metallum - Single Edit",
+      "url": "https://open.spotify.com/track/0m5hkGREyOS3xm0KfMT5tl"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Unnr | MINDBEACH",
         "url": "https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 576250,
       "name": "Unnr | MINDBEACH",
       "url": "https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Sverker",
-        "url": "https://open.spotify.com/album/5XLWLeptNhENo0uAY6UPxa"
-      },
-      "artists": [
-        {
-          "name": "Corvus Corax",
-          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
-        },
-        {
-          "name": "SAMI YLI-SIRNIO",
-          "url": "https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Sverker - Era Metallum - Single Edit",
-      "url": "https://open.spotify.com/track/0m5hkGREyOS3xm0KfMT5tl"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 221924,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Future To Come",
         "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 221924,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Whom the Moon a Nightsong Sings",
+        "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
+      },
+      "artists": [
+        {
+          "name": "Syven",
+          "url": "https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3"
+        }
+      ],
+      "duration_ms": 850866,
+      "name": "How Fare the Gods?",
+      "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Midvinter",
         "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Whom the Moon a Nightsong Sings",
-        "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
       },
       "artists": [
         {
-          "name": "Syven",
-          "url": "https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3"
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
         }
       ],
-      "duration_ms": 850866,
-      "name": "How Fare the Gods?",
-      "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1163,22 +1179,6 @@
       "duration_ms": 189544,
       "name": "Gr\u00e5 Hest",
       "url": "https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     },
     {
       "added_at": "2024-12-06 05:06:56",

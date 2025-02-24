@@ -1,6 +1,6 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2179,
+  "num_followers": 2180,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Levemente Live Sessions",
         "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 143798,
       "name": "PVTIVUELTA",
       "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ushua\u00efa",
-        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Ushua\u00efa",
-      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vago",
-        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
+        "name": "Sin Faramaya",
+        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Ely Rosario",
+          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
         },
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 177050,
-      "name": "El Vago",
-      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
+      "duration_ms": 144303,
+      "name": "Sin Faramaya",
+      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Faramaya",
-        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
+        "name": "El Vago",
+        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
       "artists": [
         {
-          "name": "Ely Rosario",
-          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
-        },
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 144303,
-      "name": "Sin Faramaya",
-      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
+      "duration_ms": 177050,
+      "name": "El Vago",
+      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 275136,
-      "name": "Mr. Seal The Deal",
-      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00e1 Por Tijuana (En Vivo)",
         "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 134184,
       "name": "Ac\u00e1 Por Tijuana - En Vivo",
       "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 275136,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
     }
   ],
   "unique_name": "This Is Alex Favela",

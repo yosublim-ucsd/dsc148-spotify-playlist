@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,967 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,973 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Toast to Freedom \- Long Version](https://open.spotify.com/track/0SQPaGnphdxWDKJxtQ7NY5) | [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB), [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm), [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Carl Carlton](https://open.spotify.com/artist/73WQWI3988afuKynwOhyuE), [Larry Campbell](https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Florent](https://open.spotify.com/artist/0xbL5HzY6pDKOHm7RYURNQ) | [Toast to Freedom](https://open.spotify.com/album/3kvEJ7NfjBXi43bW7FF9PC) | 6:14 |
 | 51 | [From Here To The Moon and Back](https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jeremy Jordan](https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR) | [Joyful Noise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9) | 4:24 |
 
-Snapshot ID: `Z7fCAAAAAABa5ec+UBILKwmjKCpUJQrD`
+Snapshot ID: `Z7kTgAAAAAAqh84y/ezEIYMeRt2yK/Bk`

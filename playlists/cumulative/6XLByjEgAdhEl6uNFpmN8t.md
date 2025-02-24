@@ -4,7 +4,7 @@
 
 > 
 
-95 songs - 4 hr 54 min
+96 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 | 2025-01-21 |  |
 | [Felednéd](https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:01 | 2024-10-17 |  |
 | [FÜGGŐ](https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 3:20 | 2024-10-29 |  |
+| [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 | 2025-02-23 |  |
 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 | 2024-10-17 |  |
 | [Habibi](https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:41 | 2024-10-17 |  |
 | [Haramia](https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:14 | 2024-10-29 |  |

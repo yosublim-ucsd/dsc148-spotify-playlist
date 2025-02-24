@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 219651,
+  "num_followers": 219725,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAADEXPR7Iz9uCwk8RX2DUkoF",
+  "snapshot_id": "Z7kTgAAAAAASCBFG0hIB34F9RL1oi6ig",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Mandato Divino",
-      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
+      "duration_ms": 149626,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
+      "duration_ms": 181840,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 146040,
-      "name": "Llor\u00e9 a Mi Madre",
-      "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
+      "duration_ms": 190466,
+      "name": "Eleazar del Fierro",
+      "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Eleazar del Fierro",
-      "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
+      "duration_ms": 146040,
+      "name": "Llor\u00e9 a Mi Madre",
+      "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
     },
     {
       "added_at": null,

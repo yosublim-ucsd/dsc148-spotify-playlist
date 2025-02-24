@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: PARTYNEXTDOOR, Drake
 
-507 songs - 1 day 0 hr 47 min
+508 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Change Me](https://open.spotify.com/track/4BjEz7HIK0Ja4tsyNj65HV) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Change Me](https://open.spotify.com/album/1txETWXrK9UTqnPccT8Dqi) | 2:16 | 2024-09-26 |  |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2023-09-22 | 2024-03-01 |
 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 | 2024-02-08 | 2024-05-03 |
+| [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-24 |  |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-03 | 2023-12-22 |
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-02-20 |  |
 | [Commando](https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Commando](https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2) | 2:16 | 2024-06-21 | 2024-09-13 |

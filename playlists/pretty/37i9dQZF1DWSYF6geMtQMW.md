@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אושר כהן
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,501 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,549 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
 | 50 | [היום קמתי שמח](https://open.spotify.com/track/28hmfseWQTUSMuTNuXg4eI) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [היום קמתי שמח](https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v) | 3:49 |
 
-Snapshot ID: `Z7MgjgAAAADud2do/wZ2crPqEtY+SgDc`
+Snapshot ID: `Z7MgjgAAAAB8zLJzq+GkudZ1ydyirbC8`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTDjtvOmdzrF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTDjtvOmdzrF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTDjtvOmdzrF)
 
-### [Kopikustik](https://open.spotify.com/playlist/37i9dQZF1DWTDjtvOmdzrF)
+### [Kolakustik](https://open.spotify.com/playlist/37i9dQZF1DWTDjtvOmdzrF)
 
-> Racikan akustik dalam secangkir kopi.
+> Manisnya petikan akustik dalam semangkuk kolak teman berbuka puasamu
 
 156 songs - 10 hr 27 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,563 likes - 97 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,650 likes - 97 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 96 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 | 97 | [i.think](https://open.spotify.com/track/7HhyXsosh9kJeeFnABqkrB) | [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg), [Hopital](https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn) | [LA FIEV](https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe) | 2:51 |
 
-Snapshot ID: `Z7e0EQAAAABcss0GE8zXEf8CbsGv+55/`
+Snapshot ID: `Z7e0EQAAAACqaFdNqNLIdRfYfKludoBD`

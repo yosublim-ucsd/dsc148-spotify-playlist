@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,867 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,868 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |
 | 20 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
-| 22 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
-| 23 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 22 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 23 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
 | 24 | [Ostatnia taka zima](https://open.spotify.com/track/5RrqO7f46CZaoe2N0J4jz4) | [Zima Stulecia](https://open.spotify.com/artist/6zipCNbD8O4KIXfKhCaEsK) | [Minus 30°C](https://open.spotify.com/album/5fkmehd41xw4Aop984INzI) | 3:39 |
 | 25 | [Devil In You](https://open.spotify.com/track/4YrSOC41YPRrQq0cuxTJgu) | [John Porter](https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt), [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [On The Wrong Planet](https://open.spotify.com/album/0qKDzYpw0Bvo9MkpXTptNF) | 5:03 |
 | 26 | [Spring](https://open.spotify.com/track/50YWq0Uoq6Xc67U7ptPbcl) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 3:06 |

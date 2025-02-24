@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 125097,
+  "num_followers": 125105,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAABOkhQCJqhaBuUKpufkwAjU",
+  "snapshot_id": "Z7kTgAAAAAAod1mOkKpSvNWW91c6+VFZ",
   "tracks": [
     {
       "added_at": null,
@@ -1067,6 +1067,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 242417,
+      "name": "Mal de la Cabeza",
+      "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Despi\u00e9rtate",
         "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 178866,
       "name": "Despi\u00e9rtate",
       "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 242417,
-      "name": "Mal de la Cabeza",
-      "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

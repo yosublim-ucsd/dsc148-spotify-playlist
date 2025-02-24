@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=uGDhGjg5QJCFnuiB0GB9VA>K3ndrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,208 likes - 101 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,228 likes - 101 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

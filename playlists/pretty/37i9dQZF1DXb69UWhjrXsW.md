@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 
 > The greatest songs in the history of cinema\. Cover: The Graduate
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,449 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,648 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 | 99 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
 | 100 | [Pretty In Pink](https://open.spotify.com/track/6dMTErrChMf9jUmANoeBSd) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Pretty In Pink](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 4:39 |
 
-Snapshot ID: `Z4hlFAAAAABj/3RXG+kofVkPoNhx01Mu`
+Snapshot ID: `Z4hlFAAAAAAtF7U2jmM7NORpFOhfn+zt`

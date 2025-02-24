@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Tate McRae.
 
-533 songs - 1 day 2 hr 32 min
+534 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-12 | 2025-02-14 |
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-08-10 |
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-10-18 |
+| [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-23 |  |
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-14 | 2024-12-13 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-08-22 | 2024-09-13 |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-14 | 2024-11-29 |

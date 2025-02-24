@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,512 likes - 51 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,519 likes - 51 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 50 | [A Thousand Hallelujahs \- Live From Passion 2022](https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 5:10 |
 | 51 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 |
 
-Snapshot ID: `Z7fCAAAAAACmP/tbaYMtfOIBp2oA44jp`
+Snapshot ID: `Z7kTgAAAAACrGTRAFk1HrY8ZzQBIqYWp`

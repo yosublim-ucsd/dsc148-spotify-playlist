@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: shama
 
-346 songs - 16 hr 38 min
+348 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Destroy Me, Today](https://open.spotify.com/track/72IHFsUmObpJHWeELe2eEV) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/0nzJM5ozNQ9ZynPsswgrWH) | 3:11 | 2025-02-20 |  |
 | [Deszczowy lipiec](https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Deszczowy lipiec](https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu) | 2:59 | 2024-09-13 | 2024-09-28 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-22 | 2024-11-08 |
-| [Devil of Love](https://open.spotify.com/track/7ndKQcigXPkmRV3OX8VbiE) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Devil of Love](https://open.spotify.com/album/3fe9w4OtS0oRslwCntE8c0) | 3:02 | 2025-02-06 |  |
+| [Devil of Love](https://open.spotify.com/track/7ndKQcigXPkmRV3OX8VbiE) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Devil of Love](https://open.spotify.com/album/3fe9w4OtS0oRslwCntE8c0) | 3:02 | 2025-02-06 | 2025-02-24 |
 | [Dla Ciebie](https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja IV](https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN) | 3:02 | 2024-10-11 | 2025-01-24 |
 | [dla Ciebie mógłbym zabić](https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Do rany przyłóż](https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI) | 2:21 | 2024-11-21 | 2025-01-24 |
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
@@ -137,6 +137,7 @@
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-10-26 |
+| [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl) | 2:13 | 2025-02-20 |  |
 | [Kiss And Fly](https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Terminal 3](https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS) | 2:37 | 2024-06-28 | 2024-10-26 |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2024-06-28 | 2024-09-14 |
 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 | 2024-09-19 | 2025-01-24 |
@@ -160,7 +161,7 @@
 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 | 2025-01-23 |  |
 | [M&M’s](https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:40 | 2024-11-07 | 2025-01-24 |
 | [MADONNA](https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [MADONNA](https://open.spotify.com/album/371FdSJnSsvH685Gc8lfUt) | 2:39 | 2024-09-06 | 2024-09-28 |
-| [MAGAZINE](https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC) | [Mara](https://open.spotify.com/artist/03igDg04igkpSDTGARs1V4), [GLOW](https://open.spotify.com/artist/1yDst78gYo3qG28HiAMXYH) | [MAGAZINE/WAVERLY PLACE](https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH) | 2:50 | 2025-01-23 |  |
+| [MAGAZINE](https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC) | [Mara](https://open.spotify.com/artist/03igDg04igkpSDTGARs1V4), [GLOW](https://open.spotify.com/artist/1yDst78gYo3qG28HiAMXYH) | [MAGAZINE/WAVERLY PLACE](https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH) | 2:50 | 2025-01-23 | 2025-02-24 |
 | [Mam Cię w głowie](https://open.spotify.com/track/2P5hDAHA20zASOQTYw9WkD) | [Patricia](https://open.spotify.com/artist/4wr9FbPm6fSohp3EDNuSzO), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Mam Cię w głowie](https://open.spotify.com/album/6Jmv0F8J5H1mrSKQ70N70K) | 2:35 | 2024-06-28 | 2024-08-23 |
 | [Mam Gorszy Dzień](https://open.spotify.com/track/1KAE9P6fQawIUNOyrgeFAG) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Mam Gorszy Dzień](https://open.spotify.com/album/6tDYxxL22WMnRUeawRd38x) | 2:56 | 2024-06-28 | 2024-07-19 |
 | [Mama](https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Mama](https://open.spotify.com/album/51ipp3GlTVp79WutZBZeGa) | 2:58 | 2024-06-28 | 2024-08-31 |
@@ -336,6 +337,7 @@
 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 | 2024-09-27 | 2025-01-24 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 |  |
 | [Za daleko](https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Za daleko](https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x) | 3:21 | 2024-09-06 | 2025-01-17 |
+| [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 |  |
 | [Zabawy Sercem](https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Zabawy Sercem](https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm) | 2:36 | 2024-06-28 | 2024-08-23 |
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |
 | [Zachód Słońca](https://open.spotify.com/track/2D7qsWBWiOED4L5xeyhXZB) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [Zachód Słońca](https://open.spotify.com/album/6DZC4yhbLTDu5xyDfH6FWe) | 2:28 | 2024-06-28 | 2024-09-14 |

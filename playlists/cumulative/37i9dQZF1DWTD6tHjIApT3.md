@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-2,887 songs - 7 day 17 hr 15 min
+2,888 songs - 7 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1348,7 +1348,7 @@
 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 | 2023-04-19 |
 | [Story Of My Life](https://open.spotify.com/track/6DyilYTEOWAfH8mBuDF15q) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS) | [Story Of My Life](https://open.spotify.com/album/02Lpr7kYCK1XpamJ1JIGCg) | 3:43 | 2023-10-10 | 2023-10-18 |
 | [Strangers Dream 2023](https://open.spotify.com/track/2V6IavAUzVJed2tYeb9WZF) | [Max Lux](https://open.spotify.com/artist/63w05awdqrOzgOP1tNbDFd) | [Strangers Dream 2023](https://open.spotify.com/album/1lUhNrJLqueiDyDAkWfbv0) | 4:05 | 2023-07-11 | 2023-07-19 |
-| [Street Princess](https://open.spotify.com/track/0cYmeHq9kiCIvbatYNCmMK) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:42 | 2024-11-13 |  |
+| [Street Princess](https://open.spotify.com/track/0cYmeHq9kiCIvbatYNCmMK) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:42 | 2024-11-13 | 2025-02-24 |
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 | 2023-02-14 | 2023-03-08 |
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
@@ -2534,6 +2534,7 @@
 | [星めぐる詩](https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [星めぐる詩](https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC) | 3:21 | 2024-02-22 | 2025-02-05 |
 | [星喫茶店](https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Blossom](https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz) | 4:04 | 2023-05-09 | 2023-06-28 |
 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 | 2023-12-26 | 2025-02-05 |
+| [星屑のエスケープ](https://open.spotify.com/track/1VSOgvQqX4jbB23qBYo2Lr) | [稲場愛香](https://open.spotify.com/artist/16cMBa0gb5NPtLs7r6wjDp) | [星屑のエスケープ／終わらないインソムニア \(Special Edition\)](https://open.spotify.com/album/1aY9ENl9L9c6fLJLGoNW6f) | 3:11 | 2025-02-23 |  |
 | [星屑ドライブ](https://open.spotify.com/track/4iAxpxyp6daT87wourqX39) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ](https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc) | 4:38 | 2022-07-26 | 2022-07-28 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-07 | 2024-12-05 |
 | [星街の駅で](https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [星街の駅で](https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv) | 3:58 | 2024-06-18 | 2025-01-08 |

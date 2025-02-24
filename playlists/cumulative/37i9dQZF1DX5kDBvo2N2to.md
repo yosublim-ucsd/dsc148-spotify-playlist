@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-224 songs - 12 hr 46 min
+225 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-08 |  |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-06-28 | 2024-08-23 |
 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 | 2024-06-28 | 2024-08-23 |
-| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
 | [Big Nose](https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym) | [Frey](https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK) | [Big Nose](https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz) | 3:37 | 2024-06-28 | 2024-08-16 |
 | [Black Lake](https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Black Lake](https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ) | 2:55 | 2024-08-15 | 2024-10-08 |
@@ -49,6 +49,7 @@
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-28 | 2024-08-16 |
 | [Daisy](https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Daisy](https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7) | 3:28 | 2025-01-16 |  |
 | [Dance Alone](https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Dance Alone](https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H) | 2:38 | 2024-10-24 |  |
+| [Dansa med mig själv](https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Dansa med mig själv](https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn) | 2:07 | 2025-02-21 |  |
 | [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 | 2024-06-28 |  |
 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 | 2024-06-28 | 2024-10-11 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 |  |

@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Gurulgatok",
+        "url": "https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Gurulgatok",
+      "url": "https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },

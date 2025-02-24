@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sam Fender
 
-1,517 songs - 3 day 15 hr 9 min
+1,518 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 | 2023-10-19 | 2023-10-27 |
 | [Clouds](https://open.spotify.com/track/2FlYBPrM8HgTkm5FE8Udy9) | [Defying Decay](https://open.spotify.com/artist/3hulNignaNzmsZxPOHi0Dy), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Clouds](https://open.spotify.com/album/2Aw142w0gigVXXlFm2tUqG) | 3:34 | 2023-07-27 | 2023-08-04 |
 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 | 2024-02-29 | 2024-04-05 |
+| [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-20 |  |
 | [Collide](https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Collide](https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd) | 4:03 | 2024-02-29 | 2024-04-26 |
 | [Color Chaos](https://open.spotify.com/track/7gjG9tike8AJUB6dtwPRsB) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Color Chaos](https://open.spotify.com/album/4FrQPhcXLf98uHn3cb3t75) | 3:11 | 2023-04-13 | 2023-04-28 |
 | [Columbia \- Sawmills Outtake](https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK) | 7:17 | 2024-06-20 | 2024-07-06 |
@@ -789,7 +790,7 @@
 | [Looking Back](https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue) | 3:18 | 2024-02-29 | 2024-03-08 |
 | [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 | 2024-03-02 |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 | 2023-04-21 |
-| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 |  |
+| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2024-11-14 | 2025-02-24 |
 | [Losing Game](https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Losing Game](https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o) | 4:01 | 2023-09-28 | 2023-10-20 |
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-25 | 2024-02-02 |
 | [Losing My Sense Of Taste](https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Relentless](https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi) | 4:13 | 2023-09-15 | 2023-09-22 |

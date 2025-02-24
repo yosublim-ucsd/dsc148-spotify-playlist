@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-533 songs - 1 day 6 hr 26 min
+536 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [1,000 Lights](https://open.spotify.com/track/768Xvk1Z33Q3zzVv55ombr) | [Javier Colon](https://open.spotify.com/artist/3flTDj1VSZCktpBGZlNutt) | [Come Through For You](https://open.spotify.com/album/5QKlmKhCgRgDmOeKdy84yN) | 3:19 | 2024-01-29 |  |
 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 | 2024-01-29 |  |
 | [2 hands](https://open.spotify.com/track/2GwqVPMVmK7bOgL6UCp7Ht) | [Lil C.C.](https://open.spotify.com/artist/4Moq5aBdKJzuZtYUfcyKfr) | [2 hands](https://open.spotify.com/album/1y4nObs7YQvXu8ZwyXMChj) | 3:22 | 2024-11-28 | 2024-12-04 |
-| [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-11 |  |
+| [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-11 | 2025-02-24 |
+| [2 hands](https://open.spotify.com/track/0B7tnohfi83RQquo2JRHrL) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:02 | 2025-02-23 |  |
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2024-03-12 |  |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2024-01-29 |  |
 | [A.I.](https://open.spotify.com/track/5xRcy8i64lENBk48rOe7K8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 5:09 | 2025-01-09 |  |
@@ -246,7 +247,8 @@
 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 | 2024-01-29 |  |
 | [Is This All](https://open.spotify.com/track/2JMWj3mh5mTA1ADOTiyRpS) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [C'est La "V"](https://open.spotify.com/album/3BaaelGfQBnFH8qUSArGRM) | 3:39 | 2024-01-29 |  |
 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 | 2024-01-29 |  |
-| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-28 |  |
+| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-28 | 2025-02-24 |
+| [It's ok I'm ok](https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-23 |  |
 | [Journey \(From "Songland"\)](https://open.spotify.com/track/64Olex5ZO20XUe3gB7W8im) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Journey \(From "Songland"\)](https://open.spotify.com/album/30iuIpjKEdOjLT60KmCL78) | 2:25 | 2024-01-29 |  |
 | [Judgements \(From "Songland"\)](https://open.spotify.com/track/2RLKK69LfFac9PUPLUGu32) | [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Judgements \(From "Songland"\)](https://open.spotify.com/album/0FrkrDhyqUTQ0kFF0bCcIb) | 2:42 | 2024-01-29 |  |
 | [Karma](https://open.spotify.com/track/7ngsPEDII59kTJ7ged8iFq) | [NLT](https://open.spotify.com/artist/1UuGrU5FyRGANwVhOBoQWB) | [Karma](https://open.spotify.com/album/46qvtQZ4HJruB02lbzUGKc) | 3:26 | 2024-01-29 |  |
@@ -422,7 +424,8 @@
 | [Something's Not Right Here](https://open.spotify.com/track/02KhGhQeAieOyzqh1Ebu9h) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(UK Nokia Exclusive Version\)](https://open.spotify.com/album/01EtVyzLftxkMkAC7yCuHB) | 3:03 | 2024-01-29 |  |
 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 | 2024-01-29 |  |
 | [Speak Up](https://open.spotify.com/track/6u88kKIAGstDtF400mk1fq) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:42 | 2024-01-29 |  |
-| [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-02-06 |  |
+| [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-02-06 | 2025-02-24 |
+| [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-23 |  |
 | [Stargazing](https://open.spotify.com/track/1ZWp7uMlEwBhpedEw6F048) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:40 | 2024-08-16 |  |
 | [Start Again \(feat\. Logic\)](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 2:45 | 2024-01-29 |  |
 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 | 2024-01-29 |  |

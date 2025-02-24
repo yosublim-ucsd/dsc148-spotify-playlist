@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,916 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,945 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Picking Flowers](https://open.spotify.com/track/2O3cy7DKdobrA8e0bqrPEI) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [Picking Flowers](https://open.spotify.com/album/5PaNphWwcQRzuJR0tLAOvB) | 4:16 |
 | 100 | [Slay The Beast](https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Trusting Theta](https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o) | 3:42 |
 
-Snapshot ID: `Z7gIfgAAAAC9Rsn8D5/5HIJEoBWu8CUY`
+Snapshot ID: `Z7gIfgAAAADlaRB7HDEgtuZ0Dos4mm8r`

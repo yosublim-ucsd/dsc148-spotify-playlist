@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,463 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,667 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 84 | [Crazy](https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Crazy](https://open.spotify.com/album/0rNGUhljXFbcnGSoaxnb1c) | 3:13 |
 | 85 | [Angeleyes](https://open.spotify.com/track/5kUCB9LBepdPxtsT6BTLUI) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Daisey](https://open.spotify.com/artist/33RgwUk4J0QcTM56aF3dKg) | [Angeleyes](https://open.spotify.com/album/2NDrUMWuikKLn6fgqlgUvl) | 2:23 |
 
-Snapshot ID: `Z7g9qwAAAAC2Kvn66ZDOyoG4P1YXI7SW`
+Snapshot ID: `Z7g9qwAAAAALDPstWZWWR0BdAAjhmGDk`

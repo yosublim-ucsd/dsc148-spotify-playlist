@@ -25584,7 +25584,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 132000,
       "name": "Je veux",
       "url": "https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS"
@@ -29258,6 +29258,24 @@
       "duration_ms": 233632,
       "name": "La visite",
       "url": "https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V"
+    },
+    {
+      "album": {
+        "name": "Imad, la suite",
+        "url": "https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143906,
+      "name": "La vraie vie",
+      "url": "https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T"
     },
     {
       "album": {

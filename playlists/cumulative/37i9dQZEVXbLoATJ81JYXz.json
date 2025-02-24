@@ -5808,7 +5808,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
@@ -13516,7 +13516,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 174669,
       "name": "Funniest Thing",
       "url": "https://open.spotify.com/track/2750HhdibiPb7kY84SEtYX"
@@ -15034,7 +15034,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -18432,7 +18432,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 156222,
       "name": "I know love (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
@@ -23062,7 +23062,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 135576,
       "name": "Lila",
       "url": "https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z"
@@ -23718,7 +23718,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 212000,
       "name": "Love Doctor's",
       "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
@@ -30644,7 +30644,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 191278,
       "name": "QURBANI (KOM TBX)",
       "url": "https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz"
@@ -32116,7 +32116,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 180010,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
@@ -32406,7 +32406,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 182349,
       "name": "Salute",
       "url": "https://open.spotify.com/track/2fa3V92K5LtrQKOHs5URSD"
@@ -38358,7 +38358,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -38376,7 +38376,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -40542,7 +40542,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Upp I Luften (feat. PA)",
       "url": "https://open.spotify.com/track/3WI1yYBF8jMNjkQ6IHZSbu"
@@ -41404,6 +41404,24 @@
       "duration_ms": 192586,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
+    },
+    {
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/67XtyV7VtsCdC3I5bJdFHK"
+      },
+      "artists": [
+        {
+          "name": "Andreas Lundstedt",
+          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/5fZNxL6KhetncbmSaVZrwg"
     },
     {
       "album": {
@@ -43940,6 +43958,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7m0N8uMzB2p04FVIdDl76i"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166695,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1EXvc1bJdpFkivWpj3vTcL"
     },
     {
       "album": {

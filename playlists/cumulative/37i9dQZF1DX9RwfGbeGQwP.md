@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,546 songs - 2 day 10 hr 10 min
+1,547 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Colors of the Sky](https://open.spotify.com/track/3CUBpil1eMw2K0HPlik9yg) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/3mEs23uIMwl4dwCnlUtrYY) | 2:08 | 2022-10-28 | 2022-11-12 |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-01-27 | 2022-06-10 |
 | [come back](https://open.spotify.com/track/2SaUJBjA3pRqouUa4Wpczm) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [come back EP](https://open.spotify.com/album/5Cz0JCREleRzKoDI4eohvV) | 1:42 | 2022-11-11 | 2023-08-04 |
+| [Comfy](https://open.spotify.com/track/3EwaleSpJ9hNXM8txWmipY) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Comfy](https://open.spotify.com/album/33pHrr0ZKzZw5G5HMtr5AD) | 2:21 | 2025-02-21 |  |
 | [Comfy Chair](https://open.spotify.com/track/4rQ0pTm3poVLafVbXCjnIy) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj) | 1:37 | 2022-01-27 | 2022-06-10 |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2022-01-27 | 2023-04-21 |
 | [comrade](https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S) | [city signs](https://open.spotify.com/artist/6XrwfQs4tcuCOBgFXIszwy) | [comrade](https://open.spotify.com/album/3ZeAE3SFwu9VuUguDjyeZE) | 2:18 | 2023-02-07 |  |
@@ -1147,7 +1148,7 @@
 | [Sandbaggin'](https://open.spotify.com/track/1MmAvvKSQmx033XMJfzyBC) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Sandbaggin'](https://open.spotify.com/album/76yhrUTsBumHr0CRvrJLnY) | 1:40 | 2022-06-10 | 2023-08-04 |
 | [Santorini](https://open.spotify.com/track/60bnC7jsOCgrtBUa9cMEYp) | [Moretti](https://open.spotify.com/artist/0mjFTaFNZ2G7AxvKZh96WD) | [Santorini](https://open.spotify.com/album/6ScDvj4ItlziG4UtB2bsl5) | 2:18 | 2024-08-30 |  |
 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 | 2022-08-19 | 2023-01-07 |
-| [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 |  |
+| [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 | 2025-02-24 |
 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 | 2022-09-30 | 2024-05-19 |
 | [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 |  |
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |

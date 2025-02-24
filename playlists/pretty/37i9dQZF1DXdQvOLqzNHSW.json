@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1008152,
+  "num_followers": 1008145,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -487,18 +467,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+      "duration_ms": 226280,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -519,6 +503,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "All Roads",
         "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
       },
@@ -535,42 +535,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Moon Soul",
-        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
-      },
-      "artists": [
-        {
-          "name": "Moon Soul",
-          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "Pretty Little Thing",
-      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop"
       },
@@ -583,6 +547,22 @@
       "duration_ms": 203516,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Moon Soul",
+        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
+      },
+      "artists": [
+        {
+          "name": "Moon Soul",
+          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
+        }
+      ],
+      "duration_ms": 66000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -655,6 +635,26 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Pretty Little Thing",
+      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Okonski",
-          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "By The Lake",
-      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "SLOW DANCE IN A GAY BAR",
-        "url": "https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P"
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
         }
       ],
-      "duration_ms": 250097,
-      "name": "SLOW DANCE IN A GAY BAR",
-      "url": "https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr"
+      "duration_ms": 177882,
+      "name": "By The Lake",
+      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
+        "name": "SLOW DANCE IN A GAY BAR",
+        "url": "https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P"
       },
       "artists": [
         {
-          "name": "SadGirl",
-          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Little Queenie (2023 Remastered Version)",
-      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
+      "duration_ms": 250097,
+      "name": "SLOW DANCE IN A GAY BAR",
+      "url": "https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -907,18 +891,34 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "SadGirl",
+          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
         }
       ],
-      "duration_ms": 178000,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
+      "duration_ms": 170434,
+      "name": "Little Queenie (2023 Remastered Version)",
+      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Craterellus Tubaeformis",
+        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Craterellus Tubaeformis",
-        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
       },
       "artists": [
         {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
+      "duration_ms": 178000,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Hate the Sun",
-      "url": "https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "I Just Can't Be Alone (with Billy Lemos)",
         "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 160062,
       "name": "I Just Can't Be Alone (with Billy Lemos)",
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Hate the Sun",
+      "url": "https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Biking",
-        "url": "https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Biking",
-      "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/39MAU8JIcR7ojQA4hnoPDS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Biking",
+        "url": "https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Biking",
+      "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Cerulean Tapes",
-        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
       },
       "artists": [
         {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 256142,
-      "name": "TEENAGE FEVER",
-      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1311,34 +1311,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+        "name": "Cerulean Tapes",
+        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "What\u2019s In The Tea?",
-        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
-      },
-      "artists": [
-        {
-          "name": "Calimossa",
-          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "What\u2019s In The Tea?",
-      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
+      "duration_ms": 256142,
+      "name": "TEENAGE FEVER",
+      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1355,6 +1339,22 @@
       "duration_ms": 218848,
       "name": "Really You",
       "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "What\u2019s In The Tea?",
+        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
+      },
+      "artists": [
+        {
+          "name": "Calimossa",
+          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "What\u2019s In The Tea?",
+      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Agnus",
+        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        }
+      ],
+      "duration_ms": 173046,
+      "name": "whatalife",
+      "url": "https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Charlie (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 197511,
       "name": "I'll Never Leave",
       "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Agnus",
-        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
-      },
-      "artists": [
-        {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        }
-      ],
-      "duration_ms": 173046,
-      "name": "whatalife",
-      "url": "https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS"
     },
     {
       "added_at": "2025-02-07 05:00:32",

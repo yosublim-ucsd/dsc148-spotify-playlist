@@ -1658,10 +1658,32 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/2bmTA6uHUsZZGnX9WjB038"
+    },
+    {
+      "album": {
+        "name": "Summer Pregame Party Songs 2023",
+        "url": "https://open.spotify.com/album/0lJ0jLKCWckDnlwkuvrZ8v"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245959,
+      "name": "Rodeo - Remix",
+      "url": "https://open.spotify.com/track/00pqmxk5OV0ZTaKk0NUE8Q"
     },
     {
       "album": {

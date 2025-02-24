@@ -1,6 +1,6 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 465085,
+  "num_followers": 465256,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Yo Fuera Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
-        }
-      ],
-      "duration_ms": 179201,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Pedo Qui\u00e9n Sabe",
         "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 191284,
       "name": "Ya Pedo Qui\u00e9n Sabe",
       "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Yo Fuera Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        }
+      ],
+      "duration_ms": 179201,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
     },
     {
       "added_at": null,

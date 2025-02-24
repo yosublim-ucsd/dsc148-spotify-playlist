@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 190178,
       "name": "AIRE",
       "url": "https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 197280,
       "name": "Burbujas de Amor - Radio Edit",
       "url": "https://open.spotify.com/track/7AYq8M9NyvefXeOlU1uJiJ"
@@ -7494,7 +7494,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 210389,
       "name": "F L Y",
       "url": "https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 210389,
       "name": "F\u30fbL\u30fbY",
       "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
@@ -13192,7 +13192,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -17744,7 +17744,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 354857,
       "name": "Resenha do Arrocha",
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
@@ -20370,7 +20370,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 214573,
       "name": "Supermercado",
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
@@ -21722,6 +21722,24 @@
       "duration_ms": 166800,
       "name": "tranqui, te puedes enamorar",
       "url": "https://open.spotify.com/track/5L7Cj7HFf7YcCb9GU1ySDt"
+    },
+    {
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
     },
     {
       "album": {

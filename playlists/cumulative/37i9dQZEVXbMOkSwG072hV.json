@@ -4099,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Kebrada Boyz",
+        "url": "https://open.spotify.com/album/3UjaJRBHx7Zf2j65TLtJJy"
+      },
+      "artists": [
+        {
+          "name": "Link do Zap",
+          "url": "https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm"
+        }
+      ],
+      "date_added": "2025-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166711,
+      "name": "Anti Her\u00f3i",
+      "url": "https://open.spotify.com/track/6MNNMBN1TbKm2hkRLmm243"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -49206,7 +49224,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-24",
       "duration_ms": 111044,
       "name": "Porsche Azul",
       "url": "https://open.spotify.com/track/5vT4pYzoIJHEZhkBx2BgOU"

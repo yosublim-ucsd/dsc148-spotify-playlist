@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 527335,
+  "num_followers": 527528,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
         "name": "Take It Easy on Me",
         "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 159636,
       "name": "Take It Easy on Me",
       "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -1451,6 +1451,42 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
+        "name": "Kidz",
+        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Kidz",
+      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
+        "name": "Destination Lost",
+        "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 219017,
+      "name": "Destination Lost",
+      "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
         "name": "Tanzania (Rampa Remix)",
         "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
       },
@@ -1479,26 +1515,6 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "Destination Lost",
-        "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 219017,
-      "name": "Destination Lost",
-      "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
         "name": "Kuwe",
         "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 165500,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
-        "name": "Kidz",
-        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Kidz",
-      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
         "name": "Matahale",
         "url": "https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj"
       },
@@ -1807,18 +1823,18 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
       },
       "artists": [
         {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
         }
       ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
         "name": "Netzwerk (Luch Rework)",
         "url": "https://open.spotify.com/album/1TqyZvgULVEdWaV505DrY6"
       },
@@ -1903,22 +1903,22 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "H\u00e9roe de M\u00e9xico",
-        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+        "name": "Waka",
+        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+          "name": "AFRONOM",
+          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
         },
         {
-          "name": "mari",
-          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+          "name": "Batuhan K\u0131n\u0131k",
+          "url": "https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP"
         }
       ],
-      "duration_ms": 211202,
-      "name": "H\u00e9roe de M\u00e9xico",
-      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+      "duration_ms": 157500,
+      "name": "Waka",
+      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -1943,6 +1943,26 @@
       "duration_ms": 199512,
       "name": "Gorah - Francis Mercier Midnight Mix",
       "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
+        "name": "H\u00e9roe de M\u00e9xico",
+        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "H\u00e9roe de M\u00e9xico",
+      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -1979,26 +1999,6 @@
       "duration_ms": 239492,
       "name": "W4U (feat. Jen)",
       "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
-        "name": "Waka",
-        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
-      },
-      "artists": [
-        {
-          "name": "AFRONOM",
-          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
-        },
-        {
-          "name": "Batuhan K\u0131n\u0131k",
-          "url": "https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Waka",
-      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2243,6 +2243,26 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
+        "name": "Electricity (Karen Nyame KG Remix)",
+        "url": "https://open.spotify.com/album/3vP5SePa5PUZeBMed5o4Gg"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Electricity (Karen Nyame KG Remix)",
+      "url": "https://open.spotify.com/track/0WGZA4fWEWIeqbASvl24XM"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
         "name": "Who's That Girl (JL & Afterman Mix)",
         "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
       },
@@ -2339,26 +2359,6 @@
       "duration_ms": 211949,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
-        "name": "Electricity (Karen Nyame KG Remix)",
-        "url": "https://open.spotify.com/album/3vP5SePa5PUZeBMed5o4Gg"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        },
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Electricity (Karen Nyame KG Remix)",
-      "url": "https://open.spotify.com/track/0WGZA4fWEWIeqbASvl24XM"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2467,22 +2467,22 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
+        "name": "Secreto de Amor (La Noche)",
+        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
       },
       "artists": [
         {
-          "name": "Marino Canal",
-          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         },
         {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 196859,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
+      "duration_ms": 271707,
+      "name": "Secreto de Amor - La Noche",
+      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2511,22 +2511,22 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
       },
       "artists": [
         {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
         },
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
         }
       ],
-      "duration_ms": 180000,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+      "duration_ms": 196859,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2547,6 +2547,26 @@
       "duration_ms": 315371,
       "name": "Riga",
       "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+    },
+    {
+      "added_at": "2025-02-21 05:00:30",
+      "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
     },
     {
       "added_at": "2025-02-21 05:00:30",
@@ -2611,38 +2631,18 @@
     {
       "added_at": "2025-02-21 05:00:30",
       "album": {
-        "name": "Secreto de Amor (La Noche)",
-        "url": "https://open.spotify.com/album/4gCu7HhDuF5QX40XaGWPpY"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
         }
       ],
-      "duration_ms": 271707,
-      "name": "Secreto de Amor - La Noche",
-      "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
-    },
-    {
-      "added_at": "2025-02-21 05:00:30",
-      "album": {
-        "name": "Nothing That I Need",
-        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
-      },
-      "artists": [
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Nothing That I Need",
-      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+      "duration_ms": 199687,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
     }
   ],
   "unique_name": "Tantra",

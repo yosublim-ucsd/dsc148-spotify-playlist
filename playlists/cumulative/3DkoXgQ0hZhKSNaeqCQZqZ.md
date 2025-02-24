@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-313 songs - 16 hr 35 min
+314 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |
+| [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |
 | [In The Night](https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [In The Night](https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj) | 2:34 | 2024-11-18 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |

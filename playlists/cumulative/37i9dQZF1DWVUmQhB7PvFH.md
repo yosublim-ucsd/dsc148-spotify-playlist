@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 張惠妹 \(A\-Mei\)
 
-258 songs - 18 hr 48 min
+259 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 | 2024-04-29 |  |
 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 | 2024-01-15 | 2024-02-06 |
 | [暗號](https://open.spotify.com/track/0Tugyy24LgpJV5L3LA7PJ9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/73TuSaNd471d1A8k5sqax1) | 4:29 | 2024-07-08 | 2024-10-14 |
-| [最近](https://open.spotify.com/track/57pUHpCltt09b5w1W6m9qb) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2YWoaXXwYeCEUbKw4AgQ6z) | 4:03 | 2024-06-24 |  |
+| [最近](https://open.spotify.com/track/57pUHpCltt09b5w1W6m9qb) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2YWoaXXwYeCEUbKw4AgQ6z) | 4:03 | 2024-06-24 | 2025-02-24 |
 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 | 2025-02-17 |  |
 | [月光](https://open.spotify.com/track/3zITNHUKVAnfpHQIHi7mUZ) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Red Cyndi](https://open.spotify.com/album/0SJfNYYj5PlGBcPzyYOBzn) | 4:05 | 2024-04-29 | 2024-05-28 |
 | [月牙灣](https://open.spotify.com/track/7gqIrPhK2l4H9YzxD9Pycj) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [愛‧歌姬](https://open.spotify.com/album/7bdvyZhYxjFwavqDIz2RyE) | 5:08 | 2024-10-14 | 2025-02-17 |
@@ -242,6 +242,7 @@
 | [說真的](https://open.spotify.com/track/7rddtqLGuodJPVHhgEH4lK) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [說真的](https://open.spotify.com/album/46vVyuOnJUMvUKvjcOa0Lk) | 4:30 | 2024-04-29 | 2024-05-28 |
 | [說謊](https://open.spotify.com/track/5EXpL9orGpIsscSyBgPdSx) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [感官/世界](https://open.spotify.com/album/5xQZa2Pvi6JoQnZFzYaRAt) | 4:24 | 2024-01-22 | 2024-03-05 |
 | [謝謝你的愛](https://open.spotify.com/track/00Pawae4ozSMD3EOVLSiDD) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [Man And Woman](https://open.spotify.com/album/5M5oLzpXobp8FMBYXOqHLA) | 4:19 | 2025-01-20 | 2025-02-17 |
+| [越來越不懂](https://open.spotify.com/track/3p9hhOrZGyxJAoKtp8Svqo) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Goodbye & Hello](https://open.spotify.com/album/7jyiXKzJYgJ24IqlGMKcjN) | 4:09 | 2025-02-17 |  |
 | [身騎白馬](https://open.spotify.com/track/5ocA068mvMpA2GFPYQo670) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 5:13 | 2024-01-15 | 2024-02-06 |
 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 | 2024-04-01 |  |
 | [這就是愛](https://open.spotify.com/track/53mUWJsq0FPsPJzOU3YZ9c) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Fly Cyndi](https://open.spotify.com/album/1wRnPxKtzWiAk0eveDvIOm) | 3:59 | 2024-03-04 | 2024-04-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7189,
+  "num_followers": 7193,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "The Brutalist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        }
+      ],
+      "duration_ms": 289386,
+      "name": "Overture (Ship)",
+      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Te Maldigo (From \"Queer\")",
         "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 173013,
       "name": "Te Maldigo (From \"Queer\")",
       "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "The Brutalist (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
-      },
-      "artists": [
-        {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
-        }
-      ],
-      "duration_ms": 289386,
-      "name": "Overture (Ship)",
-      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Queer (Original Score)",
+        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 274463,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Sh\u014dgun (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "The Penguin (Soundtrack from the HBO\u00ae Original Series) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM"
       },
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Adriana Paz",
-          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
-        },
-        {
-          "name": "The Mexican Choir",
-          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Las Damas que Pasan",
-      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Baby Reindeer (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1mO7Kknfl075sdQfCQ4ixh"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 163880,
       "name": "Leaving Darrien",
       "url": "https://open.spotify.com/track/5Ebf43ulRIpMHSaWzSIIZL"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Adriana Paz",
+          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
+        },
+        {
+          "name": "The Mexican Choir",
+          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Las Damas que Pasan",
+      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

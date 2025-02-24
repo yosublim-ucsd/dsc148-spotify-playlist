@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: AKASAKI \*👉 <a href="https://spice.eplus.jp/articles/335713">SPICE連動記事</a>をSPICEでチェック!
 
-9,581 songs - 24 day 20 hr 52 min
+9,582 songs - 24 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8456,6 +8456,7 @@
 | [怪物](https://open.spotify.com/track/19uTrF6VZNaUUYsFIAE8nJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [怪物](https://open.spotify.com/album/0Dg5i9je3xQEBzDhvxZUCt) | 2:35 | 2023-07-18 | 2023-07-20 |
 | [怪物](https://open.spotify.com/track/6sI0yZKiRUDw14iwylxuP2) | [フリージアン](https://open.spotify.com/artist/503GZq7ekQt3VgeUZ946ef) | [歌葬](https://open.spotify.com/album/6to6JlhWDj7qCTJNgVH9NG) | 3:13 | 2024-09-11 | 2024-09-18 |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |
+| [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-23 |  |
 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 | 2023-08-08 | 2023-08-16 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-15 | 2023-11-22 |
 | [恋](https://open.spotify.com/track/7CTB0BYTbLbOlvW06s4pYp) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [恋](https://open.spotify.com/album/6xIjFmApE3nz4dJYTXH69F) | 2:54 | 2024-04-24 | 2024-05-01 |

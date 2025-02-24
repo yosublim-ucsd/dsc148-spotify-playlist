@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Anxious
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,582 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,607 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Talk Real](https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Talk Real](https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o) | 2:55 |
 | 100 | [47.](https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Closer To;](https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV) | 3:27 |
 
-Snapshot ID: `Z7iG+gAAAAAZajZraHPZ2v3BtHzlZi0T`
+Snapshot ID: `Z7iG+gAAAACojVFHHiLQgPAXc1ymZEjG`

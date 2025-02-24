@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,485 likes - 224 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,499 likes - 224 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 24 | [Seraphic Solace](https://open.spotify.com/track/0byE9qeBvok8PDkX4ZqVwi) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Seraphic Solace](https://open.spotify.com/album/3Rw7NhofrNdF3GFARJ4BkE) | 2:33 |
 | 25 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 |
 | 26 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
-| 27 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Volaire](https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
+| 27 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
 | 28 | [Landscaped bodies](https://open.spotify.com/track/4OVImwWsGcCMCv3oN8CATY) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Landscaped bodies](https://open.spotify.com/album/2V9gtkKKMgT5ogwTR1CUft) | 2:13 |
 | 29 | [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 |
 | 30 | [Through a Rainy Window](https://open.spotify.com/track/2dE60i6I1i6AMyn0Ccp4FR) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Through a Rainy Window](https://open.spotify.com/album/6wSmwxjnOgAkkO702TqpGv) | 2:50 |

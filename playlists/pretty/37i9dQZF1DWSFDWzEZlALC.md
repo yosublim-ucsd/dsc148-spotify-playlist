@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Yu
+> Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann, Max Raabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,047 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,063 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 |
-| 2 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 |
-| 3 | [Indigo](https://open.spotify.com/track/2VTxjnSovY93J4J4dNXhcH) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/40uGNlnavAbwWtL5zy44Ty) | 3:56 |
-| 4 | [SEV](https://open.spotify.com/track/2tAS95Xdx1OtB3I1XlcZ0s) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [OUTRUN EP](https://open.spotify.com/album/49nrhs0JMrPie06MgEjCuE) | 2:13 |
-| 5 | [Wenn du weinst](https://open.spotify.com/track/5foj15h1rwrLo3lSMIfX1q) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Wenn du weinst](https://open.spotify.com/album/2fzgJys8Q950lIHvSQiI9Z) | 2:38 |
+| 1 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 |
+| 2 | [Indigo](https://open.spotify.com/track/2VTxjnSovY93J4J4dNXhcH) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/40uGNlnavAbwWtL5zy44Ty) | 3:56 |
+| 3 | [SEV](https://open.spotify.com/track/2tAS95Xdx1OtB3I1XlcZ0s) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [OUTRUN EP](https://open.spotify.com/album/49nrhs0JMrPie06MgEjCuE) | 2:13 |
+| 4 | [Wenn du weinst](https://open.spotify.com/track/5foj15h1rwrLo3lSMIfX1q) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Wenn du weinst](https://open.spotify.com/album/2fzgJys8Q950lIHvSQiI9Z) | 2:38 |
+| 5 | [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 |
 | 6 | [reich](https://open.spotify.com/track/3P28x30LU3FhaAvNkTSliI) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [reich](https://open.spotify.com/album/1TW4kJnm1mCZOpPoQBzUD3) | 2:54 |
 | 7 | [abendrot](https://open.spotify.com/track/5pvDspjgrtfo9rRPE5rR5M) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [abendrot](https://open.spotify.com/album/4XTqp55fa4vT8lBIQj4Wnp) | 2:06 |
 | 8 | [Blicke kreuzen](https://open.spotify.com/track/46miyDLBdm5tZvaiDg5LjI) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Blicke kreuzen](https://open.spotify.com/album/15IhWbfdreznASz8Wm3N6Q) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Supernova](https://open.spotify.com/track/0H3bVAIkjbrMkok4DfI34P) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Supernova](https://open.spotify.com/album/55QNEhr1qmZWdbwVNhrunk) | 3:26 |
 | 75 | [Schneeballschlacht](https://open.spotify.com/track/17U4l3bkLDBeR4BHp77s6l) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Schneeballschlacht](https://open.spotify.com/album/7Cva23tNGI1u0QBOtwXKSa) | 1:50 |
 
-Snapshot ID: `Z7e0CgAAAABLXgnYPUfj1A6Af6+R2JnY`
+Snapshot ID: `Z7uojgAAAADmPFKRWT6lX4rkPKvVkE0P`

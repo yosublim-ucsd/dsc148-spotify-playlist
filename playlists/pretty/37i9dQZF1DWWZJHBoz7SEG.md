@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música chida 🤝 el fin de semana ✨ con Gabito Ballesteros en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,553 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,826 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 38 | [Brooklyn](https://open.spotify.com/track/3mcrH5DyUu4mH6fZ4nkHzD) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Brooklyn](https://open.spotify.com/album/0QVCN1VLmGxVKkjVDyVse6) | 4:03 |
 | 39 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
 | 40 | [Fiesta De Barrio](https://open.spotify.com/track/1vqejJVjdEvb3d7zoQnhB0) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Fiesta De Barrio](https://open.spotify.com/album/069edRbz8dGWvqvcgMUJDw) | 3:18 |
-| 41 | [Belcebu](https://open.spotify.com/track/6REOhDNUGgz2j4gSO0TTVq) | [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Dj Sueño](https://open.spotify.com/artist/33t1v6wkuctEHPQ4356j87) | [Belcebu](https://open.spotify.com/album/4DwPeYZqoz8QN0vM1rcD0v) | 3:07 |
+| 41 | [Belcebu](https://open.spotify.com/track/6REOhDNUGgz2j4gSO0TTVq) | [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Dj Sueño](https://open.spotify.com/artist/33t1v6wkuctEHPQ4356j87) | [Belcebu](https://open.spotify.com/album/4DwPeYZqoz8QN0vM1rcD0v) | 3:06 |
 | 42 | [R.P.M.](https://open.spotify.com/track/6W0cpyqrmnYWK1KWwZZmbd) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Nick Calleros](https://open.spotify.com/artist/5myjsXFVjB2bO2tnkculbD) | [R.P.M.](https://open.spotify.com/album/7lpNNW1OGUNNauhpMOfqIT) | 2:59 |
 | 43 | [Desdentonces](https://open.spotify.com/track/2hTFtoEgDE7SjEcSbLgdVx) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [Desdentonces](https://open.spotify.com/album/2RyPov3pdsLdoYpB3UBX1S) | 3:12 |
 | 44 | [Contigo Si](https://open.spotify.com/track/0MgcGg1DJ7fdHzBUg5tovc) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Contigo Si](https://open.spotify.com/album/4Iw0Dcli2l2Uqud1Xi5caD) | 2:33 |
