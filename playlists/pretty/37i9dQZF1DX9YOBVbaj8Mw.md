@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,868 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,869 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 54 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
 | 55 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
 | 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
-| 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
-| 58 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
+| 57 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
+| 58 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
 | 59 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
 | 60 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 61 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 64 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 65 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
 | 66 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
-| 67 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
-| 68 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
+| 67 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
+| 68 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
 | 69 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |
 | 70 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
 | 71 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |

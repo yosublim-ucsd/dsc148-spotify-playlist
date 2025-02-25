@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Rusherking y Micro TDH
 
-330 songs - 17 hr 47 min
+331 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 | 2024-03-01 | 2024-03-22 |
 | [Emoji de café](https://open.spotify.com/track/13P4MDo0mC6lpKQypWeoV2) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [Emoji de café](https://open.spotify.com/album/6UVtXfTfYDxFCUPfX3AeYZ) | 2:39 | 2024-07-19 | 2024-07-27 |
 | [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 | 2024-08-02 |  |
-| [en la cara \- remixXx](https://open.spotify.com/track/1eJzCV4uvsxLYRsFM1b1Wi) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [en la cara \(remixXx\)](https://open.spotify.com/album/5aszvVYXNnOR1IaLmC7XBL) | 3:03 | 2024-11-05 |  |
+| [en la cara \- remixXx](https://open.spotify.com/track/1eJzCV4uvsxLYRsFM1b1Wi) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [en la cara \(remixXx\)](https://open.spotify.com/album/5aszvVYXNnOR1IaLmC7XBL) | 3:03 | 2024-11-05 | 2025-02-25 |
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2024-10-10 |  |
 | [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 | 2024-09-07 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 | 2024-07-31 |
@@ -180,6 +180,7 @@
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2023-07-14 | 2023-10-24 |
 | [Mancharnos la piel](https://open.spotify.com/track/7h4XrjcIiOWvbyyf2Dl6rY) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Mancharnos la piel](https://open.spotify.com/album/6JEbo4C3fWjUpBS6Qsdhf4) | 3:30 | 2024-09-20 | 2024-10-05 |
 | [Maniática](https://open.spotify.com/track/73RbEFRkALB6vj8OMiVTn7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Maniática](https://open.spotify.com/album/1VeIe1uEZ6F36FATIQdafO) | 3:00 | 2025-01-31 | 2025-02-22 |
+| [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-02-21 |  |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-07-14 | 2023-10-24 |
 | [Mary No!](https://open.spotify.com/track/7tnRQ5qBF90oti9htPR9FM) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN) | [Mary No!](https://open.spotify.com/album/1jI1VUXqOVkXQzo7PsNy4d) | 3:05 | 2024-04-19 | 2024-04-27 |
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-10-23 | 2025-02-24 |

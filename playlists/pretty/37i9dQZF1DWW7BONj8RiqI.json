@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 223343,
+  "num_followers": 223404,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 137330,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Spanish Fly Riddim",
-        "url": "https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "A Little Wine",
-      "url": "https://open.spotify.com/track/5AH8FUXusa1sUfLzqIRImU"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+        "name": "Spanish Fly Riddim",
+        "url": "https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+      "duration_ms": 203520,
+      "name": "A Little Wine",
+      "url": "https://open.spotify.com/track/5AH8FUXusa1sUfLzqIRImU"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1063,6 +1047,22 @@
       "duration_ms": 207192,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Sit on My Face",
-        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
-      },
-      "artists": [
-        {
-          "name": "Zido",
-          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
-        }
-      ],
-      "duration_ms": 87086,
-      "name": "Sit on My Face",
-      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Get Soca 2018",
         "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 171230,
       "name": "Mas Go Play",
       "url": "https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Sit on My Face",
+        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
+      },
+      "artists": [
+        {
+          "name": "Zido",
+          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
+        }
+      ],
+      "duration_ms": 87086,
+      "name": "Sit on My Face",
+      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 188160,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
       "artists": [
         {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
         }
       ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1723,22 +1723,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7"
+        "name": "Red, White, Black",
+        "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
       },
       "artists": [
         {
-          "name": "Fiyah Marshall",
-          "url": "https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         },
         {
-          "name": "Orlando Octave",
-          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 198554,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0"
+      "duration_ms": 231874,
+      "name": "Carnival (feat. Machel Montano)",
+      "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
     }
   ],
   "unique_name": "Massive Soca Hits",

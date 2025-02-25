@@ -2,7 +2,7 @@
 
 ### [Women of Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0D3bsYM560s)
 
-> Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
+> Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Sierra Hull
 
 149 songs - 8 hr 29 min
 

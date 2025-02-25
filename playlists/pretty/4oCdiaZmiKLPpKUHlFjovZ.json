@@ -1,13 +1,33 @@
 {
   "description": "Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.",
-  "num_followers": 41789,
+  "num_followers": 41788,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAbEdQ33WYA+ezsTc7V27BWYdWDlnwc",
+  "snapshot_id": "AAAbE67rAngD7lTahXad+KCnxz4b0ixK",
   "tracks": [
+    {
+      "added_at": "2025-02-24 19:53:52",
+      "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/10PpQ78gSUR9qTJZacpqmF"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3hGZtt2x9bI55HgxdSrCam"
+    },
     {
       "added_at": "2025-02-11 20:31:52",
       "album": {

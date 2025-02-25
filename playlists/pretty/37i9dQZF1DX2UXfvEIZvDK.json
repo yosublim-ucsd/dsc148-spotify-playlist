@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 856475,
+  "num_followers": 858428,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3t4p9vIhemAhCMr6hfL2pa"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
     },
     {
-      "added_at": "2025-02-06 20:57:40",
-      "album": {
-        "name": "Time Waited",
-        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Time Waited",
-      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
-    },
-    {
       "added_at": "2024-12-02 16:32:42",
       "album": {
         "name": "All You're Dreaming Of",
@@ -1079,6 +1063,22 @@
       "duration_ms": 196146,
       "name": "Gone Away - 2021",
       "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
+    },
+    {
+      "added_at": "2025-02-06 20:57:40",
+      "album": {
+        "name": "Time Waited",
+        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Time Waited",
+      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "The Wall (Remastered)",
-        "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 379213,
-      "name": "Comfortably Numb - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Everything We Need",
         "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "The Wall (Remastered)",
+        "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 379213,
+      "name": "Comfortably Numb - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 236079,
-      "name": "Machines",
-      "url": "https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r"
+      "duration_ms": 256399,
+      "name": "Backroads (Redux)",
+      "url": "https://open.spotify.com/track/4sZlYTnmvrFUhMTGPuz3P4"
     },
     {
       "added_at": "2024-12-02 16:32:42",

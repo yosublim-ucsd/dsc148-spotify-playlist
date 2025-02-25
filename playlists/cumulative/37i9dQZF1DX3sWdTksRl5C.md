@@ -4,21 +4,25 @@
 
 > Don't play the odds, play the man\. Listen to the music from NBC’s Suits LA and the most memorable songs from the original Suits, streaming on Peacock.
 
-50 songs - 3 hr 32 min
+54 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 | 2025-02-22 |  |
 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 | 2025-02-22 |  |
 | [Big Jet Plane](https://open.spotify.com/track/0zScLh0yufjmMy0pAm97uE) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/1MFBzRJQWxkTc271AStNmF) | 3:59 | 2025-02-22 |  |
+| [Bring Those Good Times Back](https://open.spotify.com/track/3fleWSoThmjQP2Eq5Y0Wnp) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh), [Koncept](https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL) | [Bring Those Good Times Back](https://open.spotify.com/album/6SMFvQFCRntXJuK7uEr4l2) | 2:38 | 2025-02-24 |  |
 | [Bubble Games](https://open.spotify.com/track/1QB80qIIqkWexRjdXZUjkp) | [Magic Bronson](https://open.spotify.com/artist/4YlhxCoA1qEgTHoOBaKu1t) | [Nor'easter](https://open.spotify.com/album/5BIjKRBcJWPoA1n4Jdx5ID) | 4:00 | 2025-02-22 |  |
 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 | 2025-02-22 |  |
 | [Chapel Song](https://open.spotify.com/track/5G3VM64M1d1yYiEAp68W55) | [Augustines](https://open.spotify.com/artist/0p1LdP1XicX0UA5GNA2DWc) | [Rise Ye Sunken Ships](https://open.spotify.com/album/6M4cVPsPW1IuC4IZOp7716) | 3:08 | 2025-02-22 |  |
 | [Cold Blood](https://open.spotify.com/track/6UeE8WZ4NPrfIfSublcyta) | [Dave Not Dave](https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB) | [Cold Blood](https://open.spotify.com/album/1W3utG5qxHwrnMONmMPFeT) | 4:03 | 2025-02-22 |  |
 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 | 2025-02-22 |  |
+| [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2025-02-24 |  |
 | [Gimme All Your Love](https://open.spotify.com/track/3DH42U4bDllHWK6tQc4OQF) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/03nQNGFi3dIxg6ghNbtVWW) | 4:03 | 2025-02-22 |  |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2025-02-22 |  |
 | [Greenback Boogie](https://open.spotify.com/track/74RBxG1kzNOYOgDGn5RO8S) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Greenback Boogie](https://open.spotify.com/album/7zaHiNj5j5vDwpGCH9DHn2) | 4:57 | 2025-02-22 |  |
+| [Hell Broke Loose](https://open.spotify.com/track/1qaiM5Wx7bGCiLQFOHAcZk) | [Dave Not Dave](https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB) | [Choices Made While Dreaming](https://open.spotify.com/album/0GJZZ8KCwqt3i95hJ4nZuU) | 4:26 | 2025-02-24 |  |
+| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2025-02-24 |  |
 | [Houdini](https://open.spotify.com/track/5JunxkcjfCYcY7xJ29tLai) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz) | 3:22 | 2025-02-22 |  |
 | [How You Like Me Now](https://open.spotify.com/track/5IpfwhirP044EQ2AqqVKCj) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/3mvFb1wQ7ItcmCkbSAcMvr) | 3:37 | 2025-02-22 |  |
 | [Howlin’ For You](https://open.spotify.com/track/4YEjTfbxA2gqnIRwLyvsIX) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/6BhS0iZh607Op7sWvSXT4o) | 3:11 | 2025-02-22 |  |

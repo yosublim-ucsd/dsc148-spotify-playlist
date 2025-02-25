@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART1",
+        "url": "https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hu",
+          "url": "https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Flutter Away",
+      "url": "https://open.spotify.com/track/4rq0IiPHShUWoBhKPSlhWQ"
+    },
+    {
+      "album": {
         "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
         "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
       },
@@ -5526,7 +5544,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 186697,
       "name": "HIP",
       "url": "https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,148 likes - 42 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,152 likes - 42 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 41 | [M'bifé](https://open.spotify.com/track/3fRRBdnMRGsfdAzH9CSzql) | [BJ Sam](https://open.spotify.com/artist/1imLA3R07gkXbRJYM37c1Q), [SAFI DIABATE](https://open.spotify.com/artist/2J5ypufkwkihkREAVcgoF5), [Azaya](https://open.spotify.com/artist/1L5ONbAnVL6ZC8uzHEy6d3), [Djelykaba bintou](https://open.spotify.com/artist/24YDQ10inOvt34cLgOW2LU), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [M'bifé](https://open.spotify.com/album/1X0p0tWvrdMn3nPxnmQW8g) | 3:53 |
 | 42 | [Penda Yoro](https://open.spotify.com/track/16SDv9fsauTzDBTOgNeDC9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 5:25 |
 
-Snapshot ID: `Z7kTgAAAAAC7V8/Ca5fUWrI1ZgV87ytc`
+Snapshot ID: `Z7plAAAAAADDFfhR2CLD7GQEK1/gDVlf`

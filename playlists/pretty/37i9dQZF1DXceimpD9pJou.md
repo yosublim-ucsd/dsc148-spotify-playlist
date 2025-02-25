@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Samuel ASH y Sam Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,009 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,020 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Nada Sin Ti](https://open.spotify.com/track/2YOurRehqy4Cgb2FyOu7eH) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Nada Sin Ti](https://open.spotify.com/album/3xHV5juxRXckj3n8VMgSIc) | 3:09 |
 | 100 | [COMO TE PAGO \- REMIX](https://open.spotify.com/track/31qkU273W7V3QfxNkDLEIT) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Eliezer Daniels](https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9) | [SELAH](https://open.spotify.com/album/3iOERTDShgcu2FFlnfKTbR) | 2:31 |
 
-Snapshot ID: `Z7g99AAAAAC3jnYzN4ikOPOF+wlBoSrX`
+Snapshot ID: `Z7g99AAAAAAcfsbMAB+fs8JDt/rfGGFV`

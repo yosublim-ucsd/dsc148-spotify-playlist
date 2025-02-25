@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 399838,
+  "num_followers": 400220,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "Mr. Bossa Nova",
         "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 146666,
       "name": "Rio",
       "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 128733,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
     },
     {
       "added_at": "2024-07-08 08:03:54",

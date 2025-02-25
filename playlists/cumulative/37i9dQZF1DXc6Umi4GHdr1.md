@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-412 songs - 18 hr 17 min
+414 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Arrival at Eight](https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Arrival at Eight](https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E) | 3:38 | 2022-11-18 | 2023-09-01 |
 | [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 | 2022-09-23 |
 | [Astrid](https://open.spotify.com/track/2vxEmDXqyeuCs9a1S9KBTe) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Astrid](https://open.spotify.com/album/5ElhjW0Dp6feiMcZk2X9u8) | 3:25 | 2024-05-10 | 2024-07-18 |
+| [Atlantis](https://open.spotify.com/track/4VNPuY4jUY94G9I2XcLnZj) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Atlantis](https://open.spotify.com/album/0UavhP7ertnNlOaZ9j5b8W) | 2:45 | 2025-02-24 |  |
 | [Aurora](https://open.spotify.com/track/6uWXrNa4zpk4jWM0cDsoLR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Aurora](https://open.spotify.com/album/3nGBzed6ba1PIVvGDFTIaM) | 2:13 | 2022-10-07 | 2024-07-18 |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Back in the Village](https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Back in the Village](https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF) | 2:14 | 2023-11-24 | 2024-06-15 |
@@ -327,6 +328,7 @@
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-11 |  |
 | [Sternentanz](https://open.spotify.com/track/2o0rYiDgx8pxj4oMh75IUY) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Polarlicht](https://open.spotify.com/album/58l5dLoV97z5mL6DBTPFVD) | 4:13 | 2022-10-07 | 2023-05-27 |
 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 | 2022-05-27 | 2024-04-06 |
+| [Stonelight](https://open.spotify.com/track/3TkA188dRyATyUIGQrKfwv) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Stonelight](https://open.spotify.com/album/217NoXrdFVkyNxkkRSbLnF) | 2:30 | 2025-02-24 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-26 | 2023-06-16 |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-03-10 | 2023-08-26 |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2022-07-22 |

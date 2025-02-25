@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">GELO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,791,534 likes - 99 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,791,716 likes - 99 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 4 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 |
 | 5 | [Florida Boy](https://open.spotify.com/track/60pLVKlxlxcE1nkbccLavt) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Boy](https://open.spotify.com/album/2EffsPrxXhoDznoRMUd5NF) | 2:04 |
 | 6 | [Help Me](https://open.spotify.com/track/4A8goAjfi9HJKjR2ORVXTJ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 3:01 |
-| 7 | [Change Me](https://open.spotify.com/track/4BjEz7HIK0Ja4tsyNj65HV) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Change Me](https://open.spotify.com/album/1txETWXrK9UTqnPccT8Dqi) | 2:16 |
+| 7 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 8 | [HYPOCRITE](https://open.spotify.com/track/3ingEZQJcRPm956usULf2j) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [HYPOCRITE](https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS) | 2:14 |
 | 9 | [The Viper](https://open.spotify.com/track/3yRCvXmJprvbscpKhKXMjR) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY \(ICE COLD\)](https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO) | 2:30 |
 | 10 | [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [No Love \(feat\. Lil Baby\)](https://open.spotify.com/track/0iZh0S8Fczu80nKITqWPGs) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:55 |
 | 99 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
 
-Snapshot ID: `Z7lCdAAAAAAYxhFOtwBI95Efmmk/XJr2`
+Snapshot ID: `Z7zNjgAAAAAFleuYyTjosCBYLsI553/W`

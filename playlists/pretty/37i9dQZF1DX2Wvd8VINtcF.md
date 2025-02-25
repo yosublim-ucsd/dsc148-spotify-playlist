@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Giift!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,660 likes - 103 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,697 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
 | 2 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
-| 3 | [I Do \(Joni's Song\)](https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [I Do \(Joni's Song\)](https://open.spotify.com/album/5bssbrUysFWfGLBAp0HJ01) | 2:26 |
-| 4 | [ARI](https://open.spotify.com/track/4xZALaMQNhvses6epSwBD5) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [ARI](https://open.spotify.com/album/3c2W7IyMg1x9im3Hhz9WLo) | 2:19 |
-| 5 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
-| 6 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 7 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 |
-| 8 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 |
-| 9 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
-| 10 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 3 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 4 | [I Do \(Joni's Song\)](https://open.spotify.com/track/0VHOjjYADIXIYBj2uRzATe) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [I Do \(Joni's Song\)](https://open.spotify.com/album/5bssbrUysFWfGLBAp0HJ01) | 2:26 |
+| 5 | [ARI](https://open.spotify.com/track/4xZALaMQNhvses6epSwBD5) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [ARI](https://open.spotify.com/album/3c2W7IyMg1x9im3Hhz9WLo) | 2:19 |
+| 6 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
+| 7 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
+| 8 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 |
+| 9 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 |
+| 10 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 11 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 |
 | 12 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
 | 13 | [Boy You Should Know!](https://open.spotify.com/track/4afDEFPQRzZWHFdAyiDCpb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop) | 3:45 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 102 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
 | 103 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 |
 
-Snapshot ID: `Z7e0BgAAAAAOHOuJbDC66bhTzrxQgqVo`
+Snapshot ID: `Z7yUXQAAAAAMXPPH7xAsmb+/bckJxtSQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Nemzzz 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,177 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,602 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 99 | [Maktub](https://open.spotify.com/track/5TtFmWqvNyf8PzYZWd8zmQ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5HsenIoBRibaDNJr1g5ekb) | 3:28 |
 | 100 | [Fear No Man](https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Fear No Man](https://open.spotify.com/album/0BF5rWuYZpmdYubp9BczGI) | 3:28 |
 
-Snapshot ID: `Z7gIewAAAAD6gH+GvjhEFPf61JYTh8ws`
+Snapshot ID: `Z7gIewAAAADx/K2/bQH+6c7h8qgyD0aD`

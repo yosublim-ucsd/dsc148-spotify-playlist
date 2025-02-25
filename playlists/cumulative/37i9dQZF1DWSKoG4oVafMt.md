@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,003 songs - 2 day 6 hr 1 min
+1,004 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Begum](https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Abbu](https://open.spotify.com/artist/41VvXdIAesEnGQJcTng2ce), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 3:16 | 2023-10-23 | 2024-01-26 |
 | [Belief](https://open.spotify.com/track/4fwgyNZyF5IzMOpHdAPsnF) | [Roop Jai Singh](https://open.spotify.com/artist/1cdUwU6zZAyCnMtAeORa3Z), [Enthamoment](https://open.spotify.com/artist/021ngzZoRi1o21azkbM1n3) | [Belief](https://open.spotify.com/album/2xK6wpJ14JVOuVx0R8vLhv) | 3:42 | 2022-07-29 | 2022-08-18 |
 | [Beliya](https://open.spotify.com/track/58C05jp9At1nyCSK3D1hBv) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Beliya](https://open.spotify.com/album/7evrCbGsmhF9PmzY8aa63L) | 2:55 | 2022-07-13 | 2022-08-18 |
+| [BEST FRIEND](https://open.spotify.com/track/5l2HX7Ml78KlXqRdJMSv9g) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sartaj Virk](https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w) | [BEST FRIEND](https://open.spotify.com/album/4tiq7OfMzb07iHPMFY9pDt) | 3:11 | 2025-02-24 |  |
 | [Bewafai Kar Gaya](https://open.spotify.com/track/4NtmlxfMrhLYHDV2EIyVcV) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Lekh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3) | 3:48 | 2022-04-13 | 2023-02-02 |
 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 | 2022-03-21 | 2023-07-27 |
 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 | 2022-02-03 | 2022-04-29 |
@@ -638,7 +639,7 @@
 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 | 2022-09-21 | 2023-02-04 |
 | [Oye Hoye Hoye](https://open.spotify.com/track/7wNKW6AIOMNxmvRnQf2VzC) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Dhanashree](https://open.spotify.com/artist/5DxxK2XiSaYG6cfI8bzmm5) | [Oye Hoye Hoye](https://open.spotify.com/album/2e3nyvQs2wwXQ7EGJHnxCv) | 2:52 | 2021-12-02 | 2022-04-06 |
 | [Paagla](https://open.spotify.com/track/7mW3mM1aovDaOnSyK5e9W8) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Paagla](https://open.spotify.com/album/7ucqStPOMhaUWxrOfJKke9) | 3:43 | 2021-12-02 | 2022-02-01 |
-| [Pagal](https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Pagal](https://open.spotify.com/album/1t6klKMatDBtqcKC9de7eG) | 3:09 | 2024-05-27 |  |
+| [Pagal](https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Pagal](https://open.spotify.com/album/1t6klKMatDBtqcKC9de7eG) | 3:09 | 2024-05-27 | 2025-02-25 |
 | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/track/1BPnrHYkrXc28xp66lB2CZ) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Sonu Sood](https://open.spotify.com/artist/1RViT01v3KsUvaEQk136nY) | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/album/0JTBanRxutQ7j4bRNgjh40) | 3:46 | 2021-12-02 | 2022-02-01 |
 | [Pain](https://open.spotify.com/track/0nb2IsOz3YO9JYvLENh3oW) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Minister Music](https://open.spotify.com/artist/4onBePCRXkocuDcGQXRCH7) | [Pain](https://open.spotify.com/album/2AjzWvwY2v5Mw1iFYNzGsY) | 3:45 | 2022-04-08 | 2022-04-29 |
 | [Pakistan \(feat\. DJ Flow\)](https://open.spotify.com/track/4xYnWF1nt3Tc2IJRaFnehf) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Dj Flow](https://open.spotify.com/artist/46ZZ5CWZwIeuBVBKalbpZ4) | [Pakistan \(feat\. DJ Flow\)](https://open.spotify.com/album/6dlGmopwHaWOnisocpooqa) | 3:16 | 2022-04-15 | 2022-08-18 |

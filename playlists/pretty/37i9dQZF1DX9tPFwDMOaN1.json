@@ -1,12 +1,12 @@
 {
   "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: JENNIE, Doechii",
-  "num_followers": 5514238,
+  "num_followers": 5514623,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIegAAAAAnIg3TZ+HTy4FY3j6xMOVG",
+  "snapshot_id": "Z7w1KwAAAACelvIZqE2R6USAbY2zwwbD",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:42",
@@ -45,20 +45,20 @@
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
-      "added_at": "2025-02-21 05:00:42",
+      "added_at": "2025-02-24 09:00:27",
       "album": {
-        "name": "Glow Up",
-        "url": "https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0"
+        "name": "BLUE PARADISE",
+        "url": "https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 148386,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm"
+      "duration_ms": 182951,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/4O4N89HJWtV1EYc6q0Sxwh"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -107,6 +107,22 @@
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 148386,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -839,26 +855,6 @@
       "duration_ms": 190187,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 294491,
+  "num_followers": 294528,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAAA0cBC/WxGBIjuD3hyveU+R",
+  "snapshot_id": "Z7plAAAAAAD8S0p6tIPEynQ1FIOPuIM9",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 326906,
-      "name": "Rat Bat Blue - Remastered",
-      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+      "duration_ms": 256626,
+      "name": "Vavoom: Ted The Mechanic",
+      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Do We Think We Are (Remastered)",
+        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326906,
+      "name": "Rat Bat Blue - Remastered",
+      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Book of Taliesyn",
         "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+        "name": "inFinite",
+        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
       },
       "artists": [
         {
@@ -660,25 +676,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 256626,
-      "name": "Vavoom: Ted The Mechanic",
-      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
+      "duration_ms": 282426,
+      "name": "All I Got Is You",
+      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "inFinite",
-        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 282426,
-      "name": "All I Got Is You",
-      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,

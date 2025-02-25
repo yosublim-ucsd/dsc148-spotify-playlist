@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-975 songs - 2 day 7 hr 40 min
+976 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Flower viewing](https://open.spotify.com/track/2EmHYhRrtnX6UkNKdWuy3X) | [HWANG YOUNG WOONG](https://open.spotify.com/artist/0Wx4Hts0NAAKMpvSKf9Nnp) | [Fall and yearning](https://open.spotify.com/album/6P5dnVLqxsvoGmQJGcUc5b) | 3:52 | 2024-10-16 | 2025-02-12 |
 | [Flower wind](https://open.spotify.com/track/58kOpvfdBQzCTK6TAkwR5g) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Hwang Yunseong](https://open.spotify.com/artist/1FOvM67AluX3CFyuqtaaZ0) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 2:43 | 2022-04-21 | 2022-05-31 |
 | [Flower wind woman](https://open.spotify.com/track/0zdCTaa7PVJ6EJt46UlP9w) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:13 | 2022-04-07 | 2022-07-23 |
+| [Flutter Away](https://open.spotify.com/track/4rq0IiPHShUWoBhKPSlhWQ) | [Park Ji Hu](https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u) | [Music Source of Mr\. Trot3 1:1 Death Match Best PART1](https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3) | 3:39 | 2025-02-20 |  |
 | [Flutteringly](https://open.spotify.com/track/07M6bpsMDN74kT8NwGn3sN) | [Da Hyun Kim](https://open.spotify.com/artist/2bq9xwaiwirI0rMNQ9MKgX) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 3:26 | 2022-04-07 | 2025-02-22 |
 | [Flutteringly](https://open.spotify.com/track/5gH9vMmcN1hUW3IojrEuSq) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 3:36 | 2022-04-07 | 2022-07-09 |
 | [Flying deep in the night](https://open.spotify.com/track/5k2AaRbRObN1g0T7MwQNT5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 3:03 | 2022-04-22 | 2022-07-24 |
@@ -291,7 +292,7 @@
 | [Hey Friend](https://open.spotify.com/track/3f4wcLnYQ8MEL9CJq2Vm27) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/5oljPTILUwFXZCUo3M5tHZ) | 2:49 | 2022-04-22 | 2022-07-25 |
 | [Hey Mister](https://open.spotify.com/track/6eT6nMyCgcRGseXxBtHUZ2) | [Crayon Pop](https://open.spotify.com/artist/0ODX6aegsZkBmBeMA5qqwi) | [Hey Mister \(From "Trot Lovers"\)](https://open.spotify.com/album/3Fc4vL3vUwDovRhGpGMhtQ) | 3:19 | 2023-11-17 | 2024-04-19 |
 | [Hey Mister](https://open.spotify.com/track/44FzZfChc7E0YVMuLnMylz) | [Crayon Pop](https://open.spotify.com/artist/0ODX6aegsZkBmBeMA5qqwi) | [Trot Lovers OST \(2014\)](https://open.spotify.com/album/60yr9pcnPcKN8dbunjdM32) | 3:19 | 2022-04-22 | 2022-07-16 |
-| [HIP](https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [SOOCHAN SONG PARTY](https://open.spotify.com/album/10lXGwXYpiiAzsdW9O5o3M) | 3:06 | 2022-04-22 |  |
+| [HIP](https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [SOOCHAN SONG PARTY](https://open.spotify.com/album/10lXGwXYpiiAzsdW9O5o3M) | 3:06 | 2022-04-22 | 2025-02-25 |
 | [Hit & Hit](https://open.spotify.com/track/3KPxXXHJRR4u295rSxmEVN) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [Hit & Hit](https://open.spotify.com/album/1YeL86ixoFgnHduYlHiHE1) | 3:13 | 2022-07-22 | 2024-04-19 |
 | [Hit & Hit](https://open.spotify.com/track/5PSzQXILooy4JHeZ7XSKEv) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [Hit & Hit](https://open.spotify.com/album/2fVG0CuxBDlSHx91nRK8Dh) | 3:13 | 2022-04-22 | 2022-07-28 |
 | [Hit it off \(Feat\. Nam Seung Min\) \(Prod\. Young Tak\)](https://open.spotify.com/track/3DhY0UqxDcqDWmXMjiQMGJ) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA) | [Hit it off](https://open.spotify.com/album/11Fp25BbKskMcUdFGvhr43) | 3:02 | 2022-04-07 | 2023-03-28 |

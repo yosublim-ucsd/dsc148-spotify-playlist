@@ -54887,6 +54887,24 @@
     },
     {
       "album": {
+        "name": "you should know",
+        "url": "https://open.spotify.com/album/1qJN5Jsht8RbR2qPCVIhNR"
+      },
+      "artists": [
+        {
+          "name": "Norah Meischoto",
+          "url": "https://open.spotify.com/artist/3pDfj0kvP95Hr4uieDOD1z"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "you should know",
+      "url": "https://open.spotify.com/track/4jzkVFdiad9dl2x7HxNQCI"
+    },
+    {
+      "album": {
         "name": "MUD",
         "url": "https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui"
       },

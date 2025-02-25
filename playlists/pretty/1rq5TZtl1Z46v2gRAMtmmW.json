@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30981,
+  "num_followers": 30985,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAP5qXMO6xmKdEYatKvYDoWRKgDAckx",
+  "snapshot_id": "AAAP6rVBsMg9EC1EWduHMWyqNxfe03Y9",
   "tracks": [
     {
       "added_at": "2025-01-14 12:23:39",
@@ -577,26 +577,6 @@
       "url": "https://open.spotify.com/track/2Qa6Q93csBmJGzcXzmi2X3"
     },
     {
-      "added_at": "2025-01-16 12:50:09",
-      "album": {
-        "name": "In The Night (Paul Sirrell Remix) / Green (St. David Remix)",
-        "url": "https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "St. David",
-          "url": "https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Green - St. David Remix",
-      "url": "https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20"
-    },
-    {
       "added_at": "2025-01-21 11:18:41",
       "album": {
         "name": "Heather Park (salute Remix)",
@@ -677,26 +657,6 @@
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
-      "added_at": "2025-02-06 16:41:05",
-      "album": {
-        "name": "Make Me (Sofia Kourtesis Remix)",
-        "url": "https://open.spotify.com/album/2B6r3sO1nYQ8jsy3knHo6W"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 243505,
-      "name": "Make Me - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/01nJMJaJ6N6FrVjnsGtz52"
-    },
-    {
       "added_at": "2025-02-06 16:41:50",
       "album": {
         "name": "In The Night (Paul Sirrell Remix) / Green (St. David Remix)",
@@ -775,6 +735,50 @@
       "duration_ms": 260156,
       "name": "From The Stars",
       "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+    },
+    {
+      "added_at": "2025-02-24 15:50:29",
+      "album": {
+        "name": "Air Tight (Regularfantasy Remix)",
+        "url": "https://open.spotify.com/album/6rqllCarzyfWfaB8XIbwiD"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "Regularfantasy",
+          "url": "https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z"
+        }
+      ],
+      "duration_ms": 318502,
+      "name": "Air Tight - Regularfantasy Remix",
+      "url": "https://open.spotify.com/track/7j9QRoabowW6mPfYl8xLIs"
+    },
+    {
+      "added_at": "2025-02-24 15:50:51",
+      "album": {
+        "name": "Sad Girl (Remixes)",
+        "url": "https://open.spotify.com/album/47hbJg1eOZejMNF5jcJqsP"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 326256,
+      "name": "Girls - Acid Version",
+      "url": "https://open.spotify.com/track/1kxXGSK3hMDIXIm15IilG9"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

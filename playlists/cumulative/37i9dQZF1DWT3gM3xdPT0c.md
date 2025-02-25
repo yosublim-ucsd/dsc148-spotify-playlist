@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-399 songs - 17 hr 8 min
+401 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-05-10 |
 | [As Morning Dawns](https://open.spotify.com/track/3T3d7TsbpAPTxhh1f3gSQO) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [As Morning Dawns](https://open.spotify.com/album/7vq49IqKG1cn48o4UNWoav) | 1:30 | 2024-10-23 |  |
 | [As The Day Breaks](https://open.spotify.com/track/4Hg2XDxHhPq9eKzcSeL0cD) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [As The Day Breaks](https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC) | 3:11 | 2022-08-05 | 2022-12-10 |
+| [Atlantis](https://open.spotify.com/track/4VNPuY4jUY94G9I2XcLnZj) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Atlantis](https://open.spotify.com/album/0UavhP7ertnNlOaZ9j5b8W) | 2:45 | 2025-02-24 |  |
 | [Até o Fim](https://open.spotify.com/track/1BkAjte1N1xGkRprWpczQL) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:50 | 2022-03-04 | 2024-04-06 |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
 | [Autumn](https://open.spotify.com/track/6aSmArETYBkdW2Y0FdvouR) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Autumn](https://open.spotify.com/album/1udfjgxglRuBpDKURyipDy) | 2:25 | 2024-12-10 |  |
@@ -86,7 +87,7 @@
 | [Courtyard Caverns](https://open.spotify.com/track/5NV09w1TsRYEndFnbnGDrB) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:30 | 2022-03-04 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/0X0h2w5ZSArxZOcs3k2HAV) | [Marucs Winford](https://open.spotify.com/artist/4olra7Ebf6ENkggpYzVJtW) | [Cozy](https://open.spotify.com/album/0e8TxgBqfiCWhbLPjaaKA7) | 2:04 | 2022-05-27 | 2024-04-06 |
 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 | 2024-06-28 |  |
-| [Cusco](https://open.spotify.com/track/4Wmqw7rjTOtIaLRtfxQkYq) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Cusco](https://open.spotify.com/album/0DPEbP1FPdqTr8HKxrZ7LO) | 2:49 | 2025-01-13 |  |
+| [Cusco](https://open.spotify.com/track/4Wmqw7rjTOtIaLRtfxQkYq) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Cusco](https://open.spotify.com/album/0DPEbP1FPdqTr8HKxrZ7LO) | 2:49 | 2025-01-13 | 2025-02-25 |
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 | 2024-06-28 |
 | [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 | 2023-09-01 |
@@ -171,6 +172,7 @@
 | [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 | 2024-01-12 |  |
 | [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 | 2022-10-14 | 2023-02-25 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
+| [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 | 2024-04-06 |
 | [Hidden Hymns](https://open.spotify.com/track/7fo54L8KW69K5nuVrp0kwJ) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Hidden Hymns](https://open.spotify.com/album/0kjMhSbHbFZTgOboHGP35l) | 2:19 | 2024-03-08 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
@@ -351,7 +353,7 @@
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-25 |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 | 2025-02-20 |
-| [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 |  |
+| [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 | 2025-02-25 |
 | [The Sun Is a Gift](https://open.spotify.com/track/5UHGm6KfaM0RcutxxYBh33) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [The Sun Is a Gift](https://open.spotify.com/album/3VVQEMWToUITIx6as34Kbe) | 2:50 | 2024-06-07 |  |
 | [Thinking about it](https://open.spotify.com/track/0J9rvtU9iZoFj7waxghpP0) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Thinking about it](https://open.spotify.com/album/4tU1mY6YNfi0bhXVTLvoiZ) | 1:45 | 2025-01-13 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 |  |

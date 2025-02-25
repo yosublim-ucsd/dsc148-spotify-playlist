@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Rachel Chinouriri.
 
-1,873 songs - 4 day 5 hr 15 min
+1,874 songs - 4 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-31 |
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-05-03 | 2024-06-11 |
-| [Day Dream](https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Day Dream](https://open.spotify.com/album/1l7BFF3Fy4deMeJNv8gB6z) | 2:47 | 2024-10-11 |  |
+| [Day Dream](https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Day Dream](https://open.spotify.com/album/1l7BFF3Fy4deMeJNv8gB6z) | 2:47 | 2024-10-11 | 2025-02-25 |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-24 | 2024-07-27 |
 | [Daylight](https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Daylight](https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ) | 2:48 | 2024-08-02 | 2024-12-16 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
@@ -815,6 +815,7 @@
 | [kbye](https://open.spotify.com/track/2ckPK3lv4EUVtQvuOqJXw5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/2bdETu6fQE46f7WWa2hfDk) | 3:34 | 2022-06-29 | 2022-12-15 |
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2022-02-03 | 2022-07-29 |
 | [Kebyar Kebyar](https://open.spotify.com/track/1ZvNAOQk9uvqNDaSmWVJX0) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kebyar Kebyar](https://open.spotify.com/album/1aenBmEoyGlTl8ozxY6HQC) | 3:47 | 2022-06-03 | 2023-05-09 |
+| [Keep Me Warm](https://open.spotify.com/track/2pLo1jJFDkwnfm6bYVg3eS) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Keep Me Warm](https://open.spotify.com/album/0LaxlkLAeBkWfdD4Pshj34) | 3:38 | 2025-02-07 |  |
 | [Keep Up](https://open.spotify.com/track/1ypGYiTfQ7t6M6SkTozZeY) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [Keep Up](https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD) | 3:02 | 2022-03-21 | 2022-06-23 |
 | [Kekasih Impian](https://open.spotify.com/track/3slXdpPY5soBt7OiCdYbFF) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Kekasih Impian](https://open.spotify.com/album/7e2nlZI2Nt68Ebqb5w4PrB) | 4:40 | 2024-04-19 | 2024-08-17 |
 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 | 2023-07-04 | 2024-02-14 |

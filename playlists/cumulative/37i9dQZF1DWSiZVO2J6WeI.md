@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-439 songs - 22 hr 27 min
+440 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-18 | 2024-01-18 |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 | 2024-12-18 |
-| [Astral Protection](https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Astral Protection](https://open.spotify.com/album/1B5vXAdBsulmfmcvVSTmPK) | 2:25 | 2024-11-21 |  |
+| [Astral Protection](https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Astral Protection](https://open.spotify.com/album/1B5vXAdBsulmfmcvVSTmPK) | 2:25 | 2024-11-21 | 2025-02-25 |
 | [Atlas](https://open.spotify.com/track/2DRe9TGpWAUjWZDR1loVXO) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Atlas](https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl) | 2:31 | 2023-07-28 | 2024-06-17 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 |  |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2022-01-12 | 2024-05-21 |
@@ -214,6 +214,7 @@
 | [In the Midst](https://open.spotify.com/track/3lQoTHU4TdBM3VGW70ZV1x) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [In the Midst](https://open.spotify.com/album/3yBxReys742ya4rB2ow3bt) | 3:29 | 2024-05-20 |  |
 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 |  |
 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 | 2024-05-11 |
+| [Infusion](https://open.spotify.com/track/5HIY7NFEpNHBtoEgtpW6Re) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Infusion](https://open.spotify.com/album/6dSISAglhffSmE0kpEzGVL) | 3:56 | 2025-01-21 |  |
 | [Inner Deep](https://open.spotify.com/track/0nnhYgP1kNc2ueZ8GyqH6C) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Inner Deep](https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n) | 3:32 | 2024-03-06 | 2024-03-21 |
 | [Inner Nebula](https://open.spotify.com/track/46qoXJqr0QHFTHftO02FNT) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Inner Nebula](https://open.spotify.com/album/7LaKwVWxwMtjsvE7jet7KR) | 2:07 | 2024-05-20 | 2025-01-07 |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-01 | 2024-01-18 |

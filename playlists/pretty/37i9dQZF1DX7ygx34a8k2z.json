@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 267315,
+  "num_followers": 267449,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
-      },
-      "artists": [
-        {
-          "name": "Screaming Trees",
-          "url": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Nearly Lost You",
-      "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 234053,
       "name": "Ladies and gentlemen we are floating in space",
       "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
+      },
+      "artists": [
+        {
+          "name": "Screaming Trees",
+          "url": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Nearly Lost You",
+      "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Enter Laughing",
-      "url": "https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1583,18 +1567,34 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Superunknown",
-        "url": "https://open.spotify.com/album/1xHWwGSoF1DNE4hqgBRkJX"
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
         }
       ],
-      "duration_ms": 281800,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/6B4JGMaqe1LaEMlsVzNdNM"
+      "duration_ms": 222733,
+      "name": "Enter Laughing",
+      "url": "https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Bubble & Scrape",
+        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Soul And Fire",
+      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Bubble & Scrape",
-        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
+        "name": "Superunknown",
+        "url": "https://open.spotify.com/album/1xHWwGSoF1DNE4hqgBRkJX"
       },
       "artists": [
         {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Soul And Fire",
-      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
+      "duration_ms": 281800,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/6B4JGMaqe1LaEMlsVzNdNM"
     }
   ],
   "unique_name": "Thrifted",

@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7193,
+  "num_followers": 7195,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Inside Out 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD"
+      },
+      "artists": [
+        {
+          "name": "Andrea Datzman",
+          "url": "https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2"
+        }
+      ],
+      "duration_ms": 55173,
+      "name": "Outside Intro",
+      "url": "https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 140484,
       "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Inside Out 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD"
-      },
-      "artists": [
-        {
-          "name": "Andrea Datzman",
-          "url": "https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2"
-        }
-      ],
-      "duration_ms": 55173,
-      "name": "Outside Intro",
-      "url": "https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Gladiator II (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
-      },
-      "artists": [
-        {
-          "name": "Harry Gregson-Williams",
-          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
-        }
-      ],
-      "duration_ms": 201402,
-      "name": "Strength And Honor",
-      "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Ripley (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 215333,
       "name": "The Talented Mr. Ripley - FIN",
       "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Gladiator II (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Strength And Honor",
+      "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "The Chrysalis",
+      "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 247186,
       "name": "Las Damas que Pasan",
       "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "The Chrysalis",
-      "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "PANESSO",
-      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Kinds of Kindness (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0VRgQLW4xwRHBkOXpd3YAJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 219413,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6CENME8R9Eu4zkV8qIQVPI"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "PANESSO",
+      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
     }
   ],
   "unique_name": "Golden Globes Official Playlist",

@@ -4,7 +4,7 @@
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Katie Tupper
 
-2,006 songs - 4 day 7 hr 7 min
+2,007 songs - 4 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1772,7 +1772,8 @@
 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 | 2023-09-01 | 2023-10-06 |
 | [The Wrong Way](https://open.spotify.com/track/3ZKi8La6IaVC9Bf3WXIDwP) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Personal Party](https://open.spotify.com/album/1rgy1FFVaMjMxLuYq4BEbr) | 2:57 | 2022-04-01 | 2022-05-07 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-12-06 | 2022-01-08 |
-| [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 | 2025-02-07 |  |
+| [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 | 2025-02-24 |  |
+| [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 | 2025-02-07 | 2025-02-25 |
 | [Therapy'](https://open.spotify.com/track/6s0puEMm8OdfYmb8zhpoUq) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Mara Jade](https://open.spotify.com/artist/0y3ofBOxIP0P6AzgsY87os) | [Compact Disc](https://open.spotify.com/album/5AotiEx682mLqljHKjpA52) | 2:12 | 2022-03-04 | 2022-04-02 |
 | [There](https://open.spotify.com/track/2iEn2Hf3MRLnNzE1FV30SC) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 3:11 | 2024-06-07 | 2024-08-03 |
 | [THERE FOR ME](https://open.spotify.com/track/5jWI1rjDOW30aCcGjI9LQF) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [THERE FOR ME](https://open.spotify.com/album/0lwWawcgNuDuWJCTbSVcfq) | 3:05 | 2023-08-04 | 2023-09-02 |

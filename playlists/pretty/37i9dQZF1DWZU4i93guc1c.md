@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,193 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,192 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 61 | [Мільйон](https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Мільйон](https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces) | 3:56 |
 | 62 | [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 |
 | 63 | [Примітивний](https://open.spotify.com/track/0SiCtqnViaabYPeEJxcjox) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Примітивний](https://open.spotify.com/album/4UWUsjM3sloiM6OPfhuLcq) | 3:13 |
-| 64 | [не раз чаруй](https://open.spotify.com/track/2fhkVtl77XswwQX0XD9VkD) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [не раз чаруй](https://open.spotify.com/album/35MuLeTs4BeFuhmEYL4TPA) | 2:56 |
-| 65 | [Амбівалентний](https://open.spotify.com/track/1lfupPeDhugwiT00Citb0q) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Що спільного між вороном і кроликом?](https://open.spotify.com/album/3zSZmZsFb91EjRb6BicuFq) | 2:19 |
-| 66 | [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 |
-| 67 | [Матриця](https://open.spotify.com/track/5KGYkmx4PldWiBcg0wSzJE) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Невдячна глядачка](https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3) | 2:44 |
-| 68 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 |
-| 69 | [Стеля](https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Стеля](https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa) | 1:34 |
+| 64 | [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 |
+| 65 | [не раз чаруй](https://open.spotify.com/track/2fhkVtl77XswwQX0XD9VkD) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [не раз чаруй](https://open.spotify.com/album/35MuLeTs4BeFuhmEYL4TPA) | 2:56 |
+| 66 | [Амбівалентний](https://open.spotify.com/track/1lfupPeDhugwiT00Citb0q) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Що спільного між вороном і кроликом?](https://open.spotify.com/album/3zSZmZsFb91EjRb6BicuFq) | 2:19 |
+| 67 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 |
+| 68 | [Стеля](https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Стеля](https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa) | 1:34 |
+| 69 | [Матриця](https://open.spotify.com/track/5KGYkmx4PldWiBcg0wSzJE) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Невдячна глядачка](https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3) | 2:44 |
 | 70 | [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 |
 | 71 | [Несумная](https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Фата](https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L) | 4:07 |
-| 72 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
+| 72 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 |
 | 73 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 |
-| 74 | [день закоханих](https://open.spotify.com/track/3g9OUTzaarewOH6rpVEIPk) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [день закоханих](https://open.spotify.com/album/3vEM2v4RpyXn9koU3dWMEV) | 2:52 |
+| 74 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
 | 75 | [острів скарбів](https://open.spotify.com/track/4EI8YiCiC4juoBDZaNxT0H) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [острів скарбів](https://open.spotify.com/album/3PGWK63IUdzfRF7YGy6H9F) | 3:23 |
-| 76 | [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 |
-| 77 | [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 |
+| 76 | [день закоханих](https://open.spotify.com/track/3g9OUTzaarewOH6rpVEIPk) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [день закоханих](https://open.spotify.com/album/3vEM2v4RpyXn9koU3dWMEV) | 2:52 |
+| 77 | [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 |
 | 78 | [Ти](https://open.spotify.com/track/0D8UhIjw4A9Fbm1MryNo8c) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Аудіоєбологія](https://open.spotify.com/album/2iD7x4fjETShVr4GPUe9HZ) | 2:27 |
-| 79 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 |
+| 79 | [татова донька](https://open.spotify.com/track/0uZNk1rsL37CzG4ZXbeZqV) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [татова донька](https://open.spotify.com/album/2UxIwhZltN9mxuJIKEvQR5) | 2:27 |
 | 80 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 |
 
 Snapshot ID: `Z6WxrAAAAADtfj9/t7gsrcF3STmIiqiS`

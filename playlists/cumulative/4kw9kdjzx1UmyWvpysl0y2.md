@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-923 songs - 2 day 4 hr 18 min
+924 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 | 2023-08-02 |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
-| [In The Echo](https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In The Echo / Change](https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj) | 3:03 | 2024-11-15 |  |
+| [In The Echo](https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In The Echo / Change](https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj) | 3:03 | 2024-11-15 | 2025-02-25 |
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 | 2022-10-19 |
 | [INEEDU](https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:33 | 2022-09-22 | 2022-11-25 |
 | [Infortunii](https://open.spotify.com/track/5WesZOkeAlWuxNRvS64SOr) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Infortunii](https://open.spotify.com/album/6IoL8qCD3mZodqlyEMYkqO) | 3:42 | 2023-10-10 | 2024-01-23 |
@@ -687,6 +687,7 @@
 | [Save You \- VIP](https://open.spotify.com/track/0zmwNHAsHvtcBSmixRLHiU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Save You \(VIP\)](https://open.spotify.com/album/09JWbZi0y87fUvhHlPT33Y) | 3:20 | 2024-08-30 | 2024-11-22 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
+| [Say What You Mean](https://open.spotify.com/track/44gSWtR35BRroza0YfWEuT) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [afterxheaven](https://open.spotify.com/artist/1nBDBNm03zYq8mm569LT9L), [Noah Cunane](https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq) | [Say What You Mean](https://open.spotify.com/album/1p9XaMzSeW7WjcuzwhiF79) | 3:07 | 2025-02-24 |  |
 | [Scared To Love Again](https://open.spotify.com/track/0yadIA9MoZ46fXzRJuoqHk) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scared To Love Again](https://open.spotify.com/album/3JWq7zuTNhKFz6DhfSUVDP) | 2:58 | 2023-08-09 | 2023-12-14 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
 | [Scorched Earth](https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Scorched Earth](https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q) | 4:40 | 2024-10-09 | 2025-01-17 |
@@ -924,7 +925,7 @@
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 | 2023-08-20 |
-| [You Want Me](https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me \(VIP\)](https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8) | 4:45 | 2024-11-18 |  |
+| [You Want Me](https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me \(VIP\)](https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8) | 4:45 | 2024-11-18 | 2025-02-25 |
 | [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 | 2024-06-01 |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 | 2022-09-07 |

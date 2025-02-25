@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Franklin House",
+        "url": "https://open.spotify.com/album/7FvCQcq1nnenLdOl6xolpU"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290563,
+      "name": "Franklin House",
+      "url": "https://open.spotify.com/track/3R4he4bi1O5gQxDWRHYJHj"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq"
       },

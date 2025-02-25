@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36029,
+  "num_followers": 36038,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAACpIOKh+QkzFp6Hef/82HdJ",
+  "snapshot_id": "Z7plAAAAAABaWGrGPHQIMo+6UMSTw+wP",
   "tracks": [
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+        "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RwLXsqlcWiiVEYCn773sj"
       },
       "artists": [
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+      "duration_ms": 493681,
+      "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49Fd9wpK7X5ZXxIWFrAgKh"
     },
     {
       "added_at": null,
@@ -571,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 276549,
       "name": "Mergulhe",
       "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0RwLXsqlcWiiVEYCn773sj"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 493681,
-      "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/49Fd9wpK7X5ZXxIWFrAgKh"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+      "duration_ms": 222958,
+      "name": "Para Sempre",
+      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 222958,
-      "name": "Para Sempre",
-      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
     },
     {
       "added_at": null,
@@ -999,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00danico - Incompar\u00e1vel (Vol. 1)",
-        "url": "https://open.spotify.com/album/1PD0lcDNh9WozfS2309QAu"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
-        {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
-        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Choque E Fogo",
-      "url": "https://open.spotify.com/track/0Y0tYSDTuGpzff4moYGa4u"
+      "duration_ms": 290899,
+      "name": "Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
     }
   ],
   "unique_name": "This Is Cassiane",

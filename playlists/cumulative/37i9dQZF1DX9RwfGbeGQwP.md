@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,547 songs - 2 day 10 hr 12 min
+1,548 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Downpour](https://open.spotify.com/track/2fioad7JuJ3sw3NSA7nCBG) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Downpour](https://open.spotify.com/album/20wA5V3P3FkbJ934euFlE6) | 2:32 | 2022-10-28 | 2023-03-09 |
 | [downtime](https://open.spotify.com/track/4350h6v6CUgKVh9YWnvMjw) | [lomix](https://open.spotify.com/artist/25bLrD0Ko3DxkuA5mhdEZA) | [downtime](https://open.spotify.com/album/2jBxi0LJumaJNoKFWY3sWT) | 2:20 | 2022-12-09 | 2025-01-07 |
 | [Downtime](https://open.spotify.com/track/5OCnlqUft1qW9k0CxbGc3t) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Downtime](https://open.spotify.com/album/4FydsPgeeBLIa8e0VW4Pht) | 1:54 | 2022-09-30 | 2023-09-22 |
+| [Dream Forest](https://open.spotify.com/track/09OsptxGvPEvte4LsAI3en) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Dream Forest](https://open.spotify.com/album/3lAJNcCZa50A8Salg2WaZ8) | 1:26 | 2025-02-21 |  |
 | [Dream Infinite](https://open.spotify.com/track/6V8CcTlVfqScjBMEyt1tih) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dream Infinite](https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q) | 1:44 | 2022-09-23 | 2023-09-22 |
 | [Dreamin](https://open.spotify.com/track/4VKvd5JszOMtL1riX0QbDG) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Fantasy Island](https://open.spotify.com/album/5hBy7hsiIQoSMlKBCtqveR) | 2:50 | 2023-03-08 | 2024-05-14 |
 | [dreaming about u](https://open.spotify.com/track/6aTmBJD38cN80lkUXHrclk) | [Tau](https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB) | [dreaming about u](https://open.spotify.com/album/6dS4SzBZlmqsceh8ssmEQQ) | 2:01 | 2023-09-22 | 2023-09-29 |
@@ -1278,7 +1279,7 @@
 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 | 2022-09-02 | 2023-01-20 |
 | [Stumbles](https://open.spotify.com/track/6SYNj1IwlExnuGnpbCfOUZ) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Stumbles](https://open.spotify.com/album/2u98fLwBQfGhOysO60dls5) | 1:44 | 2022-01-27 | 2022-04-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-01-27 | 2022-09-03 |
-| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 |  |
+| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 | 2025-02-25 |
 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-21 |  |
 | [sugar n' spice](https://open.spotify.com/track/1OMlffcymhMMXX2jYft3Ox) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [grind house](https://open.spotify.com/album/2P5wpnFllJIwWKfdA2Aywa) | 3:00 | 2022-09-02 | 2023-03-09 |
 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 | 2022-10-08 | 2023-09-22 |

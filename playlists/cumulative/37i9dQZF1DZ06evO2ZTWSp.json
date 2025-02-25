@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163903,
+      "name": "Wat U Mean",
+      "url": "https://open.spotify.com/track/3pBwF537Mhh1NgZcxi9vbf"
+    },
+    {
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },

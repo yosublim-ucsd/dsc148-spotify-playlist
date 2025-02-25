@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette
 
-928 songs - 1 day 22 hr 27 min
+929 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Incomunicável](https://open.spotify.com/track/5gFABjU0f5xTgDraQz9EtT) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Aquário](https://open.spotify.com/album/1Sv9ms2IZZCIbAeoUS5VPA) | 5:10 | 2020-10-20 | 2022-07-28 |
 | [INDEPENDENTE DO AGORA](https://open.spotify.com/track/2GcHDX5shxbE2BpQT8FhCB) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [INDEPENDENTE DO AGORA](https://open.spotify.com/album/5W3cZFkmXG2B7qtnZSoAHW) | 2:55 | 2024-08-30 | 2024-11-09 |
 | [Inevitável](https://open.spotify.com/track/3UOsMxiN3OdI7h7x6uzYu2) | [Helena Novais](https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG) | [Inevitável](https://open.spotify.com/album/4D5zioWfo0fINhVyjtfCyz) | 2:47 | 2023-07-21 | 2023-08-26 |
-| [INFAME](https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Cena 1](https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx) | 3:22 | 2024-11-22 |  |
+| [INFAME](https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Cena 1](https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx) | 3:22 | 2024-11-22 | 2025-02-25 |
 | [Inocente](https://open.spotify.com/track/32204Bzd7Eeqf8oK3maOIt) | [Yago Vidal](https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP) | [Inocente](https://open.spotify.com/album/4atH9mSxzXTZXm6obsGjqc) | 3:10 | 2023-08-11 | 2023-08-26 |
 | [Insegura](https://open.spotify.com/track/34XDlytLvelV6XaVPkWLyz) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH) | [Cuore Aperto](https://open.spotify.com/album/2oSnyEJ0FAzDNJMA1oZ8Lg) | 2:58 | 2023-11-10 | 2023-12-02 |
 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 | 2024-03-08 | 2024-07-19 |
@@ -931,6 +931,7 @@
 | [Zerando a Vida](https://open.spotify.com/track/1rr3B3UAKOz3vzjuNfhLu3) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Zerando a Vida](https://open.spotify.com/album/7pPHwj4BAv1Q7IUjhRgGju) | 2:21 | 2020-10-20 | 2022-07-29 |
 | [Zero Coragem](https://open.spotify.com/track/6Swwu1rtpfcFjOSgkrgB9Z) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Zero Coragem](https://open.spotify.com/album/4V0V4L7SjaicbPMHR7qBOM) | 2:28 | 2023-03-10 | 2023-08-19 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2020-10-20 | 2023-02-15 |
+| [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 | 2025-02-21 |  |
 | [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 | 2025-01-31 |  |
 | [Águas passadas \(Netuno\)](https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Águas passadas \(Netuno\)](https://open.spotify.com/album/4clWwMvqmNZ4nkm00VOJA4) | 4:05 | 2024-12-13 |  |
 | [Ímã de Dinheiro](https://open.spotify.com/track/7EXTQ2gqX19CmMY0CBDeOH) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Ímã de Dinheiro](https://open.spotify.com/album/1jiZkSuO8hiUCeAwPCbUZQ) | 2:17 | 2020-10-20 | 2022-07-29 |

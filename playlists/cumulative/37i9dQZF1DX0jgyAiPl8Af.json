@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 151940,
       "name": "A Few Reasons",
       "url": "https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 151833,
       "name": "Bezmocn\u00fd",
       "url": "https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 166780,
       "name": "Chords In D",
       "url": "https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 148000,
       "name": "Elegia",
       "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
@@ -4990,6 +4990,24 @@
       "duration_ms": 133958,
       "name": "Glencoe",
       "url": "https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B"
+    },
+    {
+      "album": {
+        "name": "Golden Bridge",
+        "url": "https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141405,
+      "name": "Golden Bridge",
+      "url": "https://open.spotify.com/track/5vU0QZZeSA0lGBZiF9ZH1T"
     },
     {
       "album": {
@@ -7302,6 +7320,24 @@
       "duration_ms": 128720,
       "name": "Life In Harmony",
       "url": "https://open.spotify.com/track/2lkyqgKBQiDCY2sr4Yb2c5"
+    },
+    {
+      "album": {
+        "name": "Light Across Miles",
+        "url": "https://open.spotify.com/album/4ntDOg7EWMI47GceJOfBNP"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Light Across Miles",
+      "url": "https://open.spotify.com/track/5agitWJRZZ8B9M2fqCySR9"
     },
     {
       "album": {
@@ -11240,7 +11276,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 162715,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM"
@@ -14578,6 +14614,24 @@
       "duration_ms": 203711,
       "name": "Weaving Together",
       "url": "https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4kGCMsT5GbzvMyEJHORgYr"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6WoPTEeOq4IEEVEp0n9biN"
     },
     {
       "album": {

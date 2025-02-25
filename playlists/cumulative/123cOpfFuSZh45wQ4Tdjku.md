@@ -4,7 +4,7 @@
 
 > mostly furry
 
-288 songs - 14 hr 40 min
+293 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Buttered Toast](https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Buttered Toast](https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS) | 3:57 | 2025-01-11 |  |
 | [Candlelight](https://open.spotify.com/track/4rYjeNrjGCXRLpMcLmFZOY) | [Bardic](https://open.spotify.com/artist/5G4QNDP33DfiOnwft13JtB) | [Candlelight](https://open.spotify.com/album/2XvwA3Qv4G9Rx58TZUlhHz) | 2:48 | 2023-12-07 |  |
 | [Cat Chase](https://open.spotify.com/track/042ImWHeDEIWwx9ZEBQSF6) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:19 | 2024-12-24 |  |
+| [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 | 2025-02-24 |  |
 | [Chipflake](https://open.spotify.com/track/5SY1a41AfPSnomiurviWTz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:30 | 2023-11-18 |  |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/7DBDPaBqI5wJewJJ2N86eI) | [IamBatus](https://open.spotify.com/artist/4neMx0OLDw5g0W5wtpiGnl), [rich disease](https://open.spotify.com/artist/4jQpFmqd6D0rDJChVwKkM8) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/4EUKyq1uFSrMT6Jx3y7muG) | 1:48 | 2024-01-08 |  |
 | [Cigarettes & Alcohol](https://open.spotify.com/track/5CUGtrpwxYB5iVAxBrsVVj) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Cigarettes & Alcohol](https://open.spotify.com/album/0jcQNdpwHmgxdVatqViUyS) | 2:36 | 2024-07-19 |  |
@@ -50,6 +51,7 @@
 | [Crystal Dragon](https://open.spotify.com/track/0Wp7IQgeel1KOOBF1KHLbb) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:00 | 2024-12-24 |  |
 | [Crystal Zone](https://open.spotify.com/track/6NYHkQY73FZVMSvrwyk0JZ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:53 | 2024-12-24 |  |
 | [CTRL](https://open.spotify.com/track/0614iq7Ffah7opcLKqoxXX) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [CTRL](https://open.spotify.com/album/1CNrYKuLnNlnaYb2vqwx3N) | 4:08 | 2024-01-23 |  |
+| [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 | 2025-02-24 |  |
 | [Cyber Road](https://open.spotify.com/track/2dskFLEpVf6TuOCM3UeHOm) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 4:14 | 2023-12-07 |  |
 | [CYBERNETIC HEART](https://open.spotify.com/track/7p1MBFFf6XTYJGh5elBNhM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2024-10-24 |  |
 | [CYBERNETIC HEART \- Instrumental](https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2025-01-27 |  |
@@ -83,6 +85,7 @@
 | [Free](https://open.spotify.com/track/4IoHKp55jI0ZXeBHhMh3fX) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:51 | 2024-12-07 |  |
 | [Frost Fox](https://open.spotify.com/track/65iffqFdihPrNCbMGDcIb2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:41 | 2024-08-03 |  |
 | [Fur](https://open.spotify.com/track/5GCd30g8zWvYH1RCnMxfiA) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 2:45 | 2024-01-20 |  |
+| [FURFAG](https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 4:44 | 2025-02-24 |  |
 | [Furries of America](https://open.spotify.com/track/0GhtAOPQynLIVcz9WBdI2Q) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH) | [Furries of America](https://open.spotify.com/album/3PbQjmLDMmyOMqdDT2cyvz) | 3:06 | 2024-07-15 |  |
 | [FurryFoofi](https://open.spotify.com/track/1JXPZp5QIMsXHDTi9MLfh3) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:12 | 2024-08-17 |  |
 | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/track/2fHZAXOHW6MloDdXRqNhrS) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/album/6rmH0AwGNsUm5juguz28ZQ) | 3:31 | 2024-01-20 |  |
@@ -127,6 +130,7 @@
 | [Kiwi Fox](https://open.spotify.com/track/1EGC4Ze8pgbZjDsdzw8Foy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:06 | 2024-05-15 |  |
 | [Knock, Knock](https://open.spotify.com/track/6KYNf56kxvjSLn5WRTq2Qj) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 3:47 | 2024-07-19 |  |
 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 | 2024-07-15 |  |
+| [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 | 2025-02-24 |  |
 | [Laboratory](https://open.spotify.com/track/7h25e8n5b1qCCDGgE5OfZy) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 2:08 | 2024-12-24 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-07-09 |  |
 | [LDR \- RET TRO Remix](https://open.spotify.com/track/20BeyVDtpJ2ypQghzS3rCg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 1:59 | 2024-07-02 |  |
@@ -177,6 +181,7 @@
 | [Owo You're so Warm](https://open.spotify.com/track/2NpLgr5eL8E96X49kLQID0) | [Senzawa](https://open.spotify.com/artist/2iXAFUDVjc12Gea585uitg) | [Owo You're so Warm](https://open.spotify.com/album/2qzq5VtsEwpK1pQtFPlexG) | 1:03 | 2023-11-18 |  |
 | [Paper Alibis](https://open.spotify.com/track/6SKoWv3L0SrSyhact6M1kK) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Paper Alibis](https://open.spotify.com/album/5q9JKSnjSiY2kVLdC7LuHS) | 3:15 | 2024-08-03 |  |
 | [Parasocial](https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Parasocial](https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He) | 3:30 | 2024-05-23 |  |
+| [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 | 2025-02-24 |  |
 | [Paws to the Walls \(Album Version\)](https://open.spotify.com/track/3F6W10MmpGNvuaVHRgHoqm) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:01 | 2023-11-18 |  |
 | [Paws to the Walls \(Fursona Version\)](https://open.spotify.com/track/3IXj6ST3yW7iWO1Oq6BdsA) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Paws to the Walls \(Fursona Version\)](https://open.spotify.com/album/4Z3ggIxA4bxdwo0JEXqauj) | 4:45 | 2023-11-18 |  |
 | [Paws Up!](https://open.spotify.com/track/5tzumBMHJABiDCAu1upYd5) | [Hixbi Fox](https://open.spotify.com/artist/76ZTP1RJUrzT2bQSEd8lZ3), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Paws Up!](https://open.spotify.com/album/0x9gGEqkiSdv1iuaeeEUSU) | 3:43 | 2023-11-20 |  |

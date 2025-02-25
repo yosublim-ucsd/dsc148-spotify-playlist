@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: MIHYANG MOON\(문미향\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,838 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,847 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 |
 | 50 | [Escape](https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD) | [Ellie Lee](https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC) | [Escape](https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb) | 5:52 |
 
-Snapshot ID: `Z7QGigAAAAAqErHnHbHyak5sNItk3VOJ`
+Snapshot ID: `Z7QGigAAAAAZZkY0pYfjeOoWWgrVRCSR`

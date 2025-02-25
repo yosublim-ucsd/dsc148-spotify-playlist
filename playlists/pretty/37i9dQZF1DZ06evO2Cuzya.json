@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 168363,
+  "num_followers": 168663,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAAB2B2MQdFScDsouCQIkLXvh",
+  "snapshot_id": "Z7plAAAAAABmd42203BZRWM2SWR3it1x",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+      "duration_ms": 218440,
+      "name": "Long Sleeves",
+      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Long Sleeves",
-      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-564 songs - 1 day 2 hr 59 min
+565 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Malwe De Raje](https://open.spotify.com/track/5ITY0lvSWSKT8GPhLLYnxd) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Malwe De Raje](https://open.spotify.com/album/4Ji8jO7M7iuFvuc8mmCDGR) | 4:07 | 2024-12-05 | 2025-02-05 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-03-29 | 2023-07-15 |
 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 | 2024-10-07 |  |
+| [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-24 |  |
 | [Manifest](https://open.spotify.com/track/2DmNIqrR70dUtcs4ljNl6a) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Manifest](https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8) | 2:28 | 2024-04-11 |  |
 | [Mann Di Ni Tu](https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Mann Di Ni Tu](https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Masle](https://open.spotify.com/track/1i2Hf9IxuHbfi8MbrdmfRx) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Masle](https://open.spotify.com/album/06dpLPWKYdm1T6bdMJBROL) | 2:53 | 2024-08-06 |  |
@@ -543,7 +544,7 @@
 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp), [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 | 2024-07-19 |  |
 | [Wanted](https://open.spotify.com/track/71E7wc5trYqxDhMZlp7QQb) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Wanted](https://open.spotify.com/album/3kGwZQ8qm6h9UJkzUszAI8) | 2:54 | 2023-03-29 | 2023-07-26 |
 | [WAR](https://open.spotify.com/track/4Tr9TEb18Jb6hQxeXXzZcX) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [WAR](https://open.spotify.com/album/5hIEc8FpmTpxkaCGc09IgN) | 2:56 | 2023-12-20 | 2024-05-25 |
-| [Wardaat 2](https://open.spotify.com/track/1m19oybJSfGtSrLrOZZ8EY) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Ellde Fazilka](https://open.spotify.com/artist/1d4aAalhBQWy4cyyorxNHc) | [Wardaat 2](https://open.spotify.com/album/3nF4DVZlZdOXBnmCQrZMSo) | 3:40 | 2025-02-04 |  |
+| [Wardaat 2](https://open.spotify.com/track/1m19oybJSfGtSrLrOZZ8EY) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Ellde Fazilka](https://open.spotify.com/artist/1d4aAalhBQWy4cyyorxNHc) | [Wardaat 2](https://open.spotify.com/album/3nF4DVZlZdOXBnmCQrZMSo) | 3:40 | 2025-02-04 | 2025-02-25 |
 | [Warriors Of Punjab](https://open.spotify.com/track/3zPf2zmCJQK3MbjAr1iU7Y) | [Jassi Sohal](https://open.spotify.com/artist/45fT4owqYRKTnrtLiAN9wZ) | [Warriors Of Punjab](https://open.spotify.com/album/2IhWbpmBN0yNCSQYpB3UKB) | 3:27 | 2024-11-20 | 2025-01-08 |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2023-11-12 | 2024-11-14 |
 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2024-02-02 |  |

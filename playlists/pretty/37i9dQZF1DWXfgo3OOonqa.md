@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,049 likes - 102 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,050 likes - 102 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
-| 2 | [Min Gumma](https://open.spotify.com/track/1hlyhTzpZp2GUVtruar0IW) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Min Gumma](https://open.spotify.com/album/5GZDJi1IxSmqwTYF2MVNGV) | 2:00 |
-| 3 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
-| 4 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
-| 5 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
-| 6 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 |
-| 7 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
-| 8 | [BPM](https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [BPM](https://open.spotify.com/album/4YUuZVgUjm7qNBpM6jF2hQ) | 3:03 |
+| 2 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
+| 3 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
+| 4 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
+| 5 | [Min Gumma](https://open.spotify.com/track/1hlyhTzpZp2GUVtruar0IW) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Min Gumma](https://open.spotify.com/album/5GZDJi1IxSmqwTYF2MVNGV) | 2:00 |
+| 6 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
+| 7 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
+| 8 | [Min Risk](https://open.spotify.com/track/3Ns1lcJWmW0PRWJOUP2CPI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Min Risk](https://open.spotify.com/album/2gwdJhD1G6e0HTXHoWRGQB) | 3:00 |
 | 9 | [BARCA](https://open.spotify.com/track/6d45s5kRUwaBQ7FIIuxyib) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB), [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [BARCA](https://open.spotify.com/album/5S48nOTgXrL2kQvFC9jXCj) | 2:53 |
-| 10 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
-| 11 | [Min Risk](https://open.spotify.com/track/3Ns1lcJWmW0PRWJOUP2CPI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Min Risk](https://open.spotify.com/album/2gwdJhD1G6e0HTXHoWRGQB) | 3:00 |
-| 12 | [Maria](https://open.spotify.com/track/1zKWPl45yX9RiMr2PPW83Z) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Maria](https://open.spotify.com/album/1h99QDMHn7Lo3mXJKnxFdU) | 2:31 |
-| 13 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
-| 14 | [Ingen ro](https://open.spotify.com/track/0EOXIlBeG2B8uZTy33aXrg) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Ingen ro](https://open.spotify.com/album/25ymQgXonmzw13vUTHR8aG) | 2:00 |
-| 15 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
-| 16 | [ZAZA](https://open.spotify.com/track/5i0nuW6QAbTJXLmEszuP1t) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [ZAZA](https://open.spotify.com/album/0vFnShVVKtNQRQpLBMHTKy) | 2:18 |
-| 17 | [Georgia](https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Georgia](https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu) | 2:28 |
-| 18 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 |
-| 19 | [Hör Dig](https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Hör Dig](https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ) | 2:46 |
+| 10 | [Maria](https://open.spotify.com/track/1zKWPl45yX9RiMr2PPW83Z) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Maria](https://open.spotify.com/album/1h99QDMHn7Lo3mXJKnxFdU) | 2:31 |
+| 11 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
+| 12 | [DETALJER](https://open.spotify.com/track/5fg3f9ojTu4CHavGWX92nH) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DETALJER](https://open.spotify.com/album/5gI0YUlhTaLOeTXh5qHcFF) | 2:13 |
+| 13 | [BPM](https://open.spotify.com/track/15sM0nXG6YhJ1G9H0AFsQY) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [BPM](https://open.spotify.com/album/4YUuZVgUjm7qNBpM6jF2hQ) | 3:03 |
+| 14 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
+| 15 | [Georgia](https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Georgia](https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu) | 2:28 |
+| 16 | [Ingen ro](https://open.spotify.com/track/0EOXIlBeG2B8uZTy33aXrg) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Ingen ro](https://open.spotify.com/album/25ymQgXonmzw13vUTHR8aG) | 2:00 |
+| 17 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 |
+| 18 | [Hör Dig](https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Hör Dig](https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ) | 2:46 |
+| 19 | [ZAZA](https://open.spotify.com/track/5i0nuW6QAbTJXLmEszuP1t) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [ZAZA](https://open.spotify.com/album/0vFnShVVKtNQRQpLBMHTKy) | 2:18 |
 | 20 | [Daydate](https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Daydate](https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie) | 2:29 |
 | 21 | [Dansa Under Regn](https://open.spotify.com/track/0besPBzuD9KuRcH7k9hrBX) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [DANSA UNDER REGN](https://open.spotify.com/album/1ZO17nLoqyOJ7lQc7nQTeh) | 1:45 |
 | 22 | [20NUQI](https://open.spotify.com/track/1XpQEWJ8mMwBPu5hdInR0V) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [20NUQI](https://open.spotify.com/album/5fT2XvbHcLDxHmDToVrPnG) | 2:11 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 101 | [skitdag \(feat\. Clayton\)](https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [skitdag \(feat\. Clayton\)](https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T) | 2:52 |
 | 102 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
 
-Snapshot ID: `Z7e0EwAAAACQJ0RWln1+R9b3sNO90NXn`
+Snapshot ID: `Z7wy+wAAAACAB0/j8wdQqqWTiILJTzf0`

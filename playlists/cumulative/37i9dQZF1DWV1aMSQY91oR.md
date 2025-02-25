@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Nardo Wick
 
-3,298 songs - 6 day 14 hr 37 min
+3,299 songs - 6 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Clique](https://open.spotify.com/track/19nfFtKHKKNSyf8ZaDMR7m) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Clique](https://open.spotify.com/album/6M1be62yMv7JvGPdrVdlK2) | 3:05 | 2023-05-26 | 2023-06-03 |
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 | 2024-11-09 |
 | [Cloud Surfing](https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 2:15 | 2024-04-19 | 2024-04-27 |
+| [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-24 |  |
 | [CMFTZN](https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [CMFTZN](https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE) | 2:42 | 2023-07-21 | 2023-07-29 |
 | [CMON FREESTYLE](https://open.spotify.com/track/2CSUpKbvwm1kWfjuNjKAyM) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq) | [CMON FREESTYLE](https://open.spotify.com/album/2g43kx4o3jExDa6WvCoj3l) | 1:42 | 2024-01-26 | 2024-02-03 |
 | [Co\-sign](https://open.spotify.com/track/1ONg3BpLz7ix13DZh1MHxY) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [I Invented Grime](https://open.spotify.com/album/3GndKmW3UgJecTF3RFXjId) | 3:08 | 2024-12-13 | 2025-01-11 |
@@ -1785,7 +1786,7 @@
 | [Misty](https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:38 | 2023-04-14 | 2023-04-22 |
 | [Misère](https://open.spotify.com/track/2DcQbyQcO8k0HZzJOmFRaV) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Misère](https://open.spotify.com/album/627gUjeaCo9NUB7MGAqlGI) | 2:52 | 2025-01-10 | 2025-01-18 |
 | [MIX IT UP](https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [MIX IT UP](https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s) | 2:27 | 2023-07-28 | 2023-08-05 |
-| [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 | 2025-02-14 |  |
+| [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 | 2025-02-14 | 2025-02-25 |
 | [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 | 2023-03-10 | 2023-03-18 |
 | [Mob Business](https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd) | [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [From The Cradle To The Game](https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu) | 3:55 | 2023-05-12 | 2023-05-27 |
 | [MOB TIES](https://open.spotify.com/track/07AUrZJt218IV4ZJ6OHsFL) | [Un!dentified](https://open.spotify.com/artist/4vPqYPVLwUrooOL3Pylp8Q) | [MOB TIES](https://open.spotify.com/album/7j7jeFadvlXU1T8TGADrhp) | 2:39 | 2023-07-21 | 2023-07-29 |

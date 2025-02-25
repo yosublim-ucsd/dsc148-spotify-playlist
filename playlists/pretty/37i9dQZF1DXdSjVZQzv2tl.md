@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme, Wesley Safadão
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,871,023 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,871,390 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 48 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
 | 49 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 
-Snapshot ID: `Z7iyPgAAAADq0fzobOMltW3sbJiRt8eC`
+Snapshot ID: `Z7iyPgAAAABpHgBUuuvzu7yjrKHkNx1e`

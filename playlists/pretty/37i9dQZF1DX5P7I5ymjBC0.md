@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,363 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,376 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 35 | [Aakhon ke Sagar](https://open.spotify.com/track/6vwDylCMJ5yP26iG5oXlIC) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:16 |
 | 36 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 |
 | 37 | [BAALMAA](https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:03 |
-| 38 | [Mirage](https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo) | [Anjana Padmanabhan](https://open.spotify.com/artist/420Mr1M4EAVToMd0puguQD), [Siddhesh Shrivastava](https://open.spotify.com/artist/0f1ufB3uP5qiQhcNFnfyE5), [Harshil Gandhi](https://open.spotify.com/artist/61jrNAkPzXVKsOQn8XSqDh) | [Mirage](https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ) | 4:23 |
-| 39 | [Mujh Se Pehli Si Muhabbat](https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo) | [Humera Channa](https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:52 |
+| 38 | [Mujh Se Pehli Si Muhabbat](https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo) | [Humera Channa](https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:52 |
+| 39 | [Mirage](https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo) | [Anjana Padmanabhan](https://open.spotify.com/artist/420Mr1M4EAVToMd0puguQD), [Siddhesh Shrivastava](https://open.spotify.com/artist/0f1ufB3uP5qiQhcNFnfyE5), [Harshil Gandhi](https://open.spotify.com/artist/61jrNAkPzXVKsOQn8XSqDh) | [Mirage](https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ) | 4:23 |
 | 40 | [Ae Dil Kisi Ki Yaad Mein \- Coke Studio Season 8](https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q) | [Sara Haider](https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Ae Dil Kisi Ki Yaad Mein \(Coke Studio Season 8\)](https://open.spotify.com/album/41JZAZycEJOq01horKNToM) | 5:55 |
 | 41 | [Sayonee](https://open.spotify.com/track/4cIDTwm3FFPpIm6AFJNvhL) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Ali Noor](https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 7:41 |
 | 42 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |

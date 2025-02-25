@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,774 likes - 179 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 967,858 likes - 178 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,18 +174,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 164 | [In Deinen Augen](https://open.spotify.com/track/18HN4qdMe2RJlgq3bYH01a) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [In Deinen Augen](https://open.spotify.com/album/5VDqqLsuP5Dli8Aepm3y8T) | 2:04 |
 | 165 | [Aquaterra](https://open.spotify.com/track/1eSt1uhXWcriWYOGZahU9i) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Aquaterra](https://open.spotify.com/album/4c1657shPbX080yozrcKuk) | 2:07 |
 | 166 | [Unchanged](https://open.spotify.com/track/0q4JUAatgC3sES0zcFc38T) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [Unchanged](https://open.spotify.com/album/22ZNd4npOSNgt3bahUyRe0) | 2:26 |
-| 167 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
-| 168 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
-| 169 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 |
-| 170 | [Rêveuse](https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Rêveuse](https://open.spotify.com/album/5npG7egCzEs9bOxDd621W7) | 2:27 |
-| 171 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 |
-| 172 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
-| 173 | [In your arms](https://open.spotify.com/track/2cdLFYUbixZXuZOs5B0HvG) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Remembrance](https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce) | 2:49 |
-| 174 | [Tes yeux d'un bleu profond](https://open.spotify.com/track/64HEaiLP9VcrJpElxywgRr) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Tes yeux d'un bleu profond](https://open.spotify.com/album/3lYX0nUaQZwgg1sszxMpWv) | 2:26 |
-| 175 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 |
-| 176 | [Stay](https://open.spotify.com/track/7lZYzGYEEIFEIZef12LwOp) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Stay](https://open.spotify.com/album/6AJX7VLAe7oPNCJnjHGuih) | 2:31 |
-| 177 | [In the shell of night](https://open.spotify.com/track/2ssG2QnW8tai39jGqJxbW1) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [In the shell of night](https://open.spotify.com/album/4DMOVnHIoUeXRleTBnC4sK) | 2:47 |
-| 178 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 |
-| 179 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
+| 167 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
+| 168 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 |
+| 169 | [Rêveuse](https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Rêveuse](https://open.spotify.com/album/5npG7egCzEs9bOxDd621W7) | 2:27 |
+| 170 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 |
+| 171 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
+| 172 | [In your arms](https://open.spotify.com/track/2cdLFYUbixZXuZOs5B0HvG) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Remembrance](https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce) | 2:49 |
+| 173 | [Tes yeux d'un bleu profond](https://open.spotify.com/track/64HEaiLP9VcrJpElxywgRr) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Tes yeux d'un bleu profond](https://open.spotify.com/album/3lYX0nUaQZwgg1sszxMpWv) | 2:26 |
+| 174 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 |
+| 175 | [Stay](https://open.spotify.com/track/7lZYzGYEEIFEIZef12LwOp) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Stay](https://open.spotify.com/album/6AJX7VLAe7oPNCJnjHGuih) | 2:31 |
+| 176 | [In the shell of night](https://open.spotify.com/track/2ssG2QnW8tai39jGqJxbW1) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [In the shell of night](https://open.spotify.com/album/4DMOVnHIoUeXRleTBnC4sK) | 2:47 |
+| 177 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 |
+| 178 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
 
-Snapshot ID: `Z7SWiwAAAAABptOAZD1coEhCKiOCTqHQ`
+Snapshot ID: `Z7w6OQAAAAA9EyCx7Z3NfeBnP0MAo941`

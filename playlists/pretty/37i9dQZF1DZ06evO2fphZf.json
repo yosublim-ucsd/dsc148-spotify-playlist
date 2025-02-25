@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 11550,
+  "num_followers": 11557,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAAD6meOBpOrnlMzP09wGNqCx",
+  "snapshot_id": "Z7plAAAAAACEwnqyFykCtlmA30x4vOit",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "day dream",
+        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "day dream",
+      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "day dream",
-        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "day dream",
-      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "holiday szn",
-        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167352,
-      "name": "holiday szn",
-      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
+      "duration_ms": 176640,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

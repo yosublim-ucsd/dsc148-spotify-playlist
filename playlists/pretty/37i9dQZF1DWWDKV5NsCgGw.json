@@ -1,12 +1,12 @@
 {
   "description": "Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.",
-  "num_followers": 22509,
+  "num_followers": 22978,
   "original_name": "The White Lotus Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7TWlAAAAACLSsoZpCO/W1tE30F1ZyVz",
+  "snapshot_id": "Z7vgwwAAAAAyGcJ1IhfRCZC3Qor/a1m9",
   "tracks": [
     {
       "added_at": "2025-02-17 03:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-02-17 03:00:00",
       "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+    },
+    {
+      "added_at": "2025-02-17 03:00:00",
+      "album": {
         "name": "\u0e40\u0e21\u0e14 \u0e2d\u0e34\u0e19 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
         "url": "https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 251693,
       "name": "\u0e40\u0e21\u0e14 \u0e2d\u0e34\u0e19 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
       "url": "https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC"
-    },
-    {
-      "added_at": "2025-02-17 03:00:00",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": "2025-02-17 03:00:00",

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-675 songs - 1 day 6 hr 47 min
+676 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,9 +377,10 @@
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2022-01-14 | 2022-05-20 |
 | [MIAMI](https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP), [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [MIAMI](https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF) | 3:12 | 2023-05-26 | 2024-06-01 |
 | [midwest kids](https://open.spotify.com/track/5VPiXYa0YEMrq6cf0MFWM5) | [Apollo](https://open.spotify.com/artist/6DuMOGPBqZFTTM1MawW6Lw) | [midwest kids](https://open.spotify.com/album/7eX31xLsNWdM8NFJu1oLlb) | 2:25 | 2022-10-21 | 2023-06-17 |
-| [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-05-31 |  |
+| [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-05-31 | 2025-02-25 |
 | [miranda!](https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [miranda!](https://open.spotify.com/album/1pC6umMKhr0BrOtJT8QxG2) | 2:19 | 2023-04-07 | 2023-07-08 |
 | [MISS ME](https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MISS ME](https://open.spotify.com/album/3nswnoYynY8SodmuIpVhOu) | 2:38 | 2023-02-03 | 2024-01-23 |
+| [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 |  |
 | [Miss You a Little \(feat\. lovelytheband\)](https://open.spotify.com/track/2tijppLc0gaWA2AfPDANvq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Miss You a Little \(feat\. lovelytheband\)](https://open.spotify.com/album/67OpexBmynKW5tWHE7PYOX) | 2:48 | 2022-08-08 | 2023-09-09 |
 | [mistakes](https://open.spotify.com/track/15dJLTji58BsvcTDZ2QxQG) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [mistakes](https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0) | 2:53 | 2022-04-06 | 2022-04-09 |
 | [Money](https://open.spotify.com/track/3FF6vKYilv8IIJSoPKN56z) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Money](https://open.spotify.com/album/70T8YlPSkUpuPuAZsGTenW) | 1:56 | 2024-05-24 | 2024-06-01 |
@@ -543,7 +544,7 @@
 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-25 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 | 2022-10-13 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/3pq8h5l46v9qk2Cx03qX0q) | 2:40 | 2022-09-09 | 2022-10-15 |
-| [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 | 2024-03-15 |  |
+| [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 | 2024-03-15 | 2025-02-25 |
 | [spilled drinks](https://open.spotify.com/track/78zcMX1Gpla399x1Clykdh) | [Eian Blue](https://open.spotify.com/artist/72n6CG0Bz1LM5zLWK54gVQ), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [spilled drinks](https://open.spotify.com/album/12lilHxzKXof8gLRxAILiW) | 1:55 | 2022-01-11 | 2022-02-19 |
 | [Spinnin](https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spinnin](https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4) | 1:50 | 2022-10-27 | 2022-10-29 |
 | [Splash](https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Excuse Me](https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF) | 3:19 | 2022-10-07 | 2022-11-12 |

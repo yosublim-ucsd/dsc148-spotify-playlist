@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tate McRae, Saya Gray, JENNIE,  Mumford & Sons and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,716 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,738 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Prodigal Daughter \(feat\. Molly Tuttle\)](https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Prodigal Daughter](https://open.spotify.com/album/1voXBL0YbqcFfskir9BoUp) | 3:26 |
 | 100 | [Free Hit](https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Free Hit](https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh) | 4:49 |
 
-Snapshot ID: `Z7gJ3gAAAABvUA+baPz3vw+wAavfV1y4`
+Snapshot ID: `Z7gJ3gAAAABajmBQ3cT75CWPI/qBfgWx`

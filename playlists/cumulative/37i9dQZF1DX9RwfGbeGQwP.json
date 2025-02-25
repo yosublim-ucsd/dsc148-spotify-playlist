@@ -6539,6 +6539,24 @@
     },
     {
       "album": {
+        "name": "Dream Forest",
+        "url": "https://open.spotify.com/album/3lAJNcCZa50A8Salg2WaZ8"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86293,
+      "name": "Dream Forest",
+      "url": "https://open.spotify.com/track/09OsptxGvPEvte4LsAI3en"
+    },
+    {
+      "album": {
         "name": "Dream Infinite",
         "url": "https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q"
       },
@@ -24268,7 +24286,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 133500,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu"

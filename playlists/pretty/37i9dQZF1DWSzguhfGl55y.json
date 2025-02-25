@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 643035,
+  "num_followers": 643101,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -591,30 +591,18 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Quadratur des Kreises",
-        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Freundeskreis",
-          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
-        },
-        {
-          "name": "Max Herre",
-          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
-        },
-        {
-          "name": "Don Philippe",
-          "url": "https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU"
-        },
-        {
-          "name": "DJ Friction",
-          "url": "https://open.spotify.com/artist/3uLb8nsdXtUHeO1ns9HobZ"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 366133,
-      "name": "A-N-N-A",
-      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
+      "duration_ms": 231800,
+      "name": "Traumreise",
+      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -679,18 +667,30 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Quadratur des Kreises",
+        "url": "https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
+        },
+        {
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        },
+        {
+          "name": "Don Philippe",
+          "url": "https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU"
+        },
+        {
+          "name": "DJ Friction",
+          "url": "https://open.spotify.com/artist/3uLb8nsdXtUHeO1ns9HobZ"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Traumreise",
-      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+      "duration_ms": 366133,
+      "name": "A-N-N-A",
+      "url": "https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S"
     },
     {
       "added_at": "2024-12-09 12:11:36",

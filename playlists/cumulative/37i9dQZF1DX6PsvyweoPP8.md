@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-273 songs - 13 hr 25 min
+274 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Fetiches](https://open.spotify.com/track/1DKn6TWLuF9JYuOngK9gKq) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Fetiches](https://open.spotify.com/album/2ZIc8smEdKWnoMuYGG1MOH) | 3:18 | 2023-04-28 | 2024-10-08 |
 | [FILME](https://open.spotify.com/track/12jzQkI3F5VNdVgByUX0PW) | [Mirim](https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6) | [AGL](https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG) | 2:33 | 2023-09-01 | 2023-09-23 |
 | [Fim](https://open.spotify.com/track/1dG2h6cvRGzFPnypA4DDGK) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [GF Gahiji](https://open.spotify.com/artist/3hOtF6DHkFYMUyamsJHJoP), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Fim](https://open.spotify.com/album/7gua9NskGvji2pRWFjSbk1) | 1:43 | 2022-09-30 | 2024-08-17 |
-| [Flores em Balneário](https://open.spotify.com/track/1RPSO8eSnGmTb8ukA4xKP5) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Flores em Balneário](https://open.spotify.com/album/4xDK1CoI9S3C7r7A7yadJC) | 2:26 | 2023-02-10 |  |
+| [Flores em Balneário](https://open.spotify.com/track/1RPSO8eSnGmTb8ukA4xKP5) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Flores em Balneário](https://open.spotify.com/album/4xDK1CoI9S3C7r7A7yadJC) | 2:26 | 2023-02-10 | 2025-02-25 |
 | [Flutuar](https://open.spotify.com/track/53vCPvYsEtpvtVYKwuBetB) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Flutuar](https://open.spotify.com/album/1wzPVlNkLaSd2BHYCShNlv) | 2:12 | 2022-05-20 | 2024-08-17 |
 | [Focus](https://open.spotify.com/track/162VcBVCZpoBdZ0EHBmIU7) | [Gabriel Zion](https://open.spotify.com/artist/0liLdGtWwe3d7E8AqOTIWX), [Lill Face](https://open.spotify.com/artist/6bDv2tyQdn0SUPpmc4ihgE) | [Focus](https://open.spotify.com/album/1OdkbezkxJqrqNf0ysKYZs) | 2:36 | 2022-06-10 | 2022-07-09 |
 | [Foge Comigo](https://open.spotify.com/track/3jhkAmFUVIA0MuRAaE1gLO) | [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Perotto](https://open.spotify.com/artist/1dVJwFlVYjciAKZF2BqTWx) | [Foge Comigo](https://open.spotify.com/album/33wOP9OMTbFxS2VC7cd2e4) | 2:41 | 2022-08-12 | 2023-03-25 |
@@ -271,6 +271,7 @@
 | [Vai Q Cê Gosta](https://open.spotify.com/track/4FHHQROCezycCRq3fLPiLH) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Vai Q Cê Gosta](https://open.spotify.com/album/2ZoyH1PRf8CiVoBFH0mitA) | 2:20 | 2022-03-18 | 2022-06-18 |
 | [VAMPIRA](https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h) | [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [VAMPIRA](https://open.spotify.com/album/4dv5Yl0t9ZKRA5GTKntuuj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vampira](https://open.spotify.com/track/08AB9WZU9UVBvTn4z6pHSP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Vampira](https://open.spotify.com/album/4RMjLatcJPqTKdDebCn3Pm) | 3:22 | 2024-11-29 | 2025-01-22 |
+| [Vazio](https://open.spotify.com/track/5HSAWjfTr4rrgNAdeIJXJw) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 2:17 | 2025-02-24 |  |
 | [Vestido](https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Vestido](https://open.spotify.com/album/4oxdlFVfOSRTV6K8KuHNSV) | 2:24 | 2023-07-07 | 2023-11-04 |
 | [Victoria's Secrets](https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Gabriel Xan](https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm), [PTKA](https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej) | [Victoria's Secrets](https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM) | 3:01 | 2024-02-23 | 2024-06-15 |
 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 | 2023-05-26 | 2023-10-28 |

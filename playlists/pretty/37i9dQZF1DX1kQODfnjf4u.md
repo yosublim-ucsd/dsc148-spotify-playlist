@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Yzomandias, P T K
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,625 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,700 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 3 | [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 |
 | 4 | [omluva](https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [omluva](https://open.spotify.com/album/512WYq3D0ghh9iAbkWUuKf) | 3:10 |
 | 5 | [Vítej mezi náma \(feat\. STEIN27\)](https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 3:13 |
-| 6 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 |
-| 7 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 |
-| 8 | [Na Očiach Vyryté](https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S.A.M.O.](https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX) | 3:40 |
-| 9 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 |
-| 10 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 11 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 |
-| 12 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 |
+| 6 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 |
+| 7 | [Na Očiach Vyryté](https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S.A.M.O.](https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX) | 3:40 |
+| 8 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 |
+| 9 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 |
+| 10 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 |
+| 11 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 |
+| 12 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 13 | [NENI STRE$S](https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [VOJNA](https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ) | 2:49 |
 | 14 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 |
 | 15 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 50 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `Z7NR/AAAAACdAlxIUrt5XBj/hOCDL+Np`
+Snapshot ID: `Z7yEZAAAAABEhxpbEb+b6lX8zss++rA2`

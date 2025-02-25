@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover:  Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,652 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,666 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 |
 | 75 | [Violet](https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Violet](https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY) | 4:21 |
 
-Snapshot ID: `Z7h8AQAAAAB7riFs1AVZ2IQmiY50WMJN`
+Snapshot ID: `Z7h8AQAAAABsSWRwE543fRawIDEkUb42`

@@ -7947,6 +7947,24 @@
     },
     {
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Courtship Dating",
+      "url": "https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv"
+    },
+    {
+      "album": {
         "name": "Courtside",
         "url": "https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD"
       },

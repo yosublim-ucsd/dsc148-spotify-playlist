@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,499 likes - 224 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800,550 likes - 223 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,15 +222,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 212 | [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 |
 | 213 | [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 |
 | 214 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 |
-| 215 | [Song for a New Beginning](https://open.spotify.com/track/1J2CNuJZnkGyg1UHcwqkBx) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Song for a New Beginning](https://open.spotify.com/album/0580ABbp4nXizW4QtqNQAw) | 2:48 |
-| 216 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 |
-| 217 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 |
-| 218 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 |
-| 219 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
-| 220 | [Relinquishing](https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Relinquishing](https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1) | 2:05 |
-| 221 | [Summertime](https://open.spotify.com/track/4WguFQwPxlxTZ9QEWI88qL) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Summertime](https://open.spotify.com/album/05iN5FPzB6OwsNbISjQScb) | 2:03 |
-| 222 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 |
-| 223 | [Vide sans toi](https://open.spotify.com/track/5QdkQqkU8WgB2sxkUM7wdn) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Vide sans toi](https://open.spotify.com/album/5PZJTl6yZJHQBNfkWSKKGd) | 2:07 |
-| 224 | [Desire](https://open.spotify.com/track/6ZWSNL3mdxhmbLh3KSYdqU) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Desire](https://open.spotify.com/album/5X7MlwenEeNdxXAbg1gdMO) | 2:08 |
+| 215 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 |
+| 216 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 |
+| 217 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 |
+| 218 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
+| 219 | [Relinquishing](https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Relinquishing](https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1) | 2:05 |
+| 220 | [Summertime](https://open.spotify.com/track/4WguFQwPxlxTZ9QEWI88qL) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Summertime](https://open.spotify.com/album/05iN5FPzB6OwsNbISjQScb) | 2:03 |
+| 221 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 |
+| 222 | [Vide sans toi](https://open.spotify.com/track/5QdkQqkU8WgB2sxkUM7wdn) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Vide sans toi](https://open.spotify.com/album/5PZJTl6yZJHQBNfkWSKKGd) | 2:07 |
+| 223 | [Desire](https://open.spotify.com/track/6ZWSNL3mdxhmbLh3KSYdqU) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Desire](https://open.spotify.com/album/5X7MlwenEeNdxXAbg1gdMO) | 2:08 |
 
-Snapshot ID: `Z7Wa1QAAAADA0y7ryJhPt/71tieHmf6p`
+Snapshot ID: `Z7w1LgAAAAA0GOcImg/HaMaIodXvA8fN`

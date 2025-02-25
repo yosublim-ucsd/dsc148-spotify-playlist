@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Ebubé
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,955 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,969 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Holy Water](https://open.spotify.com/track/56PU1KnAuBtvQT8p2eEnWy) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Holy Water](https://open.spotify.com/album/64xCSCpjnLvJYxrkUXziRW) | 3:01 |
 | 100 | [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 |
 
-Snapshot ID: `Z7UfGQAAAAD7KZIdpRX2Gljb2tQjWfa3`
+Snapshot ID: `Z7UfGQAAAAC5x/tlrmQizyd5qV+vrh6M`

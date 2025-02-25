@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 7925,
+  "num_followers": 7943,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "C14TORCE II",
-        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 196363,
-      "name": "C14TORCE II",
-      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+        "name": "C14TORCE II",
+        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
+      "duration_ms": 196363,
+      "name": "C14TORCE II",
+      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1351,22 +1351,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Cama Vacia",
-        "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
       },
       "artists": [
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         },
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "BAXIAN",
+          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
         }
       ],
-      "duration_ms": 172680,
-      "name": "Cama Vacia",
-      "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
+      "duration_ms": 162869,
+      "name": "Yin Yang",
+      "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1395,30 +1403,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
+        "name": "Cama Vacia",
+        "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         },
         {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
-        },
-        {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
-        },
-        {
-          "name": "BAXIAN",
-          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 162869,
-      "name": "Yin Yang",
-      "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
+      "duration_ms": 172680,
+      "name": "Cama Vacia",
+      "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
     },
     {
       "added_at": "2024-07-26 04:59:00",

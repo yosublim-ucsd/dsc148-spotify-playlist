@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Its time to relish the Best Themes of Kollywood!\nCover : Jailer",
+  "description": "Its time to relish the best themes of Kollywood!\nCover : Jailer",
   "name": "Kollywood Themes",
   "tracks": [
     {
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 53869,
       "name": "Pilot Officer Nedumaran - Background Score",
       "url": "https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 96938,
       "name": "Shield Fight - Background Score",
       "url": "https://open.spotify.com/track/48pWf7gVrD3ftzkyzUJqVu"
@@ -3600,7 +3600,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 92250,
       "name": "Veera Dheera Theme - From \"Veera Dheera Sooran\"",
       "url": "https://open.spotify.com/track/6vf6elFw4xCnGrNpS30ztJ"
@@ -3862,6 +3862,24 @@
       "duration_ms": 91285,
       "name": "Whistle Theme (From \"Valimai\")",
       "url": "https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm"
+    },
+    {
+      "album": {
+        "name": "X Force (Teaser Theme) [From \"Mr.X\"]",
+        "url": "https://open.spotify.com/album/0TbZOHTjeVGjsAYYxAFAFU"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112285,
+      "name": "X Force (Teaser Theme) [From \"Mr.X\"]",
+      "url": "https://open.spotify.com/track/1iaKOrlESoLCja0v2HeqMH"
     },
     {
       "album": {

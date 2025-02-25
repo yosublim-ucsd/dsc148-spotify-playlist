@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,989 likes - 103 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,017 likes - 103 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 102 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3ajpzObwM2gdcSsa5hPfIQ) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Llueve Sobre La Ciudad](https://open.spotify.com/album/64qcPXeQX1UGtvqdtsRgvG) | 2:51 |
 | 103 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 |
 
-Snapshot ID: `Z7jZQwAAAACcWDb7v5q1YB7/k1rs1GFw`
+Snapshot ID: `Z7jZQwAAAAC3IgVyjphOhJ5UQ/5MeRQQ`

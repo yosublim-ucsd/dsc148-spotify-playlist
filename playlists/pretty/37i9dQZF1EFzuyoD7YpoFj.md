@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 406 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 406 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,8 +222,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 212 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
 | 213 | [All The Time And Everywhere](https://open.spotify.com/track/7MA5JZ041w1UzhPO6lqf9W) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [This Is Dickie Valentine](https://open.spotify.com/album/5xu3KJ20I7S8uWn6vD4mdH) | 3:07 |
 | 214 | [Little One](https://open.spotify.com/track/2oUFrWYfTsAXWuwj5xIbRd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [BD Music Presents Louis Armstrong](https://open.spotify.com/album/4jGrxHkL35fItwjJskNw3p) | 2:31 |
-| 215 | [I've a Shooting Box in Scotland](https://open.spotify.com/track/6XJqexx95u0u8mdu60DGAK) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete London Sessions](https://open.spotify.com/album/4XUw4vYdv0WK92ukrR2KaV) | 3:26 |
-| 216 | [Use Your Imagination](https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:02 |
+| 215 | [Use Your Imagination](https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:02 |
+| 216 | [I've a Shooting Box in Scotland](https://open.spotify.com/track/6XJqexx95u0u8mdu60DGAK) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete London Sessions](https://open.spotify.com/album/4XUw4vYdv0WK92ukrR2KaV) | 3:26 |
 | 217 | [I'm a Gigolo \(2023 Remastered\)](https://open.spotify.com/track/50keLfAcioOZyCdKvRMU6x) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 2:26 |
 | 218 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 219 | [High Society](https://open.spotify.com/track/6LDnETyFx7w7h3ju7Co3pE) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/4Ayz7LNkwTxzJsd2mfWmrQ) | 3:26 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 406 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbqZHgAAAADCCPWHawwCal8HUJ1VHoQH`
+Snapshot ID: `AbqevgAAAAAjzCf+nd/TmZ5jfzFm+weg`

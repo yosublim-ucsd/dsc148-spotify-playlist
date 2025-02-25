@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2"
+      },
+      "artists": [
+        {
+          "name": "Malik Ramirez",
+          "url": "https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134816,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD"
+    },
+    {
+      "album": {
         "name": "Deep Forest",
         "url": "https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi"
       },
@@ -2853,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "More Human",
+        "url": "https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "More Human",
+      "url": "https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg"
+    },
+    {
+      "album": {
         "name": "Morning Sunshine",
         "url": "https://open.spotify.com/album/0JFar9Iob4H6VNpItVj5oS"
       },
@@ -4348,6 +4384,24 @@
       "duration_ms": 147096,
       "name": "The Dust Settles",
       "url": "https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C"
+    },
+    {
+      "album": {
+        "name": "The Future Awaits",
+        "url": "https://open.spotify.com/album/61oaJQN7f1Cgo30GjmctBG"
+      },
+      "artists": [
+        {
+          "name": "Gian Moran",
+          "url": "https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165681,
+      "name": "The Future Awaits",
+      "url": "https://open.spotify.com/track/1iPleApKYAInftNLAwHcnH"
     },
     {
       "album": {

@@ -914,7 +914,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 190754,
       "name": "365",
       "url": "https://open.spotify.com/track/6JeaCDobtHOuN3ybGmErK2"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 173519,
       "name": "Again",
       "url": "https://open.spotify.com/track/2A3ijYyP7ykPxW4VB6maMO"
@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Apparition",
+        "url": "https://open.spotify.com/album/100ZK9zkk0xyExevailjAh"
+      },
+      "artists": [
+        {
+          "name": "Shana Sarett",
+          "url": "https://open.spotify.com/artist/072Xz51SAdNqkPj6PhGsTo"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/7FnzUEFJ3LQLCusjvJaRgC"
+    },
+    {
+      "album": {
         "name": "Apple Tree Blues",
         "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
       },
@@ -7286,7 +7304,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 244991,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/0ISzaBWrBb1vxHs5tLEq1I"
@@ -8564,7 +8582,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 155874,
       "name": "big screen",
       "url": "https://open.spotify.com/track/2rlojI1c4BsoLMb8s5wux8"
@@ -11767,6 +11785,24 @@
     },
     {
       "album": {
+        "name": "Young Buds, Old Roses",
+        "url": "https://open.spotify.com/album/4p1NsTHXmc8yg3LX7kv92a"
+      },
+      "artists": [
+        {
+          "name": "Victoria Sorensen",
+          "url": "https://open.spotify.com/artist/1ezhiaH3xp6eMO7L7HO4bh"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/03bm2Pb3iYhmvcFqSzYlOF"
+    },
+    {
+      "album": {
         "name": "Call Me (Jam Version)",
         "url": "https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk"
       },
@@ -13616,7 +13652,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 255640,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/3ljY4RmwBAfI9N8jqa9PtS"
@@ -14300,7 +14336,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 160052,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1tT9mKlAeFKuqV1dn7ys58"
@@ -15478,7 +15514,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 141913,
       "name": "Como Me Miras",
       "url": "https://open.spotify.com/track/7oEDum0lUKmTRcFVBrJ5O2"
@@ -21122,7 +21158,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 170688,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5ehVayNx1GIjFc4pqpAunq"
@@ -22228,7 +22264,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 220000,
       "name": "Ego Queen",
       "url": "https://open.spotify.com/track/7kUNRP28Rj4tMjvh18SPpJ"
@@ -23108,7 +23144,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 224119,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/3w7rkzZ01OHhnpvu7Gt36Q"
@@ -23370,7 +23406,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 235411,
       "name": "Everything & Anything",
       "url": "https://open.spotify.com/track/7j2b4WzBi7PHvk8VBABHz5"
@@ -27220,7 +27256,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 204013,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/0Koi6hpQ175aJ14YS77MQG"
@@ -29438,7 +29474,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 230000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/23hzbONN3mM6QPPOwyB1V6"
@@ -31044,7 +31080,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 196000,
       "name": "Groove Blvd - Radio Edit",
       "url": "https://open.spotify.com/track/3WhYL8da4uS8VRs4pniSSa"
@@ -32264,7 +32300,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 321271,
       "name": "Heaven's Heat",
       "url": "https://open.spotify.com/track/1b9vt2LjG7d8AhTQXTmJL8"
@@ -40900,7 +40936,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 239629,
       "name": "L'HYMME NATIONAL #2",
       "url": "https://open.spotify.com/track/6sQtn1uf82cvY4HmauofVk"
@@ -46166,7 +46202,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 136013,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3L3gg3VSHT1iiFQvf8xjp3"
@@ -49917,6 +49953,24 @@
     },
     {
       "album": {
+        "name": "Cornbread and Whiskey",
+        "url": "https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mehler",
+          "url": "https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "Moses Brown - (Album Version)",
+      "url": "https://open.spotify.com/track/6FNhIuNmWRkgWTy8BfJxWe"
+    },
+    {
+      "album": {
         "name": "MOTA",
         "url": "https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX"
       },
@@ -52152,7 +52206,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 385619,
       "name": "Next Year (Alive) - Full Band",
       "url": "https://open.spotify.com/track/4kD0qcwf9enAWnWAUGGP7m"
@@ -53472,6 +53526,24 @@
       "duration_ms": 187343,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2UjKRb9U9dmLCOd5d8kDah"
+    },
+    {
+      "album": {
+        "name": "Not There",
+        "url": "https://open.spotify.com/album/3TJ6ctXDj3nsGFuQkbVqiw"
+      },
+      "artists": [
+        {
+          "name": "Panhead",
+          "url": "https://open.spotify.com/artist/4cdtJV3OYyqCNN5stTs1lV"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176535,
+      "name": "Not There",
+      "url": "https://open.spotify.com/track/5XHuOoh9f0gltvOqSh0aiX"
     },
     {
       "album": {
@@ -60816,7 +60888,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 189629,
       "name": "Real Ones",
       "url": "https://open.spotify.com/track/3wEnXxQsXnKp1yU28M7nUU"
@@ -64536,7 +64608,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 262650,
       "name": "Second Hand Smoke",
       "url": "https://open.spotify.com/track/3muPmDFgIsmbu2YJX0FoQo"
@@ -68036,7 +68108,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 195859,
       "name": "Sonic Intelligence",
       "url": "https://open.spotify.com/track/5MEnnvpV0zklDbW7ehvN80"
@@ -74295,6 +74367,24 @@
     },
     {
       "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/5OYCtn1kRULdoQUNww8DnM"
+      },
+      "artists": [
+        {
+          "name": "Focus Your Audio",
+          "url": "https://open.spotify.com/artist/6w3jlOmjXGUk2GgNUYW5By"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171352,
+      "name": "The Long Goodbye",
+      "url": "https://open.spotify.com/track/6abVxlgspK7F8JKp1isuzB"
+    },
+    {
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn"
       },
@@ -75764,7 +75854,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 173990,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"
@@ -83220,7 +83310,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 204750,
       "name": "white boy i sat next to on the plane",
       "url": "https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy"

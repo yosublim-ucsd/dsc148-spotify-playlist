@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Cdubz
 
-3,030 songs - 6 day 23 hr 27 min
+3,031 songs - 6 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3013,6 +3013,7 @@
 | [You Know That I'm Around](https://open.spotify.com/track/0yMe0g5uPUrzBhGIEg3x5O) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [A Good Friend](https://open.spotify.com/album/5Xh5pjZ8xqmzKBCgEvsWYF) | 2:49 | 2023-05-17 | 2023-06-15 |
 | [You Know That I've Stayed](https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver](https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65) | 2:37 | 2023-08-23 | 2023-09-21 |
 | [You Mystery](https://open.spotify.com/track/1esiDQEngT2DLHCoLpk56f) | [Dog Door](https://open.spotify.com/artist/0HFSEAMwDryJdG23Pg28xt) | [You Mystery](https://open.spotify.com/album/05qYRLzx3g18ikJyCkE66b) | 5:22 | 2023-09-06 | 2023-10-19 |
+| [you should know](https://open.spotify.com/track/4jzkVFdiad9dl2x7HxNQCI) | [Norah Meischoto](https://open.spotify.com/artist/3pDfj0kvP95Hr4uieDOD1z) | [you should know](https://open.spotify.com/album/1qJN5Jsht8RbR2qPCVIhNR) | 3:32 | 2025-02-24 |  |
 | [You Still Send Me Beats Though](https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [MUD](https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui) | 3:32 | 2022-10-24 | 2022-12-01 |
 | [You Want Everyone To Love You](https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i’ve lived](https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM) | 4:04 | 2021-10-06 | 2022-01-13 |
 | [You Won The Man](https://open.spotify.com/track/3zk3q4x58iQlAz6ZzyP26v) | [Teri Gender Bender](https://open.spotify.com/artist/1gCFXILfdAiZcFAwGsfj9Z) | [You Won The Man](https://open.spotify.com/album/1iLQ31fklrbw33E5jJ2hfE) | 1:58 | 2023-08-30 | 2023-10-12 |

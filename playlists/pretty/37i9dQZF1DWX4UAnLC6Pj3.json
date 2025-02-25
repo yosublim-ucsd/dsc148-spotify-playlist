@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva en portada.",
-  "num_followers": 1254592,
+  "num_followers": 1254832,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "La Pelinegra",
         "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Pasa Tips",
+        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Pasa Tips",
+      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 185973,
       "name": "La Supuesta Cita",
       "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Pasa Tips",
-        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Pasa Tips",
-      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Zona De Amigos",
-        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "Zona De Amigos",
-      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco - En Vivo",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Zona De Amigos",
+        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "Zona De Amigos",
+      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Amor Bonito",
+        "url": "https://open.spotify.com/album/0xjGi60nUqjScTmuhGM31H"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/1kwwncWogyLzeZMQahQqwC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "La Humilde Opinion",
         "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 163016,
       "name": "La Humilde Opinion",
       "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Amor Bonito",
-        "url": "https://open.spotify.com/album/0xjGi60nUqjScTmuhGM31H"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 171124,
-      "name": "Amor Bonito",
-      "url": "https://open.spotify.com/track/1kwwncWogyLzeZMQahQqwC"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Con Banda",
-        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 128531,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Soltero Para Rato",
         "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 189506,
       "name": "Soltero Para Rato",
       "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 128531,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Ojitos Caf\u00e9s",
-        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
-      },
-      "artists": [
-        {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190981,
-      "name": "Ojitos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Con Banda",
-        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Hace un A\u00f1o",
-      "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "24/7 Dolido",
         "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
@@ -2099,6 +2083,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "Hace un A\u00f1o",
+      "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2115,22 +2115,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Calmadito",
-        "url": "https://open.spotify.com/album/400JAg7PWNtVeOGeBmprln"
+        "name": "Pude",
+        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Calmadito",
-      "url": "https://open.spotify.com/track/0abfAkrsQE4alD6cJpT161"
+      "duration_ms": 210413,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2151,18 +2147,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Pude",
-        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
+        "name": "Calmadito",
+        "url": "https://open.spotify.com/album/400JAg7PWNtVeOGeBmprln"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
+      "duration_ms": 174375,
+      "name": "Calmadito",
+      "url": "https://open.spotify.com/track/0abfAkrsQE4alD6cJpT161"
     },
     {
       "added_at": "2025-01-31 06:00:25",

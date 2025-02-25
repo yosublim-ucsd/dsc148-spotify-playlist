@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 229485,
+  "num_followers": 229581,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "No Pares",
-      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 208927,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
         }
       ],
-      "duration_ms": 216013,
-      "name": "El Baile del Sacadito",
-      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+      "duration_ms": 159213,
+      "name": "Tamarindo",
+      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Tamarindo",
-      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Zapateado Endemoniado",
         "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 168600,
       "name": "Orde\u00f1ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
         "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 147880,
       "name": "El Palomito - Son",
       "url": "https://open.spotify.com/track/0z7t1dVYkRoiXTX62TFZ7D"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
       "artists": [
         {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
         }
       ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Borracho 16 Exitos",
-        "url": "https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Escamilla",
-          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "El Capiro",
-      "url": "https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "el taca taca ta (remix)",
         "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 242112,
       "name": "el taca taca ta - remix",
       "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Borracho 16 Exitos",
+        "url": "https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "El Capiro",
+      "url": "https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd"
     },
     {
       "added_at": "2024-08-28 01:03:24",

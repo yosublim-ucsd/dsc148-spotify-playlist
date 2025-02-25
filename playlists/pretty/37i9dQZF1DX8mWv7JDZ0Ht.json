@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
-  "num_followers": 437934,
+  "num_followers": 437945,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-02-21 13:37:09",
       "album": {
+        "name": "Croch\u00ea",
+        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 217100,
+      "name": "Croch\u00ea",
+      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
+    },
+    {
+      "added_at": "2025-02-21 13:37:09",
+      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 182711,
       "name": "Deixa Eu Gostar de Voc\u00ea",
       "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
-    },
-    {
-      "added_at": "2025-02-21 13:37:09",
-      "album": {
-        "name": "Croch\u00ea",
-        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 217100,
-      "name": "Croch\u00ea",
-      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-02-21 13:37:09",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2025-02-21 13:37:09",
-      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 215943,
       "name": "Caso eu Case",
       "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+    },
+    {
+      "added_at": "2025-02-21 13:37:09",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-02-21 13:37:09",
       "album": {
-        "name": "NEM SE O MUNDO ACABAR",
-        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
+        "name": "VASO ALQU\u00cdMICO",
+        "url": "https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC"
       },
       "artists": [
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "B\u00e1rbara Grando",
+          "url": "https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F"
         }
       ],
-      "duration_ms": 152450,
-      "name": "NEM SE O MUNDO ACABAR",
-      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
+      "duration_ms": 185648,
+      "name": "A LUZ NO FIM DO T\u00daNEL",
+      "url": "https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-02-21 13:37:09",
       "album": {
-        "name": "VASO ALQU\u00cdMICO",
-        "url": "https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC"
+        "name": "NEM SE O MUNDO ACABAR",
+        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Grando",
-          "url": "https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F"
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
         }
       ],
-      "duration_ms": 185648,
-      "name": "A LUZ NO FIM DO T\u00daNEL",
-      "url": "https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA"
+      "duration_ms": 152450,
+      "name": "NEM SE O MUNDO ACABAR",
+      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-02-21 13:37:09",
       "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
-    },
-    {
-      "added_at": "2025-02-21 13:37:09",
-      "album": {
         "name": "Minhas Loucuras",
         "url": "https://open.spotify.com/album/4n8cAqvHAzlUn8fZUhBlCz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 216847,
       "name": "Minhas Loucuras",
       "url": "https://open.spotify.com/track/09oP78inNDgcEZYa10ocjf"
+    },
+    {
+      "added_at": "2025-02-21 13:37:09",
+      "album": {
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -1211,6 +1211,22 @@
       "duration_ms": 250800,
       "name": "domingo",
       "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
+    },
+    {
+      "added_at": "2025-02-21 13:37:09",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-02-21 13:37:09",
@@ -1307,22 +1323,6 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
-    },
-    {
-      "added_at": "2025-02-21 13:37:09",
-      "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-02-21 13:37:09",

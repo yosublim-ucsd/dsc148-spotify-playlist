@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,168 songs - 6 day 23 hr 0 min
+3,169 songs - 6 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1883,6 +1883,7 @@
 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 | 2022-10-04 | 2023-01-09 |
 | [Médio Versalico](https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Médio Versalico](https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7) | 1:43 | 2025-01-05 |  |
 | [Mó Marrinha de Metedor](https://open.spotify.com/track/49l84KRC5Vn8sGR7KbGdRa) | [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5), [DJ PH CALVIN](https://open.spotify.com/artist/5XsR3Q4rL1RuCSD2Cqsbms), [DJ SORRISO BXD](https://open.spotify.com/artist/5pZLz2te5HM32Et3VHDYDd) | [Mó Marrinha de Metedor](https://open.spotify.com/album/2NnZfOMtjDxp9s5UVZxdtK) | 2:24 | 2023-02-17 | 2023-03-15 |
+| [Música em Diversão](https://open.spotify.com/track/7whyNvE57iC72fsLoM3lPL) | [NÍCOLAS NETTO](https://open.spotify.com/artist/7gNJIqvdMF9WQawJMCfBl4), [CAIO CATTO E NATAN NATTO](https://open.spotify.com/artist/48AYkTtnvzYRDXLbUtcown) | [Música em Diversão](https://open.spotify.com/album/4M2PiD8XBzefdqnwm8t3UY) | 3:02 | 2025-02-24 |  |
 | [Músicas de amor nunca mais](https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:22 | 2022-12-13 | 2023-04-17 |
 | [n me pergunta oq eu não sei](https://open.spotify.com/track/4FGQV3ydL4S7K5Bn94sS6f) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe) | [n me pergunta oq eu não sei](https://open.spotify.com/album/5K81ppa8kBMGhkYWcr9wcP) | 2:39 | 2024-04-29 | 2024-05-20 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-30 | 2024-02-07 |
@@ -2220,7 +2221,7 @@
 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-08-14 | 2023-11-22 |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2024-06-01 | 2024-06-07 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2024-06-29 | 2024-07-17 |
-| [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-02-07 |  |
+| [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-02-07 | 2025-02-25 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-09-14 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-28 |
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-06-14 | 2022-09-09 |

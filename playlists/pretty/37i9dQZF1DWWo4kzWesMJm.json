@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 167663,
+  "num_followers": 167693,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-02-21 16:21:42",
       "album": {
-        "name": "Louane",
-        "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "On \u00e9tait beau",
-      "url": "https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O"
-    },
-    {
-      "added_at": "2025-02-21 16:21:42",
-      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 239573,
       "name": "A la Folie",
       "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
+    },
+    {
+      "added_at": "2025-02-21 16:21:42",
+      "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "On \u00e9tait beau",
+      "url": "https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O"
     },
     {
       "added_at": "2025-02-21 16:21:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-02-21 16:21:42",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2025-02-21 16:21:42",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2025-02-21 16:21:42",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2025-02-21 16:21:42",
@@ -991,18 +991,22 @@
     {
       "added_at": "2025-02-21 16:21:42",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+        "name": "La R\u00e9alit\u00e9",
+        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
       },
       "artists": [
         {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        },
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Les voisines",
-      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+      "duration_ms": 232440,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
     }
   ],
   "unique_name": "Bleu Blanc Route",

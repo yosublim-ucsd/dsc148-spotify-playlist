@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  ",
-  "num_followers": 74363,
+  "num_followers": 74376,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Humera Channa",
+          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352048,
+      "name": "Mujh Se Pehli Si Muhabbat",
+      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
+    },
+    {
+      "added_at": "2025-02-21 08:56:27",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 263111,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo"
-    },
-    {
-      "added_at": "2025-02-21 08:56:27",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
-      },
-      "artists": [
-        {
-          "name": "Humera Channa",
-          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352048,
-      "name": "Mujh Se Pehli Si Muhabbat",
-      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
     },
     {
       "added_at": "2025-02-21 08:56:27",

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc :  \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 31487,
+  "num_followers": 31494,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -883,8 +883,8 @@
     {
       "added_at": "2025-02-20 22:00:17",
       "album": {
-        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
+        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
       },
       "artists": [
         {
@@ -892,13 +892,21 @@
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         },
         {
-          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
-          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
+          "name": "Eder 2 Lipschitz",
+          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
+        },
+        {
+          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
+          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
+        },
+        {
+          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
+          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
         }
       ],
-      "duration_ms": 159665,
-      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
+      "duration_ms": 190259,
+      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
     },
     {
       "added_at": "2025-02-20 22:00:17",
@@ -919,26 +927,6 @@
       "duration_ms": 179779,
       "name": "AYAYAY (feat. Dillom)",
       "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
-    },
-    {
-      "added_at": "2025-02-20 22:00:17",
-      "album": {
-        "name": "Down for a Moment",
-        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
-      },
-      "artists": [
-        {
-          "name": "Jimit",
-          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
-        },
-        {
-          "name": "Shelly Archer",
-          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
-        }
-      ],
-      "duration_ms": 199875,
-      "name": "Down for a Moment",
-      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
     },
     {
       "added_at": "2025-02-20 22:00:17",
@@ -1007,6 +995,26 @@
     {
       "added_at": "2025-02-20 22:00:17",
       "album": {
+        "name": "Down for a Moment",
+        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+      },
+      "artists": [
+        {
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Shelly Archer",
+          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Down for a Moment",
+      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+    },
+    {
+      "added_at": "2025-02-20 22:00:17",
+      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
         "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
@@ -1023,8 +1031,8 @@
     {
       "added_at": "2025-02-20 22:00:17",
       "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
+        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
       "artists": [
         {
@@ -1032,21 +1040,13 @@
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         },
         {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
+          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
+          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
         }
       ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+      "duration_ms": 159665,
+      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
     },
     {
       "added_at": "2025-02-20 22:00:17",

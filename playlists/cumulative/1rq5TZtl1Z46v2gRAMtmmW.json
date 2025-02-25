@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "Air Tight (Regularfantasy Remix)",
+        "url": "https://open.spotify.com/album/6rqllCarzyfWfaB8XIbwiD"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "Regularfantasy",
+          "url": "https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318502,
+      "name": "Air Tight - Regularfantasy Remix",
+      "url": "https://open.spotify.com/track/7j9QRoabowW6mPfYl8xLIs"
+    },
+    {
+      "album": {
         "name": "Akousmatikous / Propaganda",
         "url": "https://open.spotify.com/album/5GTtlZdaIA94Zz95m1pl7w"
       },
@@ -2665,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Sad Girl (Remixes)",
+        "url": "https://open.spotify.com/album/47hbJg1eOZejMNF5jcJqsP"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326256,
+      "name": "Girls - Acid Version",
+      "url": "https://open.spotify.com/track/1kxXGSK3hMDIXIm15IilG9"
+    },
+    {
+      "album": {
         "name": "Azaleas (Alan Dixon Remix) / Girls (Acid Version)",
         "url": "https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX"
       },
@@ -2862,7 +2910,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 193488,
       "name": "Green - St. David Remix",
       "url": "https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20"
@@ -4320,7 +4368,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 243505,
       "name": "Make Me - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/01nJMJaJ6N6FrVjnsGtz52"

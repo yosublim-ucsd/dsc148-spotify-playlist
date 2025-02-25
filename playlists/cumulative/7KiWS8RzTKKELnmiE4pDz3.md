@@ -4,7 +4,7 @@
 
 > 
 
-889 songs - 1 day 19 hr 2 min
+891 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-27 | 2024-03-05 |
 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-05-07 | 2024-11-06 |
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
+| [First Day](https://open.spotify.com/track/7ktGuYZdRDkvLm7cdUgPK0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [First Day](https://open.spotify.com/album/6iYoXZIicLwoBEl4EGTTAX) | 3:06 | 2025-02-24 |  |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 | 2023-05-09 |
 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 | 2023-12-14 |
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-06-30 | 2024-03-05 |
@@ -897,5 +898,6 @@
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-12-25 | 2023-05-09 |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
 | [Zaza \(feat\. Future\)](https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:41 | 2023-12-27 | 2024-03-05 |
+| [Zodiac](https://open.spotify.com/track/0jue0zxb5P4u3k55sFiuBK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Zodiac](https://open.spotify.com/album/7fK0Qd0BFVuJx1OQ1UIM2k) | 2:51 | 2025-02-24 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

@@ -7012,7 +7012,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 167647,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe"
@@ -15280,6 +15280,24 @@
       "duration_ms": 227065,
       "name": "Kebyar Kebyar",
       "url": "https://open.spotify.com/track/1ZvNAOQk9uvqNDaSmWVJX0"
+    },
+    {
+      "album": {
+        "name": "Keep Me Warm",
+        "url": "https://open.spotify.com/album/0LaxlkLAeBkWfdD4Pshj34"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218103,
+      "name": "Keep Me Warm",
+      "url": "https://open.spotify.com/track/2pLo1jJFDkwnfm6bYVg3eS"
     },
     {
       "album": {

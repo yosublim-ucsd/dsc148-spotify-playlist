@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Feb 19:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Feb 23:03 UTC.
 
-4,227 songs - 9 day 18 hr 39 min
+4,230 songs - 9 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,7 +781,7 @@
 | [Computer Time](https://open.spotify.com/track/357XKC9wDI4dITVebzphG1) | [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6) | [Computer Time](https://open.spotify.com/album/0nLXlrwkdXDjAa7975q2Tz) | 3:25 | 2024-12-04 | 2024-12-07 |
 | [Concrete Sally](https://open.spotify.com/track/0Eisvo4y6mS9jQo5O15taK) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO), [ZYA](https://open.spotify.com/artist/47jxHbc1ZT6mCQ2c5N7DYm) | [Concrete Sally](https://open.spotify.com/album/21udN4AGQ8l3HXPgpIiXeE) | 2:19 | 2024-05-28 | 2024-06-01 |
 | [Conditional Love](https://open.spotify.com/track/7eXxyueEyAfaZI4Dkj0S16) | [Liela Moss](https://open.spotify.com/artist/69yCD4Jh0p9vCdm6WbhWx6) | [Conditional Love](https://open.spotify.com/album/5UwkonJSnqsKj1TvgJqrJf) | 3:36 | 2024-06-18 | 2024-06-20 |
-| [Condom](https://open.spotify.com/track/308gQPBA3sJO8R7uVhH09P) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Condom](https://open.spotify.com/album/0w566e4MSB3HIsYKgPLMjG) | 2:09 | 2025-02-15 |  |
+| [Condom](https://open.spotify.com/track/308gQPBA3sJO8R7uVhH09P) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Condom](https://open.spotify.com/album/0w566e4MSB3HIsYKgPLMjG) | 2:09 | 2025-02-15 | 2025-02-25 |
 | [Confession](https://open.spotify.com/track/0jDgi8JLdQdyO18wXaMSSv) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Confession](https://open.spotify.com/album/6YK8axuJDVV1RkMrZtUurS) | 3:23 | 2024-10-17 | 2024-10-19 |
 | [Confessions of a Rotten Girl](https://open.spotify.com/track/1YQkiuVMY3grrEXBdg2hIe) | [SAWTOWNE](https://open.spotify.com/artist/7FrCrchJaoLmKcn3jcGWoX) | [Confessions of a Rotten Girl](https://open.spotify.com/album/7wedjLO2LvBYdIlJIy5id5) | 3:26 | 2025-01-19 | 2025-01-29 |
 | [Confundido](https://open.spotify.com/track/74M97CRLxldQv4YUfdHRWB) | [Auggie Velarde](https://open.spotify.com/artist/7eG7fQzZwW0SbQDuz9N5Qy) | [Confundido](https://open.spotify.com/album/3rmoxcz4wE5JTULaYbsnF6) | 2:32 | 2024-10-22 | 2024-10-25 |
@@ -1178,6 +1178,7 @@
 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-03 | 2025-01-17 |
 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 | 2024-06-04 | 2024-06-06 |
 | [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-04-30 | 2024-05-03 |
+| [Everything Ends](https://open.spotify.com/track/2x6R10R0MJ5BeDdqpkpaHC) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Everything Ends](https://open.spotify.com/album/5rKIP27uR8W0jMJgJNqZ6c) | 3:40 | 2025-02-24 |  |
 | [Everything Is Easy!](https://open.spotify.com/track/5tL5javUqNNSyDXQXEq2ci) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [Everything Is Easy!](https://open.spotify.com/album/286Bk3e32QYeR5rR0jJi6M) | 5:09 | 2024-09-25 | 2024-09-28 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-14 |  |
 | [Evicted](https://open.spotify.com/track/1KH6zXHtYD11M8Z8IjWtKI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Evicted](https://open.spotify.com/album/5fqAkLaqPzNLfW9TFs18qO) | 2:41 | 2024-10-17 | 2024-10-19 |
@@ -1643,7 +1644,7 @@
 | [Hide My Tears](https://open.spotify.com/track/73igXhqpASagy497igCPII) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hide My Tears](https://open.spotify.com/album/4ThDY4QX48LKSEGNyRko9c) | 2:38 | 2024-09-20 | 2024-09-25 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-09 | 2024-07-11 |
 | [Hiding in Plain Sight](https://open.spotify.com/track/5QGR8GjIITeiMgb3SDKETW) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Hiding in Plain Sight](https://open.spotify.com/album/3lOHOEQD1CtNGm01hugPLc) | 3:34 | 2024-10-25 | 2024-10-30 |
-| [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-14 |  |
+| [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-14 | 2025-02-25 |
 | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A) | 3:52 | 2024-08-02 | 2024-08-06 |
 | [HIGH RISE](https://open.spotify.com/track/5zsuDllo1MhhH56DlvS0XC) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [HIGH RISE](https://open.spotify.com/album/6B3eUKgLAZYwPw5msRMcaO) | 2:13 | 2024-09-27 | 2024-10-01 |
 | [High Road](https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [High Road](https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly) | 4:19 | 2024-09-20 | 2024-09-25 |
@@ -2954,7 +2955,7 @@
 | [Relay](https://open.spotify.com/track/0ljPTtEY5jTIZ9g7FwJQpQ) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Relay](https://open.spotify.com/album/7JncfaUqSBjKb7c15yy37J) | 2:24 | 2024-10-28 | 2024-10-31 |
 | [REMAINS](https://open.spotify.com/track/4BPPPRElbcsEcTYV1gBDCk) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [REMAINS](https://open.spotify.com/album/2HrHvcarrmgckZ8rs1pxLI) | 2:27 | 2024-06-21 | 2024-06-25 |
 | [Remember](https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Remember](https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l) | 2:44 | 2024-08-16 | 2024-08-22 |
-| [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 | 2025-02-14 |  |
+| [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 | 2025-02-14 | 2025-02-25 |
 | [Renaissance](https://open.spotify.com/track/4QiSg946Nqt4J745prLpz4) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Renaissance](https://open.spotify.com/album/3OET72XzRHo2zYl7off9cG) | 2:37 | 2024-10-17 | 2024-10-19 |
 | [Renegade](https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Renegade](https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw) | 5:11 | 2024-11-04 | 2024-11-08 |
 | [Renewed Ambition](https://open.spotify.com/track/5OCi3SVnYBSL0PXJYxp4tD) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Renewed Ambition](https://open.spotify.com/album/4B7F1oq6CyZijzxd7NaOW8) | 2:53 | 2024-11-01 | 2024-11-08 |
@@ -3105,6 +3106,7 @@
 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-26 | 2024-06-28 |
 | [SEANCE](https://open.spotify.com/track/2mXIcrTmKqYtiD341iyUsK) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [SEANCE](https://open.spotify.com/album/3onwUtsY4wwesn52pdDzbx) | 2:32 | 2024-12-13 | 2024-12-20 |
 | [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-14 | 2024-09-18 |
+| [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 | 2025-02-24 |  |
 | [Season of Memories](https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories \(Special Album\)](https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM) | 3:06 | 2025-01-13 | 2025-01-22 |
 | [Season of the Witch](https://open.spotify.com/track/3fwOTdRiF56yb9c1gY9Su7) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Season of the Witch](https://open.spotify.com/album/3smZjvhu8O1Q2LEof6Vzb0) | 4:40 | 2024-10-01 | 2024-10-04 |
 | [Second Chance](https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Second Chance](https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW) | 3:10 | 2024-07-31 | 2024-08-02 |
@@ -3551,6 +3553,7 @@
 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 | 2024-09-04 | 2024-09-07 |
 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 | 2024-08-17 | 2024-08-20 |
 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 | 2024-05-18 | 2024-05-22 |
+| [That Choice](https://open.spotify.com/track/0ksr2OxjHuuFXFS2pn7lTa) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [That Choice](https://open.spotify.com/album/1UssoQE5t5q1ABnK5fiXfe) | 4:05 | 2025-02-24 |  |
 | [That Guy](https://open.spotify.com/track/5vpIijHSKmN7h07nIuQZN9) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [That Guy](https://open.spotify.com/album/6Z2EHFIAYvaiMcxC3xHyhQ) | 3:02 | 2024-10-29 | 2024-11-01 |
 | [That Was Very Ugly of You, Iri](https://open.spotify.com/track/6Fe6XkbsQfACxdzsqSoLJn) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [irichan!](https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6) | [That Was Very Ugly of You, Iri](https://open.spotify.com/album/3ZNoRxEDDkjsyOhLBh97or) | 2:27 | 2024-07-13 | 2024-07-17 |
 | [that's it](https://open.spotify.com/track/30UYANbzh1shIq8BjrnSlf) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [that's it](https://open.spotify.com/album/7D82Vh8pRfSVIyvHGIxoro) | 2:21 | 2024-09-20 | 2024-09-22 |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 356822,
+  "num_followers": 356870,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-02-19 12:55:35",
       "album": {
+        "name": "Der letzte Tanz",
+        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Der letzte Tanz",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2025-02-19 12:55:35",
+      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2025-02-19 12:55:35",
-      "album": {
-        "name": "Der letzte Tanz",
-        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Der letzte Tanz",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
     },
     {
       "added_at": "2025-02-19 12:55:35",

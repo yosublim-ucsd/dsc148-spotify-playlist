@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "DA9A DA9A",
+        "url": "https://open.spotify.com/album/47ThED88rZpP1XY7eCdaoZ"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175387,
+      "name": "DA9A DA9A",
+      "url": "https://open.spotify.com/track/6WXZkA8ysnSgTIXP4GXbvW"
+    },
+    {
+      "album": {
         "name": "Daba Daba",
         "url": "https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 195870,
       "name": "Ghdaydi",
       "url": "https://open.spotify.com/track/1ltkoXySdo28bXpFfowp9F"

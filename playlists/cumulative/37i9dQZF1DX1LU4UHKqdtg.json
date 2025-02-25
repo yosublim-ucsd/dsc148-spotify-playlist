@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "BLUE PARADISE",
+        "url": "https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182951,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/4O4N89HJWtV1EYc6q0Sxwh"
+    },
+    {
+      "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
       },
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 180360,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/34Bjqa19xQ7w7UJFC0Dsqd"
@@ -5750,7 +5768,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 152137,
       "name": "Doctor! Doctor!",
       "url": "https://open.spotify.com/track/7MJjY4KS5rK4WoZJ9AKkN6"
@@ -9995,6 +10013,24 @@
     },
     {
       "album": {
+        "name": "I DO ME",
+        "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190556,
+      "name": "I DO ME",
+      "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "album": {
         "name": "I do! Do you?",
         "url": "https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl"
       },
@@ -10374,7 +10410,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 183494,
       "name": "Ice On My Teeth",
       "url": "https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm"
@@ -11798,7 +11834,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 172786,
       "name": "Like a Friend",
       "url": "https://open.spotify.com/track/2fuEJNnPaWZrfWavac4V8X"
@@ -12336,7 +12372,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -17368,7 +17404,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 163466,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/1ctHNAVFmDTtge6GpmuBlg"
@@ -21131,6 +21167,24 @@
     },
     {
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/637onaunbESh9eqTqVGMka"
       },
@@ -21952,6 +22006,24 @@
       "duration_ms": 128744,
       "name": "Twenty",
       "url": "https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG"
     },
     {
       "album": {

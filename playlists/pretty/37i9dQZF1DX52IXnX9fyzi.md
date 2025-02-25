@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,659 likes - 234 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,756 likes - 233 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,7 +240,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 230 | [Strands](https://open.spotify.com/track/3eaRXuw8zhx6Bfsgj1feJB) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Strands](https://open.spotify.com/album/2WfL4OdNFiFduHnZNa0xqr) | 2:32 |
 | 231 | [Crimson Reds, Yellow Hue](https://open.spotify.com/track/7qsQ7j3sFIsV5dxbDsrscI) | [Nahuel Bahr](https://open.spotify.com/artist/0aB950Mezo9NcPb1o8KNlM) | [Crimson Reds, Yellow Hue](https://open.spotify.com/album/4LsUKsgXS3PE5y68qFXXDi) | 2:07 |
 | 232 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 |
-| 233 | [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 |
-| 234 | [Ballade](https://open.spotify.com/track/78zPgh3hoMj0RvhQUMl2t4) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Soothing](https://open.spotify.com/album/0HpVnkz47Z30QIE89pHlLY) | 2:58 |
+| 233 | [Ballade](https://open.spotify.com/track/78zPgh3hoMj0RvhQUMl2t4) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Soothing](https://open.spotify.com/album/0HpVnkz47Z30QIE89pHlLY) | 2:58 |
 
-Snapshot ID: `Z7Wd1QAAAABP0nDv3eDOP/AisMbE4oXt`
+Snapshot ID: `Z7w3AQAAAACOuphRjtSnpaBYX+eGGSbR`

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 83027,
+  "num_followers": 83040,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAACFZdAHpu7C8tHDksJ857Lu",
+  "snapshot_id": "Z7plAAAAAADmeTYpaotS3otOiIF382ey",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 229011,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 229011,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Hazme Olvidarlo",
-      "url": "https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Amor y Sentimiento",
         "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 218920,
       "name": "El primero, el \u00fanico, el \u00faltimo",
       "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Hazme Olvidarlo",
+      "url": "https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Amor y Sentimiento",
         "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 262933,
       "name": "Mi nombre",
       "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,

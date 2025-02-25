@@ -4348,7 +4348,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-14",
+      "date_removed": null,
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
@@ -4635,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "hopeless fountain kingdom (Deluxe Plus)",
+        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181279,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 121600,
       "name": "Ballert auf Lautlos",
       "url": "https://open.spotify.com/track/4QveIIDRvuV7aKGOqDAbuP"
@@ -13521,6 +13539,24 @@
     },
     {
       "album": {
+        "name": "eternal",
+        "url": "https://open.spotify.com/album/1XYv9yb1agI5sw2hh91Lb4"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102408,
+      "name": "eternal",
+      "url": "https://open.spotify.com/track/3f2cIOiQOcy5RxAMzl1LR4"
+    },
+    {
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -14487,6 +14523,32 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/7kkyeILHHd6XfHyR3K36yD"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167575,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4scxvvNN8Dhm5y4p54QamD"
+    },
+    {
+      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -14882,7 +14944,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 182960,
       "name": "Filme",
       "url": "https://open.spotify.com/track/2fwj4LVwBYfWpIuy3BeTZu"
@@ -15202,7 +15264,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 200166,
       "name": "Forbidden Voices",
       "url": "https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH"
@@ -18902,7 +18964,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
@@ -21257,6 +21319,28 @@
     },
     {
       "album": {
+        "name": "ich pass auf euch auf",
+        "url": "https://open.spotify.com/album/7rCddfbGDNy2sg4Q8vTllu"
+      },
+      "artists": [
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
+        },
+        {
+          "name": "bella bazz",
+          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139017,
+      "name": "ich pass auf euch auf",
+      "url": "https://open.spotify.com/track/1rQs2voV1aGOY6VXU0NW9A"
+    },
+    {
+      "album": {
         "name": "fuck (ich liebe dich)",
         "url": "https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8"
       },
@@ -23198,6 +23282,32 @@
       "duration_ms": 130666,
       "name": "kaputt",
       "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
+    },
+    {
+      "album": {
+        "name": "KARANLIK",
+        "url": "https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU"
+      },
+      "artists": [
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Jumpa",
+          "url": "https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174678,
+      "name": "KARANLIK",
+      "url": "https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C"
     },
     {
       "album": {
@@ -26504,7 +26614,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -40442,7 +40552,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
@@ -44268,7 +44378,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 209806,
       "name": "und dann bist da du",
       "url": "https://open.spotify.com/track/2aVsbKVZaciFUZ94kvOZPA"
@@ -45974,7 +46084,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

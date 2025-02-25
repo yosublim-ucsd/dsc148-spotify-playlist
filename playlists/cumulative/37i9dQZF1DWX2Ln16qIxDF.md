@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo que más suena, con ustedes..\. Emilia & Gordo.
 
-705 songs - 1 day 11 hr 52 min
+706 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Angelito](https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Angelito](https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o) | 2:10 | 2025-01-17 |  |
 | [Anoche Te Llamé Borracho](https://open.spotify.com/track/5LwCCgRzAkxyTEbb3NyTV0) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Anoche Te Llamé Borracho](https://open.spotify.com/album/0YHyAx4Fh3P6k81WyoLW2b) | 2:25 | 2024-02-16 | 2024-04-19 |
 | [Anochecemos](https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Anochecemos](https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj) | 3:24 | 2023-10-27 | 2024-03-02 |
+| [Antes Que Me Vaya](https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 3:35 | 2025-02-24 |  |
 | [Anti Rana](https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Anti Rana](https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW) | 3:09 | 2023-07-04 | 2023-07-29 |
 | [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-05-24 | 2024-09-21 |
 | [Apareciste tú](https://open.spotify.com/track/0iNu282AmFBbqyUpSf6hq3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Apareciste tú](https://open.spotify.com/album/4GVhID3FBooNA4QbcCSrbw) | 2:21 | 2024-08-23 | 2024-10-19 |

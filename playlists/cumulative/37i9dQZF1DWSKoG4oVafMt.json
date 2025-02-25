@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "BEST FRIEND",
+        "url": "https://open.spotify.com/album/4tiq7OfMzb07iHPMFY9pDt"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Sartaj Virk",
+          "url": "https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191807,
+      "name": "BEST FRIEND",
+      "url": "https://open.spotify.com/track/5l2HX7Ml78KlXqRdJMSv9g"
+    },
+    {
+      "album": {
         "name": "Lekh (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3"
       },
@@ -13196,7 +13218,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 189081,
       "name": "Pagal",
       "url": "https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD"

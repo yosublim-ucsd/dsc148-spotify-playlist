@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u30a4\u30b1\u30e1\u30f3\u5f79\u8005\u80b2\u6210\u30b2\u30fc\u30e0\u300eA3!\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 39727,
+  "num_followers": 39730,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,22 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "Act! Addict! Actors!",
-        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
       "artists": [
         {
-          "name": "A3ders!",
-          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
+          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
+          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
+        },
+        {
+          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Act! Addict! Actors!",
-      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
+      "duration_ms": 241106,
+      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
+      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -667,26 +671,18 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+        "name": "Act! Addict! Actors!",
+        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
       },
       "artists": [
         {
-          "name": "\u30eb\u30ad\u30d5\u30a7\u30eb&\u30de\u30eb\u30af",
-          "url": "https://open.spotify.com/artist/4uH0qemDJMBCm8XBC0h5fq"
-        },
-        {
-          "name": "\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)",
-          "url": "https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt"
-        },
-        {
-          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+          "name": "A3ders!",
+          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
         }
       ],
-      "duration_ms": 220293,
-      "name": "The Contract",
-      "url": "https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI"
+      "duration_ms": 224186,
+      "name": "Act! Addict! Actors!",
+      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -727,6 +723,30 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+      },
+      "artists": [
+        {
+          "name": "\u30eb\u30ad\u30d5\u30a7\u30eb&\u30de\u30eb\u30af",
+          "url": "https://open.spotify.com/artist/4uH0qemDJMBCm8XBC0h5fq"
+        },
+        {
+          "name": "\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)",
+          "url": "https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt"
+        },
+        {
+          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
         "name": "A3! Blooming WINTER EP",
         "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 317440,
       "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
-          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
-        },
-        {
-          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
-      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
     },
     {
       "added_at": "2024-08-27 15:00:00",

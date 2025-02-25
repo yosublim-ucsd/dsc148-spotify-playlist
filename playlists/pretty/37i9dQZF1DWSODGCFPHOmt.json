@@ -303,22 +303,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Amante De Lo Bueno",
-        "url": "https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "Ritmo Navide\u00f1o",
-      "url": "https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Navidad Con DEL",
         "url": "https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd"
       },
@@ -335,18 +319,34 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Por Amor a Morelia Michoac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj"
+        "name": "Amante De Lo Bueno",
+        "url": "https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 256969,
-      "name": "Navidad Sin Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS"
+      "duration_ms": 184573,
+      "name": "Ritmo Navide\u00f1o",
+      "url": "https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/20NYes8NcMzekr9z9AZFZp"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 226475,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/4Dk2BuZpuzIbUQCBKuw884"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/20NYes8NcMzekr9z9AZFZp"
+        "name": "Por Amor a Morelia Michoac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 226475,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/4Dk2BuZpuzIbUQCBKuw884"
+      "duration_ms": 256969,
+      "name": "Navidad Sin Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
         "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196352,
       "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
       "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Posada Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Regalo De Reyes",
-      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Amarga Navidad",
         "url": "https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 186477,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Posada Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Regalo De Reyes",
+      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Una Colecci\u00f3n Inolvidable: Todo en Vivo",
-        "url": "https://open.spotify.com/album/0N0wpn2LvFq06i3JJdKN9p"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores",
-          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "Posadas Mexicanas",
-      "url": "https://open.spotify.com/track/15Q9CzBrm9jHismYFjuVKk"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Cada Diciembre",
         "url": "https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 147657,
       "name": "Cada Diciembre",
       "url": "https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Una Colecci\u00f3n Inolvidable: Todo en Vivo",
+        "url": "https://open.spotify.com/album/0N0wpn2LvFq06i3JJdKN9p"
+      },
+      "artists": [
+        {
+          "name": "Chava Flores",
+          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Posadas Mexicanas",
+      "url": "https://open.spotify.com/track/15Q9CzBrm9jHismYFjuVKk"
     },
     {
       "added_at": "2024-12-10 00:44:14",

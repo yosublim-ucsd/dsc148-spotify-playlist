@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 561 likes - 230 songs - 15 hr 36 min
+[codym2011](https://open.spotify.com/user/codym2011) - 561 likes - 231 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,5 +238,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 228 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 |
 | 229 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |
 | 230 | [Lost in Memories](https://open.spotify.com/track/6ilOsZLOBDSyE0ZlTxefPQ) | [Jerber lazaro](https://open.spotify.com/artist/6EUNb9dAKBWxOU2IqT4pgC), [Alicha](https://open.spotify.com/artist/5kS7uLqih4xWlRzducKKjm), [Illico](https://open.spotify.com/artist/4Qc4xlOszc7E6Gt3jQoy3J) | [Lost in Memories](https://open.spotify.com/album/0UjQRqUzumBwoKIqnlk5aL) | 3:39 |
+| 231 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
 
-Snapshot ID: `AAAA+ONUjEKcK/UfPCV4n4wu5aOibol2`
+Snapshot ID: `AAAA+bvQmeWYesPJRxO/LM0t/Sz1r3Bg`

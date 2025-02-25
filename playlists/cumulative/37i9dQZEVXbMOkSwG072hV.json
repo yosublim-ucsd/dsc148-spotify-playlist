@@ -40539,6 +40539,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica em Divers\u00e3o",
+        "url": "https://open.spotify.com/album/4M2PiD8XBzefdqnwm8t3UY"
+      },
+      "artists": [
+        {
+          "name": "N\u00cdCOLAS NETTO",
+          "url": "https://open.spotify.com/artist/7gNJIqvdMF9WQawJMCfBl4"
+        },
+        {
+          "name": "CAIO CATTO E NATAN NATTO",
+          "url": "https://open.spotify.com/artist/48AYkTtnvzYRDXLbUtcown"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "M\u00fasica em Divers\u00e3o",
+      "url": "https://open.spotify.com/track/7whyNvE57iC72fsLoM3lPL"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -48032,7 +48054,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"

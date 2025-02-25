@@ -1197,6 +1197,32 @@
     },
     {
       "album": {
+        "name": "Music From The Tudorfest: San Francisco Tape Music Center, 1964",
+        "url": "https://open.spotify.com/album/66SBKNCIkO9iU4yvoLyFrZ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "David Tudor",
+          "url": "https://open.spotify.com/artist/1yD5aG8UUxsRwjya7fIa6s"
+        },
+        {
+          "name": "Ahmed",
+          "url": "https://open.spotify.com/artist/3OhAbhdlRQFJUDRQJS9PyQ"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1004840,
+      "name": "Duo for Accordion and Bandoneon with Possible Mynah Bird Obbligato",
+      "url": "https://open.spotify.com/track/3cVkdDS4MI6Yuu8TlbturC"
+    },
+    {
+      "album": {
         "name": "The Space Between with Barre Phillips",
         "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
       },
@@ -2318,7 +2344,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 834120,
       "name": "Mnemonics V",
       "url": "https://open.spotify.com/track/0yVUBI2239QbanjxrATq5q"
@@ -4334,7 +4360,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 1177920,
       "name": "Time Perspectives",
       "url": "https://open.spotify.com/track/2dmBXKZU0ptr1ItsMfQMju"
@@ -4352,7 +4378,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 545000,
       "name": "Traces",
       "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"

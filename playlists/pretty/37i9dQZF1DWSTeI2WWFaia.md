@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Larry June, 2 Chainz & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,505 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,503 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 33 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
 | 34 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 35 | [How to Impress God](https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [How to Impress God](https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs) | 3:13 |
-| 36 | [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:51 |
-| 37 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
-| 38 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
-| 39 | [Jomo](https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Jomo](https://open.spotify.com/album/1gP1kONUH0NOqIfOGefiRh) | 3:10 |
-| 40 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 36 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
+| 37 | [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:51 |
+| 38 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
+| 39 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 40 | [Jomo](https://open.spotify.com/track/0tR2mUq9HmCLtLR8dE6USl) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Jomo](https://open.spotify.com/album/1gP1kONUH0NOqIfOGefiRh) | 3:10 |
 | 41 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
 | 42 | [Dr\. Britt Baker](https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Still Praying](https://open.spotify.com/album/6Y4gDBghxCfpGkQKc9czVQ) | 5:09 |
 | 43 | [Ferraris in The Rain Part 2 \(feat\. ScHoolBoy Q & Freddie Gibbs\)](https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Ferraris in The Rain Part 2 \(feat\. ScHoolBoy Q & Freddie Gibbs\)](https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [SWiTCH \(i\)](https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [BRAVADO + INTiMO](https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R) | 3:30 |
 | 50 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 
-Snapshot ID: `Z7kvCQAAAACpqjQO3scM/W2lQYUps3t6`
+Snapshot ID: `Z7zJZQAAAADEUo5+ExKNSfMJtaDNGdHK`

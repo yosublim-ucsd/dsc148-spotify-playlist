@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Joris Voorn &amp; Tom Walker
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,647 likes - 181 songs - 9 hr 22 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,636 likes - 181 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
-| 2 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
+| 1 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
+| 2 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
 | 3 | [Is It Beautiful? \(A State of Trance 2025 TRANSFORMATION Anthem\)](https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Lucy Pullin](https://open.spotify.com/artist/3HVCvMqVWdpLtCwmvVViFn) | [Is It Beautiful? \(A State of Trance 2025 TRANSFORMATION Anthem\)](https://open.spotify.com/album/5WHDQlHysbxhyhAuEER4Vu) | 3:34 |
 | 4 | [Saltwater](https://open.spotify.com/track/6mYbG65qmFebuFrKkVXGnx) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Saltwater](https://open.spotify.com/album/5J9Lot9XP9ylPIXXsc8Wh2) | 2:48 |
 | 5 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 180 | [Ethnica \(Pasilda\)](https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Ethnica \(Pasilda\)](https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q) | 2:50 |
 | 181 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 |
 
-Snapshot ID: `AADTiVRfE/py9Be0tMcOEfDtyxI5LK9L`
+Snapshot ID: `AADTi3dOnUUPJRJp7zf0ZbRnku4jV0A8`

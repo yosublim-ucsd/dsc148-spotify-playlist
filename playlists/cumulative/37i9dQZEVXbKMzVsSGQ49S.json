@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 180069,
       "name": "A\u00f0eins lengur",
       "url": "https://open.spotify.com/track/4YYZlhTF7XFn9lZKl5YZV7"
@@ -6682,6 +6682,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "People's Champion",
+        "url": "https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj"
     },
     {
       "album": {
@@ -14180,7 +14198,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 179690,
       "name": "Frelsi\u00f0 mitt",
       "url": "https://open.spotify.com/track/14x79lRsqz4aeDNbfGjb6Q"
@@ -24312,7 +24330,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 179993,
       "name": "Like You",
       "url": "https://open.spotify.com/track/5x9Y5icdqAFj2tluNj0sve"
@@ -35023,6 +35041,28 @@
     },
     {
       "album": {
+        "name": "San Francisco Boy",
+        "url": "https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154045,
+      "name": "San Francisco Boy",
+      "url": "https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6"
+    },
+    {
+      "album": {
         "name": "D3POSIT2",
         "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
       },
@@ -38430,7 +38470,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 160288,
       "name": "Steik og Sushi",
       "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"

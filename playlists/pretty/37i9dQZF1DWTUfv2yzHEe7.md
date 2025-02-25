@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Groove it to the biggest bangers of the decade\. Cover \- Tashan
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,584 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,761 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 45 | [Badi Mushkil](https://open.spotify.com/track/1SQqbwndpSEiEULMV1CPDr) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Lajja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wuB00Hc6MaDJSc6QwzQ7n) | 6:03 |
 | 46 | [Masti Ki Paathshala](https://open.spotify.com/track/2cZ2Q33G9mkS8fIVKM591T) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Mohammed Aslam](https://open.spotify.com/artist/6lGchZePVLrGOqMCtXKNFi) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 3:39 |
 | 47 | [Dupatta Tera Nau Rang Da](https://open.spotify.com/track/3wiKJ8i3Ixdrc3qxBFFbPM) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Suzi Q](https://open.spotify.com/artist/0VY6hrDE8fYcFv956K8yIG) | [Partner](https://open.spotify.com/album/6UDyVUOga0s9Pu9qvZ5HKJ) | 5:03 |
-| 48 | [Bure Bure and Boro Boro](https://open.spotify.com/track/0mtqO3R0H6iKpPeqWlrNYD) | [Robert Uhlmarash](https://open.spotify.com/artist/2vqIWqdgT8Hgo1hVv69ilv) | [Bluff Master](https://open.spotify.com/album/7wj01ky64xivWvl0D0sudK) | 3:06 |
-| 49 | [Mujhe Tumse Mohabbat Hai](https://open.spotify.com/track/0kfAR4X0jQfyXcUSieDmz7) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tumsa Nahin Dekha A Love Story](https://open.spotify.com/album/0bxz6oakePyBITlK19LK2F) | 5:51 |
+| 48 | [Mujhe Tumse Mohabbat Hai](https://open.spotify.com/track/0kfAR4X0jQfyXcUSieDmz7) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tumsa Nahin Dekha A Love Story](https://open.spotify.com/album/0bxz6oakePyBITlK19LK2F) | 5:51 |
+| 49 | [Bure Bure and Boro Boro](https://open.spotify.com/track/0mtqO3R0H6iKpPeqWlrNYD) | [Robert Uhlmarash](https://open.spotify.com/artist/2vqIWqdgT8Hgo1hVv69ilv) | [Bluff Master](https://open.spotify.com/album/7wj01ky64xivWvl0D0sudK) | 3:06 |
 | 50 | [Kambakth Ishq \- Remix Version](https://open.spotify.com/track/15jGFMQXdmlpQeeSes9UgC) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Pyaar Tune Kya Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jZTq2g2PsldYGpzKrCJrv) | 3:56 |
 
 Snapshot ID: `Z5HwbwAAAAB+p+VA34M0Bf0dDbWsiX63`

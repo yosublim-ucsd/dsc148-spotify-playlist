@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Akuvumi Welele (Gqom Version)",
+        "url": "https://open.spotify.com/album/7uE8Ug328li4xrUPrasXx7"
+      },
+      "artists": [
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        },
+        {
+          "name": "Coocky",
+          "url": "https://open.spotify.com/artist/1sjYQfSF2jcZ6yTrQKOSRi"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263366,
+      "name": "Akuvumi Welele - Gqom Version",
+      "url": "https://open.spotify.com/track/3IKUnV8j9EtPFoes2YoQj0"
+    },
+    {
+      "album": {
         "name": "Play At Your Own Risk",
         "url": "https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF"
       },
@@ -324,7 +346,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 380682,
       "name": "As'phuze",
       "url": "https://open.spotify.com/track/0CKpnsjnuztpYUMJTmPLUG"
@@ -1959,6 +1981,32 @@
     },
     {
       "album": {
+        "name": "Gogo Maweni",
+        "url": "https://open.spotify.com/album/4szTZclA6eGk5Yihk2B8YD"
+      },
+      "artists": [
+        {
+          "name": "Hume Da Muzika",
+          "url": "https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY"
+        },
+        {
+          "name": "Hume Forex",
+          "url": "https://open.spotify.com/artist/042lgHI9JqRf8yEMwRIaHT"
+        },
+        {
+          "name": "Ma Andi",
+          "url": "https://open.spotify.com/artist/14jeVl1p0FjlOJQQCzmJ8r"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343484,
+      "name": "Gogo Maweni",
+      "url": "https://open.spotify.com/track/2nYnZBsH8NIsm3eCTbXyGl"
+    },
+    {
+      "album": {
         "name": "Gqobho Zwii Zwii",
         "url": "https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9"
       },
@@ -2119,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "For The Streets 2",
+        "url": "https://open.spotify.com/album/0YquoZAHETrT6R45q0o7oP"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341984,
+      "name": "Gqomington",
+      "url": "https://open.spotify.com/track/1s1g7rs3sNbvYdG1An7tBY"
+    },
+    {
+      "album": {
         "name": "Grade 12",
         "url": "https://open.spotify.com/album/5UKY7wQmcIFnzSk6z5glCW"
       },
@@ -2142,6 +2208,24 @@
       "duration_ms": 280645,
       "name": "Grade 12",
       "url": "https://open.spotify.com/track/4cW03RQQo6F0mwawFSZjNi"
+    },
+    {
+      "album": {
+        "name": "Groove all night",
+        "url": "https://open.spotify.com/album/0VOTd4FvzsLOnvEhrQC8hz"
+      },
+      "artists": [
+        {
+          "name": "DjTroyEL",
+          "url": "https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419683,
+      "name": "Groove all night",
+      "url": "https://open.spotify.com/track/1yQJD82SB4bRhLiCsmq8yz"
     },
     {
       "album": {
@@ -2972,7 +3056,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 316734,
       "name": "Ishuu",
       "url": "https://open.spotify.com/track/6nQaptKzSqN0TqaUjy2ymZ"
@@ -3388,6 +3472,36 @@
       "duration_ms": 351582,
       "name": "Khanda Lami",
       "url": "https://open.spotify.com/track/1kIpnU1LvsnezhSw8VKCo0"
+    },
+    {
+      "album": {
+        "name": "Khona Inte Ngiyizwayo",
+        "url": "https://open.spotify.com/album/2MLsZs0XHfUXxuY8kUNACG"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Makhilo No Plastoz",
+          "url": "https://open.spotify.com/artist/1wh3m8MFyoc5eBxnIl0RiG"
+        },
+        {
+          "name": "Jamah Musician",
+          "url": "https://open.spotify.com/artist/6f74xc1YcMi6qBMgUHXKa2"
+        },
+        {
+          "name": "Mthamisto",
+          "url": "https://open.spotify.com/artist/32FuAt7jY72fJYfOXD6ys6"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341159,
+      "name": "Khona Inte Ngiyizwayo",
+      "url": "https://open.spotify.com/track/3680qAauRw5yelzixIZyM4"
     },
     {
       "album": {
@@ -4220,6 +4334,24 @@
       "duration_ms": 334628,
       "name": "Ndixoleleni Bazali",
       "url": "https://open.spotify.com/track/64bgsr9AEftPmd7hrENA2n"
+    },
+    {
+      "album": {
+        "name": "Ndiza Kuwe (Sundi'ncede)",
+        "url": "https://open.spotify.com/album/01CXBhdacYcjI5ZBmEbsNX"
+      },
+      "artists": [
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323160,
+      "name": "Ndiza Kuwe (Sundi'ncede)",
+      "url": "https://open.spotify.com/track/5kjVwOQIWcGnPFcVvNqP3J"
     },
     {
       "album": {
@@ -5434,7 +5566,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 381074,
       "name": "Shampompo",
       "url": "https://open.spotify.com/track/7nt5td60wA53vVQWUgB2tz"
@@ -5688,7 +5820,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 306000,
       "name": "Skull Island",
       "url": "https://open.spotify.com/track/5QMyXnoro2fe6bWvEuNRdt"
@@ -6996,6 +7128,44 @@
       "duration_ms": 310270,
       "name": "WDPTSQ",
       "url": "https://open.spotify.com/track/3aUvyul7r933PaJuqZlyhe"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3n6YUCgjWtRAlZ2WS2IFHd"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "NAKSoul",
+          "url": "https://open.spotify.com/artist/0d6Hlgz11lT6BJH1HTXCrT"
+        },
+        {
+          "name": "Mpho Spizzy",
+          "url": "https://open.spotify.com/artist/6or3L6AbGx83tADuwcS3PF"
+        },
+        {
+          "name": "Gubziin",
+          "url": "https://open.spotify.com/artist/1EIXiWMt5qcqkvurMsNyI0"
+        },
+        {
+          "name": "Nation Deep",
+          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352600,
+      "name": "Weh Ma (feat. Gubziin, Nation Deep & Goldmax)",
+      "url": "https://open.spotify.com/track/594vu9hsGbTC1EBiR0nrPd"
     },
     {
       "album": {

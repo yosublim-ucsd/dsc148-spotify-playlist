@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=E54znhawR\_Kr\_3MBNc6jlA>TBabz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,966 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,983 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [Love N Affection Stripped](https://open.spotify.com/track/4X8n52C8oiTdteJUuXgCXb) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [LOVE N AFFECTION](https://open.spotify.com/album/5TPa6T5DTbhkFn8cK0a3pz) | 2:35 |
 | 101 | [Medley \- Toda Sorte de Benção / O Som da Chuva / A Ele a Glória \- Ao vivo](https://open.spotify.com/track/4HJ8jW40cTUF82cgmNYAH2) | [Projecto Deus é o Maior](https://open.spotify.com/artist/1jysaxkDsBMN4MTqclMWi8) | [Medley \- Toda Sorte de Benção / O Som da Chuva / A Ele a Glória \(Ao vivo\)](https://open.spotify.com/album/1msHbs9WhGQ85tymtRfNy6) | 9:32 |
 
-Snapshot ID: `Z7fCWgAAAAC20fZ+ogs6H/FO7ux2WE0N`
+Snapshot ID: `Z7fCWgAAAABmmnTOSbpyGotg+ja8FTEo`

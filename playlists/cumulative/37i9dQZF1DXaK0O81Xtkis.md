@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: ROLE MODEL
 
-1,260 songs - 2 day 14 hr 46 min
+1,261 songs - 2 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 | 2023-11-24 | 2024-01-05 |
 | [Chelsea's Coming Over](https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Chelsea's Coming Over](https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql) | 2:48 | 2022-05-27 | 2022-08-13 |
 | [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 | 2024-06-21 | 2024-07-19 |
-| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-13 |  |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-13 | 2025-02-25 |
 | [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 | 2022-09-23 | 2022-11-26 |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/7fw47hoXPG24gh3i94F2pt) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/14wBZka4KfOJjPgS0wVQhy) | 1:59 | 2023-07-28 | 2023-09-16 |
 | [chuck taylors](https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [chuck taylors](https://open.spotify.com/album/4liRxZ74LiRx6k8WzAW1pf) | 2:42 | 2023-09-08 | 2023-11-25 |
@@ -751,6 +751,7 @@
 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 | 2024-01-05 |
 | [Miracle](https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF) | 3:02 | 2023-10-13 | 2024-01-05 |
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
+| [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 |  |
 | [Miss You](https://open.spotify.com/track/6ocMXJqpkBP7KNFNUDLSUN) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Miss You](https://open.spotify.com/album/7h32RpEtJz3qqo4a4AjPet) | 2:47 | 2024-01-05 | 2024-03-30 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-07 | 2023-03-04 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2024-01-05 | 2024-02-03 |

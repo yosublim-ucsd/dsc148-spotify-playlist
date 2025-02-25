@@ -1,13 +1,81 @@
 {
   "description": "Don't play the odds, play the man. Listen to the music from NBC\u2019s Suits LA and the most memorable songs from the original Suits, streaming on Peacock.",
-  "num_followers": 76,
+  "num_followers": 153,
   "original_name": "Suits LA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kU+AAAAABjOyyTr7CUUo8zqvvTkQCY",
+  "snapshot_id": "Z7ylRwAAAABn37TjVY8ZR3w/kQAuMKrs",
   "tracks": [
+    {
+      "added_at": "2025-02-24 16:58:47",
+      "album": {
+        "name": "Bring Those Good Times Back",
+        "url": "https://open.spotify.com/album/6SMFvQFCRntXJuK7uEr4l2"
+      },
+      "artists": [
+        {
+          "name": "Bradley Denniston",
+          "url": "https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh"
+        },
+        {
+          "name": "Koncept",
+          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "Bring Those Good Times Back",
+      "url": "https://open.spotify.com/track/3fleWSoThmjQP2Eq5Y0Wnp"
+    },
+    {
+      "added_at": "2025-02-24 16:58:47",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2025-02-24 16:58:47",
+      "album": {
+        "name": "Choices Made While Dreaming",
+        "url": "https://open.spotify.com/album/0GJZZ8KCwqt3i95hJ4nZuU"
+      },
+      "artists": [
+        {
+          "name": "Dave Not Dave",
+          "url": "https://open.spotify.com/artist/4PEQbhvNPxwVDzi8ArDorB"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Hell Broke Loose",
+      "url": "https://open.spotify.com/track/1qaiM5Wx7bGCiLQFOHAcZk"
+    },
+    {
+      "added_at": "2025-02-24 16:58:47",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
+    },
     {
       "added_at": "2025-02-22 00:06:16",
       "album": {

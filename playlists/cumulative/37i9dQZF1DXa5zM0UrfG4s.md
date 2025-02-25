@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-388 songs - 17 hr 44 min
+389 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Medbrakt](https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Medbrakt](https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG) | 2:11 | 2022-01-06 | 2022-07-29 |
 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 | 2021-12-16 | 2024-02-16 |
 | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Tor\-Anders Ringnes](https://open.spotify.com/artist/1C6ztSfBUGTx9lZ65HjqqW) | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt) | 2:28 | 2024-03-14 |  |
-| [MERE BANJO!](https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [MERE BANJO!](https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7) | 2:04 | 2024-06-27 |  |
+| [MERE BANJO!](https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [MERE BANJO!](https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7) | 2:04 | 2024-06-27 | 2025-02-25 |
 | [MILLION](https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl) | [KLØBB x FEED](https://open.spotify.com/artist/2MnF2E84PKJiRM88LfP1Gu), [Mr\. Millionish](https://open.spotify.com/artist/1HhLrlaAvKHqM1e6Lew5Ii) | [MILLION](https://open.spotify.com/album/0sCju8X4V2Ys9cRT2fuKY9) | 2:00 | 2022-07-14 | 2022-09-23 |
 | [Min psykolog](https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Min psykolog](https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf) | 2:30 | 2024-05-23 | 2024-11-06 |
 | [MISSFÖRSTÅTT \- Roc Boyz Remix](https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [MISSFÖRSTÅTT \(Roc Boyz Remix\)](https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf) | 1:54 | 2022-07-14 | 2022-10-14 |
@@ -265,6 +265,7 @@
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-03-24 | 2022-04-12 |
 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 | 2023-11-02 |  |
 | [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 | 2023-12-13 |
+| [Nattens heltar](https://open.spotify.com/track/6rLje26mUt2sQ5dgqsEy5M) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Nattens heltar](https://open.spotify.com/album/5Yhf8clTjdSnbP8AIoW68x) | 4:00 | 2025-02-20 |  |
 | [NAV](https://open.spotify.com/track/5JNvUPe41iwViAzA2kc8tp) | [Gjengen](https://open.spotify.com/artist/6PmPCSFetykMhy1JSkPV34) | [NAV](https://open.spotify.com/album/0bo7i5Ssj02vXMKYn5Da94) | 2:51 | 2022-05-26 | 2022-06-01 |
 | [Neste Sommer](https://open.spotify.com/track/7Crq1N5Rf9M6dxlTQZyjI6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Neste Sommer](https://open.spotify.com/album/3rHifJvNraG9kv4ITZJKjU) | 2:05 | 2022-10-13 | 2022-10-16 |
 | [Neste år](https://open.spotify.com/track/1wHXgxVlxS5esQRWWVrVfH) | [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb), [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Neste år](https://open.spotify.com/album/0aJOOwDBDxbZCT9cXBcG2x) | 2:07 | 2023-08-10 | 2023-08-18 |

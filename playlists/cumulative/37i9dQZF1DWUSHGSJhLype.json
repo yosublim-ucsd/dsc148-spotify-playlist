@@ -3931,6 +3931,28 @@
     },
     {
       "album": {
+        "name": "Carnaval 2025",
+        "url": "https://open.spotify.com/album/4cJcEMlUHDrXlXtEdUvB0t"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Jogando Jogando",
+      "url": "https://open.spotify.com/track/3icuFi3wQ8xjkCWeixxJWf"
+    },
+    {
+      "album": {
         "name": "JOIA RARA",
         "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
       },
@@ -4593,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "Carnaval 2025",
+        "url": "https://open.spotify.com/album/4cJcEMlUHDrXlXtEdUvB0t"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123219,
+      "name": "Mandei Meu Cavaco Chorar",
+      "url": "https://open.spotify.com/track/6epLobFrmf1MrfFooEuOhL"
+    },
+    {
+      "album": {
         "name": "Maravilhosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
       },
@@ -5126,7 +5170,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 165566,
       "name": "Mentirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/7pBPXkaVQaP3Y3Wwfkpvbn"
@@ -7978,7 +8022,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"

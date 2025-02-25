@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Arthur  Hanlon &amp; Angela Aguilar",
-  "num_followers": 53464,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Emilia &amp; Luisa Sonza",
+  "num_followers": 53461,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATM34CZQ0oW1AjJz5Ok5eYFj/y4Zo1",
+  "snapshot_id": "AAATOafPRiIHL6OiXyiGioc1DWpqZ9N8",
   "tracks": [
+    {
+      "added_at": "2025-02-24 21:01:02",
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
     {
       "added_at": "2025-02-21 18:52:16",
       "album": {
@@ -47,6 +67,26 @@
       "duration_ms": 116307,
       "name": "Fale Ent\u00e3o",
       "url": "https://open.spotify.com/track/6ZhMxiXukvTSZyWdy64sgj"
+    },
+    {
+      "added_at": "2025-02-21 18:52:16",
+      "album": {
+        "name": "Ysilandia",
+        "url": "https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 217723,
+      "name": "Ysilandia",
+      "url": "https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5"
     },
     {
       "added_at": "2025-02-21 18:52:16",
@@ -3267,26 +3307,6 @@
       "duration_ms": 158815,
       "name": "Te Imaginaba",
       "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
-    },
-    {
-      "added_at": "2025-02-21 18:52:16",
-      "album": {
-        "name": "Ysilandia",
-        "url": "https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 217723,
-      "name": "Ysilandia",
-      "url": "https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5"
     }
   ],
   "unique_name": "Pop Latin Hits",

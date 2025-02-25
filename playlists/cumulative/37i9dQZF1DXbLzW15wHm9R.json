@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "album": {
         "name": "Better Place (From TROLLS Band Together)",
         "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
       },
@@ -544,7 +570,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 49018,
       "name": "Disclaimer",
       "url": "https://open.spotify.com/track/0ynCHtvhUYkbcLB2mJ64x2"
@@ -588,6 +614,24 @@
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
+        "name": "Enlightenment (Main Title Theme) [from \"The White Lotus: Season 3\"]",
+        "url": "https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106840,
+      "name": "Enlightenment (Main Title Theme) - from \"The White Lotus: Season 3\"",
+      "url": "https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1"
     },
     {
       "album": {
@@ -1260,7 +1304,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 272506,
       "name": "No Church In The Wild",
       "url": "https://open.spotify.com/track/7Ct3wqpGLbNrrG617S00B3"
@@ -1352,6 +1396,24 @@
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Original Soundtrack from The Netflix Series)",
+        "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38487,
+      "name": "Pink Soldiers",
+      "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
     },
     {
       "album": {
@@ -1646,7 +1708,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 161408,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6u0hAAm6FNykukqrnglyrF"
@@ -1860,7 +1922,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 160136,
       "name": "The Top",
       "url": "https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ"
@@ -2180,6 +2242,24 @@
       "duration_ms": 166339,
       "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
       "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R"

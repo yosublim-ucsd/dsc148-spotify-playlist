@@ -1,13 +1,41 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125433,
+  "num_followers": 125434,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATtfbCLsEhLC1ByGfgRc5UQ/PC3e01",
+  "snapshot_id": "AAATt2Xydjq4TV6T/c9Uu4u+Eef1ZDda",
   "tracks": [
+    {
+      "added_at": "2025-02-24 15:20:24",
+      "album": {
+        "name": "Say What You Mean",
+        "url": "https://open.spotify.com/album/1p9XaMzSeW7WjcuzwhiF79"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "afterxheaven",
+          "url": "https://open.spotify.com/artist/1nBDBNm03zYq8mm569LT9L"
+        },
+        {
+          "name": "Noah Cunane",
+          "url": "https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq"
+        }
+      ],
+      "duration_ms": 187621,
+      "name": "Say What You Mean",
+      "url": "https://open.spotify.com/track/44gSWtR35BRroza0YfWEuT"
+    },
     {
       "added_at": "2025-02-21 15:32:04",
       "album": {
@@ -1179,42 +1207,6 @@
       "duration_ms": 235124,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH"
-    },
-    {
-      "added_at": "2024-11-18 17:33:51",
-      "album": {
-        "name": "You Want Me (VIP)",
-        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 285517,
-      "name": "You Want Me",
-      "url": "https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is"
-    },
-    {
-      "added_at": "2024-11-15 14:11:48",
-      "album": {
-        "name": "In The Echo / Change",
-        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "In The Echo",
-      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

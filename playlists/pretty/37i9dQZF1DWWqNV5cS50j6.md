@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,871 likes - 69 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,848 likes - 69 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 68 | [HER WAY](https://open.spotify.com/track/7f6qfJ3FFsHQMc6wcP6B9T) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [HER WAY](https://open.spotify.com/album/5X25wwqMRIjLLOldYKxJWn) | 2:10 |
 | 69 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 |
 
-Snapshot ID: `Z5xY9QAAAAAhBJti6K/3Mh4jtTHeLE1x`
+Snapshot ID: `Z5xY9QAAAACEKpm+L6yiLdhHtxUm+U+V`

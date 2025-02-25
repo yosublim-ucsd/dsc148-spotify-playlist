@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "A Woman Is A Woman",
+        "url": "https://open.spotify.com/album/6vMkRRpUfSyvYdpaQMZehD"
+      },
+      "artists": [
+        {
+          "name": "Maddy Jane",
+          "url": "https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208943,
+      "name": "A Woman Is A Woman",
+      "url": "https://open.spotify.com/track/1940E2mxGhRc22WJrKeR2U"
+    },
+    {
+      "album": {
         "name": "Self Portrait Of A Woman Unravelling",
         "url": "https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ"
       },
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 215300,
       "name": "David Blaine",
       "url": "https://open.spotify.com/track/5MEjM3I39BUwsC5FEWeBqU"
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 241777,
       "name": "Don't Touch Me Baby",
       "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
@@ -6340,7 +6358,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 176306,
       "name": "Honeycomb (feat. Candy Crush Saga)",
       "url": "https://open.spotify.com/track/6JroLqUO0noGakEdb15w7T"
@@ -10369,6 +10387,24 @@
     },
     {
       "album": {
+        "name": "Pale Blue Dot",
+        "url": "https://open.spotify.com/album/4E0VmR3xhn07I4OaJyigll"
+      },
+      "artists": [
+        {
+          "name": "Julia Why?",
+          "url": "https://open.spotify.com/artist/7KRQv44ecmEYiqrP1UDiiD"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254280,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/5MnwaOwJu9sYSd15Rokscw"
+    },
+    {
+      "album": {
         "name": "Panic at the Party",
         "url": "https://open.spotify.com/album/5m0tdJDi8HckSpiNIWqPm7"
       },
@@ -14098,6 +14134,24 @@
       "duration_ms": 237013,
       "name": "Unaware",
       "url": "https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY"
+    },
+    {
+      "album": {
+        "name": "BEFORE I LET GO",
+        "url": "https://open.spotify.com/album/4Q4vDfHTzaApt6fWJNr593"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251365,
+      "name": "Unaware",
+      "url": "https://open.spotify.com/track/3lJzkyIS1LLlLqiTR8G2e4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,219 likes - 53 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,241 likes - 53 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39008,
+      "name": "A New Machine, Pt. 2",
+      "url": "https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD"
+    },
+    {
+      "album": {
         "name": "Meddle",
         "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
       },

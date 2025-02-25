@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Feb 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Feb 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -14990,7 +14990,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 129600,
       "name": "Condom",
       "url": "https://open.spotify.com/track/308gQPBA3sJO8R7uVhH09P"
@@ -22586,6 +22586,24 @@
       "duration_ms": 229026,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
+    },
+    {
+      "album": {
+        "name": "Everything Ends",
+        "url": "https://open.spotify.com/album/5rKIP27uR8W0jMJgJNqZ6c"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/2x6R10R0MJ5BeDdqpkpaHC"
     },
     {
       "album": {
@@ -31602,7 +31620,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 198172,
       "name": "High Fashion",
       "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
@@ -56924,7 +56942,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 182720,
       "name": "Remember My Name",
       "url": "https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06"
@@ -59828,6 +59846,24 @@
       "duration_ms": 117611,
       "name": "search & destroy",
       "url": "https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187996,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6"
     },
     {
       "album": {
@@ -68516,6 +68552,24 @@
       "duration_ms": 188240,
       "name": "Thank You for Sending Me an Angel",
       "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
+    },
+    {
+      "album": {
+        "name": "That Choice",
+        "url": "https://open.spotify.com/album/1UssoQE5t5q1ABnK5fiXfe"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245581,
+      "name": "That Choice",
+      "url": "https://open.spotify.com/track/0ksr2OxjHuuFXFS2pn7lTa"
     },
     {
       "album": {

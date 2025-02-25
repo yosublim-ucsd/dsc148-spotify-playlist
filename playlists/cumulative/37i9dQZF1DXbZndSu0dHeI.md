@@ -4,7 +4,7 @@
 
 > Have the loveliest little day.
 
-465 songs - 1 day 4 hr 6 min
+466 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Devotion](https://open.spotify.com/track/7bLrlCiAVltlVFVR8xvEx1) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Devotion](https://open.spotify.com/album/0u5xGW7tYBjLzJSSgovtFU) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [didn't you believe in me?](https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB) | 2:15 | 2022-03-19 | 2022-11-14 |
 | [Dino's](https://open.spotify.com/track/45Q4nigFbMgJiif53Fj0am) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM), [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Dino's](https://open.spotify.com/album/05j7xQBx58cWLewSHhGmsd) | 3:11 | 2021-11-12 | 2022-07-28 |
+| [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-02-21 |  |
 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 | 2024-02-21 |  |
 | [Don't Make a Scene](https://open.spotify.com/track/0uOnoknp6Oq5mOpkAegGmU) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Don't Make a Scene](https://open.spotify.com/album/6nSLzaz9NkU89shz7MgETg) | 3:08 | 2021-11-12 | 2022-07-29 |
 | [Dreaming](https://open.spotify.com/track/68r0rVwrAruYCc8OFfyPsf) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Dreaming](https://open.spotify.com/album/45HCY02kLpd5nGfL7GkdKm) | 3:43 | 2021-11-12 | 2022-07-28 |
@@ -249,7 +250,7 @@
 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2022-06-22 | 2022-12-13 |
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2021-11-12 | 2022-07-29 |
 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-21 |  |
-| [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 | 2021-11-12 |  |
+| [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 | 2021-11-12 | 2025-02-25 |
 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 | 2022-08-05 | 2024-04-19 |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2021-11-12 | 2023-05-05 |
 | [Madonna](https://open.spotify.com/track/6WrZ8rFuvTsWkFjC3US38h) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Madonna](https://open.spotify.com/album/0Hi9hqNHvmk7hUPjrAQu0V) | 2:53 | 2021-11-12 | 2022-07-27 |

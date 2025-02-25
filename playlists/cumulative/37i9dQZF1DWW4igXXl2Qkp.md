@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:2nQ17oZU3rP09w7d17VK8H">Bri3</a>
 
-1,608 songs - 2 day 21 hr 25 min
+1,609 songs - 2 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [FREE SMURK OFNG](https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [FREE SMURK OFNG](https://open.spotify.com/album/45x6Ld9RHaICXBk34MbTtY) | 3:19 | 2025-01-22 |  |
 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 | 2022-09-21 | 2022-12-01 |
 | [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-21 | 2022-09-25 |
-| [Fresh n' Clean](https://open.spotify.com/track/16KVOzwFsQ6ljDV3whqIEK) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Thank U, New York \(Extended\)](https://open.spotify.com/album/3QkLSPUwaLHpVYVDUXhqLG) | 2:01 | 2025-01-29 |  |
+| [Fresh n' Clean](https://open.spotify.com/track/16KVOzwFsQ6ljDV3whqIEK) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Thank U, New York \(Extended\)](https://open.spotify.com/album/3QkLSPUwaLHpVYVDUXhqLG) | 2:01 | 2025-01-29 | 2025-02-25 |
 | [Fresh off the UFO](https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Fresh off the UFO](https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC) | 1:55 | 2022-04-27 | 2022-07-01 |
 | [Fresh off the UFO](https://open.spotify.com/track/5Q88G46AC8cknIpPepDQ3F) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Walk Down World](https://open.spotify.com/album/473RR17P3qtAmh22uLUqhX) | 1:55 | 2022-11-30 | 2023-01-12 |
 | [FRESH OFF TOUR](https://open.spotify.com/track/7eQ7oeNgCDmoWRe8aDjuqx) | [Monroe Flow](https://open.spotify.com/artist/3k1r4MyxGh3oVE906HXt9s) | [SCARRED FOR LIFE](https://open.spotify.com/album/0sq8PKHH8VgXkhKDjJh6TW) | 3:09 | 2022-03-09 | 2022-03-17 |
@@ -1363,6 +1363,7 @@
 | [Switch](https://open.spotify.com/track/3AZPoZUgcdTuWYWI7GJ7N0) | [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL), [ytnSL](https://open.spotify.com/artist/0lZQOgfwRLpHQReSVxjyh2) | [Switch](https://open.spotify.com/album/7qxHb97YNDItJyPuK2QlPu) | 2:19 | 2022-01-26 | 2022-03-03 |
 | [tahiti](https://open.spotify.com/track/7q4iggWx8ZJxdORO74FKL1) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [tahiti](https://open.spotify.com/album/6TpDMIOL2oV6iqv7Op0DLF) | 2:22 | 2024-08-07 | 2024-08-29 |
 | [Tahoe](https://open.spotify.com/track/117I9bICU6PXKaUzAOO34I) | [Ufo Fev](https://open.spotify.com/artist/1m4NqUSiXZj5qY83vwvoMA), [Spanish Ran](https://open.spotify.com/artist/0yhUp9ffopvPldcfxtqanA), [Tree Mason](https://open.spotify.com/artist/66j5pKh7GqRm23WoULBfZu) | [Painting Houses](https://open.spotify.com/album/2evvbqY2GnpwoAhdPDpCF9) | 3:27 | 2023-03-08 | 2023-04-13 |
+| [Take A Step](https://open.spotify.com/track/20AE4hwfkFeJtyon4OReIB) | [Lil Novi](https://open.spotify.com/artist/0p2aFROS95bdLkYYL0pYSz) | [Take A Step](https://open.spotify.com/album/5TNV4fphlnzpPre48Y4pSZ) | 2:30 | 2025-02-24 |  |
 | [Take No Loss](https://open.spotify.com/track/6yIyL5IczTvWlMndlKXtRu) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Take No Loss](https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn) | 2:26 | 2023-07-19 | 2024-01-25 |
 | [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 | 2022-09-21 | 2022-11-24 |
 | [TAKE TIME FOR MYSELF](https://open.spotify.com/track/22rAfU59q6z5qSws9EfYlY) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [THE CALM](https://open.spotify.com/album/6JHrZpzp6qXkf0wk4y6Bfs) | 2:28 | 2024-12-04 | 2025-02-06 |

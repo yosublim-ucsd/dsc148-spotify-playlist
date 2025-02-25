@@ -3108,10 +3108,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 222733,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt"
+    },
+    {
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
     },
     {
       "album": {

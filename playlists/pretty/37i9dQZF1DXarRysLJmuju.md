@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Selena Gomez, Gracie Abrams, benny blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,290 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,259 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 38 | [Shadows](https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [LOVECHILD](https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l) | 3:15 |
 | 39 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
 | 40 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
-| 41 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
+| 41 | [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 |
 | 42 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 43 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 |
 | 44 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Hopeless Sinners](https://open.spotify.com/track/3Q9CroLbbZzioLrN5Fn05k) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Hopeless Sinners](https://open.spotify.com/album/0MGGzJzPewX1rUcL2pQfYR) | 2:49 |
 | 100 | [BUNNY VALENTINE](https://open.spotify.com/track/0DC86BV7PEg1owrmIYD6iP) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [VERMIN](https://open.spotify.com/album/7i6p8KqXxnb9dTcDJUqNZN) | 2:54 |
 
-Snapshot ID: `Z7gIcAAAAAAvUXaNYY/n2nAWVpVQxMJt`
+Snapshot ID: `Z7y69QAAAADYyZQybc3V4DsrrpLYlCBf`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Wilfrido Vargas",
-  "num_followers": 387353,
+  "num_followers": 387348,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zn8xQgAAAADJmw6F03ye0kkHrO7SdHTs",
   "tracks": [
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 223059,
       "name": "A Mover la Colita",
       "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tropical\u00edsimo, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 394613,
-      "name": "La Quiero a Morir / Si Algun Dia la Vez",
-      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+        "name": "Tropical\u00edsimo, Vol. 1",
+        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+      "duration_ms": 394613,
+      "name": "La Quiero a Morir / Si Algun Dia la Vez",
+      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Esa Muchacha",
-        "url": "https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 237557,
-      "name": "Esa Muchacha",
-      "url": "https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 249813,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Esa Muchacha",
+        "url": "https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 237557,
+      "name": "Esa Muchacha",
+      "url": "https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Explosivo",
         "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Ultimate Merengue Party 2000",
-        "url": "https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL"
-      },
-      "artists": [
-        {
-          "name": "The Max Band",
-          "url": "https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Morena Ven",
-      "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Rey De Corazones",
         "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "Ultimate Merengue Party 2000",
+        "url": "https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "The Max Band",
+          "url": "https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk"
         }
       ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+      "duration_ms": 281760,
+      "name": "Morena Ven",
+      "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
       "artists": [
         {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Dominicano Ausente",
-      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
+      "duration_ms": 237826,
+      "name": "El Silencio, Tu Y Yo",
+      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
         }
       ],
-      "duration_ms": 237826,
-      "name": "El Silencio, Tu Y Yo",
-      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
+      "duration_ms": 229053,
+      "name": "Dominicano Ausente",
+      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
-        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+        "name": "El Maestro Con Sus 16 Exitos",
+        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
         }
       ],
-      "duration_ms": 272293,
-      "name": "Pecadora",
-      "url": "https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK"
+      "duration_ms": 279533,
+      "name": "No Hay Nadie Mas",
+      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
+        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 298333,
       "name": "Entre Tu Cuerpo y el Mio",
       "url": "https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "El Maestro Con Sus 16 Exitos",
-        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "No Hay Nadie Mas",
-      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
-        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "El Lapiz",
-      "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 291240,
       "name": "Feliciana",
       "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
+        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "El Lapiz",
+      "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Estelares De",
-        "url": "https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur"
-      },
-      "artists": [
-        {
-          "name": "Luis Ovalles",
-          "url": "https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "La Fosforera",
-      "url": "https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El Maestro Con Sus 16 Exitos",
         "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 261959,
       "name": "Mas",
       "url": "https://open.spotify.com/track/1z7g4SDTN6wplx3FiK0tAx"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Estelares De",
+        "url": "https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur"
+      },
+      "artists": [
+        {
+          "name": "Luis Ovalles",
+          "url": "https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "La Fosforera",
+      "url": "https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 267373,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1283,6 +1283,22 @@
       "duration_ms": 224306,
       "name": "La Cosquillita",
       "url": "https://open.spotify.com/track/3srURD7HBktaD14VKzctR4"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 302509,
-      "name": "Ay Doctor",
-      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Raices",
         "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 228231,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
+      "duration_ms": 302509,
+      "name": "Ay Doctor",
+      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1459,6 +1459,22 @@
       "duration_ms": 291735,
       "name": "Soy Dominicano",
       "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Exitos De Los Cantantes De Ramon Orlando",
+        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes De Ramon Orlando",
+          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
+        }
+      ],
+      "duration_ms": 246253,
+      "name": "Curame",
+      "url": "https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf"
       },
@@ -1587,22 +1619,6 @@
       "duration_ms": 235826,
       "name": "Buscando Tus Besos",
       "url": "https://open.spotify.com/track/0OONd4OG3OBVLGBfrsdmCp"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 220316,
-      "name": "Alza Tu Copa",
-      "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Exitos De Los Cantantes De Ramon Orlando",
-        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes De Ramon Orlando",
-          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
-        }
-      ],
-      "duration_ms": 246253,
-      "name": "Curame",
-      "url": "https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/5Lwqjfe4t5ilCLr4rdXBmR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 255137,
       "name": "Sobrevivire",
       "url": "https://open.spotify.com/track/7oi3XP83oftMs0G2BKji6t"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 220316,
+      "name": "Alza Tu Copa",
+      "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 264515,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1731,22 +1731,6 @@
       "duration_ms": 271013,
       "name": "Que Ganas De No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/2FnRMLwYTrrKgUbHNRfDr7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1779,6 +1763,22 @@
       "duration_ms": 300280,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 264515,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
+        "name": "Somos Candela",
+        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 253884,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD"
+      "duration_ms": 243435,
+      "name": "Las Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Somos Candela",
-        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
       },
       "artists": [
         {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 243435,
-      "name": "Las Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
+      "duration_ms": 253884,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 206602,
+      "name": "Te Odio y Te Quiero",
+      "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Lo Nuevo Y Lo Mejor",
         "url": "https://open.spotify.com/album/1rLceOEfHHr0t1NMPim27r"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 285760,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/7hhJ95zPooNzgSLVFRuzSp"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 206602,
-      "name": "Te Odio y Te Quiero",
-      "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Merengon",
+        "url": "https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 217101,
+      "name": "Cuando Este Con El",
+      "url": "https://open.spotify.com/track/14gSrBUCzINo8Bx9eO55cR"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "El Arrollador",
         "url": "https://open.spotify.com/album/0EnSVKULe1MN6qZjLukamq"
       },
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa"
-      },
-      "artists": [
-        {
-          "name": "July Mateo Rasputin",
-          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
-        }
-      ],
-      "duration_ms": 256494,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/1Romsc4nrfg8261usdyR0k"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Siempre Yo",
         "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
       },
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengon",
-        "url": "https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "July Mateo Rasputin",
+          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
         }
       ],
-      "duration_ms": 217101,
-      "name": "Cuando Este Con El",
-      "url": "https://open.spotify.com/track/14gSrBUCzINo8Bx9eO55cR"
+      "duration_ms": 256494,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/1Romsc4nrfg8261usdyR0k"
     },
     {
       "added_at": "2024-06-28 21:55:14",

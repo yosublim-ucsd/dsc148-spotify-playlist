@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,124 likes - 110 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,191 likes - 110 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 109 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 |
 | 110 | [Woods](https://open.spotify.com/track/6DptR9KtulsqRqtzpQYcFM) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Elements](https://open.spotify.com/album/6BOmTJhoPMLK4KQ0c96Xof) | 3:50 |
 
-Snapshot ID: `Z6QzyQAAAADTRM2O7qH7CRmNttemZx56`
+Snapshot ID: `Z6QzyQAAAAC5Ub2g8HHY6hUALtOHHw+L`

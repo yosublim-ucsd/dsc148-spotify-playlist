@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,990 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,994 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 52 | [Templo Andino](https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR) | [Orgänica Elemental](https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD) | [Templo Andino](https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym) | 5:58 |
 | 53 | [Unión de los Amantes](https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Camino a la Templanza](https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww) | 4:23 |
 | 54 | [Luchin](https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3) | [Manu Sija](https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Santiago Molina](https://open.spotify.com/artist/4znLjgx0xuv4XZpUYalOXl) | [Luchin](https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9) | 4:19 |
-| 55 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
+| 55 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 |
 | 56 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
-| 57 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
-| 58 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 |
+| 57 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
+| 58 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
 | 59 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 60 | [Antikuna Anqa](https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO) | [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5), [Mauricio Arratia](https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai), [Pao Pamaki](https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz) | [Antikuna Anqa](https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD) | 7:36 |
 | 61 | [Se que no Vas a Volver](https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 4:09 |

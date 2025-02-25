@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-804 songs - 1 day 10 hr 56 min
+809 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 |  |
+| [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2021-12-08 | 2022-07-01 |
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-21 | 2024-11-21 |
@@ -192,7 +193,7 @@
 | [Disheartening Sky](https://open.spotify.com/track/0fbbPMsg9C2YIaIY0JTAOT) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Disheartening Sky](https://open.spotify.com/album/2GmrSOirOIe4VbxklKeQHK) | 2:35 | 2021-12-08 | 2024-04-19 |
 | [Distant Fortune](https://open.spotify.com/track/6dqF3sWFq18Jav3zHjYrJ2) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 3:21 | 2021-12-08 | 2022-07-08 |
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-08 | 2022-06-10 |
-| [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 |  |
+| [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 | 2025-02-25 |
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-22 | 2023-08-19 |
 | [Dolomites](https://open.spotify.com/track/1z33oWkek1cihwgo5r2D6L) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Dolomites](https://open.spotify.com/album/2zVXtznsC9kRigDpDLCE5g) | 2:50 | 2025-01-27 |  |
 | [Dolphins](https://open.spotify.com/track/5Z7nI5WL04irpxEi5qGUrO) | [Joux](https://open.spotify.com/artist/7E1MufmzHIc7qFYqm64v69) | [Dolphins](https://open.spotify.com/album/3n4BbMjD1u9lCjjv1qo2s3) | 2:06 | 2022-10-07 | 2024-04-19 |
@@ -458,8 +459,10 @@
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 | 2022-08-05 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-19 |
+| [Moments to Unwind](https://open.spotify.com/track/3XWdpO1ugJ0wFHrod2eu8H) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Moments to Unwind](https://open.spotify.com/album/1ShfsVszarFDwGDUHPBx3m) | 2:14 | 2025-02-24 |  |
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 | 2023-04-22 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
+| [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 |  |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 | 2024-08-14 |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 | 2022-09-09 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-19 |
@@ -616,6 +619,7 @@
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 | 2024-11-21 |
 | [Sofia](https://open.spotify.com/track/67kLDQq8ItgqmAxvOgcgnJ) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:19 | 2023-04-21 | 2024-04-05 |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-04-05 |
+| [Soft Light](https://open.spotify.com/track/6iOK4ucHfN8MQqvcrgUnLt) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Soft Light](https://open.spotify.com/album/6lHWfP2Z5MLnARki97QjR4) | 2:15 | 2025-02-24 |  |
 | [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 | 2024-02-23 |
 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 | 2024-04-05 |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 | 2024-12-11 |
@@ -660,6 +664,7 @@
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 |  |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Nights](https://open.spotify.com/track/1mh5h5oMEhnYdv5kZPF7yS) | [Olivia Simons](https://open.spotify.com/artist/1cl0u4oWyjqmcGDpqDnMns) | [Summer Nights](https://open.spotify.com/album/1nZAeaNI9CR4D81bxSH7f5) | 3:15 | 2021-12-08 | 2022-08-05 |
+| [Summit](https://open.spotify.com/track/0b58DgeSi7DzPEarcXHgoZ) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Summit](https://open.spotify.com/album/5wATJWTg22Jb0J534PRw0r) | 2:17 | 2025-02-24 |  |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2021-12-08 | 2022-07-08 |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-10 | 2024-05-04 |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-08-19 |

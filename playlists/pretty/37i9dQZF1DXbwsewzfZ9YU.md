@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Ingrown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,663 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,711 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [FREEDOM](https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:11 |
 | 100 | [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 |
 
-Snapshot ID: `Z6vLvgAAAADPDLxVpGZRJoQV6CJoC3Sv`
+Snapshot ID: `Z6vLvgAAAACx9hOwxLzEGoRnTeReqj2r`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85?si=F1gpVQl4SRiFUPSbr0kdAA">ShaunMusiq</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,384 likes - 65 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,772 likes - 65 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 64 | [Sondela Dali](https://open.spotify.com/track/4uz8SKa7tfqngHBMJ8YTlY) | [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Sondela Dali](https://open.spotify.com/album/7LINkOMXIDG8scSPuHLTpT) | 4:52 |
 | 65 | [Ngifa Nawe](https://open.spotify.com/track/25em98e6uqAT1356DvrbQx) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Bassie](https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1), [Shane907](https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX) | [Ngifa Nawe](https://open.spotify.com/album/49rUrXjTh2CQ0Ki4dfWSPg) | 6:42 |
 
-Snapshot ID: `Z655iAAAAAANbINsl5LbMIvBxqfRZwPq`
+Snapshot ID: `Z655iAAAAACnn4Qr8mDxrUpRCoJ67Beg`

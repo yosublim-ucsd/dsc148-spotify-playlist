@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Ruth de las Plantas \u2728",
-  "num_followers": 53875,
+  "num_followers": 53882,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "Te Puedo Ver",
         "url": "https://open.spotify.com/album/2hAp3M6FmEHsuhntKYAER2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 220162,
       "name": "Te Puedo Ver",
       "url": "https://open.spotify.com/track/1kzTDgmaFLIQhv50RbO7QS"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2025-02-21 06:00:13",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Estudio A",
-        "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 154282,
-      "name": "Acapulco En La Azotea",
-      "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
-    },
-    {
-      "added_at": "2025-02-21 06:00:13",
-      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "added_at": "2025-02-21 06:00:13",
+      "album": {
+        "name": "Estudio A",
+        "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 154282,
+      "name": "Acapulco En La Azotea",
+      "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
     },
     {
       "added_at": "2025-02-21 06:00:13",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-02-21 06:00:13",
       "album": {
-        "name": "Od",
-        "url": "https://open.spotify.com/album/6G23tkswTKWvcmtnbxXyLr"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK"
       },
       "artists": [
         {
-          "name": "Roco",
-          "url": "https://open.spotify.com/artist/1oUlx4lwzy8i3RFL8TEqq9"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 206218,
-      "name": "Od",
-      "url": "https://open.spotify.com/track/3wax9knz54dWlIiThqKlQw"
+      "duration_ms": 174116,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
     }
   ],
   "unique_name": "dreamy ",

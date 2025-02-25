@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "The Nightfall Citadel",
+        "url": "https://open.spotify.com/album/0s7OB5TiEWL4FJVvEEfk1A"
+      },
+      "artists": [
+        {
+          "name": "Sylvian Alisa",
+          "url": "https://open.spotify.com/artist/2x3TxesKK8BtAPERBn86HW"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237911,
+      "name": "The Nightfall Citadel",
+      "url": "https://open.spotify.com/track/0lmbC4IW75xO161eVAyzyC"
+    },
+    {
+      "album": {
         "name": "Purcell: Songs & Dances",
         "url": "https://open.spotify.com/album/1t1qYcX0EJkhIFEXjUV5JK"
       },

@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Thursday",
-  "num_followers": 63498,
+  "num_followers": 63539,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
         "name": "It Was Real To Me",
         "url": "https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 166373,
       "name": "It Was Real To Me",
       "url": "https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi"
-      },
-      "artists": [
-        {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
-      },
-      "artists": [
-        {
-          "name": "Mirrortalk",
-          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
-        }
-      ],
-      "duration_ms": 187482,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "The Highway Signs Will Lead to Nothing",
         "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 279150,
       "name": "The Highway Signs Will Lead to Nothing",
       "url": "https://open.spotify.com/track/6SpavaUktNu788dew49p9U"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
-      },
-      "artists": [
-        {
-          "name": "Forest Green",
-          "url": "https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "Every Moment of Every Day",
         "url": "https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 249980,
       "name": "You Will Never Be the Best at Anything You Try (Surely Not)",
       "url": "https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
+      },
+      "artists": [
+        {
+          "name": "Forest Green",
+          "url": "https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "Mostly",
-        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
-      },
-      "artists": [
-        {
-          "name": "Heart to Gold",
-          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Mostly",
-      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "to you, after 2000 years",
         "url": "https://open.spotify.com/album/0LAestwwLwbvkcj9rffMlX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 111518,
       "name": "this is the best night of my life!",
       "url": "https://open.spotify.com/track/6PeAt8pcz7SnpketYqNs3N"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "Mostly",
+        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
+      },
+      "artists": [
+        {
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
+        }
+      ],
+      "duration_ms": 157782,
+      "name": "Mostly",
+      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
     },
     {
       "added_at": "2025-02-14 18:54:25",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-02-14 18:54:25",
       "album": {
-        "name": "DO IT FOR DALE (hope my love will quit)",
-        "url": "https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9"
-      },
-      "artists": [
-        {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "DO IT FOR DALE (hope my love will quit)",
-      "url": "https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7"
-    },
-    {
-      "added_at": "2025-02-14 18:54:25",
-      "album": {
         "name": "Cactus Song",
         "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182985,
       "name": "Cactus Song",
       "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
+    },
+    {
+      "added_at": "2025-02-14 18:54:25",
+      "album": {
+        "name": "DO IT FOR DALE (hope my love will quit)",
+        "url": "https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "DO IT FOR DALE (hope my love will quit)",
+      "url": "https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7"
     },
     {
       "added_at": "2025-02-14 18:54:25",

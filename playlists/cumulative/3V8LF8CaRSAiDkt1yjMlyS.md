@@ -4,7 +4,7 @@
 
 > 
 
-153 songs - 8 hr 17 min
+154 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Monday](https://open.spotify.com/track/1vMzM0hgM3Sp3LdTKPC2Fb) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:52 | 2023-05-26 |  |
 | [Monolithic](https://open.spotify.com/track/71Z5pRSM9oHMa59WW5ifHq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/7rCZkblbmpN2sd7OPDCYct) | 3:39 | 2023-09-02 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2023-09-21 |  |
+| [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 |  |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2023-09-07 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-09-08 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-02-01 |  |

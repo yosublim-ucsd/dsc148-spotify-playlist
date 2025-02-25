@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -10656,7 +10656,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -13110,7 +13110,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -16290,6 +16290,24 @@
       "duration_ms": 178000,
       "name": "\u6211\u5011\u4e0d Chok",
       "url": "https://open.spotify.com/track/4bC4inBYZpOZFvZVJ27RM5"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u4ec0\u9ebc\u90fd\u4e0d\u662f It\u2019s nothing",
+        "url": "https://open.spotify.com/album/5SbIKBiNJSfOdBQaboeC65"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5929\u4f51",
+          "url": "https://open.spotify.com/artist/3snzyW7XBu9Ox2VKzAkOLG"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199991,
+      "name": "\u6211\u5011\u4ec0\u9ebc\u90fd\u4e0d\u662f It\u2019s nothing",
+      "url": "https://open.spotify.com/track/0iUXhsKAxMnyHWJqZQIjSp"
     },
     {
       "album": {

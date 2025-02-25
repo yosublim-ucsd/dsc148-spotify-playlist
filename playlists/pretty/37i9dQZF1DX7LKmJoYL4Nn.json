@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 58469,
+  "num_followers": 58481,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "Trap For You",
-      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Flamb\u00e9\uff01\u300cHave you been naughty or nice?\u300d (Game Edit)",
         "url": "https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 134974,
       "name": "Have you been naughty or nice? - Game Edit",
       "url": "https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Trap For You",
+      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
     },
     {
       "added_at": "2025-02-11 08:17:11",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-02-11 08:17:11",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Eve\u300cRuby Love\u300d (Game Edit)",
-        "url": "https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP"
-      },
-      "artists": [
-        {
-          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "Ruby Love - Game Edit",
-      "url": "https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV"
-    },
-    {
-      "added_at": "2025-02-11 08:17:11",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Adam\u300cMelting Rouge Soul\u300d (Game Edit)",
         "url": "https://open.spotify.com/album/2fa1muoZil5Khj84BGGzPV"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 157500,
       "name": "Melting Rouge Soul - Game Edit",
       "url": "https://open.spotify.com/track/4kOXWwLlNtfu3XX2oe2xet"
+    },
+    {
+      "added_at": "2025-02-11 08:17:11",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Eve\u300cRuby Love\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP"
+      },
+      "artists": [
+        {
+          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "Ruby Love - Game Edit",
+      "url": "https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV"
     },
     {
       "added_at": "2025-02-11 08:17:11",

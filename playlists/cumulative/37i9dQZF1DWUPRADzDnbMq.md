@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-159 songs - 9 hr 16 min
+162 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Heartbreak Vacay](https://open.spotify.com/track/2atjfWN1RvUP7sIs93ARlu) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Tumbleweed](https://open.spotify.com/album/6WbrWfNoOk5Yc1cbAQiYwr) | 3:07 | 2020-09-08 | 2024-03-10 |
 | [Heaven](https://open.spotify.com/track/1XcUn5PE9d42zWamWgRG2x) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 3:46 | 2022-04-24 |  |
 | [I Shall Return](https://open.spotify.com/track/3x7CZqjFWXa0taoFqyWsgF) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Little Bit Of Everything](https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ) | 3:10 | 2020-09-08 | 2022-04-25 |
+| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-02-24 |  |
 | [I've Got a Beach in My Backyard](https://open.spotify.com/track/7pba0QARgLHPI3Hk9Ynqjm) | [Brent Burns](https://open.spotify.com/artist/5vqf0l0y4asjkeuUVPM81a) | [I've Got a Beach in My Backyard](https://open.spotify.com/album/7omKjCgFIkAhHjh4VjDqiX) | 3:22 | 2020-09-08 | 2022-04-25 |
 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 | 2022-04-24 | 2022-06-21 |
 | [Island Song](https://open.spotify.com/track/273gNDaG3xT0ulMx4Vct6M) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7) | 3:43 | 2022-07-08 | 2024-04-19 |
@@ -99,6 +100,7 @@
 | [Pancho & Lefty](https://open.spotify.com/track/4hyWRJez4RpN4JVm3qOLdg) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 4:49 | 2022-04-24 | 2022-04-27 |
 | [PARADISE TO ME](https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:36 | 2022-04-24 |  |
 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 | 2020-09-08 |  |
+| [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2025-02-24 |  |
 | [Ride The Wave](https://open.spotify.com/track/6hTSmdJNg2kFGrNAZdkYzR) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Three Months Two Streets Down](https://open.spotify.com/album/1cr1I3hZtfMzf4EXOMk2r1) | 2:53 | 2023-06-30 |  |
 | [River In The Rain](https://open.spotify.com/track/1tTUHx0xZtth5Prksaklnv) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/6D1ghDGxeH8xKiBpYnpKZW) | 3:53 | 2024-03-09 | 2024-04-19 |
 | [River In The Rain](https://open.spotify.com/track/4C8Chco6bxNKxPmVfmdEaL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 3:53 | 2022-06-20 | 2024-09-21 |
@@ -158,6 +160,7 @@
 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 | 2022-08-20 | 2024-09-21 |
 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 | 2020-09-08 | 2024-09-21 |
 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 | 2022-06-20 | 2024-03-10 |
+| [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2025-02-24 |  |
 | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ), [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v) | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4) | 2:35 | 2022-06-10 |  |
 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 | 2021-11-19 | 2022-04-25 |
 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2024-03-09 |  |

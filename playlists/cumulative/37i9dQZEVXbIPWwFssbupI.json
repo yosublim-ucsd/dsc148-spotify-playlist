@@ -11797,6 +11797,24 @@
     },
     {
       "album": {
+        "name": "Discobeast",
+        "url": "https://open.spotify.com/album/3K8pHhEfCe3S2u5yIBBT5o"
+      },
+      "artists": [
+        {
+          "name": "JOYCA",
+          "url": "https://open.spotify.com/artist/5AqhBC5pt6b0WVpUAII1Ro"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143897,
+      "name": "Discobeast",
+      "url": "https://open.spotify.com/track/0QSFpVVi5h1TrYG69WMTg7"
+    },
+    {
+      "album": {
         "name": "SZR 2001",
         "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
       },
@@ -14180,7 +14198,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -14198,7 +14216,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -26326,7 +26344,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"

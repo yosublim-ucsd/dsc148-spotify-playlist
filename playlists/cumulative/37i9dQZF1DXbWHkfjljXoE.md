@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement.
+> Melodies of the movement\. Cover: Roberta Flack
 
-113 songs - 9 hr 25 min
+114 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anti\-Immigrant Rhetoric](https://open.spotify.com/track/7I4csn2pytrogUVDMmmFVH) | [Angela Davis](https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT) | [Angela Davis Speaks!](https://open.spotify.com/album/60EHfJLvL6yKZLqd2XGjmD) | 4:28 | 2021-04-16 | 2024-02-02 |
 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 | 2024-02-01 |  |
 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2024-02-01 |  |
+| [Be Real Black for Me](https://open.spotify.com/track/7JTSRQ7WBhrX5MXYVYbNrB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:34 | 2025-02-24 |  |
 | [Black Butterfly](https://open.spotify.com/track/1sVelYOWWeRJDSHN1wb7kx) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 4:25 | 2024-02-01 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/5RQRPai5wx67G2P1kbBdwv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 3:03 | 2021-04-16 |  |
 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 | 2021-04-16 |  |
@@ -53,7 +54,7 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2024-02-01 |  |
 | [Last Speech](https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Speeches By Malcom X \- The Ultimate Collection](https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c) | 14:03 | 2021-04-16 | 2024-02-02 |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/5xdVBOOlxEwXTkF0ukJKIJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Lift Every Voice And Sing](https://open.spotify.com/album/1Ih0atc2GTeWu1bSEgvRwD) | 3:47 | 2024-02-06 |  |
-| [Lift Every Voice and Sing](https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2) | [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [We Shall Overcome](https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB) | 5:30 | 2021-04-16 |  |
+| [Lift Every Voice and Sing](https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2) | [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [We Shall Overcome](https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB) | 5:30 | 2021-04-16 | 2025-02-25 |
 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 | 2024-02-01 |  |
 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2024-02-01 | 2024-04-19 |
 | [Living For The City \- 1982 Musiquarium Version](https://open.spotify.com/track/3dIEfSljSXVM6PyqKBaGFe) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/1G3yrGdknJ969tsT9oM2yF) | 7:25 | 2024-02-06 |  |

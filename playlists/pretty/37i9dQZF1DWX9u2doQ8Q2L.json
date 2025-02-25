@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 391164,
+  "num_followers": 391168,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
         }
       ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
       },
       "artists": [
         {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2025-02-21 00:58:50",
-      "album": {
         "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
         "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 230524,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
+    },
+    {
+      "added_at": "2025-02-21 00:58:50",
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
       },
       "artists": [
         {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
+        "name": "99.9 Psychic Radio",
+        "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Just Like Dat feat. JP THE WAVY",
+      "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "added_at": "2025-02-21 00:58:50",
+      "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
-    },
-    {
-      "added_at": "2025-02-21 00:58:50",
-      "album": {
-        "name": "99.9 Psychic Radio",
-        "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
-      },
-      "artists": [
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
-        },
-        {
-          "name": "JP THE WAVY",
-          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
-        }
-      ],
-      "duration_ms": 191132,
-      "name": "Just Like Dat feat. JP THE WAVY",
-      "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "Pick you up",
-        "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 218839,
-      "name": "Pick you up",
-      "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
-    },
-    {
-      "added_at": "2025-02-21 00:58:50",
-      "album": {
         "name": "KJ SEASON2",
         "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "added_at": "2025-02-21 00:58:50",
+      "album": {
+        "name": "Pick you up",
+        "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 218839,
+      "name": "Pick you up",
+      "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
     },
     {
       "added_at": "2025-02-21 00:58:50",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
-        "name": "Always Hurts",
-        "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Always Hurts",
-      "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
-    },
-    {
-      "added_at": "2025-02-21 00:58:50",
-      "album": {
-        "name": "\u697d\u3057\u3044\u7f8e\u5473\u3057\u3044\u3068\u308a\u3059\u304e\u3066\u3082\u3044\u3044",
-        "url": "https://open.spotify.com/album/47wvk1WQLGeJviplH9S697"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216134,
-      "name": "\u697d\u3057\u3044\u7f8e\u5473\u3057\u3044\u3068\u308a\u3059\u304e\u3066\u3082\u3044\u3044",
-      "url": "https://open.spotify.com/track/0q4lgrOqmw6mJzvozCz0rN"
-    },
-    {
-      "added_at": "2025-02-21 00:58:50",
-      "album": {
         "name": "Bad Bitch \u7f8e\u5b66 Remix (feat. NENE, LANA, MaRI, AI & YURIYAN RETRIEVER)",
         "url": "https://open.spotify.com/album/1dhoOKqxQ1A6lN0TVxb9WB"
       },
@@ -1611,6 +1579,22 @@
     {
       "added_at": "2025-02-21 00:58:50",
       "album": {
+        "name": "Always Hurts",
+        "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Always Hurts",
+      "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
+    },
+    {
+      "added_at": "2025-02-21 00:58:50",
+      "album": {
         "name": "stay tune",
         "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 163608,
       "name": "stay tune",
       "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
+    },
+    {
+      "added_at": "2025-02-21 00:58:50",
+      "album": {
+        "name": "\u697d\u3057\u3044\u7f8e\u5473\u3057\u3044\u3068\u308a\u3059\u304e\u3066\u3082\u3044\u3044",
+        "url": "https://open.spotify.com/album/47wvk1WQLGeJviplH9S697"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 216134,
+      "name": "\u697d\u3057\u3044\u7f8e\u5473\u3057\u3044\u3068\u308a\u3059\u304e\u3066\u3082\u3044\u3044",
+      "url": "https://open.spotify.com/track/0q4lgrOqmw6mJzvozCz0rN"
     },
     {
       "added_at": "2025-02-21 00:58:50",

@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: badchieff
 
-177 songs - 8 hr 1 min
+178 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,12 +175,13 @@
 | [Wegen dir](https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Wegen dir](https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8) | 2:30 | 2024-11-18 |  |
 | [Weisse Orchideen](https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Weisse Orchideen](https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2) | 2:57 | 2024-06-28 |  |
 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 | 2024-06-28 | 2024-07-27 |
+| [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-24 |  |
 | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/track/1SU8huXD15iemDITwALHb3) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw) | 2:51 | 2024-12-16 |  |
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-06-28 |  |
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2024-06-28 |  |
 | [Wo willst du hin](https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Wo willst du hin](https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9) | 2:49 | 2024-10-10 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-06-28 |  |
-| [WÄNDE AUS ZEMENT](https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [WÄNDE AUS ZEMENT](https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J) | 3:40 | 2024-12-13 |  |
+| [WÄNDE AUS ZEMENT](https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [WÄNDE AUS ZEMENT](https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J) | 3:40 | 2024-12-13 | 2025-02-25 |
 | [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 | 2025-01-21 |
 | [Yay](https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:05 | 2025-01-16 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 | 2024-12-10 |

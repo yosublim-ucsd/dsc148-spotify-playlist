@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "First Day",
+        "url": "https://open.spotify.com/album/6iYoXZIicLwoBEl4EGTTAX"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186361,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/7ktGuYZdRDkvLm7cdUgPK0"
+    },
+    {
+      "album": {
         "name": "Blood Shore Season 3",
         "url": "https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy"
       },
@@ -17316,6 +17334,24 @@
       "duration_ms": 221053,
       "name": "Zaza (feat. Future)",
       "url": "https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp"
+    },
+    {
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/7fK0Qd0BFVuJx1OQ1UIM2k"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171408,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/0jue0zxb5P4u3k55sFiuBK"
     }
   ],
   "url": "https://open.spotify.com/playlist/7KiWS8RzTKKELnmiE4pDz3"

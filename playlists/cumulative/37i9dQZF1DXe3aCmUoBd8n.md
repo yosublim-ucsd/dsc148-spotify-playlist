@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-185 songs - 10 hr 48 min
+186 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 | 2024-10-13 |  |
 | [Ghaleban](https://open.spotify.com/track/0hHZeRGZ0qHflTACfJxUsI) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Ghaleban](https://open.spotify.com/album/4oZxZrNPAd9o3AjWzitwI5) | 2:31 | 2025-01-26 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-05-04 | 2023-03-14 |
+| [Ghassa](https://open.spotify.com/track/3NgAMwYFwomQ1HIR36ZzXU) | [Antoine Massaad](https://open.spotify.com/artist/7boKi7t7z9sUCMBPulT3yy) | [Ghassa](https://open.spotify.com/album/7eZDhS8lvxUaZA7EEmCSxe) | 3:29 | 2025-02-24 |  |
 | [Ghazaleh](https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ghazaleh](https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9) | 2:35 | 2023-05-19 | 2024-03-01 |
 | [Habibi W Bass](https://open.spotify.com/track/3MlkSBkCiEQ9TpRFnxywba) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 4:08 | 2023-06-28 |  |
 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 | 2022-05-04 | 2022-07-17 |
@@ -169,7 +170,7 @@
 | [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 | 2023-07-27 |  |
 | [بركان](https://open.spotify.com/track/5ebPGUF0ycevMKFLepmYdU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 3:10 | 2023-12-27 | 2024-04-19 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-01-06 |
-| [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 |  |
+| [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 | 2025-02-25 |
 | [حـب الـلي بحـبك](https://open.spotify.com/track/7sbTbz9n2ormZLvs18jPYC) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [حـب الـلي بحـبك](https://open.spotify.com/album/6uNNRJncQVbNCzBZNXOofm) | 3:18 | 2024-05-21 |  |
 | [خيال](https://open.spotify.com/track/7HL0CmdyoBZ32PjQRd9Oax) | [Odai](https://open.spotify.com/artist/7EKPJOvqNmDu6IZjJTWKWO) | [خيال](https://open.spotify.com/album/0lNHfjnXCxvmJE0v0fnrmh) | 3:07 | 2024-11-26 |  |
 | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/track/0QdVWAqqAUcCg0kWVKInoy) | [Ahmed Al Glamawy](https://open.spotify.com/artist/1v8UZn3HGKyy1rqesyDhKl) | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/album/5GtpCK8jXXqp1f61R6mxqF) | 6:45 | 2023-08-25 | 2023-10-05 |

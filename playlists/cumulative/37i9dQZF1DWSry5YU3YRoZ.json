@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "HOW BOYS SPEND SUMMER",
+        "url": "https://open.spotify.com/album/3SGtx5qfeb7iK1BJWUhmLf"
+      },
+      "artists": [
+        {
+          "name": "BEENCHILD",
+          "url": "https://open.spotify.com/artist/3vvpLtZAUEQdrB6qJaPwLv"
+        },
+        {
+          "name": "UMIN",
+          "url": "https://open.spotify.com/artist/5ORlIjaJuLBWxacswDZl3P"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283480,
+      "name": "16th, August (feat. UMIN)",
+      "url": "https://open.spotify.com/track/0KV4M3GiDDzUcgGRjP1K0m"
+    },
+    {
+      "album": {
         "name": "a colored pencil",
         "url": "https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel"
       },
@@ -710,7 +732,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"

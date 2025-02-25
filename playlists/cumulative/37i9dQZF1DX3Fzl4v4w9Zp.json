@@ -5721,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215236,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
+    },
+    {
+      "album": {
         "name": "One to Grow On",
         "url": "https://open.spotify.com/album/01LOjOlYQ4O48xEMNcHHaY"
       },

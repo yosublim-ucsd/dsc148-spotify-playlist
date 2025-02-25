@@ -4,7 +4,7 @@
 
 > The latest in pop\. Cover: Selena Gomez, Gracie Abrams, benny blanco
 
-2,001 songs - 4 day 5 hr 5 min
+2,002 songs - 4 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1747,7 +1747,8 @@
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-12 | 2023-03-25 |
 | [The Way You Love](https://open.spotify.com/track/38au3eipd8Yuj97DWLinto) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [The Way You Love](https://open.spotify.com/album/5XZzg35aO1VNP0iu5Wq3IF) | 3:20 | 2022-03-18 | 2022-06-11 |
 | [The Woman You Are](https://open.spotify.com/track/1NFaE6OehRDrF2ilGhCIad) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [The Woman You Are](https://open.spotify.com/album/3UXDHjWuYJDxkl3ua47iKm) | 3:42 | 2024-05-10 | 2024-06-08 |
-| [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 | 2025-02-07 |  |
+| [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 | 2025-02-24 |  |
+| [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 | 2025-02-07 | 2025-02-25 |
 | [There You Go](https://open.spotify.com/track/4E54j1PrpUHuV6LNm30a8v) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [There You Go](https://open.spotify.com/album/2n9jpiAzwqYgkoeFPdSLvs) | 2:45 | 2023-09-01 | 2023-11-25 |
 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 | 2022-07-08 | 2022-11-05 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-03 | 2024-07-13 |

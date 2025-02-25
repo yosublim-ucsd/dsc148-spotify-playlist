@@ -1,6 +1,6 @@
 {
   "description": "easy breezy dance music",
-  "num_followers": 168362,
+  "num_followers": 168357,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,30 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
+        "name": "Home (feat. Colton Avery)",
+        "url": "https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO"
+      },
+      "artists": [
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Colton Avery",
+          "url": "https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV"
+        }
+      ],
+      "duration_ms": 147396,
+      "name": "Home (feat. Colton Avery)",
+      "url": "https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6"
+    },
+    {
+      "added_at": "2025-02-20 23:00:30",
+      "album": {
         "name": "Lost In Love (feat. Rolipso)",
         "url": "https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou"
       },
@@ -83,30 +107,6 @@
       "duration_ms": 124033,
       "name": "Lost In Love (feat. Rolipso)",
       "url": "https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx"
-    },
-    {
-      "added_at": "2025-02-20 23:00:30",
-      "album": {
-        "name": "Home (feat. Colton Avery)",
-        "url": "https://open.spotify.com/album/0pDDhfiuoKcLPEDfJdjIYO"
-      },
-      "artists": [
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        },
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Colton Avery",
-          "url": "https://open.spotify.com/artist/4ofP6JslAsDOIaQSOfR8mV"
-        }
-      ],
-      "duration_ms": 147396,
-      "name": "Home (feat. Colton Avery)",
-      "url": "https://open.spotify.com/track/0dCfYzXOi9msy1x9kY7Kw6"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -507,6 +507,26 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:30",
+      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/37h56UTs220Dk38R36Au2h"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 132857,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/5f6qWXuKbURFowOWT2QruI"
-    },
-    {
-      "added_at": "2025-02-20 23:00:30",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 189193,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
-    },
-    {
-      "added_at": "2025-02-20 23:00:30",
-      "album": {
         "name": "My Favourite Game",
         "url": "https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 165853,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
+    },
+    {
+      "added_at": "2025-02-20 23:00:30",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "duration_ms": 189193,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
-    },
-    {
-      "added_at": "2025-02-20 23:00:30",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2025-02-20 23:00:30",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+        "name": "In This Life",
+        "url": "https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA"
       },
       "artists": [
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        },
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
         }
       ],
-      "duration_ms": 129975,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+      "duration_ms": 161454,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+    },
+    {
+      "added_at": "2025-02-20 23:00:30",
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 142909,
       "name": "Together",
       "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
-    },
-    {
-      "added_at": "2025-02-20 23:00:30",
-      "album": {
-        "name": "Touch The Sun",
-        "url": "https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8"
-      },
-      "artists": [
-        {
-          "name": "Wontu",
-          "url": "https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb"
-        },
-        {
-          "name": "Woodworks",
-          "url": "https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z"
-        }
-      ],
-      "duration_ms": 145365,
-      "name": "Touch The Sun",
-      "url": "https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ"
     },
     {
       "added_at": "2025-02-20 23:00:30",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2025-02-20 23:00:30",
       "album": {
-        "name": "In This Life",
-        "url": "https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA"
+        "name": "Touch The Sun",
+        "url": "https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8"
       },
       "artists": [
         {
-          "name": "Vitaly Gray",
-          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+          "name": "Wontu",
+          "url": "https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb"
         },
         {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+          "name": "Woodworks",
+          "url": "https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z"
         }
       ],
-      "duration_ms": 161454,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8"
+      "duration_ms": 145365,
+      "name": "Touch The Sun",
+      "url": "https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ"
     },
     {
       "added_at": "2025-02-20 23:00:30",

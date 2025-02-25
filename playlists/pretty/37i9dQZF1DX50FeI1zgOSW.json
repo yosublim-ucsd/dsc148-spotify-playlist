@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14479,
+  "num_followers": 14488,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIhAAAAADVgIoKDHORBMPwCpUdUiuK",
+  "snapshot_id": "Z7xvfgAAAACCazDAzuysYdiabECkd1Td",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -243,6 +243,26 @@
       "duration_ms": 209333,
       "name": "Haiyoo Saachale",
       "url": "https://open.spotify.com/track/0PAyJ4iUGLOv6N7fDfXPXy"
+    },
+    {
+      "added_at": "2025-02-24 13:09:18",
+      "album": {
+        "name": "Usura Oruthi",
+        "url": "https://open.spotify.com/album/57MPriRJcFvK6vNBtS65sF"
+      },
+      "artists": [
+        {
+          "name": "Sam Bilgates",
+          "url": "https://open.spotify.com/artist/1xQqiVZvrsO0bFy6I2knjD"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Usura Oruthi",
+      "url": "https://open.spotify.com/track/2bdNIZk1JHuTP1pabIc1WI"
     },
     {
       "added_at": "2025-02-19 07:43:07",
@@ -597,22 +617,6 @@
       "url": "https://open.spotify.com/track/3gEa0uDEFWfggAZixWvX3Y"
     },
     {
-      "added_at": "2025-01-24 04:35:29",
-      "album": {
-        "name": "Haiyo Haiyo",
-        "url": "https://open.spotify.com/album/79dkiRYXou4A090jq5ttrp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Local Vocal",
-          "url": "https://open.spotify.com/artist/4oL8GXLe6ahFV3sUIMNOGz"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Haiyo Haiyo",
-      "url": "https://open.spotify.com/track/3kHe6o8Iq4xiZiq8ojhlTe"
-    },
-    {
       "added_at": "2025-02-07 06:13:22",
       "album": {
         "name": "Kathal Kuthu",
@@ -905,26 +909,6 @@
       "url": "https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC"
     },
     {
-      "added_at": "2024-12-05 06:36:34",
-      "album": {
-        "name": "Kanni Boyz",
-        "url": "https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD"
-      },
-      "artists": [
-        {
-          "name": "RK Arvin",
-          "url": "https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM"
-        },
-        {
-          "name": "Rk Tharan",
-          "url": "https://open.spotify.com/artist/2teckjfXrt39sR75clLegg"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Kanni Boyz",
-      "url": "https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr"
-    },
-    {
       "added_at": "2025-01-31 05:01:11",
       "album": {
         "name": "Retro Rhythms a Modern Tale",
@@ -1071,22 +1055,6 @@
       "duration_ms": 183111,
       "name": "Love Ticket",
       "url": "https://open.spotify.com/track/0MVy63AwIzh0jXG2NEnuUi"
-    },
-    {
-      "added_at": "2024-12-03 10:52:28",
-      "album": {
-        "name": "Blue Tick Pennay",
-        "url": "https://open.spotify.com/album/5aat8rObWOv1AF9UK1H5QV"
-      },
-      "artists": [
-        {
-          "name": "Vishnu",
-          "url": "https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA"
-        }
-      ],
-      "duration_ms": 172686,
-      "name": "Blue Tick Pennay",
-      "url": "https://open.spotify.com/track/4uSRV5kSGCcFHulyEIG6P8"
     },
     {
       "added_at": "2024-12-13 11:21:28",

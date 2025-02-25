@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn?si=zjUvrifvSVysFqZUimgxnQ>Nathaniel Bassey</a> and <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=\-ojC\_HqsTYaUE4cvVJYQHQ>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,600 likes - 51 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,794 likes - 51 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 50 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 |
 | 51 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 
-Snapshot ID: `Z7fCWQAAAAA0RdH/d4VH1lG9n6DU4c17`
+Snapshot ID: `Z7fCWQAAAACSYJavJhXnDeYZ27eybRlQ`

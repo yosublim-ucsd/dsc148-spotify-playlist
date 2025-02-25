@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
       },
@@ -749,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Algo Diferente (feat. iZaak)",
+        "url": "https://open.spotify.com/album/5VzredGcMxYQfeqqwcFAOg"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198489,
+      "name": "Algo Diferente (feat. iZaak)",
+      "url": "https://open.spotify.com/track/4QP8ox8hlxCRGqUOPwmbkW"
+    },
+    {
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1154,6 +1194,24 @@
       "duration_ms": 274095,
       "name": "Aunque Sea",
       "url": "https://open.spotify.com/track/4izl8YA7HRJXEHSrQhH12u"
+    },
+    {
+      "album": {
+        "name": "Eterno Retorno",
+        "url": "https://open.spotify.com/album/5nvjieIL1HdAybtfiyNUnN"
+      },
+      "artists": [
+        {
+          "name": "Astro Andy",
+          "url": "https://open.spotify.com/artist/7Mx1mmKAtCnSUsemQwussI"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7kNQJs1gE8JGfUSm0py4PL"
     },
     {
       "album": {
@@ -1929,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "Bosebai",
+        "url": "https://open.spotify.com/album/43OBxNP4qXvD0eK0LSZ8SA"
+      },
+      "artists": [
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        },
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177324,
+      "name": "Bosebai",
+      "url": "https://open.spotify.com/track/0dHTLBDgp91DWh5e3k4LGF"
+    },
+    {
+      "album": {
         "name": "Brickell",
         "url": "https://open.spotify.com/album/5H7ZQXZJUVA8gUYAiY3tJo"
       },
@@ -1940,7 +2020,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 137678,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/6I9iPMlhjJb04TLvrCwYyC"
@@ -4910,7 +4990,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 206866,
       "name": "Escuchame",
       "url": "https://open.spotify.com/track/0zCqqucfJ2eZt16wCwupb5"
@@ -5369,6 +5449,28 @@
     },
     {
       "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/01PKRo8HAs7RBght3ZyDug"
+      },
+      "artists": [
+        {
+          "name": "Jliany",
+          "url": "https://open.spotify.com/artist/7K9s1eWCkMphDqwHedSDAU"
+        },
+        {
+          "name": "RichyWest",
+          "url": "https://open.spotify.com/artist/7LbKnRFVvObIzSUjNd8r42"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/4trxc6w5LpZoMYWE25Kyds"
+    },
+    {
+      "album": {
         "name": "FANTASMA | AVC",
         "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
       },
@@ -5388,6 +5490,24 @@
       "duration_ms": 285074,
       "name": "FANTASMA | AVC",
       "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
+    },
+    {
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186212,
+      "name": "FANTAS\u00cdA",
+      "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
     },
     {
       "album": {
@@ -7245,6 +7365,32 @@
     },
     {
       "album": {
+        "name": "Leasing",
+        "url": "https://open.spotify.com/album/3K8IfwLbHS01HUqrkfkZMN"
+      },
+      "artists": [
+        {
+          "name": "Axel Baby",
+          "url": "https://open.spotify.com/artist/4KAh3y7022KegTYPbDg8tr"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240448,
+      "name": "Leasing",
+      "url": "https://open.spotify.com/track/3u0aRUWDjVx0D2UMmzNIZp"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
@@ -7742,7 +7888,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 130666,
       "name": "Malib\u00fa",
       "url": "https://open.spotify.com/track/6vJqk3Y9B7a1LdDuTm6m30"
@@ -7764,7 +7910,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 221538,
       "name": "Malos H\u00e1bitos",
       "url": "https://open.spotify.com/track/0C4npmxPsvvELHYlZBnlKU"
@@ -10920,7 +11066,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 121482,
       "name": "REH\u00c9N",
       "url": "https://open.spotify.com/track/4YwbO3lZnM5F6lbeHISMLh"
@@ -10938,7 +11084,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 130623,
       "name": "Religi\u00f3n",
       "url": "https://open.spotify.com/track/44Q6j0VouHOJV7EY1JG6Yg"
@@ -11632,7 +11778,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 160000,
       "name": "Shelby",
       "url": "https://open.spotify.com/track/5s8vcnY1y1YK0shvThnOi6"
@@ -13175,6 +13321,28 @@
     },
     {
       "album": {
+        "name": "HYBREDS",
+        "url": "https://open.spotify.com/album/1OxpLftVH7QS1fGGrSgzRk"
+      },
+      "artists": [
+        {
+          "name": "G.O.K.B.",
+          "url": "https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124481,
+      "name": "TRUST ISSUES",
+      "url": "https://open.spotify.com/track/7wypvLqTSEasAUBkwNQTDZ"
+    },
+    {
+      "album": {
         "name": "Tu Favorito",
         "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
       },
@@ -13834,7 +14002,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 286500,
       "name": "VV - Remix",
       "url": "https://open.spotify.com/track/4FAAZfOE93MgiO7N0a6kow"

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 361465,
+  "num_followers": 361504,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
-        "name": "Enchant\u00e9 (Remix)",
-        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 241961,
-      "name": "Enchant\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
-    },
-    {
-      "added_at": "2025-02-20 14:42:02",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2025-02-20 14:42:02",
+      "album": {
+        "name": "Enchant\u00e9 (Remix)",
+        "url": "https://open.spotify.com/album/6ggi98mpjekLC0rad010ND"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 241961,
+      "name": "Enchant\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
     },
     {
       "added_at": "2025-02-20 14:42:02",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
+    },
+    {
+      "added_at": "2025-02-20 14:42:02",
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
-    },
-    {
-      "added_at": "2025-02-20 14:42:02",
-      "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2025-02-20 14:42:02",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
-        "name": "Sunrise Sunfall (Edit)",
-        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
-      },
-      "artists": [
-        {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 193105,
-      "name": "Sunrise Sunfall - Edit",
-      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
-    },
-    {
-      "added_at": "2025-02-20 14:42:02",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2025-02-20 14:42:02",
+      "album": {
+        "name": "Sunrise Sunfall (Edit)",
+        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
+      },
+      "artists": [
+        {
+          "name": "NATE08",
+          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 193105,
+      "name": "Sunrise Sunfall - Edit",
+      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
     },
     {
       "added_at": "2025-02-20 14:42:02",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2025-02-20 14:42:02",
+      "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 222496,
       "name": "touch",
       "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
-    },
-    {
-      "added_at": "2025-02-20 14:42:02",
-      "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2025-02-20 14:42:02",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
-        "name": "ice",
-        "url": "https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        },
-        {
-          "name": "They Hate Change",
-          "url": "https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "ice",
-      "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
-    },
-    {
-      "added_at": "2025-02-20 14:42:02",
-      "album": {
         "name": "Ma Jo Lo",
         "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
@@ -1263,22 +1243,22 @@
     {
       "added_at": "2025-02-20 14:42:02",
       "album": {
-        "name": "Back 2 Me (feat. Sadie Walker)",
-        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+        "name": "ice",
+        "url": "https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA"
       },
       "artists": [
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         },
         {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+          "name": "They Hate Change",
+          "url": "https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d"
         }
       ],
-      "duration_ms": 253221,
-      "name": "Back 2 Me (feat. Sadie Walker)",
-      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+      "duration_ms": 166506,
+      "name": "ice",
+      "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
     },
     {
       "added_at": "2025-02-20 14:42:02",
@@ -1339,6 +1319,26 @@
       "duration_ms": 195800,
       "name": "Happy Ending - A.G Remix",
       "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
+      "added_at": "2025-02-20 14:42:02",
+      "album": {
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
     },
     {
       "added_at": "2025-02-20 14:42:02",

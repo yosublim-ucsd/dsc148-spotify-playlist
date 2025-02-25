@@ -4,7 +4,7 @@
 
 > Las mejores canciones de la reina del pop argentino.
 
-79 songs - 4 hr 10 min
+80 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 | 2023-03-13 |  |
 | [Esperanza Mía](https://open.spotify.com/track/5FP7ESctJY9UmtGQP46rWN) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 3:42 | 2023-03-13 | 2024-09-06 |
 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-09-27 |  |
-| [Fascinada](https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Fascinada](https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld) | 2:43 | 2023-03-13 |  |
+| [Fascinada](https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Fascinada](https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld) | 2:43 | 2023-03-13 | 2025-02-25 |
 | [Histeria](https://open.spotify.com/track/0DLV3QLNMCmMrTbMUwN9M7) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:32 | 2023-03-13 |  |
 | [Incondicional](https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:32 | 2023-04-20 |  |
 | [Jurame](https://open.spotify.com/track/6yOY8Vs5X60cjb9ty7zmCn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 3:09 | 2023-03-13 | 2023-04-21 |
@@ -51,6 +51,7 @@
 | [Lindo Pero Bruto](https://open.spotify.com/track/5RLBZePs33aN2F8uCzcSeo) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 2:57 | 2023-03-13 |  |
 | [Lo Que Tengo Yo](https://open.spotify.com/track/2lG1D3JuFMkqqdAiTMiF0n) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Lo Que Tengo Yo](https://open.spotify.com/album/7FAJSOMzHPrcmWP5rUMVa8) | 2:25 | 2023-03-13 |  |
 | [Me Muero por Vos](https://open.spotify.com/track/0hBv5FWbvi7dgoOZA7AHHD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 2:56 | 2023-03-13 | 2024-09-06 |
+| [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 | 2025-02-24 |  |
 | [Mi Mala \(feat\. Becky G, Leslie Grace & Lali\) \- Remix](https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:15 | 2023-03-13 | 2024-04-19 |
 | [Mi Mala \- Remix](https://open.spotify.com/track/6kOHug1s9Nd5gsHrX8irs2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mi Mala \(Remix\)](https://open.spotify.com/album/6yxx3BanYeSaZgEHKVQazC) | 4:15 | 2023-09-01 |  |
 | [Mi Última Canción \(feat\. Reik\)](https://open.spotify.com/track/1bYlEvCQVPNKXU4MmhByR6) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:39 | 2023-03-13 |  |

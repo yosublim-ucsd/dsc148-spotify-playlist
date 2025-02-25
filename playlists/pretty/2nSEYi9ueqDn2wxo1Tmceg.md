@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,420 likes - 50 songs - 3 hr 33 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,418 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 7 | [Nevada](https://open.spotify.com/track/01veXxWnOdsXVQDVtNDLNx) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Nevada](https://open.spotify.com/album/3ln22T45Y3d6cNPQdpTzgD) | 3:30 |
 | 8 | [Unbelievable](https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Ada](https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ) | [Unbelievable](https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq) | 4:31 |
 | 9 | [Boys In The Girls Room](https://open.spotify.com/track/0NLt1XvBQSAei4PQVOXe4A) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Blurb](https://open.spotify.com/album/2nkpUN7muFl2Me3gBnjJRt) | 2:22 |
-| 10 | [Sound of a Bite](https://open.spotify.com/track/3JU5caFVRtBFdvOuD9Q6R6) | [X & Yde](https://open.spotify.com/artist/6mOtgC49VY9qqHZCUcPyU5), [Xenia Xamanek](https://open.spotify.com/artist/1kMPv2WU4OnwKpmvIgyNs8), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Sound of a Bite](https://open.spotify.com/album/6XzIc0tgF3ukRcJ1wb6wGA) | 5:16 |
+| 10 | [Sound of a Bite](https://open.spotify.com/track/3JU5caFVRtBFdvOuD9Q6R6) | [X & Yde](https://open.spotify.com/artist/6mOtgC49VY9qqHZCUcPyU5), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Xenia Xamanek](https://open.spotify.com/artist/1kMPv2WU4OnwKpmvIgyNs8) | [Sound of a Bite](https://open.spotify.com/album/6XzIc0tgF3ukRcJ1wb6wGA) | 5:16 |
 | 11 | [The Big Man Upstairs \- PD Remix](https://open.spotify.com/track/5zCW0c40imT6QQMeBTSApE) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Big Man Upstairs \(PD Remix\)](https://open.spotify.com/album/0NNEw6bsx9pVmGJgCgIUs9) | 3:24 |
 | 12 | [Chain Reaction](https://open.spotify.com/track/5czdXtcbsQDJpKlnh35FDO) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Chain Reaction](https://open.spotify.com/album/0DWznw4xDVTnmdAVPVgMpc) | 2:51 |
 | 13 | [Zero Sun](https://open.spotify.com/track/0g2RvPCmGHX8PeET2bEr0N) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Zero Sun](https://open.spotify.com/album/457fHRbTBJDRv1hzSPY1we) | 3:27 |

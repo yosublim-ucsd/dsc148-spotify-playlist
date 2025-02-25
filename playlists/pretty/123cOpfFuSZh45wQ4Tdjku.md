@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 905 likes - 287 songs - 14 hr 37 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 907 likes - 292 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,5 +295,10 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 285 | [HYPNOFREAK](https://open.spotify.com/track/6m4rhXyE6DUhva3MazrxCP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HYPNOFREAK](https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4) | 3:53 |
 | 286 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 |
 | 287 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 |
+| 288 | [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 |
+| 289 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 |
+| 290 | [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 |
+| 291 | [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 |
+| 292 | [FURFAG](https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 4:44 |
 
-Snapshot ID: `AAABVhrzPHIpKBAM8eyeFIlPOg7cKRsI`
+Snapshot ID: `AAABV+UxuxVV8Ppoa5rictcWqoQd1L8N`

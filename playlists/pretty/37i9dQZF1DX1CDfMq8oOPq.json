@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 64341,
+  "num_followers": 64378,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-02-21 17:25:54",
       "album": {
+        "name": "APEDIDO",
+        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 119360,
+      "name": "APEDIDO",
+      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
+    },
+    {
+      "added_at": "2025-02-21 17:25:54",
+      "album": {
         "name": "Mais Uma Vadia",
         "url": "https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 130815,
       "name": "E eu n\u00e3o sei se te respondo",
       "url": "https://open.spotify.com/track/43KdAIrNhRoZpYUGHYej7A"
-    },
-    {
-      "added_at": "2025-02-21 17:25:54",
-      "album": {
-        "name": "APEDIDO",
-        "url": "https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 119360,
-      "name": "APEDIDO",
-      "url": "https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb"
     },
     {
       "added_at": "2025-02-21 17:25:54",

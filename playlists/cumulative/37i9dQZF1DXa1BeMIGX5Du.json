@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
+    },
+    {
+      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -3689,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "New Love",
+        "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Learn Yourself",
+      "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
+    },
+    {
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/3XOEU693kFWRGUmoOQNGM0"
       },
@@ -3903,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169610,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+    },
+    {
+      "album": {
         "name": "Louise (feat. Teitur)",
         "url": "https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS"
       },
@@ -4026,7 +4080,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 211187,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s"
@@ -4578,7 +4632,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 142000,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/2udLBb0lhqk0896glynEib"
@@ -5118,6 +5172,24 @@
       "duration_ms": 316778,
       "name": "Siren",
       "url": "https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS"
+    },
+    {
+      "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5eiPx3v6B68i0ftfdpey9v"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228095,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/19FN9XMzoNaieMssN8UZYT"
     },
     {
       "album": {
@@ -5884,7 +5956,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
@@ -6726,7 +6798,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 163468,
       "name": "Where Does The Love Go?",
       "url": "https://open.spotify.com/track/1MP2fqXaXRrbyMQ0Vw2plX"

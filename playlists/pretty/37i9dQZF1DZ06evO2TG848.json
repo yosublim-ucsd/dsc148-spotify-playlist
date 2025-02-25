@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22418,
+  "num_followers": 22422,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAAAul6E9Vi6JItlQEkG9BBCa",
+  "snapshot_id": "Z7plAAAAAAB8byWDX1sq9sgmF5jyQGYI",
   "tracks": [
     {
       "added_at": null,
@@ -336,33 +336,45 @@
       },
       "artists": [
         {
-          "name": "Benjamin Lovett",
-          "url": "https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8"
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
         },
         {
-          "name": "Winston Marshall",
-          "url": "https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM"
+          "name": "Michael Hazlewood",
+          "url": "https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI"
         },
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im"
+          "name": "Colin Greenwood",
+          "url": "https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS"
+        },
+        {
+          "name": "Jonathan Greenwood",
+          "url": "https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9"
+        },
+        {
+          "name": "Philip Selway",
+          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
+        },
+        {
+          "name": "Thomas Yorke",
+          "url": "https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO"
+        },
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
         },
         {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         },
         {
-          "name": "Joe Matthews",
-          "url": "https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u"
-        },
-        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 115546,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
+      "duration_ms": 80893,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW"
     },
     {
       "added_at": null,
@@ -424,45 +436,33 @@
       },
       "artists": [
         {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+          "name": "Benjamin Lovett",
+          "url": "https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8"
         },
         {
-          "name": "Michael Hazlewood",
-          "url": "https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI"
+          "name": "Winston Marshall",
+          "url": "https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM"
         },
         {
-          "name": "Colin Greenwood",
-          "url": "https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS"
-        },
-        {
-          "name": "Jonathan Greenwood",
-          "url": "https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9"
-        },
-        {
-          "name": "Philip Selway",
-          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
-        },
-        {
-          "name": "Thomas Yorke",
-          "url": "https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO"
-        },
-        {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im"
         },
         {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         },
         {
+          "name": "Joe Matthews",
+          "url": "https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u"
+        },
+        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 80893,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW"
+      "duration_ms": 115546,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 144626,
-      "name": "Beyond Desolation",
-      "url": "https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x"
+      "duration_ms": 117093,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5DgYdvipuyu3YWmo2MDWDu"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 108425,
-      "name": "Resolve",
-      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
+      "duration_ms": 41821,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
     },
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 86757,
-      "name": "Bravery",
-      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     },
     {
       "added_at": null,
@@ -776,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 42197,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
+      "duration_ms": 108425,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
     },
     {
       "added_at": null,
@@ -815,46 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nueve",
-        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
-      },
-      "artists": [
-        {
-          "name": "Massacre",
-          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 300809,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 94877,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -875,6 +831,46 @@
       "duration_ms": 218213,
       "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
       "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 300809,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
     },
     {
       "added_at": null,
@@ -936,17 +932,13 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "Jake Staley",
-          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
-        },
-        {
           "name": "Juan Luqui",
           "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 61891,
-      "name": "Cargo",
-      "url": "https://open.spotify.com/track/7fAFXX20WLmkSGZVM2BDyu"
+      "duration_ms": 94877,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz, Rooftime
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,075 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,106 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Turn Off The Lights](https://open.spotify.com/track/3AL8qaMxMNmH3yH9UO6Mvq) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Galucci](https://open.spotify.com/artist/4HNXhh3w9P6zBnumvYzvjX) | [Turn Off The Lights](https://open.spotify.com/album/4E9LtiGWwa9RZ1WEc5CfKZ) | 2:49 |
 | 10 | [Give It to Me](https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. I\)](https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF) | 3:08 |
 | 11 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 |
-| 12 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
+| 12 | [ANTO](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF) | [MRTINI](https://open.spotify.com/artist/4G7KDsNuWQydICTmPuezLL), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [ANTO EP](https://open.spotify.com/album/3VNVC60g0SXRfqI7d1ivAj) | 3:24 |
 | 13 | [A GIRA](https://open.spotify.com/track/4pYtao3lFQeIewGgRZguHS) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [A GIRA](https://open.spotify.com/album/36ejXTBB6Okdvdwpw5AE2B) | 3:04 |
 | 14 | [Connected](https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Connected](https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0) | 2:25 |
 | 15 | [Mariana's Call](https://open.spotify.com/track/75cQhmcEgnzTOx2iYug5ag) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Scarpelli](https://open.spotify.com/artist/45De8f6RWrQNhMxnAlSW1r) | [Mariana's Call](https://open.spotify.com/album/5gYgr7rP80Wi77fe9lXLC9) | 4:24 |

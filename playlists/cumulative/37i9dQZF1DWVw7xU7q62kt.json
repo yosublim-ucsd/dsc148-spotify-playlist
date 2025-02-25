@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Dilla Impresses Me",
       "url": "https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ"
@@ -4105,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Lemon Juice",
+        "url": "https://open.spotify.com/album/2rbkyy8vUaKvjFo86vFzit"
+      },
+      "artists": [
+        {
+          "name": "Zeyn",
+          "url": "https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116187,
+      "name": "Lemon Juice",
+      "url": "https://open.spotify.com/track/6ZjBdGWTRJS0JIO0ZodgDx"
+    },
+    {
+      "album": {
         "name": "Les amis",
         "url": "https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G"
       },
@@ -5568,7 +5586,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 160330,
       "name": "Palm Springs",
       "url": "https://open.spotify.com/track/47dEiRz8rdsmj2U2xz7Uhk"
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 111538,
       "name": "tempeh's blues",
       "url": "https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 202 songs - 10 hr 5 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 204 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 200 | [Mandatory Drug Test \(feat\. Young Thug\)](https://open.spotify.com/track/3VvHSQ2x6PqKYe4MBgxV0a) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 3:32 |
 | 201 | [Money Piling](https://open.spotify.com/track/5uqwEl9dOaplxosHJuUH8t) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 2:56 |
 | 202 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
+| 203 | [First Day](https://open.spotify.com/track/7ktGuYZdRDkvLm7cdUgPK0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [First Day](https://open.spotify.com/album/6iYoXZIicLwoBEl4EGTTAX) | 3:06 |
+| 204 | [Zodiac](https://open.spotify.com/track/0jue0zxb5P4u3k55sFiuBK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Zodiac](https://open.spotify.com/album/7fK0Qd0BFVuJx1OQ1UIM2k) | 2:51 |
 
-Snapshot ID: `AAAd6+pRxCSQGVCVOhGcTr00hMw1WXmm`
+Snapshot ID: `AAAd7blOUtAloQrLW77KY6L2P/UE0NWR`

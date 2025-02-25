@@ -4814,7 +4814,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 149373,
       "name": "Cacos De Vidro",
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/3Bn5vG7vienkREO35aoaKK"
@@ -21220,7 +21220,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 169634,
       "name": "Pe\u00e7a \u00cdntima",
       "url": "https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt"
@@ -23283,6 +23283,28 @@
     },
     {
       "album": {
+        "name": "O Que Bate \u00c9 Maluquice",
+        "url": "https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Resenha de Ex-Love",
+      "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
+    },
+    {
+      "album": {
         "name": "Resenha do Arrocha",
         "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
       },
@@ -24386,7 +24408,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/45ZY7YpxyqPS2qzGBqNxfG"
@@ -24412,7 +24434,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
@@ -24448,7 +24470,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 164596,
       "name": "Sei Tocar Viol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5hFh5hsMEmfRYZvh4FRE8Z"
@@ -27924,6 +27946,32 @@
       "duration_ms": 156130,
       "name": "Tu Tava Na Revoada - Ao Vivo",
       "url": "https://open.spotify.com/track/5yHUoqb2d8670KFzwtGY5F"
+    },
+    {
+      "album": {
+        "name": "Tu Xera",
+        "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158790,
+      "name": "Tu Xera",
+      "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
     },
     {
       "album": {

@@ -3487,6 +3487,32 @@
     },
     {
       "album": {
+        "name": "Cartier Santos Dumont",
+        "url": "https://open.spotify.com/album/3QXwSeMoEEnD8QHNjfFfG4"
+      },
+      "artists": [
+        {
+          "name": "Febre90s",
+          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144878,
+      "name": "Cartier Santos Dumont",
+      "url": "https://open.spotify.com/track/173oBdI5W1ucG1MUdAMsor"
+    },
+    {
+      "album": {
         "name": "Cash iMoney",
         "url": "https://open.spotify.com/album/1XONHSlCA3fJV8Hjeg6iKQ"
       },
@@ -18212,7 +18238,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 264423,
       "name": "Salve Geral",
       "url": "https://open.spotify.com/track/1pZ16EH1KYYec1a1jE2Q78"

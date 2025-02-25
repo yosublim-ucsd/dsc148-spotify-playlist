@@ -4,7 +4,7 @@
 
 > It’s giving lantern\-lit banquets, medieval courts and knights in shining armour✨
 
-42 songs - 1 hr 57 min
+43 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Tell Me A Tale Of Yourself, So That I Might Know Thee](https://open.spotify.com/track/3tc4PUXLpZ06Ryci7BDWx4) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [The Green Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yuBusTe5rPkBCtGhfHirQ) | 2:49 | 2025-01-10 |  |
 | [The Eternal Rose \(An Rós Síoraí\)](https://open.spotify.com/track/4Uvfv2YAyUqeQEl6Tx424h) | [Teena Lyle](https://open.spotify.com/artist/3dle1N2nJ5Lk8sAT5whP9X), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [The Eternal Rose \(An Rós Síoraí\)](https://open.spotify.com/album/7DPZSRTcDx2ANyAZ6sNDtd) | 4:08 | 2025-01-10 |  |
 | [The Fairy Round \(Galliard\)](https://open.spotify.com/track/217B2aNAKMidvy7RDSfMaA) | [Anthony Holborne](https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [Lute Music for Witches and Alchemists](https://open.spotify.com/album/3PdQWrrT44V9EoZjhccESU) | 3:24 | 2025-01-10 |  |
+| [The Nightfall Citadel](https://open.spotify.com/track/0lmbC4IW75xO161eVAyzyC) | [Sylvian Alisa](https://open.spotify.com/artist/2x3TxesKK8BtAPERBn86HW) | [The Nightfall Citadel](https://open.spotify.com/album/0s7OB5TiEWL4FJVvEEfk1A) | 3:57 | 2025-02-24 |  |
 | [The Old Bachelor, Z\. 607: Hornpipe](https://open.spotify.com/track/1ItE3sIOKKw9EctYXs1Ook) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Les Musiciens De Saint\-Julien](https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q), [François Lazarevitch](https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm) | [Purcell: Songs & Dances](https://open.spotify.com/album/1t1qYcX0EJkhIFEXjUV5JK) | 2:16 | 2025-01-10 |  |
 | [Trio Sonata in B minor for 2 Violins and Continuo, Op\. 1/11 , RV 79: 4\. Gavotta \(Presto\)](https://open.spotify.com/track/2rDfXeP12L6j0mHzwYbQsW) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Salvatore Accardo](https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc), [Franco Gulli](https://open.spotify.com/artist/37crzqlMU7x1sZk631tAmO), [Rohan De Saram](https://open.spotify.com/artist/1gJTdgLCmVRR10pFHUxY1I), [Bruno Canino](https://open.spotify.com/artist/6mxKqEHPXH9qUGaFLFnkfR) | [Baroque Dance](https://open.spotify.com/album/55cs1VtJkHiHxuVk4RcPBh) | 1:21 | 2025-01-10 |  |
 | [Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op\. 8 No\. 2, RV 315 "Summer": I\. Allegro non molto](https://open.spotify.com/track/4nnfVtlchqAkxYSZzcQIYY) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Israel Philharmonic Orchestra](https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/4eEJooUkzenp7lZTtfbIP7) | 5:16 | 2025-01-10 |  |

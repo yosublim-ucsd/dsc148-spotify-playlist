@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Annie
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,159 likes - 53 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,156 likes - 53 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 52 | [MAGICIAN](https://open.spotify.com/track/0vhYVSxoKn4OfIbM0uYlsc) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [inari](https://open.spotify.com/artist/0tuVgDVIeIxIbLWA8qacZJ) | [MAGICIAN](https://open.spotify.com/album/6bUVIE4GqONCcVWnSFmNL1) | 3:00 |
 | 53 | [Em Cry](https://open.spotify.com/track/0Nmrbyht6rFQsoolNKyBSy) | [Tyrone Avocado](https://open.spotify.com/artist/0LyVC3BF0QHfc9oXN7XuON), [Thrillkids](https://open.spotify.com/artist/6qYehGjqRRMnzkw4QAIQLz) | [Internet Love](https://open.spotify.com/album/6UNveKDr4I7tCA4ZOQY0zO) | 2:26 |
 
-Snapshot ID: `Z7rc1gAAAADBbg1ADqGkrRfgu0rIv8HW`
+Snapshot ID: `Z7rc1gAAAADRzQjur7qvmfErMtoB1iiQ`

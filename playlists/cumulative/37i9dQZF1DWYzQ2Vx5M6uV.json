@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Chalala",
+        "url": "https://open.spotify.com/album/3Cqpeb59ZINiYhL9lhyroH"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Chalala",
+      "url": "https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab"
+    },
+    {
+      "album": {
         "name": "Trapical",
         "url": "https://open.spotify.com/album/1wOXBLD5Zuy3npGXtHEHWr"
       },
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 159135,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
@@ -2134,6 +2156,32 @@
       "duration_ms": 155744,
       "name": "La Favorita de Mi Mama",
       "url": "https://open.spotify.com/track/6YBk9MOOX2DHKyuGwLvf33"
+    },
+    {
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
     },
     {
       "album": {
@@ -4066,7 +4114,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 137795,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/4W5hG67jd59WcrN8WdiRec"
@@ -4870,7 +4918,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 147169,
       "name": "Uhlal\u00e1",
       "url": "https://open.spotify.com/track/0OMRzxwYG06Cka4xCZEqrr"
@@ -5014,6 +5062,36 @@
       "duration_ms": 245414,
       "name": "Vamos Com Tudo (feat. Preto Show)",
       "url": "https://open.spotify.com/track/0HvaUKWOXnwAaTmoh4IBYy"
+    },
+    {
+      "album": {
+        "name": "Ven Ven (feat. Jeon)",
+        "url": "https://open.spotify.com/album/571762gTuuMnrQZU8SWycm"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Alex Sensation",
+          "url": "https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227628,
+      "name": "Ven Ven (feat. Jeon)",
+      "url": "https://open.spotify.com/track/4tkdZwjXfKKjymklHIFiPQ"
     },
     {
       "album": {

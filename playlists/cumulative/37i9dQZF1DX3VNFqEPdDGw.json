@@ -993,7 +993,7 @@
     },
     {
       "album": {
-        "name": "Competition",
+        "name": "Competition (Feat. Mahi Sharma)",
         "url": "https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH"
       },
       "artists": [
@@ -1010,7 +1010,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148124,
-      "name": "Competition",
+      "name": "Competition (Feat. Mahi Sharma)",
       "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
     },
     {
@@ -3797,6 +3797,32 @@
     },
     {
       "album": {
+        "name": "Right Way",
+        "url": "https://open.spotify.com/album/2XQRlJWhTkSyU42p9X3SDP"
+      },
+      "artists": [
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Nadha Virender",
+          "url": "https://open.spotify.com/artist/0O8dnO0SyOIX4C8dI1ERsF"
+        },
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "date_added": "2025-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138064,
+      "name": "Right Way",
+      "url": "https://open.spotify.com/track/2T4Pvgy8nFPA0Ub0P8vCQV"
+    },
+    {
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/0t5pMUgOK5i9p2dOdMjtJB"
       },
@@ -4726,7 +4752,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 214000,
       "name": "Vaddi Galbaat",
       "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Katie Tupper
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,782 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,786 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 22 | [Goals](https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Goals](https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S) | 2:13 |
 | 23 | [More Like It](https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [More Like It](https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A) | 3:02 |
 | 24 | [Hopeless Dreams](https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s) | 2:53 |
-| 25 | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST \- A COLORS SHOW](https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR) | 2:29 |
+| 25 | [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 |
 | 26 | [The Pressure](https://open.spotify.com/track/61ZyeQbHcAHyQk7q9CvWGg) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [The Pressure](https://open.spotify.com/album/6S537c2GkBxgh9Pd0QSpn9) | 2:29 |
 | 27 | [Her World](https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I’m Gone](https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi) | 2:25 |
 | 28 | [Le Plug \- Bonus](https://open.spotify.com/track/6EftlHyc04ft0gAYPyY2Zt) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [Nimrod \(Deluxe\)](https://open.spotify.com/album/5zkgPpatJ8DgWZS0pHxV5q) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [superstar loser](https://open.spotify.com/track/4eVzhh0Ebb3epXyuhKfGTx) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/44OdCi96s0fPvjDCrFdJ1Q) | 2:54 |
 | 40 | [Dishonest](https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Dishonest](https://open.spotify.com/album/1wHlTFsE3N0uXNImQutooN) | 3:08 |
 
-Snapshot ID: `Z6WTfQAAAABKVnN2c9RbfH2HpcxSr5Oo`
+Snapshot ID: `Z7y7XQAAAAC5PAtBMuRYtIQ0F1uwSkA0`

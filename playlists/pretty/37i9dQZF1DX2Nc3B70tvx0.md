@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Lucy Dacus
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067,260 likes - 113 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,067,222 likes - 113 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 112 | [Wolf Like Me](https://open.spotify.com/track/50vFNFOQLYjWBJQR70Or8X) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:31 |
 | 113 | [Pause at You](https://open.spotify.com/track/7sxP7XJT2ST0bEubmCunFA) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Pause at You](https://open.spotify.com/album/3zvoBOQkGhAWQZ4WURFNge) | 3:07 |
 
-Snapshot ID: `Z67N4gAAAACKaDMAL0wCLR2iBkyy2jAv`
+Snapshot ID: `Z67N4gAAAACj/rAK42/xyNxGdmPEHrpz`

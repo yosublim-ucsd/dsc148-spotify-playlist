@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 142093,
+  "num_followers": 142121,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAAA0YFpnyU/SOqQA4j1vP95Y",
+  "snapshot_id": "Z7plAAAAAAB45tseRamcQkHQuMzqIyKC",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innocence",
         "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
@@ -323,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
       },
       "artists": [
         {
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 201973,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
       "duration_ms": 256506,
       "name": "Going Home - Edit",
       "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
-      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Music Radio",
         "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 77374,
       "name": "Clair de Lune (feat. Kenny G)",
       "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
+      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
     },
     {
       "added_at": null,

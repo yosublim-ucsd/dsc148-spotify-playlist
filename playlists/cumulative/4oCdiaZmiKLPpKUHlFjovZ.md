@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.
 
-131 songs - 5 hr 40 min
+132 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 | 2024-06-01 |  |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2023-12-01 |  |
+| [bad](https://open.spotify.com/track/3hGZtt2x9bI55HgxdSrCam) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [bad](https://open.spotify.com/album/10PpQ78gSUR9qTJZacpqmF) | 2:25 | 2025-02-24 |  |
 | [BBL \(feat\. Rob49\)](https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BBL \(feat\. Rob49\)](https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW) | 2:26 | 2024-12-09 |  |
 | [BBY GOAT](https://open.spotify.com/track/4KcEwOdMjfKDsroYVy6mnp) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 4:10 | 2024-06-14 | 2025-02-01 |
 | [BEAST OUT THE CAGE](https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [BEAST OUT THE CAGE](https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg) | 2:53 | 2024-02-20 | 2025-02-01 |

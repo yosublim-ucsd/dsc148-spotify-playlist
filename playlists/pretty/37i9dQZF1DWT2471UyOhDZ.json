@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Sharon Van Atten & The Attachment Theory",
-  "num_followers": 92812,
+  "num_followers": 92824,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "ROCKMAN",
-        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 179370,
-      "name": "ROCKMAN",
-      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Man Made of Meat",
-        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 189947,
-      "name": "Man Made of Meat",
-      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Man Made of Meat",
+        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 189947,
+      "name": "Man Made of Meat",
+      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "There's Always Gonna Be Something",
-        "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 242878,
-      "name": "There\u2019s Always Gonna Be Something",
-      "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "There's Always Gonna Be Something",
+        "url": "https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 242878,
+      "name": "There\u2019s Always Gonna Be Something",
+      "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
     },
     {
       "added_at": "2025-02-13 21:45:48",
@@ -613,24 +613,20 @@
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
     },
     {
-      "added_at": "2025-02-13 21:45:48",
+      "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Back in the Game",
-        "url": "https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN"
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
       "artists": [
         {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Back in the Game",
-      "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -649,20 +645,24 @@
       "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
     },
     {
-      "added_at": "2025-02-07 17:36:47",
+      "added_at": "2025-02-13 21:45:48",
       "album": {
-        "name": "The Rest Of Me",
-        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+        "name": "Back in the Game",
+        "url": "https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 230661,
-      "name": "The Rest Of Me",
-      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+      "duration_ms": 281100,
+      "name": "Back in the Game",
+      "url": "https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 190413,
       "name": "AMAMA",
       "url": "https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -799,22 +815,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2025-02-13 21:45:48",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "More than Life",
-        "url": "https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7"
-      },
-      "artists": [
-        {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
-        }
-      ],
-      "duration_ms": 333665,
-      "name": "More Than Life",
-      "url": "https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "More than Life",
+        "url": "https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "duration_ms": 333665,
+      "name": "More Than Life",
+      "url": "https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW"
     },
     {
       "added_at": "2025-02-13 21:45:48",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Brushstrokes of Reunion",
-        "url": "https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 215380,
-      "name": "Brushstrokes of Reunion",
-      "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Brushstrokes of Reunion",
+        "url": "https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 215380,
+      "name": "Brushstrokes of Reunion",
+      "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Whiplash",
         "url": "https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 254742,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Liquid Gold 25",
-        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 267969,
-      "name": "Liquid Gold 25",
-      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Zombieland",
         "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Liquid Gold 25",
+        "url": "https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 267969,
+      "name": "Liquid Gold 25",
+      "url": "https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 311702,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 311702,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "SHHHHHHH!",
-        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 117876,
-      "name": "Time For Slurp",
-      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "SHHHHHHH!",
+        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 117876,
+      "name": "Time For Slurp",
+      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
+        "name": "Light Sleeper",
+        "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "duration_ms": 218312,
+      "name": "Release Myself",
+      "url": "https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
         "name": "Le Risque",
         "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Light Sleeper",
-        "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
       "artists": [
         {
-          "name": "Bess Atwell",
-          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 218312,
-      "name": "Release Myself",
-      "url": "https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB"
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
         "name": "The Silence That Remains",
         "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 342796,
       "name": "The Silence That Remains",
       "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
-    },
-    {
-      "added_at": "2025-02-07 17:36:47",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2025-02-07 17:36:47",
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2025-02-07 17:36:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 153266,
-      "name": "Mood Swings - Spotify Singles",
-      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "added_at": "2025-02-07 17:36:47",
+      "album": {
+        "name": "I Wanna Live With You",
+        "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 174943,
+      "name": "I Wanna Live With You",
+      "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
     }
   ],
   "unique_name": "The Listening Post",

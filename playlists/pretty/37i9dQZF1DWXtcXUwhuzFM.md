@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa william ja AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,558 likes - 106 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,567 likes - 106 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

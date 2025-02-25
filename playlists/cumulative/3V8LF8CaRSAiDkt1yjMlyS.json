@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6"
+      },
+      "artists": [
+        {
+          "name": "Steady Rollin",
+          "url": "https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Must I Die Alone",
+      "url": "https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },

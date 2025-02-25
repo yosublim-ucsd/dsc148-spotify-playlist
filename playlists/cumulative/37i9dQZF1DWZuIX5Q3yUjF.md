@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Saintess in cover della playlist dell'R&B italiano 🎧
+> Florinda in cover della playlist dell'R&B italiano 🎧
 
 724 songs - 1 day 11 hr 53 min
 

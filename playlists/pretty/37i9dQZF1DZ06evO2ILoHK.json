@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 11045,
+  "num_followers": 11053,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAAC+WqB0FWEYipruhRrUSse9",
+  "snapshot_id": "Z7plAAAAAAD0si1RffSs+mIWRnrBiuDq",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
+      "duration_ms": 84800,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Changing Lanes",
-      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
+      "duration_ms": 177706,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
     },
     {
       "added_at": null,

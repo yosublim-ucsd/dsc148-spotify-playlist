@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Kurtis Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,537 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,569 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Sugar Rush](https://open.spotify.com/track/5AjZOtMboHB5jE1HAZBoPV) | [VØR](https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT) | [Sugar Rush](https://open.spotify.com/album/0G0aIk1Efi2ytLkCC8d9t9) | 2:46 |
 | 75 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 
-Snapshot ID: `Z7e0CwAAAAD5+OpQfU2HoYBw3zL4PHSE`
+Snapshot ID: `Z7e0CwAAAABLq0A3qrBjajbiPdzoQNER`

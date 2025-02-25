@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L06PIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L0/goAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Wackelkontakt",
         "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/5JjNFN6LfQsR7meLATMHnh"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5LvsZfsl2895yNFHxKg0LV"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "tau mich auf",
         "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Schau mal herein",
         "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
@@ -77,7 +93,23 @@
       "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "denkst du an mich?",
+        "url": "https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "duration_ms": 197769,
+      "name": "denkst du an mich?",
+      "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Bir (with Mehnersmoos) [Atomsauf Edit]",
         "url": "https://open.spotify.com/album/22yIr4Zdxc5j5mu9MNDRYg"
@@ -105,23 +137,7 @@
       "url": "https://open.spotify.com/track/56xH6BfLoJ6zSp5t9gdEdw"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "denkst du an mich?",
-        "url": "https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs"
-      },
-      "artists": [
-        {
-          "name": "lovehead",
-          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
-        }
-      ],
-      "duration_ms": 197769,
-      "name": "denkst du an mich?",
-      "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Lonely Boy",
         "url": "https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk"
@@ -137,23 +153,7 @@
       "url": "https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Verloren und wieder gefunden",
-        "url": "https://open.spotify.com/album/40rELX9f8A4ozhlKiuihEW"
-      },
-      "artists": [
-        {
-          "name": "Mendler",
-          "url": "https://open.spotify.com/artist/1SO1ppSnmqbDqD5AoeRawX"
-        }
-      ],
-      "duration_ms": 224548,
-      "name": "Die Tasse Kaffee - Radio",
-      "url": "https://open.spotify.com/track/1NW41sXZl4oo2zpMO5LzUj"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "The Gifted",
         "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
@@ -173,7 +173,23 @@
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Verloren und wieder gefunden",
+        "url": "https://open.spotify.com/album/40rELX9f8A4ozhlKiuihEW"
+      },
+      "artists": [
+        {
+          "name": "Mendler",
+          "url": "https://open.spotify.com/artist/1SO1ppSnmqbDqD5AoeRawX"
+        }
+      ],
+      "duration_ms": 224548,
+      "name": "Die Tasse Kaffee - Radio",
+      "url": "https://open.spotify.com/track/1NW41sXZl4oo2zpMO5LzUj"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "vorsatz",
         "url": "https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Ballert auf Lautlos",
         "url": "https://open.spotify.com/album/4XaE5Q81SvxX0rDbOLgjDR"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/4QveIIDRvuV7aKGOqDAbuP"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Ciganka",
         "url": "https://open.spotify.com/album/3JPcjnAmV9BXtAbpnQDkDQ"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/5UnsKw1PXWH3gVFM0uMJo0"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "chess",
         "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "D\u00e4r palmerna bor (Remixes)",
-        "url": "https://open.spotify.com/album/1UH9wZcbiulhBI7K56fLeX"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "D\u00e4r palmerna bor (Sped Up)",
-      "url": "https://open.spotify.com/track/2PRQCF20p8fmYsGkOy8VsK"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
@@ -329,7 +329,23 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "D\u00e4r palmerna bor (Remixes)",
+        "url": "https://open.spotify.com/album/1UH9wZcbiulhBI7K56fLeX"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "D\u00e4r palmerna bor (Sped Up)",
+      "url": "https://open.spotify.com/track/2PRQCF20p8fmYsGkOy8VsK"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Raw Tracks and Reworks",
         "url": "https://open.spotify.com/album/3rROE9cryMcT8NEm4JyGRd"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Verwandtschaftstreffen",
         "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "chess",
         "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
@@ -377,55 +393,7 @@
       "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
-        "url": "https://open.spotify.com/album/021G1t2uTkq8QW3sy8fWPQ"
-      },
-      "artists": [
-        {
-          "name": "East Duo",
-          "url": "https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY"
-        }
-      ],
-      "duration_ms": 90607,
-      "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
-      "url": "https://open.spotify.com/track/0YAGCZjsDqw6yud2PTMuvu"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "WONDERWaLL - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "EIN TEIL VON MIR",
-        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
-      },
-      "artists": [
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        }
-      ],
-      "duration_ms": 165993,
-      "name": "EIN TEIL VON MIR",
-      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Muhuuuuu",
         "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
@@ -445,59 +413,39 @@
       "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+        "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
+        "url": "https://open.spotify.com/album/021G1t2uTkq8QW3sy8fWPQ"
       },
       "artists": [
         {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "East Duo",
+          "url": "https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY"
         }
       ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+      "duration_ms": 90607,
+      "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
+      "url": "https://open.spotify.com/track/0YAGCZjsDqw6yud2PTMuvu"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "SCHLUSS MiT LUSTiG",
-        "url": "https://open.spotify.com/album/7b2TVFqEcSXdZ24Id6wvQH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 163402,
-      "name": "WENN DU DUMM BiST",
-      "url": "https://open.spotify.com/track/26rTaeKpaLCsa8xZ1yd9Up"
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "L\u00f6sch Mei Nummer",
-        "url": "https://open.spotify.com/album/2UVj82hXR1qc7j3Xd1bYKO"
-      },
-      "artists": [
-        {
-          "name": "Kid R\u00e4p",
-          "url": "https://open.spotify.com/artist/1VNj7JRNAFRBosFPlJnKoB"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "L\u00f6sch Mei Nummer",
-      "url": "https://open.spotify.com/track/5OgJE6aUOQK1Plo9PcMwB7"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Aldan\u0131r\u0131m",
         "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
@@ -517,7 +465,23 @@
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "SCHLUSS MiT LUSTiG",
+        "url": "https://open.spotify.com/album/7b2TVFqEcSXdZ24Id6wvQH"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "WENN DU DUMM BiST",
+      "url": "https://open.spotify.com/track/26rTaeKpaLCsa8xZ1yd9Up"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Out of the Dark",
         "url": "https://open.spotify.com/album/28a8wlNs1yGFXoEJT3JwCg"
@@ -537,7 +501,43 @@
       "url": "https://open.spotify.com/track/4JcnSMljYTYsMwTunCYPc1"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "L\u00f6sch Mei Nummer",
+        "url": "https://open.spotify.com/album/2UVj82hXR1qc7j3Xd1bYKO"
+      },
+      "artists": [
+        {
+          "name": "Kid R\u00e4p",
+          "url": "https://open.spotify.com/artist/1VNj7JRNAFRBosFPlJnKoB"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "L\u00f6sch Mei Nummer",
+      "url": "https://open.spotify.com/track/5OgJE6aUOQK1Plo9PcMwB7"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -553,7 +553,87 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "EIN TEIL VON MIR",
+        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "duration_ms": 165993,
+      "name": "EIN TEIL VON MIR",
+      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Mendil",
+        "url": "https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclden",
+          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Mendil",
+      "url": "https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
@@ -573,179 +653,7 @@
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Volumen & Kraft",
-        "url": "https://open.spotify.com/album/3n3aQcQ2mIjS3xY7AKekPy"
-      },
-      "artists": [
-        {
-          "name": "Pavelo & Schnell",
-          "url": "https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4"
-        },
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 217639,
-      "name": "Amicelli",
-      "url": "https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Mai",
-      "url": "https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "LICHTER AUS",
-        "url": "https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS"
-      },
-      "artists": [
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "LICHTER AUS",
-      "url": "https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Vidrado Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe"
-      },
-      "artists": [
-        {
-          "name": "Dj Guuga",
-          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Vidrado Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Zebrastreifenpferd",
-        "url": "https://open.spotify.com/album/2YO8rQivabhVvBg0GOOHhU"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 206464,
-      "name": "Zebrastreifenpferd",
-      "url": "https://open.spotify.com/track/1h9dNKrLwZNSqbJgpdhC3j"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 135063,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
-    },
-    {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "ReawakeR (feat. Felix of Stray Kids)",
         "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
@@ -765,63 +673,95 @@
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+        "name": "Zebrastreifenpferd",
+        "url": "https://open.spotify.com/album/2YO8rQivabhVvBg0GOOHhU"
       },
       "artists": [
         {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
         }
       ],
-      "duration_ms": 189544,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
+      "duration_ms": 206464,
+      "name": "Zebrastreifenpferd",
+      "url": "https://open.spotify.com/track/1h9dNKrLwZNSqbJgpdhC3j"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
       "artists": [
         {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Volumen & Kraft",
+        "url": "https://open.spotify.com/album/3n3aQcQ2mIjS3xY7AKekPy"
+      },
+      "artists": [
+        {
+          "name": "Pavelo & Schnell",
+          "url": "https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4"
         },
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+      "duration_ms": 217639,
+      "name": "Amicelli",
+      "url": "https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "Auffe aufn Berg",
-        "url": "https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr"
+        "name": "Vidrado Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe"
       },
       "artists": [
         {
-          "name": "J\u00e4germeister DJ Alex",
-          "url": "https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk"
+          "name": "Dj Guuga",
+          "url": "https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR"
         },
         {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         }
       ],
-      "duration_ms": 231424,
-      "name": "Auffe aufn Berg",
-      "url": "https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz"
+      "duration_ms": 134769,
+      "name": "Vidrado Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Pumpalicca",
         "url": "https://open.spotify.com/album/7sBKXwTn2CjL3oGYAsdexr"
@@ -841,31 +781,63 @@
       "url": "https://open.spotify.com/track/71zFAz8VyD7Uolfl9DvyNQ"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "Shatta Ting",
-        "url": "https://open.spotify.com/album/4Y8rhzQmphj5nEXhIlJW6P"
+        "name": "LICHTER AUS",
+        "url": "https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS"
       },
       "artists": [
         {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
         },
         {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        },
-        {
-          "name": "Dj Glad",
-          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
         }
       ],
-      "duration_ms": 128399,
-      "name": "Money Pull Up",
-      "url": "https://open.spotify.com/track/5bKDKo9lhFvTQR517vQuSH"
+      "duration_ms": 203076,
+      "name": "LICHTER AUS",
+      "url": "https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
       "album": {
         "name": "Im Doing Fine",
         "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
@@ -885,24 +857,36 @@
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
     },
     {
-      "added_at": "2025-02-23 14:32:05",
+      "added_at": "2025-02-24 20:02:49",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+      "duration_ms": 149626,
+      "name": "Her Nerdeysen",
+      "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
+    },
+    {
+      "added_at": "2025-02-24 20:02:49",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
     }
   ],
   "unique_name": "Viral 50 - Austria",

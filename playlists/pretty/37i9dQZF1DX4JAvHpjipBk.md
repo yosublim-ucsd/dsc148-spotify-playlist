@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Selena Gomez, benny blanco & Gracie Abrams, Tate McRae, JENNIE & Doechii and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,300,761 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,300,757 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Workhorse](https://open.spotify.com/track/4ELeJcKvUtY8E6KywSZbsw) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Workhorse](https://open.spotify.com/album/3mcE6SVAwjdA4h2jo3HF3w) | 3:35 |
 | 100 | [⁠In a Million Streams](https://open.spotify.com/track/5XlVBJQhKFE53tXkcOYl95) | [Kelora](https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP) | [Sleepers](https://open.spotify.com/album/6uuTtJuxRyfvlcCXrBXVDg) | 2:56 |
 
-Snapshot ID: `Z7gJ/AAAAACZA2IiBtT5+D7gBibdrl0L`
+Snapshot ID: `Z7gJ/AAAAADAJKFJla8eHd9fFAorgGXm`

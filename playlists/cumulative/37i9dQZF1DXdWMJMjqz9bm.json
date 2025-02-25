@@ -7166,7 +7166,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 206112,
       "name": "Mile Away",
       "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
@@ -7206,6 +7206,28 @@
       "duration_ms": 158120,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx"
+    },
+    {
+      "album": {
+        "name": "Miss Sunshine",
+        "url": "https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203087,
+      "name": "Miss Sunshine",
+      "url": "https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1"
     },
     {
       "album": {
@@ -10358,7 +10380,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 105774,
       "name": "Space for Two",
       "url": "https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43"

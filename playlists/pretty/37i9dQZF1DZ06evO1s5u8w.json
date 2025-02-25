@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 192074,
+  "num_followers": 192105,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fCAAAAAADv2QqKeBR8H+BF8A7PBNE7",
+  "snapshot_id": "Z7plAAAAAAAw1/uwhmJ1hD877EQUcniK",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Wild Wild Life",
+      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -279,26 +295,6 @@
       "duration_ms": 349280,
       "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
       "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
-        }
-      ],
-      "duration_ms": 220680,
-      "name": "Wild Wild Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4u6rcmlhDDgS0YAo8ZMI4a"
     },
     {
       "added_at": null,
@@ -335,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Psycho Killer - Acoustic",
-      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -363,6 +343,22 @@
       "duration_ms": 221000,
       "name": "Heaven - Live",
       "url": "https://open.spotify.com/track/0Q2b6AxWV5tD117XktdQxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Psycho Killer - Acoustic",
+      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
     },
     {
       "added_at": null,
@@ -399,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -431,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Love \u2192 Building on Fire - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6hfsIlwOxJ0cX8v2SNntBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "Making Flippy Floppy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -472,25 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 387560,
-      "name": "The Great Curve - 2005 Remaster",
-      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "Thank You for Sending Me an Angel - Live",
-      "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
     },
     {
       "added_at": null,
@@ -511,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
@@ -520,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Don't Worry About the Government - 2005 Remaster",
-      "url": "https://open.spotify.com/track/7zPfvP2sFsLxrKqezlvVm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Listening Wind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
+      "duration_ms": 354213,
+      "name": "Making Flippy Floppy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
     },
     {
       "added_at": null,
@@ -552,9 +468,41 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 360640,
-      "name": "What a Day That Was - Live; Edit",
-      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
+      "duration_ms": 129800,
+      "name": "Thank You for Sending Me an Angel - Live",
+      "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 387560,
+      "name": "The Great Curve - 2005 Remaster",
+      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Love \u2192 Building on Fire - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6hfsIlwOxJ0cX8v2SNntBQ"
     },
     {
       "added_at": null,
@@ -575,6 +523,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 360640,
+      "name": "What a Day That Was - Live; Edit",
+      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Listening Wind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Don't Worry About the Government - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7zPfvP2sFsLxrKqezlvVm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -591,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -619,6 +599,22 @@
       "duration_ms": 270800,
       "name": "Genius of Love (Tom Tom Club) - Live",
       "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
     },
     {
       "added_at": null,
@@ -723,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Deluxe Edition) [Live]",
         "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
       },
@@ -751,6 +731,22 @@
       "duration_ms": 443558,
       "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
       "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,

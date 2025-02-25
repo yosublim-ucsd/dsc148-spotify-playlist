@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-373 songs - 16 hr 51 min
+374 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-09-29 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 | 2023-09-16 |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 | 2024-04-06 |
+| [Rocamadour](https://open.spotify.com/track/5ySoljDtQbpDegDHAW7AQk) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Rocamadour](https://open.spotify.com/album/3oWB3pMma6aMlIMOgFqGnU) | 3:22 | 2025-02-24 |  |
 | [Royan](https://open.spotify.com/track/5fIJtYm39OtXMAh4geauC9) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Royan](https://open.spotify.com/album/6E7enXaW0kX3sil3Uq6r6g) | 3:22 | 2024-10-15 |  |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 | 2024-04-20 |
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-06-23 |

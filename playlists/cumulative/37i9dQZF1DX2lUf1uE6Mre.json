@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 86486,
       "name": "BeBe",
       "url": "https://open.spotify.com/track/4euJMz01a54OGEBZUOTKmf"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 156656,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/4ynOzZ1rvjeqTSZ7ztEbBa"
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Criminale",
+        "url": "https://open.spotify.com/album/0JJkDnJUk7KIZExS9WJZtu"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168594,
+      "name": "Criminale",
+      "url": "https://open.spotify.com/track/1Be37RqkPZzbGljg38HrBI"
+    },
+    {
+      "album": {
         "name": "EUROSPORT",
         "url": "https://open.spotify.com/album/6Bkx66OfElcoOtkxp043SR"
       },
@@ -1140,6 +1158,28 @@
       "duration_ms": 155355,
       "name": "Dale",
       "url": "https://open.spotify.com/track/4JeRA6jqXpChOxN0Gnd4tP"
+    },
+    {
+      "album": {
+        "name": "Delale",
+        "url": "https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155081,
+      "name": "Delale",
+      "url": "https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv"
     },
     {
       "album": {
@@ -1600,7 +1640,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 193266,
       "name": "Goluboi Wagon (\u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0432\u0430\u0433\u043e\u043d)",
       "url": "https://open.spotify.com/track/2N7jK08JNI0I6fd5sda4Wj"
@@ -2221,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Finessim",
+          "url": "https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr"
+    },
+    {
+      "album": {
         "name": "Seductive",
         "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
       },
@@ -2746,6 +2808,28 @@
       "duration_ms": 149333,
       "name": "Ohh Baby",
       "url": "https://open.spotify.com/track/5qIEQwr6duTVF77EzNODcL"
+    },
+    {
+      "album": {
+        "name": "ohne dich ballert nicht",
+        "url": "https://open.spotify.com/album/4fKQueaBBOZU0L6UDwASXc"
+      },
+      "artists": [
+        {
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        },
+        {
+          "name": "YDRA",
+          "url": "https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132946,
+      "name": "ohne dich ballert nicht",
+      "url": "https://open.spotify.com/track/4DbirG2kU3LvFgl9NH6QDW"
     },
     {
       "album": {
@@ -3508,7 +3592,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 136062,
       "name": "TOPG",
       "url": "https://open.spotify.com/track/5200qwwFttxV6xvuTehsMV"
@@ -3803,6 +3887,32 @@
     },
     {
       "album": {
+        "name": "WER MACHT PARA 3",
+        "url": "https://open.spotify.com/album/1myLq2BFzmGEPqReRp6BUh"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Daniel Slump",
+          "url": "https://open.spotify.com/artist/6aCnsDwUUiBSNDdsmtuSRb"
+        }
+      ],
+      "date_added": "2025-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146493,
+      "name": "WER MACHT PARA 3",
+      "url": "https://open.spotify.com/track/1XhEwA9KL44MtKNfHEc2NJ"
+    },
+    {
+      "album": {
         "name": "Whine",
         "url": "https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR"
       },
@@ -4038,7 +4148,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-25",
       "duration_ms": 124222,
       "name": "Yippie Ya",
       "url": "https://open.spotify.com/track/6HDhJuoLkHEKcjFF0Me5B5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nardo Wick, Don Toliver, Joey Bada$$ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,653 likes - 52 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,838 likes - 52 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 51 | [Deathnote](https://open.spotify.com/track/6Ck323zlAqDG2iFfri38Wf) | [Ronshach](https://open.spotify.com/artist/0EINQs1jKxovMVKKEmg3q4) | [The Red Apple](https://open.spotify.com/album/3sRtBT1dgFRwqFVwkQYr9r) | 1:58 |
 | 52 | [One Of Them Nights](https://open.spotify.com/track/53tE2VesxMEZke2xIAqaKv) | [Jay Furr](https://open.spotify.com/artist/1fHdBt7oJXyCuyFi4dtb6t) | [One Of Them Nights](https://open.spotify.com/album/48C4VCjVNYkTHI9u9Py0qf) | 2:22 |
 
-Snapshot ID: `Z7lCugAAAABMg4WWh2d9DvBDcR15VpvL`
+Snapshot ID: `Z7lCugAAAAARH/26HE86A6yHh/ftrGVH`

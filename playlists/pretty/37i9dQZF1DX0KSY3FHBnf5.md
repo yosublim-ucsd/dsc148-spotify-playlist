@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,275 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,403 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 99 | [everything in memory will be erased](https://open.spotify.com/track/0xFyqmaHX6IEE8PZ40Q4Ms) | [endless withdrawal](https://open.spotify.com/artist/38BaarFdCwCpVmw0rXB2tu) | [everything in memory will be erased](https://open.spotify.com/album/0FjnzCmbvHbgnDfRiA2oZh) | 2:14 |
 | 100 | [peaceful silence](https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [peaceful silence](https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH) | 1:40 |
 
-Snapshot ID: `Z7f6TwAAAAATEPzY7gRun1gy8RvzJg77`
+Snapshot ID: `Z7f6TwAAAADjstjUPz4+XOwNU4dELHHu`

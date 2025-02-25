@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DENNIS, Luísa Sonza e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,519,940 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,520,638 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [2025](https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [2025](https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl) | 2:52 |
 | 50 | [Puta É Só um Detalhe](https://open.spotify.com/track/4eqOz5gdCYww9GB5q3q1pU) | [DJ Douglinhas](https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi), [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o) | [Puta É Só um Detalhe](https://open.spotify.com/album/1lDtxHF9So0nM2qJJ5ngso) | 2:38 |
 
-Snapshot ID: `Z7kRgAAAAABpuikil+oC5CN1AudW+8u+`
+Snapshot ID: `Z7kRgAAAAABkrgj4YIFBbz39BDjvByhW`

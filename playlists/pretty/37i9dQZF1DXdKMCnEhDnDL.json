@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Roxy Dekker",
-  "num_followers": 505868,
+  "num_followers": 505949,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7e0EgAAAACuVgONXJ4HiEptZlJtiDjf",
+  "snapshot_id": "Z7xROwAAAAC/mgy7sWBuq9LPMcvTAkg8",
   "tracks": [
     {
       "added_at": "2025-02-20 23:00:34",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-02-20 23:00:34",
       "album": {
-        "name": "ADEMEN",
-        "url": "https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "ADEMEN",
-      "url": "https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP"
-    },
-    {
-      "added_at": "2025-02-20 23:00:34",
-      "album": {
         "name": "Ik Zeg Niets",
         "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
+    },
+    {
+      "added_at": "2025-02-20 23:00:34",
+      "album": {
+        "name": "ADEMEN",
+        "url": "https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "ADEMEN",
+      "url": "https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP"
     },
     {
       "added_at": "2025-02-20 23:00:34",

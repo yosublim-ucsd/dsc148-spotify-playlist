@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Jordana B.",
-  "num_followers": 197274,
+  "num_followers": 197277,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "El BB de la luz",
-        "url": "https://open.spotify.com/album/5EdZBsNCtfcBu8kCZV2ZWB"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
         }
       ],
-      "duration_ms": 148828,
-      "name": "El BB de la luz",
-      "url": "https://open.spotify.com/track/6WmiYbVoUU9oqKDPQ1AAFi"
+      "duration_ms": 168235,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+        "name": "El BB de la luz",
+        "url": "https://open.spotify.com/album/5EdZBsNCtfcBu8kCZV2ZWB"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 168235,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
+      "duration_ms": 148828,
+      "name": "El BB de la luz",
+      "url": "https://open.spotify.com/track/6WmiYbVoUU9oqKDPQ1AAFi"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "A partir de ahora",
-        "url": "https://open.spotify.com/album/4FhlpOHfHQGY0OQLaNjzjv"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "A partir de ahora",
-      "url": "https://open.spotify.com/track/5HSMsppVuiUt7iAQd4Uzzk"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Nost\u00e0lgia Airlines",
         "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "A partir de ahora",
+        "url": "https://open.spotify.com/album/4FhlpOHfHQGY0OQLaNjzjv"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "A partir de ahora",
+      "url": "https://open.spotify.com/track/5HSMsppVuiUt7iAQd4Uzzk"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
+        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 231877,
+      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
         "name": "Elizabeth",
         "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 162000,
       "name": "Se Nota",
       "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
-        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 231877,
-      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Lo mejor",
-        "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 117750,
-      "name": "Lo mejor",
-      "url": "https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "SORA",
         "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
+        "name": "Lo mejor",
+        "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "Lo mejor",
+      "url": "https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
         "name": "Vanpiro Esiten",
         "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 221901,
       "name": "Nunca mas",
       "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "Bail\u00f3dromo, Vol. 1",
+        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 268253,
+      "name": "Siempre Vuelve",
+      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "Bail\u00f3dromo, Vol. 1",
-        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
-      },
-      "artists": [
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 268253,
-      "name": "Siempre Vuelve",
-      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "SI QUIERES",
-        "url": "https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG"
-      },
-      "artists": [
-        {
-          "name": "Los Vinagres",
-          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
-        }
-      ],
-      "duration_ms": 169557,
-      "name": "SI QUIERES",
-      "url": "https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Mar Menor",
         "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 193829,
       "name": "Mar Menor",
       "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "SI QUIERES",
+        "url": "https://open.spotify.com/album/2RxxIyw1NhReLgHtZ354gG"
+      },
+      "artists": [
+        {
+          "name": "Los Vinagres",
+          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
+        }
+      ],
+      "duration_ms": 169557,
+      "name": "SI QUIERES",
+      "url": "https://open.spotify.com/track/1tnamj7qFl2qru2NWCtd8I"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "MENTIRA",
-        "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
-      },
-      "artists": [
-        {
-          "name": "Los Vinagres",
-          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "MENTIRA",
-      "url": "https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Canciones Inestimables",
         "url": "https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 165959,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "MENTIRA",
+        "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
+      },
+      "artists": [
+        {
+          "name": "Los Vinagres",
+          "url": "https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ"
     },
     {
       "added_at": "2025-02-20 23:00:19",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-02-20 23:00:19",
       "album": {
-        "name": "BLU",
-        "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 148650,
-      "name": "BLU",
-      "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
-    },
-    {
-      "added_at": "2025-02-20 23:00:19",
-      "album": {
         "name": "Ya No Soy Esa",
         "url": "https://open.spotify.com/album/25x72pOYBTqHP0u4HUPqTK"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 140281,
       "name": "Ya No Soy Esa",
       "url": "https://open.spotify.com/track/0WmbQs7J39KFReyNj8r1DB"
+    },
+    {
+      "added_at": "2025-02-20 23:00:19",
+      "album": {
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 148650,
+      "name": "BLU",
+      "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
     },
     {
       "added_at": "2025-02-20 23:00:19",

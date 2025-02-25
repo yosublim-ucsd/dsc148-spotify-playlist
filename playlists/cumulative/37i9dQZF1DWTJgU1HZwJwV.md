@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-541 songs - 22 hr 54 min
+544 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Dari Kejauhan](https://open.spotify.com/track/4K78IXVq7EvW98OrJ54sy1) | [Made Dien](https://open.spotify.com/artist/2FA2axlDjD33BuE58c0AqW) | [Grateful](https://open.spotify.com/album/5RTEWuj9SuqPgqErUGKHUM) | 2:28 | 2022-06-17 | 2022-12-24 |
 | [Dawn in the Alps](https://open.spotify.com/track/3juEXNwsK231EL3cmEIYyh) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Dawn in the Alps](https://open.spotify.com/album/5ZBiuIE9R6XgDWRKMI7q4F) | 3:58 | 2022-06-17 | 2023-06-03 |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-28 |  |
+| [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Days Like These](https://open.spotify.com/track/6yHEpp2Npgz3DGeUGjexgO) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Days Like These](https://open.spotify.com/album/54wydD6HnHaWq8AxbWk9vA) | 2:13 | 2022-06-17 | 2023-01-20 |
 | [Days of Rain](https://open.spotify.com/track/2jsQWRYISLjXA2x3LQMzH6) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Days of Rain](https://open.spotify.com/album/4BytJNCzENodkN9futggYe) | 2:48 | 2022-06-17 | 2023-10-27 |
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-28 | 2023-06-23 |
@@ -205,6 +206,7 @@
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 | 2023-06-23 |
 | [Have Faith In What Will Be](https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Have Faith In What Will Be](https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV) | 3:18 | 2023-10-27 |  |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-06-23 |
+| [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-06-17 | 2023-04-29 |
 | [Hommage a JT](https://open.spotify.com/track/4sPj6HtAEj7j2W302sUmgz) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 3:03 | 2022-06-17 | 2023-03-10 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-28 | 2023-06-23 |
@@ -533,6 +535,7 @@
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-10 |  |
 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 | 2022-08-05 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2023-06-23 |
+| [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 |  |
 | [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2023-02-25 |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-19 | 2023-10-27 |

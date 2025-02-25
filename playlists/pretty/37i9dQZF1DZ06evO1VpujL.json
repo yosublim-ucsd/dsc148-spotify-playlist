@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 26257,
+  "num_followers": 26267,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kTgAAAAAACe68Eeko3HapDu7OuKz4o",
+  "snapshot_id": "Z7plAAAAAABrX6l6vzXpw3Omu9cjS89E",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 47003,
-      "name": "I",
-      "url": "https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03"
+      "duration_ms": 164615,
+      "name": "No Justice",
+      "url": "https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 164615,
-      "name": "No Justice",
-      "url": "https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP"
+      "duration_ms": 47003,
+      "name": "I",
+      "url": "https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03"
     },
     {
       "added_at": null,

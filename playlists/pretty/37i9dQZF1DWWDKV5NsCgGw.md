@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,509 likes - 99 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,978 likes - 99 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enlightenment \(Main Title Theme\) \- from "The White Lotus: Season 3"](https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Enlightenment \(Main Title Theme\) \[from "The White Lotus: Season 3"\]](https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY) | 1:46 |
-| 2 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9), [Center Stage](https://open.spotify.com/artist/7GwkvEAAgD9ve3k9BQgaZM) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 |
-| 3 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
+| 2 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
+| 3 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9), [Center Stage](https://open.spotify.com/artist/7GwkvEAAgD9ve3k9BQgaZM) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 |
 | 4 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 |
 | 5 | [Pimjai Lam Plearn](https://open.spotify.com/track/2aNYUdDZpSDoxtE2lQTFM0) | [The Paradise Bangkok Molam International Band](https://open.spotify.com/artist/1cBpduQulXQHJaj9m0RYS8) | [Araya Lam](https://open.spotify.com/album/6bLisJtpu2YaFXWr07g0m2) | 3:17 |
 | 6 | [Renaissance \(The White Lotus\) \- Tiësto Remix](https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Renaissance \(The White Lotus\) \[Tiësto Remix\]](https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe) | 2:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 98 | [Sea Turtle Song](https://open.spotify.com/track/02dBgXCHr1NwjE5kUpeKnd) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:44 |
 | 99 | [I Want to Live](https://open.spotify.com/track/2yNwpZpPiWzVygOEZISXDa) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 5:09 |
 
-Snapshot ID: `Z7TWlAAAAACLSsoZpCO/W1tE30F1ZyVz`
+Snapshot ID: `Z7vgwwAAAAAyGcJ1IhfRCZC3Qor/a1m9`
